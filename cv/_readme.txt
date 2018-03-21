@@ -1,4 +1,4 @@
-After some time, we can rename this branch or directory, but I feel no need.
+After some time, we can rename this branch (to "b2b") or directory, but I feel no need.
 
 --diff winword files
 On github webpage ... not easy
