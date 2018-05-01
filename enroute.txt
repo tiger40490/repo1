@@ -1,6 +1,7 @@
 [e=ez]
 [c=classic]
 * try Nsdq array problem CSY solution - swap until ...
+* [c] next split@N boys
 * [c str] longest palindrome subsequence
 * [c str] regex parser with q(?)
 * [c graph] find cycle in graph
