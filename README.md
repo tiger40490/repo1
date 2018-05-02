@@ -1,6 +1,7 @@
 This README.md can be optionally inherited by any branch off master.
 
 --extraneous dir in a branch like cpp in a py branch:
+
 I would say don't delete it. It's kind of back-up. I might consider moving them to a "irrelevant" dir in the new branch.
 
 --branch descriptions
