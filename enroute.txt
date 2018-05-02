@@ -1,8 +1,8 @@
 [e=ez]
 [c=classic]
 * try Nsdq array problem CSY solution - swap until ...
-* [c] next split@N boys
-* [c str] longest palindrome subsequence
+* [c !e] next split@N boys
+* [c !e str] longest palindrome subsequence
 * [c str] regex parser with q(?)
 * [c graph] find cycle in graph
 * [c e tree] given 2 nodes in a tree, find the lowest common ancestor.
