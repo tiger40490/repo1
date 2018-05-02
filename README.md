@@ -1,4 +1,4 @@
-This README.md is inherited by any branch off master.
+This README.md can be optionally inherited by any branch off master.
 
 --branch descriptions
 * cpp1 -- mostly single-file cpp projects -- so-called lone wolves
