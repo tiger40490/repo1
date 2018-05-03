@@ -10,7 +10,7 @@
 * [c e] binary tree serialization #Deepak's solution
 * revisit AQR factorization
 * [2D] Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 then make all the cells of ith row and jth column as 1.
-* [2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1.
+--[2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1.
 * We can move in 4 directions from a given cell (i, j), i.e., we can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1) with the condition that the adjacent cells have a difference of 1.
 
 Example:
@@ -20,3 +20,17 @@ Input: mat[][] = {{1, 2, 9}
 {4, 6, 7}}
 Output: 4
 The longest path is 6-7-8-9.
+
+--in-place array reshuffle, showing full attributes per person. Requirement: given a list like
+
+{1,2,3,4,  25,29,44,33,  159,139,155,150,  177,176,169,180} which describes four Persons
+{id1,id2,..age1,age2, weight1,weight2,...height1,height2,..}
+
+Write a program to output each person's full attributes like
+
+{1, 25, 139, 177,   2, 29, 129, 176,   3, 24, 135, 169,   4, 33, 140, 180}
+
+Note the number of attributes (in this case 4) is an input parameter to your program. You don't know (or care about) the name of each attribute. If you are told there are 37 attributes in each person, just output attr1 .. attr37.
+
+Note the input and output sequence are important.
+
