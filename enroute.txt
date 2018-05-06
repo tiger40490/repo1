@@ -1,8 +1,6 @@
 [e=ez]
 [c=classic]
 * [c e] binary tree serialization #Deepak's solution
-* revisit AQR factorization
-* try Nsdq array problem CSY solution - swap until ...
 * [c !e] next split@N boys
 * [c !e str] longest palindrome subsequence
 * [c str] regex parser with q(?)
