@@ -1,6 +1,7 @@
 [e=ez]
 [c=classic]
 * [c e] binary tree serialization #Deepak's solution
+* [e] sizeN-subset producing target sum #CSY's solution
 * [c !e] next split@N boys
 * [c !e str] longest palindrome subsequence
 * [c str] regex parser with q(?)
