@@ -1,6 +1,7 @@
 [e=ez]
 [c=classic]
 * SIG movie search in STL
+* 3-way sorter -- I think can be simplified
 * [c e] binary tree serialization #Deepak's solution
 * [c e ] insertion sort
 * [c !e] next split@N boys
