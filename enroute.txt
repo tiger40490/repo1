@@ -1,8 +1,6 @@
 [e=ez]
 [c=classic]
-* Read/writer lock [[pthreads]]
-* ring buffer
-* [c] copy-on-write data structures
+* [c] ring buffer
 * SIG movie search in STL
 * 3-way sorter -- I think can be simplified
 * [c] hash table for single-threaded usage, then add thread safety
@@ -12,11 +10,11 @@
 * [c !e] next split@N boys
 * [c !e str] longest palindrome subsequence
 * [c str] regex parser with q(?)
-* [c graph] find cycle in graph
+* [c graph] find cycle in binary tree
 * [c e tree] given 2 nodes in a tree, find the lowest common ancestor.
+* [c] Q: rotate a large array (N elements) by K positions. Both N and K are potentially large, so we need 1) time efficiency 2) memory efficiency. Ideally, O(1) space and O(N) time.
 * [2D] Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 then make all the cells of ith row and jth column as 1.
---[2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1.
-* We can move in 4 directions from a given cell (i, j), i.e., we can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1) with the condition that the adjacent cells have a difference of 1.
+--[2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1. We can move in 4 directions from a given cell (i, j), i.e., we can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1) with the condition that the adjacent cells have a difference of 1.
 
 Example:
 
