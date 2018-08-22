@@ -2,7 +2,6 @@
 [c=classic]
 * [c] ring buffer
 * SIG movie search in STL
-* 3-way sorter -- I think can be simplified
 * [c] hash table for single-threaded usage
 * [c] Ref counted string [[more eff c++]]
 * [c e] binary tree serialization #Deepak's solution
