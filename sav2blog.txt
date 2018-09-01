@@ -49,18 +49,10 @@ Better consider [[compassion and self hate]] and Buddhist teaching
 
 I feel even if a kid is less brainy than average in class, he/she can still be adequate i.e. good enough.
 
---add to blog on absorbency:
-I frequently (once a month?) question my endeavor (and the ellusie strategic value) .. detrimental to absorbency. It's already hard to absorb the practice even without these self-doubts.
-* yoga
-* risk analytics
-* socket
-
-* how much technical learning you get on a 15H long flight is a measure of your absorbency.
-
-* Rahul, me and Abhinav find joy in coding drill but many of my friends seem to focus on reading the ideas rather than practicing and solving problems independently. The joy increases your absorbency
-
---'super' -- java keyword
-A super of K (a type or object) is a smaller thing than K. "baseof" would be a better keyword.
+--sleeping in pudong airport
+:) seats good. I saw some families sleeping on those.
+:( the usual noise level. There might be a few relatively quiet yet fairly safe corners
+lounges? no lie-down place
 --
 [[elevents of java style]] is recommended by peter Sestoft! A thin book, written by RogueWave practitioners.
 
