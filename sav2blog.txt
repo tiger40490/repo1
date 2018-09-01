@@ -53,6 +53,12 @@ I feel even if a kid is less brainy than average in class, he/she can still be a
 :) seats good. I saw some families sleeping on those.
 :( the usual noise level. There might be a few relatively quiet yet fairly safe corners
 lounges? no lie-down place
+--Leetcode "hard" Q124
+Given a non-empty binary tree, find the maximum path sum.
+
+For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.
+
+Simple solution -- DFT. Along each root-to-leaf nde, use the max-subarray algo and store 'maxSumEningHere' in each node. I feel this is the most efficient solution there is
 --
 [[elevents of java style]] is recommended by peter Sestoft! A thin book, written by RogueWave practitioners.
 
