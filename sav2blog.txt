@@ -61,11 +61,21 @@ For this problem, a path is defined as any sequence of nodes from some starting 
 Simple solution -- DFT. Along each root-to-leaf nde, use the max-subarray algo and store 'maxSumEningHere' in each node. I feel this is the most efficient solution there is.
 
 --leetcode hard problem 239
-Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position, return the max item in it in constant time.
+Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position, return the max item in it... constant time.
 
-Compare the min-stack.
+Note each item lives a fixed number of cycles. so insert/delete are both constrained.
 
-use a regular queue + a sorted stack
+Compare the min-stack. This is a min-queue!
+
+use a regular queue + a sorted stack?
+
+Compare skyline problem.
+
+sorted linked list with hm pointing to it for O(1) deletion. For insert, i'm thinking of binary heap again.
+
+can we use the sum?
+
+fixed capacity binary heap -- is insertion faster than O(logN)?
 --
 [[elevents of java style]] is recommended by peter Sestoft! A thin book, written by RogueWave practitioners.
 
