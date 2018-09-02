@@ -58,24 +58,17 @@ Given a non-empty binary tree, find the maximum path sum.
 
 For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.
 
-Simple solution -- DFT. Along each root-to-leaf nde, use the max-subarray algo and store 'maxSumEningHere' in each node. I feel this is the most efficient solution there is.
+Simple solution -- DFT. Along each root-to-leaf path, use the max-subarray algo and store 'maxSumEningHere' in each node. I feel this is the most efficient solution there is.
 
 --leetcode hard problem 239
 Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position, return the max item in it... constant time.
 
-Note each item lives a fixed number of cycles. so insert/delete are both constrained.
-
-Compare the min-stack. This is a min-queue!
-
-use a regular queue + a sorted stack?
-
-Compare skyline problem.
-
-sorted linked list with hm pointing to it for O(1) deletion. For insert, i'm thinking of binary heap again.
-
-can we use the sum?
-
-fixed capacity binary heap -- is insertion faster than O(logN)?
+feature -- Note each item lives a fixed number of cycles. so insert/delete are both constrained.
+feature -- Compare the min-stack. This is a min-queue!
+idea -- Compare skyline problem.
+idea -- sorted linked list with hm pointing to it for O(1) deletion. For insert? (i'm thinking of binary heap again.) I can efficiently insert above the highest or 2nd highest node or below the lowest or 2nd lowest.
+idea -- can we use the sum?
+idea -- fixed capacity binary heap -- is insertion faster than O(logN)?
 --
 [[elevents of java style]] is recommended by peter Sestoft! A thin book, written by RogueWave practitioners.
 
