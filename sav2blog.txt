@@ -1,15 +1,15 @@
 --
-When I first identify an acquaintance as an all-round high flyer, his (her) "note-worthy" achievements were invariablly rather few, thanks to my automatic filter on his other "successes" ... becasue those "successes" are, at a deep and personal level, unimportant to me. But then those things insidiously sneak past my defence into my inferiority complex and /infest/. Extremely irrational and 不值得. 
+When I first identify an acquaintance as an all-round high flyer, his (her) "note-worthy" achievements were invariablly rather few, thanks to my automatic filter on his other "success" stories ... becasue those kinds of "successes" are, at a deep and personal level, unimportant to me. But then those things insidiously sneak past my defence into my inferiority complex and /infest/. Extremely irrational and 不值得. 
 
-I would rather feel inferior to someone I know well and have many real note-worthy achievements. I doubt there's any in my circle.
+I would rather feel inferior to someone I know well and have many unrelated yet worthy achievements. I doubt there's any in my circle.
 
-Incidentally, when a public speaker is introduced on the stage, the audience often hear a list of "successes" which are mostly unimportant to me.
+Incidentally, when a public speaker is introduced on stage, the audience often hear a list of "successes" which are mostly unimportant to me.
 
 (Even though none of them is a friend I know well enough) Over the years there were a small number of acquaintances [1] I have singled out. Once I singe one out, I tend to lose my critical thinking and see many unimportant/insignificant/secondary "achievements" as enviable.  Critical thinking is badly, badly needed at such a juncture!
 
 Incidentally, one of the most effective ways to feel not-inferior is a lucrative job offer, even if I don't take it.
 
-The initial "enviable achievements" are usually one these 5
+The initial "enviable achievements" are usually one of these 5
 1) income, almost always managerial [2]
 2) investment, mostly property
 3) beautiful wife
@@ -53,6 +53,7 @@ I feel even if a kid is less brainy than average in class, he/she can still be a
 :) seats good. I saw some families sleeping on those.
 :( the usual noise level. There might be a few relatively quiet yet fairly safe corners
 lounges? no lie-down place
+:( the correct gate is known only in the last 2 hours or so
 --Leetcode "hard" Q124
 Given a non-empty binary tree, find the maximum path sum.
 
@@ -69,6 +70,8 @@ idea -- Compare skyline problem.
 idea -- sorted linked list with hm pointing to it for O(1) deletion. For insert? (i'm thinking of binary heap again.) I can efficiently insert above the highest or 2nd highest node or below the lowest or 2nd lowest.
 idea -- can we use the sum?
 idea -- fixed capacity binary heap -- is insertion faster than O(logN)?
+--My real investment allocation:
+80% property 5% alt investment 10% cash equivalent 5% stoccks or HY. Among the stocks/HY portion, I'm mostly in u.s. stocks
 --
 [[elevents of java style]] is recommended by peter Sestoft! A thin book, written by RogueWave practitioners.
 
