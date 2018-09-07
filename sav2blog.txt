@@ -47,41 +47,4 @@ A: parent can say no a few times.
 Q: avoid mcdonald's completely including pancakes? 
 A: reduce to once a month if reaching a target like 1kg/month
 ====questions for boy
-Q: Mrs Lee has a lace 120 cm, and used 1/3 to make a vest, and gave away 13 cm. How many cm of lace does she have unused?
-
-–Sep 2018, based on recent exam
-
-Q1: 4 students aa/bb/cc/dd. aa has 19 pencils,  bb has 13 pencils, cc has 31 pencils, dd has 17 pencils. Since cc has too many, she gave some to others students to make everyone equal. How many pencils did cc give dd?
-
-Q1b: 3 students aa/bb/cc. aa has 170 marbles. bb has 245. cc has 140. bb must give some to others to make everyone equal. How many would bb give aa?
-
-Q2: 21 pieces of bank notes in $2, $5, $20. Total sum is $114. How many $5 notes? Hint: what combinations of $2 notes can give a $4, $14, or $24?
-
-Boy managed to find all answers.
-
-Q3 (): Mr Lim sold total of 150 apples on 3 days. He sold 10 more apples on Wed than Monday. He sold 3 times on Tue than on Wed. How many did he sell on Monday?
-
-Q3b: how many more apples did he sell on Tue than Mon?
-Q3c: how many more apples did he sell on Tue than Wed?
-Q3d: how many more apples did he sell on Wed than Mon (won’t be in exam)?
-
-Q4: I have some marbles. If I pack them into groups of 4, I have 1 left. If I pack them into 7s, I am 3 short. If I pack them into 5s, then nothing left. How many marbles
-
-Q5: (Dabao didn’t fail the exam question) grandma plants 2 seeds on Day 1. Every day thereafter, she plants 3 more seeds than previous day. On Which day would she plant 101 seeds? On which day would she plant 18 seeds?
-
-–May 2018
-Q: A basket of chess pieces weighs 256 g. I take out 2/3 of the pieces and now it weighs 96 g.  How heavy is the empty basket?
-A: boy solved it on 4 Sep
-
-Q (has problem/error): 2 durians + 4 apples cost $8; 1 durian + 3 apple cost  $4
-* reduce
-* verify
-
-Q: Three students A/B/C. A has 2 pencils more than B; C has twice the pencils of A and B. A + B + C has 12 pencil. How many is C, A and B
-
-Q: A had 3 times the money as B. A spent $10 and now A has half the money of B.  How much A has now?
-
-Q: Meimei was 1/4 the weight of mom. Now Meimei is 1/2 the weight of mom. Mom is $50 kg. How heavy is meimei
-
-Hint 7 and 12 both can solve it.
 
