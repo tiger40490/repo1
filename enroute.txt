@@ -24,14 +24,13 @@
 * [v 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
 
 * [2D] Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 then make all the cells of ith row and jth column as 1.
-====
 --sol1
 1) typewriter scan for the next black (i.e. 1)
 2) once found, change it to brown (i.e. 2) and paint all cells on its row and its column to brown.
 3) go back to #1 until no more
 4) change all brown to black.
 
---[2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1. We can move in 4 directions from a given cell (i, j), i.e., we can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1) with the condition that the adjacent cells have a difference of 1.
+* [2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1. We can move in 4 directions from a given cell (i, j), i.e., we can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1) with the condition that the adjacent cells have a difference of 1.
 
 Example:
 
@@ -42,7 +41,6 @@ Input: mat[][] = {
 Output: 4
 The longest path is 6-7-8-9.
 
-====
 --sol1, probably O(NN) since each node is checked no more than 5 times.
 
 1) typewriter search for the first unvisited node. Exit if all visited. Once a node is found, designate it as cur.
