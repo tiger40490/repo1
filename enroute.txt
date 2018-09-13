@@ -1,33 +1,33 @@
-[e=ez]
 [c=classic]
-[v=easy to verify]
+[e=ez]
 [g=github]
-* Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, add spaces in s to construct a sentence where each word is a valid dictionary word. Return ALL such possible sentences. "Harder" than the punctuation problem.
+[L=leetcode]
+[v=easy to verify]
+Q Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, add spaces in s to construct a sentence where each word is a valid dictionary word. Return ALL such possible sentences. "Harder" than the punctuation problem.
 recurse in a loop?
 
-* Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
-* Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
+Q Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+Q Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
 just compute all pairs. For each pair, flip it and look for it in a hashtable.
 
-* [ev] Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
-* [v] median@2lists -- given two pre-sorted arrays nums1 and nums2 of size m and n respectively, find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
-* [gv] reverse slist in k-groups. If the number of nodes is not a multiple of k then left-out nodes in the end should remain as it is.
-* [cv] merge two sorted lists
-* [c] ring buffer
-* SIG movie search in STL
-* [c] hash table for single-threaded usage
-* [c] Ref counted string [[more eff c++]]
-* [c e v] binary tree serialization #Deepak's solution
-* [c e v] insertion sort
-* [c !e] next split@N boys
-* [c !e str] longest palindrome subsequence
-* [c str] regex parser with q(?)
-* [c e tree] given 2 nodes in a tree, find the lowest common ancestor.
+Q [ev] Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+Q [v] median@2lists -- given two pre-sorted arrays nums1 and nums2 of size m and n respectively, find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
+Q [gv] reverse slist in k-groups. If the number of nodes is not a multiple of k then left-out nodes in the end should remain as it is.
+Q [cv] merge two sorted lists
+Q [c] ring buffer
+Q SIG movie search in STL
+Q [c] hash table for single-threaded usage
+Q [c] Ref counted string [[more eff c++]]
+Q [c e v] binary tree serialization #Deepak's solution
+Q [c e v] insertion sort
+Q [c !e] next split@N boys
+Q [c !e str] longest palindrome subsequence
+Q [c str] regex parser with q(?)
+Q [c e tree] given 2 nodes in a tree, find the lowest common ancestor.
 Q: what if no uplink? Just run dft to find the two paths-from-root
 Q: what if with uplink? build the two paths-to-root
+Q: [Lv 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
 ===== problems below should be posted to blog
-* [c graph] find cycle in binary tree
+Q [c graph] find cycle in binary tree
 bft?
-
-* [v 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
 
