@@ -26,42 +26,8 @@ just compute all pairs. For each pair, flip it and look for it in a hashtable.
 Q: what if no uplink? Just run dft to find the two paths-from-root
 Q: what if with uplink? build the two paths-to-root
 ===== problems below should be posted to blog
-* [c] Q: rotate a large array (N elements) by K positions. Both N and K are potentially large, so we need 1) time efficiency 2) memory efficiency. Ideally, O(1) space and O(N) time.
-Say N = 6 i.e. abcdef
-K=5 i.e not sharing any common factor with N => repeat abcdefabcdef.... enough times. Object A kicks out F - E - D - C - B - .. We must hit an 'a' in the end!
-
-K=3 i.e. a factor of N. we need a few cycles. 
-
-K=4 i.e. sharing a common factor. A - E - C
-
 * [c graph] find cycle in binary tree
 bft?
 
 * [v 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
 
-* [2D] Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 then make all the cells of ith row and jth column as 1.
---sol1
-1) typewriter scan for the next black (i.e. 1)
-2) once found, change it to brown (i.e. 2) and paint all cells on its row and its column to brown.
-3) go back to #1 until no more
-4) change all brown to black.
-
-* [2D] Given a n*n matrix where all numbers are distinct, find the maximum length path (starting from any cell) such that all cells along the path are in increasing order with a difference of 1. We can move in 4 directions from a given cell (i, j), i.e., we can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1) with the condition that the adjacent cells have a difference of 1.
-
-Example:
-
-Input: mat[][] = {
-{1, 2, 9}
-{5, 3, 8}
-{4, 6, 7}}
-Output: 4
-The longest path is 6-7-8-9.
-
---sol1, probably O(NN) since each node is checked no more than 5 times.
-
-1) typewriter search for the first unvisited node. Exit if all visited. Once a node is found, designate it as cur.
-2) down-search .. explore cur's four neighbors to see if any == cur-1. 
-3) if found, then desingate that node as cur and continue the down-search.
-4) At end of down-search, Go back to #2) and start up-search. 
-5) At end of up-search we have a linked list. IIF list size > 1, then all nodes on it are marked as visited. 
-7) go back to #1. 
