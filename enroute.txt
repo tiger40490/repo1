@@ -26,7 +26,18 @@ Q [c] ring buffer
 Q SIG movie search in STL
 Q [c] hash table for single-threaded usage
 Q [c] Ref counted string [[more eff c++]]
-Q LFU (Least-Frequently-Used) cache to support the following operations: get and put in O(1)
+Q [L] max in sliding window Q (leetcode hard problem 239): Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position, return the max item in it... constant time.
+
+====analysis====
+
+feature -- Note each item lives a fixed number of cycles. so insert/delete are both constrained.
+feature -- Compare the min-stack. This is a min-queue..
+idea -- Compare skyline problem.
+idea -- sorted linked list with hm pointing to it for O(1) deletion. For insert? (i'm thinking of binary heap again.) I can efficiently insert above the highest (or 2nd highest) node, or below the lowest (or 2nd lowest).
+idea -- can we use the sum?
+idea -- fixed capacity binary heap -- is insertion faster than O(logN)?
+
+Q [L] LFU (Least-Frequently-Used) cache to support the following operations: get and put in O(1)
 * get(key) - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.
 * put(key, value) - Set or insert the value if the key is not already present. When the cache reaches its capacity, it should invalidate the least frequently used item before inserting a new item. For the purpose of this problem, when there is a tie (i.e., two or more keys that have the same frequency), the least recently used key would be evicted.
 
