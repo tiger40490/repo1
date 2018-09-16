@@ -13,31 +13,6 @@ helped boy conquer a few math problems
 spent many hours setting up accounts on leveno399 for parental control.... perhaps too much time
 dbs sms updated; onekey replaced
 
---email I sent 18 Jul
-我一直认为最值得奖励的是努力，而不是考试成绩。但实际上很难判断大宝下了多大功夫。 
-
-* 也许他比去年更努力， 但成绩却下滑。也许是四年级 科目 更难了。 我读书20年， 只有两次拿到 D （差点不及格）， 就是在大学三四年纪因为科目太难。
-* 也许是同学更厉害了。 我上中学时注意到几个女生初一考得高分，等到初三就落伍了， 不能升入我所就读的名牌中学高中部。 那几年她们没有谈恋爱， 而且一如既往地勤奋。
-* 有的学生（包括一二 年纪的我们家大宝）不太努力就是优等生。 可能是因为周围同学比较懒或家庭环境不佳。
-
-由于种种原因，从考试成绩不一定看得出大宝投入多少努力。
-
-根据几个老师的反馈，我得知大宝是有能力提高成绩的， 最明显的是华文， 再有数学。
-
-是否大宝到4 年纪开始不用功？我没把握。所以做为父亲我需要减少批评指责。（其实我也没资格指责。 我算个尖子生， 但在小学和高中并不是最用功的， 也有惰性。我还记得高中时非常勤奋的一个男生，有一次私下告诉我，他竟然没有背下一段古文。 那是老师要求背的啊！他没有自责，只是自嘲地淡淡一笑。）
-
-大宝对华文兴和数学 兴趣不高， 对难题全无信心，不应归罪为他的过错。
-
-妈妈找的补习班，留的作业他不积极做。外加上小学布置的作业，还有妈妈买的习题，他感到压力。我不知他是否有能力有决心完成， 但作业量不小。他从不会反抗， 只是磨蹭。
-
-哀其不幸， 怒其不争。 这是我们家长的感觉。
-
-大环境 -- 新加坡小学竞争太激烈，我们大宝应接不暇。怪可怜的。美国的系统可能对他更仁慈更宽厚。美国小学家长很不喜欢所谓 全省统一考试 制度。我估计他们认为12岁以下的孩子，在本校拿个 A/B/C/D/F 的成绩单就是个准确的评估了。统一考试造成很多本来 A 或 B 成绩的优良学生骤然落入劣等。
-
-新加坡就是典型的全市统一考试 制度。十几所名校的高分学生对普通邻里学校造成直接的威慑，甚至藐视。就算我们大宝在本校是中上等， 我们都清楚统一考试会如何“分级” 。。。 残酷呀。我应该考虑架个直升飞机解救大宝逃离新加坡。
-
---calligraphy -- for meimei
-
 --Q: dabao - what subject do I worry most?
 renzi? remains the #1
 应用题? not really a foundation skill. Half abstract skill (innate), Half technique like pattern recognition
@@ -72,4 +47,7 @@ croissant - butter-heavy
 brownie, chocolate cakes, birthday cakes
 fancy bakery when offered free
 
-====== update to existing blog posts
+-- email to friends about code drill
+o	longest consecutive ints ] matrix 60% done
+o	minStack
+o	cycle in btree
