@@ -2,51 +2,6 @@
 
 I feel even if a kid is less brainy than average in class, he/she can still be adequate i.e. good enough.
 
-家长对孩子评估下调, 孩子能感觉到. 不是滋味.　因此，有人提醒我, 对学习成绩的批评务必讲到两方面 --  1) 指出哪里下功夫可以提高, 2) 指出他过去努力的结果, 证明他具备足够的天分，只要努力就能改变现状. 
-
-9月这次父子接触，我做得不够好。 我对他强调的是他有一些聪明才智，但上进心不够，努力不够，勤奋不够, 练习不够,  不求甚解，缺乏克服困难的决心。
-
-出乎我的预料， 才见面几天我对他喊了 3 次了，都是针对他做数学应用题的态度。
-以前批评奶奶缺乏温柔的坚持。 我也急需温柔的坚持。
---achievement
-helped boy conquer a few math problems
-spent many hours setting up accounts on leveno399 for parental control.... perhaps too much time
-dbs sms updated; onekey replaced
-
---Q: dabao - what subject do I worry most?
-renzi? remains the #1
-应用题? not really a foundation skill. Half abstract skill (innate), Half technique like pattern recognition
-English compo? low marks but he will catch up
-Chinese compo? not really needed in his life
-
-I said many times I don't care so much about grades or  relative position in class. It requires backbone to refuse to care.
-
---I combine intake control with
-* saving money
-* saving time
-
-Therefore, office time is easy. Main problem is dinner.
-
-----Among the indulgence foods, subconsciously I put a category on each. Looks like most of these foods are western
--- ez2resist -- 
-butter, cream cheese
-onion rings
-fried chicken
-any fancy drink
-
--- ez2manage -- amount is under control. eg
-indian desert
-chocolate
-fancy pizza
-fancy nuts? not really addictive
-fancy biscuit # Subway type
-kway teow
-croissant - butter-heavy
-
--- hard2resist
-brownie, chocolate cakes, birthday cakes
-fancy bakery when offered free
-
 -- email to friends about code drill
 o	longest consecutive ints ] matrix 60% done
 o	minStack
