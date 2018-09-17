@@ -1,8 +1,3 @@
 --XR and I both tend to be keenly aware of inadequacies about self and our kids. Inferiority?
 
 I feel even if a kid is less brainy than average in class, he/she can still be adequate i.e. good enough.
-
--- email to friends about code drill
-o	longest consecutive ints ] matrix 60% done
-o	minStack
-o	cycle in btree
