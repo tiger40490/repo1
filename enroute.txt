@@ -41,14 +41,20 @@ Q [L] LFU (Least-Frequently-Used) cache to support the following operations: get
 * get(key) - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.
 * put(key, value) - Set or insert the value if the key is not already present. When the cache reaches its capacity, it should invalidate the least frequently used item before inserting a new item. For the purpose of this problem, when there is a tie (i.e., two or more keys that have the same frequency), the least recently used key would be evicted.
 
-ds -- centry i.e. CacheEntry {key, value, hitCount, lastHit, ptr to host LinkNode}
+ds -- centry i.e. CacheEntry node {key, value, hitCount, lastHit, ptrs prev/next centries, (optional) ptr to host LinkNode}
 * invariant: hitCount can only increase
-ds -- fixed-sized hashtable {key -> ptr to centry}, 
-* Every time we remove from hashtable, we must also remove from list ((follow the ptr to the host linkNode, remove the centry from its hashset))
-ds -- list of LinkNode {level, hashset of cacheEntry's, prev/next pointers } where all centry objects share the same hitCount == level.
-* invariant: the list is always sorted by level
 
-when a centry gets a hit, its hitCount goes up. It rellocates to another LinkNode ((removed from old linkNode, added to new linkNode, new host linkNode's address is saved in the centry ))
+ds -- inner list of centry nodes
+* invariant: list sorted by lastHit. 
+
+ds -- fixed-sized hashtable {key -> ptr to centry}, 
+
+ds -- outer list of LinkNode {level, inner list of centries, prev/next pointers } where all centry objects share the same hitCount == level.
+* invariant: outer list is always sorted by level
+
+when a centry gets a hit, its hitCount goes up. It relocates to a higher LinkNode ((removed from old linkNode, added to new linkNode, at Tail of inner list; new host linkNode's address is saved in the centry; ))
+
+Deletion -- always from list to hashtable, never the other way
 
 when a linkNode becomes empty, it is removed
 
