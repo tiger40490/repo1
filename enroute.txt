@@ -28,7 +28,7 @@ Q [c] hash table for single-threaded usage
 Q [c] Ref counted string [[more eff c++]]
 Q [L] max in sliding window Q (leetcode hard problem 239): Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position, return the max item in it... constant time.
 
-====analysis====
+analysis====
 
 feature -- Note each item lives a fixed number of cycles. so insert/delete are both constrained.
 feature -- Compare the min-stack. This is a min-queue..
@@ -36,10 +36,11 @@ idea -- Compare skyline problem.
 idea -- sorted linked list with hm pointing to it for O(1) deletion. For insert? (i'm thinking of binary heap again.) I can efficiently insert above the highest (or 2nd highest) node, or below the lowest (or 2nd lowest).
 idea -- can we use the sum?
 idea -- fixed capacity binary heap -- is insertion faster than O(logN)?
-
+--------------
 Q [L] LFU (Least-Frequently-Used) cache to support the following operations: get and put in O(1)
 * get(key) - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.
 * put(key, value) - Set or insert the value if the key is not already present. When the cache reaches its capacity, it should invalidate the least frequently used item before inserting a new item. For the purpose of this problem, when there is a tie (i.e., two or more keys that have the same frequency), the least recently used key would be evicted.
+
 ds -- centry i.e. CacheEntry node {key, value, hitCount, lastHit (timestamp), pointers to prev/next centries, (optional) ptr to host LinkNode}
 * invariant: hitCount can only increase
 
@@ -53,14 +54,18 @@ ds -- LinkNode {level, inner list-of-centry, prev/next pointers } where all cent
 
 ds -- outer list of LinkNodes
 
-when a centry gets a hit, its hitCount goes up. It relocates to the next higher LinkNode ((
+when a centry gets a hit, its hitCount goes up. It bubbles up to the next higher LinkNode ((
 * remove the centry from old linkNode, 
-* add it to new linkNode, at Tail of inner list. The new LinkNode could be empty or even non-existent
-* new host linkNode's address is saved in the centry; 
+* append to new linkNode, at Tail of inner list. The new LinkNode could be empty or even non-existent
+* optionally, new host linkNode's address is saved in the centry; 
 ))
 
-Deletion -- always from list to hashtable, never the other way
-
-when a linkNode becomes empty, it is removed from the outer list.
+Get() hit -- relatively easy. Update the hitCount and bubble up
+Get() miss -- trivial
+Update -- similar to get-hit
+Insertion (after deletion) -- trivil.
+Deletion -- always from list to hashtable, never the converse
+* identify lowest LinkNode, then delete the head of inner list. O(1)
+* when a linkNode becomes empty, it is removed from the outer list, to prevent build-up of consecutive empty LinkNodes leading to linear search for eviction target. Imagine aaaaa bbbbb c[need to evict]. Therefore, array of LinkNode is unacceptable
 
 ===== problems below should be posted to blog
