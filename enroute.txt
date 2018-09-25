@@ -11,15 +11,6 @@ just compute all pairs. For each pair, flip it and look for it in a hashtable.
 Total O(NN + MM), smaller than O( [N+M]^2 )
 test in leetcode?
 
-Q [ev] Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
-%%A: a test of impl skill. I would pick the list having the lowest (leading) value as the Yellow jersey (leading). (The other is the green.) 
-
-I always keep a red pointer to the last of the leading pack in the yellow. In the event of a 'swap', the red's current descendants gets detatched and becomes the green list, and the old green list moves into the yellow, and we increment the pointer.
-
-Every time after we increment the pointer, we compare its Next vs the head of the green. 
-
-I won't bother with std::list::splice() and will use python or my own linked list
-
 Q [Lv] median@2lists -- given two pre-sorted arrays nums1 and nums2 of size m and n respectively, find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
 Q [gv] reverse slist in k-groups. If the number of nodes is not a multiple of k then left-out nodes in the end should remain as it is.
 (No complexity requirement? I will aim for O(N) time and O(1) space.
