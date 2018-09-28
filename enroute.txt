@@ -22,7 +22,11 @@ Q [c !e] next split@N boys
 Q [c !e str] longest palindrome subsequence
 Q [c e tree] given 2 nodes (and root) of a binary tree, find the lowest common ancestor. A node can be a (direct/indirect) descendant of itself. All values are different. No uplink.
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
-%%A: Just run dft to find the two paths-from-root. On each path, if we detect a cycle we terminate the path.
+%%A: Just run a lazy-dft to find the two paths-from-root. On each path, if we detect a cycle we terminate that path. As soon as we find the 2 paths we terminate DFT. 
+
+If two processors are given, my dft will use two threads -- one left to right; the other right to left. This will more quickly locate the 2 target nodes if they appear near tree edges.
+
+Special case handling -- on a given path need to check if we hit both nodes, so after finding one node we must go all the way to leaf node
 
 Q [Lv 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
 Q [c graph] find cycle in binary tree? bft first.

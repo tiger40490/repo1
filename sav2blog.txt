@@ -1,3 +1,14 @@
 --XR and I both tend to be keenly aware of inadequacies/limitations/weaknesses in self and our kids. Inferiority?
 
 Rationally, even if a kid is less brainy than average in class, he/she can still be adequate i.e. good enough.
+
+--QQ interviews (to some extent, algo questions)
+measures your diligence, amount of learning effort you put in outside your work projects.
+measures your dedication and commitment to learning a dry, tough topic. Learning is not only a drudgery, but also a major challenge on a typical job. 90% of the day to day challenges involve learning, re-learning, connecting the dots..
+measures how detail-oriented a candidate is
+checks for intellectually laziness
+measures soundness of fundamental concepts in your logical "framework". In many large financial systems there are fundamental design principles that are logical. Yang was good at grasping the logical and questioning the illogical.
+measures depth of curiosity and learning
+measures technical communication with another developer
+
+Remember QQ means tough topics not needed for GTD
