@@ -3,7 +3,20 @@
 [g=github]
 [L=leetcode]
 [v=easy to verify]
-Q Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. No complexity requirement.
+
+====solution:
+Maintain a min-heap of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator pointee in O(logK).
+
+total O(N logK), better than N*logN
+
+In this design, the leading pack (i.e. min-heap) is unsorted and the trailing pack is completely unsorted.
+=========
+Q[L]: sort a list in O(N logN) but constant space? 
+
+I think swap is way to go, but recursion stack space? iterative?
+
+Q[L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
 
 Q Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
 just compute all pairs. For each pair, flip it and look for it in a hashtable.
