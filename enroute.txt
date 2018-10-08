@@ -8,7 +8,7 @@ Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth
 ====solution:
 Maintain a min-heap (or BST) of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator payload in O(logK).
 
-total O(N logK), better than N*logN
+total O(N logK), better than N*logN. Is O(N) feasible? I doubt it.
 
 In this design, the leading pack (i.e. min-heap) is unsorted and the trailing pack is completely unsorted.
 =========
