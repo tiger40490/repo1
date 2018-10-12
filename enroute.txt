@@ -19,7 +19,7 @@ Q [c !e str] longest palindrome subsequence
 
 
 Q [Lv 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
-Q [c graph] find cycle in binary tree? bft first.
+Q [c graph] find cycle in binary tree? bft first. No brute force please.
 Q [c] ring buffer
 Q SIG movie search in STL
 Q [c] hash table for single-threaded usage
