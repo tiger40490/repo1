@@ -3,15 +3,7 @@
 [g=github]
 [L=leetcode]
 [v=easy to verify]
-Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. No complexity requirement.
 
-====solution:
-Maintain a min-heap (or BST) of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator payload in O(logK).
-
-total O(N logK), better than N*logN. Is O(N) feasible? I doubt it.
-
-In this design, the leading pack (i.e. min-heap) is unsorted and the trailing pack is completely unsorted.
-=========
 Q[L]: sort a list in O(N logN) but constant space? 
 
 I think swap is way to go, but recursion stack space? iterative?
@@ -20,24 +12,11 @@ This question is easy to search online.
 
 Q[L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
 
-Q Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
-%%A: separate into (M) non-negatives and (N) negatives. get pairs among negatives (N^2).... and look up the sum in a pre-populated hash table of M items.
-Total O(NN + MM), smaller than O( [N+M]^2 )
-test in leetcode?
-
-Q [Lv] median@2lists -- given two pre-sorted arrays nums1 and nums2 of size m and n respectively, find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
-
 Q [c e v] binary tree serialization #Deepak's solution
 Q [c e v] insertion sort for array
 Q [c !e] next split@N boys
 Q [c !e str] longest palindrome subsequence
-Q [c e tree] given 2 nodes (and root) of a binary tree, find the lowest common ancestor. A node can be a (direct/indirect) descendant of itself. All values are different. No uplink.
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
-%%A: Just run a lazy-dft to find the two paths-from-root. On each path, if we detect a cycle we terminate that path. As soon as we find the 2 paths we terminate DFT. 
 
-On a given path need to check if we hit both nodes, so after finding one node we must go all the way to the leaf node or the other node.
-
-If two processors are given, my dft will use two threads -- one left to right; the other right to left. This will more quickly locate the 2 target nodes if they appear near extremities.
 
 Q [Lv 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
 Q [c graph] find cycle in binary tree? bft first.
@@ -45,4 +24,27 @@ Q [c] ring buffer
 Q SIG movie search in STL
 Q [c] hash table for single-threaded usage
 Q [c] Ref counted string [[more eff c++]]
-===== problems below should be posted to blog
+============= problems below should be posted to blog
+80% done Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. No complexity requirement.
+
+====solution:
+Maintain a min-heap (or BST) of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator payload in O(logK).
+
+total O(N logK), better than N*logN. Is O(N) feasible? I doubt it.
+
+In this design, the leading pack (i.e. min-heap) is unsorted and the trailing pack is completely unsorted.
+----
+60% done Q Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
+%%A: separate into (M) non-negatives and (N) negatives. get pairs among negatives (N^2).... and look up the sum in a pre-populated hash table of M items.
+Total O(NN + MM), smaller than O( [N+M]^2 )
+test in leetcode?
+----
+90% done Q [Lv] median@2lists -- given two pre-sorted arrays nums1 and nums2 of size m and n respectively, find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
+----
+60% done Q [c e L tree] given 2 nodes (and root) of a binary tree, find the lowest common ancestor. A node can be a (direct/indirect) descendant of itself. All values are different. No uplink.
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+%%A: Just run a lazy-dft to find the two paths-from-root. On each path, if we detect a cycle we terminate that path. As soon as we find the 2 paths we terminate DFT. 
+
+On a given path need to check if we hit both nodes, so after finding one node we must go all the way to the leaf node or the other node.
+
+IIF two CPUs are given, my dft will use two threads -- one left to right; the other right to left. This will more quickly locate the 2 target nodes if they appear near extremities.
