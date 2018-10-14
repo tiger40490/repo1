@@ -4,6 +4,7 @@
 [L=leetcode]
 [v=easy to verify]
 
+Q[L]: Given a string, find the length of the longest substring without repeating characters.
 Q[L]: sort a list in O(N logN) but constant space? 
 
 I think swap is way to go, but recursion stack space? iterative?
