@@ -1,6 +1,5 @@
 [c=classic]
 [e=ez]
-[g=github]
 [L=leetcode]
 [v=easy to verify]
 
