@@ -5,6 +5,7 @@
 [v=easy to verify]
 
 Q[L]: Given a string, find the length of the longest substring without repeating characters.
+Q[L]: Given a string containing digits from 2-9 inclusive, return in any order all possible letter combinations (not permutations) that the number could represent.
 Q[L]: sort a list in O(N logN) but constant space? 
 
 I think swap is way to go, but recursion stack space? iterative?
