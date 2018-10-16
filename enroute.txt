@@ -28,7 +28,7 @@ Q [c] Ref counted string [[more eff c++]]
 ============= problems below should be posted to blog
 80% done Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. No complexity requirement.
 
-====solution:
+analysis:
 Maintain a min-heap (or BST) of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator payload in O(logK).
 
 total O(N logK), better than N*logN. Is O(N) feasible? I doubt it.
