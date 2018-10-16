@@ -4,6 +4,11 @@
 [v=easy to verify]
 
 Q[L]: Given a string, find the length of the longest substring without repeating characters.
+Sol1 O(N):
+keep a never-shrinking sliding window + a "hashmap" of chars in it. Actualy HM is a 26-element array of "frequencies". Every time the lagging edge of the windows moves, by definition we lose one char from the HM, by decrementing its frq. If 0 then we also decrement a global var uniqCnt. 
+
+IFF uniqCnt == windowSz then window is a good. 
+
 Q[L]: Given a string containing digits from 2-9 inclusive, return in any order all possible letter combinations (not permutations) that the number could represent.
 Q[L]: sort a list in O(N logN) but constant space? 
 
