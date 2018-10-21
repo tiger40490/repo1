@@ -5,7 +5,13 @@
 
 Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
-analysis:
+Sol2: O(N). On average, we get O(N)+O(N/2) + O(N/4) + ... < O(2N)
+Use qsort partition algo to anchor a (random) pivot element. Then discard one of the two segments. Then repeat.
+
+Sol2b: 
+Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and anchor both in one scan. Then discard two of the three segments.
+
+Sol1:
 Maintain a min-heap (or BST) of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator payload in O(logK).
 
 total O(N logK), better than N*logN. Is O(N) feasible? I doubt it.
