@@ -7,6 +7,8 @@ Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth
 
 Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
 
+The "discard" -- for an array, I will overwrite those elements to a special value to indicate "discarded".
+
 Sol2a: O(N) on average -- we get O(N)+O(N/2) + O(N/4) + ... < O(2N)
 
 Use qsort partition algo to anchor a (random) pivot element. 
