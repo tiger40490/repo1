@@ -11,6 +11,13 @@ I think a few scans needed.
 
 We may need to assume all integers are 32-bit
 
+Q[L]: Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
+
+First, some basic checks:
+* If the number + 1 is a power-of-2, then discard the number, as it has almost no effect on the result. (Do keep the largest of these numbers)
+* if the number is a power-of-2, then get the power value (an natural number) and use it as array-index to save the number in a special boolean array.
+* Every other number ... I guess need to be converted to a bit vector
+
 Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
 Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
