@@ -3,6 +3,14 @@
 [L=leetcode]
 [v=easy to verify]
 
+Q[L]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
+
+:( About 26% of votes are down-votes, but I find the problem well-defined. Probably an interesting problem with a clever solution.
+
+I think a few scans needed. 
+
+We may need to assume all integers are 32-bit
+
 Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
 Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
