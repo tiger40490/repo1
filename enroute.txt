@@ -3,6 +3,10 @@
 [L=leetcode]
 [v=easy to verify]
 
+Q: pass a temp object to a func(nonref) invoking the move-ctor
+
+Q: can you overload func(nonref) with func(lvr)?
+
 Q[L]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
 :( About 26% of votes are down-votes, but I find the problem well-defined. Probably an interesting problem with a clever solution.
