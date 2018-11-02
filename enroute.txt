@@ -3,13 +3,13 @@
 [L=leetcode]
 [v=easy to verify]
 
-Q: pass a temp object to a func(nonref) invoking the move-ctor
+====Q: pass a temp object to a func(nonref) invoking the move-ctor? No. I was right to predict that compiler optimizes away the temporary
 
-Q: can you overload func(nonref) with func(lvr)?
+====Q(L]47) Given a collection of numbers that might contain duplicates, return all possible unique permutations.
 
-Q(L]47) Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+My nextPerm() should work
 
-Q[L] 135) Candy problem. There are N children standing in a line. Each child is assigned a rating value. You are giving candies * to these children subjected to the following requirements:
+====Q[L] 135) Candy problem (hard). There are N children standing in a line. Each child is assigned a rating value. You are giving candies to these children subjected to the following requirements:
 * Each child must have at least one candy.
 * Children with a higher rating get more candies than their (two) neighbors. (I guess no rule about two neighbours with same rating)
 
@@ -26,22 +26,23 @@ Input: [1,2,2]
 Output: 4
 Explanation: You can allocate to the first, second and third child with 1, 2, 1 candies respectively. (The third child gets 1 candy because it satisfies the above two conditions. )
 
-Q[L]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
+--my algo: first scan to find unique ratings. Then lowest kids all get 1. then check their neighbors ... if higher than they get 2. Repeat. After all checks, remaining kids get 1.
 
-:( About 26% of votes are down-votes, but I find the problem well-defined. Probably an interesting problem with a clever solution.
+====Q[Lv]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
-I think a few scans needed. 
+-- My O(N) algo {applicable for any-size integers and other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
 
-We may need to assume all integers are 32-bit
+greedy?
 
-Q[L]: Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
+O(1) space probably means swapping
+====Q[L]: Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
 First, some basic checks:
 * If the number + 1 is a power-of-2, then discard the number, as it has almost no effect on the result. (Do keep the largest of these numbers)
-* if the number is a power-of-2, then get the power value (an natural number) and use it as array-index to save the number in a special boolean array.
+* if the number is a power-of-2, then get the power value (a natural number) and use it as array-index to update a special boolean vector.
 * Every other number ... I guess need to be converted to a bit vector
 
-Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
+====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
 Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
 
@@ -54,33 +55,21 @@ Note average complexity is acceptable in hashtable!
 Sol2b: 
 Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and anchor both in one scan. Then discard two of the three segments.
 
-Sol1:
-Maintain a min-heap (or BST) of capacity K, initialized with any K elements. Then start scan. compare top with iterator. iif iterator is strictly bigger then remove the top and insert the iterator payload in O(logK).
-
-total O(N logK), better than N*logN. Is O(N) feasible? I doubt it.
-
-In this design, the leading pack (i.e. min-heap) is unsorted and the trailing pack is completely unsorted.
-
-Q[L]: Given a string containing digits from 2-9 inclusive, return in any order all possible letter combinations (not permutations) that the number could represent.
-Q[c L]: sort a list in O(N logN) but constant space? 
-
+====Q[L]: Given a string containing digits from 2-9 inclusive, return in any order all possible letter combinations (not permutations) that the number could represent.
+====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
 This question is easy to search online.
+====Q [c e v] insertion sort for array
+====Q[c !e L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+====Q [c !e] next split@N boys
+====Q [c !e str] longest palindrome subsequence
 
-Q [c e v] binary tree serialization #Deepak's solution
-Q [c e v] insertion sort for array
-Q[c !e L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
-Q [c !e] next split@N boys
-Q [c !e str] longest palindrome subsequence
-
-
-Q [Lv 2D] GO: Given a binary matrix, capture each 'o' region surrounded by 'X'. A region is captured by flipping all 'o's into 'X'. Boundary o's cannot be captured.
-Q [c graph] find cycle in binary tree? See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
-Q [c] ring buffer
-Q SIG movie search in STL
-Q [c] hash table for single-threaded usage
-Q [c] Ref counted string [[more eff c++]]
+====Q [c graph] find cycle in binary tree? See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
+====Q [c] ring buffer
+====Q SIG movie search in STL
+====Q [c] hash table for single-threaded usage
+====Q [c] Ref counted string [[more eff c++]]
 ============= problems below should be posted to blog
 ----
 60% done Q Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
