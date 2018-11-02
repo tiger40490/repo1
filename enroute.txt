@@ -7,6 +7,23 @@ Q: pass a temp object to a func(nonref) invoking the move-ctor
 
 Q: can you overload func(nonref) with func(lvr)?
 
+Q[L] 135) Candy problem. There are N children standing in a line. Each child is assigned a rating value. You are giving candies * to these children subjected to the following requirements:
+* Each child must have at least one candy.
+* Children with a higher rating get more candies than their (two) neighbors. (I guess no rule about two neighbours with same rating)
+
+What is the minimum candies you must give?
+
+Example 1:
+
+Input: [1,0,2]
+Output: 5
+Explanation: You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
+Example 2:
+
+Input: [1,2,2]
+Output: 4
+Explanation: You can allocate to the first, second and third child with 1, 2, 1 candies respectively. (The third child gets 1 candy because it satisfies the above two conditions. )
+
 Q[L]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
 :( About 26% of votes are down-votes, but I find the problem well-defined. Probably an interesting problem with a clever solution.
