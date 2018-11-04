@@ -5,10 +5,6 @@
 
 ====Q: pass a temp object to a func(nonref) invoking the move-ctor? No. I was right to predict that compiler optimizes away the temporary
 
-====Q(L]47) Given a collection of numbers that might contain duplicates, return all possible unique permutations.
-
-My nextPerm() should work
-
 ====Q[L] 135) Candy problem (hard). There are N children standing in a line. Each child is assigned a rating value. You are giving candies to these children subjected to the following requirements:
 * Each child must have at least one candy.
 * Children with a higher rating get more candies than their (two) neighbors. (I guess no rule about two neighbours with same rating)
