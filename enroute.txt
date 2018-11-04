@@ -22,7 +22,7 @@ Input: [1,2,2]
 Output: 4
 Explanation: You can allocate to the first, second and third child with 1, 2, 1 candies respectively. (The third child gets 1 candy because it satisfies the above two conditions. )
 
---my algo: first scan to find unique ratings. Then lowest kids all get 1. then check their neighbors ... if higher than they get 2. Repeat. After all checks, remaining kids get 1.
+--my algo: first scan to find unique ratings. Then lowest kids all get 1. then check their neighbors ... if higher then they get 2. Repeat. After all checks, remaining kids get 1.
 
 ====Q[Lv]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
