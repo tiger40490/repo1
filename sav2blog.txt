@@ -14,29 +14,6 @@ It pays to reduce the duration of the long segment, so avoid HK or Guangzhou.
 
 Only HK and BJ provide airside hourly hotel
 
---unbroken.. on this flight
-No movie
-flossing
-etfcfg reading
-briefly read both books
-tech blog review
-lucky to get an aisle seat
-
---flight tips
-yoga block proved an effective back support
-
---diet
-family meals will be fairly heavy, but outside meals I will try to delay or skip
-#1 goal -- reduce starch
-more fish and meat
-raw cellery, ..
-more vegie, less rice
-more milk and juice 
-avoid cakes or ice cream
-
---boy using my laptop for gaming?
-boy to run 10 rounds.
-
 --I used to feel zbs will make me a great contributor to any system, but now I realize localSys is more important.
 
 In Citi muni, I wanted to use remote debugging to understand how the localsys worked, but even the best tool was only helping me in the battle between my brain power and the cummulative brain power sunk in
