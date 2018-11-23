@@ -4,26 +4,8 @@
 * survival tip for boy and dad: avoid temptation
 * sugg for boy: get used to skipping meals on a regular basis. It will help in the long run.
 * Don't blame wife/gm cooking. i chose to face the temptation and lost
---blog on "big bright world"
-so we are talking about which items in the 5advantages blog? Age-friendly and huge job pool, with premium salary + lower stress.
---blog on Y I chose eqSwap
-5) quant dev including CVA
-major reason: mileage with bigger c++ systems. See blog on [[t-investment: c++now]]
-minor reason: check out Bayonne where I'm likely to buy home
---blog on [[focus]]
-similar to Yixin's case, I guess the initial code complexity ...
 --blog on realistic next goal
-A: maintain salary.. higher job security
-A: increase speed over-the-hump
-A: effective influence on kids? ... not really a goal for "working hard"
 --blog on incinc
-[p] portable GTD skills (eg instrumentation)
-[p] improve localSys learning process to speed up get-over-the-hump
-[m] algo practice
-socket QQ/GTD? not directly increasing my income but prevent income decline
-[m] low level QQ topics in ARM, linux, STL, concurrency
-[m=muscle building for iv]
-[p=can help me take on a high-paying lead dev role. If too tough, then we can still count on these items to help improve our stress profile; self-esteem; job security; bonus... ]
 --blog on looking forward to
 [14] satisfaction getting over the hump on localSys nlg
 [1] more insight about parenting, self-discovery... via blogging
