@@ -3,13 +3,14 @@
 [L=leetcode]
 [v=easy to verify]
 
-
 ====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
 First, some basic checks:
 * if the range includes a power-of-2, then get the power value (a natural number) and use it as array-index to update a special boolean vector.
 * the lowest bit will most likely see 0 and 1 so ... becomes zero
 * if the range has size > 8 then lowest 3 bits all zeroed out
+
+imagine the bit vector incrementing from m to n. We want to find out if there's a higher portion that stay the same, but we may get a power-of-2 within the range
 
 ====Q[L] 135) Candy problem (hard). There are N children standing in a line. Each child is assigned a rating value. You are giving candies to these children subjected to the following requirements:
 * Each child must have at least one candy.
