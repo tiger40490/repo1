@@ -3,9 +3,6 @@
 [L=leetcode]
 [v=easy to verify]
 
-====Q: pass a temp object to a func(nonref) invoking the move-ctor? No. I was right to predict that compiler optimizes away the temporary
-
-let us recheck our experiment... get to the bottom
 
 ====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
@@ -61,6 +58,8 @@ Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and a
 I think swap is way to go, but recursion stack space? iterative?
 
 This question is easy to search online.
+====Q: pass a temp object to a func(nonref) invoking the move-ctor? No. I was right to predict that compiler optimizes away the temporary. See my experiment in github
+
 ====Q [c e v] insertion sort for array
 ====Q[c !e L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
 ====Q [c !e] next split@N boys
