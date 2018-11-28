@@ -5,6 +5,15 @@
 
 ====Q: pass a temp object to a func(nonref) invoking the move-ctor? No. I was right to predict that compiler optimizes away the temporary
 
+let us recheck our experiment... get to the bottom
+
+====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
+
+First, some basic checks:
+* if the range includes a power-of-2, then get the power value (a natural number) and use it as array-index to update a special boolean vector.
+* the lowest bit will most likely see 0 and 1 so ... becomes zero
+* if the range has size > 8 then lowest 3 bits all zeroed out
+
 ====Q[L] 135) Candy problem (hard). There are N children standing in a line. Each child is assigned a rating value. You are giving candies to these children subjected to the following requirements:
 * Each child must have at least one candy.
 * Children with a higher rating get more candies than their (two) neighbors. (I guess no rule about two neighbours with same rating)
@@ -24,19 +33,15 @@ Explanation: You can allocate to the first, second and third child with 1, 2, 1 
 
 --my algo: first scan to find unique ratings. Then lowest kids all get 1. then check their neighbors ... if higher then they get 2. Repeat. After all checks, remaining kids get 1.
 
-====Q[Lv]: Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
+i find this problem contrived and unclear... to be removed
 
--- My O(N) algo {applicable for any-size integers and other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
+====Q[Lv]: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
+well-defined problem:)
 greedy?
-
 O(1) space probably means swapping
-====Q[L]: Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
-
-First, some basic checks:
-* If the number + 1 is a power-of-2, then discard the number, as it has almost no effect on the result. (Do keep the largest of these numbers)
-* if the number is a power-of-2, then get the power value (a natural number) and use it as array-index to update a special boolean vector.
-* Every other number ... I guess need to be converted to a bit vector
+mutable?
+-- My O(N) algo {applicable for any-size integers and other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
 
 ====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
@@ -49,7 +54,7 @@ Use qsort partition algo to anchor a (random) pivot element.
 Note average complexity is acceptable in hashtable!
 
 Sol2b: 
-Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and anchor both in one scan. Then discard two of the three segments.
+Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and anchor both in one scan. Then discard two of the three segments. Is this really algorithmically better? I think so since we discard more irrelevant segments faster
 
 ====Q[L]: Given a string containing digits from 2-9 inclusive, return in any order all possible letter combinations (not permutations) that the number could represent.
 ====Q[c L]: sort a list in O(N logN) but constant space? 
