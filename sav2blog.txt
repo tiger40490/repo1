@@ -1,3 +1,26 @@
+====boy's improvement
+以前爸爸记得大宝只能读懂幼儿读物， 现在上千字小学低年级中文故事能读懂。 带拼音的。 细微词义把握不准（考试要求）， 但理解大意没问题（读报足够）. 
+钢琴那一两首 听起来挺娴熟的。 弹出节奏一直是难点，大宝稍有改进。 可能比不上某些孩子，但比没学过的人强多了。 其实没必要比别人。
+华文补习每周都有作业要背几句范文， 还有时要默写。 以前大宝最没兴致，没自觉性，这几天不用提醒他都知道要完成。 可能也因为放假了没别的作业。
+--long flight
+The shorter segment is always much lighter strain on the body. Less severe effects of long sleep-deprivation and "confinement"-induced muscle stiffness .
+
+It pays to reduce the duration of the long segment, so avoid HK or Guangzhou.
+
+Only HK and BJ provide airside hourly hotel.
+--movies for future flights
+Flight to NY is more stressful, so consider movies. No guilt. Consider Einstein and grandpa. I want to be kind to myself as I am to my kids.
+
+If can sleep then no need for movie.
+
+* Favor Jap, Chinese. In the emotional genres, western movies never touched me except [[ForrestGump]], [[CuriousCase]]. 
+* The most touching movies tend to be love, family...
+* Favor adaptations of books
+* favor award winners (except special effects award) -- minimum quality standard
+* avoid action or crime genres.
+* avoid superheros or scifi genres
+* avoid period drama
+* avoid romantic comedies .. too light-hearted, not serious enough.
 --striving towards 
 burn not rot
 #1) more coding drill 
@@ -6,8 +29,8 @@ minimalist lifestyle,
 minimizing dependency, 
 less food, more exercise
 
---oily starch (including the paste on fried chicken skin) feels worse than ice cream or sugary drinks
---boy isn't as addicted to ice cream as I am. He chose fruit juice, drinks and chendol instead
+--those oily or starchy foods (including the paste on fried chicken skin) get stored in the body so definitely not better than raw vegie/fruits
+
 --boy agreed to jog for 9 minutes and cycle for 9 minutes. The attitude alone is commendable.
 --productivity concept
 Wasted human potential is more apparent in PHL than SGP
@@ -28,10 +51,6 @@ A: I used to prefer closer, but now I think 1-hour distance is acceptable given 
 
 Q: Do you have a family or as a single?
 
-====boy's improvement
-以前爸爸记得大宝只能读懂幼儿读物， 现在上千字小学低年级中文故事能读懂。 带拼音的。 细微词义把握不准（考试要求）， 但理解大意没问题（读报足够）. 
-钢琴那一两首 听起来挺娴熟的。 弹出节奏一直是难点，大宝稍有改进。 可能比不上某些孩子，但比没学过的人强多了。 其实没必要比别人。
-华文补习每周都有作业要背几句范文， 还有时要默写。 以前大宝最没兴致，没自觉性，这几天不用提醒他都知道要完成。 可能也因为放假了没别的作业。
 ====unbroken (mastered in 0.txt)
 * remote productivity better than feared. I might outperform myself even more if I spent more hours at work.
 * diet better than feared -- about 40% lower. I think I would feel much better by skipping home dinner a few times, and eating raw carrot more often
@@ -78,34 +97,7 @@ Rationally, even if a kid is less brainy than average in class, he/she can still
 --improvement (like new kitchen) to a house leads to faster appreciation than on a condo
 #1 advantage of condo is price tag
 
---long flight
-The shorter segment is always much lighter strain on the body. Less severe effects of long sleep-deprivation and "confinement"-induced muscle stiffness .
-
-It pays to reduce the duration of the long segment, so avoid HK or Guangzhou.
-
-Only HK and BJ provide airside hourly hotel.
-
 --I used to feel zbs will make me a great contributor to any system, but now I realize localSys is more important.
 
 In Citi muni, I wanted to use remote debugging to understand how the localsys worked, but even the best tool was only helping me in the battle between my brain power and the cummulative brain power sunk in
 
---movies for future flights
-Flight to NY is more stressful, so consider movies. No guilt. Consider Einstein and grandpa. I want to be kind to myself as I am to my kids.
-
-If can sleep then no need for movie.
-
-* Favor Jap, Chinese. In the emotional genres, western movies never touched me except [[ForrestGump]], [[CuriousCase]]. 
-* The most touching movies tend to be love, family...
-* Favor adaptations of books
-* favor award winners (except special effects award) -- minimum quality standard
-* avoid action or crime genres.
-* avoid superheros or scifi genres
-* avoid period drama
-* avoid romantic comedies .. too light-hearted, not serious enough.
-
-Here are some promising titles
-[[我的影子在奔跑]] 亲子
-
-[[捍卫者]] 历史
-[[遇上世界上另一个你]] Jap love story
-man vs wild
