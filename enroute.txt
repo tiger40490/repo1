@@ -5,12 +5,32 @@
 
 ====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
-First, some basic checks:
-* if the range includes a power-of-2, then get the power value (a natural number) and use it as array-index to update a special boolean vector.
 * the lowest bit will most likely see 0 and 1 so ... becomes zero
 * if the range has size > 8 then lowest 3 bits all zeroed out
 
-imagine the bit vector incrementing from m to n. We want to find out if there's a higher portion that stay the same, but we may get a power-of-2 within the range
+imagine the object incrementing from m to n. We want to find out if there's a stable higher portion, but we may get a power-of-2 within the range, wiping out the stable...
+
+We can convert m and n to two bit vectors. we can look at some examples below. we can compare the two bit vectors left to right to find the "higher portion". All lower bits are probably zeroed out in the result
+
+10110101
+10110100
+10110011
+10110010
+10110001
+-----
+10110000
+
+--My algo
+1) determine if there are some power-of-2 within the range. If there is, then find the highest power-of-2. That bit pattern is probably the final result.
+From now on let's suppose there's no power-of-2.
+
+2) compare the two bit patterns m and n left to right to find the "stable higher portion"
+
+Now focus on the lower portion. Look at the length of the range sz 
+
+3) if sz is a power-of-2 like 8, then last 3 bits zero out and all other bits are in the stable portion.
+
+4) suppose sz is between 8 and 16, then last 3 bits would zero out. Only need to work out the 4th bit. Just look at the 4th bit in m vs n
 
 ====Q[L] 135) Candy problem (hard). There are N children standing in a line. Each child is assigned a rating value. You are giving candies to these children subjected to the following requirements:
 * Each child must have at least one candy.
