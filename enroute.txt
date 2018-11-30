@@ -20,6 +20,11 @@ We can convert m and n to two bit vectors. we can look at some examples below. w
 -----
 10110000
 
+--shorter algo
+compare m and n left to right. If m is shorter, then find the highest power-of-2 within the range.
+
+if same length, then compare left to right until a difference is found. Until that bit, all leftend bits are "retained".
+
 --My algo
 1) determine if there are some power-of-2 within the range. If there is, then find the highest power-of-2. That bit pattern is probably the final result.
 From now on let's suppose there's no power-of-2.
