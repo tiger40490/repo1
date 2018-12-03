@@ -1,9 +1,11 @@
-weekend come to office to practice coding and study etscfg 
 
 walmart to get Chrismas new bike, with handle raised and brake adjusted
-
-It takes huge effort to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card...) to increase the extraction rate
-
+--weekly coding drill
+versioned queue -- reviewed
+max path sum -- reviewed
+balloons -- started
+AND of cont range -- breakthrough
+--It takes huge effort to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card...) to increase the extraction rate
 --long flight
 The shorter segment is always much lighter strain on the body. Less severe effects of long sleep-deprivation and "confinement"-induced muscle stiffness .
 

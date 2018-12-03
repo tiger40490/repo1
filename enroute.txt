@@ -3,7 +3,7 @@
 [L=leetcode]
 [v=easy to verify]
 
-====Q[L312]: Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array nums. You are asked to burst all the balloons. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
+====Q[L312]: Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array nums. You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
 
 0 ≤ nums[i] ≤ 100
 
@@ -15,13 +15,13 @@ Explanation: nums = [3,1,5,8] --> [3,5,8] -->   [3,8]   -->  [8]  --> []
 array2 -- obvious decision
 array3 -- With trough then I can prove we should always burst the trough
 if ascending like illustrated, then I can prove the Explanation is aways optimal
-if peak? Depends on the 2 side values. [2,3] or higher .. should burst the peak. 
+if peak? Depends on the left/right. if lr > l+r+1 then should burst the peak. 
 
 Looks like a DP idea
 
-I see each possible snapshot (having K balloons) is a graph node. 1 Starting node, n ending nodes.  Each node has K downtream nodes.
+I see each possible snapshot (having K balloons) as a graph node. 1 Starting node, n ending nodes.  Each node has K child or downstream nodes. This graph now suggests brute force but it might be the only way to solve the problem, like the bbg odometer.
 
-Looks like brute force but this might be the only way to solve the problem, like the bbg odometer.
+But the 2nd last layer has too many nodes
 
 ====Q[L]: Q: (Leetcode "hard" Q124) Given a non-empty binary tree of signed integers, find the maximum path sum. For this problem, a path is defined as any sequence of nodes from any starting node to any node in the tree along the parent->child connections. The path must contain at least one node and does not need to go through the root. No uplink
 
