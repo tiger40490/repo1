@@ -21,11 +21,14 @@ Looks like a DP idea
 
 I see each possible snapshot (having K balloons) as a graph node. 1 Starting node, n ending nodes.  Each node has K child or downstream nodes. This graph now suggests brute force but it might be the only way to solve the problem, like the bbg odometer.
 
-But the 2nd last layer has too many nodes
+But the 2nd last layer has too many nodes. We need to prune the tree.
 
 ====Q[L]: Q: (Leetcode "hard" Q124) Given a non-empty binary tree of signed integers, find the maximum path sum. For this problem, a path is defined as any sequence of nodes from any starting node to any node in the tree along the parent->child connections. The path must contain at least one node and does not need to go through the root. No uplink
 
-==My solution -- DFT. Along each root-to-leaf path, use the max-subarray (Kadane) algo and store maxSumEndingHere value in each node, for reuse.
+--My solution -- DFT. Along each root-to-leaf path, use the max-subarray (Kadane) algo and store maxSumEndingHere value in each node, for reuse.
+
+first milestone: write a function to print every root-to-leaf path
+
 https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit
 
 ====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.

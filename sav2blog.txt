@@ -1,10 +1,14 @@
 
 walmart to get Chrismas new bike, with handle raised and brake adjusted
---weekly coding drill
-versioned queue -- reviewed
-max path sum -- reviewed
-balloons -- started
-AND of cont range -- breakthrough
+
+--
+Q: why do I feel c# is not as long-living as java and C (the longest-living)?
+Java is not tied to any OS. Java is used on windows + many unix derivatives including linux and android, whereas c# and objective-C are tied to particular platforms.
+
+I believe every majory platform has a C interface.
+
+However look at Perl. It is cross-platform but was displaced by python.
+
 --It takes huge effort to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card...) to increase the extraction rate
 --long flight
 The shorter segment is always much lighter strain on the body. Less severe effects of long sleep-deprivation and "confinement"-induced muscle stiffness .

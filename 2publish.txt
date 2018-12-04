@@ -1,3 +1,9 @@
+--weekly coding drill
+versioned queue -- reviewed
+max path sum -- reviewed
+balloons -- started
+AND of cont range -- breakthrough
+
 --add to blog on intake control or breakfast skip or high-protein diet
 Now I foresee that any composition change without overall intake reduction is unlikely to reduce my weight, so delaying/skipping meals now become more important than before. I think it will help me reach the next target of 140 lbs
 ====boy's improvement
