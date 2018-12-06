@@ -36,6 +36,19 @@ first milestone: write and test a function to print every root-to-leaf path
 
 https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit
 
+====Q: on blog... Modified from Leetcode problem 17. Suppose there is nothing but one red button. and there are C (like 7) letters on it.
+
+Q: With 4 (=N) draws from 3 (=C) letters (same phone pad button), how many permutations? C^N.
+Q: With 4 (=N) draws from 3 (=C) letters, how many combinations?
+
+For N=1, Ans=3
+For N=2, Ans=6
+For N=3, Ans=? Not obvious
+
+-–sol-i: incremental solution — for N=3, given one combo, find the “next” combo. For example after bbc, we should get bcc.
+
+I guess this design is actually fairly simple and efficient, probably similar to  https://github.com/tiger40490/repo1/blob/cpp1/cpp/combo_permu/nextCombo/iterative.cpp
+
 ====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
 * the lowest bit will most likely see 0 and 1 so ... becomes zero
