@@ -1,6 +1,11 @@
 
 walmart to get Chrismas new bike, with handle raised and brake adjusted
-
+--
+I admire peers' efforts and nlg (not status) on
+* wellness
+* investment
+* zbs, portable GTD, not localSys
+* parenting
 --add to blog on OM arch at MS
 For crash recovery, every order and every fill is persisted in non-volatile memory , and often swapped out to disk to free up memory. These records are cleared only at EOD. Consequently, any fill can be busted any time before EOD.
 --secDB derivatives:
