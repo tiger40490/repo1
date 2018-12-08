@@ -3,6 +3,12 @@
 [L=leetcode]
 [v=easy to verify]
 
+--It's relatively easy n enjoyable to review some of the classicGenerators problems.
+approaches to generator problems
+* p2u in next_perm
+* append to each vector in a growing collection
+* insert into every position in a vector in a collection
+
 ====Q[L312]: Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array nums. You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
 
 0 ≤ nums[i] ≤ 100
@@ -51,6 +57,20 @@ Example:
 
 Input: "23"
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]. 
+
+--we need good variable names. The utility function would be
+set<vector<char>> gen(vector<char> const & lob /*lettersOnOneButton*/ , int repeat)
+type alias LOB for vector<char> or possibly a string
+To minimize confusion, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digit any more.
+222223444 would become {str_button -> bundle {set<vector<char>>, repeat, LOB}} ..{"er"->5 reps ...}
+
+struct Bundle{
+  set<vector<char>> club
+  size_t repeat;
+  LOB lob;
+};
+
+Miletone: the map is populated with the clubs. Now generate combos ... better use "append" approach.
 
 ====Q[L]: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
