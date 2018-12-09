@@ -1,20 +1,7 @@
 
 walmart to get Chrismas new bike, with handle raised and brake adjusted
---
-I admire peers' efforts and nlg (not status) on
-* wellness
-* investment
-* zbs, portable GTD, not localSys
-* parenting
---add to blog on OM arch at MS
-For crash recovery, every order and every fill is persisted in non-volatile memory , and often swapped out to disk to free up memory. These records are cleared only at EOD. Consequently, any fill can be busted any time before EOD.
---secDB derivatives:
-BlackRock
-Pimco and Macquarie licensed Beacon.
-CS hired two secDB veterans to build ... on java
-MS has a RCE (risk calc engine) project, based on scala.
-UBS tried it too.
---Q: why do I feel c# is not as long-living as java and C (the longest-living)?
+
+--Q: why do I feel c# as a marketable skill is not as long-living as java and C (the longest-living)?
 A: Java is not tied to any OS. Java is used on windows + many unix derivatives including linux and android, whereas c# and objective-C are tied to particular platforms.
 
 I believe every majory platform has a C interface.
