@@ -42,7 +42,7 @@ first milestone: write and test a function to print every root-to-leaf path
 
 https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit
 
-====Q[Lv] : Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
+====Q[Lv] : Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
 3: def
@@ -109,15 +109,17 @@ Now focus on the lower portion. Look at the length of the range sz
 
 4) suppose sz is between 8 and 16, then last 3 bits would zero out. Only need to work out the 4th bit. Just look at the 4th bit in m vs n
 
-====Q[Lv]: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
+====Q[Lv] 50%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
 well-defined problem:)
 greedy?
 O(1) space probably means swapping
 mutable?
--- My O(N) algo {applicable for any-size integers and other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
+-- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
 
 ====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
+
+I think we should read some hints.
 
 Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
 
@@ -130,7 +132,6 @@ Note average complexity is acceptable in hashtable!
 Sol2b: 
 Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and anchor both in one scan. Then discard two of the three segments. Is this algorithmically better? I think so since we discard more irrelevant segments faster
 
-====Q[L]: Given a string containing digits from 2-9 inclusive, return in any order all possible letter combinations (not permutations) that the number could represent.
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
@@ -139,7 +140,8 @@ This question is easy to search online.
 ====Q[c !e L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
 ====Q [c !e] next split@N boys
 ====Q [c !e str] longest palindrome subsequence
-====Q [c graph] find cycle in binary tree? See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
+====Q [c graph] find cycle in binary tree? should read some hints.
+See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
 ====Q [c] ring buffer
 ====Q SIG movie search in STL
 ============= problems below should be posted to blog
