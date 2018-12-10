@@ -85,3 +85,5 @@ Q[L] 60%: Given an array nums of n integers, are there elements a, b, c in nums 
 %%A: separate into (M) non-negatives and (N) negatives. get pairs among negatives (N^2).... and look up the sum in a pre-populated hash table of M items.
 Total O(NN + MM), smaller than O( [N+M]^2 )
 test in leetcode?
+
+====Q [c e v] insertion sort for array

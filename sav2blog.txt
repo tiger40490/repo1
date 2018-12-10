@@ -1,6 +1,8 @@
 
 walmart to get Chrismas new bike, with handle raised and brake adjusted
 
+--I used to think ascii config files are inefficient and amaterish. That's nothing but speculation based on Windows convention, except the windows *.ini files. In the Unix convention all config files are ascii.
+
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card...) to increase the extraction rate
 
 --long flight
