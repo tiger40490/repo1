@@ -1,0 +1,87 @@
+====Q [c e L tree] 60%. given 2 nodes (and root) of a binary tree, find the lowest common ancestor. A node can be a (direct/indirect) descendant of itself. All values are different. No uplink.
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+%%A: Just run a lazy-dft to find the two paths-from-root. On each path, if we detect a cycle we terminate that path. As soon as we find the 2 paths we terminate DFT. 
+
+On a given path need to check if we hit both nodes, so after finding one node we must go all the way to the leaf node or the other node.
+
+IIF two CPUs are given, my dft will use two threads -- one left to right; the other right to left. This will more quickly locate the 2 target nodes if they appear near extremities.
+
+====Q[L] 80%: (Leetcode "hard" Q124) Given a non-empty binary tree of signed integers, find the maximum path sum. For this problem, a path is defined as any sequence of nodes from any starting node to any node in the tree along the parent->child connections. The path must contain at least one node and does not need to go through the root. No uplink
+
+--My solution -- DFT. Along each root-to-leaf path, use the max-subarray (Kadane) algo and store maxSumEndingHere value in each node, for reuse.
+
+first milestone: write and test a function to print every root-to-leaf path
+
+https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit
+
+====Q[Lv] : Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
+
+2: abc
+3: def
+4: ghi
+5: jkl
+6: mno
+7: pqrs
+8: tuv
+9: wxyz
+
+Example:
+
+Input: "23"
+Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]. 
+
+--we need good variable names. The utility function would be
+set<vector<char>> gen(vector<char> const & lob /*lettersOnOneButton*/ , int repeat)
+type alias LOB for vector<char> or possibly a string
+To minimize confusion, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digit any more.
+222223444 would become {str_button -> bundle {set<vector<char>>, repeat, LOB}} ..{"er"->5 reps ...}
+
+struct Bundle{
+  set<vector<char>> club
+  size_t repeat;
+  LOB lob;
+};
+
+Miletone: the map is populated with the clubs. Now generate combos ... better use "append" approach.
+
+====Q[Lv] 50%: Given a continous range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
+
+* the lowest bit will most likely see 0 and 1 so ... becomes zero
+* if the range has size > 8 then lowest 3 bits all zeroed out
+
+imagine the bit array object incrementing from m to n. We want to find out if there's a stable higher portion, but we may get a power-of-2 within the range, wiping out the stable...
+
+We can convert m and n to two bit images. we can look at some examples below. we can compare the two bit images left to right to find the "higher portion" ( which would be null if po2 occurs). All lower bits are probably zeroed out in the result
+
+10110101
+10110100
+10110011
+10110010
+10110001
+-----
+10110000
+
+--shorter solution
+compare m and n left to right. If m is shorter, then find the highest power-of-2 within the range. That bit image is probably the final result.
+
+eg 1 to 1001
+
+if same length, then compare left to right until a difference is found. Until that bit, all leftend bits are "retained".
+
+--solution 1
+1) determine if there are some power-of-2 within the range. If there is, then find the highest power-of-2. 
+That bit pattern is probably the final result.
+From now on let's suppose there's no power-of-2.
+
+2) compare the two bit patterns m and n left to right to find the "stable higher portion"
+
+Now focus on the lower portion. Look at the length of the range sz 
+
+3) if sz is a power-of-2 like 8, then last 3 bits zero out and all other bits are in the stable portion.
+
+4) suppose sz is between 8 and 16, then last 3 bits would zero out. Only need to work out the 4th bit. Just look at the 4th bit in m vs n
+
+Q[L] 60%: Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(NN)
+%%A: separate into (M) non-negatives and (N) negatives. get pairs among negatives (N^2).... and look up the sum in a pre-populated hash table of M items.
+Total O(NN + MM), smaller than O( [N+M]^2 )
+test in leetcode?

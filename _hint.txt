@@ -1,0 +1,17 @@
+====Q [c graph] find cycle in binary tree? should read some hints.
+See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
+
+====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
+
+I think we should read some hints.
+
+Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
+
+Sol2a: O(N) on average -- we get O(N)+O(N/2) + O(N/4) + ... < O(2N)
+
+Use qsort partition algo to anchor a (random) pivot element. 
+
+Note average complexity is acceptable in hashtable!
+
+Sol2b: 
+Instead of standard partition algo, we can pick two pivot (pivotL, pivotH) and anchor both in one scan. Then discard two of the three segments. Is this algorithmically better? I think so since we discard more irrelevant segments faster
