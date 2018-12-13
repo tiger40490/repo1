@@ -1,5 +1,3 @@
-need solution to friend dinners..
-
 walmart to get Chrismas new bike, with handle raised and brake adjusted. tbudget 1H
 
 --I used to think ascii config files are inefficient and amaterish. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
@@ -34,7 +32,7 @@ Q: Do you have a family or as a single?
 
 ====unbroken
 * diet better than feared -- about 40% lower. I think I would feel much better by skipping home dinner a few times, and eating raw carrot more often
-* reunions were satisfying, immediate and without difficulty, better than feared
+* reunions were gratifying/satisfying, immediate and without difficulty, better than feared
 * boy's weight maintained
 * boy's grades
 * boy's Chinese reading / renzi
