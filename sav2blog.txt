@@ -1,32 +1,23 @@
+need solution to friend dinners..
 
-walmart to get Chrismas new bike, with handle raised and brake adjusted
+walmart to get Chrismas new bike, with handle raised and brake adjusted. tbudget 1H
 
---I used to think ascii config files are inefficient and amaterish. That's nothing but speculation based on Windows convention, except the windows *.ini files. In the Unix convention all config files are ascii.
+--I used to think ascii config files are inefficient and amaterish. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
 
---It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card...) to increase the extraction rate
+--It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
 --long flight
 The shorter segment is always much lighter strain on the body. Less severe effects of long sleep-deprivation and "confinement"-induced muscle stiffness .
 
 It pays to reduce the duration of the long segment, so avoid HK or Guangzhou.
 
-Only HK and BJ provide airside hourly hotel.
---striving towards 
-burn not rot
-#1) more coding drill 
-self-discipline
-minimalist lifestyle, 
-minimizing dependency, 
-less food, more exercise
+Only HK and BJ provide airside hourly hotel
 
---those oily or starchy foods (including the paste on fried chicken skin) get stored in the body so definitely not better than raw vegie/fruits
-
---boy agreed to jog for 9 minutes and cycle for 9 minutes. The attitude alone is commendable.
 --productivity concept
 Wasted human potential is more apparent in PHL than SGP
 
-Q: On flight or MRT, in hind sight would I feel regretful to study/think or to engage with boy?
-A: if boy opens up then it's worth it. After some amount of engagement we hit diminishing return
+Q: On flight or MRT, in hind sight would I feel regretful to study/blog or to engage with boy?
+A: if boy opens up then it's worth it. After some amount of engagement, we hit diminishing return
 
 reading, assimilating, blogging about parenting, wellness, marriage .... can have direct, tangible benefits if put into practice. I wrote many posts on these topics. The act of writing feels productive though roti is zero
 
@@ -41,8 +32,7 @@ A: I used to prefer closer, but now I think 1-hour distance is acceptable given 
 
 Q: Do you have a family or as a single?
 
-====unbroken (mastered in 0.txt)
-* remote productivity better than feared. I might outperform myself even more if I spent more hours at work.
+====unbroken
 * diet better than feared -- about 40% lower. I think I would feel much better by skipping home dinner a few times, and eating raw carrot more often
 * reunions were satisfying, immediate and without difficulty, better than feared
 * boy's weight maintained
@@ -52,20 +42,8 @@ Q: Do you have a family or as a single?
 * my swim/jogging/chin-up
 * the $40 bike
 * iview laptop didn't fail as feared
-* BGC
 
-====lucky
-Jetstar fx rate very reasonable
-FDW commitment -- much more flexible than feared
-wrist watch self-healed
-discovered the wonderful google-sheets
-ofo/mobike worked for boy
-
-====am still bigger than the challenges
-diet ] ff very well maintained
-weight under control
-
-====well-done on this trip
+====[p=publish] well-done on this trip 
 discovered boy's acceptance of jogging
 grand2 upgrade research done without a trip. No more doubt
 BGC payment - huge research effort
@@ -73,7 +51,7 @@ found remittance trick
 found maybank khm TT solution
 proved that my productivitity can be very high in SGP office
 
-====as planned:
+====[p] as planned:
 exam review with boy? completed efficiently as planned
 read the 2 tech books from NY? yes
 bonding with boy on the numerous trips? yes
