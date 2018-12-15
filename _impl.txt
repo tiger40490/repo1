@@ -1,3 +1,4 @@
+====review the code to print every path in a tree
 ====Q[L!v] 80%: (Leetcode "hard" Q124) Given a non-empty binary tree of signed integers, find the maximum path sum. For this problem, a path is defined as any sequence of nodes from any starting node to any node in the tree along the parent->child connections. The path must contain at least one node and does not need to go through the root. No uplink
 
 --My solution -- DFT. Along each root-to-leaf path, use the max-subarray (Kadane) algo and store maxSumEndingHere value in each node, for reuse.
