@@ -31,14 +31,6 @@ I see each possible snapshot (having K balloons, i.e. at level K) as a graph nod
 
 But Level 2 has too many nodes. We need to prune the tree, from either start or end
 
-====Q[Lv] 50%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
-
-well-defined problem:)
-greedy?
-O(1) space probably means swapping
-mutable?
--- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
-
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 

@@ -1,6 +1,14 @@
 ====Q [c graph] find cycle in binary tree? should read some hints after implementing my own design, based on the commonAncestor.cpp
 See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
 
+====Q[Lv] 50%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
+
+well-defined problem:)
+greedy?
+O(1) space probably means swapping
+mutable?
+-- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
+
 ====Q[Lv] : Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
