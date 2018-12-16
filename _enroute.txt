@@ -2,11 +2,9 @@
 [e=ez]
 [L=leetcode]
 [v=easy to verify]
+It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
---It's relatively easy n enjoyable to review some of the classicGenerators problems. Approaches to generator problems
-* p2u in next_perm
-* append to each vector in a growing collection
-* insert into every position in a vector in a collection
+====review the code to print every path in a tree
 
 ====Q[L312] 0%: Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array nums. You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
 

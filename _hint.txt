@@ -1,6 +1,3 @@
-====Q [c graph] find cycle in binary tree? should read some hints after implementing my own design, based on the commonAncestor.cpp
-See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
-
 ====find max all-black submatrixx
 
 ====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
