@@ -44,4 +44,5 @@ Miletone: the map is populated with the clubs. Now generate combos ... better us
 Total O(NN + MM), smaller than O( [N+M]^2 )
 test in leetcode?
 
-====Q [c e v] insertion sort for array
+====Q[c e v] implemet half-written abbr_iterative.h based on the abbr_ascendRecursive.h
+====Q[c e v] insertion sort for array
