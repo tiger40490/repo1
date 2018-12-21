@@ -1,4 +1,4 @@
-walmart to get Chrismas new bike, with handle raised and brake adjusted. tbudget 1H
+ask wordpress support -- how do I move 100 posts from one category to another? The missing feature is mass-untagging. With mass untagging, I would select the 100 posts, tag them with categoryB, then untag them with categoryA enmass.
 
 --I used to think ascii config files are inefficient and amaterish. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
 
