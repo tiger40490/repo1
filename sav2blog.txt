@@ -8,8 +8,6 @@ fee: $30 early closure : 6M
 $300 bonus to be received 60 days after 10 purchases
 --frank12
 movies bought at counter (not online) can refund
---I used to think ascii format is inefficient and amaterish for config files. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
-
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
 --long flight
@@ -75,3 +73,4 @@ Rationally, even if a kid is less brainy than average in class, he/she can still
 
 In Citi muni, I wanted to use remote debugging to understand how the localsys worked, but even the best tool was only helping me in the battle between my brain power and the cummulative brain power sunk in
 
+--I used to think ascii format is inefficient and amaterish for config files. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
