@@ -1,16 +1,14 @@
 ask wordpress support -- how do I move 100 posts from one category to another? The missing feature is mass-untagging. With mass untagging, I would select the 100 posts, tag them with categoryB, then untag them with categoryA enmass.
 
---PNC promo
+--PNC performanceSelect promo
 $5000 deposit once enough to qualify, beside 10 purchases within 60 days
-fee: $7 fall-below 5k
+fee: $25/M fall-below 5k
 fee: $30 early closure : 6M
 
 $300 bonus to be received 60 days after 10 purchases
 --frank12
-movies bought at counter (not online) can refund2
-$10 before 4pm; afterwards $11.50
-$6 Tue all day 
---I used to think ascii config files are inefficient and amaterish. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
+movies bought at counter (not online) can refund
+--I used to think ascii format is inefficient and amaterish for config files. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
 
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
