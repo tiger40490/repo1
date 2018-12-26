@@ -1,6 +1,3 @@
-====Q [c graph] find cycle in binary tree? should read some hints after implementing my own design, based on the commonAncestor.cpp
-See blog https://bintanvictor.wordpress.com/wp-admin/post.php?post=18950&action=edit
-
 ====Q[Lv] 50%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
 well-defined problem:)
