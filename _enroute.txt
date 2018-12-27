@@ -4,8 +4,6 @@
 [v=easy to verify]
 It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
-====review the code to print every path in a tree
-
 ====Q[L312] 0%: Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array nums. You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
 
 0 ≤ nums[i] ≤ 100
@@ -29,14 +27,26 @@ if there are 2 troughs near the ends, which one to burst or both independently?
 --sol1 brute force
 I see each possible snapshot (having K balloons, i.e. at level K) as a graph node. 1 Starting node (Level n), n ending nodes (level 1).  Each node has K child or downstream nodes. This graph now suggests brute force but it might be the only way to solve the problem, like the bbg odometer.
 
-But Level 2 has too many nodes. We need to prune the tree, from either start or end
+But Level 2 has too many (N-choose-2) nodes. We need to prune the tree, from either start or end
+
+Recombinant tree. From origin to any given graph node, there are many distinct paths with a vaulue on each edge. 
 
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
-This question is easy to search online.
+--merge sort using an aux array of same size
+1) divide the array into 2^j segments each up to 2 elements, rembering the (segment) boundaries.
+2) sort each segment
+3) merge first 2 segments and output to a new array of N but only use the first few slots
+4) similarly , merge 3rd and 4th segments into the new array, using the next few slots
+Once we merge all pairs, entire new array is populated and old array can be reset to 0 and usable as a blank array
+Now the segment boundaries are updated and reduced by half. When segment count becomes 2, we would be on the last merge.
+5) repeat Step 3
+
+In total we visit each of N nodes logN times
 ====Q[c !e L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+I think we can modify the existing solution. No need for an optimal solution
+
 ====Q [c !e] next split@N boys
 ====Q [c !e str] longest palindrome subsequence
-====Q [c] ring buffer
 ============= problems below should be posted to blog
