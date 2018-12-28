@@ -6,6 +6,16 @@ O(1) space probably means swapping
 mutable?
 -- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
 
+====Q[c !e L]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+I think we can modify the existing solution. No need for an optimal solution
+=====Q[L] 60%: Given an array nums of K integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(KK)
+%%A: separate into (M) non-negatives and (N) negatives. get pairs among negatives (N^2).... and look up the sum in a pre-populated hash table of M items.
+Total O(NN + MM), smaller than O( [N+M]^2 )
+test in leetcode?
+
+====Q[c e v] implemet half-written abbr_iterative.h based on the abbr_ascendRecursive.h
+====Q[c e v] insertion sort for array
+
 ====Q[Lv] : Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
@@ -35,11 +45,3 @@ struct Bundle{
 };
 
 Miletone: the map is populated with the clubs. Now generate combos ... better use "append" approach.
-
-=====Q[L] 60%: Given an array nums of K integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(KK)
-%%A: separate into (M) non-negatives and (N) negatives. get pairs among negatives (N^2).... and look up the sum in a pre-populated hash table of M items.
-Total O(NN + MM), smaller than O( [N+M]^2 )
-test in leetcode?
-
-====Q[c e v] implemet half-written abbr_iterative.h based on the abbr_ascendRecursive.h
-====Q[c e v] insertion sort for array
