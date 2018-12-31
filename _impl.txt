@@ -1,7 +1,5 @@
 ====Q[c e v] implemet half-written abbr_iterative.h based on the abbr_ascendRecursive.h
-Not so easy when the word is not sorted and container dupe letters
-
-Let's check my py solution
+Not so easy when the word is not sorted and container dupe letters. I think hashtable is needed
 
 ====Q[Lv] 50%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
