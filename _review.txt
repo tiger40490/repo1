@@ -1,16 +1,16 @@
 温故而知新 .. I tend to find bugs + neglected/forgotten parts + areas of improvement. Each part of a given solution can be a show stopper or derailer in a real coding test
 
-====[Lv] serialize/deserialize binTree
-
 ====max submatrix using histogram algo
 thick->thin? not yet. 
+
+====2-pivot partition
+can we simplify it further, after simplifying massively in early Jan 2019
+
+====[Lv] serialize/deserialize binTree
 
 ====cycle in binTree
 what's the O()?
 why is XR saying there's some better solution? There might be!
-
-====2-pivot partition
-can we simplify it further, after simplifying massively in early Jan 2019
 
 ====abbr gen, longest first
 
