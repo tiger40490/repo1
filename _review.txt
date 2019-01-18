@@ -7,10 +7,6 @@ thick->thin? not yet.
 
 ====[Lv] serialize/deserialize binTree
 
-====cycle in binTree
-what's the O()?
-why is XR saying there's some better solution? There might be!
-
 ====abbr gen, longest first
 
 ====find all paths in matrix
