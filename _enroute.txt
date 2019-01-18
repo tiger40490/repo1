@@ -2,8 +2,11 @@
 [e=ez]
 [L=leetcode]
 [v=easy to verify]
+
 It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
+====Q [c str] longest palindrome subsequence
+I think some non-optional solution is feasible.
+
 ====Q [c !e] next split@N boys
-====Q [c !e str] longest palindrome subsequence
 ============= problems below should be posted to blog

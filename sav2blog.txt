@@ -15,6 +15,8 @@ B|B [2018] weight loss + chin-up
 A|B [2018] yoga -- many false starts. Really hard Unthinkable for my entire life until 2018. Huge effort despite limited progress
 C|A- [2016-2018] ffree achievement and planning. Hard to achieve at my age with my income
 
+--my healthy is actually better than 5 years ago. I no longer feel tired on long flights
+
 --new blog: Most c++guys don't understand STL
 when I recall the STL interviews, it's clear that majority of c++ app developers use STL every year for 5-10 years almost like a black box. Only 1% has the level of insight as Henry Wu. 
 
@@ -23,18 +25,6 @@ Analogy -- Most of us live in a house without knowing the civil engineering.
 Many interviewer questions drill in on one or two everyday STL functionality (everyone would have used), just below the surface. These questions filer out majority of candidates. 不求甚解，不加咀嚼，囫囵吞枣 -- I see it in many Indian developers. That's exactly what these interiew questios are designed to identify and sceen out.
 
 Intellectual curiosity vs intellectual laziness
-
---new blog: flight reading ranked
-coding drill -- highest satisfaction, self-esteem, sense of achievement. Even if i carry many books but spent most of my time on coding + movie, still better than limited-coding. Those books retain their freshness for a long time.
-c++
-java perf
-eff j
-blogging on laptop  -- feeling good about the laptop, sometimes new insight discovered, which might be consider progress, output, productive..
-blogging with printout 
-..rest are fallback options.. no guilt if carried but not read.
-magazine, 
-newspaper -- discard if too heavy
-All are more "productive" than movies
 
 --what to do on MRT alone? 
 read tech?
