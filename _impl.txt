@@ -1,3 +1,17 @@
+====Q[c L]: sort a list in O(N logN) but constant space? 
+I think swap is way to go, but recursion stack space? iterative?
+
+--merge sort using an aux array of same size
+1) divide the array into 2^j segments each up to 2 elements, rembering the (segment) boundaries.
+2) sort each segment
+3) merge first 2 segments and output to a new array of N but only use the first few slots
+4) similarly , merge 3rd and 4th segments into the new array, using the next few slots
+Once we merge all pairs, entire new array is populated and old array can be reset to 0 and usable as a blank array
+Now the segment boundaries are updated and reduced by half. When segment count becomes 2, we would be on the last merge.
+5) repeat Step 3
+
+In total we visit each of N nodes logN times
+
 ====Q[Lv] 50%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
 
 well-defined problem:)
