@@ -6,7 +6,10 @@
 It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
 ====Q [c str] longest palindrome subsequence
-I think some non-optional solution is feasible.
+I think some non-optional solution is feasible. start with some good (extreme) examples
+eg alabama -> aabaa
+eg mississippi -> ississi
+eg philippines -> pilip
 
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog

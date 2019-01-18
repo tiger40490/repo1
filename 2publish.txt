@@ -1,3 +1,6 @@
+-- add to calendar
+select seat 48 h 
+4 Feb morning
 --email to Deepak
 MS may ask an onsite design question -- design the task queue and/or thread pool
 --robin hood
