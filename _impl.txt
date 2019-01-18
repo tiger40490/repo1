@@ -1,3 +1,11 @@
+====Q [c str] longest palindrome subsequence
+I think some non-optional solution is feasible. start with some good (extreme) examples
+eg alabama -> aabaa
+eg mississippi -> ississi
+eg philippines -> pilip
+
+--solution 1: generate all abbr and check each but at some point we may have enough confidence to terminate the search
+
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
