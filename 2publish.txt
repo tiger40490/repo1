@@ -1,18 +1,77 @@
-The good thing about today's incident is -- you as a landlord finally got a first-hand observation of a typical situation.
+--email to Deepak
+MS may ask an onsite design question -- design the task queue and/or thread pool
+--robin hood
+My new friend Hari (609 510 9306) told me Robin hood is good
+* you can buy one share, like $10
+* he pays no fee when buying, and only pays some exchange fee when selling
+* for mkt orders it executes immediately from the phone
+* for limit orders you can specify a price 
+--add to email to greg
+There's a bit of positive feedback on my c++ coding 
+* in Jun or Jul, I conceived a redesign of some c++ component and convinced Josh. He accepted my design.
+* in Dec he gave me some code investigation project and I produced a document + a demo spreadsheet to replicate the c++ code. He liked them.
 
-* I can make mistakes including late night noise or wetting the shared carpets, though the severities are different -- The noise affects neighbor's sleep.
+--new blog
+c++QQ/zbs expertise: I have some
+ 
+As stated repeatedly, c++ is the most complicated and biggest language used i industry, at least in terms of syntax. Well, I have impressed many expert interviewers on my c++ language insight.
 
-* Nick also makes mistakes including (I don't like to give a full list..)
-** twice pushing my room door open without knocking, when he felt he had right to be rude to me.
-** dumping not-really-smelly trash bin in front of my door
-** switching off bathroom light after seeing I was inside.
-** forcing the bathroom door to open even though I was holding it from inside
-** aggressive, bullying language for minor things like not closing the microwave door
-** frequently losing his cool (just about every time he has a grievance)
-** not cleaning the bathroom in his month
+That means I must have some expertise in c++ QQ topics. For my c++ zbs growth, see separate blogs.
 
-* I never got angry with him; he always became hostile to me, regardless big or small grievances
+Note socket, shared mem ... are outside c++ language. More like OS library
 
-* I always apologized immediately. He apologized twice for losing his cool x days ago.
+Deepak, Shanyou, Dilip .. are not stronger. I know more about some c++ subdomains, in both QQ and zbs.
 
-As communicated in my last friendly chat with Nick before new year, it's never perfect collocating with a stranger. We want to be neighborly and tolerant. There will surely be problems like my mistakes. We as adults need some self-constraint and cool to manage those problems.  Today I was not there but you saw first hand how he managed a relatively minor problem (minor in comparison with my earlier mistake.)
+--add to blog on 'events'
+help wife with wordpress login
+--new blog
+same calorie-density foods are not created equal, Many are expensive but not satisfying. Analogy -- at comparable stress levels, some jobs (GS) are less rewarding in learning, brank or income.
+* eg: ice creamm is much better than friend penuts. In fact many nus are more calorie dense
+* many fried social foods are not delicious at all
+* many idan friend starcy foods
+* 油条
+--add to blog on flight health
+Even though they sayd 66 F and I didn't sleep, i actually need more than the leather jacket
+
+--add new blog
+most fancy foods are high-calorie
+
+Beside veg and fruits, Most fancy or expensive food that are nutritious actually carry lots of calories. For me, those nutrients are really not that important compared to calories
+* beans
+* wine
+* dark chocolate
+* nuts
+* olive oil
+* avocado
+* egg 
+* fatty fish
+* most biscuits
+
+--last row is good even without extra seat beside
+extra storage space beneath and behind my seat
+closer to restroom
+space for streching
+can stand inside bathroom working on my laptop. Even 10 minutes is a rare opportunity.
+
+--93514357 mgmt
+Sunday buy $2/100M data plan then enable mobile data
+
+i am not so poor. will need fic soon, so turn it on for $.60/day until 26 Jan. Then pay $10 for
+* 90D extension
+* 10D (or 7D) fic? ----> Let's find out from singtel
+
+--meet who?
+Jill? LG2.
+Hukun
+Ashish?
+Raymond? LG. Met recently
+
+--new blog
+leave NY-bound luggage first in living rooom the in bed room
+
+--add to blog on "events"
+LG2 check mayb khm balance
+
+--j4 keeping a big mtg for 30Y? Many people say you borrow cheap, but for what? Do they have a way to generate more return than the loan xq rate (5% or 2.5%)?
+
+If (like me) they have too much cash sitting idle in the bank, why should they borrow 600k at 4% and pay monthly interest of 2k?  I guess they want to keep the cash as contingency?

@@ -1,7 +1,47 @@
---j4 keeping a big mtg for 30Y? Many people say you borrow cheap, but for what? Do they have a way to generate more return than the loan xq rate (5% or 2.5%)?
+--new blog: 20 uphill breakthroughs #wellness/IV/xx
+I will use A/B rating for effort and result. Note achiving a B- is huge like an Oscar nomination.
+A-|A+ [Sec 2] Chinese compo
+B|C [1992] English listening, including BBC
+A|B+[1993] English compo + speaking
+B|A[2010] java/SQL/Unix QQ. I am a natural and didn't need to struggle too long
+C|C [2012] c#. I'm a natural, but it is still an uphill for most people.
+B-|C [2017] c++ coding drill. Huge effort but not huge improvement
+A|B- [2019] no belly no medical condition, very healthy annd fit except borderline cholesterol
 
-If (like me) they have too much cash sitting idle in the bank, why should they borrow 600k at 4% and pay monthly interest of 2k?  I guess they want to keep the cash as contingency?
- 
+.. rest are steeper uphill. Note the C ratings set the benchmark
+C|C [2014] so many properties paid up in full
+A|C [2017] c++ QQ, including focused coding experiments to learn rvr, TMP
+B|B [2018] weight loss + chin-up
+A|B [2018] yoga -- many false starts. Really hard Unthinkable for my entire life until 2018. Huge effort despite limited progress
+C|A- [2016-2018] ffree achievement and planning. Hard to achieve at my age with my income
+
+--new blog: Most c++guys don't understand STL
+when I recall the STL interviews, it's clear that majority of c++ app developers use STL every year for 5-10 years almost like a black box. Only 1% has the level of insight as Henry Wu. 
+
+Analogy -- Most of us live in a house without knowing the civil engineering.
+
+Many interviewer questions drill in on one or two everyday STL functionality (everyone would have used), just below the surface. These questions filer out majority of candidates. 不求甚解，不加咀嚼，囫囵吞枣 -- I see it in many Indian developers. That's exactly what these interiew questios are designed to identify and sceen out.
+
+Intellectual curiosity vs intellectual laziness
+
+--new blog: flight reading ranked
+coding drill -- highest satisfaction, self-esteem, sense of achievement. Even if i carry many books but spent most of my time on coding + movie, still better than limited-coding. Those books retain their freshness for a long time.
+c++
+java perf
+eff j
+blogging on laptop  -- feeling good about the laptop, sometimes new insight discovered, which might be consider progress, output, productive..
+blogging with printout 
+..rest are fallback options.. no guilt if carried but not read.
+magazine, 
+newspaper -- discard if too heavy
+All are more "productive" than movies
+
+--what to do on MRT alone? 
+read tech?
+coding?
+read letters?
+ask friends to call me FIC
+
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
 --productivity concept
@@ -15,41 +55,13 @@ reading, assimilating, blogging about parenting, wellness, marriage .... can hav
 --I tend to focus on the negative examples in my relationships and take them as personal... Seriously negative and unfair perception
 * XR, Nikhil turning cold but not counting Deepak, Ashish Singh, CSDoctor, HenryWu, Wenjia, Longbo, Yihai, Mithun, ...
 
---PNC performanceSelect promo by end of Dec
-$5000 deposit once enough to qualify, beside 10 purchases within 60 days
-fee: $25/M fall-below 5k
-fee: $25 early closure : 6M
-
-$300 bonus to be received 60 days after 10 purchases
 ====unbroken
-* diet better than feared -- about 40% lower. I think I would feel much better by skipping home dinner a few times, and eating raw carrot more often
-* reunions were gratifying/satisfying, immediate and without difficulty, better than feared
-* boy's weight maintained
-* boy's grades
+* reunions 
 * boy's Chinese reading / renzi
 * my health on long flights
 * my swim/jogging/chin-up
 * the $40 bike
 * iview laptop didn't fail as feared
-
-====[p=publish] well-done on this trip 
-discovered boy's acceptance of jogging
-grand2 upgrade research done without a trip. No more doubt
-BGC payment - huge research effort
-found remittance trick
-found maybank khm TT solution
-proved that my productivitity can be very high in SGP office
-
-====[p] as planned:
-exam review with boy? completed efficiently as planned
-read the 2 tech books from NY? yes
-bonding with boy on the numerous trips? yes
-
---XR and I both tend to be too keenly aware of inadequacies/limitations/weaknesses in self and our kids. Inferiority?
-
-Rationally, even if a kid is less brainy than average in class, he/she can still be adequate i.e. good enough.
-
---Now is seller's market so some people bid 7% above the asking to snatch up a unit. These aggressive buyers need good knowledge about the location
 
 --improvement (like new kitchen) to a house leads to faster appreciation than on a condo
 #1 advantage of condo is price tag

@@ -4,7 +4,6 @@
 thick->thin? not yet. 
 
 ====2-pivot partition
-can we simplify it further, after simplifying massively in early Jan 2019
 
 ====[Lv] serialize/deserialize binTree
 
@@ -15,3 +14,6 @@ why is XR saying there's some better solution? There might be!
 ====abbr gen, longest first
 
 ====find all paths in matrix
+
+====my own vector::isert()
+====my rvr experiments

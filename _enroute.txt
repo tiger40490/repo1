@@ -6,25 +6,4 @@ It's relatively easy n enjoyable to review some of the classicGenerators problem
 
 ====Q [c !e] next split@N boys
 ====Q [c !e str] longest palindrome subsequence
-====Given two positive decimal numbers , A and B , write an algorithm to find the precision of Number A and truncate number B to the same level of precision.
-
-Eg: 
-A=0.01
-B=0.66789363
-Output :- 0.66
-
-Eg:- 
-A=0.0067
-B=0.06375813
-Ooutput : 0.0637
-
-Eg:- 
-A=0.1
-B=0.678
-Op 0.6
-
-Eg:-
-A=0.001
-B=0.67
-O/p :0.67
 ============= problems below should be posted to blog
