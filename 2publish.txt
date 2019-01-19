@@ -1,6 +1,15 @@
+--once reach home
+cottage ($1) -> frige
+
 -- add to calendar
 select seat 48 h 
 4 Feb morning
+
+--2H sleep in areotel probably insufficient. 
+--since I am likely to overeat in HK, the SG->hk meatl should be changed to low-cal
+--48 hr before next flight, choose seat not last row for SG->HK
+--last flight need to reach gate by 7pm (boarding strtss 40 min b4 takeoff). Leave Aerotel by 6.45. Wake up 6.30p
+
 --email to Deepak
 MS may ask an onsite design question -- design the task queue and/or thread pool
 --robin hood
