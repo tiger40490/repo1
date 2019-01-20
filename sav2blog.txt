@@ -1,5 +1,8 @@
 --mvea + platform features
-* 
+* multiple partial fills
+* all order types
+* index and known basket orders
+* all strategies
 
 --new blog: 20 uphill breakthroughs #wellness/IV/xx
 I will use A/B rating for effort and result. Note achiving a B- is huge like an Oscar nomination.
