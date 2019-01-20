@@ -3,6 +3,13 @@
 * all order types
 * index and known basket orders
 * all strategies
+* restates
+* busts
+* throttle control for large or basket orders
+* avg pricing match to benchmark
+* auto hedging
+* global limit check
+* agg unit limit check
 
 --new blog: 20 uphill breakthroughs #wellness/IV/xx
 I will use A/B rating for effort and result. Note achiving a B- is huge like an Oscar nomination.
