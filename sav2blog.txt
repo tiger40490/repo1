@@ -1,4 +1,7 @@
---mvea + platform features
+--cashflow SGD
+--cashflow USD
+
+--mvea + platform features for body-building
 * multiple partial fills
 * all order types
 * index and known basket orders
