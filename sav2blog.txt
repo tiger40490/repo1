@@ -14,23 +14,6 @@
 * global limit check
 * agg unit limit check
 
---new blog: 20 uphill breakthroughs #wellness/IV/xx
-I will use A/B rating for effort and result. Note achiving a B- is huge like an Oscar nomination.
-A-|A+ [Sec 2] Chinese compo
-B|C [1992] English listening, including BBC
-A|B+[1993] English compo + speaking
-B|A[2010] java/SQL/Unix QQ. I am a natural and didn't need to struggle too long
-C|C [2012] c#. I'm a natural, but it is still an uphill for most people.
-B-|C [2017] c++ coding drill. Huge effort but not huge improvement
-A|B- [2019] no belly no medical condition, very healthy annd fit except borderline cholesterol
-
-.. rest are steeper uphill. Note the C ratings set the benchmark
-C|C [2014] so many properties paid up in full
-A|C [2017] c++ QQ, including focused coding experiments to learn rvr, TMP
-B|B [2018] weight loss + chin-up
-A|B [2018] yoga -- many false starts. Really hard Unthinkable for my entire life until 2018. Huge effort despite limited progress
-C|A- [2016-2018] ffree achievement and planning. Hard to achieve at my age with my income
-
 --my healthy is actually better than 5 years ago. I no longer feel tired on long flights
 
 --new blog: Most c++guys don't understand STL
