@@ -3,7 +3,6 @@
 [L=leetcode]
 [v=easy to verify]
 
-It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog
