@@ -3,6 +3,5 @@
 [L=leetcode]
 [v=easy to verify]
 
-
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog
