@@ -13,6 +13,6 @@ thick->thin? not yet.
 
 ====find all paths in matrix
 
-====my own vector::insert()
+====my own vector::insert() at SIG
 ====my rvr experiments
 ====my enable_if_t experiments
