@@ -1,4 +1,6 @@
 --cashflow SGD
+need gp's usd
+hope to receive Brazil $14200+
 --mvea + platform features for body-building
 * multiple partial fills
 * all order types
