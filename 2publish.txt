@@ -1,8 +1,8 @@
 --new blog: Most c++guys don't understand STL
 when I recall the STL interviews, it's clear that majority of c++ app developers use STL every year for 5-10 years almost like a black box. Only 1% has the level of insight as Henry Wu. 
 
-Analogy -- Most of us live in a house without knowing the civil engineering.
+Analogy -- Most of us live in a house without civil engineering insight.
 
-Many interviewer questions drill in on one or two everyday STL functionality (everyone would have used), just below the surface. These questions filer out majority of candidates. 不求甚解，不加咀嚼，囫囵吞枣 -- I see it in many Indian developers. That's exactly what these interiew questios are designed to identify and sceen out.
+Many interviewe questions drill in on one or two everyday STL functionality (everyone would have used), just below the surface. These questions filter out majority of candidates. 
 
-Intellectual curiosity vs intellectual laziness
+Intellectual curiosity vs intellectual laziness.  不求甚解，不加咀嚼，囫囵吞枣 -- I see it in many self-taught developers. That's exactly what these interiew questions are designed to identify and sceen out.
