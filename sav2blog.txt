@@ -18,20 +18,6 @@ Just to help me firm up my decision
 * global limit check
 * agg unit limit check
 
---new blog: Most c++guys don't understand STL
-when I recall the STL interviews, it's clear that majority of c++ app developers use STL every year for 5-10 years almost like a black box. Only 1% has the level of insight as Henry Wu. 
-
-Analogy -- Most of us live in a house without knowing the civil engineering.
-
-Many interviewer questions drill in on one or two everyday STL functionality (everyone would have used), just below the surface. These questions filer out majority of candidates. 不求甚解，不加咀嚼，囫囵吞枣 -- I see it in many Indian developers. That's exactly what these interiew questios are designed to identify and sceen out.
-
-Intellectual curiosity vs intellectual laziness
-
---what to do on MRT alone? 
-read tech?
-coding?
-read letters?
-ask friends to call me FIC
 
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
