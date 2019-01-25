@@ -1,3 +1,10 @@
+--dbs 1200 x2, 500
+--try citi online transfer, to see atual fees
+Just to help me firm up my decision
+
+--4hr after mrp, i felt hungry but bearable, thanks to absence of temptation
+--buy raw veg -- onion, cuke
+
 --new blog: Most c++guys don't understand STL
 when I recall the STL interviews, it's clear that majority of c++ app developers use STL every year for 5-10 years almost like a black box. Only 1% has the level of insight as Henry Wu. 
 
