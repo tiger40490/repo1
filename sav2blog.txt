@@ -8,7 +8,7 @@ math word problem: verification skill
 He may not have time to use it in exam. As such it might be too advanced
 
 --add to blog on peak
-If given 2 choice -- BridgeRetail #3 vs PeakRetail, I might choose peakRetail for diversification. BridgeRetail might underperform PeakRetail in terms of rental demand and appreication
+If given 2 choice -- BridgeRetail #3 vs PeakRetail, I might choose peakRetail for diversification. There's an implied probability above 50% that BridgeRetail could underperform PeakRetail in terms of foot traffic, rental demand and appreication
 
 --add to blog on Nov18
 To permit myself to eat a big family dinner (1500 cal?), I need to limit all other meals to below 500 cal
@@ -17,7 +17,8 @@ To permit myself to eat a big family dinner (1500 cal?), I need to limit all oth
 
 --contrary to conventional wisedom, some assets are higher return, lower risk than the standard assets
 * my cambodia shops
-* german
+* my bj properties
+* german properties
 * distressed sovreign bond
 
 --fx robot
