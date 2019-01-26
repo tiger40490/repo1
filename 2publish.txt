@@ -1,8 +1,16 @@
---dbs 1200 x2, 500
---try citi online transfer, to see atual fees
-Just to help me firm up my decision
+--add to blog on 5.5%
+5.5% NRY after tax is equivalent to 9->11-12% NGRY. It becomes 12% once we factor in legwork + distraction to work + mental stress dealing with tenant issues
+
+--add to git:
+alias nn='git commit -a --amend --no-edit'
+
+--62.6kg@26 Jan, 30 chin-up
+
+--eg of sgp medical cost
+I spent SGD 35 on consultation + blood test at polyclinic
 
 --4hr after mrp, i felt hungry but bearable, thanks to absence of temptation
+
 --buy raw veg -- onion, cuke
 
 --new blog: Most c++guys don't understand STL
