@@ -1,3 +1,7 @@
+--maybank usd acct
+30 Jan to be closed and removed from online banking
+local usd cheque to be cleared after 2pm 29 Jan
+
 --sg vs u.s.
 lower labor cost in most jobs 
 higher efficiency not only in government
