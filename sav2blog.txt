@@ -1,11 +1,3 @@
---maybank usd acct
-30 Jan to be closed and removed from online banking
-local usd cheque to be cleared after 2pm 29 Jan
-
---Jun Korea trip
-I'm likely to be still in U.S.
-consider Mar short trip like 3D furlough
-
 --sg vs u.s.
 lower labor cost in most jobs 
 higher efficiency not only in government
@@ -19,11 +11,6 @@ It's a form of "wellbeing" for me, similar to having grandpa (or a friend) to li
 for liquid assets like aapl or eurusd, we can say any information is quickly disseminated so the market price is probably fair. 
 for properties in popular (highly liquid but often overpriced) locations, each unit probably receives a fair amount of scrutiny, so deep discount is often due to negative factors.
 For bayonne or Cambodia, for each unit the number of serious investors is probably very very low, so bargains are more likely. The amount of unassimilated information is very high, since each investor must wade through lots of raw data and ask many questions.
-
---new blog: effi and affordability of polyclinic
-* bus 238 as frequent as MRT
-* I only waited 10-60 min so far
-* short queue for payment+appt+referral
 
 --add to blog on whey
 consider mixing one scoop MRP + one scoop of whey + teaspoon of chia
@@ -39,31 +26,17 @@ lease -- mostly targetting foreigners, but what if they stop coming? what if the
 
 rental yield is inferior at downtown, high-end locations, superior in outskirt locations close to MRT.
 
-vacancy? If location is good then lower asking price will hopefully help
-
 I believe 2-br units are more in demand as sg is very attractive for executives with family
 
 in a down turn, I guess the less attractive rental properties may get a hit, such as remote locations or studios
 
-
-SG condo investors mostly looking for appreciation, but I'm more interested in rental income. 
-
-enbloc can happen to a 30Y-new building, driven by developer greed and exordinary exuberance.
+SG condo investors mostly looking for appreciation, but I'm more interested in rental income, not a strong feature of sg condos
 
 12% tax on buyers of 2nd home... way too high. That's why some sell their hdb but I can't do that.
 
 6-person/unit including babies? I guess strict enforcement is hard
---sg local mgmt agent
-delinquent tenant? less of a problem. Can threaten to report to the authorities and damage their EP renewal, but these tenants will do their research and may be unfazed
 
-ERA reps often sound confident, but I think it's not so hassle-free
-
---add to blog on Nov18
-To permit myself to eat a big family dinner (1500 cal?), I need to limit all other meals to below 500 cal
-* don't eat if not hungry
-* stay away temptation
-
---contrary to conventional wisedom, some assets are higher return, lower risk than the standard assets
+--contrary to conventional wisedom, some assets feature higher return, lower risk than the standard assets
 * my cambodia shops
 * my bj properties
 * german properties
@@ -71,12 +44,6 @@ To permit myself to eat a big family dinner (1500 cal?), I need to limit all oth
 * ? high-dividend stocks
 * distressed sovreign bond
 
---fx robot
-black swan events can wipe out all the previous gains. Other than that, 18% annual return is feasible.
-
---cashflow SGD
-need gp's usd
-hope to receive Brazil $14200+
 --mvea + platform features for body-building
 * multiple partial fills
 * all order types
@@ -89,7 +56,6 @@ hope to receive Brazil $14200+
 * auto hedging
 * global limit check
 * agg unit limit check
-
 
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
