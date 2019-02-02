@@ -1,3 +1,11 @@
+--priority on dresort trip
+insist on math .. all done with at least some checks on those with mistakes
+quality time with kids and gm, without preoccupation with my thoughts (this time on cash flow)
+exercise? possible
+diet? LetGo without binge
+coding drill? No need
+reflective blogging + chat with gp? Not much new content
+
 --new blog -- polyclinic xp: elderly healthcare
 I spent quite a bit of time on my multiple polyclinic trips and there's an unexpected ROTI. 
 
@@ -22,14 +30,6 @@ much cheaper medical cost
 
 --After we leave SG
 need to register to vote as SG citizens. It is an obligation
-
---priority on dresort trip
-insist on math .. all done with at least some checks on those with mistakes
-quality time with kids and gm, without preoccupation with my thoughts (this time on cash flow)
-exercise? possible
-diet? LetGo without binge
-coding drill? No need
-reflective blogging + chat with gp? Not much new content
 
 --possibly a new blog post, but fairly vague and dubious 
 I have achieved my current comfortable economic position by
@@ -97,6 +97,8 @@ SG condo investors mostly looking for appreciation, but I'm more interested in r
 * global limit check
 * agg unit limit check
 
+--git blogging: prefer many short paragraphs to ease git-diff
+ 
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
 --productivity concept
