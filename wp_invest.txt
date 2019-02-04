@@ -1,69 +1,3 @@
---new blog, though I won't consider this investment !
-sg condo: everythig extreme, not for a small budget investor like me
-lease -- mostly targetting foreigners, but what if they stop coming? what if they realize hdb are cheaper? There are more and more condos in Singapore but foreigners can't keep growing IMHO
-
-rental yield is inferior at downtown, high-end locations, superior in outskirt locations close to MRT.
-
-I believe 2-br units are more in demand as sg is very attractive for executives with family
-
-in a down turn, I guess the less attractive rental properties may get a hit, such as remote locations or studios
-
-SG condo investors mostly looking for appreciation, but I'm more interested in rental income, not a strong feature of sg condos
-
-12% tax on buyers of 2nd home... way too high. That's why some sell their hdb but I can't do that.
-
-6-person/unit including babies? I guess strict enforcement is hard
-
---new blog: common complaints agaisnt SG as a retirement destination
-* high cost
-* small economy, not "strong" enough, but I feel China and U.S. are actually more unstable
-* small space
-* too hot
-* jobs are mostly for doctors or manual laborers
-
---update blog on bgc final payment
-will use CGT -> FSM to convert to SGD
-I won't depend on Brazil payout
-
---2013 ideas on retirement
-Disclaimer -- I'm not seriously retirement-planning. Just random thoughts. The [1][2].. items are my retirement ideas.
-
-I feel many people rely on their home as retirement, but you can't easily get cash out of the house. So it doesn't really generate cash needed in retirement.  It's rather important to ensure the home can be rented out to generate supplementary income [1].The better the location, the more likely. It would be idea if you can get a 2nd, perhaps small home to rent out. 
-
-Another common thing people do is full time investing (gambling). I'm not sure at all. I'd rather leave my money with the professional fund managers. I'm more in favour of high-dividend investments.
-
-If I have the time and good health, and needs money, I'm more in favour of working into old age[2]. Some professions are easier to find work - such as hourly work. Teaching is one field to offer work into old age.
-
-Medical insurance [3] is quite important, esp. for catastrophic, or chronic.
-
-Annuity [4] is a relevant option to me.
-
---possibly a new blog post, but fairly vague
-I have achieved my current comfortable economic position by
-* body-building with in-demand tech skills
-* education which underlies the other success factors
-* high saving rate based on very low burn rate
-* home-made investment analysis and mgmt
-
-by "Comfortable" I don't mean above my peers. I mean easy affordable lifestyle without the modern day pressure to work hard and make a living.
-
---new blog -- polyclinic xp: elderly healthcare
-I spent quite a bit of time on my multiple polyclinic trips and there's an unexpected ROTI. 
-
-For whatever reasons, the patients at TPY polyclinic are mostly elderly. Semiconsciously I started to see myself in them, and recognized, at a physical and emotional level, the SG advantage over U.S. system, where ordinary (mid-curve) old folks get significantly less help than the wealthy old folks able to afford private healthcare. U.S. healthcare wellfare targets the low-income tail of the bell curve. As the U.S. debates how to make healthcare more affordable, Singapore is quietly adapting and modernizing an already proven formula of efficient yet affordable healthycare for ordinary old folks, not only the needy. 
-
-The Singapore system is largely based on polyclinics and subsidies at public hospitals + private clinics.
-
-Efficient yet affordable -- fast, modern, well-staffed. system is less complicated, more understood.
-
-Conclusion at the personal level -- My recent polyclinic experiences help foster a growing self-reassure that as long as we maintain our Singapore citizenship, we don't need to earmark a huge sum for our elderly medical needs. Until recently, I used mostly private clinics, which are still a fraction of the cost in U.S. 
-
-I would guess very few governments take care of their ordinary old citizens so well.
-
-Q: In 20Y when I grow old will the SG system deteriorate?
-A: I have reason to believe it won't.
-
-I now feel the elderly medical cost + daily living is rather affordable despite SG's reputation, but this is a feeling not really based on facts
 
 --update blog: retirement destination: a few diff sg vs u.s.
 lower labor cost in most jobs 
@@ -95,3 +29,70 @@ We also concluded if CD interest rate remains high at 4% but GRY is 1.5% then th
 for liquid assets like aapl or eurusd, we can say any information is quickly disseminated so the market price is probably fair. 
 for properties in popular (highly liquid but often overpriced) locations, each unit probably receives a fair amount of scrutiny, so deep discount is often due to negative factors.
 For bayonne or Cambodia, for each unit the number of serious investors is probably very very low, so bargains are more likely. The amount of unassimilated information is very high, since each investor must wade through lots of raw data and ask many questions.
+
+--new blog: common complaints agaisnt SG as a retirement destination
+* high cost
+* small economy, not "strong" enough, but I feel China and U.S. are actually more unstable
+* small space
+* too hot
+* jobs are mostly for doctors or manual laborers
+
+--update blog on bgc final payment
+will use CGT -> FSM to convert to SGD
+I won't depend on Brazil payout
+
+--possibly a new blog post, but fairly vague
+I have achieved my current comfortable economic position by
+* body-building with in-demand tech skills
+* education which underlies the other success factors
+* high saving rate based on very low burn rate
+* home-made investment analysis and mgmt
+
+by "Comfortable" I don't mean above my peers. I mean easy affordable lifestyle without the modern day pressure to work hard and make a living.
+
+--new blog, though I won't consider this investment !
+sg condo: everythig extreme, not for a small budget investor like me
+lease -- mostly targetting foreigners, but what if they stop coming? what if they realize hdb are cheaper? There are more and more condos in Singapore but foreigners can't keep growing IMHO
+
+rental yield is inferior at downtown, high-end locations, superior in outskirt locations close to MRT.
+
+I believe 2-br units are more in demand as sg is very attractive for executives with family
+
+in a down turn, I guess the less attractive rental properties may get a hit, such as remote locations or studios
+
+SG condo investors mostly looking for appreciation, but I'm more interested in rental income, not a strong feature of sg condos
+
+12% tax on buyers of 2nd home... way too high. That's why some sell their hdb but I can't do that.
+
+6-person/unit including babies? I guess strict enforcement is hard
+
+--new blog -- polyclinic xp: elderly healthcare
+I spent quite a bit of time on my multiple polyclinic trips and there's an unexpected ROTI. 
+
+For whatever reasons, the patients at TPY polyclinic are mostly elderly. Semiconsciously I started to see myself in them, and recognized, at a physical and emotional level, the SG advantage over U.S. system, where ordinary (mid-curve) old folks get significantly less help than the wealthy old folks able to afford private healthcare. U.S. healthcare wellfare targets the low-income tail of the bell curve. As the U.S. debates how to make healthcare more affordable, Singapore is quietly adapting and modernizing an already proven formula of efficient yet affordable healthycare for ordinary old folks, not only the needy. 
+
+The Singapore system is largely based on polyclinics and subsidies at public hospitals + private clinics.
+
+Efficient yet affordable -- fast, modern, well-staffed. system is less complicated, more understood.
+
+Conclusion at the personal level -- My recent polyclinic experiences help foster a growing self-reassure that as long as we maintain our Singapore citizenship, we don't need to earmark a huge sum for our elderly medical needs. Until recently, I used mostly private clinics, which are still a fraction of the cost in U.S. 
+
+I would guess very few governments take care of their ordinary old citizens so well.
+
+Q: In 20Y when I grow old will the SG system deteriorate?
+A: I have reason to believe it won't.
+
+I now feel the elderly medical cost + daily living is rather affordable despite SG's reputation, but this is a feeling not really based on facts
+--2013 ideas on retirement
+Disclaimer -- I'm not seriously retirement-planning. Just random thoughts. The [1][2].. items are my retirement ideas.
+
+I feel many people rely on their home as retirement, but you can't easily get cash out of the house. So it doesn't really generate cash needed in retirement.  It's rather important to ensure the home can be rented out to generate supplementary income [1].The better the location, the more likely. It would be idea if you can get a 2nd, perhaps small home to rent out. 
+
+Another common thing people do is full time investing (gambling). I'm not sure at all. I'd rather leave my money with the professional fund managers. I'm more in favour of high-dividend investments.
+
+If I have the time and good health, and needs money, I'm more in favour of working into old age[2]. Some professions are easier to find work - such as hourly work. Teaching is one field to offer work into old age.
+
+Medical insurance [3] is quite important, esp. for catastrophic, or chronic.
+
+Annuity [4] is a relevant option to me.
+
