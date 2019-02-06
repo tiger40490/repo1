@@ -126,5 +126,3 @@ reading, assimilating, blogging about parenting, wellness, marriage .... can hav
 --I used to feel zbs will make me a great contributor to any system, but now I realize localSys is more important.
 
 In Citi muni, I wanted to use remote debugging to understand how the localsys worked, but even the best tool was only helping me in the battle between my brain power and the cummulative brain power sunk in
-
---I used to think ascii format is inefficient and amaterish for config files. That's nothing but speculation based on Windows convention (windows *.ini files is unconventional). In the Unix and internet convention all config files are ascii.
