@@ -13,8 +13,12 @@ Calling a ctor with an empty parens is ... not common. If you want to invoke the
 
 by the way, it's almost always more flexible to implement a no-arg ctor using default-args
 
---why is uptown NGRY only 5%
-luxury studio and not a shop. Vietnam residential is similar.
+--why is my uptown NGRY only 5%
+luxury studio and not a shop. 
 
---add to calendar
-call to get letter for $5 blood test at many clinics
+Vietnam residential is similar, but rental demand is very low.
+
+--better find out calorie content of wines for my next flights
+
+--new blog:
+$5 cholesterol screening coupon usable at any CHAS GP. Call HPB 1800 223 1313
