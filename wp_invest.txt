@@ -74,16 +74,38 @@ common complaints agaisnt SG as a retirement destination
 * too hot
 * age-friendly jobs are mostly for doctors or manual laborers
 
---update blog on bgc final payment
-will use CGT -> FSM to convert to SGD
-I won't depend on Brazil payout
+--new blog: U.S. vs international eq: platforms 
+For international eq, I will use FSM to enjoy low quantum and ..
+For U.S. eq, I will work with Chip (for personalized service) and Robinhood (low quantum)
+
+--update blog on OPM reserve
+In 1997 I made a similiar mistake by gambling my father's money (put under my care) into commodity futures. I quickly realize I took on a bigger risk than I could afford and immediately i decided to exit at a huge loss.
+
+--my investment strategies since 1997 (milestones only)
+1997 started at FSM 
+1990's IPO's -> stock trading is not my game
+1997 gambled big with family savings (50k+) and lost 11k. Started recording personal investment experiences for review.
+2005 big decision to buy #4-116 at a lucky location. Not for investment but rent-saving
+2007-2012 (U.S.) no personal investment at all. Missed big recovery. Did send USD 90k to Beijing -- dumb luck
+2012-present: many investment experiments
+2012-2014 fxo + Oanda -> realized I'm only suitable for small scale, low frequency trading. very low ROTI
+2012-2016 lots of research and experiments on FSM. Thoroughly disillutioned with commodity funds, EM funds, dividend funds, balanced funds... Made money mostly in U.S. and country-specific equity funds.
+2012-2017 lots of discussions and experiments with insurance. Conclusion -- too long too low. While many people seem to use insurance or bonds as the base of a personal portfolio, I dislike these products and use properties instead
+2013-14 decision to pay down OC mtg asap
+2015 BGC 
+2016 BridgeRetail x 2
+2015-2017 Jill.. slowly embracing private equity HY bonds
+2018 Energy 12. small but bold experiment
+2018 43R ... decided to avoid buying 700k home
+2018 college funding -- decided to avoid the ivy league fees, largely based on UChicago experience
+2019 PeakRetail.. decisive
 
 --possibly a new blog post, but fairly vague
 I have achieved my current comfortable economic position by
 * body-building with in-demand tech skills
 * education which underlies the other success factors
-* high saving rate based on very low burn rate
-* home-made investment analysis and mgmt
+* high saving rate thanks to very low burn rate
+* home-made investment analysis and strategies, adjusted over the years
 
 by "Comfortable" I don't mean above my peers. I mean easy affordable lifestyle without the modern day pressure to work hard and make a living.
 
@@ -132,4 +154,3 @@ If I have the time and good health, and needs money, I'm more in favour of worki
 Medical insurance [3] is quite important, esp. for catastrophic, or chronic.
 
 Annuity [4] is a relevant option to me.
-
