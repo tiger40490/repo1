@@ -1,3 +1,5 @@
+--before posting to blog, ensure this is worthwhile --
+
 --instance field as char-array without terminating null
 This is recommended if those char-arrays are short and this class gets instantantiated frequently.
 
@@ -17,6 +19,8 @@ by the way, it's almost always more flexible to implement a no-arg ctor using de
 free newspapers have never proven to be worth carrying. I always find something more interesting or worthwhile to read
 
 --why is my uptown NGRY only 5%
+This NGRY is much lower than other cities.
+
 luxury studio and not a shop. 
 
 Vietnam residential is similar, but rental demand is very low.
@@ -35,4 +39,3 @@ Now I am facing the temptation, next battle is portion control
 
 --new blog: bridge floss
 sensitivity in lower left middle tooth -- the gap between 2 bonding points is too small to reach
-
