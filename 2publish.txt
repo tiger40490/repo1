@@ -1,3 +1,18 @@
+--instance field as char-array without terminating null
+This is recommended if those char-arrays are short and this class gets instantantiated frequently.
+
+Drawback -- when you print this field, the printing function would keep printing beyond the field boundary looking for the terminating null. I saw this in my nyse-intg parser
+
+So as a personal best practice I often saves the terminating null in my char-array field
+
+--empty parens
+cout<<fun3() // is perfectly fine
+cout<<MyClass2() // probably bad form
+
+Calling a ctor with an empty parens is ... not common. If you want to invoke the no-arg ctor, better drop the redundant parens.
+
+by the way, it's almost always more flexible to implement a no-arg ctor using default-args
+
 --why is uptown NGRY only 5%
 luxury studio and not a shop. Vietnam residential is similar.
 
