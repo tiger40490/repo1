@@ -15,6 +15,20 @@ Calling a ctor with an empty parens is ... not common. If you want to invoke the
 
 by the way, it's almost always more flexible to implement a no-arg ctor using default-args
 
+--new blog: more time+facilities4reflective blogging 
+.. is a major benefit I'm willing to pay for.
+
+It's a form of "wellbeing" for me, similar to having grandpa (or a friend) to listen to me
+
+--add to blog on staying rented
+boy is influenced by classmates, so he needs a better school.
+better stay rented so we can move easily
+
+--portable digital piano
+Casio PX160. Given 88 keys, this is the lightest model I know. Can remove the stand and further reduce the weight.
+
+My pet peeve for digital pianos is the finger touch. Looks like all the models (I only tried those below $2k) are equally bad, but better than those toy models.
+
 --add to blog on light reading
 free newspapers have never proven to be worth carrying. I always find something more interesting or worthwhile to read
 
