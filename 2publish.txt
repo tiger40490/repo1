@@ -6,7 +6,7 @@ This topic is deep and time consuming so I will only learn some jargons for show
 
 I have the OReilly book + Josh's book
 
-spinlock -- address in both books
+spinlock -- addressed in both books
 read-write spinlock
 binary and counting semaphores
 read-write semaphores
