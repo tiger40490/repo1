@@ -91,6 +91,12 @@ maybank account closed
 maybank card renewed
 March trip booked
 
+--new blog: drinks on flight
+red wine + coke ? optional. No more than half a cup please, due to calorie
+tomato juice
+tea
+All other drinks (including skim milk) has too many calories yet unsatisfying
+
 --mvea + platform features for body-building
 * multiple partial fills
 * all order types
@@ -105,6 +111,12 @@ March trip booked
 * agg unit limit check
 
 --git blogging: prefer many short paragraphs to ease git-diff
+
+--d-resort review
+:) as planned, did some stretching and coding drill
+:) as planned, boy did lots of math 
+:) two beach stroll + cycling
+:) as planned, wild wild wet + buffet
 
 --taxi fare to airport
 grab is demand-supply driven. For metered taxi,
