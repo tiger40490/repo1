@@ -1,4 +1,5 @@
 --before posting to blog, ensure this is worthwhile --
+there's a cost to posting, adjusting, tagging ...
 
 --new blog: ## linux concurrency support features
 This topic is deep and time consuming so I will only learn some jargons for show-off

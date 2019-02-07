@@ -1,10 +1,4 @@
---i decided to prioritize
-coding drill
-c++ books from Josh if coding drill wears out
-optionally magazine + newspaper? did some 
-optionally [[anger]] , [[pattern]]
-
---new blog: CNY trip diet reviewing
+--new blog: CNY trip diet review
 In terms of weight (and probably calorie) ... not so effective. I would guess my weight (in Retro) would be 64kg so I plan to bring it down gradually back to 63 and 62.5 kg
 In terms of nutrition ... high quliaty
 In terms of self-control and daily battles? won some lost some
@@ -39,8 +33,6 @@ whole milk and yogurt? successful. No loss of control
 Q: eating more healthy food ... hoping to suppress appetite for the heavy stuff  -- is it effective?
 I did that in two steamboat dinners ...
 
---update blog on yogurt
-satisfying? Not really, but in the CNY context it is a low-calorie food
 
 --polyclinic takeaway
 * from U.S. make ttsh appt for Mar
@@ -63,7 +55,7 @@ orange is safe even though not leanest. Orange is not as low-cal as some veg but
 need to register to vote as SG citizens. It is an obligation
 
 --new blog: [19] living my dream life
-These are elements of the dream life I envisioned years ago:
+These are elements of the dream life I envisioned 5..20 years ago:
 
 beautiful kids + wife. Stable family
 health -- bmi, sleep ..
@@ -95,6 +87,9 @@ Below I use the number of stars to denote the difficulty level + significance of
 *** 2015-2018 c++ breakthrough (including technical wins) in the body-building contest
 * java body-building contest -- I remain confident
 ** coding drill -- visible and invisible progresses
+
+--update blog on yogurt
+satisfying? Not really, but in the CNY context it is a low-calorie food
 
 --add to blog on whey
 if no temptation, i think one "MRP meal" can last 4 hours. With teptation, it is 20 minutes!
