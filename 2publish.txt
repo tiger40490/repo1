@@ -1,5 +1,15 @@
 --before posting to blog, ensure this is worthwhile --
 
+--new blog: ## linux concurrency support features
+This topic is deep and time consuming so I will only learn some jargons for show-off
+
+I have the OReilly book + Josh's book
+
+spinlock -- address in both books
+read-write spinlock
+binary and counting semaphores
+read-write semaphores
+
 --instance field as char-array without terminating null
 This is recommended if those char-arrays are short and this class gets instantantiated frequently.
 
