@@ -92,9 +92,6 @@ Below I use the number of stars to denote the difficulty level + significance of
 * java body-building contest -- I remain confident
 ** coding drill -- visible and invisible progresses
 
---update blog on yogurt
-satisfying? Not really, but in the CNY context it is a low-calorie food
-
 --add to blog on whey
 if no temptation, i think one "MRP meal" can last 4 hours. With teptation, it is 20 minutes!
 
@@ -133,6 +130,8 @@ red wine + coke ? optional. No more than half a cup please, due to calorie
 tomato juice
 tea
 All other drinks (including skim milk) has too many calories yet unsatisfying
+
+better find out calorie content of wines for my next flights
 
 --mvea + platform features for body-building
 * multiple partial fills
