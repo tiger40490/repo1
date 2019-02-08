@@ -104,27 +104,6 @@ consider mixing one scoop MRP + one scoop of whey + teaspoon of chia
 :) precise calorie budgeting and tracking
 :) more filling
 :( 2 open bottles
---unexpected success
-dealing effectively with temptation
-ice cream and chocolate carving subsided
-boy's bmi finally improved
-LTVP
-mar flight very cheap
-
---unbroken (keep in 0.txt, later in twister)
-cholesterol
-fitness
-wife's competence
---achievements
-gv movie cards .. paid off
-LTVP
-peak retail ... CGT
-more cashflow created
-dresort
-maybank account closed
-maybank card renewed
-March trip booked
-
 --new blog: drinks on flight
 red wine + coke ? optional. No more than half a cup please, due to calorie
 tomato juice
@@ -148,15 +127,6 @@ better find out calorie content of wines for my next flights
 
 --git blogging: prefer many short paragraphs to ease git-diff
 
---d-resort review (low value ... avoid Oth)
-:) as planned, did some stretching and coding drill
-:) as planned, boy did lots of math 
-:) two beach stroll + cycling
-:) as planned, wild wild wet + buffet
-
---taxi fare to airport
-grab is demand-supply driven. For metered taxi,
-up to $20 but midnight has surcharge + booking fee, so I ended up paying $36
 --After we leave SG
 need to register to vote as SG citizens. It is an obligation
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
@@ -171,7 +141,33 @@ reading, assimilating, blogging about parenting, wellness, marriage .... can hav
 * my swim/jogging/chin-up
 * the $40 bike
 * iview laptop didn't fail as feared
+--unexpected success
+dealing effectively with temptation
+ice cream and chocolate carving subsided
+boy's bmi finally improved
+LTVP
+mar flight very cheap
+
+--unbroken (keep in 0.txt, later in twister)
+cholesterol
+fitness
+wife's competence
+--achievements
+gv movie cards .. paid off
+LTVP
+peak retail ... CGT
+more cashflow created
+dresort
+maybank account closed
+maybank card renewed
+March trip booked
 
 --I used to feel zbs will make me a great contributor to any system, but now I realize localSys is more important.
 
 In Citi muni, I wanted to use remote debugging to understand how the localsys worked, but even the best tool was only helping me in the battle between my brain power and the cummulative brain power sunk in
+
+--d-resort review (low value ... avoid Oth)
+:) as planned, did some stretching and coding drill
+:) as planned, boy did lots of math 
+:) two beach stroll + cycling
+:) as planned, wild wild wet + buffet
