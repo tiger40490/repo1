@@ -1,31 +1,6 @@
 !! ~~~~ before posting to blog, ensure this is worthwhile ~~~~
 there's a cost to posting, adjusting, tagging ...
 
---new blog: ## linux concurrency support features
-This topic is deep and time consuming so I will only learn some jargons for show-off
-
-I have the OReilly book + Josh's book
-
-spinlock -- addressed in both books
-read-write spinlock
-binary and counting semaphores
-read-write semaphores
-
---instance field as char-array without terminating null
-This is recommended if those char-arrays are short and this class gets instantantiated frequently.
-
-Drawback -- when you print this field, the printing function would keep printing beyond the field boundary looking for the terminating null. I saw this in my nyse-intg parser
-
-So as a personal best practice I often saves the terminating null in my char-array field
-
---empty parens
-cout<<fun3() // is perfectly fine
-cout<<MyClass2() // probably bad form
-
-Calling a ctor with an empty parens is ... not common. If you want to invoke the no-arg ctor, better drop the redundant parens.
-
-by the way, it's almost always more flexible to implement a no-arg ctor using default-args
-
 --new blog: more time+facilities4reflective blogging 
 .. is a major benefit I'm willing to pay for.
 
@@ -64,3 +39,28 @@ Now I am facing the temptation, next battle is portion control
 
 --new blog: bridge floss
 sensitivity in lower left middle tooth -- the gap between 2 bonding points is too small to reach
+--new blog: ## linux concurrency support features
+This topic is deep and time consuming so I will only learn some jargons for show-off
+
+I have the OReilly book + Josh's book
+
+spinlock -- addressed in both books
+read-write spinlock
+binary and counting semaphores
+read-write semaphores
+
+--instance field as char-array without terminating null
+This is recommended if those char-arrays are short and this class gets instantantiated frequently.
+
+Drawback -- when you print this field, the printing function would keep printing beyond the field boundary looking for the terminating null. I saw this in my nyse-intg parser
+
+So as a personal best practice I often saves the terminating null in my char-array field
+
+--empty parens
+cout<<fun3() // is perfectly fine
+cout<<MyClass2() // probably bad form
+
+Calling a ctor with an empty parens is ... not common. If you want to invoke the no-arg ctor, better drop the redundant parens.
+
+by the way, it's almost always more flexible to implement a no-arg ctor using default-args
+
