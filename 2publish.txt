@@ -4,16 +4,13 @@ there's a cost to posting, adjusting, tagging ...
 --new blog: more time+facilities4reflective blogging 
 .. is a major benefit I'm willing to pay for.
 
-It's part of "wellbeing/福分" for me, similar to having grandpa or a friend to listen to me. I feel grandpa himself is 
+It's part of "wellbeing/福分" for me, similar to having grandpa or a friend to listen to me. Often feels like a luxury.
+
+A busy job is therefore a hazard for me
 
 --add to blog on staying rented
-boy is influenced by classmates, so he needs a better school.
+compared to me as a student, boy is more influenced by classmates, so he needs a better school.
 better stay rented so we can move easily
-
---portable digital piano
-Casio PX160. Given 88 keys, this is the lightest model I know. Can remove the stand and further reduce the weight.
-
-My pet peeve for digital pianos is the finger touch. Looks like all the models (I only tried those below $2k) are equally bad, but better than those toy models.
 
 --add to blog on light reading
 free newspapers have never proven to be worth carrying. I always find something more interesting or worthwhile to read
@@ -23,7 +20,7 @@ This NGRY is much lower than other cities.
 
 luxury studio and not a shop. 
 
-Vietnam residential is similar, but rental demand is very low.
+Vietnam luxury residential propperties are similar, but rental demand is lower than BGC.
 
 --better find out calorie content of wines for my next flights
 
@@ -38,7 +35,13 @@ first battle is how to avoid the temptation.
 Now I am facing the temptation, next battle is portion control
 
 --new blog: bridge floss
+find in dollar shops or walmart
 sensitivity in lower left middle tooth -- the gap between 2 bonding points is too small to reach
+--portable digital piano
+Casio PX160. Given 88 keys, this is the lightest model I know. Can remove the stand and further reduce the weight.
+
+My pet peeve for digital pianos is the finger touch. Looks like all the models (I only tried those below $2k) are equally bad, but better than those toy models.
+
 --new blog: ## linux concurrency support features
 This topic is deep and time consuming so I will only learn some jargons for show-off
 
@@ -63,4 +66,3 @@ cout<<MyClass2() // probably bad form
 Calling a ctor with an empty parens is ... not common. If you want to invoke the no-arg ctor, better drop the redundant parens.
 
 by the way, it's almost always more flexible to implement a no-arg ctor using default-args
-
