@@ -1,4 +1,4 @@
---before posting to blog, ensure this is worthwhile --
+!! ~~~~ before posting to blog, ensure this is worthwhile ~~~~
 there's a cost to posting, adjusting, tagging ...
 
 --new blog: ## linux concurrency support features
