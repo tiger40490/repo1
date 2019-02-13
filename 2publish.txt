@@ -2,6 +2,8 @@
 there's a cost to posting, adjusting, tagging ...
 
 --new blog: retirement burn rate is 33% of current
+othRisk
+
 Conventional wisedom says 75%. I would say 33% based on SG lifestyle assuming 0 inflation.
 
 My 2016 burn rate analysis shows that only 2k/m is couple core burn rate, so the conventional wisedom estimate is highly misleading.
