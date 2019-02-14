@@ -3,5 +3,16 @@
 [L=leetcode]
 [v=easy to verify]
 
+=====Q (Deepak19): given a black/white but mostly white matrix, for each cell, compute the least horizontal/vertial steps (shortest distance) to a black cell.
+
+Theoretical limit: O(NN) assuming square matrix
+
+--idea 1 (DP):
+Scan#1 from top left, update each cell with a "left-score" i.e. shortest dist assuming all lower and rightside cells are hopeless.
+
+Scan#2 from bottom right
+
+Scan#3 (can be part of Scan#2)combine the data
+
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog
