@@ -5,6 +5,34 @@
 
 =====Q (Deepak19): given a black/white but mostly white matrix, for each cell, compute the least horizontal/vertial steps (shortest distance) to a black cell.
 
+Given a Matrix with 1's and very few 0's, replace all the 1's in the matrix with the adjacent distance to nearest 0. There can be more than one '0' in the matrix
+
+Ex : Input: //Matrix contains more than one '0'
+Matrix = {      1, 1, 1, 1, 1,
+                1, 1, 1, 1, 1,
+                0, 1, 1, 1, 1,
+                1, 1, 1, 1, 1,
+                1, 1, 0, 1, 1 };
+Output = {      2, 3, 2, 3, 4,
+                1, 2, 1, 2, 3,
+                0, 1, 0, 1, 2,
+                1, 2, 1, 2, 3,
+                2, 1, 0, 1, 2 }
+
+The Original question that was asked in the Interview was simpler. The actual question was given a Matrix, replaces all 1's with distance form the Element that contains 0. In this problem there is only One '0' in the Matrix.
+
+Input : //Matrix contains exactly One '0'
+Matrix = {      1, 0, 1, 1,
+                1, 1, 1, 1,
+                1, 1, 1, 1,
+                1, 1, 1, 1 }
+Output = {       1, 0, 1, 2,
+                 2, 1, 2, 1,
+                 1, 2, 3, 4,
+                 4, 3, 4, 5 };
+		   
+NOTE : Only Adjacent distance is to be calculated, not Diagonal. 
+-------------------
 Theoretical limit: O(NN) assuming square matrix
 
 --idea 1 (DP):
