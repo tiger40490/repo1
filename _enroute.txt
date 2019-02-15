@@ -6,7 +6,6 @@
 =====Q (Deepak19): given a black/white but mostly white matrix, for each cell, compute the least horizontal/vertial steps (shortest distance) to a black cell.
 
 Given a Matrix with 1's and very few 0's, replace all the 1's in the matrix with the adjacent distance to nearest 0. There can be more than one '0' in the matrix
-
 Ex : Input: //Matrix contains more than one '0'
 Matrix = {      1, 1, 1, 1, 1,
                 1, 1, 1, 1, 1,
@@ -36,11 +35,13 @@ NOTE : Only Adjacent distance is to be calculated, not Diagonal.
 Theoretical limit: O(NN) assuming square matrix
 
 --idea 1 (DP):
-Scan#1 from top left, update each cell with a "left-score" i.e. shortest dist assuming all lower and rightside cells are hopeless.
+Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells right-and-lower than current.
 
 Scan#2 from bottom right
 
 Scan#3 (can be part of Scan#2)combine the data
+
+Rationale -- for each while cell, the shortest path can be in either BR quadrant (Scan2) or (Scan1) the other 3 quadrants. 
 
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog
