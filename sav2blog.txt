@@ -1,7 +1,46 @@
---where to put a reminder?
-alt-shift -- changes input language as the windows standard 
+--where to put this reminder? Put in on google calendar once a day
+"alt-shift -- changes input language as the windows standard"
 
-google calendar once a day
+--healthy diet tips given by SG HPB #orange
+#1 tip -- reduce animal fat
+cakes and bbq meat -- portion control
+recommended -- steaming, boiling, roasting
+recommended -- sugar substitues; sugarfree drinks; chinese tea
+orange is safe even though not leanest. Orange is not as low-cal as some veg but Singapore HPB (and many experts would agree) picked orange as the safest food. Much safer than most foods we eat during a festive season. I would say the same about the MRP.
+
+--new blog: [19] living my dream life
+These are elements of the dream life I envisioned 5..20 years ago:
+
+beautiful kids + wife. Stable family
+health -- bmi, sleep ..
+debt free; concrete, spacious home paid off
+reliable passive incomes
+active mind, hightly relevant to the current economy
+job security, arguably even higher than the FTE
+
+--new blog (vague):
+bitter setbacks since mid 2012 as I look back in 2019:
+* MSFM poor ROI. See tabulation
+* long service, moving-up attempts failed 3 times in SG. Self-esteem damaged each time
+* c++ visible progress is slow; c# visible progress yes but abandoned
+* FSM and trading as a side project and new direction? didn't realy bear fruits 
+
+Now I feel failed attempts are part of life for everyone of us unless you don't make any attempt. It's irresponsible to avoid reviewing those unsuccessful attempts, but let's not be too fixated on the negatives. 
+
+It is more useful and motivating to spot and perceive the positives -- progress, breakthrough, unexpected longevity... 
+
+Below I use the number of stars to denote the difficulty level + significance of each positive:
+** Beijing and khm properties
+** boy did OK in P4 major exam -- science and Eng esp. strong performance
+** boy sticking to piano and swimming
+* meimei showing absorbency
+* kids' Chinese showing big progress
+** my wellness maintained, and even improved slightly
+* 2018 weight and diet improvement
+* reunions are satisfying
+*** 2015-2018 c++ breakthrough (including technical wins) in the body-building contest
+* java body-building contest -- I remain confident
+** coding drill -- visible and invisible progresses
 
 --new blog: CNY trip diet review
 In terms of weight (and probably calorie) ... not so effective. I would guess my weight (in Retro) would be 64kg so I plan to bring it down gradually back to 63 and 62.5 kg
@@ -47,47 +86,6 @@ I did that in two steamboat dinners ...
 * even 57kg is safe for me? No comment
 * I believe 69 kg would be the upper limit of my green zone
 * lower end of bmi green zone doesn't imply low cholesterol
-
---healthy diet tips given by SG HPB #orange
-#1 tip -- reduce animal fat
-cakes and bbq meat -- portion control
-recommended -- steaming, boiling, roasting
-recommended -- sugar substitues; sugarfree drinks; chinese tea
-orange is safe even though not leanest. Orange is not as low-cal as some veg but Singapore HPB (and many experts would agree) picked orange as the safest food. Much safer than most foods we eat during a festive season. I would say the same about the MRP.
-
---new blog: [19] living my dream life
-These are elements of the dream life I envisioned 5..20 years ago:
-
-beautiful kids + wife. Stable family
-health -- bmi, sleep ..
-debt free; concrete, spacious home paid off
-reliable passive incomes
-active mind, hightly relevant to the current economy
-job security, arguably even higher than the FTE
-
---new blog (vague):
-bitter setbacks since mid 2012 as I look back in 2019:
-* MSFM poor ROI. See tabulation
-* long service, moving-up attempts failed 3 times in SG. Self-esteem damaged each time
-* c++ visible progress is slow; c# visible progress yes but abandoned
-* FSM and trading as a side project and new direction? didn't realy bear fruits 
-
-Now I feel failed attempts are part of life for everyone of us unless you don't make any attempt. It's irresponsible to avoid reviewing those unsuccessful attempts, but let's not be too fixated on the negatives. 
-
-It is more useful and motivating to spot and perceive the positives -- progress, breakthrough, unexpected longevity... 
-
-Below I use the number of stars to denote the difficulty level + significance of each positive:
-** Beijing and khm properties
-** boy did OK in P4 major exam -- science and Eng esp. strong performance
-** boy sticking to piano and swimming
-* meimei showing absorbency
-* kids' Chinese showing big progress
-** my wellness maintained, and even improved slightly
-* 2018 weight and diet improvement
-* reunions are satisfying
-*** 2015-2018 c++ breakthrough (including technical wins) in the body-building contest
-* java body-building contest -- I remain confident
-** coding drill -- visible and invisible progresses
 
 --add to blog on whey
 if no temptation, i think one "MRP meal" can last 4 hours. With teptation, it is 20 minutes!
