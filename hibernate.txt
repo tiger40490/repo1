@@ -4,7 +4,8 @@
 Hi Jay,
 
 Here's a new proposal
-* I will take an unpaid sabbatical for about 20 months starting Jul (or Aug..) 2019
+* I will take an unpaid sabbatical for about 20 months
+starting Jun (or Jul..) 2019
 * will rejoin CEM in spring 2021, on my own to set things up for the family. I will then bring my family over before my son turns 13 in Aug 2019.
 
 Reason 1: to spend a few years with my aging parents. My last chance, as my dad is too old travel to the U.S. and live with me.
@@ -14,25 +15,36 @@ Reason (minor): income and cost -- there's cost saving in living with family. Pl
 
 Legal questions:
 Q: My priority date will be unaffected since CEM won't revoke my i-140?
-Q: China-EB2 vs China-EB3 queues. Not sure which is faster. I have a U.S. master degree (UChicago) so you can help me upgrade to EB2 when needed, right?
-Q: my wife and daughter needs to be on the GC process, are they?
 
 My decision is not finalized. If no good plan, then I can bring my family over in 2019 or 2020.
 
 --notes on hibernaet timing
+Current job is very comfortable. I don't want to give up easily.
+
 avoid accidental billing loss, so better arrive in SG and immediately start working. Better do that After Korea trip
 
+get an offer by Oct, before end of season.
 --priority for sg search:
 workload is more imp than commute or income, but workload is hard to predict.
 
 So my tentative priorities:
 * max salary with promised carefree
-* commute
+* LG - commute: can rent a home near office if needed
 * LG - strategic tsn such as more c++
 
 I still see more room for growth in my c++ecosystem profile, which primises to enhance my java profile
 
 Java continues to be my stronger arm and lower-hanging fruit
+
+If I Let Go every preference, then it should be easy to find a 150k job fairly quickly
+
+How about Macq? Jason's team? Yes
+
+How about bofa? Yes but not quartz. Risk is real
+
+How about Citi in Changi? Yes
+
+How about Ashish's team? Not keen to learn c#
 
 --email already sent out
 今天收到美国移民部 I-140 批准函， 我正式完成绿卡过程第二阶段。 再等上几年就可以拿绿卡了。 I-140 批准意味着我可以选择换雇主调高薪水， 也可考虑回新工作几年。
