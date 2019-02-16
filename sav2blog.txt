@@ -5,7 +5,7 @@
 * exam grades
 * diet
 
---where to put this reminder? Put in on google calendar once a day
+--where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
 --healthy diet tips given by SG HPB #orange
