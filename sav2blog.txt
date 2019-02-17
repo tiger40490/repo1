@@ -1,6 +1,3 @@
---update to blog on retirement time usage
-GP said at his age, he loves reading but has no physical energy
-
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
 * c++/C#/java IV pass rate
 * pure algo IV pass rate
