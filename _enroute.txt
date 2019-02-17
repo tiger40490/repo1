@@ -35,7 +35,7 @@ NOTE : Only Adjacent distance is to be calculated, not Diagonal.
 Theoretical limit: O(NN) assuming square matrix
 
 --idea 1 (DP):
-Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells right-and-lower than current.
+Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells i.e. though right-and-lower than current.
 
 Scan#2 from bottom right
 
