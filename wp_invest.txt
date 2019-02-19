@@ -1,3 +1,10 @@
+--what div stocks to market-buy and what to buy with GTC
+* high div REIT: market-buy if low quantum and highly rated
+* blue chip @5%: GTC
+* light-blue chip @6%: GTC
+
+mkt buy is low tcost due to lower due diligence
+
 --not worth publishing
 Not a bad thing that i didn't buy a 2nd hdb home under gm or sister's name. rental yield would be much lower than cambodia though very stable and safe
 
