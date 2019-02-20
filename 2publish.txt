@@ -1,3 +1,8 @@
+--update blog on car ownership
+winter everyday shopping -- Half the days are too cold and I can't rely on light rail + walk
+
+--research how to disable highlight of trailing space
+
 --new blog: div stock beats income funds
 I have never [1] earned dividend yield above 10% so I am keen to experience it.
 
