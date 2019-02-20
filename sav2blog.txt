@@ -156,10 +156,6 @@ better find out calorie content of wines for my next flights
 * global limit check
 * agg unit limit check
 
---git blogging: prefer many short paragraphs to ease git-diff
-
---After we leave SG
-need to register to vote as SG citizens. It is an obligation
 --It takes huge efforts to extract a few hours of coding drill, harder than oil sand extraction. I would want to pay extra (train ticket.. prepaid SIM card for google search...) to increase the extraction rate
 
 --productivity concept
