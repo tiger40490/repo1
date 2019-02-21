@@ -4,6 +4,14 @@ My wife hates cold weather.
 As I get older, I too prefer warmer cities like SG.
 
 --I booked Mar2019 trip quickly because I'm now less fixated on cash flow and I value family time more highly
+This could be a good start of a progressive change.
+
+--new blog: locking]rebus #CSY
+I think 100,000 locks sound too exessive. I would need a hashtable lookup to locate the lock before checking. This would be on the critical path of every update to the per-symbol AVL
+
+Here's my design based on a single global lock:
+* Regular writer threads only checks the lock and never acquires the lock. If lock is on (i.e. taken by the admin thread) then wait in a 1-sec sleep loop.
+* admin thread immediately and unconditionally takes the lock and wait for a second before writing. I assume writing can take up to 1 minute.
 
 --oth! no mean achievements this long weekend
 very healthy diet in office !
