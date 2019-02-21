@@ -7,11 +7,15 @@ As I get older, I too prefer warmer cities like SG.
 This could be a good start of a progressive change.
 
 --new blog: locking]rebus #CSY
-I think 100,000 locks sound too exessive. I would need a hashtable lookup to locate the lock before checking. This would be on the critical path of every update to the per-symbol AVL
+I think 100,000 locks is fine if symbols are consecutive integers. I simply use symbol as array index to locate the corresponding lock. Every worker thread and the admin thread would acquire the lock for symbol X before updating the AVL tree of X.
 
 Here's my design based on a single global lock:
 * Regular writer threads only checks the lock and never acquires the lock. If lock is on (i.e. taken by the admin thread) then wait in a 1-sec sleep loop.
-* admin thread immediately and unconditionally takes the lock and wait for a second before writing. I assume writing can take up to 1 minute.
+* admin thread immediately and unconditionally takes the lock and wait for a millisecond before writing. I assume writing can take up to 1 minute.
+* how to check lock? One solution -- Just trylock and unlock. LockFree solution -- atomic boolean to be set only on the admin thread
+
+--Is memory fence part of atomic<T> or volatile or both?
+I think statement re-order is an optimization and is disabled on volatile variables
 
 --oth! no mean achievements this long weekend
 very healthy diet in office !
