@@ -1,5 +1,5 @@
 --propose to Jay
-beware of information leak.
+beware of information leak. Better send after getting some SG offers
 
 Hi Jay,
 
