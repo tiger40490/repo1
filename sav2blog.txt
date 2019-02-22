@@ -133,19 +133,6 @@ better find out calorie content of wines for my next flights
 * global limit check
 * agg unit limit check
 
---unbroken
-* reunions 
-* boy's Chinese reading / renzi
-* my health on long flights
-* my swim/jogging/chin-up
-* the $40 bike
-* iview laptop didn't fail as feared
-
---unbroken (keep in 0.txt, later in twister)
-cholesterol
-fitness
-wife's competence
-
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
 * c++/C#/java IV pass rate
 * pure algo IV pass rate
