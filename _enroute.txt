@@ -9,7 +9,7 @@ Given a Matrix with 1's and very few 0's, replace all the 1's in the matrix with
 Ex : Input: //Matrix contains more than one '0'
 Matrix = {      1, 1, 1, 1, 1,
                 1, 1, 1, 1, 1,
-                0, 1, 1, 1, 1,
+                0, 1, 0, 1, 1,
                 1, 1, 1, 1, 1,
                 1, 1, 0, 1, 1 };
 Output = {      2, 3, 2, 3, 4,
