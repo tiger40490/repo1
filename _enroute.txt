@@ -35,13 +35,13 @@ NOTE : Only Adjacent distance is to be calculated, not Diagonal.
 Theoretical limit: O(NN) assuming square matrix
 
 --idea 1 (DP):
-Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells i.e. though right-and-lower than current.
+Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells i.e. cells right-and-lower of current.
 
-Scan#2 from bottom right
+Scan#2 from bottom right, to compute a BR score for each cell
 
-Scan#3 (can be part of Scan#2)combine the data
+Scan#3 (can be part of Scan#2) combine the data
 
-Rationale -- for each while cell, the shortest path can be in either BR quadrant (Scan2) or (Scan1) the other 3 quadrants. 
+Rationale -- for each white cell, the shortest path can be in either BR quadrant (Scan2) or (Scan1) the other 3 quadrants. 
 
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog

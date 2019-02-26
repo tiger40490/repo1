@@ -10,6 +10,7 @@ orange is safe even though not leanest. Orange is not as low-cal as some veg but
 bitter setbacks since mid 2012 as I look back in 2019:
 * MSFM poor ROI. See tabulation
 * long service, moving-up attempts failed 3 times in SG. Self-esteem damaged each time
+** Next time I get into a perm job, I will not try so hard
 * c++ visible progress is slow; c# visible progress yes but abandoned
 * FSM and trading as a side project and new direction? didn't realy bear fruits 
 
@@ -52,6 +53,7 @@ better find out calorie content of wines for my next flights
 * agg unit limit check
 
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
+(vague, not worth publishing)
 * c++/C#/java IV pass rate
 * pure algo IV pass rate
 * passive income growing including Energy12
