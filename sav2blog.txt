@@ -31,7 +31,6 @@ Below I use the number of stars to denote the difficulty level + significance of
 * java body-building contest -- I remain confident
 ** coding drill -- visible and invisible progresses
 
-
 better find out calorie content of wines for my next flights
 
 --mvea + platform features for body-building
@@ -51,6 +50,7 @@ better find out calorie content of wines for my next flights
 (vague, not worth publishing)
 * c++/C#/java IV pass rate
 * pure algo IV pass rate
+* online timed coding IV pass rate
 * passive income growing including Energy12
 * diet
 
@@ -59,9 +59,5 @@ better find out calorie content of wines for my next flights
 :) as planned, boy did lots of math 
 :) as planned, wild wild wet + buffet but overeating to be badly bloated
 
---new blog: I will prefer tropical retirement cities
-grandparents and many U.S. retires prefer warm.
-My wife hates cold weather.
-As I get older, I too prefer warmer cities like SG.
 --I booked Mar2019 trip quickly because I'm now less fixated on cash flow and I value family time more highly
 This could be a good start of a progressive change.
