@@ -47,10 +47,8 @@ Scan#3 (can be part of Scan#2) combine the data
 Rationale -- for each white cell, the shortest path can be in either BR quadrant (Scan2) or (Scan1) the other 3 quadrants. 
 
 --idea 2:
-scan #1 to save all white cell locations
+scan #1 to save all white cell locations. For each compute distance to center. At end of this scan, designte one whte cell as red i.e. closest to center.
 
-pick a random one as red
-
-scan 2: update all blacks with d2red. Now we have some baseline values, to be improved
+scan 2: update all black cells with d2red. Now we have some baseline values, to be improved
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog

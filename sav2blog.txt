@@ -11,27 +11,10 @@ bitter setbacks since mid 2012 as I look back in 2019:
 * MSFM poor ROI. See tabulation
 * long service, moving-up attempts failed 3 times in SG. Self-esteem damaged each time
 ** Next time I get into a perm job, I will not try so hard
-* c++ visible progress is slow; c# visible progress yes but abandoned
-* FSM and trading as a side project and new direction? didn't realy bear fruits 
+* c++ visible progress was slow; c# visible progress yes but abandoned
+* FSM and trading as a side project and new direction? Unwhelming exprience... didn't realy bear fruits 
 
-Now I feel failed attempts are part of life for everyone of us unless you don't make any attempt. It's irresponsible to avoid reviewing those unsuccessful attempts, but let's not be too fixated on the negatives. 
-
-It is more useful and motivating to spot and perceive the positives -- progress, breakthrough, unexpected longevity... 
-
-Below I use the number of stars to denote the difficulty level + significance of each positive:
-** Beijing and khm properties
-** boy did OK in P4 major exam -- science and Eng esp. strong performance
-** boy sticking to piano and swimming
-* meimei showing absorbency
-* kids' Chinese showing big progress
-** my wellness maintained, and even improved slightly
-* 2018 weight and diet improvement
-* reunions are satisfying
-*** 2015-2018 c++ breakthrough (including technical wins) in the body-building contest
-* java body-building contest -- I remain confident
-** coding drill -- visible and invisible progresses
-
-better find out calorie content of wines for my next flights
+Now I feel such failed attempts are part of life for everyone unless you don't make any attempt. It's irresponsible to avoid reviewing those unsuccessful attempts, but let's not be too fixated on the negatives. 
 
 --mvea + platform features for body-building
 * multiple partial fills
