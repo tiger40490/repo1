@@ -1,3 +1,12 @@
+--java QQ topics to brush up
+* high-level concurrency tools -- how they are related to the low-level
+* tuning best practices
+* GC
+* java8/9 fundamentals
+* serialization? not popular in IV
+* advanced generics? not popular in IV
+* reflection? not popular in IV
+ 
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
