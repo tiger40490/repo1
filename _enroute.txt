@@ -4,7 +4,7 @@
 [v=easy to verify]
 
 =====Q (Deepak 2019) tough matrix problem: 
-given a black/white but mostly white matrix, for each cell, compute the least horizontal/vertial steps (shortest distance) to a black cell.
+given a black/white but mostly white matrix, for each cell, compute the least horizontal/vertical steps (shortest distance) to a black cell.
 
 Given a Matrix with 1's and very few 0's, replace all the 1's in the matrix with the adjacent distance to nearest 0. There can be more than one '0' in the matrix
 Ex : Input: //Matrix contains more than one '0'
@@ -34,6 +34,19 @@ Output = {       1, 0, 1, 2,
 NOTE : Only Adjacent distance is to be calculated, not Diagonal. 
 -------------------
 Theoretical limit: O(NN) assuming square matrix
+
+suppose there are W white cells.
+
+if we know for sure the scores in four neighbors, then it's O(1) to work out my score.
+
+which cells have known scores? those next to the whites.
+
+--idea 3 (shells):
+scan #1 to save all white cell locations.
+
+scan #2 [O(W)] for each white, update the (4 or 8) cells around it
+
+Scan #3 for each white, update the 2nd shell
 
 --idea 1 (DP):
 Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells i.e. cells right-and-lower of current.
