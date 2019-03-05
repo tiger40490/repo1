@@ -1,26 +1,24 @@
---java QQ topics to brush up
+--[19]java QQ topics to brush up
 * high-level concurrency tools -- how they are related to the low-level
 * tuning best practices
-* GC
-* java8/9 fundamentals
+* GC in general
+* java8/9 fundamentals like default methods
+* new annotation features? not popular in IV
 * serialization? not popular in IV
-* advanced generics? not popular in IV
+* advanced generics like wildcard? not popular in IV
 * reflection? not popular in IV
  
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
---healthy diet tips given by SG HPB #orange
-#1 tip -- reduce animal fat
-recommended -- sugar substitutes; sugar-free drinks; Chinese tea
-orange is safe even though not leanest. Orange is not as low-cal as some veg but Singapore HPB (and many experts would agree) picked orange as the safest food. Much safer than most foods we eat during a festive season. I would say the same about the MRP.
 
---new blog (vague):
-bitter setbacks since mid 2012 as I look back in 2019:
+--new blog (oth)
+top 3 bitter setbacks in sg:
 * MSFM poor ROI. See tabulation
 * long service, moving-up attempts failed 3 times in SG. Self-esteem damaged each time
 ** Next time I get into a perm job, I will not try so hard
 * c++ visible progress was slow; c# visible progress yes but abandoned
+.. minor
 * FSM and trading as a side project and new direction? Unwhelming exprience... didn't realy bear fruits 
 
 Now I feel such failed attempts are part of life for everyone unless you don't make any attempt. It's irresponsible to avoid reviewing those unsuccessful attempts, but let's not be too fixated on the negatives. 
@@ -53,3 +51,6 @@ Now I feel such failed attempts are part of life for everyone unless you don't m
 
 --I booked Mar2019 trip quickly because I'm now less fixated on cash flow and I value family time more highly
 This could be a good start of a progressive change.
+--healthy diet tips given by SG HPB #orange
+recommended -- sugar substitutes; sugar-free drinks; Chinese tea
+orange is safe even though not leanest. Orange is not as low-cal as some veg but Singapore HPB (and many experts would agree) picked orange as the safest food. 
