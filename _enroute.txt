@@ -42,10 +42,8 @@ if we know for sure the scores in four neighbors, then it's O(1) to work out my 
 which cells have known scores? those next to the whites.
 
 --idea 3 (shells):
-scan #1 to save all white cell locations.
-
-scan #2 [O(W)] for each white, update the (4 or 8) cells around it
-
+scan #1 to save all white cell locations, and save all black cell locations in a blacklist
+scan #2 [O(W)] for each white, update the (4 or 8) cells around it. Remove the updated cells from the "blacklist"
 Scan #3 for each white, update the 2nd shell
 
 --idea 1 (DP):
