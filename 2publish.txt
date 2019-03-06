@@ -1,0 +1,20 @@
+--[19]java QQ topics to brush up
+* high-level concurrency tools -- how they are related to the low-level
+* tuning best practices
+* GC in general
+* java8/9 fundamentals?
+** but which ones? I guess shallow textbook nlg is enough
+* new annotation features? not popular in IV
+* serialization? not popular in IV
+* advanced generics like wildcard? not popular in IV
+* reflection? not popular in IV
+--new blog (oth)
+top 3 bitter setbacks in sg:
+* MSFM poor ROI. See tabulation
+* long service, moving-up attempts failed 3 times in SG. Self-esteem damaged each time
+** Next time I get into a perm job, I will not try so hard
+* c++ visible progress was slow; c# visible progress yes but abandoned
+.. minor
+* FSM and trading as a side project and new direction? Unwhelming exprience... didn't realy bear fruits 
+
+Now I feel such failed attempts are part of life for everyone unless you don't make any attempt. It's irresponsible to avoid reviewing those unsuccessful attempts, but let's not be too fixated on the negatives. 
