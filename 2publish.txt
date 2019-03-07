@@ -1,3 +1,6 @@
+--new blog
+a food with 0g fat or 0% DV of fat still has fat if calories from fat is nonzero
+
 --[19]java QQ topics to brush up
 * high-level concurrency tools -- how they are related to the low-level
 * tuning best practices
