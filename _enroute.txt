@@ -42,9 +42,13 @@ if we know for sure the scores in four neighbors, then it's O(1) to work out my 
 which cells have known scores? those next to the whites.
 
 --idea 3 (shells):
-scan #1 to save all white cell locations, and save all black cell locations in a blacklist
-scan #2 [O(W)] for each white, update the (4 or 8) cells around it. Remove the updated cells from the "blacklist"
+scan #1 to save all white cell locations, and save all black cell locations in a blacklist (binary shadow matrix of the same size as original matrix)
+scan #2 [O(W)] for each white, update the all cells around with distance 1. Remove the updated cells from the "blacklist"
 Scan #3 for each white, update the 2nd shell
+
+If a black cell is updated by 5 white cells in the same iteration, then all 5 whites would be equally distant, so the first of them would remove the black cell from blacklist.
+
+So each black cell is only updated once .. O(NN)?
 
 --idea 1 (DP):
 Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells i.e. cells right-and-lower of current.
