@@ -1,16 +1,6 @@
 --new blog
 a food with 0g fat or 0% DV of fat still has fat if calories from fat is nonzero
 
---[19]java QQ topics to brush up
-* high-level concurrency tools -- how they are related to the low-level
-* tuning best practices
-* GC in general
-* java8/9 fundamentals?
-** but which ones? I guess shallow textbook nlg is enough
-* new annotation features? not popular in IV
-* serialization? not popular in IV
-* advanced generics like wildcard? not popular in IV
-* reflection? not popular in IV
 --new blog (oth)
 top 3 bitter setbacks in sg:
 * MSFM poor ROI. See tabulation
