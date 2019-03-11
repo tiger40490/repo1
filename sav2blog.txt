@@ -1,3 +1,26 @@
+--update blog on my non-trivial python experiences
+decorators
+id()
+dir()
+module importation
+
+--new blog: python ecosystem knowledge
+core python QQ i.e. hard quizzes not needed in projects? unheard of
+python ecosystem QQ?
+
+--new blog
+##shallow exposures
+
+compared to the t_skillist 
+
+I would say few (bash, sql) of the items below offer any accu like my c++ and core java experience
+
+JGC -- i think most guys have only textbook knowledge, no working knowledge. No accu
+java latency tuning -- is an art not a science. Poor portability. JVM tuning is mostly about GC but at application level, real problem is usually I/O like datastore and serialization. Sometimes data structure and threading also matter
+bash scripting -- i read books for years but only gained some traction by writing many non-trivial bash scripts
+ajax -- 
+spring -- I used it many times but no breakthtrough. In-depth knowledge is never quizzed
+SQL -- 5 years typical experience is less than 1Y@PWM
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
