@@ -1,3 +1,7 @@
+--non-banks
+category -- web -- Pru, Lazada
+category -- non-web -- PocketMath, Ant
+
 --documentation
 print out the spreadsheet
 --warm up games
