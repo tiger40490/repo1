@@ -1,11 +1,3 @@
---alipay        |no lead| warm up| jee web lite
---mdaq          |no lead| core java
---sparks        |no lead| core java
---pocketmath DSP|no lead| warm up| jee high volume no web on AWS
---prudential    |no lead| warm up| ? role in web shop
---lazada        |no lead| warm up| full stack
-should ask about server side java
-
 --documentation
 print out the spreadsheet
 --warm up games
