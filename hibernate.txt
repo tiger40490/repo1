@@ -1,18 +1,48 @@
---new skills to read about
-make java apps cloud ready
 
-can list aws on cv
+--oveloaded... Reset Priority?
+LG web java self-study
+LG c++ study
+maintain yoga
+reduce cooking
+coding drill? Stop after Indeed
 
+--can list aws on cv? Basic AWS
+--coding drill for indeed:
+small problems using lot of python data structures
+fuxi python blog posts
+list comp
+define classes with fields
+combine multiple lines to 1
+triple quote comments
 --new blog: jxee^core java
-in terms of project LOE, core java < jxee, due to complexities in each jxee packages. See my blog on spring
+jxee (esp. web java) is fashionable ... high growth, big job pool
 
-in terms of IV body building and entry barrier, jxee < core java < cpp. I struggled with cpp IV for years but could crack c# IV more quickly. jxee skills are less elite, easy to self-study and often shallow by nature. No need to experiment at home or read books like I did on JMS, EJB, Spring
+in terms of churn, :) core java < jxee
+I am proven right.
 
-in terms of churn, core java < jxee
+In terms of shelf life, jxee <<< core java :(
+I am proven right.
+Is there some jxee component with stable demand and accu? Spring? Servlet is very relevant but not quizzed in IV! 
 
-core java is mostly limited to ibanks + some buy-side. jxee offers superior market depth
+in terms of project LOE, :) core java =< jxee, due to complexities in each jxee package and when you combine things in non-standard combinations. See my blog on spring.
 
---Q: am i waste my time trying the jxee roles? 
+in terms of IV body building and entry barrier, jxee < core java < cpp. I struggled with cpp IV for years but was able to crack c# IV more quickly. 
+
+jxee skills are less elite, easy to self-study and often shallow by nature. 
+All the complexities are hidden until you combine things it in a non-standad way.
+
+In terms of salary, jxee = core java = cpp.
+I was proven wrong.
+
+Even though c++ and core java are harder and more elitist, they don't pay higher.
+
+in terms of market depth+size, cpp < core java < jxee
+core java is mostly limited to ibanks + buy-side. jxee offers superior market depth
+I feel the job pool is growing for jxee not for core java or cpp. Similarly, job pool is growing for javascript, mobile, big data, cloud
+
+No need to experiment at home or read books like I did on JMS, EJB, Spring. It takes too much time but doesn't really give me confidence.
+
+--Q: am i wasting my time trying those jxee roles? 
 A: i can use them for warm-up
 A: jxee is still more realistic than c# roles!
 
@@ -20,16 +50,10 @@ A: jxee is still more realistic than c# roles!
 category -- web -- Pru, Lazada
 category -- non-web -- PocketMath, Alipay
 
---documentation
-print out the spreadsheet
 --warm up games
-first few interviews will not be best performing, so pick some unimportant companies at low salaries
+first few interviews will not be best performing, so pick some unimportant (web) companies at low salaries
 
 --notes on hibernate timing
-Employers who hire all-year rounds are very picky and have very few positions, like buy-sides. If we ignore them, then hiring season is Feb - Mar. Better capitalize on the Mar trip.
-* schedule interviews 
-* study on flight
-
 get an offer by Oct, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have, the more flexible with employer change
 
 --propose to Jay
@@ -39,7 +63,7 @@ Hi Jay,
 
 Here's a new proposal
 * I will take an unpaid sabbatical for about 20 months
-starting Jun (or Jul..) 2019
+starting Jul (or Aug..) 2019
 * will rejoin CEM in spring 2021, on my own to set things up for the family. I will then bring my family over before my son turns 13 in Aug 2019.
 
 Reason 1: to spend a few years with my aging parents. My last chance, as my dad is too old travel to the U.S.
