@@ -1,12 +1,24 @@
---Q: am i waste my time trying the j2ee roles? 
-A: i only use them for warm-up
-A: j2ee is more realistic than c# roles!
+--new skills to read about
+make java apps cloud ready
 
-core-java is limited to ibanks. j2ee enjoys better market depth
+can list aws on cv
+
+--new blog: jxee^core java
+in terms of project LOE, core java < jxee, due to complexities in each jxee packages. See my blog on spring
+
+in terms of IV body building and entry barrier, jxee < core java < cpp. I struggled with cpp IV for years but could crack c# IV more quickly. jxee skills are less elite, easy to self-study and often shallow by nature. No need to experiment at home or read books like I did on JMS, EJB, Spring
+
+in terms of churn, core java < jxee
+
+core java is mostly limited to ibanks + some buy-side. jxee offers superior market depth
+
+--Q: am i waste my time trying the jxee roles? 
+A: i can use them for warm-up
+A: jxee is still more realistic than c# roles!
 
 --non-banks
 category -- web -- Pru, Lazada
-category -- non-web -- PocketMath, Ant
+category -- non-web -- PocketMath, Alipay
 
 --documentation
 print out the spreadsheet
