@@ -1,3 +1,6 @@
+--Q: am i waste my time trying the j2ee roles? 
+A: i only use them for warm-up
+
 --non-banks
 category -- web -- Pru, Lazada
 category -- non-web -- PocketMath, Ant
