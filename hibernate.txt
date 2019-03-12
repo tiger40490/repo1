@@ -1,5 +1,8 @@
 --Q: am i waste my time trying the j2ee roles? 
 A: i only use them for warm-up
+A: j2ee is more realistic than c# roles!
+
+core-java is limited to ibanks. j2ee enjoys better market depth
 
 --non-banks
 category -- web -- Pru, Lazada
