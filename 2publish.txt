@@ -14,4 +14,9 @@
 * pspc: fill price adjustment
 * pspc: dynammic allocation of each fill quantity
 
+--new blog:
+t_feature^t_skillist
+Both tags rarely but could be on one post
+ ... t_feature to rename -> t_newFeatures
+
 --banana 90 cal/100g
