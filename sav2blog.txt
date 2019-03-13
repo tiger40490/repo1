@@ -9,7 +9,7 @@ i feel wellness effort always high leverage to varying degrees
 --new blog (not ready for publishing): criticalMass against churn 
 See also post on impact of c++jobs
 
-[tags t_gz_j^cpp, domain bet]
+[tags t_gz_j^cpp, domainBet]
 
 Critical mass (eg: in core java self-study) is one of the most effective strategies against technology churn. Once I accumulated the critical mass, I don't need a full time job to sustain it.
 
