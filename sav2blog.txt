@@ -33,21 +33,6 @@ What's in common among these features? We manipulate modules, classes and attrib
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
---mvea + platform features for body-building
-* multiple partial fills
-* all order types
-* index and known-basket orders
-* all strategies
-* each order state is persisted to support busts/cancels
-* restates
-* busting
-* throttle control for large or basket orders
-* avg pricing match to benchmark
-* auto hedging
-* global limit check
-* agg unit limit check
-* pspc: fill price adjustment
-* pspc: dynammic allocation of each fill quantity
 
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
 (vague, not worth publishing)
