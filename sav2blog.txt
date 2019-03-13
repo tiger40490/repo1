@@ -1,11 +1,3 @@
---update blog (oth)
-leverage concept of my own, inspired by the book
-very similar to ROTI but more long-term
-c# study? high leverage thanks to the initial gradient
-c# offered some xref xx
-yoga? questionable leverage .. not much visible progress
-i feel wellness effort always high leverage to varying degrees
-
 --new blog (not ready for publishing): criticalMass against churn 
 See also post on impact of c++jobs
 
@@ -41,17 +33,6 @@ make backup copies
 --yoga
 how to be less hard pushing?
 how to reward myself more?
-
---new blog: python metaprogramming features
-feature: module import
-feature: runtime code generation and introspection
-
-These are two of the most powerful py features. I wrote in another blog that py reflection is richer than c# and much richer than java
-
-feature: decorator layering and with param
-feature: metaclasses. IBM has an article
-
-What's in common among these features? We manipulate modules, classes and attributes as if they are ordinary data. In other words, we manipulate the program itself. That's hallmark of metaprogramming IMHO. We can check other people's idea of "metaproamming" but I don't have to follow theirs.
 
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
