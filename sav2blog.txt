@@ -1,5 +1,22 @@
+--update blog (oth)
+leverage concept of my own, inspired by the book
+very similar to ROTI but more long-term
+c# study? high leverage thanks to the initial gradient
+c# offered some xref xx
+yoga? questionable leverage .. not much visible progress
+
+--overloaded .. which one to lg?
+diet without zsms? challenging .. spend more on fancy, convenient foods
+lgpp crocs shopping 
+indeed push to next week like Thu evening
+
+--0 byte left .. very dangerous
+how do I manage this risk?
+Always git commit before closing file
+make backup copies
+
 --yoga
-how to be less pushing hard
+how to be less hard pushing?
 how to reward myself more?
 
 --new blog: python metaprogramming features
