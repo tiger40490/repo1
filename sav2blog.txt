@@ -1,3 +1,7 @@
+--yoga
+how to be less pushing hard
+how to reward myself more?
+
 --new blog: python metaprogramming features
 feature: module import
 feature: runtime code generation and introspection
