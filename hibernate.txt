@@ -1,12 +1,9 @@
-
 --oveloaded... Reset Priority?
 LG web java self-study
 LG c++ study
 maintain yoga
 reduce cooking
 coding drill? Stop after Indeed
-
---can list aws on cv? Basic AWS
 --coding drill for indeed:
 small problems using lot of python data structures
 fuxi python blog posts
