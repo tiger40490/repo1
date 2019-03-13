@@ -1,3 +1,14 @@
+--new blog: python metaprogramming features
+feature: module import
+feature: runtime code generation and introspection
+
+These are two of the most powerful py features. I wrote in another blog that py reflection is richer than c# and much richer than java
+
+feature: decorator layering and with param
+feature: metaclasses. IBM has an article
+
+What's in common among these features? We manipulate modules, classes and attributes as if they are ordinary data. In other words, we manipulate the program itself. That's hallmark of metaprogramming IMHO. We can check other people's idea of "metaproamming" but I don't have to follow theirs.
+
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
