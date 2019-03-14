@@ -42,9 +42,17 @@ if we know for sure the scores in four neighbors, then it's O(1) to work out my 
 which cells have known scores? those next to the whites.
 
 --idea 3 (shells):
-scan #1 to save all white cell locations, and save all black cell locations in a blacklist (binary shadow matrix of the same size as original matrix)
-scan #2 [O(W)] for each white, update the all cells around with distance 1. Remove the updated cells from the "blacklist"
+scan #1 to save all white cell locations, and save all black cell locations in a shadow matrix (bool shadow matrix of the same size as original matrix) and a blacklist (hashtable indexed by cell location)
+For each while, compute distance to center. At end of this scan, designte one whte cell as red i.e. closest to center.
+
+scan #1b[O(NN)] update all black cells with d2red. Now we have some baseline values, to be improved
+scan #2 [O(W)] for each white, update all cells around it with distance 1. Remove the updated cells from the "blacklist"
+
+Also set the bool in the shadow matrix
+
 Scan #3 for each white, update the 2nd shell
+
+details?
 
 If a black cell is updated by 5 white cells in the same iteration, then all 5 whites would be equally distant, so the first of them would remove the black cell from blacklist.
 
@@ -61,9 +69,5 @@ Scan#3 (can be part of Scan#2) combine the data
 
 Rationale -- for each white cell, the shortest path can be in either BR quadrant (Scan2) or (Scan1) the other 3 quadrants. 
 
---idea 2:
-scan #1 to save all white cell locations. For each compute distance to center. At end of this scan, designte one whte cell as red i.e. closest to center.
-
-scan 2: update all black cells with d2red. Now we have some baseline values, to be improved
 ====Q [c !e] next split@N boys
 ============= problems below should be posted to blog
