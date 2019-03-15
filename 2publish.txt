@@ -1,0 +1,33 @@
+--new blog: keep interview`:y rare]%%peers
+Many of my peers acknowledge the importance of job interivews, but they are able to move up so they don't need to interview again and again.
+
+Their model doesn't work for consultants.
+
+Their model doesn't woork for non-leaders.
+
+Their model is risky when they need to move out.
+
+--new blog: criticalMass against churn 
+See also post on impact of c++jobs
+
+[tags t_gz_j^cpp, t_domainBet]
+
+Critical mass (eg: in core java self-study) is one of the most effective strategies against technology churn. Once I accumulated the critical mass, I don't need a full time job to sustain it.
+
+Q: how strongly is it related to accumulation?
+A: not much AFTER you accumulate the critical mass. With java I did it through enough interviews and reading. 
+
+Q: why some domains offer no critical mass?
+A: some (jxee) have limited depth
+A: some (TMP, py) have No pattern identified from interview questions
+
+Q: how strongly is it related to leverage?
+A: not much though Critical mass enhances leverage
+
+..other examples of criticl mass against churn:
+SQL? yes though SQL is diminishing
+classic data structures? Yes
+c++? yes took much longer to reach criticl mass
+STL? yes
+socket? not yet
+
