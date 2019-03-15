@@ -1,0 +1,18 @@
+--138.4 lbs 14 Mar
+--reply to to deepak
+
+--choice of data structure
+Asuming STL disallowed, you spent too much time writing an always-sorted linked list. You could simply use an array such as an always-sorted array). 
+
+I think the focus of this problem is time complexity. Your linked list uses a linear probe with O(current_list_size) complexity for each insert. If I insert N=1000 elements, total complexity is O(NN), roughy 1 million. This is unnecesarily high. 
+
+An always-sorted array is also inefficient but is quick to implement. Better than that, you can use an unsorted array to hold all elements then upon printing request, sort the array in O(N logN) time and print the 95th percentile. 
+
+But there are faster data structures, given we don't need to sort bulk (95%) of the sample.
+
+--implementation given your design
+* Line 36 -- you return 0 by default, but what if the correct result is 0. Zero is a legitimate valule in the sample. You need a way to indicate an error condition such as exception or returning a pair.
+
+* You use NULL and nullptr interchangeably. I heard they are not interchangeable. Better be consistent.
+
+* Line 124 -- "new" is unnecesary if the list is a local variable in main().
