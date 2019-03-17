@@ -33,7 +33,7 @@ Output = {       1, 0, 1, 2,
 		   
 NOTE : Only Adjacent distance is to be calculated, not Diagonal. 
 -------------------
-Theoretical limit: O(NN) assuming square matrix
+Theoretical limit: O(N)
 
 suppose there are W white cells.
 
@@ -62,13 +62,13 @@ update-scan #2 for each location in the frontier, update adjacent green location
 
 Green count should now reduce. When it becomes 0 we are done.
 
-big-O? At each scan, the new frontier is usually larger than the old frontier until an inflection point. If before each update-scan we keep a count of the frontier collection size, i think they won't add up to exceed NN. Therefore, total complexity is O(NN)
+big-O? At each scan, the new frontier is usually larger than the old frontier until an inflection point. If before each update-scan we keep a count of the frontier collection size, i think they won't add up to exceed N. Therefore, total complexity is O(N)
 
 --idea 2 (shells):
 scan #1 to save all white cell locations, and save all black cell locations in a shadow matrix (bool shadow matrix of the same size as original matrix) and a blacklist (hashtable indexed by cell location)
 For each while, compute distance to center. At end of this scan, designte one whte cell as red i.e. closest to center.
 
-scan #1b[O(NN)] update all black cells with d2red. Now we have some baseline values, to be improved
+scan #1b[O(N)] update all black cells with d2red. Now we have some baseline values, to be improved
 scan #2 [O(W)] for each white, update all cells around it with distance 1. Remove the updated cells from the "blacklist"
 
 Also set the bool in the shadow matrix
@@ -79,7 +79,7 @@ details?
 
 If a black cell is updated by 5 white cells in the same iteration, then all 5 whites would be equally distant, so the first of them would remove the black cell from blacklist.
 
-So each black cell is only updated once .. O(NN)?
+So each black cell is only updated once .. O(N)?
 
 --idea 1 (DP):
 Scan#1 from top and left, update each cell with a "TL score" i.e. shortest dist ignoring the Bottom-Right quadrant of cells i.e. cells right-and-lower of current.
