@@ -1,3 +1,6 @@
+--new blog
+2018 peak OPRA msg rate
+Wikipedia "low latency" ... 1 million updates per second. My NYSE parser can handle 370,000 messges per second per thread
 --update blog:
 keeping 2 passports together is not ideal. The old passport gets in the way when I frequently take out current passport. 
 Perhaps keep old passport in pouch
