@@ -1,3 +1,5 @@
+--update blog on touch screen
+MSWE: finger zoom will cycle through the views: Details -> list -> small icons -> .. -> details
 --new blog
 2018 peak OPRA msg rate
 Wikipedia "low latency" ... 1 million updates per second. My NYSE parser can handle 370,000 messges per second per thread
