@@ -6,10 +6,22 @@ eg philippines -> pilip
 
 --solution 1: generate all abbr and check each but at some point we may have enough confidence to terminate the search
 
+====Q: insertion sort quick-n-dirty but correct
+====Q: merge 2 sorted slists
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
---merge sort using an aux array of same size
+--O(1) space solution
+Get a quick estimate of the median. 
+Then move two pointers from far ends towards center.
+Whenever med < left item,  freeze left ptr.
+Whenever right item < med, freeze right ptr.
+when both pointers stoped, swap them, then unfreeze both.
+
+Now list is partitioned into two halves. Now divide and conquer. Total logN scans.
+
+--O[N] space (not O[1]) idea
+merge sort using an aux array of same size
 1) divide the array into 2^j segments each up to 2 elements, rembering the (segment) boundaries.
 2) sort each segment
 3) merge first 2 segments and output to a new array of N but only use the first few slots
