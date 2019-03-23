@@ -28,7 +28,7 @@ O(1) space probably means swapping
 mutable?
 -- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
 
-====Q[c !e L !v]: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'. No dot !
+====Q[c !e L !v] 50%: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'. No dot !
 I think we can modify the existing solution. No need for an optimal solution
 
 =====Q[L] 60%: Given an array nums of K integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(KK)
@@ -39,7 +39,7 @@ test in leetcode? No obligation
 ====Q[c e v] implemet half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word is not sorted and container dupe letters. I think hashtable is needed
 
-====Q[Lv] : Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
+====Q[Lv] 80%: Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
 3: def
@@ -55,16 +55,22 @@ Example:
 Input: "23"
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]. 
 
---we need good variable names. The utility function would be
-set<vector<char>> gen(vector<char> const & lob /*lettersOnOneButton*/ , int repeat)
-type alias LOB for vector<char> or possibly a string
-To minimize confusion, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digit any more.
-222223444 would become {str_button -> bundle {set<vector<char>>, repeat, LOB}} ..{"er"->5 reps ...}
+--we need good variable names. 
+For the 9 digits, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digits any more.
+
+To minimize confusion, Create typedef LOB for either vector<char> or the string form
 
 struct Bundle{
-  set<vector<char>> club
-  size_t repeat;
-  LOB lob;
+  set<vector<char>> clubOfWords; 
+  size_t repeatOfThisButton;
+  LOB lob; //compile-time constant
 };
+The utility function would be
+Bundle gen(vector<char> const & lob /*lettersOnOneButton*/ , int repeat). This function is fairly simple. for er_5, we have 3^5 possible words in the club
 
-Miletone: the map is populated with the clubs. Now generate combos ... better use "append" approach.
+sort input into 222223444 then create map: 
+"er_5" -> a bundle
+"san1" -> a bundle
+"si_3" -> a bundle
+
+A major Miletone is when the map is populated with the clubs. Now generate combos ... better use "append" approach.
