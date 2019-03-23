@@ -1,7 +1,10 @@
+--update blog on 3 big changes in SG dev job market
+"conceding" market share.... Reson? .. Overall good news for me since my java arm is still stronger than c++ arm
+5) no longer blue-collar -- programmer used to be blue-collar support staff for the revenue staff. Some of the companies listed above treat programmers as first-class citizens.
 --update blog on touch screen
 MSWE: finger zoom will cycle through the views: Details -> list -> small icons -> .. -> details
 --new blog
-2018 peak OPRA msg rate
+2008 (GFC) peak OPRA msg rate
 Wikipedia "low latency" ... 1 million updates per second. My NYSE parser can handle 370,000 messges per second per thread
 --update blog:
 keeping 2 passports together is not ideal. The old passport gets in the way when I frequently take out current passport. 
