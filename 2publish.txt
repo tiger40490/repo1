@@ -1,3 +1,11 @@
+--new blog q[Node*] param can be..
+A Node address can be an entire aray of Node objects
+If the Node class has a nextNode field, then this param can represent a linked list, or head (or any node) of a linked list
+If Node class has left and right child nodes, then this param can represent a tree, or root (or any other) node of a tree
+
+Q: Can this param represent an array of linked lists? 
+A: No. Since each payload (aka element) in the array is a Node*, then the array looks like a Node**
+
 --update blog on locking in notify() 
 [[DougLea]] P233 points out that pthreads signal() doesn't require the lock being held
 
