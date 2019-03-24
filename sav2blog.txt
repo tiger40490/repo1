@@ -1,3 +1,12 @@
+--new blog conscious food decisions@flight
+This is a intriguing context -- very limited choices..
+* butter spread -- I'm able to resist
+* chocolate/icecream -- I never resist
+* crossant -- I find it hard to resist
+* creamy food (fatty) -- i find it hard to resist
+
+Pattern -- calory density is extreme in fat, but luckily in small amount
+Pattern -- starch is alsso hard to resist
 --new log success@concurrency features ] java^c++^c# 
 [tags t_othRisk]
 I'm biased towards java.

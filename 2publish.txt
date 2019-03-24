@@ -1,3 +1,9 @@
+--new blog
+shenzhen salary: RMB 350k/Y
+
+--buy travel pillow
+--update blog: why is rice pudding so delicious but moderate calorie? 
+Is it due to low fat?
 --new blog q[Node*] param can be..
 A Node address can be an entire aray of Node objects
 If the Node class has a nextNode field, then this param can represent a linked list, or head (or any node) of a linked list
