@@ -1,3 +1,38 @@
+--update blog on locking in notify() 
+[[DougLea]] P233 points out that pthreads signal() doesn't require the lock being held
+
+--update blog on binary semaphore #CSY (halo88)
+[[DougLea]] P220 confirms that in some cases release() can increase the binary semaphore to beyond 2, destroying the mutual exclusion control.
+
+However, java binary semaphore is a mutex because releasing a semaphore before aquiring has no effect
+
+--update blog all-static java class
+In [[DougLea]] P86, this foremost OO expert briefly noted that it can be best practice to replace a java singleton with an all-static class
+
+--new blog lazy singleton bsed on JVM dynamic classloading (halo88)
+In [[DougLea]] P86, this JVM expert pointed out that a simple "eager" singleton is eager in other language, but lazy in Java due to runtime on-demand class loading.
+
+Specifically we mean a public[1] static final field. This initialization is thread-safe by default. Assuming the field is immediately accessed after class loading, this simple design is comparable to the familiar synchronized lazy singleton. What are the pros and cons? 
+
+Synchronized singleton requires more legwork but 
+* It lets you pass ctor parameters at runtime. Note the singleton ctor is private but getInstance(userInput) is possible.
+* As hinted earlier, you may load the class but do not immediately use the instance, so the simple design incurs the expensive initialization cost too early.
+
+[[DougLea]] ws writen before java5. With java5, [[EffJava]] advocates enum.
+
+[1] DougLea actually prefers private with public getter, for encapsulation.
+
+--new blog starting thread in ctor (halo88)
+Q: is it good practice to call new Thread(..).start() in MyClass ctor?
+
+I feel 30% confidence this blog has another post on this subject, to be combined.
+
+P [[DougLea]] points out the potential danger of starting thread in a ctor, esp. if subclasses are beyond your control.
+
+The visibility effect is equivalent to parent thread releasing an implicit lock and acquisition by the run() on new thread.
+
+Frequently, the constructed MyClass instance is used by the new thread, but is MyClass fully constructed? It is if the new Thread(..).start() is last line in ctor, but what if this ctor runs as part of a subclass ctor? 
+
 --new blog 3 fundamental constructs in java concurrency
 The Doug Lea book is a classic. Published by the creator of java. [[Java Concurrency in Practice]] specifically says itself "is not an encyclopedic reference for All Things Concurrency for that, see Concurrent Programming in Java (Lea, 2000)"
 

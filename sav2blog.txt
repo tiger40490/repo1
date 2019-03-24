@@ -1,3 +1,15 @@
+--new log success@concurrency features ] java^c++^c# 
+[tags t_othRisk]
+I'm biased towards java.
+
+I feel c# concurrenncy is less impactful because most of the important concurrent systems use *nix servers not windows, and most concurrent programming jobs do not go to windows developers
+
+Outside windows, c++ concurrency is mostly based on the C library pthreads, non-OO and clumbsy.
+
+The c++11 thread classes are the next generation but not widely used.
+
+Java concurrency support is the most successful, well-designed from the beginning and extremely stable. It's simpler than c++11 thread classes. More than half the java interviews would ask threading, because java threading is understandable by the average programmer.
+
 --new blog
 my tech xx can't be driven completely by IV. I would end up chasing the tails in jxee...
 my tech xx can't be driven completely by the vague concept of zbs.
