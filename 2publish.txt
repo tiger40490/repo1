@@ -55,17 +55,6 @@ The visibility effect is equivalent to parent thread releasing an implicit lock 
 
 Frequently, the constructed MyClass instance is used by the new thread, but is MyClass fully constructed? It is if the new Thread(..).start() is last line in ctor, but what if this ctor runs as part of a subclass ctor? 
 
---new blog 3 fundamental constructs in java concurrency
-The Doug Lea book is a classic. Published by the creator of java. [[Java Concurrency in Practice]] specifically says itself "is not an encyclopedic reference for All Things Concurrency for that, see Concurrent Programming in Java (Lea, 2000)"
-
-Out of the 4 parts of this book, the last 3 are really about 
-* synchronized keyword (and the Lock classes released after the books was written)
-* wait/notify
-* Thread class and Runnable
-
-As such this book is centered around the "fundamental of fundamentals". Everything else in java concurrency is based on these 3 constructs. There's fundamentally no change to them in Java5,7,8,9 when I scanned through each "new feature lists"
-
-I said "no change". Lockfree is one major addition, but it's not nearly as widely useful as these three. Lockfree is a viable alternative to locks in appropriate situations, but for many complex concurrent systems, locks are the only viable option.
 --update blog on 3 big changes in SG dev job market
 "conceding" market share.... Reson? .. Overall good news for me since my java arm is still stronger than c++ arm
 5) no longer blue-collar -- programmer used to be blue-collar support staff for the revenue staff. Some of the companies listed above treat programmers as first-class citizens.
