@@ -1,15 +1,16 @@
 --new blog Empty base-class optimiztion
-This optmization only zeros out the runtime [1] size of baseclass subobject [2]. All other sizes of empty types are one.
+This optmization only zeros out the runtime [1] size of baseclass subobject [2]. All other sizes of empty types are the same -- one byte.
    
 Suppose Der subclasses B1 and B2.
-If B1 (or B2) is empty, then sizeof(B1) == 1 not zero, but at run time, the Der object size shows the B1 object has zero size, due to EBCO.
+Note on [1]:
+If B1 is empty, then the compile-time operator sizeof() shows sizeof(B1) == 1 not zero, but at run time, the Der object size shows the B1 sub-object has zero size, due to EBCO.
 
-If all of Der, B1 and B2 are empty, we know sizeof(Der) == 1, but how about rutime sizeof(an_Der_instance)? Also one, not zero, because this object is a baseclass subject.
+Note on [2]:
+If all of Der, B1 and B2 are empty, we know sizeof(Der) == 1, but how about rutime sizeof(an_Der_instance)? Also one, not zero, because this instance is not a baseclass subobject.
 
 --new blog
 shenzhen salary: RMB 350k/Y
 
---buy travel pillow
 --update blog: research .. why is rice pudding so delicious but moderate calorie? 
 Is it due to low fat?
 --new blog q[Node*] param can be..
