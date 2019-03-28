@@ -14,19 +14,19 @@ shenzhen salary: RMB 350k/Y
 --update blog: research .. why is rice pudding so delicious but moderate calorie? 
 Is it due to low fat?
 , relatively low sugar and high water content?
---new blog q[Node*] param can be..
-A Node address can be an entire aray of Node objects
-If the Node class has a nextNode field, then this param can represent a linked list, or head (or any node) of a linked list
-If Node class has left and right child nodes, then this param can represent a tree, or root (or any other) node of a tree
+--new blog q[Node*] param to a function can be..
+A Node address can represent an entire aray of Node objects
+If the Node class has a nextNode field, then this param can represent an entire linked list, or head (or any node) of a linked list
+If Node class has left and right child nodes, then this param can represent a tree, or a subtree
 
 Q: Can this param represent an array of linked lists? 
-A: No. Since each payload (aka element) in the array is a Node*, then the array looks like a Node**
+A: No. If each element in the array is a Node*, then the array looks like a Node**
 
 --update blog on locking in notify() 
 [[DougLea]] P233 points out that pthreads signal() doesn't require the lock being held
 
 --update blog on binary semaphore #CSY (halo88)
-[[DougLea]] P220 confirms that in some cases release() can increase the binary semaphore to beyond 2, destroying the mutual exclusion control.
+[[DougLea]] P220 confirms that in some cases release() can increase the binary semaphore value to beyond 1, destroying the mutual exclusion control.
 
 However, java binary semaphore is a mutex because releasing a semaphore before aquiring has no effect
 
