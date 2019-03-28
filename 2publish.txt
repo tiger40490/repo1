@@ -10,7 +10,7 @@ If all of Der, B1 and B2 are empty, we know sizeof(Der) == 1, but how about ruti
 shenzhen salary: RMB 350k/Y
 
 --buy travel pillow
---update blog: why is rice pudding so delicious but moderate calorie? 
+--update blog: research .. why is rice pudding so delicious but moderate calorie? 
 Is it due to low fat?
 --new blog q[Node*] param can be..
 A Node address can be an entire aray of Node objects
@@ -55,9 +55,6 @@ The visibility effect is equivalent to parent thread releasing an implicit lock 
 
 Frequently, the constructed MyClass instance is used by the new thread, but is MyClass fully constructed? It is if the new Thread(..).start() is last line in ctor, but what if this ctor runs as part of a subclass ctor? 
 
---update blog on 3 big changes in SG dev job market
-"conceding" market share.... Reson? .. Overall good news for me since my java arm is still stronger than c++ arm
-5) no longer blue-collar -- programmer used to be blue-collar support staff for the revenue staff. Some of the companies listed above treat programmers as first-class citizens.
 --update blog on touch screen
 MSWE: finger zoom will cycle through the views: Details -> list -> small icons -> .. -> details
 --new blog
@@ -74,28 +71,3 @@ Their model doesn't work for consultants.
 Their model doesn't woork for non-leaders.
 
 Their model is risky when they need to move out.
-
---new blog: criticalMass against churn 
-See also post on impact of c++jobs
-
-[tags t_gz_j^cpp, t_domainBet]
-
-Critical mass (eg: in core java self-study) is one of the most effective strategies against technology churn. Once I accumulated the critical mass, I don't need a full time job to sustain it.
-
-Q: how strongly is it related to accumulation?
-A: not much AFTER you accumulate the critical mass. With java I did it through enough interviews and reading. 
-
-Q: why some domains offer no critical mass?
-A: some (jxee) have limited depth
-A: some (TMP, py) have No pattern identified from interview questions
-
-Q: how strongly is it related to leverage?
-A: not much though Critical mass enhances leverage
-
-..other examples of criticl mass against churn:
-SQL? yes though SQL is diminishing
-classic data structures? Yes
-c++? yes took much longer to reach criticl mass
-STL? yes
-socket? not yet
-
