@@ -58,16 +58,15 @@ Frequently, the constructed MyClass instance is used by the new thread, but is M
 --update blog on touch screen
 MSWE: finger zoom will cycle through the views: Details -> list -> small icons -> .. -> details
 --new blog
-2008 (GFC) peak OPRA msg rate
-Wikipedia "low latency" ... 1 million updates per second. My NYSE parser can handle 370,000 messges per second per thread
+2008(GFC)peak OPRA msg rate
+Wikipedia "low latency" article says ... 1 million updates per second. Note My NYSE parser can handle 370,000 messges per second per thread !
 --update blog:
 keeping 2 passports together is not ideal. The old passport gets in the way when I frequently take out current passport. 
 Perhaps keep old passport in pouch
---new blog: keep interview`:y rare]%%peers
-Many of my peers acknowledge the importance of job interivews, but they are able to move up so they don't need to interview again and again.
+--new blog: keep interview`:y so rare with peers
+Many of my peers acknowledge the importance of job interivews, but some of them are able to move up so they don't need to interview again and again.
 
 Their model doesn't work for consultants.
-
 Their model doesn't woork for non-leaders.
-
 Their model is risky when they need to move out.
+Their model is risky when they grow old.
