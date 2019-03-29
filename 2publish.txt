@@ -8,13 +8,6 @@ If B1 is empty, then the compile-time operator sizeof() shows sizeof(B1) == 1 no
 Note on [2]:
 If all of Der, B1 and B2 are empty, we know sizeof(Der) == 1, but how about rutime sizeof(an_Der_instance)? Also one, not zero, because this instance is not a baseclass subobject.
 
---update blog:
-mkt depth -- jxee > coreJava > c++
-At every skill/salary level, there are jxee jobs. Even if I become older and slower, I can easily find jobs. 
-
-Look at CSY ... stuck in c++ with poor market depth.
-
-
 --update blog: research .. why is rice pudding so delicious but moderate calorie? 
 Is it due to low fat?
 , relatively low sugar and high water content?
