@@ -1,3 +1,10 @@
+--update blog on order cancel and bust
+When a trader cancels an order from a FIX connection, she can only cancel the pending portion in the exchange internal orderbook. What was filled is not subject to cancel.
+
+Bust is always initiated by whowever generates the execution report. Beside an exchange, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
+
+FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
+
 --update blog: at my age, favor mkt depth not high income. 
 I last discussed this in the context of mkt data domain.
 now discuss jxee
