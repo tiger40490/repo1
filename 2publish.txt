@@ -22,7 +22,7 @@ A: No. If each element in the array is a Node*, then the array looks like a Node
 --update blog on binary semaphore #CSY (halo88)
 [[DougLea]] P220 confirms that in some thread libraries release() can increment a 0/1 binary semaphore value to beyond 1, destroying the mutual exclusion control.
 
-However, java binary semaphore is a mutex because releasing a semaphore before aquiring has no effect
+However, java binary semaphore is a mutex because releasing a semaphore before aquiring has no effect but doesn't throw error.
 
 --update blog all-static java class
 In [[DougLea]] P86, this foremost OO expert briefly noted that it can be best practice to replace a java singleton with an all-static class
@@ -32,22 +32,22 @@ In [[DougLea]] P86, this JVM expert pointed out that a simple "eager" singleton 
 
 Specifically we mean a public[1] static final field. This initialization is thread-safe by default. Assuming the field is immediately accessed after class loading, this simple design is comparable to the familiar synchronized lazy singleton. What are the pros and cons? 
 
-Synchronized singleton requires more legwork but 
-* It lets you pass ctor parameters at runtime. Note the singleton ctor is private but getInstance(userInput) is possible.
+Synchronized singleton requires more legwork (by developer) but 
+* It lets you pass computed ctor parameters at runtime. Note the singleton ctor is private but yo can call getInstance(userInput).
 * As hinted earlier, if you load the class but do not immediately use the instance, then the simple design incurs the expensive initialization cost too early.
 
-[[DougLea]] ws writen before java5. With java5, [[EffJava]] advocates enum.
+[[DougLea]] was writen before java5. With java5, [[EffJava]] advocates enum.
 
-[1] DougLea actually prefers private with public getter, for encapsulation.
+[1] DougLea actually prefers private field with public getter, for encapsulation.
 
 --new blog starting thread in ctor (halo88)
-Q: is it good practice to call new Thread(..).start() in MyClass ctor?
+Q: is it good practice to call new Thread(..).start() in MyClass ctor? This is common practice in my projects. I feel there are always alternatives.
 
-I feel 30% confidence this blog has another post on this subject, to be combined.
+I feel 30% confident this blog has another blogpost on this subject, to be combined.
 
-P [[DougLea]] points out the potential danger of starting thread in a ctor, esp. if subclasses are beyond your control.
+[[DougLea]] points out the potential danger of starting thread in your ctor, esp. if subclasses are beyond your control.
 
-The visibility effect is equivalent to parent thread releasing an implicit lock and acquisition by the run() on new thread.
+The visibility effect is equivalent to parent thread releasing an implicit lock, and acquisition by run() on new thread.
 
 Frequently, the constructed MyClass instance is used by the new thread, but is MyClass fully constructed? It is if the new Thread(..).start() is last line in ctor, but what if this ctor runs as part of a subclass ctor? 
 
@@ -60,9 +60,9 @@ Wikipedia "low latency" article says ... 1 million updates per second. Note My N
 keeping 2 passports together is not ideal. The old passport gets in the way when I frequently take out current passport. 
 Perhaps keep old passport in pouch
 --update blog on order cancel and bust
-When a trader cancels an order from a FIX connection, she can only cancel the pending portion in the exchange internal orderbook. What was filled is not subject to cancel.
+When a trader cancels an order via a FIX connection, she can only cancel the pending portion remaining in the exchange internal orderbook. What was filled is not subject to cancel.
 
-Bust is always initiated by whowever generates the execution report. Beside an exchange, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
+Bust is always initiated by whowever generates the execution report. Beside exchanges, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
 
 FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
 
