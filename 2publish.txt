@@ -46,7 +46,7 @@ Specifically we mean a public[1] static final field. This initialization is thre
 
 Synchronized singleton requires more legwork but 
 * It lets you pass ctor parameters at runtime. Note the singleton ctor is private but getInstance(userInput) is possible.
-* As hinted earlier, you may load the class but do not immediately use the instance, so the simple design incurs the expensive initialization cost too early.
+* As hinted earlier, if you load the class but do not immediately use the instance, then the simple design incurs the expensive initialization cost too early.
 
 [[DougLea]] ws writen before java5. With java5, [[EffJava]] advocates enum.
 
