@@ -77,3 +77,5 @@ orange is safe even though not leanest. Orange is not as low-cal as some veg but
 
 --new blog
 a food with 0g fat or 0% DV of fat still has fat if calories from fat is nonzero
+--new blog
+shenzhen salary: RMB 350k/Y
