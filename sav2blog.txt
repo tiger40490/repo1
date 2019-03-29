@@ -14,12 +14,6 @@ Another person cited the fire-fighting mode
 CSDoctor said in some companies like Huawei, there's unhealthy culture of long hours in the office, eroding family time, but i think this is rare nowadays. 
 Most stressful "high performance" teams emphasize output and intensity ("productivity" and "efficiency") ... remember Kevin. 
 
---update blog on order cancel and bust
-When a trader cancels an order from a FIX connection, she can only cancel the pending portion in the exchange internal orderbook. What was filled is not subject to cancel.
-
-Bust is always initiated by whowever generates the execution report. Beside an exchange, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
-
-FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
 --new blog
 for my reflection writing, i prefer printout + real keyboard + postit.
 other thinkers may rely on their brain alone.

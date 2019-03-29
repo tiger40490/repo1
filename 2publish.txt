@@ -71,6 +71,13 @@ Wikipedia "low latency" article says ... 1 million updates per second. Note My N
 --update blog:
 keeping 2 passports together is not ideal. The old passport gets in the way when I frequently take out current passport. 
 Perhaps keep old passport in pouch
+--update blog on order cancel and bust
+When a trader cancels an order from a FIX connection, she can only cancel the pending portion in the exchange internal orderbook. What was filled is not subject to cancel.
+
+Bust is always initiated by whowever generates the execution report. Beside an exchange, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
+
+FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
+
 --new blog: keep interview`:y so rare with peers
 Many of my peers acknowledge the importance of job interivews, but some of them are able to move up so they don't need to interview again and again.
 
