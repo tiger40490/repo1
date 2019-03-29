@@ -1,20 +1,18 @@
---update blog on order cancel and bust
-When a trader cancels an order from a FIX connection, she can only cancel the pending portion in the exchange internal orderbook. What was filled is not subject to cancel.
+--new blog
+my tech xx can't be driven completely by IV. I would end up chasing the tails in jxee...
+my tech xx can't be driven completely by the elusive concept of zbs.
+my tech xx can't be driven by rank promotion including GTD as promotion is likely due to multiple factors
 
-Bust is always initiated by whowever generates the execution report. Beside an exchange, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
+my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
+* the topics are stable and 
+* I was able to stick to these career directions
 
-FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
-
---update blog: at my age, favor mkt depth not high income. 
-I last discussed this in the context of mkt data domain.
-now discuss jxee
-
+However, most of the java5 features are out of fashion in interviews. How about j8 features?
 --workload concerns even when peers are not faster than me
 Daniel Yan cited the factor of imposed deadline by exchange
 Another person cited the fire-fighting mode
 CSDoctor said in some companies like Huawei, there's unhealthy culture of long hours in the office, eroding family time, but i think this is rare nowadays. 
 Most stressful "high performance" teams emphasize output and intensity ("productivity" and "efficiency") ... remember Kevin. 
-
 --new blog: tsn:GTD^dnlg
 I now see two distinct sub-types of tsn. Note some jobs (RTS, mvea) offer both; some have none in hind sight; some offer something else yet unknown.
 * GTD (including instrumentation) helps me figure things out faster than peers, earn respect from mgr, ... but will i need that GTD?
@@ -22,6 +20,12 @@ I now see two distinct sub-types of tsn. Note some jobs (RTS, mvea) offer both; 
 * dnlg can help me break into new job markets such as c#, py, leadership xp, west cast.. but can I survive?
 ** prime eg is jxee including big data
 
+--update blog on order cancel and bust
+When a trader cancels an order from a FIX connection, she can only cancel the pending portion in the exchange internal orderbook. What was filled is not subject to cancel.
+
+Bust is always initiated by whowever generates the execution report. Beside an exchange, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
+
+FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
 --new blog
 for my reflection writing, i prefer printout + real keyboard + postit.
 other thinkers may rely on their brain alone.
@@ -46,18 +50,6 @@ Outside windows, c++ concurrency is mostly based on the C library pthreads, non-
 The c++11 thread classes are the next generation but not widely used.
 
 Java concurrency support is the most successful, well-designed from the beginning and extremely stable. It's simpler than c++11 thread classes. More than half the java interviews would ask threading, because java threading is understandable by the average programmer.
-
---new blog
-my tech xx can't be driven completely by IV. I would end up chasing the tails in jxee...
-my tech xx can't be driven completely by the vague concept of zbs.
-my tech xx can't be driven by promotion including GTD as promotion is unlikely due to multiple factors
-
-my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
-* the topics are stable and 
-* I was able to stick to these career directions
-
-However, most of the java5 features are out of fashion in interviews. How about j8 features?
-
 --overloaded .. which one to lg?
 diet without zsms? challenging .. spend more on fancy, convenient foods
 lgpp crocs shopping 
