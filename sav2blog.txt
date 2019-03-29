@@ -25,7 +25,7 @@ This is a intriguing context -- very limited choices..
 * crossant -- I find it hard to resist
 * creamy food (fatty) -- i find it hard to resist
 
-Pattern -- calory density is extreme in fat, but luckily in small amount
+Pattern -- calorie density is extreme in fat, but luckily in small amount
 Pattern -- starch is alsso hard to resist
 --new log success@concurrency features ] java^c++^c# 
 [tags t_othRisk]
@@ -47,15 +47,13 @@ indeed push to next week like Thu evening
 how do I manage this risk?
 Always git commit before closing file
 make backup copies
-
+--update blog: research .. why is rice pudding so delicious but moderate calorie? 
+Is it due to low fat, relatively low sugar and high water content?
 --yoga
 how to be less hard pushing?
 how to reward myself more?
-
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
-
-
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
 (vague, not worth publishing)
 * c++/C#/java IV pass rate
