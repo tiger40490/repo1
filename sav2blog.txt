@@ -1,5 +1,7 @@
 --new blogpost
+buy-side order orgination systems basically learn from past data (supervised learning?) and rely on /educated predictions/ based on pattern recognition.
 
+At Man group, the fastest such robot trade several times a day only. Other robots hold positions for 2 weeks or more.
 --new blogpost: 45-min commute when living with/out family
 After my son was born in NY, my 50-minute commute (Hamilton) vs 35-min commute (Newport) felt very differnt
 1-hr commute feels OK at mvea because ... no family and low workload
