@@ -1,0 +1,42 @@
+--new or update:
+strategic orgro is elusive. I can only think of c++ (lots of IV, but not increasing my salary...) and python
+I think every other tsn attampt has some "buts". Does it mean we should stop trying? No. If I had stayed within java/sql/perl then I would have been worse off.... fewer job opportunities,  less broadended techncial base
+
+my tsn ambition/dream is largely constrained by risks:
+* stigma/respect
+* figure things out faster than colleagues
+
+For these specific risks, my current risk tolerance is higher so I ought to be bolder.
+
+Note these risks exist with/out tsn. If want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
+
+--new blogpost ..
+am i too preoccupied with PIP stigma? Spending this much time is probably unproductive.
+
+The risk is real. So long as I have no thoughts about the topic i should keep working on it?
+
+--new blogpost
+my tech xx can't be driven completely by IV. I would end up chasing the tails in jxee...
+my tech xx can't be driven completely by the elusive concept of zbs.
+my tech xx can't be driven by rank promotion including GTD as promotion is likely due to multiple factors
+
+my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
+* the topics are stable and 
+* I was able to stick to these career directions
+
+However, most of the java5 features are out of fashion in interviews. How about j8 features?
+
+--workload concerns even when peers are not faster than me
+Daniel Yan cited the factor of imposed deadline by exchange
+Another person cited the fire-fighting mode
+CSDoctor said in some companies like Huawei, there's unhealthy culture of long hours in the office, eroding family time, but i think this is rare nowadays. 
+I feel most stressful "high performance" teams emphasize output and intensity ("productivity" and "efficiency") ... remember Kevin. 
+However, my Barcap workload was not so heavy but high impact :)
+
+--since 2007, very few examples of "effort->ROTI" including financial ROTI
+(vague, not worth publishing)
+* c++/C#/java IV pass rate
+* pure algo IV pass rate
+* online timed coding IV pass rate
+* passive income growing including Energy12
+* diet

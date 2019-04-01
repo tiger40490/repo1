@@ -1,14 +1,3 @@
---new or update:
-strategic orgro is elusive. I can only think of c++ (lots of IV, but not increasing my salary...) and python
-I think every other tsn attampt has some "buts". Does it mean we should stop trying? No. If I had stayed within java/sql/perl then I would have been worse off.... fewer job opportunities,  less broadended techncial base
-
-my tsn ambition/dream is largely constrained by risks:
-* stigma/respect
-* figure things out faster than colleagues
-
-For these specific risks, my current risk tolerance is higher so I ought to be bolder.
-
-Note these risks exist with/out tsn. If want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
 
 --new blog: yoga=no visPgress no long-term impact
 I wonder why I feel so motivated to keep up the effort
@@ -21,27 +10,6 @@ living with family, i predict i would again feel a big difference of 15 min chan
 Many people feel such a prediction is highly unreliable, but I feel past experience is very reliable
 
 staying with family, I get basically no time for study and very limited time for blogging.. about 5hr/week but I need 20-40 hr/week
---new blogpost ..
-am i too preoccupied with PIP stigma? Spending this much time is probably unproductive.
-
-The risk is real. So long as I have no thoughts about the topic i should keep working on it?
-
---new blogpost
-my tech xx can't be driven completely by IV. I would end up chasing the tails in jxee...
-my tech xx can't be driven completely by the elusive concept of zbs.
-my tech xx can't be driven by rank promotion including GTD as promotion is likely due to multiple factors
-
-my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
-* the topics are stable and 
-* I was able to stick to these career directions
-
-However, most of the java5 features are out of fashion in interviews. How about j8 features?
---workload concerns even when peers are not faster than me
-Daniel Yan cited the factor of imposed deadline by exchange
-Another person cited the fire-fighting mode
-CSDoctor said in some companies like Huawei, there's unhealthy culture of long hours in the office, eroding family time, but i think this is rare nowadays. 
-Most stressful "high performance" teams emphasize output and intensity ("productivity" and "efficiency") ... remember Kevin. 
-
 --new blogpost conscious food decisions@flight
 This is a intriguing context -- very limited choices..
 * butter spread -- I'm able to resist
@@ -78,13 +46,6 @@ how to be less hard pushing?
 how to reward myself more?
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
---since 2007, very few examples of "effort->ROTI" including financial ROTI
-(vague, not worth publishing)
-* c++/C#/java IV pass rate
-* pure algo IV pass rate
-* online timed coding IV pass rate
-* passive income growing including Energy12
-* diet
 
 --d-resort review (low value ... avoid Oth)
 :) as planned, did some stretching and coding drill
