@@ -1,6 +1,8 @@
-pay off $3800 ccard
+--
+for next few days i can carry my lenovo laptop + charger to office for blogging
 
 --new blog Empty base-class optimiztion
+lowMktVal
 This optmization only zeros out the runtime [1] size of baseclass subobject [2]. All other sizes of empty types are the same -- one byte.
    
 Suppose Der subclasses B1 and B2.
