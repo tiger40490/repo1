@@ -27,12 +27,7 @@ my tsn ambition/dream is largely constrained by risks:
 
 For these specific risks, my current risk tolerance is higher so I ought to be bolder.
 
-Note these risks exist with/out tsn. If want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
-
---new?
-am i too preoccupied with PIP stigma? Spending this much time is probably unproductive.
-
-The risk is real. So long as I have new thoughts about the topic i should keep working on it?
+Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
 
 --
 my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
