@@ -1,3 +1,5 @@
+--update blog
+PendingReview -- for now, I will use this for existing blogposts that require review
 --new blogpost
 sometimes I want more time blogging than chatting with gp!
 --new blogpost: 45-min commute when living with/out family
