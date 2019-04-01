@@ -44,17 +44,6 @@ Synchronized singleton requires more legwork (by developer) but
 
 [1] DougLea actually prefers private field with public getter, for encapsulation.
 
---new blog starting thread in ctor (halo88)
-Q: is it good practice to call new Thread(..).start() in MyClass ctor? This is common practice in my projects. I feel there are always alternatives.
-
-I feel 30% confident this blog has another blogpost on this subject, to be combined.
-
-[[DougLea]] points out the potential danger of starting thread in your ctor, esp. if subclasses are beyond your control.
-
-The visibility effect is equivalent to parent thread releasing an implicit lock, and acquisition by run() on new thread.
-
-Frequently, the constructed MyClass instance is used by the new thread, but is MyClass fully constructed? It is if the new Thread(..).start() is last line in ctor, but what if this ctor runs as part of a subclass ctor? 
-
 --update blog on touch screen
 MSWE: finger zoom will cycle through the views: Details -> list -> small icons -> .. -> details
 --new blog
@@ -69,12 +58,3 @@ When a trader cancels an order via a FIX connection, she can only cancel the pen
 Bust is always initiated by whowever generates the execution report. Beside exchanges, an internal crossing engine at an ibank can issue execution reports and therefore can initiate a bust.
 
 FX interdealer brokers? I don't know if they actually make the crossing decision or the dealers make the decision. I think FX is a quote driven market (Equity is order-driven.) so dealer may have the last look and the freedom to bust an execution.
-
---new blog: keep interview`:y so rare with peers
-Many of my peers acknowledge the importance of job interivews, but some of them are able to move up so they don't need to interview again and again.
-
-Their model doesn't work for consultants.
-Their model doesn't work for non-leaders.
-Their model is risky when they need to move out, or when office relocates. I have seen it in GS, Barc etc
-Their model is fragile when they are considered expensive old guards by their long-time employer. They have to keep up the value-add
-Their model is risky when they grow old.
