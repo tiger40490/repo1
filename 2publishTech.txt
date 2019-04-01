@@ -1,3 +1,8 @@
+--new blogpost
+buy-side order orgination systems basically learn from past data (supervised learning?) and rely on /educated predictions/ based on pattern recognition.
+
+At Man group, the fastest such robot trade only several times per day (not per second). Other robots hold positions for 2 weeks or more.
+
 --new blog Empty base-class optimiztion
 lowMktVal
 This optmization only zeros out the runtime [1] size of baseclass subobject [2]. All other sizes of empty types are the same -- one byte.
