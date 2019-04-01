@@ -1,6 +1,3 @@
-
---new blog: yoga=no visPgress no long-term impact
-I wonder why I feel so motivated to keep up the effort
 --new blogpost
 sometimes I want more time blogging than chatting with gp!
 --new blogpost: 45-min commute when living with/out family
@@ -10,26 +7,6 @@ living with family, i predict i would again feel a big difference of 15 min chan
 Many people feel such a prediction is highly unreliable, but I feel past experience is very reliable
 
 staying with family, I get basically no time for study and very limited time for blogging.. about 5hr/week but I need 20-40 hr/week
---new blogpost conscious food decisions@flight
-This is a intriguing context -- very limited choices..
-* butter spread -- I'm able to resist
-* chocolate/icecream -- I never resist
-* crossant -- I find it hard to resist
-* creamy food (fatty) -- i find it hard to resist
-
-Pattern -- calorie density is extreme in fat, but luckily in small amount
-Pattern -- starch is alsso hard to resist
---new log success@concurrency features ] java^c++^c# 
-[tags t_othRisk]
-I'm biased towards java.
-
-I feel c# concurrenncy is less impactful because most of the important concurrent systems use *nix servers not windows, and most concurrent programming jobs do not go to windows developers
-
-Outside windows, c++ concurrency is mostly based on the C library pthreads, non-OO and clumbsy.
-
-The c++11 thread classes are the next generation but not widely used.
-
-Java concurrency support is the most successful, well-designed from the beginning and extremely stable. It's simpler than c++11 thread classes. More than half the java interviews would ask threading, because java threading is understandable by the average programmer.
 --overloaded .. which one to lg?
 diet without zsms? challenging .. spend more on fancy, convenient foods
 lgpp crocs shopping 
@@ -41,6 +18,8 @@ Always git commit before closing file
 make backup copies
 --update blogpost: research .. why is rice pudding so delicious but moderate calorie? 
 Is it due to low fat, relatively low sugar and high water content?
+--new blog: yoga=no visPgress no long-term impact
+I wonder why I feel so motivated to keep up the effort
 --yoga
 how to be less hard pushing?
 how to reward myself more?
@@ -48,7 +27,7 @@ how to reward myself more?
 "alt-shift -- changes input language as the windows standard"
 
 --d-resort review (low value ... avoid Oth)
-:) as planned, did some stretching and coding drill
+:) as planned, did some stretching and coding drill, but I basically forgot it !
 :) as planned, boy did lots of math 
 :) as planned, wild wild wet + buffet but overeating to be badly bloated
 
