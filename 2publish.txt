@@ -31,21 +31,6 @@ However, java binary semaphore is a mutex because releasing a semaphore before a
 --update blog all-static java class
 In [[DougLea]] P86, this foremost OO expert briefly noted that it can be best practice to replace a java singleton with an all-static class
 
---new blog lazy singleton bsed on JVM dynamic classloading (halo88)
-In [[DougLea]] P86, this JVM expert pointed out that a simple "eager" singleton is eager in other language, but lazy in Java due to runtime on-demand class loading.
-
-Specifically we mean a public[1] static final field. This initialization is thread-safe by default. Assuming the field is immediately accessed after class loading, this simple design is comparable to the familiar synchronized lazy singleton. What are the pros and cons? 
-
-Synchronized singleton requires more legwork (by developer) but 
-* It lets you pass computed ctor parameters at runtime. Note the singleton ctor is private but yo can call getInstance(userInput).
-* As hinted earlier, if you load the class but do not immediately use the instance, then the simple design incurs the expensive initialization cost too early.
-
-[[DougLea]] was writen before java5. With java5, [[EffJava]] advocates enum.
-
-[1] DougLea actually prefers private field with public getter, for encapsulation.
-
---update blog on touch screen
-MSWE: finger zoom will cycle through the views: Details -> list -> small icons -> .. -> details
 --new blog
 2008(GFC)peak OPRA msg rate
 Wikipedia "low latency" article says ... 1 million updates per second. Note My NYSE parser can handle 370,000 messges per second per thread !
