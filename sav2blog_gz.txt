@@ -1,7 +1,5 @@
 --no blogpost: I actually felt good receiving low salary offers like Nasdaq and NCS
 Somehow it confirms my value-add to the economy, my "health condition" 
---new or update:
-strategic orgro is elusive. Biggest success I can only think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
 
 --new?
 I think every other tsn attampt has some "buts". Does it mean we should stop trying? No. If I had stayed within java/sql/perl then I would have been worse off.... fewer job opportunities,  less broadended techncial base
@@ -20,16 +18,17 @@ am i too preoccupied with PIP stigma? Spending this much time is probably unprod
 
 The risk is real. So long as I have new thoughts about the topic i should keep working on it?
 
---new blogpost
+--
 my tech xx can't be driven completely by IV. I would end up chasing the tails in jxee...
 my tech xx can't be driven completely by the elusive concept of zbs.
-my tech xx can't be driven by rank promotion including GTD as promotion is likely due to multiple factors
+my tech xx can't be driven by rank promotion including GTD, as promotion is likely due to multiple factors
 
+--
 my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
 * the topics are stable and 
 * I was able to stick to these career directions
 
-However, most of the java5 features are out of fashion in interviews. How about j8 features?
+However, most of the java5 new features are out of fashion in interviews. How about j8 features?
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
 (vague, not worth publishing)
 * c++/C#/java IV pass rate
@@ -37,3 +36,5 @@ However, most of the java5 features are out of fashion in interviews. How about 
 * online timed coding IV pass rate
 * passive income growing including Energy12
 * diet
+--new or update:
+strategic orgro is elusive. Biggest success I can only think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
