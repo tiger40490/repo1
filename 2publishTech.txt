@@ -1,8 +1,3 @@
---new blogpost jvm spawns 32 GC threads on 32-cores
-jvm spawns 32 GC threads on 32-cores. As of 2017, this is the default, but you can change it with jvm parameters like ....
-
-java 9 introduced automatic detection of cpu-set when jvm runs in a cgroup (such as a docker container) with a cpu-set. JVM detects there are 3 cores in the cpu-set, and spawns 3 GC threads
-
 --new blogpost
 buy-side order orgination systems basically learn from past data (supervised learning?) and rely on /educated predictions/ based on pattern recognition.
 
