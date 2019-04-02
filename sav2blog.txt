@@ -1,3 +1,6 @@
+--update blog on cpu isolation/affinity
+In 2006 (Mansion) Solaris "zone" can specify which cpu core to use. 
+(If all zones follow, then we achieve cpu isolation/affinity)
 --update blog
 PendingReview -- for now, I will use this for existing blogposts that require review
 --new blogpost
