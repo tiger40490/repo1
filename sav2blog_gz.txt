@@ -1,11 +1,8 @@
 --no blogpost: I actually felt good receiving low salary offers like Nasdaq and NCS
 Somehow it confirms my value-add to the economy, my "health condition" 
 
---new?
-overrated -- engagement 
-overrated -- strategic orgro
 --new blogpost delights: strategic, engaged
-othRisk
+[tags t_othRisk]
 I feel my expectation was invariably too high in terms of strategic value therefore underwhelming. (engagement ... expectation was moderately too high) Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge a factor and overshadowed those little delights. For a perspective, look at the spreadsheet "predict next 3-5Y job satisfactioni"
 
 I chose a python job at Macq .. engaged for a few months and never disengaged, to my delight
@@ -44,4 +41,17 @@ However, most of the java5 new features are out of fashion in interviews. How ab
 * passive income growing including Energy12
 * diet
 --new or update:
-strategic orgro is elusive. Biggest success I can only think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
+long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
+
+c# -- i made sacrifices for deep-dive and experienced rare engagement + orgro. I have since given up the direction, as c# is not so relevant to...
+
+swing -- rare engagement + orgro
+
+--intangible gains{c#endeavor
+* self-confidence in absorbency and deep-dive
+* rare engagement, sustained focus, absorbency
+* removed most of my fear of windows dev
+* i'm no long afraid of a decline of java in the face of microsoft challenge. Right now, java is challenged mostly by python and javascript
+* growing confidence with msvs
+* insight into the evolution and cross pollonization among the big3 languages
+* experienced with scripting on windows
