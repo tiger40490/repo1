@@ -54,4 +54,5 @@ swing -- rare engagement + orgro
 * i'm no long afraid of a decline of java in the face of microsoft challenge. Right now, java is challenged mostly by python and javascript
 * growing confidence with msvs
 * insight into the evolution and cross pollonization among the big3 languages
-* experienced with scripting on windows
+* experience grew from 0 to 5/10 in server side dev and scripting on windows
+* 
