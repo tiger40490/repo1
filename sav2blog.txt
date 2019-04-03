@@ -1,9 +1,7 @@
---
-is docker container popular on cloud?
+--LGlp research
+how is docker container popular on cloud? 
 --update blog
 PendingReview -- for now, I will use this for existing blogposts that require review
---new blogpost
-sometimes I want more time blogging than chatting with gp!
 --new blogpost: 45-min commute when living with/out family
 After my son was born in NY, my 50-minute commute (Hamilton) vs 35-min commute (Newport) felt very differnt
 1-hr commute feels OK at mvea because ... no family and low workload
@@ -11,15 +9,7 @@ living with family, i predict i would again feel a big difference of 15 min chan
 Many people feel such a prediction is highly unreliable, but I feel past experience is very reliable
 
 staying with family, I get basically no time for study and very limited time for blogging.. about 5hr/week but I need 20-40 hr/week
---overloaded .. which one to lg?
-diet without zsms? challenging .. spend more on fancy, convenient foods
-lgpp crocs shopping 
-indeed push to next week like Thu evening
 
---0 byte left .. very dangerous
-how do I manage this risk?
-Always git commit before closing file
-make backup copies
 --update blogpost: research .. why is rice pudding so delicious but moderate calorie? 
 Is it due to low fat, relatively low sugar and high water content?
 --new blog: yoga=no visPgress no long-term impact

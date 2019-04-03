@@ -47,7 +47,10 @@ c# -- i made sacrifices for deep-dive and experienced rare engagement + orgro. I
 
 swing -- rare engagement + orgro
 
---intangible gains{c#endeavor
+--new blogpost intangible gains{c#endeavor
+category: tsn
+tags engage
+add from "score big"
 * self-confidence in absorbency and deep-dive
 * rare engagement, sustained focus, absorbency
 * removed most of my fear of windows dev
