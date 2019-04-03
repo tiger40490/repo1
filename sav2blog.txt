@@ -1,10 +1,20 @@
 --no blogpost
 Most of the time, interviewers find candidate's experience too high-level, but Mark actually felt I lack experience using high-level libraries
 
+I feel contrary to what he says, most emplyers appreciate low-level coding capabilities .. more precious
+
 --3 todo's for Mark
 1) simple question -- which c++ library would you use to implement an http endpoint
 2) comment on Liquid API
 3) any github content to share. I don't need to struggle here. I can send him a zipped copy of some of my stuff
+
+--new blogpost Quoine IV
+Q: what's the purpose of the integrated feed?
+Q: what if some clients connect by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects.
+Q: given a string of bracket openers/closers, write a bool function to determine if it's balanced
+%%A: Now I feel no stack needed. Just use an int to keep count of unclosed pairs.
+--new blogpost
+node.js outperforms c# in terms of I/O like connecting to a remote exchange 
 
 --LGlp research
 how is docker container popular on cloud? 
