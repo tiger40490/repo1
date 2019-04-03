@@ -2,36 +2,32 @@
 how is docker container popular on cloud? 
 --update blog
 PendingReview -- for now, I will use this for existing blogposts that require review
+Draft CAN be used this way, but in practice used for new posts
 --new blogpost: 45-min commute when living with/out family
 After my son was born in NY, my 50-minute commute (Hamilton) vs 35-min commute (Newport) felt very differnt
 1-hr commute feels OK at mvea because ... no family and low workload
 living with family, i predict i would again feel a big difference of 15 min change in commute
+
 Many people feel such a prediction is highly unreliable, but I feel past experience is very reliable
 
-staying with family, I get basically no time for study and very limited time for blogging.. about 5hr/week but I need 20-40 hr/week
-
---update blogpost: research .. why is rice pudding so delicious but moderate calorie? 
-Is it due to low fat, relatively low sugar and high water content?
+staying with family, I get basically no time for study and very limited time for blogging.. about 5hr/week but I need 20-40 hr/week !!
 --new blog: yoga=no visPgress no long-term impact
 I wonder why I feel so motivated to keep up the effort
+i think it's all about prevention .. of body aging
 --yoga
 how to be less hard pushing?
 how to reward myself more?
 --where to put the reminder below? Put in on google calendar once a day
 "alt-shift -- changes input language as the windows standard"
 
---d-resort review (low value ... avoid Oth)
+--no blogpost d-resort review (low value ... avoid Oth)
 :) as planned, did some stretching and coding drill, but I basically forgot it !
 :) as planned, boy did lots of math 
-:) as planned, wild wild wet + buffet but overeating to be badly bloated
-
-i didn't celebrate/reward myself enough esp. for the stretching and coding drill
-
 --healthy diet tips given by SG HPB #orange
 recommended -- sugar substitutes; sugar-free drinks; Chinese tea
 orange is safe even though not leanest. Orange is not as low-cal as some veg but Singapore HPB (and many experts would agree) picked orange as the safest food. 
 
 --new blogpost
-a food with 0g fat or 0% DV of fat still has fat if calories from fat is nonzero
---new blogpost
+a food with 0g fat or 0% DV of fat still has some fat if calories from fat is nonzero
+--no blogpost
 shenzhen salary: RMB 350k/Y
