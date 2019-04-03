@@ -15,6 +15,9 @@ Q: given a random string of bracket openers/closers, write a bool function to de
 ..  every closer must follow its matching opener
 %%A: Now I feel no stack needed. Just use an int to keep count of unclosed brackets.
 
+Q: how do the 8 threads in your parser manage the 48 channels?
+%%A: each thread only knows about the 6 channels -- publisher/retrans/refresh on Line A and B
+
 Q5: in your work do you use any external libraries
 %%A: I know enough STL, but this project doesn't use any heap allocation. Some projects use a lot of boost libraries.
 
@@ -22,6 +25,12 @@ Q5b: in that case how would you implement a basic http endpoint?
 %%A: I would write it in python, c# or java
 Q5c: but all of your data and functions are in c++
 %%A: I would use socket api, but I agree this is such a common task that there must be a number of libraries
+
+Q: any interaction with the matching engine team?
+
+Q: name some examples of mistakes they made in the beginning?
+
+Q: Have you considered FPGA?
 
 Q: any github profile?
 --new blogpost

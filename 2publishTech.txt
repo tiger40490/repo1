@@ -1,0 +1,8 @@
+--update blog:
+rts parser is 99% stateless but it does need to remember the sequence numbers. In fact sequence number management is crucial.
+
+Before retrans was added to parser, we never sent any retrans request. We did keep track of gaps.
+
+Mostly we used the gap-tracker to check duplicates across Line A/B.
+
+We also relied on our sequence number state to handle sequence resets.
