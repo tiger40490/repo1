@@ -9,6 +9,7 @@ I feel contrary to what he says, most emplyers appreciate low-level coding capab
 3) any github content to share. I don't need to struggle here. I can send him a zipped copy of some of my stuff
 
 --new blogpost Quoine IV
+Q: what c++ ide do you use?
 Q: what's the purpose of the integrated feed?
 Q: what if some clients connect by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects.
 Q: given a random string of bracket openers/closers, write a bool function to determine if it's balanced
