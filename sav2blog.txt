@@ -1,23 +1,26 @@
---no blogpost
-Most of the time, interviewers find candidate's experience too high-level, but Mark actually felt I lack experience using high-level libraries
-
-I feel contrary to what he says, most emplyers appreciate low-level coding capabilities .. more precious
-
+--priorities over next 2 days
+quality time with boy. show appreciation
+more reunions 
+some time with grandma
+short meeting with Jill
+even shorter meeting with Susan
 --3 todo's for Mark
 1) simple question -- which c++ library would you use to implement an http endpoint
-2) comment on Liquid API
-3) any github content to share. I don't need to struggle here. I can send him a zipped copy of some of my stuff
+2) comment on Liquid API. No obligation no hurry
+3) any github content to share. I don't need to struggle here. I can send him a zipped copy of some of my stuff in py, perl or java. I don't need to show any c++ as it may create an impression
 
 --new blogpost Quoine IV
+Q (Ri): what c++14/17/19 features do you use?
 Q: what c++ ide do you use?
-Q: what's the purpose of the integrated feed?
-Q: what if some clients connect by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects.
+Q: what's your build system? Clion?
+Q: what's unqiue about your integrated feed?
+Q: what if some clients subscribe by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects?
 Q: given a random string of bracket openers/closers, write a bool function to determine if it's balanced
 ..  every closer must follow its matching opener
-%%A: Now I feel no stack needed. Just use an int to keep count of unclosed brackets.
+%%A: Now I feel no stack needed. Just use an int to keep count of unclosed brackets. but a stack is more versatile
 
 Q: how do the 8 threads in your parser manage the 48 channels?
-%%A: each thread only knows about the 6 channels -- publisher/retrans/refresh on Line A and B
+%%A: each thread only knows about the 6 channels -- publisher/retrans/refresh on Line A and B. Hardcoded affinity
 
 Q5: in your work do you use any external libraries
 %%A: I know enough STL, but this project doesn't use any heap allocation. Some projects use a lot of boost libraries.
@@ -34,6 +37,10 @@ Q: name some examples of mistakes they made in the beginning?
 Q: Have you considered FPGA?
 
 Q: any github profile?
+--no blogpost
+Most of the time, interviewers find candidate's experience too high-level, but Mark actually felt I lack experience using high-level libraries
+
+I feel contrary to what he says, most emplyers appreciate low-level coding capabilities .. more precious
 --new blogpost
 node.js outperforms c# in terms of I/O like connecting to a remote exchange 
 
