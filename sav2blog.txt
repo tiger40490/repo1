@@ -11,8 +11,19 @@ I feel contrary to what he says, most emplyers appreciate low-level coding capab
 --new blogpost Quoine IV
 Q: what's the purpose of the integrated feed?
 Q: what if some clients connect by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects.
-Q: given a string of bracket openers/closers, write a bool function to determine if it's balanced
-%%A: Now I feel no stack needed. Just use an int to keep count of unclosed pairs.
+Q: given a random string of bracket openers/closers, write a bool function to determine if it's balanced
+..  every closer must follow its matching opener
+%%A: Now I feel no stack needed. Just use an int to keep count of unclosed brackets.
+
+Q5: in your work do you use any external libraries
+%%A: I know enough STL, but this project doesn't use any heap allocation. Some projects use a lot of boost libraries.
+
+Q5b: in that case how would you implement a basic http endpoint?
+%%A: I would write it in python, c# or java
+Q5c: but all of your data and functions are in c++
+%%A: I would use socket api, but I agree this is such a common task that there must be a number of libraries
+
+Q: any github profile?
 --new blogpost
 node.js outperforms c# in terms of I/O like connecting to a remote exchange 
 
