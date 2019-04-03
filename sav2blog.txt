@@ -1,3 +1,11 @@
+--no blogpost
+Most of the time, interviewers find candidate's experience too high-level, but Mark actually felt I lack experience using high-level libraries
+
+--3 todo's for Mark
+1) simple question -- which c++ library would you use to implement an http endpoint
+2) comment on Liquid API
+3) any github content to share. I don't need to struggle here. I can send him a zipped copy of some of my stuff
+
 --LGlp research
 how is docker container popular on cloud? 
 --update blog
