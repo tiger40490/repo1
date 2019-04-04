@@ -1,11 +1,13 @@
+--notes on hibernate timing
+get an offer by Oct, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have, the more flexible with employer change
+
+
 --oveloaded... Reset Priority?
 LG web java self-study
 LG c++ study
 maintain yoga
 reduce cooking
 coding drill? Stop after Indeed
---notes on hibernate timing
-get an offer by Oct, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have, the more flexible with employer change
 
 --propose to Jay
 beware of information leak. Better send after getting some SG offers
