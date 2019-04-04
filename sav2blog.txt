@@ -1,9 +1,3 @@
---priorities over next 2 days
-quality time with boy. show appreciation
-more reunions 
-some time with grandma
-short meeting with Jill
-even shorter meeting with Susan
 --3 todo's for Mark
 1) simple question -- which c++ library would you use to implement an http endpoint
 2) comment on Liquid API. No obligation no hurry
