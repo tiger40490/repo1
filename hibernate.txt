@@ -39,17 +39,6 @@ I feel the job pool is growing for jxee not for core java or cpp. Similarly, job
 
 No need to experiment at home or read books like I did on JMS, EJB, Spring. It takes too much time but doesn't really give me confidence.
 
---Q: am i wasting my time trying those jxee roles? 
-A: i can use them for warm-up
-A: jxee is still more realistic than c# roles!
-
---non-banks
-category -- web -- Pru, Lazada
-category -- non-web -- PocketMath, Alipay
-
---warm up games
-first few interviews will not be best performing, so pick some unimportant (web) companies at low salaries
-
 --notes on hibernate timing
 get an offer by Oct, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have, the more flexible with employer change
 
