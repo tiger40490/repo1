@@ -1,3 +1,12 @@
+--new blogpost:
+I used to feel I ought to "plowback" for zbs and GTD, not only for IV, but after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... is essentially worthless if not relevant to IV. 
+* GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more imporant.
+* BestPractice design? Almost never mattered in my career. After EMPWorld, I have never risen to decision-maker level.
+* BestPractice implementation? mostly a matter of personal preference by the manager
+* zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
+
+This is a fundamental reason why I lost steam in Singapore. My NY years were filled with IV-driven self-improvement.
+
 --new blogpost intangible gains { c#endeavor
 category: tsn
 tags engage
