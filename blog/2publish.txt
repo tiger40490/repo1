@@ -1,0 +1,26 @@
+--new blogpost swap usage when RAM adequate
+Adapted from blog by Hayden James
+
+Even when our avarage memory usage is smaller than RAM capacity, system still benefits from swap. 
+
+Most servers are daemons. Any daemon can create memory pages rarely accessed till shutdown
+Kernel often decides to relocate rarely sed memory pages to swap for performance reasons, mostly to free up RAM.
+The reclaimed RAM space can remain vacant for some time, 
+so you may think the relocation is unnecessary but ..
+* the relocation is usually harmless -- 
+the kswap pid uses very little cpu unless such relocation workload becomes frequent and bidirectional, a sign of insufficient RAM. 
+* the relocation is preemptive. 
+The vacant RAM is available to any process that can use it more productively. In general, faster cache ought to hold "hotter" data
+
+--update google sheet [[predict job satisfaction]]
+Many of the top factors are "perceptions" rather than "hardships"
+
+perceptions -- seld-esteem@comp; strategic tsn; engaging. #best eg@perception -- peer comparison
+hardships -- mkt depth; workload; family time; commute
+--new blogpost github profile consturction
+Polish 2-4 projects and list them on a blogpost. I can send the list or the blogpost.
+
+Tcost needs to be controlled according the value. There's learning value when I polish my code.
+
+Optionally, restrict read access. I think restriction is not really worthwhile. Hiring teams may "explore" my github beyond my featured projects but they don't know who wrote them or why. I would guess these interviewers are too busy.
+
