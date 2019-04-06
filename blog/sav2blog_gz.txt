@@ -12,12 +12,12 @@ category: tsn
 tags engage
 add link from "score big"
 * self-confidence in absorbency and deep-dive
-* rare engagement, sustained focus, absorbency
-* removed most of my fear of windows dev
+* precious engagement for 12M, sustained focus, absorbency
 * i'm no long afraid of a decline of java in the face of microsoft challenge. Right now, java is challenged mostly by python and javascript
+* removed most of my fear of windows dev
 * growing confidence with msvs
 * insight into the evolution and cross pollonization among the big3 languages
-* experience grew from 0 to 5/10 in server side dev and scripting on windows
+* experience grew from 0 to 5/10 in windows server side dev and scripting
 
 --new blogpost delights: strategic, engaged
 [tags t_othRisk]
