@@ -1,3 +1,7 @@
+--new blogpost: operational errors@flights
+* losses @security checks
+* missing flights
+
 --3 todo's for Mark
 1) simple question -- which c++ library would you use to implement an http endpoint
 2) comment on Liquid API. No obligation no hurry

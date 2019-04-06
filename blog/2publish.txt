@@ -1,3 +1,16 @@
+--new blogpost
+Compare me against a java guy having only one big long java project, who has more zbs and GTD power, including
+* performance tuning in thread pool, DB interface, serialization
+* hot-swap anre remote debugging
+* JMX
+
+--new blogpost anon classes^lambda]java perf
+Based on [[JavaPerm]] P381
+An anon class requires an actual class file created by java compiler and loaded from serialized form (usually disk). No class file for a lambda. This knowledge is valuable to interviews.
+
+This difference has very limited performance impact, as of jva 8. This is unimportant to interviews, IMHO. 
+More than half the interview questions are about fancy theoretical knowledge
+
 --new blogpost swap usage when RAM adequate
 Adapted from blog by Hayden James
 
@@ -17,10 +30,19 @@ Many of the top factors are "perceptions" rather than "hardships"
 
 perceptions -- seld-esteem@comp; strategic tsn; engaging. #best eg@perception -- peer comparison
 hardships -- mkt depth; workload; family time; commute
---new blogpost github profile consturction
+--new blogpost github profile
 Polish 2-4 projects and list them on a blogpost. I can send the list or the blogpost.
 
 Tcost needs to be controlled according the value. There's learning value when I polish my code.
 
 Optionally, restrict read access. I think restriction is not really worthwhile. Hiring teams may "explore" my github beyond my featured projects but they don't know who wrote them or why. I would guess these interviewers are too busy.
 
+--the blogpost: my github projects
+java | FIX client + FIX server
+java |single-consumer-single-producer concurrent queue with aggressively optimization on locking
+java |swing GUI to monitor database updates
+py | logging decoraotr
+perl | source code grep tool
+c++ |move-only type experiment
+c++ |Tetrix 
+c++ |three or more threads taking turn, without conditional variables
