@@ -1,5 +1,5 @@
 --new blogpost:
-I used to feel I ought to "plowback" for zbs and GTD, not only for IV, but after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... is essentially worthless if not relevant to IV. 
+I used to feel I ought to "plowback" for zbs and GTD, not only for IV, but after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
 * GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more imporant.
 * BestPractice design? Almost never mattered in my career. After EMPWorld, I have never risen to decision-maker level.
 * BestPractice implementation? mostly a matter of personal preference by the manager
@@ -11,17 +11,19 @@ This is a fundamental reason why I lost steam in Singapore. My NY years were fil
 category: tsn
 tags engage
 add link from "score big"
-* self-confidence in absorbency and deep-dive
+* self-image boost in absorbency and deep-dive
 * precious engagement for 12M, sustained focus, absorbency
 * i'm no long afraid of a decline of java in the face of microsoft challenge. Right now, java is challenged mostly by python and javascript
-* removed most of my fear of windows dev
+* removed most of my fear of joining a windows dev team like Ashish's 
 * growing confidence with msvs
 * insight into the evolution and cross pollonization among the big3 languages
 * experience grew from 0 to 5/10 in windows server side dev and scripting
+* leverage? not bad
+* market depth? good except the high-end tends to be WPF
 
---new blogpost delights: strategic, engaged
+--new blogpost: delights: strategic, engaged
 [tags t_othRisk]
-I feel my expectation was invariably too high in terms of strategic value therefore underwhelming. (engagement ... expectation was moderately too high) Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge a factor and overshadowed those little delights. For a perspective, look at the spreadsheet "predict next 3-5Y job satisfactioni"
+I feel my expectation was invariably too high in terms of strategic value, therefore underwhelming. (engagement ... expectation was moderately too high) Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
 
 I chose a python job at Macq .. engaged for a few months and never disengaged, to my delight
 I chose the c++ job at RTS .. engaged for 6 months, and never disengaged, to my delight. 
