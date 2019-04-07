@@ -36,16 +36,6 @@ Both job decisions produced good/superior leverage over 5Y.
 
 I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
 --new?
-I think every tsn experience and proposal has some "buts". Does it mean we should stop trying? No. If I had stayed within java/sql/perl then I would have been worse off.... fewer job opportunities,  less broadended techncial base
-more worry about job security
-more wrroy about churn
-more worry about outsourcing
-no differentition from regular java guys
-sql and perl falling out of fashion
-
-Was leverage good on my tsn attempts after GS? Yes
-
---new?
 my tsn ambition/dream is largely constrained by risks:
 * stigma/respect
 * figure things out faster than colleagues
@@ -54,16 +44,14 @@ For these specific risks, my current risk tolerance is higher so I ought to be b
 
 Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
 
---
-my c# xx journey was exciting but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
-* the topics are stable and 
+--new blogpost: c#^java/c++ journeys
+my c# xx journey was exciting for a year but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
+* the interview topics are stable 
 * I was able to stick to these career directions
 
 However, most of the java5 new features are out of fashion in interviews. How about j8 features?
 
-leverage?
-
-
+leverage? c# is lower but not bad. See separate blogpost
 --coding drill for indeed:
 small problems using lot of python data structures
 fuxi python blog posts
