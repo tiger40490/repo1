@@ -15,9 +15,9 @@ add link from "score big"
 * precious engagement for 12M, sustained focus, absorbency
 * i'm no long afraid of a decline of java in the face of microsoft challenge. Right now, java is challenged mostly by python and javascript
 * removed most of my fear of joining a windows dev team like Ashish's 
+* experience (GTD and ... IV) grew from 0 to 5/10 in windows __serverside__ dev and scripting
 * growing confidence with msvs
 * insight into the evolution and cross pollonization among the big3 languages
-* experience grew from 0 to 5/10 in windows server side dev and scripting
 * leverage? not bad
 * market depth? good except the high-end tends to be WPF
 
