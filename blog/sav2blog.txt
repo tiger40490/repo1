@@ -1,3 +1,5 @@
+--no blogpost
+move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
 --new blogpost: operational errors@flights
 * losses @security checks
 * missing flights
