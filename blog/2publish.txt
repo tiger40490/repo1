@@ -1,3 +1,5 @@
+--
+move google drive -> ubuntu folder -> *.cpp files to github
 --new blogpost: #1 gain{SG3jobs
 All three jobs were java-lite and have some quantDev exposure.
 
