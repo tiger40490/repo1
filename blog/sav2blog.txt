@@ -1,5 +1,15 @@
 --no blogpost
 move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
+--no blogpost
+lesson learnt on this flights
+15H flight is tolerable on my body
+4H sleep before 15H was insufficient to keep me awake
+diet? not so strict but OK
+no movie -- I did it twice in a row but it may become tough. This time I had plenty of motivation to read java, [[pearls]].
+no need to feel guilty about coding drill
+I conceived many worthwhile thoughts about career, parenting, .. 
+I relied heavily on laptop but perhaps phone+fake finger might be more convenient -- easier to charge, less bulky. For lengthy writing, laptop wins
+
 --new blogpost: operational errors@flights
 * losses @security checks
 * missing flights
