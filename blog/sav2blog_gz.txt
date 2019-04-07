@@ -35,15 +35,15 @@ I chose the c++ job at RTS .. engaged for 6 months, and never disengaged, to my 
 Both job decisions produced good/superior leverage over 5Y.
 
 I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
-
 --new?
-I think every tsn attampt has some "buts". Does it mean we should stop trying? No. If I had stayed within java/sql/perl then I would have been worse off.... fewer job opportunities,  less broadended techncial base
+I think every tsn experience and proposal has some "buts". Does it mean we should stop trying? No. If I had stayed within java/sql/perl then I would have been worse off.... fewer job opportunities,  less broadended techncial base
+more worry about job security
+more wrroy about churn
+more worry about outsourcing
 no differentition from regular java guys
 sql and perl falling out of fashion
 
-leverage?
-
-
+Was leverage good on my tsn attempts after GS? Yes
 
 --new?
 my tsn ambition/dream is largely constrained by risks:

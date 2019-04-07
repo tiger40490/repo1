@@ -1,3 +1,11 @@
+--new blogpost: #1 gain{SG3jobs
+All three jobs were java-lite and have some quantDev exposure.
+
+Through these jobs, I gained the crucial clrity about the reality of quantDev direction, and stopped the brave but costly tsn attempts to secure a foothold. Footfhold is too tough and futile.
+Instead, I successfully established c#/py/c++ trec.  The c++ accu was very difficult and precious.
+
+Without these progresses, I would be lacking the confidence in py/c#/c++ to get multiple job offers. I would still be stuck in the quantDev direction
+
 --update blog on dummy node
 P 90 [[Pearls]] introduced a simple loop idiom. Idiom is applicable whenever we loop over a container and have a early-exit "break". Such a loop has exactly two [1] conditional tests per iteration and can run faster if we combine the two into one conditional test. This is a small halo idiom for latency tuning.
 
