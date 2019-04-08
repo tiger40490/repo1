@@ -1,7 +1,12 @@
---new blogpost: hotel after JFK landing
-Note MTA subway is likely to have cancellations at night and weekends
---update blog on World hotel:
-sound proof is virtually non-existent. In the morning I could hear people chatting 20m away in the corridor. I also heard intimate couple chitchat a few rooms away.  
+--the blogpost: my github projects
+java | FIX client + FIX server
+java |single-consumer-single-producer concurrent queue with aggressively optimization on locking
+java |swing GUI to monitor database updates
+py | logging decoraotr
+perl | source code grep tool
+c++ |move-only type experiment
+c++ |Tetrix 
+c++ |three or more threads taking turn, without conditional variables
 --new blogpost: #1 gain{SG3jobs
 All three jobs were java-lite and have some quantDev exposure.
 
@@ -76,12 +81,7 @@ Tcost needs to be controlled according the value. There's learning value when I 
 
 Optionally, restrict read access. I think restriction is not really worthwhile. Hiring teams may "explore" my github beyond my featured projects but they don't know who wrote them or why. I would guess these interviewers are too busy.
 
---the blogpost: my github projects
-java | FIX client + FIX server
-java |single-consumer-single-producer concurrent queue with aggressively optimization on locking
-java |swing GUI to monitor database updates
-py | logging decoraotr
-perl | source code grep tool
-c++ |move-only type experiment
-c++ |Tetrix 
-c++ |three or more threads taking turn, without conditional variables
+--new blogpost: hotel after JFK landing
+Note MTA subway is likely to have cancellations at night and weekends
+--update blog on World hotel:
+sound proof is virtually non-existent. In the morning I could hear people chatting 20m away in the corridor. I also heard intimate couple chitchat a few rooms away.  
