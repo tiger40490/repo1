@@ -1,6 +1,4 @@
 --the blogpost: my github projects
-py | logging decoraotr
-perl | source code grep tool
 c++ |move-only type experiment
 c++ |Tetrix 
 c++ |three or more threads taking turn, without conditional variables
