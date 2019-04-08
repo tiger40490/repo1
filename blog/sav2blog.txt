@@ -4,8 +4,7 @@ carrots, radish
 
 --no blogpost
 move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
---no blogpost
-lesson learnt on this flights
+--no blogpost: lesson learnt on this flight
 15H flight is tolerable on my body
 4H sleep before 15H was insufficient to keep me awake
 I didn't try the wine and felt OK. I was too busy on my laptop and simply followed my early decision to take tomato juice ... wise :)
@@ -25,9 +24,7 @@ However for lengthy writing, laptop wins
 * missing flights
 
 --3 todo's for Mark
-1) simple question -- which c++ library would you use to implement an http endpoint
 2) comment on Liquid API. No obligation no hurry
-3) any github content to share. I don't need to struggle here. I can send him a zipped copy of some of my stuff in py, perl or java. I don't need to show any c++ as it may create an impression
 
 --new blogpost: highRiskHighReturn #Jill
 AsiaPropertyDev has  current campaignn to pay 20% in Y1, 21% in Y2 ... 24% in Y5 if client commits 50k. Last payment is 50k * 1.24.
