@@ -67,5 +67,3 @@ Optionally, restrict read access. I think restriction is not really worthwhile. 
 
 --new blogpost: hotel after JFK landing
 Note MTA subway is likely to have cancellations at night and weekends
---update blog on World hotel:
-sound proof is virtually non-existent. In the morning I could hear people chatting 20m away in the corridor. I also heard intimate couple chitchat a few rooms away.  
