@@ -1,7 +1,3 @@
---the blogpost: my github projects
-c++ |move-only type experiment
-c++ |Tetrix 
-c++ |three or more threads taking turn, without conditional variables
 --new blogpost: #1 gain{SG3jobs
 All three jobs were java-lite and have some quantDev exposure.
 
