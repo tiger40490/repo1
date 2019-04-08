@@ -39,13 +39,6 @@ Compare me against a java guy having only one big long java project, who has mor
 * hot-swap anre remote debugging
 * JMX
 
---new blogpost anon classes^lambda]java perf
-Based on [[JavaPerm]] P381
-An anon class requires an actual class file created by java compiler and loaded from serialized form (usually disk). No class file for a lambda. This knowledge is valuable to interviews.
-
-This difference has very limited performance impact, as of jva 8. This is unimportant to interviews, IMHO. 
-More than half the interview questions are about fancy theoretical knowledge
-
 --new blogpost swap usage when RAM adequate
 Adapted from blog by Hayden James
 
