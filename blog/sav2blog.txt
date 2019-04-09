@@ -72,7 +72,7 @@ node.js outperforms c# in terms of I/O like connecting to a remote exchange
 how is docker container popular on cloud? 
 --update blog
 PendingReview -- for now, I will use this for existing blogposts that require review
-Draft CAN be used this way, but in practice used for new posts
+Draft CAN be used this way, but in practice only used for new posts
 --new blogpost: 45-min commute when living with/out family
 After my son was born in NY, my 50-minute commute (Hamilton) vs 35-min commute (Newport) felt very differnt
 1-hr commute feels OK at mvea because ... no family and low workload
@@ -87,23 +87,12 @@ i think it's all about prevention .. of body aging
 --yoga
 how to be less hard pushing?
 how to reward myself more?
---where to put the reminder below? Put in on google calendar once a day
-"alt-shift -- changes input language as the windows standard"
-
 --no blogpost d-resort review (low value ... avoid Oth)
 :) as planned, did some stretching and coding drill, but I basically forgot it !
 :) as planned, boy did lots of math 
 --healthy diet tips given by SG HPB #orange
 recommended -- sugar substitutes; sugar-free drinks; Chinese tea
 orange is safe even though not leanest. Orange is not as low-cal as some veg but Singapore HPB (and many experts would agree) picked orange as the safest food. 
-
-
---no blogpost
-Not a bad thing that i didn't buy a 2nd hdb home under gm or sister's name. 
-rental yield would be much lower than cambodia,
-and now we know some of these old HDB units can depreciate.
-
-Likewise, Maybe it would be good to avoid a 4th Cambodia shop
 
 --new blog: myShield co-payment rider
 co-payment is not negligible... so better
