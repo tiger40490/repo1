@@ -1,7 +1,3 @@
---buy
-oranges, grapes, apples
-carrots, radish
-
 --no blogpost
 move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
 --no blogpost: lesson learnt on this flight
@@ -20,11 +16,8 @@ I relied heavily on laptop but perhaps phone+fake finger might be more convenien
 However for lengthy writing, laptop wins
 
 --new blogpost: operational errors@flights
-* losses @security checks
-* missing flights
-
---3 todo's for Mark
-2) comment on Liquid API. No obligation no hurry
+* multiple losses @security checks
+* mutiple missing flights
 
 --new blogpost: highRiskHighReturn #Jill
 AsiaPropertyDev has  current campaignn to pay 20% in Y1, 21% in Y2 ... 24% in Y5 if client commits 50k. Last payment is 50k * 1.24.
@@ -66,10 +59,6 @@ Q: name some examples of mistakes they made in the beginning?
 Q: Have you considered FPGA?
 
 Q: any github profile?
---no blogpost
-Most of the time, interviewers find candidate's experience too high-level, but Mark actually felt I lack experience using high-level libraries
-
-I feel contrary to what he says, most emplyers appreciate low-level coding capabilities .. more precious
 --new blogpost
 node.js outperforms c# in terms of I/O like connecting to a remote exchange 
 
