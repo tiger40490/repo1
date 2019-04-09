@@ -1,26 +1,11 @@
 --new blogpost:
-I used to feel I ought to "plowback" for zbs and GTD, not only for IV, but after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
+I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
 * GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more imporant.
 * BestPractice design? Almost never mattered in my career. After EMPWorld, I have never risen to decision-maker level.
 * BestPractice implementation? mostly a matter of personal preference by the manager
 * zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
 
-This is a fundamental reason why I lost steam in Singapore. My NY years were filled with IV-driven self-improvement.
-
---new blogpost intangible gains { c#endeavor
-category: tsn
-tags engage
-add link from "score big"
-* self-image boost in absorbency and deep-dive
-* precious engagement for 12M, sustained focus, absorbency
-* i'm no long afraid of a decline of java in the face of microsoft challenge. Right now, java is challenged mostly by python and javascript
-* removed most of my fear of joining a windows dev team like Ashish's 
-* experience (GTD and ... IV) grew from 0 to 5/10 in windows __serverside__ dev and scripting
-* growing confidence with msvs
-* insight into the evolution and cross pollonization among the big3 languages
-* leverage? not bad
-* market depth? good except the high-end tends to be WPF
-
+This is one reason why I lost steam in Singapore. My NY years were filled with self improvement driven by interviews.
 --new blogpost: delights: strategic, engaged
 [tags t_othRisk]
 I feel my expectation was invariably too high in terms of strategic value, therefore underwhelming. (engagement ... expectation was moderately too high) Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
