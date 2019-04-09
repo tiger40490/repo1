@@ -1,10 +1,10 @@
 --no blogpost
 move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
 --no blogpost: lesson learnt on this flight
-15H flight is tolerable on my body
-4H sleep before 15H was insufficient to keep me awake
+15H flight is tolerable on my body though shorter would be less taxing
+4H sleep before 15H was insufficient to keep me awake. I felt extremely sleepy some hours after take-off
 I didn't try the wine and felt OK. I was too busy on my laptop and simply followed my early decision to take tomato juice ... wise :)
-diet? not so strict but reasnonablly good. Removed fried stuff.
+diet? not so strict but reasnonablly good. Removed fried content:)
 
 movie-abstinence -- I did it twice in a row but it may become tough. This time I had plenty of motivation to read java, [[pearls]].
 
