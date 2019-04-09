@@ -16,23 +16,6 @@ sql and perl falling out of fashion
 
 Was leverage good on my tsn attempts after GS? Yes
 
---update blog on dummy node
-P 90 [[Pearls]] introduced a simple loop idiom. Idiom is applicable whenever we loop over a container and have a early-exit "break". Such a loop has exactly two [1] conditional tests per iteration and can run faster if we combine the two into one conditional test. This is a small halo idiom for latency tuning.
-
-There are more interesting benefits. 
-For example, consider the business logic afer reaching "normal" end of the container without a hitting the early exit. 
-Rarely can we "forget" this business logic and simply exit the function and rely on the implicit return.
-Instead, this normal-completion scenario requires proper handling and is a mental burdern. 
-To remind myself, I often place a comment after the loop. (Python provides an Else clause for a for-loop.)
-
-In this scenario, it's often useful to append a sentinel element at end of the container. 
-The sentinel is guaranteed to hit the "break", so we can combine the two into one conditional test:) 
-I usually replace "break" with exit, further reducing the control-flow complexity.
-Before the exit we still need to handle normal-completion scenario by checking that we hit the sentinel. Interesting scenario. 
-Now we can combine the logic of normal-completion vs early exit. In many case, they are (nearly) identical, so we can express the logic in very structured code.
-
-[1] what if three tests (two breaks)? The mental burden is now higher. The sentinel could reduce it
-
 --new blogpost
 Compare me against a java guy having only one big long java project, who has more zbs and GTD power, including
 * performance tuning in thread pool, DB interface, serialization
