@@ -32,17 +32,30 @@ I shared with Jill my observation -- once a while a reputble company disrupts a 
 * yoga classes offered free or at 9 classes/$32
 
 --new blogpost Quoine IV
-Q (Ri): what c++14/17/19 features do you use?
-Q: what c++ ide do you use?
-Q: what's your build system? Clion?
 Q: what's unqiue about your integrated feed?
 Q: what if some clients subscribe by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects?
 Q: given a random string of bracket openers/closers, write a bool function to determine if it's balanced
-..  every closer must follow its matching opener
+..  every closer must not precede its matching opener
 %%A: Now I feel no stack needed. Just use an int to keep count of unclosed brackets. but a stack is more versatile
 
 Q: how do the 8 threads in your parser manage the 48 channels?
 %%A: each thread only knows about the 6 channels -- publisher/retrans/refresh on Line A and B. Hardcoded affinity
+
+Q: any interaction with the matching engine team?
+Q: name some examples of those mistakes they made in the beginning?
+
+Q: Have you considered FPGA?
+
+Q: any github profile?
+
+.. Questions about ecosystem including add-on packages
+
+Q (Richard): what c++14/17/19 features do you use?
+Q: what c++ IDE do you use?
+A: vi is enough. Most colleagues use vi
+
+Q: what's your build system? Clion?
+A: various things based on gmake
 
 Q5: in your work do you use any external libraries
 %%A: I know enough STL, but this project doesn't use any heap allocation. Some projects use a lot of boost libraries.
@@ -52,13 +65,6 @@ Q5b: in that case how would you implement a basic http endpoint?
 Q5c: but all of your data and functions are in c++
 %%A: I would use socket api, but I agree this is such a common task that there must be a number of libraries
 
-Q: any interaction with the matching engine team?
-
-Q: name some examples of mistakes they made in the beginning?
-
-Q: Have you considered FPGA?
-
-Q: any github profile?
 --new blogpost
 node.js outperforms c# in terms of I/O like connecting to a remote exchange 
 
