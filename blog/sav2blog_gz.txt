@@ -44,33 +44,6 @@ list comp
 define classes with fields
 combine multiple lines to 1
 triple quote comments
---new blog: jxee^core java
-jxee (esp. web java) is fashionable ... high growth, big job pool
-
-in terms of churn, :) core java < jxee
-I am proven right.
-
-In terms of shelf life, jxee <<< core java :(
-I am proven right.
-Is there some jxee component with stable demand and accu? Spring? Servlet is very relevant but not quizzed in IV! 
-
-in terms of project LOE, :) core java =< jxee, due to complexities in each jxee package and when you combine things in non-standard combinations. See my blog on spring.
-
-in terms of IV body building and entry barrier, jxee < core java < cpp. I struggled with cpp IV for years but was able to crack c# IV more quickly. 
-
-jxee skills are less elite, easy to self-study and often shallow by nature. 
-All the complexities are hidden until you combine things it in a non-standad way.
-
-In terms of salary, jxee = core java = cpp.
-I was proven wrong.
-
-Even though c++ and core java are harder and more elitist, they don't pay higher.
-
-in terms of market depth+size, cpp < core java < jxee
-core java is mostly limited to ibanks + buy-side. jxee offers superior market depth
-I feel the job pool is growing for jxee not for core java or cpp. Similarly, job pool is growing for javascript, mobile, big data, cloud
-
-No need to experiment at home or read books like I did on JMS, EJB, Spring. It takes too much time but doesn't really give me confidence.
 
 --since 2007, very few examples of "effort->ROTI" including financial ROTI
 (vague, not worth publishing)
