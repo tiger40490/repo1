@@ -52,7 +52,7 @@ test in leetcode? No obligation
 ====Q[c e v] implemet half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word is not sorted and container dupe letters. I think hashtable is needed
 
-====Q[Lv] 80%: Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
+====Q[Lv] 80%: classic generator algo: Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
 3: def
@@ -70,14 +70,16 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 
 --we need good variable names. 
 For the 9 digits, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digits any more.
+Java would use enum
 
-To minimize confusion, Create typedef LOB for either vector<char> or the string form
+To minimize confusion, Create typedef LOB as alias for either vector<char> or the string form. Will have 8 const LOB instances. Java would use enum
 
 struct Bundle{
   set<vector<char>> clubOfWords; 
   size_t repeatOfThisButton;
   LOB lob; //compile-time constant
 };
+--
 The utility function would be
 Bundle gen(vector<char> const & lob /*lettersOnOneButton*/ , int repeat). This function is fairly simple. for er_5, we have 3^5 possible words in the club
 
