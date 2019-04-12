@@ -1,3 +1,6 @@
+--Q: chinat friday?
+--Q: chinat weekend? no time
+--Q: sat open house? yes make time
 --no blogpost
 move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
 --no blogpost: lesson learnt on this flight
