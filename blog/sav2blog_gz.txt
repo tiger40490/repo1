@@ -1,3 +1,11 @@
+--new blogpost
+tags t_churn
+My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11, python ...?
+
+This is about ROTI, NOT about churn. Socket, SQL, core c++ are actually the best-performing tech bets in terms of robust demand and shelf-life. 
+
+If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now?
+
 --no blogpost
 my java AND c++ QQ is good but some interviewers will not be impressed. I think this happens to other strong candidates.
 
