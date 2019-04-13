@@ -18,3 +18,4 @@ thick->thin? not yet.
 ====my own vector::insert() at SIG
 ====my rvr experiments
 ====my enable_if_t experiments
+====Wells cStr remove spaces. Can I use 2-ptr?
