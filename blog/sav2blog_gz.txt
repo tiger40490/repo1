@@ -1,3 +1,11 @@
+--no blogpost
+my java AND c++ QQ is good but some interviewers will not be impressed. I think this happens to other strong candidates.
+
+I call it "don't like your face", but there are various reasons. 
+
+They may feel your understanding on some topics is imprecise or not quite right.
+
+They may feel your are too confident, even arrogant. 
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
 * GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more imporant.
