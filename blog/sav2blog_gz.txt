@@ -1,3 +1,12 @@
+--new?
+my tsn ambition/dream is largely constrained by risks:
+* stigma/respect
+* figure things out faster than colleagues
+
+For these specific risks, my current risk tolerance is higher so I ought to be bolder.
+
+Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
+
 --update email draft
 I know many c# or c++ guys taking on simpler java projects.
 I know some java guys taking on simpler c++ projects
@@ -74,15 +83,6 @@ I chose the c++ job at RTS .. engaged for 6 months, and never disengaged, to my 
 Both job decisions produced good/superior leverage over 5Y.
 
 I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
---new?
-my tsn ambition/dream is largely constrained by risks:
-* stigma/respect
-* figure things out faster than colleagues
-
-For these specific risks, my current risk tolerance is higher so I ought to be bolder.
-
-Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
-
 --new blogpost: c#^java/c++ journeys
 my c# xx journey was exciting for a year but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
 * the interview topics are stable 
