@@ -1,10 +1,3 @@
---coding drill for indeed:
-small problems using lot of python data structures
-fuxi python blog posts
-list comp
-define classes with fields
-combine multiple lines to 1
-triple quote comments
 --new blogpost %%CV profile cf 200x era
 Until my early 30's I avoided hot enterprise technologies like java/c++/SQL so my rating in the "body-building contest" was rather low. Analogy? 
 * An electronics engineering graduate stuck in a small, unsuccessful wafer fab
