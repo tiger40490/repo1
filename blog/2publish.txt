@@ -1,3 +1,4 @@
+8.30pm friday bodyBlast class
 --new blogpost Quoine IV
 Q: what's unqiue about your integrated feed?
 Q: what if some clients subscribe by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects?
