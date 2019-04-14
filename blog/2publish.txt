@@ -1,9 +1,3 @@
---new blogpost %%CV profile cf 200x era
-Until my early 30's I avoided hot enterprise technologies like java/c++/SQL so my rating in the "body-building contest" was rather low. Analogy? 
-* An electronics engineering graduate stuck in a small, unsuccessful wafer fab
-* An uneducated pretty girl unable to speak well, dress well.
-
-Now my resume (and zbs) includes java/c++/py/SQL and algo trading, quant, latency ... and I have some accumulated insight on (beside core java) core c++/c#, sockets, 
 
 --new blogpost RTS feed for Internet clients #Mark
 [category SDI]
