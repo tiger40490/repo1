@@ -1,25 +1,6 @@
 8.30pm friday bodyBlast class
 --no blogpost
 move google drive -> ubuntu folder -> *.cpp files to github slowly one by one, slow digestion
---no blogpost
-even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my coding speed, syntax, ECT
-
-perhaps it's better to do some practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
---new blogpost
-Until my early 30's I avoided hot enterprise technologies like java/c++/SQL so my rating in the "body-building contest" was rather low. Analogy? 
-* An engineering graduate stuck in wafer fabs
-* A pretty girl unable to speak well, dress well, and uneducated.
-
-Now my resume (and zbs) includes java/c++/py/SQL and algo trading, quant, latency ...
-
---new blogpost
-if I were a mgr like Miao in a bank, I would feel ..
-
-my value-add is tied to this firm and not portable compared to a techie
-
-I got to this position by building local relationships, learning the localSys and local workflow
-.. so it's hard to be confident about repeating the same at another firm
-competitive pressure from younger managers
 ==no blogpost: strict control relaxed but not all lost
 a reduction in austerity is quite common with everyone. 
 It doesn't mean collapse 
@@ -43,7 +24,6 @@ standing desk -- i'm keeping it up in office AND home
 --no blogpost reward for yoga? kind of hard to create less unnatural rewards
 Perhaps more spending .. on healthy food or in canteen
 smoothie?
---Q: sat open house? tcost ~ 2H? Cut it to 1H
 --no blogpost: lesson learnt on this flight
 15H flight is tolerable on my body though shorter would be less taxing
 4H sleep before 15H was insufficient to keep me awake. I felt extremely sleepy some hours after take-off
@@ -75,45 +55,6 @@ I shared with Jill my observation -- once a while a reputble company disrupts a 
 * quality free software with source code
 * yoga classes offered free or at 9 classes/$32
 
---new blogpost Quoine IV
-Q: what's unqiue about your integrated feed?
-Q: what if some clients subscribe by a slow internet connection and your orderbook feed need to provide delta updates each time a client reconnects?
-Q: given a random string of bracket openers/closers, write a bool function to determine if it's balanced
-..  every closer must not precede its matching opener
-%%A: Now I feel no stack needed. Just use an int to keep count of unclosed brackets. but a stack is more versatile
-
-Q: how do the 8 threads in your parser manage the 48 channels?
-%%A: each thread only knows about the 6 channels -- publisher/retrans/refresh on Line A and B. Hardcoded affinity
-
-Q: any interaction with the matching engine team?
-Q: name some examples of those mistakes they made in the beginning?
-
-Q: Have you considered FPGA?
-
-Q: any github profile?
-
-.. Questions about ecosystem including add-on packages
-
-Q (Richard): what c++14/17/19 features do you use?
-Q: what c++ IDE do you use?
-A: vi is enough. Most colleagues use vi
-
-Q: what's your build system? Clion?
-A: various things based on gmake
-
-Q5: in your work do you use any external libraries
-%%A: I know enough STL, but this project doesn't use any heap allocation. Some projects use a lot of boost libraries.
-
-Q5b: in that case how would you implement a basic http endpoint?
-%%A: I would write it in python, c# or java
-Q5c: but all of your data and functions are in c++
-%%A: I would use socket api, but I agree this is such a common task that there must be a number of libraries
-
---new blogpost
-node.js outperforms c# in terms of I/O like connecting to a remote exchange 
-
---LGlp research
-how is docker container popular on cloud? 
 --update blog
 PendingReview -- for now, I will use this for existing blogposts that require review
 Draft CAN be used this way, but in practice only used for new posts

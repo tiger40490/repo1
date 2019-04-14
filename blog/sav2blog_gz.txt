@@ -7,6 +7,26 @@ This is about ROTI, NOT about churn. Socket, SQL, core c++ are actually the best
 If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now?
 
 --no blogpost
+even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my coding speed, syntax, ECT
+
+perhaps it's better to do some practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
+--new blogpost
+Until my early 30's I avoided hot enterprise technologies like java/c++/SQL so my rating in the "body-building contest" was rather low. Analogy? 
+* An engineering graduate stuck in wafer fabs
+* A pretty girl unable to speak well, dress well, and uneducated.
+
+Now my resume (and zbs) includes java/c++/py/SQL and algo trading, quant, latency ...
+
+--new blogpost
+if I were a mgr like Miao in a bank, I would feel ..
+
+my value-add is tied to this firm and not portable compared to a techie
+
+I got to this position by building local relationships, learning the localSys and local workflow
+.. so it's hard to be confident about repeating the same at another firm
+competitive pressure from younger managers
+
+--no blogpost
 my java AND c++ QQ is good but some interviewers will not be impressed. I think this happens to other strong candidates.
 
 I call it "don't like your face", but there are various reasons. 
