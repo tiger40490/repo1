@@ -36,10 +36,10 @@ even a quick rewrite (not inventing) on a simple problem like removingSpaces can
 perhaps it's better to do some practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 --new blogpost
 Until my early 30's I avoided hot enterprise technologies like java/c++/SQL so my rating in the "body-building contest" was rather low. Analogy? 
-* An engineering graduate stuck in wafer fabs
-* A pretty girl unable to speak well, dress well, and uneducated.
+* An electronics engineering graduate stuck in a small, unsuccessful wafer fab
+* An uneducated pretty girl unable to speak well, dress well.
 
-Now my resume (and zbs) includes java/c++/py/SQL and algo trading, quant, latency ...
+Now my resume (and zbs) includes java/c++/py/SQL and algo trading, quant, latency ... and I have some accumulated insight on (beside core java) core c++/c#, sockets, 
 
 --new blogpost
 if I were a mgr like Miao in a bank, I would feel ..
