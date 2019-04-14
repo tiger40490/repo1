@@ -34,12 +34,6 @@ If you stay within core java (like XR and many friends), then you don't need to 
 even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my coding speed, syntax, ECT
 
 perhaps it's better to do some practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
---new blogpost
-Until my early 30's I avoided hot enterprise technologies like java/c++/SQL so my rating in the "body-building contest" was rather low. Analogy? 
-* An electronics engineering graduate stuck in a small, unsuccessful wafer fab
-* An uneducated pretty girl unable to speak well, dress well.
-
-Now my resume (and zbs) includes java/c++/py/SQL and algo trading, quant, latency ... and I have some accumulated insight on (beside core java) core c++/c#, sockets, 
 
 --new blogpost
 if I were a mgr like Miao in a bank, I would feel ..
@@ -97,21 +91,7 @@ my c# xx journey was exciting for a year but .. In contrast, my core-java/c++ (n
 However, most of the java5 new features are out of fashion in interviews. How about j8 features?
 
 leverage? c# is lower but not bad. See separate blogpost
---coding drill for indeed:
-small problems using lot of python data structures
-fuxi python blog posts
-list comp
-define classes with fields
-combine multiple lines to 1
-triple quote comments
 
---since 2007, very few examples of "effort->ROTI" including financial ROTI
-(vague, not worth publishing)
-* c++/C#/java IV pass rate
-* pure algo IV pass rate
-* online timed coding IV pass rate
-* passive income growing including Energy12
-* diet
 --new or update: long-term orgro=elusive
 long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
 
