@@ -6,7 +6,7 @@ In contrast,
 * pure algo on paper is lighter. No ECT so I am swift and efficient
 * SDI is most fun, least boring. 
 * c++/java language feature experiments are more interesting as there's no timeline no benchmark
-* code review is less draining than writing new solutions as there's no timeline
+* code review is less draining than writing new solutions as there's no timeline and code is already working
 
 Can we stop comparing with others and just compare with our past? Hard
 
