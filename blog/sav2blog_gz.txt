@@ -9,16 +9,17 @@ Note these risks exist with/out tsn. If we want to minimize these risks we need 
 
 --update email draft
 I know many c# or c++ guys taking on simpler java projects.
-I know some java guys taking on simpler c++ projects
 I know some java guys taking on simpler c# projects.
 
-In each case, without investing personal time, they can't understand the finer details. Syntax is cleanest in java and messier in c++ so the inexperienced c++ guys cautiously follow existing coding convention... 照猫画虎
+In each case, without investing personal time, they can't and need not understand the finer details. Syntax is cleanest in java and messier in c++ so the inexperienced guys cautiously follow existing coding convention... 照猫画虎
 
-In terms of GTD performance, are these guys as productive as the old hands, given most of the complexity lies in the local system, Not the language features?
+In terms of GTD performance, are these guys as productive as the old hands, given most of the complexity lies in the local system, and only slightly in the language features utilized?
 
-After x months, Do these guys have the confidence to call themselves "XYZ developers" (XYZ being the new language name)? Personal experience -- not until I can clear a few in-depth interviews. 
+After x months, do these guys have the confidence to call themselves "XYZ developers" (XYZ=java/c#)? My personal experience -- not until I can clear a few in-depth interviews. 
 
 Note 2-year project experience is insufficient, as a 2-year veteran can hardly answer any in-depth interview question. In my experiene, many, many Essential language features of c++ [1] are unused in a given 2-year project. 
+
+My conclusion -- let's  compare two challenges AA) conquering in-depth interviews on a given language vs BB) being proficient in work projects for 3Y using the language. I dare say AA is harder than BB.
 
 [1] smart pointers, const correctnesss; or delegates, LINQ in c#; threading features in java
 
