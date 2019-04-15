@@ -9,6 +9,8 @@ smoothie?
 * multiple losses @security checks
 * mutiple missing flights
 
+--new blogpost:
+我们总说大宝不努力。 我没有给他足够的夸奖， 爸爸做的不够。
 --new blogpost: highRiskHighReturn #Jill
 AsiaPropertyDev has  current campaignn to pay 20% in Y1, 21% in Y2 ... 24% in Y5 if client commits 50k. Last payment is 50k * 1.24.
 
