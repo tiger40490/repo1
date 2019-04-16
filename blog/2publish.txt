@@ -1,0 +1,3 @@
+--new blogpost: operational errors@flights
+* multiple losses @security checks
+* mutiple missing flights
