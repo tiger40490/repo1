@@ -60,7 +60,13 @@ My thick->thin insight into c#, SQL, swing, quant ... are not needed at present.
 
 Focus today is ROTI, NOT about churn. Socket, SQL, core c++ are actually the best-performing tech bets in terms of robust demand and shelf-life. 
 
-If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now?
+If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now? Dimishing return in ROTI?
+
+I think it's impossibly hard to keep keep up ROTI. I can aim for accu, thick->thin, cross-pollination, churn resistance, sustained focus, traction, engaging, ... but ROTI is still underwhelming.
+
+ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I need rational expectations.
+
+Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
 
 --no blogpost
 even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my coding speed, syntax, ECT
