@@ -69,9 +69,9 @@ ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I n
 Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
 
 --no blogpost
-even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my coding speed, syntax, ECT
+even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my  speed coding .. syntax, ECT
 
-perhaps it's better to do some practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
+perhaps it's better to do some easy (not meaningless) practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 
 --new blogpost
 if I were a mgr like Miao in a bank, I would feel ..
