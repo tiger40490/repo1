@@ -1,3 +1,21 @@
+
+--update blogpost on meaningful endeavors for family well being
+competitive strength in speed coding contest 
+competitive strength in dStruct/algo beyond the classics
+competitive strength in core cpp QQ
+competitive strength in core java QQ -- bigger job market
+competitive strength in socket QQ
+competitive strength in SQL QQ and perl GTD -- better than swing 
+competence in localSys
+improvement in yoga and fitness
+
+In each case, you build up the personal strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
+
+Any higher ROTI?
+
+You can say every woman's natural beauty has imperfections when you see that person everyday. This is because our idea of perfect beauty is based on paintings and photos, not live humans. Similarly, every endeavor's ROTI has imperfections compared to our idealized concepts.
+
+If you seek imperfections you will always find some.... but such fixation on imperfections is cynical, demoralizing and unproductive research
 --new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
 A fundamental reason why I find it so hard to sustain the coding drill. I'm just not so good at it.
 i'm better at white-board/algo, so I can spend lots of time
