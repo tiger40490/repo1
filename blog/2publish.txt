@@ -1,21 +1,10 @@
---new blogpost: operational errors@flights
-* multiple losses @security checks
-* multiple missing flights
+--food
+more fruits
+more tuna
+some chocolates
+soup of eggs + onion + radish? weekend, not tonight. Tonight i need to sleep  early
 
---deep-learning seminar
-first application area -- image classification, using GPU. aka Computer Vision
-beat human performance in 2015
-Initially Sparks and MLib didn't support deep learning 
-DL/ML only became a college comp science topic in 2010's.  AI is now one of the hottest courses.
+--need new tag of top50ez
 
-DeepLearning training can take months
-
-ML was mostly academic discipline... need to become an engineering discipline. 2 barriers
-* complex workflow
-* no holistic infrastructure
-
-hyperparameters -- configurations to define a specific DL model
-
-social sciences -- no good application yet
-
-Top 3 classic DeepLearning domains -- computer vision, speech and textual NLP
+--update blog on whey:
+i had 2-scoops at 9.30. Went to sleep around 11pm. The dreaded late night hunger didn't happen :)
