@@ -17,3 +17,5 @@ ML was mostly academic discipline... need to become an engineering discipline. 2
 hyperparameters -- configurations to define a specific DL model
 
 social sciences -- no good application yet
+
+Top 3 classic DeepLearning domains -- computer vision, speech and textual NLP
