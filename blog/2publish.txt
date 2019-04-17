@@ -1,3 +1,17 @@
 --new blogpost: operational errors@flights
 * multiple losses @security checks
-* mutiple missing flights
+* multiple missing flights
+
+--deep-learning seminar
+first application area -- image classification, using GPU. aka Computer Vision
+beat human performance in 2015
+Initially Sparks and MLib didn't support deep learning 
+DL/ML only became a college comp science topic in 2010's.  AI is now one of the hottest courses.
+
+DeepLearning training can take months
+
+ML was mostly academic discipline... need to become an engineering discipline. 2 barriers
+* complex workflow
+* no holistic infrastructure
+
+hyperparameters -- configurations to define a specific DL model
