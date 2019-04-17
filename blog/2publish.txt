@@ -15,3 +15,5 @@ ML was mostly academic discipline... need to become an engineering discipline. 2
 * no holistic infrastructure
 
 hyperparameters -- configurations to define a specific DL model
+
+social sciences -- no good application yet
