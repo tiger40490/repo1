@@ -3,6 +3,13 @@
 [L=leetcode]
 [v=easy to verify]
 
+====Q [c str] longest palindrome subsequence
+I think some non-optional solution is feasible. start with some good (extreme) examples
+eg alabama -> aabaa
+eg mississippi -> ississi
+eg philippines -> pilip
+
+--solution 1 (not so good): generate all abbr and check each but at some point we may have enough confidence to terminate the search
 =====Q (Deepak 2019) tough matrix problem: 
 given a black/white but mostly white matrix, for each cell, compute the least horizontal/vertical steps (shortest distance) to a black cell.
 
