@@ -2,6 +2,10 @@
 
 I think we should read some hints.
 
+idea 5: 95th percentile problem from NYSE
+idea 4: multiple scans
+idea 3: segments
+
 Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
 
 Sol2a: O(N) on average -- we get O(N)+O(N/2) + O(N/4) + ... < O(2N)
@@ -10,6 +14,8 @@ Use qsort partition algo to anchor a (random) pivot element.
 
 Note average complexity is acceptable in hashtable!
 ====Q[L312] 0%: Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array "nums". You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
+
+Not so common, so let's not spend too much time
 
 0 ≤ nums[i] ≤ 100
 
