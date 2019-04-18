@@ -1,7 +1,9 @@
 温故而知新 .. I tend to find bugs + neglected/forgotten parts + areas of improvement. Each part of a given solution can be a show stopper or derailer in a real coding test
 
-====max submatrix using histogram algo
+====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
+
+====(py)) continuousSentence_BBG
 
 ====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
