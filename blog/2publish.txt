@@ -1,0 +1,9 @@
+--Reusable data structure for many algo challenges
+construct a data store to hold a bunch of "structs" in linked list of growing vector (O(1) insertion) 
+Then we can build multiple "indices" pointing into the data store
+
+Here are a few average-O(1) indices:
+(Note O(1) lookup is optimal)
+* hashtable keyed by a struct field like a string
+* array indexed by a struct field like small int id
+* If there's a small int field having duplicate values, then we can use the same array to get to a "group", and within it use one (or multiple) hashtable(s) keyed by another field
