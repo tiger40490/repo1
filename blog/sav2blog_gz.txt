@@ -1,4 +1,3 @@
-
 --update blogpost on meaningful endeavors for family well being
 competitive strength in speed coding contest 
 competitive strength in dStruct/algo beyond the classics
@@ -34,6 +33,12 @@ I commit more personal energy than other candidates on QQ (and to a lesser exten
 
 Given a choice between localSys xx vs QQ (or coding drill), I would not choose localSys, because of accu. 
 
+--no blogpost
+when a tough problem must use some non-trivial auxiliary data structures, i often have an intuitive feel for the data structure needed. 
+
+when a tough problem requires a simple data structure + unusual algo, I don't have an edge.
+
+When a tough problem requires only an unusual algo, I don't have an edge.
 --update blogpost https://bintanvictor.wordpress.com/wp-admin/post.php?post=27609&action=edit
 What part of coding drill is worst on my absorbency?
 coding is worst. It drains my laser energy fastest. I think frustration is the key. Expectation and self-image create the frustration and the drain. 
