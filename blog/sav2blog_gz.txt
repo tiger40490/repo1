@@ -25,21 +25,14 @@ low level QQ -- my strength
 low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
---new blogpost
-Q: am I better at brown field (updating existing codebase) or greenfield (creating new codebase)?
-A: greenfield. It may be hard to achieve some feature but it's hard for everyone so mgr can't really penalize me  [1], so my relative weakness is smaller than in brown field
-[1] look at the delays in Post-Saurabh GMDS and RTS Trep projects
 
-eg: Moodle hack -- was brown field but a small php codebase
-eg: OCBC Quest -- was brown field but small codebase
-eg: RTS parser -- was brown field but I outperformed other guys
-eg: PWM Rule engine rewrite -- was really a brown field project for me. 70% of work is understanding existing perl codebase
 --new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
 A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
 (but i was not good at yoga, and now improving.)
 concurrency coding test is seldom on IDE, so I'm good at it and can spend lots of time.
 i'm better at white-board/algo, so I can spend lots of time
 I *feel* better at SDI so I can spend lots of time. If I realized I'm actually inferior, i will lose absorbency
+
 --new blogpost: Ashish's promotion: Kyle discussion
 The financial reward is a big but not the only reinforcement of absorbency, engagement, sustained focus. Those who commit to localSys are rarely promoted, as explained in numerous blogposts. GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
 
