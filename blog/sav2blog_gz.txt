@@ -108,16 +108,9 @@ my value-add is tied to this firm and not portable compared to a techie
 
 I got to this position by building local relationships, learning the localSys and local workflow
 .. so it's hard to be confident about repeating the same at another firm
+
 competitive pressure from younger managers
 
---no blogpost
-my java AND c++ QQ is good but some interviewers will not be impressed. I think this happens to other strong candidates.
-
-I call it "don't like your face", but there are various reasons. 
-
-They may feel your understanding on some topics is imprecise or not quite right.
-
-They may feel your are too confident, even arrogant. 
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
 * GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more imporant.
@@ -125,13 +118,13 @@ I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after
 * BestPractice implementation? mostly a matter of personal preference by the manager
 * zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
 
-This is one reason why I lost steam in Singapore. My NY years were filled with self improvement driven by interviews.
---new blogpost: delights: strategic, engaged
+This is one reason why my reinforcement loop completely broke in Singapore. My NY years were filled with self improvement driven by interviews.
+--new blogpost: delights: engaged, leverage, strategic.. 
 [tags t_othRisk]
 I feel my expectation was invariably too high in terms of strategic value, therefore underwhelming. (engagement ... expectation was moderately too high) Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
 
-I chose a python job at Macq .. engaged for a few months and never disengaged, to my delight
-I chose the c++ job at RTS .. engaged for 6 months, and never disengaged, to my delight. 
+I chose a python job at Macq .. engaged for a few months, to my delight
+I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
 * Reason: traction in interviews and also in GTD and zbs
 * Reason: interviews
 * Reason: socket QQ was in-demand
@@ -140,6 +133,10 @@ I chose the c++ job at RTS .. engaged for 6 months, and never disengaged, to my 
 Both job decisions produced good/superior leverage over 5Y.
 
 I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
+
+I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
+
+I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
 --new blogpost: c#^java/c++ journeys
 my c# xx journey was exciting for a year but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
 * the interview topics are stable 
