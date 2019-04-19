@@ -11,17 +11,35 @@ improvement in yoga and fitness
 
 In each case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
 
-There is long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
+Valuable resources are scarce and is a competition. Therefore this competitive profile has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
 
 Any higher ROTI?
 
 You can say every woman's natural beauty has imperfections when you see that woman everyday. This is because our idea of perfect beauty is based on paintings and photos, not live humans. Similarly, every endeavor's ROTI has imperfections compared to our naive, idealized concepts.
 
 If you look for imperfections you will always find some.... but such fixation on imperfections is cynical, demoralizing and unproductive research
+
+Need to zoom into my strategic strengths + long term interests such as low-level, theoretical stuff, pure algo, dstruct, and avoid my weaknesses 
+
+low level QQ -- my strength
+low level investigation using tools + codebase -- my weakness
+picking up new GTD challenges -- my relative weakness
+picking up new IV topic -- my relative strength
+--new blogpost
+Q: am I better at brown field (updating existing codebase) or greenfield (creating new codebase)?
+A: greenfield. It may be hard to achieve some feature but it's hard for everyone so mgr can't really penalize me  [1], so my relative weakness is smaller than in brown field
+[1] look at the delays in Post-Saurabh GMDS and RTS Trep projects
+
+eg: Moodle hack -- was brown field but a small php codebase
+eg: OCBC Quest -- was brown field but small codebase
+eg: RTS parser -- was brown field but I outperformed other guys
+eg: PWM Rule engine rewrite -- was really a brown field project for me. 70% of work is understanding existing perl codebase
 --new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
-A fundamental reason why I find it so hard to sustain the coding drill. I'm just not so good at it.
+A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
+(but i was not good at yoga, and now improving.)
+concurrency coding test is seldom on IDE, so I'm good at it and can spend lots of time.
 i'm better at white-board/algo, so I can spend lots of time
-I *feel* better at SDI so I can spend lots of time
+I *feel* better at SDI so I can spend lots of time. If I realized I'm actually inferior, i will lose absorbency
 --new blogpost: Ashish's promotion: Kyle discussion
 The financial reward is a big but not the only reinforcement of absorbency, engagement, sustained focus. Those who commit to localSys are rarely promoted, as explained in numerous blogposts. GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
 
@@ -47,7 +65,7 @@ In contrast,
 * pure algo on paper is lighter. No ECT so I am swift and efficient
 * SDI is most fun, least boring. 
 * c++/java language feature experiments are more interesting as there's no timeline no benchmark
-* code review is less draining than writing new solutions as there's no timeline and code is already working
+* review of my own code is less draining than writing new solutions as there's no timeline and code is already working
 
 Can we stop comparing with others and just compare with our past? Hard
 
