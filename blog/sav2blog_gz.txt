@@ -31,6 +31,14 @@ low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
+==new blogpost: gap behind better speed coders
+Here are my self-rating:
+-- "B" some elegant algos. Am not far behind in terms of pure algo
+-- "B" algo QQ... XR's focus.
+Can be improved by focus, accu and milage.
+-- "B" syntax of about 500 common operations
+-- "C" ECT speed.. my most visible weakness
+====
 --new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
 A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
 (but i was not good at yoga, and now improving.)
