@@ -31,21 +31,6 @@ low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
-==new blogpost: gap behind better speed coders
-Here are my self-rating:
--- "B" some elegant algos. Am not far behind in terms of pure algo
--- "B" algo QQ... XR's focus.
-Can be improved by focus, accu and milage.
--- "B" syntax of about 500 common operations
--- "C" ECT speed.. my most visible weakness
-====
---new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
-A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
-(but i was not good at yoga, and now improving.)
-concurrency coding test is seldom on IDE, so I'm good at it and can spend lots of time.
-i'm better at white-board/algo, so I can spend lots of time
-I *feel* better at SDI so I can spend lots of time. If I realized I'm actually inferior, i will lose absorbency
-
 --new blogpost: Ashish's promotion: Kyle discussion
 The financial reward is a big but not the only reinforcement of absorbency, engagement, sustained focus. Those who commit to localSys are rarely promoted, as explained in numerous blogposts. GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
 
@@ -56,26 +41,6 @@ I feel Ashish commits more personal energy than his colleagues do on localSys be
 I commit more personal energy than other candidates on QQ (and to a lesser extent coding drill) because I derive some joy.
 
 Given a choice between localSys xx vs QQ (or coding drill), I would not choose localSys, because of accu. 
-
---no blogpost
-when a tough problem must use some non-trivial auxiliary data structures, i often have an intuitive feel for the data structure needed. 
-
-when a tough problem requires a simple data structure + unusual algo, I don't have an edge.
-
-When a tough problem requires only an unusual algo, I don't have an edge.
---update blogpost https://bintanvictor.wordpress.com/wp-admin/post.php?post=27609&action=edit
-What part of coding drill is worst on my absorbency?
-coding is worst. It drains my laser energy fastest. I think frustration is the key. Expectation and self-image create the frustration and the drain. 
-In contrast,
-* concurrency coding questions are less draining as other guys are not faster
-* pure algo on paper is lighter. No ECT so I am swift and efficient
-* SDI is most fun, least boring. 
-* c++/java language feature experiments are more interesting as there's no timeline no benchmark
-* review of my own code is less draining than writing new solutions as there's no timeline and code is already working
-
-Can we stop comparing with others and just compare with our past? Hard
-
-Deepak self-identify as "annoyed"
 
 --new?
 my tsn ambition/dream is largely constrained by risks:
@@ -108,11 +73,6 @@ I think it's impossibly hard to keep keep up ROTI. I can aim for accu, thick->th
 ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I need rational expectations.
 
 Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
-
---no blogpost
-even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my  speed coding .. syntax, ECT
-
-perhaps it's better to do some easy (not meaningless) practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 
 --new blogpost
 if I were a mgr like Miao in a bank, I would feel ..
@@ -166,5 +126,5 @@ swing -- rare engagement + orgro but abandoned !
 
 c# -- i made sacrifices for deep-dive, and in return experienced rare engagement + orgro. I have since given up the direction, as c# is not so relevant to my current direction.
 
---no blogpost: I actually felt good receiving low salary offers like Nasdaq and NCS
+--no blogpost: I actually felt good receiving low salary offers like Baml-repo, Nasdaq and NCS
 Somehow it confirms my value-add to the economy, my "health condition" 
