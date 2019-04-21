@@ -1,3 +1,14 @@
+-- new blogpost speed-reading^ slow-digestion@legacy code
+speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient than co-workers, capable of precision laser surgery :)
+
+Andrew Yap, Ashish Singh, ... are all better at speed reading.
+
+I need to take many notes and refresh them. 
+
+Debugging my own code is easier than debugging other people's code. This is more obvious for me than other guys
+
+As part of ECT capacity in speed coding. If I have to read lengthy error messages, I'm slower than other guys. That's why I prefer python.
+
 --update blogpost https://bintanvictor.wordpress.com/wp-admin/post.php?post=27609&action=edit
 What part of coding drill is worst on my absorbency?
 coding is worst. It drains my laser energy fastest. I think frustration is the key. Expectation and self-image create the frustration and the drain. 
