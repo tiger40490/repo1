@@ -1,0 +1,43 @@
+--new blogpost:
+Q3: in an embedded env with 1MB heap footprint restriction, you need to keep around fifty payload objects in a data structure, but these 50 objects already need 750KB, is ArrayList or linked list better?
+%%A: total footprint is smaller for AL than LL
+
+Q3b: compaction?
+%%A: when AL reallocates it needs a big continguous chunk, in a fragmented heap
+
+Q3c: so yes LL is more flexible. Can you optimize its footprint?
+%%A: traditional Node holds 3 pointers for the payload, prev and next, 
+but placement-new can construct the payload objects in a preallocated array and return the small-int subscript as address.
+We then use 3 small ints (like bytes) for the 3 pointers of a LinkNode. 
+Combine 3 small ints into a single int ... 2 byte/LinkNode?
+
+Q3d: XOR?
+
+Q: 2 legacy modules have MyThread.java extending Thread.java and MyRunnable.java implementing Runnable.java respectively. Legacy code creates threads using each, but now you wonder if you create a thread using both MyThread.java and MyRunnable.java, which run() would be picked
+
+Q: how does CMS GC work?
+
+Q: each Person.java object needs to be in a hashtable and searchable by two key objects (say Address object and Name object)
+
+Q: c++11 auto keyword .. drawback?
+
+Q: first fix msg after tcp handshake? What happens after you send that msg?
+
+Q: your FIX order is acked by exch; you send an order replace msg but not acked; you get a partial fill .. what's the order state now?
+
+Q: inter-thread comm? 
+%%A: database; volatile fields; single shared object; exception; concurrent data structures; wait/notify
+--new blogpost: %%%ringBuffer of pre-allocated objects to prevent GC
+[category SDI]
+
+Goal -- to eliminate GC completely.
+
+I will want Order.java to use primitive fields and avoid reference fields, so the total footprint of an Order is known in advance. Say it's 100 bytes. I will pre-allocate 10M of these in an Order array... about 1GB footprint. Then i need a few subscripts to identify the active region + released slots therein. 
+
+Ring buffer is good if the object lifetimes are roughly equal and we get FIFO. Otherwise, we may need a linked list of released slots in addition to a pair of subscript to identify the active region.
+
+It might be better to allocate a dedicated buffer for each thread, to avoid contention.
+--
+Q: in java, can I have embedded fixed-length char-array field in my Acct object, rather than a separate array allocated somewhere off-site?
+
+If not, I would need a giant char array that holds all the sub-arrays. Then I need to use a single int offset to identify one sub-array. Every Acct object has an this.offset.
