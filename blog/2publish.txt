@@ -1,0 +1,9 @@
+--new blogpost: c#^java/c++ journeys
+my c# xx journey was exciting for a year but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
+* the interview topics are stable 
+* I was able to stick to these career directions
+
+However, most of the java5 new features are out of fashion in interviews. How about j8 features?
+
+leverage? c# is lower but not bad. See separate blogpost
+

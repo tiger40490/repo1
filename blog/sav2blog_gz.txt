@@ -113,15 +113,6 @@ I chose a c# job ... engaged for a year and then disengaged, shorter than expect
 I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
 
 I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
---new blogpost: c#^java/c++ journeys
-my c# xx journey was exciting for a year but .. In contrast, my core-java/c++ (not jxee) journey has generated superior ROTI because 
-* the interview topics are stable 
-* I was able to stick to these career directions
-
-However, most of the java5 new features are out of fashion in interviews. How about j8 features?
-
-leverage? c# is lower but not bad. See separate blogpost
-
 --no blogpost
 i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
 rebuild confidence about career/financial foundation for next 25Y, since my passive-income/asset/burn-rate profile is far from comfortable
