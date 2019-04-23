@@ -95,9 +95,11 @@ I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after
 * zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
 
 This is one reason why my reinforcement loop completely broke in Singapore. My NY years were filled with self improvement driven by interviews.
---new blogpost: delights: engaged, leverage, strategic.. 
+--new blogpost: delights: engaged,leverage,strategic.. 
 [tags t_othRisk]
-I feel my expectation was invariably too high in terms of strategic value, therefore underwhelming. (engagement ... expectation was moderately too high) Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
+I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
+(engagement ... expectation was moderately too high) 
+Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
 
 I chose a python job at Macq .. engaged for a few months, to my delight
 I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
