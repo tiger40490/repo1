@@ -1,15 +1,18 @@
 --new blogpost:
-Q3: in an embedded env with 1MB heap footprint restriction, you need to keep around fifty payload objects in a data structure, but these 50 objects already need 750KB, is ArrayList or linked list better?
+Q3: in an embedded env with 1MB heap footprint restriction, you need to keep around fifty payload objects in a data structure, but these 50 bare objects already need 750KB, leaving 250KB for the container. Is ArrayList or linked list better?
 %%A: total footprint is smaller for AL than LL
 
 Q3b: compaction?
-%%A: when AL reallocates it needs a big continguous chunk, in a fragmented heap
+%%A: when AL reallocates it needs a big contiguous chunk, in a fragmented heap.. Challenging!
 
 Q3c: so yes LL is more flexible. Can you optimize its footprint?
-%%A: traditional Node holds 3 pointers for the payload, prev and next, 
-but placement-new can construct the payload objects in a preallocated array and return the small-int subscript as address.
-We then use 3 small ints (like bytes) for the 3 pointers of a LinkNode. 
-Combine 3 small ints into a single int ... 2 byte/LinkNode?
+%%A: traditional Node holds 3 pointers for the payload, prevNode and nextNode, 
+but I will host the payload data fields in the Node object (removing the payload pointer).
+placement-new can construct the Node objects in a preallocated array and return the small-int subscript as address.
+We then use 2 small ints (like bytes) for prev/next pointers. 
+Node {byte prev; byte next; /*payload fields*/ } 
+What's the memory overhead?
+Instead of 3 pointers (3*8=24 bytes) I need 2 bytes
 
 Q3d: XOR?
 
