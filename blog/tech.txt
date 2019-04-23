@@ -1,4 +1,5 @@
 --new blogpost:
+This interview is mostly low-level like c++ but not into kernel or compiler 
 Q3: in an embedded env with 1MB heap footprint restriction, you need to keep around fifty payload objects in a data structure, but these 50 bare objects already need 750KB, leaving 250KB for the container. Is ArrayList or linked list better?
 %%A: total footprint is smaller for AL than LL
 
@@ -40,14 +41,16 @@ Q: inter-thread comm?
 
 Goal -- to eliminate GC completely.
 
-I will want Order.java to use primitive fields and avoid reference fields [1], so the total footprint of an Order is known in advance. Say it's 100 bytes. I will pre-allocate 10M of these in an Order array... about 1GB footprint. 
+Design 1: I will want Order.java to use primitive fields and avoid reference fields [1], so the total footprint of an Order is known in advance. Say it's 100 bytes. I will create 10M of dummy Order instances (possibly scattered in heap) and hold their 10M addresses in an Order array... about 1GB footprint for the Order objects + 80M footprint for the array of pointers.
 Then i need a few subscripts to identify the active region but how about released slots therein? 
 
 [1] timestamps will be ints; 
 symbolIDs and clientIDs are ints;
 short ascii strings will use 64-bit ints (8 characters/int); free-form strings must be allocated off-site.
 
-Ring buffer is good if the object lifetimes are roughly equal, giving us FIFO pattern. Otherwise, we may need a linked list (free list) of released slots in addition to a pair of subscript to identify the active region.
+Design 2: Can we use a byte[100] array object to represent one Order? Can we use one gigantic byte array to hold all Orders, eliminating the 80M footprint
+
+Ring buffer is good if the object lifetimes are roughly equal, giving us FIFO phenomenon. Otherwise, we may need a linked list (free list) of released slots in addition to a pair of subscript to identify the active region.
 
 It might be better to allocate a dedicated buffer for each thread, to avoid contention. Drawback? One buffer may get exhausted when another stays unused.
 --new blogpost: java embedded char[]field
