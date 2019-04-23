@@ -1,4 +1,7 @@
+--eng:
+oppo=opportunities
 --new blogpost: c#^java/c++ journeys
+[tags t_below7]
 my c# xx journey was exciting for 6M before OC and a year into OC but .. In contrast, my core-java/c++ (not jxee) journeys have generated superior ROTI because 
 * the interview topics are stable 
 * I was able to stick to these career directions
