@@ -1,4 +1,5 @@
 --new blogpost
+[tags t_othRisk]
 when I tsn, i have multiple target gains
 salary hike is the least likely
 if no hike, i hope to open up new job markets at similar pay
@@ -78,7 +79,7 @@ java has been popular on web servers, and crucially the newer mobile, cloud, big
 java's adoption rate as a foundation platform or integration-target... is better than other languages. Many products are built for java, on java or with java in mind. I'm deliberately vague here because I don't want to spend too much time analyzing this vague, general observation.
 
 --new blogpost
-tags t_churn
+[tags t_othRisk, t_churn]
 My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11, python ...?
 
 Focus today is ROTI, NOT about churn. Socket, SQL, core c++ are actually the best-performing tech bets in terms of robust demand and shelf-life. 
