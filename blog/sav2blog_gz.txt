@@ -10,11 +10,6 @@ Luckily socket, python, coding drill, c++ experiments produced better ROTI in te
 
 We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too elusive. As Mithun put it, java multithreading alone can fetch you highest salary.
 
---no blogpost
-i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
-rebuild confidence about career/financial foundation for next 25Y, since my passive-income/asset/burn-rate profile is far from comfortable
-rebuild self esteem.. stigma?
-
 --update blogpost on meaningful endeavors for family well being
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are definitely more valued 
 competitive strength in dStruct/algo beyond the classics
@@ -85,16 +80,12 @@ I think it's impossibly hard to keep keep up ROTI. I can aim for accu, thick->th
 ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I need rational expectations.
 
 Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
+--new or update: long-term orgro=elusive
+long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
 
---new blogpost
-if I were a mgr like Miao in a bank, I would feel ..
+swing -- rare engagement + orgro but abandoned !
 
-my value-add is tied to this firm and not portable compared to a techie
-
-I got to this position by building local relationships, learning the localSys and local workflow
-.. so it's hard to be confident about repeating the same at another firm
-
-competitive pressure from younger managers
+c# -- i made sacrifices for deep-dive, and in return experienced rare engagement + orgro. I have since given up the direction, as c# is not so relevant to my current direction.
 
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
@@ -131,12 +122,19 @@ However, most of the java5 new features are out of fashion in interviews. How ab
 
 leverage? c# is lower but not bad. See separate blogpost
 
---new or update: long-term orgro=elusive
-long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
+--no blogpost
+i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
+rebuild confidence about career/financial foundation for next 25Y, since my passive-income/asset/burn-rate profile is far from comfortable
+rebuild self esteem.. stigma?
+--no blogpost
+if I were a mgr like Miao in a bank, I would feel ..
 
-swing -- rare engagement + orgro but abandoned !
+my value-add is tied to this firm and not portable compared to a techie
 
-c# -- i made sacrifices for deep-dive, and in return experienced rare engagement + orgro. I have since given up the direction, as c# is not so relevant to my current direction.
+I got to this position by building local relationships, learning the localSys and local workflow
+.. so it's hard to be confident about repeating the same at another firm
+
+competitive pressure from younger managers
 
 --no blogpost: I actually felt good receiving low salary offers like Baml-repo, Nasdaq and NCS
 Somehow it confirms my value-add to the economy, my "health condition" 
