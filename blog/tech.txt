@@ -17,30 +17,41 @@ Instead of 3 pointers (3*8=24 bytes) I need 2 bytes
 Q3d: XOR?
 
 Q: 2 legacy modules have MyThread.java extending Thread.java and MyRunnable.java implementing Runnable.java respectively. Legacy code creates threads using each, but now you wonder if you create a thread using both MyThread.java and MyRunnable.java, which run() would be picked
+%%A: I don't really know how to create a thread using both, but it's best to migrate the content of MyThread.run() into MyRunnable.run()
 
 Q: how does CMS GC work?
 
 Q: each Person.java object needs to be in a hashtable and searchable by two key objects (say Address object and Name object)
 
+Q: if I want to use MyKey.java as hashtable key, what is needed in MyKey.java, beside the hahscode/equals contract?
+%%A: serializable; immutable after insertion
+
 Q: c++11 auto keyword .. drawback?
+%%A: readability .. actual type may surprise you.
 
 Q: first fix msg after tcp handshake? What happens after you send that msg?
 
 Q: your FIX order is acked by exch; you send an order replace msg but not acked; you get a partial fill .. what's the order state now?
 
 Q: inter-thread comm? 
-%%A: database; volatile fields; single shared object; exception; concurrent data structures; wait/notify
---new blogpost: %%%ringBuffer of pre-allocated objects to prevent GC
+%%A: database; volatile fields; single shared object; exception; concurrent data structures; wait/notify is last resort and most flexible
+--new blogpost: %%ringBuffer of pre-allocated objects to prevent GC
 [category SDI]
 
 Goal -- to eliminate GC completely.
 
-I will want Order.java to use primitive fields and avoid reference fields, so the total footprint of an Order is known in advance. Say it's 100 bytes. I will pre-allocate 10M of these in an Order array... about 1GB footprint. Then i need a few subscripts to identify the active region + released slots therein. 
+I will want Order.java to use primitive fields and avoid reference fields [1], so the total footprint of an Order is known in advance. Say it's 100 bytes. I will pre-allocate 10M of these in an Order array... about 1GB footprint. 
+Then i need a few subscripts to identify the active region but how about released slots therein? 
 
-Ring buffer is good if the object lifetimes are roughly equal and we get FIFO. Otherwise, we may need a linked list of released slots in addition to a pair of subscript to identify the active region.
+[1] timestamps will be ints; 
+symbolIDs and clientIDs are ints;
+short ascii strings will use 64-bit ints (8 characters/int); free-form strings must be allocated off-site.
 
-It might be better to allocate a dedicated buffer for each thread, to avoid contention.
---
-Q: in java, can I have embedded fixed-length char-array field in my Acct object, rather than a separate array allocated somewhere off-site?
+Ring buffer is good if the object lifetimes are roughly equal, giving us FIFO pattern. Otherwise, we may need a linked list (free list) of released slots in addition to a pair of subscript to identify the active region.
 
-If not, I would need a giant char array that holds all the sub-arrays. Then I need to use a single int offset to identify one sub-array. Every Acct object has an this.offset.
+It might be better to allocate a dedicated buffer for each thread, to avoid contention. Drawback? One buffer may get exhausted when another stays unused.
+--new blogpost: java embedded char[]field
+Q: in java, how can I have embedded fixed-length char-array field in my Acct object, rather than a separate array object allocated somewhere off-site?
+
+A: If the fixed length is small like 10, i will maintain 10 char fields.
+A: If not possible, I would need a giant singleton off-site char array to hold fixed-length "segments". Then I need a single int offset to identify one segment. Every Acct object has a field this.offset.
