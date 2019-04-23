@@ -53,8 +53,8 @@ Design 2: Can we use a byte[100] array object to represent one Order? Can we use
 Ring buffer is good if the object lifetimes are roughly equal, giving us FIFO phenomenon. Otherwise, we may need a linked list (free list) of released slots in addition to a pair of subscript to identify the active region.
 
 It might be better to allocate a dedicated buffer for each thread, to avoid contention. Drawback? One buffer may get exhausted when another stays unused.
---new blogpost: java embedded char[]field
+--new blogpost: java embedded char[] field
 Q: in java, how can I have embedded fixed-length char-array field in my Acct object, rather than a separate array object allocated somewhere off-site?
 
 A: If the fixed length is small like 10, i will maintain 10 char fields.
-A: If not possible, I would need a giant singleton off-site char array to hold fixed-length "segments". Then I need a single int offset to identify one segment. Every Acct object has a field this.offset.
+A: If not possible, I would need a giant singleton off-site char array to hold fixed-length "segments". Then I need a single int "position". Position x fixedLength = offset, to identify one segment. Every Acct object has a field this.position.
