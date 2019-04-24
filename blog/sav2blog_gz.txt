@@ -16,6 +16,26 @@ i hope to keep my mind active and engaged, rather than doing the same thing over
 
 if all else fail, i hope to avoid waste my precious spare time - burn/rot
 
+--new blogpost: delights: engaged,leverage,strategic.. 
+[tags t_othRisk]
+I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
+(engagement ... expectation was moderately too high) 
+Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
+
+I chose a python job at Macq .. engaged for a few months, to my delight
+I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
+* Reason: traction in interviews and also in GTD and zbs
+* Reason: interviews
+* Reason: socket QQ was in-demand
+* Reason: QQ discussions with colleagues .. visible progress
+
+Both job decisions produced good/superior leverage over 5Y.
+
+I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
+
+I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
+
+I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
 --new blogpost
 [tags t_othRisk, t_churn]
 My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11, python ...?
@@ -116,26 +136,6 @@ I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after
 * zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
 
 This is one reason why my reinforcement loop completely broke in Singapore. My NY years were filled with self improvement driven by interviews.
---new blogpost: delights: engaged,leverage,strategic.. 
-[tags t_othRisk]
-I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
-(engagement ... expectation was moderately too high) 
-Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
-
-I chose a python job at Macq .. engaged for a few months, to my delight
-I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
-* Reason: traction in interviews and also in GTD and zbs
-* Reason: interviews
-* Reason: socket QQ was in-demand
-* Reason: QQ discussions with colleagues .. visible progress
-
-Both job decisions produced good/superior leverage over 5Y.
-
-I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
-
-I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
-
-I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
 --no blogpost
 i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
 rebuild confidence about career/financial foundation for next 25Y, since my passive-income/asset/burn-rate profile is far from comfortable
