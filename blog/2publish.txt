@@ -1,6 +1,6 @@
 try to sleep early and get up early
 
-==update blogpost: gap behind better speed coders
+==update blogpost: gap behind speed coders
 Any Low-hanging fruits?
 
 Any Path of least resistance? 
@@ -9,7 +9,7 @@ Here are my self-rating:
 -- "B+" some elegant algos, clear mental picture, 抓要领 -- Am not far behind
 -- "B" algo QQ... XR's focus.
 Can be improved by focus, accu and mileage.
--- "C" syntax of about 500 common operations. py is easier than c++
+-- "C" syntax of about 500 common operations. py beats c++
 -- "D" ECT speed.. my most visible weakness
 -- "B" speed coding involving common algos + ECT + syntax
 

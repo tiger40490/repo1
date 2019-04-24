@@ -1,4 +1,3 @@
-
 --no blogpost
 even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my  speed coding .. syntax, ECT
 
@@ -7,6 +6,9 @@ perhaps it's better to do some easy (not meaningless) practice every other day r
 --new new blogpost: my dStruct strength in coding test
 when a tough problem must use some non-trivial auxiliary data structures, i often have an intuitive feel for the data structure needed. 
 
-when a tough problem requires a simple data structure + unusual algo, I don't have an edge.
+when a tough problem requires a simpler data structure + unusual algo, I don't have an edge.
 
 When a tough problem requires only an unusual algo, I don't have an edge.
+* edit distance
+* sliding window max
+* maximal sub-matrix
