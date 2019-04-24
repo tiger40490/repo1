@@ -98,7 +98,7 @@ For these specific risks, my current risk tolerance is higher so I ought to be b
 
 Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
 
---new blogpost: java perf^simplicity
+--new new new blogpost: java perf^simplicity
 Paradoxically
 java's syntax simplicity is on par with python, better than c# and much better than c++.
 java's performance is on par with c# and c++, largely due to JVM and JIT
@@ -109,7 +109,8 @@ java's adoption rate as a foundation platform or integration-target... is better
 
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
-* GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more imporant.
+* GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more important.
+** localSys xx is almost always cursory and not in-depth since unnecessary digging (pwm-comm bottom-up xx plan) is invariably unsustainable -- patchwork systems, destined for rewrite, illustrating few best practices
 * BestPractice design? Almost never mattered in my career. After EMPWorld, I have never risen to decision-maker level.
 * BestPractice implementation? mostly a matter of personal preference by the manager
 * zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
