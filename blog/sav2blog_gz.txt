@@ -16,6 +16,14 @@ i hope to keep my mind active and engaged, rather than doing the same thing over
 
 if all else fail, i hope to avoid waste my precious spare time - burn/rot
 
+--new blogpost: c#^java/c++ journeys
+[tags t_below7]
+my c# xx journey was exciting for 6M before OC and in first year in OC. In contrast, my core-java/c++ (less for jxee) journeys have generated superior ROTI (elusive) because 
+* the interview topics are stable 
+* market waves steered me to stick to (not abandon) these career directions
+
+leverage? c# is lower but not bad. See separate blogpost
+
 --new blogpost: delights: engaged,leverage,strategic.. 
 [tags t_othRisk]
 I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
