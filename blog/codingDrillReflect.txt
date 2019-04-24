@@ -30,11 +30,11 @@ perhaps it's better to do some easy (not meaningless) practice every other day r
 
 ==new blogpost: gap behind better speed coders
 Here are my self-rating:
--- "B" some elegant algos. Am not far behind in terms of pure algo
+-- "B+" some elegant algos, clear mental picture, 抓要领 -- Am not far behind
 -- "B" algo QQ... XR's focus.
 Can be improved by focus, accu and milage.
--- "B" syntax of about 500 common operations
--- "C" ECT speed.. my most visible weakness
+-- "C" syntax of about 500 common operations. py is easier than c++
+-- "D" ECT speed.. my most visible weakness
 ====
 --new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
 A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
