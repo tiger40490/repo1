@@ -14,6 +14,25 @@ Can be improved by focus, accu and mileage.
 -- "B" speed coding involving common algos + ECT + syntax
 
 ===
+--new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
+--update blogpost https://bintanvictor.wordpress.com/wp-admin/post.php?post=27609&action=edit
+What part of coding drill is worst on my absorbency?
+What type of coding drill can I do for hours like reading/blogging?
+implementation is worst. 
+It drains my laser energy fastest. 
+I think frustration is the key. 
+Expectation and self-image create the frustration and the drain. 
+Deepak self-identify as "annoyed"
+
+In contrast,
+* concurrency coding questions are less draining as other guys are not faster
+* pure algo on paper is lighter. No ECT so I am swift and efficient
+* SDI is most fun, least boring. I feel a bit of accu 
+* c++/java language feature experiments are more interesting as there's no time-line no benchmark. Also other guys are not stronger. I feel some accu exactly like reading on these me features
+* review of my previous code is much less draining (than writing new solutions) as there's no time-line and code is already working
+
+Can we stop comparing with others and just compare with our past? Hard
+
 --new new blogpost speed-reading^slow-digestion@legacy code
 speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient (and deeper, more complete grasp) than co-workers, capable of precision laser surgery :)
 

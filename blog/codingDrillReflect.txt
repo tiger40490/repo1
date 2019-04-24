@@ -1,33 +1,10 @@
---update blogpost https://bintanvictor.wordpress.com/wp-admin/post.php?post=27609&action=edit
-What part of coding drill is worst on my absorbency?
-What type of coding drill can I do for hours like reading/blogging?
-implementation is worst. 
-It drains my laser energy fastest. 
-I think frustration is the key. 
-Expectation and self-image create the frustration and the drain. 
-Deepak self-identify as "annoyed"
-
-In contrast,
-* concurrency coding questions are less draining as other guys are not faster
-* pure algo on paper is lighter. No ECT so I am swift and efficient
-* SDI is most fun, least boring. I feel a bit of accu 
-* c++/java language feature experiments are more interesting as there's no time-line no benchmark. Also other guys are not stronger. I feel some accu exactly like reading on these me features
-* review of my previous code is much less draining (than writing new solutions) as there's no time-line and code is already working
-
-Can we stop comparing with others and just compare with our past? Hard
 
 --no blogpost
 even a quick rewrite (not inventing) on a simple problem like removingSpaces can benefit my  speed coding .. syntax, ECT
 
 perhaps it's better to do some easy (not meaningless) practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 
---new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
-A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
-(but i was not good at yoga, and now improving.)
-concurrency coding test is seldom on IDE, so I'm good at it and can spend lots of time.
-i'm better at white-board/algo, so I can spend lots of time
-I *feel* better at SDI so I can spend lots of time. If I realized I'm actually inferior, i will lose absorbency
---new blogpost: my dStruct strength in coding test
+--new new blogpost: my dStruct strength in coding test
 when a tough problem must use some non-trivial auxiliary data structures, i often have an intuitive feel for the data structure needed. 
 
 when a tough problem requires a simple data structure + unusual algo, I don't have an edge.
