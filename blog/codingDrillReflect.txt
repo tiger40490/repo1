@@ -1,5 +1,6 @@
 --update blogpost https://bintanvictor.wordpress.com/wp-admin/post.php?post=27609&action=edit
 What part of coding drill is worst on my absorbency?
+What type of coding drill can I do for hours like reading/blogging?
 implementation is worst. 
 It drains my laser energy fastest. 
 I think frustration is the key. 
@@ -9,9 +10,10 @@ Deepak self-identify as "annoyed"
 In contrast,
 * concurrency coding questions are less draining as other guys are not faster
 * pure algo on paper is lighter. No ECT so I am swift and efficient
-* SDI is most fun, least boring. 
-* c++/java language feature experiments are more interesting as there's no timeline no benchmark. Also other guys are not stronger.
+* SDI is most fun, least boring. I feel a bit of accu 
+* c++/java language feature experiments are more interesting as there's no timeline no benchmark. Also other guys are not stronger. I feel some accu exactly like reading on these same features
 * review of my previous code is less draining (than writing new solutions) as there's no timeline and code is already working
+
 Can we stop comparing with others and just compare with our past? Hard
 
 --no blogpost
@@ -20,9 +22,9 @@ even a quick rewrite (not inventing) on a simple problem like removingSpaces can
 perhaps it's better to do some easy (not meaningless) practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 
 ==new blogpost: gap behind better speed coders
-Low-hanging fruits?
+Any Low-hanging fruits?
 
-Path of least resistance? 
+Any Path of least resistance? 
 
 Here are my self-rating:
 -- "B+" some elegant algos, clear mental picture, 抓要领 -- Am not far behind

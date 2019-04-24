@@ -1,3 +1,5 @@
+try to sleep early and get up early
+
 --new new blogpost speed-reading^slow-digestion@legacy code
 speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient (and deeper, more complete grasp) than co-workers, capable of precision laser surgery :)
 
