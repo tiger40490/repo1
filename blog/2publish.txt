@@ -1,5 +1,19 @@
 try to sleep early and get up early
 
+==update blogpost: gap behind better speed coders
+Any Low-hanging fruits?
+
+Any Path of least resistance? 
+
+Here are my self-rating:
+-- "B+" some elegant algos, clear mental picture, 抓要领 -- Am not far behind
+-- "B" algo QQ... XR's focus.
+Can be improved by focus, accu and mileage.
+-- "C" syntax of about 500 common operations. py is easier than c++
+-- "D" ECT speed.. my most visible weakness
+-- "B" speed coding involving common algos + ECT + syntax
+
+===
 --new new blogpost speed-reading^slow-digestion@legacy code
 speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient (and deeper, more complete grasp) than co-workers, capable of precision laser surgery :)
 
