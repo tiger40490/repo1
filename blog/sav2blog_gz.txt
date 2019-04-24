@@ -1,4 +1,4 @@
---new blogpost
+--new new blogpost: tsn gains: mostly elusive
 [tags t_othRisk]
 when I tsn, i have multiple target 'gains' in a pyramid
 strategic value is the most elusive, comparable to HuKun taking his brother as role model.
@@ -38,7 +38,7 @@ I chose a Quant dev job ... engaged for a year and never disengaged. Leverage wa
 I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
 --new blogpost
 [tags t_othRisk, t_churn]
-My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11, python ...?
+My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11...?
 
 Focus today is ROTI, NOT about churn. Socket, SQL, core c++ are actually the best-performing tech bets in terms of robust demand and shelf-life. 
 
