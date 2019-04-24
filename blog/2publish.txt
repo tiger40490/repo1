@@ -1,3 +1,13 @@
+--new new blogpost speed-reading^slow-digestion@legacy code
+speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient (and deeper, more complete grasp) than co-workers, capable of precision laser surgery :)
+
+Andrew Yap, Ashish Singh, ... all faster speed reading.
+
+I need to take many notes and refresh them, but still poor retention rate.
+
+Debugging my own code is easier than debugging other people's code. This is more obvious for me than other guys
+
+As part of ECT capacity in speed coding... if I have to read lengthy error messages, I'm slower than other guys. That's why I prefer python.
 --eng:
 oppo=opportunities
 
