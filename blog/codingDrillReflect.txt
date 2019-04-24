@@ -29,12 +29,15 @@ even a quick rewrite (not inventing) on a simple problem like removingSpaces can
 perhaps it's better to do some easy (not meaningless) practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 
 ==new blogpost: gap behind better speed coders
+Low-hanging fruit? 
+
 Here are my self-rating:
 -- "B+" some elegant algos, clear mental picture, 抓要领 -- Am not far behind
 -- "B" algo QQ... XR's focus.
 Can be improved by focus, accu and milage.
 -- "C" syntax of about 500 common operations. py is easier than c++
 -- "D" ECT speed.. my most visible weakness
+-- "B" speed coding involving common algos + ECT + syntax
 ====
 --new blogpost: %%traction: QQ/whiteboard/algo/SDI imt speed coding
 A major reason why I find it so hard to sustain the coding drill. I'm just not so good at speed coding.
