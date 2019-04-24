@@ -1,5 +1,5 @@
--- new blogpost speed-reading^slow-digestion@legacy code
-speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient than co-workers, capable of precision laser surgery :)
+--new new blogpost speed-reading^slow-digestion@legacy code
+speed-reading (Understanding big/small program quickly) ... is my competitive weakness, but once I understand a codebase I am often more proficient (and deeper) than co-workers, capable of precision laser surgery :)
 
 Andrew Yap, Ashish Singh, ... are all better at speed reading.
 
@@ -29,12 +29,14 @@ even a quick rewrite (not inventing) on a simple problem like removingSpaces can
 perhaps it's better to do some easy (not meaningless) practice every other day rather than planning to do something strenuous once a week because many things can derail the weekly "exercise"
 
 ==new blogpost: gap behind better speed coders
-Low-hanging fruit? 
+Low-hanging fruits?
+
+Path of least resistance? 
 
 Here are my self-rating:
 -- "B+" some elegant algos, clear mental picture, 抓要领 -- Am not far behind
 -- "B" algo QQ... XR's focus.
-Can be improved by focus, accu and milage.
+Can be improved by focus, accu and mileage.
 -- "C" syntax of about 500 common operations. py is easier than c++
 -- "D" ECT speed.. my most visible weakness
 -- "B" speed coding involving common algos + ECT + syntax
@@ -45,7 +47,7 @@ A major reason why I find it so hard to sustain the coding drill. I'm just not s
 concurrency coding test is seldom on IDE, so I'm good at it and can spend lots of time.
 i'm better at white-board/algo, so I can spend lots of time
 I *feel* better at SDI so I can spend lots of time. If I realized I'm actually inferior, i will lose absorbency
---no blogpost
+--new blogpost: my dStruct strength in coding test
 when a tough problem must use some non-trivial auxiliary data structures, i often have an intuitive feel for the data structure needed. 
 
 when a tough problem requires a simple data structure + unusual algo, I don't have an edge.
