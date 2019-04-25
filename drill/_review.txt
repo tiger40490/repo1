@@ -4,7 +4,6 @@
 thick->thin? not yet. 
 
 ====(cpp) water container
-====(py)) continuousSentence_BBG
 ====edit distance -- need to internalize 1 or 2 key points
 ====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 
