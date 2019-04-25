@@ -1,3 +1,11 @@
+--new blogpost
+Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill was always questionable. 
+A: because the traders made money and subsequently received a big budget
+
+I am more theoretical and was naturally attracted to this domain but the value-add reality soon prevailed.
+
+Tech shops love algo challenges and speed-coding which have dubious value-add similar to the quant skills. However, the hot money in tech sector is much bigger and last longer. 
+
 --new new blogpost: tsn gains: mostly elusive to achievable
 [tags t_othRisk, t_framework]
 when I tsn, i aim at multiple target 'gains' as in a pyramid
