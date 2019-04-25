@@ -1,7 +1,7 @@
 --new new blogpost: tsn gains: mostly elusive to achievable
-[tags t_othRisk]
+[tags t_othRisk, t_framework]
 when I tsn, i aim at multiple target 'gains' as in a pyramid
-strategic value is the most elusive, comparable to HuKun taking his brother as role model.
+strategic value is the most elusive, comparable to HuKun taking his brother as role model. More strategic is my rental property investment
 salary hike is one of the least likely [CVA]
 i hope to open up new job markets at similar pay. I enjoy wider range of oppo and being in-demand
 but the new market is unsuitable, ..
@@ -24,11 +24,13 @@ my c# xx journey was exciting for 6M before OC and in first year in OC. In contr
 
 leverage? c# is lower but not bad. See separate blogpost
 
+For all languages, there is no hike, no strategic value so at that level all underwhelming
+
 --new blogpost: delights: engaged,leverage,strategic.. 
 [tags t_othRisk]
 I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
 (engagement ... expectation was moderately too high) 
-Against this backgrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
+Against this backdrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
 
 I chose a python job at Macq .. engaged for a few months, to my delight
 I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
@@ -50,7 +52,7 @@ My thick->thin insight into c#, SQL, swing, quant ... are not needed at present.
 
 Focus today is ROTI, NOT about churn. Socket, SQL, core c++ are actually the best-performing tech bets in terms of robust demand and shelf-life. 
 
-If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now? Dimishing return in ROTI?
+If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now? Diminishing return in ROTI?
 
 I think it's impossibly hard to keep keep up ROTI. I can aim for accu, thick->thin, cross-pollination, churn resistance, sustained focus, traction, engaging, ... but ROTI is still underwhelming.
 
