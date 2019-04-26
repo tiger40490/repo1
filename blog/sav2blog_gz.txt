@@ -16,6 +16,8 @@ if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and 
 --updte blogpost on greenfield^brownfield:
 it's actually not hard to build some new "mkt data engine" as Quoine's Richard did over a few months, since greenfield is much simpler than brownfield. 
 
+Sundip wrote an prototype of StirtRisk over a week, but the really big effort is the build-out from prototype to finished product.
+
 Kenny of Trecquant designed something really simple that supposedly does the same job as a 100-man-year system, 
 
 I created a FIX engine over a few hours.
