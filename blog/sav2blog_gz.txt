@@ -1,3 +1,9 @@
+--new blogpost
+MOM roti? low but could be high if I pursue an archtect career
+SQL tuning + complex query -- roti? low but could be higher if I go into big data
+swing roti? could be higher if I purpose a GUI career
+drv pricing roti? could be higher if I stick to quant-dev career
+
 --new blogpost: no need to diversify out@java because..
 So far, we java developers were lucky so we need not diversify.
 
