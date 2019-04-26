@@ -10,8 +10,20 @@ So far, we java developers were lucky so we see no financial gain in diversifica
 
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 
+--new blogpost:
+if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and job pool
+
+--updte blogpost on greenfield^brownfield:
+it's actually not hard to build some new "mkt data engine" as Quoine's Richard did over a few months, since greenfield is much simpler than brownfield. 
+
+Kenny of Trecquant designed something really simple that supposedly does the same job as a 100-man-year system, 
+
+I created a FIX engine over a few hours.
+
+I implemented a basic order book over a few hours even when I was new to c++
+
 --new blogpost
-Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill was always questionable. 
+Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 
 A: because the traders made money and subsequently received a big budget
 
 I am more theoretical and was naturally attracted to this domain but the value-add reality soon prevailed.
