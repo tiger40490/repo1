@@ -1,11 +1,14 @@
 --new blogpost
-MOM roti? low but could be high if I pursue an archtect career
-SQL tuning + complex query -- roti? low but could be higher if I go into big data
-swing roti? could be higher if I purpose a GUI career
-drv pricing roti? could be higher if I stick to quant-dev career
+Analogy -- (Trevor Tang) picking a major in medicine is a wrong bet if you are into technology
+MOM roti? low but could be high if I pursue an architect career in non-eq trading. The underlying tech is very flexible and mature and a winning bet
+SQL tuning + complex query -- roti could be higher if I go into big data. The underlying tech is powerful and mature and not dead
+swing roti? could be higher if I purpose a GUI career. There is a lot of highly inheritable, portable skill even if swing goes out
+drv pricing roti? could be higher if I stick to quant-dev career and move only within similar roles. However, if you move from volatility to yield curve to exotics, the accu became predictably very thin
 
---new blogpost: no need to diversify out@java because..
-So far, we java developers were lucky so we need not diversify.
+--new blogpost: no$roti over last10Y2branch out@java because..
+So far, we java developers were lucky so we see no financial gain in diversification.
+
+I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 
 --new blogpost
 Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill was always questionable. 
