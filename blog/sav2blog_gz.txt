@@ -1,3 +1,6 @@
+--new blogpost: no need to diversify out@java because..
+So far, we java developers were lucky so we need not diversify.
+
 --new blogpost
 Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill was always questionable. 
 A: because the traders made money and subsequently received a big budget
