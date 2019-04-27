@@ -13,7 +13,7 @@ SQL tuning + complex query -- roti could be higher if I go into big data. The un
 swing roti? could be higher if I purpose a GUI career. There is a lot of highly inheritable, portable skill even if swing goes out
 drv pricing roti? could be higher if I stick to quant-dev career and move only within similar roles. However, if you move from volatility to yield curve to exotics, the accu became predictably very thin
 
---new blogpost: no$roti over last10Y2branch out@java because..
+--new blogpost: over last10Y no$roti2branch out@java because..
 So far, we java developers were lucky so we see no financial gain in diversification.
 
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
@@ -172,15 +172,6 @@ my tsn ambition/dream is largely constrained by risks:
 For these specific risks, my current risk tolerance is higher so I ought to be bolder.
 
 Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
-
---new new new blogpost: java perf^simplicity
-Paradoxically
-java's syntax simplicity is on par with python, better than c# and much better than c++.
-java's performance is on par with c# and c++, largely due to JVM and JIT
-
-java has been popular on web servers, and crucially the newer mobile, cloud, big-data platforms, beating c++, c#, python
-
-java's adoption rate as a foundation platform or integration-target... is better than other languages. Many products are built for java, on java or with java in mind. I'm deliberately vague here because I don't want to spend too much time analyzing this vague, general observation.
 
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 

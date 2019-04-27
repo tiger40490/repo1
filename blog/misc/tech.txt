@@ -1,3 +1,13 @@
+--new new new blogpost: java perf^simplicity
+Paradoxically
+java's syntax simplicity is on par with python, better than c# and much better than c++.
+java's performance is on par with c# and c++, largely due to JVM and JIT
+
+java has been popular on web servers, and crucially the newer mobile, cloud, big-data platforms, beating c++, c#, python
+
+java's adoption rate as a foundation platform or integration-target... is better than other languages. Many products are built for java, on java or with java in mind. I'm deliberately vague here because I don't want to spend too much time analyzing this vague, general observation.
+
+
 --new blogpost 1^2-pass algos
 90% of the time 2-pass algo is simpler conceptually.
 

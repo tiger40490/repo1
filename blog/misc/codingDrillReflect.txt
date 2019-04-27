@@ -1,4 +1,6 @@
---no blogpost
+--new blogpost: new problems!=the best drill
+i used to focus on how many new problems solved each week, but that's very challenging and not necessarily most effective.
+
 Reviewing existing code is easier, but can still take hours. 
 Worth the time! 
 Am growing stronger than before and stronger than my peers who don't invest the time. They forget what they learned ! No one can remember so well without refresh
