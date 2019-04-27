@@ -5,15 +5,14 @@ thick->thin? not yet.
 
 ====(cpp) water container
 ====edit distance -- need to internalize 1 or 2 key points
-====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
-
 ====2-pivot partition
-
 ====[Lv] serialize/deserialize binTree
 
-====abbr gen, longest first
+====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
+==abbr gen, longest first
 
-====find all paths in matrix
+==find all paths in matrix
+=========== c++lang features
 
 ====oq in shPtrDowncast
 ====my own vector::insert() at SIG
