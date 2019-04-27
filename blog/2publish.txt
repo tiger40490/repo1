@@ -14,15 +14,6 @@ Lesson: get the edge cases out of the way early on, so as to focus on the core a
 
 Lesson: arr[ri] has no invariant. Invariant is on arr[ri+1]
 
---new blogpost: dev-lead IV is not easy.
-Passing the tech interview to get a dev-lead role isn't easy. It can change your career.
-competition can be tough. 
-
-So I think my ex-colleagues need a lot of effort to pass those interviews. 
-Just look at CSY and Deepak and my own attempt to get into HFT .. how many failures and how much t-investment needed.
-
-It takes more than on-the-job learning. It takes months or years of absorbency, sustained focus... Most of us underestimate that bar until we try and fail repeatedly to clear it.
-
 --update blogpost on sg19 priorities
 salary is really something to play down... as I don't need to compare with the joneses
 Real decision -- if I give in to the temptation and try the banks i will get interviews for sure and likely receive big offers.

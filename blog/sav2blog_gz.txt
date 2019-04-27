@@ -1,3 +1,11 @@
+--new blogpost: dev-lead IV is not easy.
+Passing the tech interview to get a dev-lead role isn't easy. It can change your career.
+competition can be tough. 
+
+So I think my ex-colleagues need a lot of effort to pass those interviews. 
+Just look at CSY and Deepak and my own attempt to get into HFT .. how many failures and how much t-investment needed.
+
+It takes more than on-the-job learning. It takes months or years of absorbency, sustained focus... Most of us underestimate that bar until we try and fail repeatedly to clear it.
 --new blogpost
 Analogy -- (Trevor Tang) picking a major in medicine is a wrong bet if you are into technology
 MOM roti? low but could be high if I pursue an architect career in non-eq trading. The underlying tech is very flexible and mature and a winning bet
