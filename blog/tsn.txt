@@ -1,0 +1,91 @@
+--new blogpost: low roti..cos I didn't stay #Trevor
+[category t_tsn]
+[tags t_critiq]
+Analogy -- (Trevor Tang) picking a major in medicine is a wrong bet if you are into technology, though medicine is a great major.
+
+MOM roti? low but could be high if I pursue an architect career in non-eq trading. The underlying tech is very flexible and mature and a winning bet
+
+SQL tuning + complex query -- roti could be higher (by an unknown amount) if I go into big data. The underlying tech is powerful, mature, adaptable and not dead. I think it will see a renaissance.
+
+swing roti? could be higher if I purpose a GUI career. There is a lot of highly inheritable, portable skill even if swing goes out
+
+drv pricing roti? could be higher if I stick to quant-dev career and move only within similar roles. However, if you move from volatility to yield curve to exotics, the accu became predictably very thin
+
+--new blogpost: over last10Y no$roti2branch out@java because..
+So far, we java developers were lucky so we see no financial gain in diversification.
+
+I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
+
+--new blogpost
+Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 
+A: because the traders made money and subsequently received a big budget
+
+I am more theoretical and was naturally attracted to this domain but the value-add reality soon prevailed.
+
+Tech shops love algo challenges and speed-coding which have dubious value-add similar to the quant skills. However, the hot money in tech sector is much bigger and last longer. 
+
+--new new blogpost: tsn gains: mostly elusive to achievable
+[tags t_othRisk, t_framework]
+when I tsn, i aim at multiple target 'gains' as in a pyramid
+strategic value is the most elusive, comparable to HuKun taking his brother as role model. More strategic is my rental property investment
+salary hike is one of the least likely [CVA]
+i hope to open up new job markets at similar pay. I enjoy wider range of oppo and being in-demand
+but the new market is unsuitable, ..
+i hope to broaden my capability base incl dnlg. 
+I don't want all my eggs in one basket... hedging
+but the broad base may not be so relevant,..
+i hope to build my self-confidence about learning
+but sometimes not much self-confidence boost,.. 
+i hope to keep my mind active and engaged, rather than doing the same boring job over 5Y
+
+(Not really about tsn) i also want to strengthen my position, extend my lead on the body-building race. This effort takes huge amount of energy
+
+if all else fail, i hope to avoid waste my precious spare time - burn/rot
+--new blogpost
+[tags t_othRisk, t_churn]
+My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11...?
+
+Focus today is ROTI, NOT about churn. Socket, SQL, core c++ are actually the best-performing tech bets in terms of robust demand and shelf-life. 
+
+If you stay within core java (like XR and many friends), then you don't need to learn these other skills, but are they better off now? Diminishing return in ROTI?
+
+I think it's impossibly hard to keep keep up ROTI. I can aim for accu, thick->thin, cross-pollination, churn resistance, sustained focus, traction, engaging, ... but ROTI is still underwhelming.
+
+ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I need rational expectations.
+
+Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
+--new or update: long-term orgro=elusive
+long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
+
+swing -- rare engagement + orgro but abandoned !
+
+c# -- i made sacrifices for deep-dive, and in return experienced rare engagement + orgro. I have since given up the direction, as c# is not so relevant to my current direction.
+--no blogpost: delights: engaged,leverage,strategic.. 
+[tags t_othRisk]
+I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
+(engagement ... expectation was moderately too high) 
+Against this backdrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
+
+I chose a python job at Macq .. engaged for a few months, to my delight
+I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
+* Reason: traction in interviews and also in GTD and zbs
+* Reason: interviews
+* Reason: socket QQ was in-demand
+* Reason: QQ discussions with colleagues .. visible progress
+
+Both job decisions produced good/superior leverage over 5Y.
+
+I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
+
+I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
+
+I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
+--no blogpost: c#^java/c++ journeys
+[tags t_below7]
+my c# xx journey was exciting for 6M before OC and in first year in OC. In contrast, my core-java/c++ (less for jxee) journeys have generated superior ROTI (elusive) because 
+* the interview topics are stable 
+* market waves steered me to stick to (not abandon) these career directions
+
+leverage? c# is lower but not bad. See separate blogpost
+
+For all languages, there is no hike, no strategic value so at that level all underwhelming
