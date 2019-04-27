@@ -1,25 +1,23 @@
 --new blogpost: dev-lead IV is not as easy as they think
 re: Ashish's promotion and Kyle discussion
-The financial reward is a big but not the only reinforcement of absorbency, engagement, sustained focus. Those who commit to localSys are rarely promoted, as explained in numerous blogposts. GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
+The financial reward can be big but not the only reinforcement of absorbency, engagement, sustained focus ... There may not be orgro, thick->thin, any portable GTD skills. 
+Those who commit to localSys are rarely promoted, as explained in numerous blogposts. 
+GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
 
-As Kyle pointed out, there must be some intrinsic motivation in the Ashishes and Rahuls. "Traction" and "engaging" are the word. 
+As Kyle pointed out, there must be some intrinsic motivation in the Ashishes and Rahuls. "Traction" and "engaging" are the words I would use, but I doubt there's any thick->thin or orgro. 
 
-I feel Ashish commits more personal energy than his colleagues do on localSys because he derives some joy.
+I feel Ashish commits more personal energy than his colleagues do on localSys because he derives some joy. 
+In contrast, I commit more personal energy than other candidates on QQ (and to a lesser extent coding drill) because I derive some joy.
 
-I commit more personal energy than other candidates on QQ (and to a lesser extent coding drill) because I derive some joy.
+Given a choice between localSys xx vs QQ (or coding drill), I would not choose localSys, because of accu, portable t-investment. This is a key reason for my mediocre experiences .
 
-Given a choice between localSys xx vs QQ (or coding drill), I would not choose localSys, because of accu. 
-
-
-Passing the tech interview to get a dev-lead role isn't easy. It can change your career.
-competition can be tough. 
-
+Passing the tech interview to get a dev-lead role isn't easy. It can upgrade your career, but candidate competition can be tough. 
 So I think my ex-colleagues need a lot of effort to pass those interviews. 
-Just look at CSY and Deepak and my own attempt to get into HFT .. how many failures and how much t-investment needed.
+Just look at CSY, Deepak and my own attempt to get into HFT .. how many failures and how much t-investment needed.
 
-It takes more than on-the-job learning. It takes months or years of absorbency, sustained focus... Most of us underestimate that bar until we try and fail repeatedly to clear it.
+It takes more than on-the-job learning. It takes months or years of absorbency, sustained focus... Most of us underestimate that "bar" until we try and fail repeatedly to clear it.
 
---updte blogpost on greenfield^brownfield:
+--update blogpost on greenfield^brownfield:
 it's actually not hard to build some new "mkt data engine" as Quoine's Richard did over a few months, since greenfield is much simpler than brownfield. 
 
 Sundip wrote an prototype of StirtRisk over a week, but the really big effort is the build-out from prototype to finished product.
