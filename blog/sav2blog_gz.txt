@@ -1,3 +1,10 @@
+--new blogpost
+Suppose i invest heavily and become very productive on a local c++system. 
+Or a java, or SQL, or socket, pyhton, tibrv system. 
+Now, any local system uses only a small portion of the language features at most 2% of the advanced interview topics on that language. 
+Therefore the experience won't give me confidence to be an expert on the language... but acing multiple QQ interviews does as these interveiws compare dozens of candidates across the field. 
+
+I grew very confident of java through this type of external benchmarking, in contrast to internal benchmarking within the local team.
 
 --update blogpost on sg workload 
 Lower workload Can mean more time for kids + workout but can also mean more time wasted (burn/rot)

@@ -1,3 +1,12 @@
+--new blogpost: RDBMS .
+stored proc can greatly simplify business logic...
+Even without stored proc, a big join can replace hundreds of lines of code with non-trivial business logic
+hashtable lookup can be implemented in SQL (join or sub-query) with better clarity
+
+Modularity is another advantage. The query logic can be complex and maintained as an independent module (On the presentation layer, javascript offers  modularity too). Whatever module dependant on the query logic has an dependency interface that's well-defined and easy to test, easy to investigate.
+
+I think one inflexibility is adding new column. There are probably some work-arounds but noSQL is more flexible.
+
 --new new new blogpost: java perf^simplicity
 Paradoxically
 java's syntax simplicity is on par with python, better than c# and much better than c++.
