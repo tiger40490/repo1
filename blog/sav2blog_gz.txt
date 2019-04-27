@@ -72,36 +72,7 @@ i hope to keep my mind active and engaged, rather than doing the same boring job
 
 if all else fail, i hope to avoid waste my precious spare time - burn/rot
 
---new blogpost: c#^java/c++ journeys
-[tags t_below7]
-my c# xx journey was exciting for 6M before OC and in first year in OC. In contrast, my core-java/c++ (less for jxee) journeys have generated superior ROTI (elusive) because 
-* the interview topics are stable 
-* market waves steered me to stick to (not abandon) these career directions
 
-leverage? c# is lower but not bad. See separate blogpost
-
-For all languages, there is no hike, no strategic value so at that level all underwhelming
-
---new blogpost: delights: engaged,leverage,strategic.. 
-[tags t_othRisk]
-I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
-(engagement ... expectation was moderately too high) 
-Against this backdrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
-
-I chose a python job at Macq .. engaged for a few months, to my delight
-I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
-* Reason: traction in interviews and also in GTD and zbs
-* Reason: interviews
-* Reason: socket QQ was in-demand
-* Reason: QQ discussions with colleagues .. visible progress
-
-Both job decisions produced good/superior leverage over 5Y.
-
-I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
-
-I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
-
-I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
 --new blogpost
 [tags t_othRisk, t_churn]
 My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11...?
@@ -136,6 +107,7 @@ We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too el
 
 I have blogposts on spare time usage, and tech learning (even the non-strategic topics) are among the most productive!
 There's really nothing more worth learning. Every learning direction has naysayers, and virtually all learning effort has ROTI except defensively.
+
 --update blogpost on meaningful endeavors for family well being
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are definitely more valued 
 competitive strength in dStruct/algo beyond the classics
@@ -164,7 +136,6 @@ low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
-
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
 * GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more important.
@@ -174,6 +145,36 @@ I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after
 * zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
 
 This is one reason why my reinforcement loop completely broke in Singapore. My NY years were filled with self improvement driven by interviews.
+--no blogpost: delights: engaged,leverage,strategic.. 
+[tags t_othRisk]
+I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
+(engagement ... expectation was moderately too high) 
+Against this backdrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
+
+I chose a python job at Macq .. engaged for a few months, to my delight
+I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
+* Reason: traction in interviews and also in GTD and zbs
+* Reason: interviews
+* Reason: socket QQ was in-demand
+* Reason: QQ discussions with colleagues .. visible progress
+
+Both job decisions produced good/superior leverage over 5Y.
+
+I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
+
+I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
+
+I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
+--no blogpost: c#^java/c++ journeys
+[tags t_below7]
+my c# xx journey was exciting for 6M before OC and in first year in OC. In contrast, my core-java/c++ (less for jxee) journeys have generated superior ROTI (elusive) because 
+* the interview topics are stable 
+* market waves steered me to stick to (not abandon) these career directions
+
+leverage? c# is lower but not bad. See separate blogpost
+
+For all languages, there is no hike, no strategic value so at that level all underwhelming
+
 --no blogpost
 i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
 rebuild confidence about career/financial foundation for next 25Y, since my passive-income/asset/burn-rate profile is far from comfortable
