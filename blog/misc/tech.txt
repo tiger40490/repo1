@@ -1,0 +1,4 @@
+--new blogpost 1^2-pass algos
+90% of the time 2-pass algo is simpler conceptually.
+
+However, in my 2-pivot partition algo, a single-pass algo is simpler.
