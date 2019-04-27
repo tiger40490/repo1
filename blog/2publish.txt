@@ -1,19 +1,4 @@
 
----priority this weekend
-#1 any form of coding drill, perhaps reviews or pure algos
-#2 diet
-#3 tech xx
-#4 try more sg jobs
-reflective blogging
-
-movie as a Sunday afternoon reward
-
---new blogpost ##lessons from the 2-pivot partition algo
-
-Lesson: get the edge cases out of the way early on, so as to focus on the core algo
-
-Lesson: arr[ri] has no invariant. Invariant is on arr[ri+1]
-
 --update blogpost on sg19 priorities
 salary is really something to play down... as I don't need to compare with the joneses
 Real decision -- if I give in to the temptation and try the banks i will get interviews for sure and likely receive big offers.
