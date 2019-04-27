@@ -31,8 +31,6 @@ So far, we java developers were lucky so we see no financial gain in diversifica
 
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 
---new blogpost:
-if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and job pool
 
 --updte blogpost on greenfield^brownfield:
 it's actually not hard to build some new "mkt data engine" as Quoine's Richard did over a few months, since greenfield is much simpler than brownfield. 
@@ -167,15 +165,6 @@ picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
 
---new?
-my tsn ambition/dream is largely constrained by risks:
-* stigma/respect
-* figure things out faster than colleagues
-
-For these specific risks, my current risk tolerance is higher so I ought to be bolder.
-
-Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
-
 --new blogpost:
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
 * GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more important.
@@ -198,6 +187,8 @@ I got to this position by building local relationships, learning the localSys an
 .. so it's hard to be confident about repeating the same at another firm
 
 competitive pressure from younger managers
+--new blogpost:
+if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and job pool
 
 --no blogpost: I actually felt good receiving low salary offers like Baml-repo, Nasdaq and NCS
 Somehow it confirms my value-add to the economy, my "health condition" 
