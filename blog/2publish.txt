@@ -15,3 +15,8 @@ need to avoid them (even the non-US) as they don't serve to open up new markets 
 11. respect, benchmark, stigma, damaged good
 33. c++ rather than java
 44. commute + salary
+
+--update blog on worst yoga poses:
+gravity makes a huge diff
+* split-plow is good for lower-back/adductor; holding toes in open-leg stand is better for adductor/lower-back... much better than 'open-leg sitting and reach fwd'
+* warrior is much better than 3-leg dog, lie-down split or standing split
