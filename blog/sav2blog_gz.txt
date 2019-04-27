@@ -1,4 +1,16 @@
 --new blogpost: dev-lead IV is not as easy as they think
+re: Ashish's promotion and Kyle discussion
+The financial reward is a big but not the only reinforcement of absorbency, engagement, sustained focus. Those who commit to localSys are rarely promoted, as explained in numerous blogposts. GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
+
+As Kyle pointed out, there must be some intrinsic motivation in the Ashishes and Rahuls. "Traction" and "engaging" are the word. 
+
+I feel Ashish commits more personal energy than his colleagues do on localSys because he derives some joy.
+
+I commit more personal energy than other candidates on QQ (and to a lesser extent coding drill) because I derive some joy.
+
+Given a choice between localSys xx vs QQ (or coding drill), I would not choose localSys, because of accu. 
+
+
 Passing the tech interview to get a dev-lead role isn't easy. It can change your career.
 competition can be tough. 
 
@@ -6,6 +18,7 @@ So I think my ex-colleagues need a lot of effort to pass those interviews.
 Just look at CSY and Deepak and my own attempt to get into HFT .. how many failures and how much t-investment needed.
 
 It takes more than on-the-job learning. It takes months or years of absorbency, sustained focus... Most of us underestimate that bar until we try and fail repeatedly to clear it.
+
 --new blogpost
 Analogy -- (Trevor Tang) picking a major in medicine is a wrong bet if you are into technology
 MOM roti? low but could be high if I pursue an architect career in non-eq trading. The underlying tech is very flexible and mature and a winning bet
@@ -153,16 +166,6 @@ low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
---new blogpost: Ashish's promotion: Kyle discussion
-The financial reward is a big but not the only reinforcement of absorbency, engagement, sustained focus. Those who commit to localSys are rarely promoted, as explained in numerous blogposts. GS was a watershed defining experience in my career. #2 experience is probably Stirt. Since big bonuses are utterly unreliable, FTE career is comparable to a contract career financially, but inferior in terms of stress, self-esteem etc.
-
-As Kyle pointed out, there must be some intrinsic motivation in the Ashishes and Rahuls. "Traction" and "engaging" are the word. 
-
-I feel Ashish commits more personal energy than his colleagues do on localSys because he derives some joy.
-
-I commit more personal energy than other candidates on QQ (and to a lesser extent coding drill) because I derive some joy.
-
-Given a choice between localSys xx vs QQ (or coding drill), I would not choose localSys, because of accu. 
 
 --new?
 my tsn ambition/dream is largely constrained by risks:
