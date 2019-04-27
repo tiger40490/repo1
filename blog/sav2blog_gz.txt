@@ -32,17 +32,6 @@ So far, we java developers were lucky so we see no financial gain in diversifica
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 
 
---updte blogpost on greenfield^brownfield:
-it's actually not hard to build some new "mkt data engine" as Quoine's Richard did over a few months, since greenfield is much simpler than brownfield. 
-
-Sundip wrote an prototype of StirtRisk over a week, but the really big effort is the build-out from prototype to finished product.
-
-Kenny of Trecquant designed something really simple that supposedly does the same job as a 100-man-year system, 
-
-I created a FIX engine over a few hours.
-
-I implemented a basic order book over a few hours even when I was new to c++
-
 --no blogpost
 when I get obsessed with brank peer comparison (against "peers" in china), i miss out on all sorts of more important things like kids, ffree, body shape, diet control, wellness, 
 
@@ -71,7 +60,6 @@ i hope to keep my mind active and engaged, rather than doing the same boring job
 (Not really about tsn) i also want to strengthen my position, extend my lead on the body-building race. This effort takes huge amount of energy
 
 if all else fail, i hope to avoid waste my precious spare time - burn/rot
-
 
 --new blogpost
 [tags t_othRisk, t_churn]
