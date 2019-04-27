@@ -24,6 +24,9 @@ I created a FIX engine over a few hours.
 
 I implemented a basic order book over a few hours even when I was new to c++
 
+--no blogpost
+when I get obsessed with brank peer comparison (against "peers" in china), i miss out on all sorts of more important things like kids, ffree, body shape, diet control, wellness, 
+
 --new blogpost
 Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 
 A: because the traders made money and subsequently received a big budget
