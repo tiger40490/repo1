@@ -1,4 +1,4 @@
---new blogpost: low roti..cos I didn't stay #Trevor
+--new new blogpost: low roti..cos I didn't stay #Trevor
 [category t_tsn]
 [tags t_critiq]
 Analogy -- (Trevor Tang) picking a major in medicine is a wrong bet if you are into technology, though medicine is a great major.
@@ -11,12 +11,12 @@ swing roti? could be higher if I purpose a GUI career. There is a lot of highly 
 
 drv pricing roti? could be higher if I stick to quant-dev career and move only within similar roles. However, if you move from volatility to yield curve to exotics, the accu became predictably very thin
 
---new blogpost: over last10Y no$roti2branch out@java because..
+--new new blogpost: over last10Y no$roti2branch out@java because..
 So far, we java developers were lucky so we see no financial gain in diversification.
 
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 
---new blogpost
+--new blogpost: decline of quant-dev: low value-add
 Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 
 A: because the traders made money and subsequently received a big budget
 
@@ -24,7 +24,7 @@ I am more theoretical and was naturally attracted to this domain but the value-a
 
 Tech shops love algo challenges and speed-coding which have dubious value-add similar to the quant skills. However, the hot money in tech sector is much bigger and last longer. 
 
---new new blogpost: tsn gains: mostly elusive to achievable
+--new new blogpost: tsn: elusive gains^achievable gains
 [tags t_othRisk, t_framework]
 when I tsn, i aim at multiple target 'gains' as in a pyramid
 strategic value is the most elusive, comparable to HuKun taking his brother as role model. More strategic is my rental property investment
@@ -41,7 +41,7 @@ i hope to keep my mind active and engaged, rather than doing the same boring job
 (Not really about tsn) i also want to strengthen my position, extend my lead on the body-building race. This effort takes huge amount of energy
 
 if all else fail, i hope to avoid waste my precious spare time - burn/rot
---new blogpost
+--new or no blogpost?
 [tags t_othRisk, t_churn]
 My thick->thin insight into c#, SQL, swing, quant ... are not needed at present. Future? How about my current heavy t-investment in socket, TMP, c++11...?
 
@@ -54,12 +54,14 @@ I think it's impossibly hard to keep keep up ROTI. I can aim for accu, thick->th
 ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I need rational expectations.
 
 Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
---new or update: long-term orgro=elusive
+
+--no blogpost: long-term orgro=elusive
 long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
 
-swing -- rare engagement + orgro but abandoned !
+swing -- rare engagement + orgro, thick->thin but abandoned !
 
-c# -- i made sacrifices for deep-dive, and in return experienced rare engagement + orgro. I have since given up the direction, as c# is not so relevant to my current direction.
+c# -- i made sacrifices for deep-dive, and in return experienced rare engagement + orgro + thick->thin. I have since given up the direction, as c# is not so relevant to my current direction.
+
 --no blogpost: delights: engaged,leverage,strategic.. 
 [tags t_othRisk]
 I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
@@ -80,6 +82,7 @@ I chose a c# job ... engaged for a year and then disengaged, shorter than expect
 I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
 
 I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
+
 --no blogpost: c#^java/c++ journeys
 [tags t_below7]
 my c# xx journey was exciting for 6M before OC and in first year in OC. In contrast, my core-java/c++ (less for jxee) journeys have generated superior ROTI (elusive) because 
