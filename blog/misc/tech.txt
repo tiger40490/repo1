@@ -1,7 +1,8 @@
 --new blogpost: RDBMS .
 stored proc can greatly simplify business logic...
-Even without stored proc, a big join can replace hundreds of lines of code with non-trivial business logic
-hashtable lookup can be implemented in SQL (join or sub-query) with better clarity
+Even without stored proc, a big join can replace tons of application code implementing non-trivial business logic
+hashtable lookup can be implemented in SQL (join or sub-query) with better clarity and instrumentation
+No implicit complexities in initialization, concurrency, input validation, null ptr handling, state validity, invariants, immutabilities, ... Design patterns are often employed to deal with many of these complexities, but SQL can sidestep these complexities.
 
 Modularity is another advantage. The query logic can be complex and maintained as an independent module (On the presentation layer, javascript offers  modularity too). Whatever module dependant on the query logic has an dependency interface that's well-defined and easy to test, easy to investigate.
 
