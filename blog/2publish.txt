@@ -1,14 +1,3 @@
---new blogpost: trespass offense
-I didn't know it was an offense. I thought policemen was warning me about my own safety. 
-
-When I heard policeman shouting at me to come back to platform, I was half way between the two ends of the platform fence. I compared my options. It was faster to exit from south end than turning back north and climbing up the platform without stairs (no way to jump up). 
-
-It was dangerous to be on the track, so I needed to quickly get out. I didn't have time to explain to him my decision. I gestured and told him "OK OK i will go out over there". 
-
-I quickly walked to the south end and waited for the policeman. 
-
-Policeman said I ignored him but I actually took the quickest way out of the rail tracks.
-
 --new blogpost: dev-lead IV is not as easy as they think
 re: Ashish's promotion and Kyle discussion
 Q: intrinsic or extrinsic motivation?
@@ -39,14 +28,3 @@ So I think my ex-colleagues need a lot of effort to pass those interviews.
 Just look at CSY, Deepak and my own attempt to get into HFT .. how many failures and how much t-investment needed.
 It takes more than on-the-job learning. It takes months or years of absorbency, sustained focus... 
 Most of us underestimate that "bar" until we try and fail repeatedly to clear it.
-
---update blogpost on greenfield^brownfield:
-it's actually not hard to build some new "mkt data engine" as Quoine's Richard did over a few months, since greenfield is much simpler than brownfield. 
-
-Sundip wrote an prototype of StirtRisk over a week, but the really big effort is the build-out from prototype to finished product.
-
-Kenny of Trecquant designed something really simple that supposedly does the same job as a 100-man-year system, 
-
-I created a FIX engine over a few hours.
-
-I implemented a basic order book over a few hours even when I was new to c++
