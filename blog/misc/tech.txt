@@ -1,4 +1,4 @@
---new blogpost: RDBMS .
+--new blogpost: RDBMS ...
 stored proc can greatly simplify business logic...
 Even without stored proc, a big join can replace tons of application code implementing non-trivial business logic
 hashtable lookup can be implemented in SQL (join or sub-query) with better clarity and instrumentation
@@ -16,7 +16,6 @@ java's performance is on par with c# and c++, largely due to JVM and JIT
 java has been popular on web servers, and crucially the newer mobile, cloud, big-data platforms, beating c++, c#, python
 
 java's adoption rate as a foundation platform or integration-target... is better than other languages. Many products are built for java, on java or with java in mind. I'm deliberately vague here because I don't want to spend too much time analyzing this vague, general observation.
-
 
 --new blogpost 1^2-pass algos
 90% of the time 2-pass algo is simpler conceptually.
