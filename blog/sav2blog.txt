@@ -9,7 +9,7 @@ again, i feel overwhelmed by
 * no health condition like in Jan 2018
 * no horrible boss like in Jan 2018
 
---new blogpost: commute becomes a real pain when stressors add up
+--new blogpost: commute becomes a real pain when stressors stack up
 Case: in Apr 2019 the trespass case triggered the reaction and I just wanted to stay home.
 
 Other stressors likely to trigger the same overwhelmed reaction
@@ -17,16 +17,16 @@ Other stressors likely to trigger the same overwhelmed reaction
 * health issues within family
 * work projects
 * car problems
+* investment failures
+* immigration issues
 
---legal risks that can tarnish a career reputation
+--legal risks that can tarnish a career/reputation
 legal risks to accountants -- sis
 legal risks to doctors
 legal risks to drivers
 reputation risks to renters
 legal risks to financial traders
 
---no blogpost
-insufficient reward, celebration of the huge effort in coding drill, yoga, diet...
 --no blogpost
 When I get the mtv for coding drill, i can sacrifice diet, sleep or yoga, but not a billable day.
 when I get the mtv for QQ including algoQQ and coding experiments, I can sacrifice sleep but not yoga
@@ -42,6 +42,8 @@ I conceived many worthwhile thoughts about career, parenting, .. High Fertility 
 I relied heavily on laptop but perhaps phone+fake finger might be more convenient -- easier to charge, less bulky. 
 However for lengthy writing, laptop wins
 
+--no blogpost
+insufficient reward, celebration of the huge effort in coding drill, yoga, diet...
 --no blogpost d-resort review (low value ... avoid Oth)
 :) as planned, did some stretching and coding drill, but I basically forgot it !
 :) as planned, boy did lots of math 
