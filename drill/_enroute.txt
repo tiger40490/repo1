@@ -4,22 +4,23 @@
 [v=easy to verify]
 
 ====Q [c] LCS: longest common subsequence (not sub-string) between two strings X and Y
-
 classic DP problem.
 
 Let's suppose there are 10 chars in X, 10 in Y
 abcbcfgbac = Y
 acebgfacbc = X
 
-lcs(X[9:], Y) right-most match can be easily completed
-lcs(Y[9:], X) can be easily completed
-lcs(X[8:], Y)
-
+lcs(X[0:1], Y) left-most match in Y .. returns the lowest index in Y to accommodate the shorter string, or -1 for failure
+.. can be easily completed
+lcs(Y[0:1], X) can be easily completed
+lcs(X[0:2], Y): given the lcs(X[0:1], Y) answer, we scan (Y) forward from there 
 
 ====Q [c] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at
 most S (they all fit into the knapsack)
 
 classic DP problem.
+
+f(remainingItems, remainingCapacity) is the basic function to write
 
 ====Q [c str] longest palindrome subsequence (not subarray)
 If there's an elegant idea then I should try then read it. Syntax should be light.
