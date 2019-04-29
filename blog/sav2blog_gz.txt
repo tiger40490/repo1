@@ -1,17 +1,3 @@
---new blogpost: Best use@spare time=still tech learning 
-my trec is mixed. 
-Mirage -- strategic orgro, $roti
-
-My experiments with quant, swing, c#.. were overspent leading to poor ROTI, but no regrets
-
-Luckily socket, python, coding drill, c++ experiments produced better ROTI in terms of self-confidence, thick=>thin/zbs, mobility, broad-base
-
-We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too elusive. As Mithun put it, java multithreading alone can fetch you highest salary.
-
-I have blogposts on spare time usage. 
-Tech learning (even the non-strategic topics) are among the most productive!
-There's really nothing more worth learning. 
-Every learning direction has naysayers, and virtually all learning efforts have low ROTI besides a defensive reinforcement.
 
 --new blogpost: self-esteem: stigma^salary gap
 In terms of my past experiences of self-esteem under attack, which attacks were more serious and higher priority for future planning?
@@ -49,5 +35,19 @@ competitive pressure from younger managers
 --new blogpost:
 if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and job pool
 
+--new blogpost: Best use@spare time=still tech learning 
+my trec is mixed. 
+Mirage -- strategic orgro, $roti
+
+My experiments with quant, swing, c#.. were overspent leading to poor ROTI, but no regrets
+
+Luckily socket, python, coding drill, c++ experiments produced better ROTI in terms of self-confidence, thick=>thin/zbs, mobility, broad-base
+
+We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too elusive. As Mithun put it, java multithreading alone can fetch you highest salary.
+
+I have blogposts on spare time usage. 
+Tech learning (even the non-strategic topics) are among the most productive!
+There's really nothing more worth learning. 
+Every learning direction has naysayers, and virtually all learning efforts have low ROTI besides a defensive reinforcement.
 --no blogpost: I actually felt good receiving low salary offers like Baml-repo, Nasdaq and NCS
 Somehow it confirms my value-add to the economy, my "health condition" 
