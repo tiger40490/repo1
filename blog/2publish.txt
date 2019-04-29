@@ -26,20 +26,10 @@ low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
---new blogpost: sg workload 
-Lower workload Can mean more time for kids + workout but can also mean more time wasted (burn/rot)
+--new blogpost: sg workload: with-family
+Lower workload Can mean more time for kids + workout, but can also mean more time wasted .. burn/rot
 
 The free time saved from lower workload is often spent on reflective blogging.
-"Best" usage is tech learning, but my trec is mixed. Mirage -- strategic orgro, $roti
-
-My experiments with quant, swing, c#.. were overspent leading to poor ROTI, but no regrets
-
-Luckily socket, python, coding drill, c++ experiments produced better ROTI in terms of self-confidence, thick=>thin/zbs, mobility, broad-base
-
-We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too elusive. As Mithun put it, java multithreading alone can fetch you highest salary.
-
-I have blogposts on spare time usage, and tech learning (even the non-strategic topics) are among the most productive!
-There's really nothing more worth learning. Every learning direction has naysayers, and virtually all learning effort has ROTI except defensively.
 
 --new blogpost: plowback
 I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 

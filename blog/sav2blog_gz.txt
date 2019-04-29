@@ -1,3 +1,18 @@
+--new blogpost: Best use@spare time=still tech learning 
+my trec is mixed. 
+Mirage -- strategic orgro, $roti
+
+My experiments with quant, swing, c#.. were overspent leading to poor ROTI, but no regrets
+
+Luckily socket, python, coding drill, c++ experiments produced better ROTI in terms of self-confidence, thick=>thin/zbs, mobility, broad-base
+
+We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too elusive. As Mithun put it, java multithreading alone can fetch you highest salary.
+
+I have blogposts on spare time usage. 
+Tech learning (even the non-strategic topics) are among the most productive!
+There's really nothing more worth learning. 
+Every learning direction has naysayers, and virtually all learning efforts have low ROTI besides a defensive reinforcement.
+
 --new blogpost: self-esteem: stigma^salary gap
 In terms of my past experiences of self-esteem under attack, which attacks were more serious and high  priority for future planning?
 ? stigma/appraisal/coworkerBenchmark
@@ -15,7 +30,6 @@ Now, any local system uses only a small portion of the language features.. at mo
 Therefore the experience won't give me confidence to be an expert on the language... but acing multiple QQ interviews does as these interviews compare dozens of candidates across the field. 
 
 I grew very confident of java through this type of external benchmarking, in contrast to internal benchmarking within the local team.
-
 
 --no blogpost
 i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
