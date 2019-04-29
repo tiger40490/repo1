@@ -3,6 +3,15 @@
 [L=leetcode]
 [v=easy to verify]
 
+====Q [c] LCS: longest common subsequence (not sub-string)
+
+classic DP problem.
+
+====Q [c] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at
+most S (they all fit into the knapsack)
+
+classic DP problem.
+
 ====Q [c str] longest palindrome subsequence (not subarray)
 If there's an elegant idea then I should try then read it. Syntax should be light.
 I think some non-optimal solution is feasible. start with some good (extreme) examples
