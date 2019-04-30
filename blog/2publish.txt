@@ -1,15 +1,15 @@
 --update blogpost on meaningful endeavors for family well being
-competitive strength in speed coding contest -- such contest are now more prevalent and the skills are definitely more valued 
+competitive strength in speed coding contest -- such contest are now more prevalent and the skills are more valued 
 competitive strength in dStruct/algo beyond the classics
 competitive strength in core cpp QQ
 competitive strength in core java QQ -- bigger job market
 competitive strength in socket QQ
-competitive strength in SQL QQ and perl GTD -- better than swing 
+competitive strength in SQL QQ (and perl GTD) -- better than swing 
 competitive strength in math in school -- huge and long-term impact
 competence in localSys -- no long-term impacts, so Ashish's t-investment is unwise
 improvement in yoga and fitness
 
-In each case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
+In each "competitive" case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
 
 Valuable resources are scarce and is a competition. Therefore this competitive profile has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
 
