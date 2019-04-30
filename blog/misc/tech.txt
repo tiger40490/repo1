@@ -1,12 +1,18 @@
---new blogpost: RDBMS ...
-stored proc can greatly simplify business logic...
+--new blogpost: ##RDBMS=architect's toolkit
+stored proc can _greatly_ simplify business logic as the business logic lives with the data ...
+
 Even without stored proc, a big join can replace tons of application code implementing non-trivial business logic
-hashtable lookup can be implemented in SQL (join or sub-query) with better clarity and instrumentation
-No implicit complexities in initialization, concurrency, input validation, null ptr handling, state validity, invariants, immutabilities, ... Design patterns are often employed to deal with many of these complexities, but SQL can sidestep these complexities.
+hashtable lookup can be implemented in SQL (join or sub-query) with better clarity and instrumentation.
+Much fewer implicit complexities in initialization, concurrency, input validation, null pointers, state validity, invariants, immutabilities, ... 
+OO and concurrency design patterns are often employed to manage these complexities, but SQL can sidestep these complexities.
 
-Modularity is another advantage. The query logic can be complex and maintained as an independent module (On the presentation layer, javascript offers  modularity too). Whatever module dependant on the query logic has an dependency interface that's well-defined and easy to test, easy to investigate.
+Modularity is another advantage. The query logic can be complex and maintained as an independent module (Note on the presentation layer, javascript offers  modularity too). Whatever module dependent on the query logic has an dependency interface that's well-defined and easy to test, easy to investigate.
 
-I think one inflexibility is adding new column. There are probably some work-arounds but noSQL is more flexible.
+In fact testability might be the most high-profile feature.
+
+I think one inflexibility is adding new column. There are probably some workarounds but noSQL is still more flexible.
+
+Another drawback is concurrency though there are various solutions.
 
 --new new new blogpost: java perf^simplicity
 Paradoxically
