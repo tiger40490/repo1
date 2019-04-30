@@ -1,13 +1,3 @@
---update blogpost: max-salary plan
-we can't ignore : 
-
-the stigma, damagedGoods and high expectation as in Stirt and Macq
-
-commute
-
-reputation risk at the major banks.
---update blogpost on quant career:
-if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and job pool
 --update blogpost on meaningful endeavors for family well being
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are definitely more valued 
 competitive strength in dStruct/algo beyond the classics
@@ -35,18 +25,3 @@ low level QQ -- my strength
 low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
-
---new blogpost: sg workload: with-family
-Lower workload Can mean more time for kids + workout, but can also mean more time wasted .. burn/rot
-
-The free time saved from lower workload is often spent on reflective blogging.
-
---new blogpost: plowback
-I used to feel I ought to "plowback" for zbs and GTD, not only for IV. Now after working for 20 years, I now believe ANY tech knowledge, accu, deepening/stack-up ... has no leverage and basically worthless if not relevant to IV. 
-* GTD skills? dominated by localSys. Tool knowledge can help but localSys is 10x more important.
-** localSys xx is almost always cursory and not in-depth since unnecessary digging (pwm-comm bottom-up xx plan) is invariably unsustainable -- patchwork systems, destined for rewrite, illustrating few best practices
-* BestPractice design? Almost never mattered in my career. After EMPWorld, I have never risen to decision-maker level.
-* BestPractice implementation? mostly a matter of personal preference by the manager
-* zbs? Consider the classic books like [[Pearls]]. If not relevant to IV then this zbs is only for self-satisfaction
-
-This is one reason why my reinforcement loop completely broke in Singapore. My NY years were filled with self improvement driven by interviews.
