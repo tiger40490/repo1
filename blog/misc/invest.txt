@@ -6,11 +6,6 @@ basketball? no fun
 
 Many of these usages require expensive set-up, not worth it if used lightly
 
---new blogpost: top locations: often rental only
-My favorite locations are often rental apartments -- best connectivity, car-freedom. 
-
-In Chinese-centric cities, those locations would become condo towers for sale. In U.S. renters are willing to pay very high rentals.
-
 --new blogpost: %%peers' burn rate: y higher
 I discussed with grandpa about a huge difference between me and my colleagues' burn rates. 
 This difference is rooted in their long-term optimism about their earning growth and stock market returns. 
@@ -18,31 +13,21 @@ This difference is rooted in their long-term optimism about their earning growth
 (In contrast, my self-confidence about my salary sustainability is based on IV.)
 
 One thing easy and really useful to do with money matters is break-down analysis. 
-I can see my younger (and some 40's) colleagues spending more on food, rent, mortgage, car, vacations, entertainment, gadgets, kids' enrichment .. 
-These are big-ticket items or creature-comfort spending and clearly luxury IMO
+I can see my younger (and some in 40's) colleagues spending more on food, rent, mortgage, car, vacations, entertainment, gadgets, kids' enrichment .. 
+These are often big-ticket items or creature-comfort spending and clearly luxury IMO
+
+Many believe food is never a big ticket item, but I think they spend $40/D i.e. $15k/Y vs my 4k/Y.
 
 Note I can't (allow myself to) cut further down below my peers because my family would then feel the deprivation.
 
 Will reconsider maid. Luxury but might free up lots of precious time.
-
---new blogpost: highRiskHighReturn #Jill
-AsiaPropertyDev has  current campaign to pay 20% in Y1, 21% in Y2 ... 24% in Y5 if client commits 50k. Last payment is 50k * 1.24.
-
-I told Jill this contractual return is too high and a sign of desperation but Jill said CEO adjusts campaign features constantly.
-
-I shared with Jill my observation -- once a while a reputble company disrupts a mature market with drastically reduced cost to customers and captures huge market share
-* fsm
-* vanguard
-* robinhood
-* quality free software with source code
-* yoga classes offered free or at 9 classes/$32
 
 --review (not constantly distracted by) the stocks I bought?
 * look for declines and buy more. perhaps focus on up to 10 known brands.
 * evaluate dividend received vs price adjustment? tbudget = 0
 xp: FSM funds are a distraction
 
---fuxi: sheild prem increase
+--fuxi: shield prem increase
 Colin Tan said my low-end plan premium went up by a few percent (vs 50% hike for the private-hospital plans)
 
 If you don't want the hike, then go for the 95% coverage

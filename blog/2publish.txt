@@ -65,7 +65,7 @@ improvement in yoga and fitness
 
 In each "competitive" case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
 
-Valuable resources are scarce and is a competition. Therefore this competitive profile has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
+Any Valuable resources (including lucrative jobs) are scarce and invites a competition. Therefore this competitive profile has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
 
 Any higher ROTI?
 
@@ -79,3 +79,19 @@ low level QQ -- my strength
 low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
+--new blogpost: top locations: often rental-only
+My favorite locations are often rental apartments -- best connectivity, car-freedom, clean streets. 
+
+In Chinese-centric cities, those locations would become condo towers for sale. In U.S. renters are willing to pay very high rentals.
+
+--new blogpost: highRiskHighReturn #Jill
+AsiaPropertyDev has  current campaign to pay 20% in Y1, 21% in Y2 ... 24% in Y5 if client commits 50k. Last payment is 50k * 124%.
+
+I told Jill this contractual return is too high and a sign of desperation but Jill said CEO adjusts campaign features constantly.
+
+I shared with Jill my observation -- once a while a reputable company disrupts a mature market with drastically reduced cost to customers, aiming to capture huge market share
+* fsm
+* vanguard
+* robinhood
+* quality free software with source code
+* yoga classes offered free or at 9 classes/$32
