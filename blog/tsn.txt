@@ -1,7 +1,3 @@
---new new blogpost: over last10Y no$roti2branch out@java because..
-So far, we java developers were lucky so we see no financial gain in diversification.
-
-I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 
 --new blogpost: decline of quant-dev: low value-add
 Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 

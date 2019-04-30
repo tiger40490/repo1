@@ -1,3 +1,7 @@
+--new new blogpost: over last10Y no$roti2branch out@java because..
+So far, we java developers were lucky so we see no financial gain in diversification.
+
+I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
 --update blogpost on take-home coding iv:
 ensure file timestamps are all within a short window. Prefer to use fewer files
 
