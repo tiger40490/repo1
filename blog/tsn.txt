@@ -1,16 +1,3 @@
---new new blogpost: low roti..cos I didn't stay #Trevor
-[category t_tsn]
-[tags t_critiq]
-Analogy -- (Trevor Tang) picking a major in medicine is a wrong bet if you are into technology, though medicine is a great major.
-
-MOM roti? low but could be high if I pursue an architect career in non-eq trading. The underlying tech is very flexible and mature and a winning bet
-
-SQL tuning + complex query -- roti could be higher (by an unknown amount) if I go into big data. The underlying tech is powerful, mature, adaptable and not dead. I think it will see a renaissance.
-
-swing roti? could be higher if I purpose a GUI career. There is a lot of highly inheritable, portable skill even if swing goes out
-
-drv pricing roti? could be higher if I stick to quant-dev career and move only within similar roles. However, if you move from volatility to yield curve to exotics, the accu became predictably very thin
-
 --new new blogpost: over last10Y no$roti2branch out@java because..
 So far, we java developers were lucky so we see no financial gain in diversification.
 
