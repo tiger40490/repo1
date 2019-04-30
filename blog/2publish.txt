@@ -2,6 +2,18 @@
 So far, we java developers were lucky so we see no financial gain in diversification.
 
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
+--new blogpost: decline of quant-dev: low value-add
+Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 
+A: because the traders made money and subsequently received a big budget. Now budget is lower.
+
+Same can happen to quant traders.
+
+Some UChicago lecturer once commented that everyone should get some quant training as every high school student does math. I think it is not necessary.
+
+I am more theoretical and was naturally attracted to this domain but the value-add reality soon prevailed.
+
+Tech shops love algo challenges and speed-coding which have dubious value-add similar to the quant skills. However, the hot money in tech sector is bigger and last longer. 
+
 --update blogpost on take-home coding iv:
 ensure file timestamps are all within a short window. Prefer to use fewer files
 
