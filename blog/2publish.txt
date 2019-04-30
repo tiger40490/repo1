@@ -2,6 +2,34 @@
 So far, we java developers were lucky so we see no financial gain in diversification.
 
 I feel someone like Mithun has low motivation to deep dive outside java so their breadth and depth would be (not slightly) limited
+--new blogpost: ##RDBMS=architect's toolkit
+stored proc can _greatly_ simplify business logic as the business logic lives with the data ...
+
+Even without stored proc, a big join can replace tons of application code implementing non-trivial business logic
+hashtable lookup can be implemented in SQL (join or sub-query) with better clarity and instrumentation.
+Much fewer implicit complexities in initialization, concurrency, input validation, null pointers, state validity, invariants, immutabilities, ... 
+OO and concurrency design patterns are often employed to manage these complexities, but SQL can sidestep these complexities.
+
+Modularity is another advantage. The query logic can be complex and maintained as an independent module (Note on the presentation layer, javascript offers  modularity too). Whatever module dependent on the query logic has an dependency interface that's well-defined and easy to test, easy to investigate.
+
+In fact testability might be the most high-profile feature.
+
+I think one inflexibility is adding new column. There are probably some workarounds but noSQL is still more flexible.
+
+Another drawback is concurrency though there are various solutions.
+
+--new new new blogpost: java perf^simplicity
+Paradoxically
+java's syntax simplicity is on par with python, better than c# and much better than c++. Paradoxically, 
+java's performance is on par with c# and c++, largely due to JVM and JIT
+
+java has been popular on web servers, and crucially the newer mobile, cloud, big-data platforms, beating c++, c#, python
+
+java's adoption rate as a foundation platform or integration-target... is better than all other languages. 
+Many products are built for java, on JVM or with java in mind. 
+I'm deliberately vague here because I don't want to spend too much time analyzing this vague, general observation.
+s algo is conceptually simpler.
+
 --new blogpost: decline of quant-dev: low value-add
 Q: why quant jobs used to be more abundant and pay a premium even though the economic value-add of the quant skill has always been questionable. 
 A: because the traders made money and subsequently received a big budget. Now budget is lower.

@@ -11,3 +11,7 @@ i used to focus on how many new problems solved each week, but that's very chall
 Reviewing existing code is easier, but can still take hours. 
 Worth the time! 
 Am growing stronger than before and stronger than my peers who don't invest the time. They forget what they learned ! No one can remember so well without refresh
+--new blogpost 1^2-pass algos
+90% of the time 2-pass algo is simpler conceptually.
+
+However, in my 2-pivot partition algo, a single-pas
