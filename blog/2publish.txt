@@ -1,3 +1,13 @@
+--update blogpost on take-home coding iv:
+ensure file timestamps are all within a short window. Prefer to use fewer files
+
+if I claim 2H, then leave some rough edges
+
+If using c++ then show off some TMP hacks
+
+do i need to implement user edits?
+
+do i want to spend many more hours on a thread-pool async solution? yes this would be fun
 --update blogpost on meaningful endeavors for family well being
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are more valued 
 competitive strength in dStruct/algo beyond the classics
