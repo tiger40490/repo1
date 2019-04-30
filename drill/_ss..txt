@@ -1,0 +1,32 @@
+To handle sparse sheets with mostly empty rows and columns, i will use a hashable keyed by rcid (rowColIdentifier). This can reduces memory footprint by 99% and reduce paging and increase cache efficiency.
+
+Don't full-scan the hashtable.
+
+Keep count of the total number of cells and also running total of concrete cells. Once they tally, game over.
+
+Q3: What if they never tally? 
+
+--node class
+no explicit uplink
+linked list of downstream nodes
+list representation of a tokenized formula. The uplinks would be embedded therein.
+
+--basic algo
+In first pass, collect all top-level nodes.
+In 2nd pass, take each top-level node and concretize as many downstream nodes as possible
+
+A3: after iterating all top-level nodes, if no tally, then cycle exists
+
+Can we prove this algo would do the job on a cycle-free sheet?
+
+space complexity is just the hashable + some list of top-level nodes + graph
+
+time complexity? O(V+E) since in 2nd pass, each edge is visited at most twice --
+* downstream tracing
+* reaching upward one level exactly, when evaluating a formula 
+
+--I prefer c++
+* single-file solution
+* TMP practice and showcase
+* less benchmarking
+* my c++ needs more practice
