@@ -1,3 +1,5 @@
+--update blogpost on quant career:
+if at same pay, i would prefer eq than drv pricing domain, due to mkt depth and job pool
 --update blogpost on meaningful endeavors for family well being
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are definitely more valued 
 competitive strength in dStruct/algo beyond the classics
