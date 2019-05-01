@@ -8,6 +8,6 @@ Do you have other strengths such as nail polishing or managing tenants? I think 
 I now favor locations with more Chinese, so the demand for Chinese pre-school would be higher
 
 --update blogpost on take-home coding iv:
-ensure file timestamps are all within a short window. Prefer to use fewer files
+ensure file timestamps are all within a short window. Prefer to use fewer files. Java solutions require more files :(
 
 if I claim 2H, then leave some rough edges
