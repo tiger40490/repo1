@@ -3,7 +3,7 @@
 [L=leetcode]
 [v=easy to verify]
  
-====Q [c] from Rahul
+====Q [c DP] from Rahul
 Given longer and short strings Haystack vs Needle, can string-N match a sub-sequence (not necessarily substring) of string-H? You can say we are checking if string-N is hiding in string-H. If yes how many hiding places or sub-sequences can you find? 
 
 More formally, if length of string-N is 5, then each hiding place is a tuple of 5 subscripts into string-H...
@@ -12,7 +12,7 @@ Eg: H = GeeksForGeeks; N = Gks. Answer is 4 subsequences
 
 My idea is backtracking recursion with memoization, hopefully O(len(H) * len(N))
 
-====Q [c] LCS: longest common subsequence (not sub-string) between two strings X and Y
+====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
 
 Let's suppose there are 10 chars in X, 10 in Y
@@ -20,18 +20,17 @@ abcbcfgbac = Y
 acebgfacbc = X
 
 --top-down algo
-Treat X as haystack and search for Y[0]. If found at X[3], then recursively call f(X[4:], Y[1:]). If not found, then iterate to Y[1]
+Treat X as haystack and search for Y[0]. If found at X[3], then recursively call f(X[4:], Y[1:]). After this function returns or if not found, iterate to Y[1]
 
-Ten treat Y as haystack
+Then treat Y as haystack
 
---bottom-up approach
+--bottom-up approach is not even half done:
 lcs(X[0:1], Y) left-most match in Y .. returns the lowest index in Y to accommodate the shorter string, or -1 for failure
 .. can be easily completed
 lcs(Y[0:1], X) can be easily completed
 lcs(X[0:2], Y): given the lcs(X[0:1], Y) answer, we scan (Y) forward from there 
 
-====Q [c] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at
-most S (they all fit into the knapsack)
+====Q [c DP] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
 
 classic DP problem.
 
