@@ -4,11 +4,13 @@
 [v=easy to verify]
  
 ====Q [c] 
-Given longer and short strings A vs B, can you find a sub-sequence (not necessarily substring) of string-A matching string-B? If yes how many can you find? If length of B is 5, then each occurrence is a group of 5 subscripts into string-A.
+Given longer and short strings A vs B, can you find a sub-sequence (not necessarily substring) of string-A matching string-B? You can say B is hiding in A. If yes how many hiding places or sub-sequences can you find? 
+
+More formally, if length of B is 5, then each hiding place is a tuple of 5 subscripts into string-A.
+
+Eg: A = GeeksForGeeks; B = Gks. Answer is 4 subsequences
 
 My idea is backtracking recursion with memoization, hopefully O(len(A) * len(B))
-
-Eg: A = GeeksForGeeks; B = Gks. Answer is ??
 
 ====Q [c] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
