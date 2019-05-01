@@ -1,3 +1,7 @@
+Don't overspend
+* top 100 but not a classic 
+* plenty of time
+
 To handle sparse sheets with mostly empty rows and columns, i will use a hashable keyed by rcid (rowColIdentifier). This can reduces memory footprint by 99% and reduce paging and increase cache efficiency.
 
 Don't full-scan the hashtable.
