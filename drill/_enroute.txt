@@ -19,6 +19,12 @@ Let's suppose there are 10 chars in X, 10 in Y
 abcbcfgbac = Y
 acebgfacbc = X
 
+--top-down algo
+Treat X as haystack and search for Y[0]. If found at X[3], then recursively call f(X[4:], Y[1:]). If not found, then iterate to Y[1]
+
+Ten treat Y as haystack
+
+--bottom-up approach
 lcs(X[0:1], Y) left-most match in Y .. returns the lowest index in Y to accommodate the shorter string, or -1 for failure
 .. can be easily completed
 lcs(Y[0:1], X) can be easily completed
