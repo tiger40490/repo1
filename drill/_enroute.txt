@@ -27,7 +27,9 @@ most S (they all fit into the knapsack)
 
 classic DP problem.
 
-f(remainingItems, remainingCapacity) is the basic function to write
+f(remainingItems, remainingCapacity) is the basic function to write.
+
+I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
 
 ====Q [c str] longest palindrome subsequence (not subarray)
 If there's an elegant idea then I should try then read it. Syntax should be light.
