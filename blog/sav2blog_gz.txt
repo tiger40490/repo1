@@ -1,4 +1,4 @@
---update blogpost on meaningful endeavors for family well being
+--new blogpost: comp strengths have different values
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are more valued 
 competitive strength in dStruct/algo beyond the classics
 competitive strength in core cpp QQ
@@ -11,10 +11,15 @@ improvement in yoga and fitness
 
 In each "competitive" case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
 
-Any Valuable resources (including lucrative jobs) are scarce and invites a competition. Therefore a competitive strength in any one of these domains has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
+Any Valuable resources (including a lucrative job) are scarce and invites a competition. Therefore a competitive strength in any one of these domains has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
 
-Any higher ROTI?
+For a concrete comparison, let's compare speed coding vs math. 
+In school, math is far more valuable. It enhances your physics. There are many competitions in math. 
+After I turned 30, math, in the form of logical and number-theory quizzes, still plays a small part in some job interviews ...
+However, speed coding strength (am building) has such an appreciating value on the high-end competitive interview scene. 
+Over the next 10Y, speed coding will have far more impact on those fronts listed earlier.
 
+However, if you want to invest in building such a strength, beware of huge disappointments.
 You can say every woman's natural beauty has imperfections when you see that woman everyday. This is because our idea of perfect beauty is based on paintings and photos, not live humans. Similarly, every endeavor's ROTI has imperfections compared to our naive, idealized concepts.
 
 If you look for imperfections you will always find some.... but such fixation on imperfections is cynical, demoralizing and unproductive research
