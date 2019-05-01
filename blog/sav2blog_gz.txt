@@ -1,3 +1,30 @@
+--update blogpost on meaningful endeavors for family well being
+competitive strength in speed coding contest -- such contest are now more prevalent and the skills are more valued 
+competitive strength in dStruct/algo beyond the classics
+competitive strength in core cpp QQ
+competitive strength in core java QQ -- bigger job market
+competitive strength in socket QQ
+competitive strength in SQL QQ (and perl GTD) -- better than swing 
+competitive strength in math in school -- huge and long-term impact
+competence in localSys -- no long-term impacts, so Ashish's t-investment is unwise
+improvement in yoga and fitness
+
+In each "competitive" case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
+
+Any Valuable resources (including lucrative jobs) are scarce and invites a competition. Therefore a competitive strength in any one of these domains has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
+
+Any higher ROTI?
+
+You can say every woman's natural beauty has imperfections when you see that woman everyday. This is because our idea of perfect beauty is based on paintings and photos, not live humans. Similarly, every endeavor's ROTI has imperfections compared to our naive, idealized concepts.
+
+If you look for imperfections you will always find some.... but such fixation on imperfections is cynical, demoralizing and unproductive research
+
+Need to zoom into my strategic strengths + long term interests such as low-level, theoretical stuff, pure algo, dstruct, and avoid my weaknesses 
+
+low level QQ -- my strength
+low level investigation using tools + codebase -- my weakness
+picking up new GTD challenges -- my relative weakness
+picking up new IV topic -- my relative strength
 
 --new blogpost: self-esteem: stigma^salary gap
 In terms of my past experiences of self-esteem under attack, which attacks were more serious and higher priority for future planning?
