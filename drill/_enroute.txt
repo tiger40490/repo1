@@ -2,6 +2,13 @@
 [e=ez]
 [L=leetcode]
 [v=easy to verify]
+ 
+====Q [c] 
+Given longer and short strings A vs B, can you find a sub-sequence (not necessarily substring) of string-A matching string-B? If yes how many can you find? If length of B is 5, then each occurrence is a group of 5 subscripts into string-A.
+
+My idea is backtracking recursion with memoization, hopefully O(len(A) * len(B))
+
+Eg: A = GeeksForGeeks; B = Gks. Answer is ??
 
 ====Q [c] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
