@@ -1,4 +1,31 @@
---new blogpost: comp strengths have different values
+==new blogpost: low-level^high-level expertise
+Compare to laymen on the street, we have accumulated fairly deep, specific and demonstrable expertise in 2 lucrative field i.e. software dev + finance
+* concurrency details (not theory) in real languages
+* dStruct choices and nesting
+* dStruct implementations in java/c++/pyhton
+* sockets
+* SQL joins and tuning
+* drv pricing math, VaR statistics, bond math
+
+These trophies are won based on tsn, interviews and personal time investment ... not automatically
+
+--low-level vs high-level
+Most of the dev expertise domains are low-level (consequently very specific). I can even teach in these subjects. The more low-level, the rarer is the expertise. The laymen developers have a vague idea of the low-level details, for many reasons.
+
+High-level understanding is often more useful (than low-level, theoretical QQ knowledge) in projects, but in QQ IV, low-level knowledge is differentiator. 
+Practically all (90%+) high-end java/c++ interviews use low-level questions as differentiator. 
+In my dev (not system architect) interviews, they seldom ask high-level stuff like spring rationale, design patterns... 
+I tend to believe these questions can't /separate the crop from the chaff/
+
+(The finance dnlg is also a differentiator among developers. The most specific sub-domains are financial math, the architecture and some of the jargon.)
+ 
+C++ is more low-level than java, which is more low-level than python...
+
+Q: Paradoxically, C and assembly are even more low-level but not more valuable? 
+%%A: Some C knowledge is highly valued. For example, kernel knowledge is high-value and mostly at the level of C, compiler, assembly, and hardware
+%%A: assembly expertise in device drivers or embedded is not really relevant to HFT, and too far from the money
+=====
+--new blogpost: competitive strengths have different values
 competitive strength in speed coding contest -- such contest are now more prevalent and the skills are more valued 
 competitive strength in dStruct/algo beyond the classics
 competitive strength in core cpp QQ
