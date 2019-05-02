@@ -12,6 +12,7 @@ Eg: H = GeeksForGeeks; N = Gks. Answer is 4 subsequences
 
 My idea is backtracking recursion with memoization, hopefully O(len(H) * len(N))
 
+I feel bottom-up is more efficient (avoids deep stack) but I only know a top-down algo
 ====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
 
