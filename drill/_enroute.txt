@@ -20,7 +20,7 @@ abcbcfgbac = Y
 acebgfacbc = X
 
 --top-down algo
-Treat X as haystack and search for Y[0]. If found at X[3], then recursively call f(X[4:], Y[1:]). After this function returns or if not found, iterate to Y[1]
+Treat X as haystack and search for Y[0]. If found at X[3], then recursively call f(X[4:], Y[1:]). After this function returns or if not found, iterate to Y[1]. This loop only looks for Y[0] in X.
 
 Then treat Y as haystack
 
