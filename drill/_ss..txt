@@ -10,9 +10,9 @@ Keep count of the total number of cells and also running total of concrete cells
 Q3: What if they never tally? 
 
 --node class
-no explicit uplink
 linked list of downstream nodes
 list representation of a tokenized formula. The uplinks would be embedded therein.
+linked list of unconcretized upstreams (uu list). We would progressively remove from this list during 2nd pass. Once it becomes empty, we would concretize host node.
 
 --basic algo
 In first pass, collect all top-level nodes.
@@ -28,6 +28,11 @@ space complexity is just the hashable + some list of top-level nodes + graph
 time complexity? O(V+E) since in 2nd pass, each edge is visited at most twice --
 * downstream tracing
 * referencing upward node (one level up exactly), while evaluating a formula 
+
+--details of 2ndd pass:
+BFT is better. Simply enqueue all top-level nodes at start.
+
+When we follow the down link to visit a node, we always remove at least one item from the uu list. If empty, then concretize the node and descend
 
 --I prefer c++
 * single-file solution
