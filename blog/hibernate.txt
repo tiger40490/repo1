@@ -1,21 +1,6 @@
---new blogpost: my tsn dream=largely constrained by risks:
-* stigma/respect
-* figure things out faster than colleagues
-
-For these specific risks, my current risk tolerance is higher so I can be bolder, but the blow of a stigma is still rather heavy.
-
-Note these risks exist with/out tsn. If we want to minimize these risks we need to find a low-calibre team like RTS, or OC (95G?)
-
---new blogpost: how I feel about SGD180k heard from friends@@
-In this "roller coaster" journey, it's crucial to hold tight to my carefully chosen position -- to accept 140k base and accept contract jobs without benefits. I made those careful decisions because my SG experience shows the pain of aiming too high.
-
-My friends are possibly better at GTD or no kids or no personal need for workout/reflection. 
-
-Also, i don't think my friends are interested to move out of big banks and move out of finance.
-
-The are interested in leadership roles and high salary. I avoid leadership roles.
-
-It's just too hard to justify the fairness and validity of such peer comparisons.
+--dual effort:
+effort 1: select what type of jobs to try. If I try the ibank java roles I would get some offers and get caught up
+effort 2: capture the momentum for coding drill + QQ, hopefully with long term boost
 
 --notes on hibernate timing
 get an offer by Sep, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have remaining, the more "attractive" I am among h1 candidates
