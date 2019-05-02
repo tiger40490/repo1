@@ -1,7 +1,7 @@
 Don't over-invest
 * G100 but not a classic 
 
-To handle sparse sheets with most rows and columns empty, i will use a hash table keyed by rcid (RowColIdentifier). This can reduces memory footprint by 99% and consequently reduce paging and increase cache efficiency.
+To handle sparse sheets with most rows and columns empty, i will use a hash table keyed by rcid (RowColIdentifier). This can reduce memory footprint by 99% and consequently reduce paging and increase cache efficiency.
 
 Don't full-scan the hash table.
 
@@ -11,8 +11,8 @@ Q3: What if they never tally?
 
 --node class
 linked list of downstream nodes
-list representation of a tokenized formula. The uplinks would be embedded therein.
-linked list of unconcretized upstreams (uu list). We would progressively remove from this list during 2nd pass. Once it becomes empty, we would concretize host node.
+original formula. 
+linked list of unconcretized upstreams (uu list). We would progressively remove from this list during 2nd pass. Once it becomes empty, we would concretize the formula.
 
 --basic algo
 In first pass, collect all top-level nodes.
@@ -32,10 +32,10 @@ time complexity? O(V+E) since in 2nd pass, each edge is visited at most twice --
 --details of 2ndd pass:
 BFT is better. Simply enqueue all top-level nodes at start.
 
-When we follow the down link to visit a node, we always remove at least one item from the uu list. If empty, then concretize the node and descend
+When we follow the down link to visit a node Tom, we always remove at least one item from Tom's uu list. If empty, then concretize Tom and descend
 
 --I prefer c++
 * single-file solution
 * TMP practice and showcase
 * less benchmarking
-* my c++ needs more practice
+* my c++ needs more practice, a lot more than java
