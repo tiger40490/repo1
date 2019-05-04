@@ -14,6 +14,10 @@ linked list of downstream nodes
 original formula. 
 linked list of unconcretized upstreams (uu list). We would progressively remove from this list during 2nd pass. Once it becomes empty, we would concretize the formula.
 
+Imperfection 1: There's duplication of data between the uu-list and the downstream list
+
+Imperfection 2 After we save downstream references into A1 node, when we get the A1 formula, we kind of create a "real" cell for A1... Not ideal
+
 --basic algo
 In first pass, collect all top-level nodes.
 In 2nd pass, take each top-level node and concretize as many downstream nodes as possible
