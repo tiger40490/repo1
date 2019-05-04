@@ -1,3 +1,5 @@
+--nostril hair
+
 --new blogpost: reward4coding,yoga,diet
 insufficient reward, celebration of the huge effort in coding drill, yoga, diet...
 
@@ -20,4 +22,4 @@ I now favor locations with more Chinese, so the demand for Chinese pre-school wo
 --update blogpost on take-home coding iv:
 ensure file timestamps are all within a short window. Prefer to use fewer files. Java solutions require more files :(
 
-if I claim 2H, then leave some rough edges
+if I claim 2H, then leave some rough edges like validations
