@@ -1,7 +1,7 @@
 Don't over-invest
 * G100 but not a classic 
 
-i may want to spend some time documenting the java solution. tbudget = 10H
+i may want to spend some time testing/documenting the java solution. tbudget = 10H
 
 To handle sparse sheets with most rows and columns empty, i will use a hash table keyed by rcid (RowColIdentifier). This can reduce memory footprint by 99% and consequently reduce paging and increase cache efficiency.
 
