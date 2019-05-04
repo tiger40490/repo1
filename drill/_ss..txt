@@ -1,11 +1,7 @@
 Don't over-invest
 * G100 but not a classic 
 
-i may want to spend some time testing/documenting the java solution. tbudget = 10H
-
-To handle sparse sheets with most rows and columns empty, i will use a hash table keyed by rcid (RowColIdentifier). This can reduce memory footprint by 99% and consequently reduce paging and increase cache efficiency.
-
-Don't full-scan the hash table. The last iteration uses a double-for loop to "probe" the hash table and print every cell, including empty cells
+Don't full-scan the hash table. Only the last iteration uses a double-for loop to "probe" the hash table and print every cell, including empty cells
 
 Keep count of the total number of cells and also running total of concrete cells. Once they tally, game over.
 
