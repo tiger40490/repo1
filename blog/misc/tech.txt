@@ -1,2 +1,5 @@
 --no blogpost
 adding "const" can lead to huge template errors
+
+# You can put function body and header on same line :)
+def packed(haystack):  return ''.join(haystack.split())
