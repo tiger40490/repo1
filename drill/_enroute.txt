@@ -23,10 +23,12 @@ We build the memorization for f(n,h) from small to big, when we come to f(n=2,h=
 N=Gks H=GeeksForGeeks
   012   0123456789012
 
-f(2,11) results (1 only) are part of results
+f(2,11) results (1 in this example) are part of my results
 In this case, N[n)==H(h), so we also need f(1,11) -> 3 matches.
 
-Now supppose H gets an additional 'x' and we want f(2,13)? Since N(n)!=H(h), we only want f(n, h-1)
+Now suppose H gets an additional 'x' and we want f(2,13)? Since N(n)!=H(h), we only want f(n, h-1)
+
+f(n,h) only needs f(n-1,h) and f(n,h-1)
   
 ====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
