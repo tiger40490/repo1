@@ -13,6 +13,21 @@ Eg: H = GeeksForGeeks; N = Gks. Answer is 4 subsequences
 My idea is backtracking recursion with memoization, hopefully O(len(H) * len(N))
 
 I feel bottom-up is more efficient (avoids deep stack) but I only know a top-down algo
+
+H and N are treated as immutable reference data.
+
+f(n,h) shall return a collection of hiding places where N[0 to n] hides in H[0 to h]
+
+We build the memorization for f(n,h) from small to big, when we come to f(n=2,h=12), we already have the lower results.
+
+N=Gks H=GeeksForGeeks
+  012   0123456789012
+
+f(2,11) results (1 only) are part of results
+In this case, N[n)==H(h), so we also need f(1,11) -> 3 matches.
+
+Now supppose H gets an additional 'x' and we want f(2,13)? Since N(n)!=H(h), we only want f(n, h-1)
+  
 ====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
 
