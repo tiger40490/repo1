@@ -16,7 +16,7 @@ I feel bottom-up is more efficient (avoids deep stack) but I only know a top-dow
 
 H and N are treated as immutable reference data.
 
-f(n,h) shall return a collection of hiding places where N[0 to n] hides in H[0 to h]
+f(n,h) shall return a count of hiding places where N[0 to n] hides in H[0 to h]
 
 We build the memorization for f(n,h) from small to big, when we come to f(n=2,h=12), we already have the lower results.
 
