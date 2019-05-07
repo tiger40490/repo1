@@ -3,36 +3,6 @@
 [L=leetcode]
 [v=easy to verify]
  
-====Q [c DP] from Rahul
-Given longer and short strings Haystack vs Needle, can string-N match a sub-sequence (not necessarily substring) of string-H? You can say we are checking if string-N is hiding in string-H. If yes how many hiding places or sub-sequences can you find? 
-
-More formally, if length of string-N is 5, then each hiding place is a tuple of 5 subscripts into string-H...
-
-Eg: H = GeeksForGeeks; N = Gks. Answer is 4 subsequences
-
-My idea is backtracking recursion with memoization, hopefully O(len(H) * len(N))
-
-I feel bottom-up is more efficient (avoids deep stack) but I only know a top-down algo
-
-H and N are treated as immutable reference data.
-
-f(n,h) shall return a count of hiding places where N[0 to n] hides in H[0 to h]
-
-We build the memorization for f(n,h) from small to big, when we come to f(n=2,h=12), we already have the lower results.
-
-N=Gks H=GeeksForGeeks
-  012   0123456789012
-
-f(2,11) results (1 in this example) are part of my results
-In this case, N[n)==H(h), so we also need f(1,11) -> 3 matches.
-
-Now suppose H gets an additional 'x' and we want f(2,13)? Since N(n)!=H(h), we only want f(n, h-1)
-
---the bottom up algo:
-f(n,h) only needs f(n-1,h-1) and f(n,h-1)
-if n > h, return 0
-if n==0, i can find the return value easily
-if n==1, f(n,h-1) + ( N[n]==H[h]? f(n-1,h-1):0)
 
 ====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
