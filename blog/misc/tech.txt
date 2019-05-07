@@ -1,5 +1,10 @@
+--review:
+stack-only class? disable operator-new?
+heap-only class? make dtor inaccessible?
+
 --no blogpost
 adding "const" can lead to huge template errors
 
+--no blogpost
 # You can put function body and header on same line :)
 def packed(haystack):  return ''.join(haystack.split())
