@@ -1,5 +1,7 @@
 --no blogpost:
-many random adversities to fall on us throughout our everyday lives. Each individual is better at handling some categories of adversities. Can we learn from each other the coping strategies?
+many random adversities to fall on us throughout our everyday lives. 
+Each individual is better at handling some categories of adversities. 
+Can we learn from each other the coping strategies including the SMS self-talk?
 * [:)] school problems.. Looking back at MSFM, i had very few problems. 
 ** Yixin?
 * driving (parking) can generate more surprises than walking, sitting...
@@ -28,7 +30,7 @@ These stressors may trigger the same overwhelmed reaction
 * investment failures
 * immigration issues
 
---legal risks that can tarnish a career
+--new blogpost: legal risks that can tarnish a career
 legal risks to accountants -- sis
 legal risks to doctors like malpractices
 legal risks to car drivers
