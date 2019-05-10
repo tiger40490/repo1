@@ -59,24 +59,10 @@ low level investigation using tools + codebase -- my weakness
 picking up new GTD challenges -- my relative weakness
 picking up new IV topic -- my relative strength
 
---new blogpost: self-esteem: stigma^salary gap
-In terms of my past experiences of self-esteem under attack, which attacks were more serious and higher priority for future planning?
-? stigma/appraisal/coworkerBenchmark
-? salary gap cf peers -- relatively easy to accept. 
-? brank -- I have kind of given up on this front after I chose the contractor career
-? property and other assets
-Note workload and commute has no impact on self-esteem
-
---new blogpost: salary has least impact@family well-being
-sometimes I feel 20k lower salary doesn't affect my self-esteem or family well-being. 
-
-In contrast, stigma/respect/coworkerBenchmark, commute, workload have bigger impact on family well-being
-
-stigma has heaviest impact on self-esteem
 --new blogpost
 Suppose i invest heavily and become very productive on a local c++system. 
 Or a java, or SQL, or socket, pyhton, tibrv system. 
-Now, any local system uses only a small portion of the language features.. at most 2% of the advanced interview topics on that language. 
+Now, any local system uses only a small portion of the language features.. at most 5% of the advanced interview topics on that language. 
 Therefore the experience won't give me confidence to be an expert on the language... but acing multiple QQ interviews does as these interviews compare dozens of candidates across the field. 
 
 I grew very confident of java through this type of external benchmarking, in contrast to internal benchmarking within the local team.
