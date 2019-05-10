@@ -1,3 +1,7 @@
+--update blogpost: why c++
+[G3] differentiation. 
+[G5] C insight helps deepen my understanding (zbs) in java, python, kernel, latency, concurrency, ...
+
 --new blogpost: reward4coding,yoga,diet
 insufficient reward, celebration of the huge effort in coding drill, yoga, diet...
 

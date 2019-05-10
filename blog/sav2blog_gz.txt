@@ -1,6 +1,3 @@
---update blogpost: why c++
-[G3] differentiation. 
-[G5] C insight helps deepen my understanding (zbs) in java, python, kernel, latency, concurrency, ...
 
 ==new blogpost: low-level^high-level expertise
 Compare to laymen on the street, we have accumulated fairly deep, specific and demonstrable expertise in 2 lucrative field i.e. software dev + finance
