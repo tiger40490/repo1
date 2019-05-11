@@ -25,21 +25,22 @@ Explanation: nums = [3,1,5,8] --> [3,5,8] -->   [3,8]   -->  [8]  --> []
             coins =  3*1*5      +  3*5*8    +  1*3*8      + 1*8*1   = 167
 ==analysis:
 int-array optimization problem.
-
 Might be related to some classic problem.
 
 Let's define a generic math-function of 3 balloon IDs score(myle, me, myri). In this problem, score() is simply "return myle*me*myri ", but in the next problem, score() could be any math function of the three inputs. 
 
---solution1 DP 
 I see each possible snapshot (having K balloons, i.e. at level K) as a graph node. Exactly 2^N nodes in the Recombinant tree, i.e. 2^N possible snapshots i.e. 2^N combinations of these N balloons. 
 
-Every edge has a score. To compute the score, we only need the two snapshots of the edge to deduce the 3 balloons for score(). Therefore, we can work out a score upward or downward the graph. 
+Every edge has a score. To compute the score, we only need the two nodes (snapshots) of the edge to deduce the 3 balloons for score(). 
 
 Pyramid -- Let's assume at bottom is "origin" i.e. snapshot of the original array ..Level 500; on top is "phi" i.e. snapshot of the empty array .. Level 0. 
 
-From origin to any given node, there are many distinct paths each with a total score up to that node. If a node has 55 paths to it, the max sum among the 55 paths would be the uprank (upward rank) of the node. 
+The problem transforms into a max path sum problem between these 2 nodes
 
-If the node also has 44 paths from phi, the max sum among the 44 paths would be the downrank (downwrd rank) of the node.
+--solution1 DP 
+From origin to any given node, there are many distinct paths each with a total score up to that node. If a node has 55 paths to it, the max sum among the 55 paths would be the uprank (upward rank) of the node.
+
+If the node also has 44 paths from phi, the max sum among the 44 paths would be the downrank (downwrd rank) of the node. This is an interesting observation, but not needed in this solution.
 
 To our delight, uprank of a node AA at Level-5 depends only on the six Level-6 parent node upranks, so we don't need to remember all the distinct paths to AA:) Space complexity is up to O(max size of a level). Time complexity is O(V+E) i.e. visit every edge.
 
