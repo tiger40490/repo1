@@ -1,8 +1,12 @@
 ==max path sum problem, where graph node has many directed edges in and out
 --variation: single origin, single destination
---variation: single origin, pick best destination among 5
+--variation: single origin, pick best destination among 55 leaf nodes
 --variation: each node has a +/- value 
 --variation: each edge has a +/- value
+
+I think for these problems, I would try DP. For each node, find and store the max cum sum up to that node.  Need to start from the level 1 nodes (1 hop from origin), then level 2 nodes
+
+for a binary tree (no recombinant), i would use DFT + Kadane
 ====
 --update blogpost: why c++
 [G3] differentiation. 
