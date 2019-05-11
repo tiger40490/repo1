@@ -1,3 +1,9 @@
+==max path sum problem, where graph node has many directed edges in and out
+--variation: single origin, single destination
+--variation: single origin, pick best destination among 5
+--variation: each node has a +/- value 
+--variation: each edge has a +/- value
+====
 --update blogpost: why c++
 [G3] differentiation. 
 [G5] C insight helps deepen my understanding (zbs) in java, python, kernel, latency, concurrency, ...
