@@ -33,7 +33,7 @@ Let's define a generic math-function of 3 balloon IDs score(myle, me, myri). In 
 --solution1 DP 
 I see each possible snapshot (having K balloons, i.e. at level K) as a graph node. Exactly 2^N nodes in the Recombinant tree, i.e. 2^N possible snapshots i.e. 2^N combinations of these N balloons. 
 
-Every edge has a score. To compute the score, we only need the two nodes of the edge to deduce the 3 balloons for score(). Therefore, we can work out a score upward or downward the graph. 
+Every edge has a score. To compute the score, we only need the two snapshots of the edge to deduce the 3 balloons for score(). Therefore, we can work out a score upward or downward the graph. 
 
 Pyramid -- Let's assume at bottom is "origin" i.e. snapshot of the original array ..Level 500; on top is "phi" i.e. snapshot of the empty array .. Level 0. 
 
