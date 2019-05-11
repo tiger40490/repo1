@@ -52,6 +52,8 @@ Suppose i have computed all upranks up to Level 8 nodes .. 88 nodes
 I think we can now compare all the 77*88 paths between Level 7 and 8. Between Node 7A and 8B, the path sum is 
 
   uprank_8B + edge score + downrank_7A
+  
+Perhaps there's there's no need for the downranks, since every edge is evaluated exactly once.
 
 Level n:   1 node
 Level n-1: n nodes
