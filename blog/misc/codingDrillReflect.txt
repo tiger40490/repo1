@@ -1,10 +1,6 @@
 --no blogpost
 moving-window max -- why my showman idea was not developed into the deque solution?
 
---no blogpost
-balloon problem -- why my recombinant tree was not developed into the DP solution?
-I didn't realize I could take advantage of the Markov nature, and work on one "level" at a time. This is a huge simplification
-
 --new blogpost: new problems!=the best drill
 i used to focus on how many new problems solved each week, but that's very challenging and not necessarily most effective.
 
@@ -14,4 +10,4 @@ Am growing stronger than before and stronger than my peers who don't invest the 
 --new blogpost 1^2-pass algos
 90% of the time 2-pass algo is simpler conceptually.
 
-However, in my 2-pivot partition algo, a single-pas
+However, in my 2-pivot partition algo, a single-pass was simpler??
