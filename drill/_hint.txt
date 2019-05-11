@@ -40,21 +40,15 @@ The problem transforms into a max path sum problem between these 2 nodes
 --solution1 DP 
 From origin to any given node, there are many distinct paths each with a total score up to that node. If a node has 55 paths to it, the max sum among the 55 paths would be the uprank (upward rank) of the node.
 
-If the node also has 44 paths from phi, the max sum among the 44 paths would be the downrank (downwrd rank) of the node. This is an interesting observation, but not needed in this solution.
+If the node also has 44 paths from phi, the max sum among the 44 paths would be the downrank (downwrd rank) of the node. This is an interesting observation, but not needed in this solution since every edge is evaluated exactly once.
 
-To our delight, uprank of a node AA at Level-5 depends only on the six Level-6 parent node upranks, so we don't need to remember all the distinct paths to AA:) Space complexity is up to O(max size of a level). Time complexity is O(V+E) i.e. visit every edge.
+To our delight, uprank of a node AA at Level-5 depends only on the six Level-6 parent node upranks, so we don't need to remember all the distinct paths to AA:) 
 
-* I hope to update upranks from bottom up, since there are rather few nodes at bottom.
-* I hope to update downranks from top down, since there are rather few nodes at top.
-* If Level K has more nodes than Level K-1, then we don't want to compute upranks from K to K-1. Instead, we can more efficiently compute downranks from K-1 to K.
+We just need to compute the uprank of every node at Level 6, then use those numbers to work out Level 5.... the Level 4 ... all the way to phi.
 
-Suppose i have computed all downranks down to Level 7 nodes .. 77 nodes
-Suppose i have computed all upranks up to Level 8 nodes .. 88 nodes
-I think we can now compare all the 77*88 paths between Level 7 and 8. Between Node 7A and 8B, the path sum is 
+If there are 66 nodes at Level 6 and 55 nodes at level 5, then there are 55*66 edges linking every pair.
 
-  uprank_8B + edge score + downrank_7A
-  
-Perhaps there's there's no need for the downranks, since every edge is evaluated exactly once.
+Space complexity is up to O(max size of a level). Time complexity is O(V+E) i.e. visit every edge.
 
 Level n:   1 node
 Level n-1: n nodes
@@ -64,7 +58,7 @@ Level 2:   nc2 nodes
 Level 1:   n nodes
 Level 0:   1 node
 
-Each node at level K has K child nodes above. This graph now suggests the max-path-sum algo, but it might be the only way to solve the problem, like the bbg odometer.
+Each node at level K has K child nodes above. This graph now suggests the max-path-sum algo (with edge scores), but it might be the only way to solve the problem, like the bbg odometer.
 
 consider a DP algo to update the score at each node at level K, ie the max sum from root till here, via one of the K-1 nodes at level K-1 
 
