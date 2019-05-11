@@ -1,11 +1,11 @@
-==max path sum problems, where a graph node has many directed edges in and out
+==max path sum problem(s), where a graph node has many directed edges in and out
 --variation: single origin, single destination
---variation: single origin, pick best destination among 55 leaf nodes
+--variation: single origin, any destination among 55 leaf nodes
 --variation: each node has a +/- value 
 --variation: each edge has a +/- value
 --Special case -- pyramid (i.e. layered nodes). I think for these problems, I would try DP. For each node, determine (and store) the max cum-sum up to that node.  Need to start from the layer 1 nodes (1 hop from origin), then layer 2 nodes. 
 
-Markov -- For any node AA, the max cum-sum to AA only depend on the previous layer. No need to remember or compare any of the paths to AA; only need to remember the max cum-sum to AA.
+Markov -- For any node AA, the max cum-sum to AA only depends on the previous layer. No need to remember or compare any of the paths to AA; only need to remember the max cum-sum up to AA.
 
 --Special case -- for a non-recombinant binary tree, i would use DFT + Kadane. Each origin-to-leaf path is independently handled.
 ====
