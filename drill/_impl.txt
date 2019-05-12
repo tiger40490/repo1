@@ -29,7 +29,6 @@ if n > h, return 0
 if n==0, i can find the return value easily
 if n==1, f(n,h-1) + ( N[n]==H[h]? f(n-1,h-1):0)
 ====Q: insertion sort quick-n-dirty but correct
-====Q: merge 2 sorted slists, possibly using heap
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
