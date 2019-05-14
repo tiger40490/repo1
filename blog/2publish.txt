@@ -1,5 +1,0 @@
-backtracing -- often uses a tree
-
-generating all solutions (paths, formulas..) -- often uses a tree
-* eg: punctuation -- to print out all sentences
-* eg: AQR factorization problem may be solvable using the comboSum algo. Candidates are the qualified prime factors and their products, each must be a factor of the original
