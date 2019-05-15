@@ -1,3 +1,12 @@
+--truth-about-fintech seminar
+infrastructure play 
+disruptive
+eg: block chain
+eg: clearing and settlement
+* (operational) efficiency
+institutional vs consumer segments
+
+"fintech" is mostly about start-up
 --no blogpost:
 many random adversities to fall on us throughout our everyday lives. 
 Each individual is better at handling some categories of adversities. 
