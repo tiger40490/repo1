@@ -29,8 +29,13 @@ f(remainingItems, remainingCapacity) is the basic function to write.
 
 I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
 
+====Q [c str] longest palindrome subarray
+DP problem
+Is there an O(N) solution?
+
+I have written a non-DP solution
 ====Q [c str] longest palindrome subsequence (not subarray)
-There's an elegant DP idea then I should try then read it. 
+if there's an elegant idea then I should try then read it. 
 
 Syntax should be light.
 I think some non-optimal solution is feasible. start with some good (extreme) examples
