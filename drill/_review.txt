@@ -1,19 +1,17 @@
 温故而知新 .. I tend to find bugs + neglected/forgotten parts + areas of improvement. Each part of a given solution can be a show stopper or derailer in a real coding test
-
-====comboSum (c++) can use bottomUp DP?
-is there any redundant call (and memoization opportunity)?
-====generator tricks in staircase
-ignore efficiency for now.
  
 ====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
 
 ====(cpp) water container
-====edit distance -- need to internalize 1 or 2 key points
 ====2-pivot partition
 ====[Lv] serialize/deserialize binTree
 
 ====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
+==comboSum (c++) can use bottomUp DP?
+is there any redundant call (and memoization opportunity)?
+==generator tricks in staircase
+ignore efficiency for now.
 ==abbr gen, longest first
 
 ==find all paths in matrix
