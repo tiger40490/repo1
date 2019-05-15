@@ -31,7 +31,7 @@ I would want to sort the items by "density" of gold, so i always take the denses
 
 ====Q [c str] longest palindrome subarray
 DP problem
-Is there an O(N) solution?
+Is there an O(N) solution? Manacher's algorithm, but most solutions out there are O(NN)
 
 I have written a non-DP solution
 ====Q [c str] longest palindrome subsequence (not subarray)
