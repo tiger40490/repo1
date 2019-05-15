@@ -30,7 +30,9 @@ f(remainingItems, remainingCapacity) is the basic function to write.
 I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
 
 ====Q [c str] longest palindrome subsequence (not subarray)
-If there's an elegant idea then I should try then read it. Syntax should be light.
+There's an elegant DP idea then I should try then read it. 
+
+Syntax should be light.
 I think some non-optimal solution is feasible. start with some good (extreme) examples
 eg alabama -> aabaa
 eg mississippi -> ississi
@@ -42,5 +44,7 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 
 --solution 1 (not so good): classic generator for all abbr and check each but at some point we may have enough confidence to terminate the search
 
+====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
+Not so easy when the word is not sorted and contains dupe letters. I think hashtable is needed
+
 ====Q [c !e] next split@N boys
-============= problems below should be posted to blog
