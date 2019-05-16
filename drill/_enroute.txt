@@ -19,7 +19,7 @@ lcs([X4:], Y[8:])+1
 Should use a pair of black/white string to test
 ====Q [c DP] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
 
-classic DP problem.
+classic memoization-DP problem.
 
 f(remainingItems, remainingCapacity) is the basic function to write.
 
