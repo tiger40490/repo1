@@ -1,3 +1,17 @@
+====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
+classic DP problem.
+
+Let's suppose there are 10 chars in X, 10 in Y
+abcbcfgbac = Y
+acebgfacbc = X
+
+--bottom-up approach:
+lcs(X[3:], Y[7:]) is max (
+lcs(X[4:], Y[7:]),
+lcs(X[3:], Y[8:])) if X[3] != Y[7]. Otherwise, we should also compare 
+lcs([X4:], Y[8:])+1
+
+Should use a pair of black/white string to test
 ====Q [c DP] rod-cutting problem (from Rahul, simpler than knapsack problem): Given a single rod of 10m, also given a price table for pieces like 2m, 5m etc, optimize for total value. A stub (too small) is worthless.
 
 f(remainingLen) is the memoization function to write.

@@ -10,21 +10,6 @@ The problems I'm interested in might be harder than required? I think some finan
  
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 
-====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
-classic DP problem.
-
-Let's suppose there are 10 chars in X, 10 in Y
-abcbcfgbac = Y
-acebgfacbc = X
-
---bottom-up approach is not even half done:
-lcs(X[3:], Y[7:]) is max (
-lcs(X[4:], Y[7:]),
-lcs(X[3:], Y[8:])) if X[3] != Y[7]. Otherwise, we should also compare 
-lcs([X4:], Y[8:])+1
-
-Should use a pair of black/white string to test
-
 ====Q [c str] longest palindrome subarray
 DP problem
 Is there an O(N) solution? Manacher's algorithm, but most solutions out there are O(NN)
