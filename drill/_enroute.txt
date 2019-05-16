@@ -38,11 +38,15 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 
 --solution 1 (not so good): classic generator for all abbr and check each but at some point we may have enough confidence to terminate the search
 
-====Q [c DP] rod-cutting problem (from Rahul, simpler than knapsack problem): Given a single rod of 10m, also given a price table for pieces like 2m, 5m etc, optimize for total value
-
-A stub (too small) is worthless.
+====Q [c DP] rod-cutting problem (from Rahul, simpler than knapsack problem): Given a single rod of 10m, also given a price table for pieces like 2m, 5m etc, optimize for total value. A stub (too small) is worthless.
 
 f(remainingLen) is the memoization function to write.
+
+Always start with pieces of highest density (:=price/len)...
+
+"Formula" means something like 2+2+3+5. Should be sorted by density.
+
+As soon we get no stub, we found the optimal "formula"... game over
 ====Q [c DP] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
 
 classic memoization-DP problem.
@@ -50,6 +54,7 @@ classic memoization-DP problem.
 f(remainingItems, remainingCapacity) is the basic function to write.
 
 I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
+--can we reduce recursion depth if we keep cutting in a while loop?
 ====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
 
