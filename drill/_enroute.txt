@@ -47,10 +47,6 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 
 ====Q[Lv] 80%: classic generator algo: Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
-yield-generator can help. Is this the "redraw" algo?
-input "88" we have 6 combos? tt tu tv uu uv vv
-input "888" we have 8 combos? ttt ttu ttv tuu tuv uuu uuv vvv
-
 2: abc
 3: def
 4: ghi
@@ -64,6 +60,13 @@ Example:
 
 Input: "23"
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]. 
+
+Output need not be sorted but I would aim to print each word as sorted and also print all words in ascending order
+
+--yield-generator can help. Is this the "redraw" algo?
+input "88" we have 6 combos? tt tu tv uu uv vv
+input "888" we have 8 combos? ttt ttu ttv tuu tuv uuu uuv vvv
+input "8888"
 
 --we need good variable names. 
 For the 9 digits, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digits any more.
