@@ -1,7 +1,23 @@
-====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but it may not be appropriate or easy to remember
 ====generic_factorize.py to use yield
+====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but it may not be appropriate or easy to remember
 
 ====Q: insertion sort quick-n-dirty but correct
+====Q[Lv] 60%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
+
+well-defined problem:)
+greedy?
+O(1) space probably means swapping
+mutable?
+-- with more space, I can use a hashtable to achieve O(N)
+-- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
+
+====Q[c !e L !v] 50%: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'. No dot !
+I think we can modify the existing solution. No need for an optimal solution
+
+=====Q[L] 60%: Given an array nums of K integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(KK)
+%%A: separate into (M) non-negatives and (N) negatives. M+N=K. get (NN) pairs among negatives .... and look up the sum in a pre-populated hash table of M items.
+O(NN + MM), smaller than O( [N+M]^2 )
+test in leetcode? No obligation
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
@@ -25,21 +41,3 @@ Now the segment boundaries are updated and reduced by half. When segment count b
 5) repeat Step 3
 
 In total we visit each of N nodes logN times
-
-====Q[Lv] 60%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
-
-well-defined problem:)
-greedy?
-O(1) space probably means swapping
-mutable?
--- with more space, I can use a hashtable to achieve O(N)
--- My O(N) algo {applicable for any-size integers and also other than "three"}: Pick a random pivot and partition in O(N) time and O(1) space. Also keep track how many repetitions of the pivot value (probably 3). Exclude the pivot value, count size of both partitions and discard the one whose size=3X. Repeat.
-
-====Q[c !e L !v] 50%: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'. No dot !
-I think we can modify the existing solution. No need for an optimal solution
-
-=====Q[L] 60%: Given an array nums of K integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero. Doable in O(KK)
-%%A: separate into (M) non-negatives and (N) negatives. M+N=K. get (NN) pairs among negatives .... and look up the sum in a pre-populated hash table of M items.
-O(NN + MM), smaller than O( [N+M]^2 )
-test in leetcode? No obligation
-
