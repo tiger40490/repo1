@@ -50,6 +50,9 @@ classic memoization-DP problem.
 f(remainingItems, remainingCapacity) is the basic function to write.
 
 I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
+====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
+Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
+
 ====Q[Lv] 80%: classic generator algo: Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
@@ -93,7 +96,3 @@ sort input into 222223444 then create map:
 "si_3" -> a bundle
 
 A major Miletone is when the map is populated with the clubs. Now generate combos ... better use "append" approach.
-
-====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
-Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
-
