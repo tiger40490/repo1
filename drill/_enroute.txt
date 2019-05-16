@@ -17,13 +17,6 @@ lcs(X[3:], Y[8:])) if X[3] != Y[7]. Otherwise, we should also compare
 lcs([X4:], Y[8:])+1
 
 Should use a pair of black/white string to test
-====Q [c DP] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
-
-classic memoization-DP problem.
-
-f(remainingItems, remainingCapacity) is the basic function to write.
-
-I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
 
 ====Q [c str] longest palindrome subarray
 DP problem
@@ -45,6 +38,13 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 
 --solution 1 (not so good): classic generator for all abbr and check each but at some point we may have enough confidence to terminate the search
 
+====Q [c DP] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
+
+classic memoization-DP problem.
+
+f(remainingItems, remainingCapacity) is the basic function to write.
+
+I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
 ====Q[Lv] 80%: classic generator algo: Leetcode problem 17... Given a string containing digits from 2-9 inclusive, return all possible letter combinations (not permutations) that the number could represent.
 
 2: abc
