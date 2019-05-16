@@ -95,5 +95,5 @@ sort input into 222223444 then create map:
 A major Miletone is when the map is populated with the clubs. Now generate combos ... better use "append" approach.
 
 ====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
-Not so easy when the word is not sorted and contains dupe letters. I think hashtable is needed
+Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
 
