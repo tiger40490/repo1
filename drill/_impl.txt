@@ -1,3 +1,32 @@
+====Q [c DP] rod-cutting problem (from Rahul, simpler than knapsack problem): Given a single rod of 10m, also given a price table for pieces like 2m, 5m etc, optimize for total value. A stub (too small) is worthless.
+
+f(remainingLen) is the memoization function to write.
+
+Always start with pieces of highest density (:=price/len)...
+
+"Formula" means something like 2+2+3+5. Should be sorted by density.
+
+As soon we get no stub, we found the optimal "formula"... game over
+--can we reduce recursion depth if we keep cutting in a while loop?
+====Q [c DP] knapsack problem: we are given a fixed set of n items, where each item i is specified by a size s[i] and a value v[i]. 
+We are also given a size bound S (the size of our knapsack). 
+The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
+
+(A minor variation -- minimum size for a total value up to V)
+
+Different from rod-cutting -- can't create multiple clones of item3
+
+classic memoization-DP problem. I think there's recursion in a loop.
+f(remainingItems, remainingCapacity) is the basic function to write.
+
+I would want to sort the items by "density" of value, so i always take the densest item unless it doesn't fit
+
+Forget about bottom-up. First get the top-down to work on a few test cases.
+
+Q: Recursion ends when remainingCapacity becomes zero? The sequence of combinations to try is basically greedy.
+
+Q: Suppose the s[i] and v[i] can be fractional, How do I avoid trying out all allowed combinations? 
+
 ====generic_factorize.py to use yield
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember
 
