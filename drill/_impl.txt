@@ -1,3 +1,6 @@
+====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but it may not be appropriate or easy to remember
+====generic_factorize.py to use yield
+
 ====Q: insertion sort quick-n-dirty but correct
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
