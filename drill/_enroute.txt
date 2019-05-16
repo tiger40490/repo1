@@ -63,10 +63,9 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 
 Output need not be sorted but I would aim to print each word as sorted and also print all words in ascending order
 
---yield-generator can help. Is this the "redraw" algo?
+--yield-generator redrawC() generates ... 
 input "88" we have 6 combos? tt tu tv uu uv vv
-input "888" we have 8 combos? ttt ttu ttv tuu tuv uuu uuv vvv
-input "8888"
+input "888" we have 10 combos? ttt ttu ttv tuu tuv tvv uuu uuv uvv vvv
 
 --we need good variable names. 
 For the 9 digits, every digit is immediately mapped to a name string like '2' -> "er" and I hope not to use the digits any more.
