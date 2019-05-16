@@ -1,5 +1,14 @@
+--MLP vs non-finance
+Risk is the main factor. 
+
+For MLP, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and and older.
+
+for a non-finance, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
+
+I would still stay away from banks (including SCB) to safeguard my reputation
+
 --dual effort:
-effort 1: select what type of jobs to try. If I try the ibank java roles I would get some offers and get caught up
+effort 1: select what type of jobs to try. 
 effort 2: capture the momentum for coding drill + QQ, hopefully with long term boost
 
 --notes on hibernate timing

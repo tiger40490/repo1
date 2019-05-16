@@ -6,6 +6,9 @@
 ====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
 
+====continuousSentence: 
+memoization for my recursive-in-loop?
+
 ====(cpp) water container
 ====2-pivot partition
 ====[Lv] serialize/deserialize binTree
@@ -13,6 +16,5 @@ thick->thin? not yet.
 =========== c++lang features
 
 ====oq in shPtrDowncast
-====my own vector::insert() at SIG
 ====my rvr experiments
 ====my enable_if_t experiments

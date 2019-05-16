@@ -2,7 +2,14 @@
 [e=ez]
 [L=leetcode]
 [v=easy to verify]
+
+The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
+* language features
+* pure algo
+* simple speed-coding problems
  
+====Q [c DP] given the first N natural numbers, how many BST can you form?
+
 ====Q [c DP] LCS: longest common subsequence (not sub-string) between two strings X and Y
 classic DP problem.
 
@@ -47,14 +54,26 @@ Always start with pieces of highest density (:=price/len)...
 "Formula" means something like 2+2+3+5. Should be sorted by density.
 
 As soon we get no stub, we found the optimal "formula"... game over
-====Q [c DP] knapsack problem: we are given a set of n items, where each item i is specified by a size s[i] and a value v[i]. We are also given a size bound S (the size of our knapsack). The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
+--can we reduce recursion depth if we keep cutting in a while loop?
+====Q [c DP] knapsack problem: we are given a fixed set of n items, where each item i is specified by a size s[i] and a value v[i]. 
+We are also given a size bound S (the size of our knapsack). 
+The optimization goal is to find the subset of items of maximum total value such that sum of their sizes is at most S (they all fit into the knapsack)
 
-classic memoization-DP problem.
+(A minor variation -- minimum size for a total value up to V)
 
+Different from rod-cutting -- can't create multiple clones of item3
+
+classic memoization-DP problem. I think there's recursion in a loop.
 f(remainingItems, remainingCapacity) is the basic function to write.
 
-I would want to sort the items by "density" of gold, so i always take the densest item unless it doesn't fit
---can we reduce recursion depth if we keep cutting in a while loop?
+I would want to sort the items by "density" of value, so i always take the densest item unless it doesn't fit
+
+Forget about bottom-up. First get the top-down to work on a few test cases.
+
+Q: Recursion ends when remainingCapacity becomes zero? The sequence of combinations to try is basically greedy.
+
+Q: Suppose the s[i] and v[i] can be fractional, How do I avoid trying out all allowed combinations? 
+
 ====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
 
