@@ -1,4 +1,12 @@
 --no blogpost
+The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
+* language features
+* pure algo
+* simple speed-coding problems
+--no blogpost
+some elegnt solutions are not optimal
+
+--no blogpost
 moving-window max -- why my showman idea was not developed into the deque solution?
 
 --new blogpost: new problems!=the best drill
