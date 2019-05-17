@@ -15,6 +15,11 @@ DP problem
 Is there an O(N) solution? Manacher's algorithm, but most solutions out there are O(NN)
 
 I have written a non-DP solution
+
+--new idea:
+O(N) scan to identity all the "runs". Save each in a struct{char, start, end}
+O(N) scan to identify all the ABA clusters. Save each in a struct(charMid, charSide, MidPos)
+It's possible for two identical runs to be actually part of a palindrome. If we can identify such a pattern then we would want to locate the center n start scanning therefrom
 ====Q [c str] longest palindrome subsequence (not subarray)
 if there's an elegant idea then I should try then read it. 
 
