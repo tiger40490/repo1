@@ -1,4 +1,15 @@
-====Q[L312]: 0%: not really classic : Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array "nums". You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
+==what's more important?
+coding drill momentum capture before it fades 
+sleep early
+boot camp
+diet? I will allow myself to eat some starch but need to limit ice cream and chocolates
+
+Don't want till flight time to capture your coding drill motivation. The motivation would likely fade away
+
+If you find your motivation in string problems, or DP, don't worry about over-spending. Just capture the motivation.
+
+====balloon burst DP optimization #50%
+Q[L312]: not really classic : Given n (up to 500) balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array "nums". You are asked to burst all the balloons one by one. If the you burst balloon i you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then becomes adjacent. Find the maximum coins you can collect by bursting the balloons wisely.
 
 If you burst a leftmost balloon, you collect 1*it*rightNeighbor coins. In other words, when multiplying 3 numbers, any absentee is a one.
 
