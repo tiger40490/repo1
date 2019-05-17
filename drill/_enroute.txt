@@ -4,7 +4,9 @@
 [v=easy to verify]
  
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
-
+how do you make use of the previous results for N=2 to tackle N=3?
+N=2: ans=2
+N=3: need to draw them to see patterns
 ====Q [c str] longest palindrome subarray
 A G100, not G50 classic. There's a sub-optimal DP solution. 
 Is there an O(N) solution? Manacher's algorithm, but most solutions out there are O(NN)
@@ -27,6 +29,7 @@ O(N) scan to identity all the "runs". Save each in a struct{char, start, end}
 O(N) scan to identify all the ABA clusters. Save each in a struct(charMid, charSide, MidPos)
 It's possible for two identical runs to be actually part of a palindrome. If we can identify such a pattern then we would want to locate the center n start scanning therefrom
 ====Q [c str] longest palindrome subsequence (not subarray)
+Any DP solution?
 if there's an elegant idea then I should try then read it. 
 
 Syntax should be light.
