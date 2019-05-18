@@ -2,7 +2,7 @@
 A: Yes in terms of 1) reputation risk and 4) salary
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++
 
-How about s DRW offer
+How about a DRW offer?
 --MLP vs non-finance
 Risk is the main factor. 
 
@@ -11,6 +11,10 @@ For MLP, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard
 for a non-finance, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
 
 I would still stay away from banks (including SCB) to safeguard my reputation
+
+--shluld consider trying ByteDance and GoJack just to practice dealing with these non-finance shops
+
+Avoid the coding assignment due to tcost
 
 --dual effort:
 effort 1: select what type of jobs to try. 
