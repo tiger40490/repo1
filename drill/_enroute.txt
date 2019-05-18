@@ -28,6 +28,18 @@ Updating the data structure at a new position? check each grower and remove any 
 O(N) scan to identity all the "runs". Save each in a struct{char, start, end}
 O(N) scan to identify all the ABA clusters. Save each in a struct(charMid, charSide, MidPos)
 It's possible for two identical runs to be actually part of a palindrome. If we can identify such a pattern then we would want to locate the center n start scanning therefrom
+--new idea
+At each position, maintain a queue of  struct {le, ri}. By construction, the earliest queue item is longest.
+
+After advancing the current ptr (i), we attempt to update the earliest sturct. Failure would pop it and start a "cleanup" routine --
+
+* for the next item in queue, update the struct from newri = i and moving leftward until newri hits ri. We pop this item unless it is still alive.
+** if le + ri - i < 0 then immediately failure 
+** if s[newri] != s[le+ri-newri] then failure
+** if not popped, then update ri=newri
+* IIF we pop this item, then we update the next item in queue
+* at end of the routine, we would always have at least one item in queue i.e. struct{i,i}
+
 ====Q [c str] longest palindrome subsequence (not subarray)
 Any DP solution?
 if there's an elegant idea then I should try then read it. 
@@ -41,7 +53,6 @@ eg philippines -> pilip
 To keep things simple just assume there are only 26 chars
 
 Can we safely remove some char to reduce the problem to a smaller problem?
-
 
 --one-scan algo:
 maintain all the growers as we scan forward. For a new char , attempt to grow some growers.
