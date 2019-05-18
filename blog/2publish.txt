@@ -1,13 +1,3 @@
-==what's more important this weekend?
-coding drill momentum capture before it fades 
-sleep early
-boot camp
-diet? I will allow myself to eat some starch but need to limit ice cream and chocolates
-
-Don't want till flight time to capture your coding drill motivation. The motivation would likely fade away
-
-If you find your motivation in string problems, or DP, don't worry about over-spending. Just capture the motivation.
-
 --new blogpost: new problems!=the best drill
 i used to focus on how many new problems solved each week, but that's very challenging and not necessarily most effective.
 
