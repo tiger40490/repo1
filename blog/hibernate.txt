@@ -1,3 +1,8 @@
+--Q: is MLP better than SCB?
+A: Yes in terms of 1) reputation risk and 4) salary
+A: No in terms of 2) coworkerBenchmark/stigma 3) c++
+
+How about s DRW offer
 --MLP vs non-finance
 Risk is the main factor. 
 
