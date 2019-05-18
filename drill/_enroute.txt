@@ -9,25 +9,6 @@ N=2: ans=2
 N=3: need to draw them to see patterns
 ====Q [c str] longest palindrome subarray
 A G100, not G50 classic. There's a sub-optimal DP solution. 
-Is there an O(N) solution? Manacher's algorithm, but most solutions out there are O(NN)
-
-I have written a non-DP solution
-
---new idea:
-at each position, try to maintain all the growing palindromes in a "alive/grower" queue (or slist).
-
-With this data structure, when the longest alive ends at position 5, we immediately have a new longest alive. At a minimum, the position 5 itself is alive
-
-Each entry in the "grower" data structure is an int representing the left end position of a grower
-
-What if i get a run of 3 Xs? Then keep that many growers in the data structure?
-
-Updating the data structure at a new position? check each grower and remove any dead
-
---new idea:
-O(N) scan to identity all the "runs". Save each in a struct{char, start, end}
-O(N) scan to identify all the ABA clusters. Save each in a struct(charMid, charSide, MidPos)
-It's possible for two identical runs to be actually part of a palindrome. If we can identify such a pattern then we would want to locate the center n start scanning therefrom
 --new idea
 At each position, maintain a queue of  struct {le, ri}. By construction, the earliest queue item is longest.
 
