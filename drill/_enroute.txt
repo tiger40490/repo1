@@ -29,10 +29,6 @@ Each grower keeps an hashtable (or array) or unused chars to the left. Each entr
 Once a grower is recognized, it never gets disqualified
 
 If this works it is again using auxDS, my strength
---solution 1 (not so good): classic generator for all abbr and check each but at some point we may have enough confidence to terminate the search
-
-2^N abbr, so a lot of strings to test
 
 ====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
-
