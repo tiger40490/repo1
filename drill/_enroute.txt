@@ -3,8 +3,35 @@
 [L=leetcode]
 [v=easy to verify]
  
-====union find problems
-====word ladder
+====union-find problems
+====Q [L127] word ladder
+Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
+
+* Only one letter can be changed at a time.
+* Each transformed word must exist in the word list. Note that beginWord is not a transformed word.
+* Return 0 if there is no such transformation sequence.
+* All words have the same length.
+* All words contain only lowercase alphabetic characters.
+* You may assume no duplicates in the word list.
+Example 1:
+beginWord = "hit",
+endWord = "cog",
+wordList = ["hot","dot","dog","lot","log","cog"]
+Output: 5
+Explanation: As one shortest transformation is "hit" -> "hot" -> "dot" -> "dog" -> "cog",
+return its length 5.
+
+Example 2:
+beginWord = "hit"
+endWord = "cog"
+wordList = ["hot","dot","dog","lot","log"]
+Output: 0
+
+--analysis: 
+First scan O(NN)to build the graph. Given an existing graph of N words (N can be 1), a new word is compared to each to construct the edge list.
+
+2nd scan O(N+E) BFT
+
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
 N=2: ans=2
