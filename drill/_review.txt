@@ -5,6 +5,9 @@
 
 ====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
+====zebra.py is eg of union-find.
+
+Other union-find problems might be harder than this.
 
 ====continuousSentence: 
 memoization for my recursive-in-loop?
