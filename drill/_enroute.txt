@@ -3,6 +3,8 @@
 [L=leetcode]
 [v=easy to verify]
  
+====union find problems
+====word ladder
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
 N=2: ans=2
