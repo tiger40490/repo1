@@ -7,19 +7,6 @@
 how do you make use of the previous results for N=2 to tackle N=3?
 N=2: ans=2
 N=3: need to draw them to see patterns
-====Q [c str] longest palindrome subarray
-A G100, not G50 classic. There's a sub-optimal DP solution. 
---new idea
-At each position, maintain a queue of  struct {le, ri}. By construction, the earliest queue item is longest.
-
-After advancing the current ptr (i), we attempt to update the earliest sturct. Failure would pop it and start a "cleanup" routine --
-
-* for the next item in queue, update the struct from newri = i and moving leftward until newri hits ri. We pop this item unless it is still alive.
-** if le + ri - i < 0 then immediately failure 
-** if s[newri] != s[le+ri-newri] then failure
-** if not popped, then update ri=newri
-* IIF we pop this item, then we update the next item in queue
-* at end of the routine, we would always have at least one item in queue i.e. struct{i,i}
 
 ====Q [c str] longest palindrome subsequence (not subarray)
 Any DP solution?
