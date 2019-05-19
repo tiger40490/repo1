@@ -9,24 +9,22 @@ N=2: ans=2
 N=3: need to draw them to see patterns
 
 ====Q [c str] longest palindrome subsequence (not subarray)
-Any DP solution?
 if there's an elegant idea then I should try then read it. 
 
-Syntax should be light.
-I think some non-optimal solution is feasible. start with some good (extreme) examples
-eg alabama -> aabaa
-eg mississippi -> ississi
-eg philippines -> pilip
-
-To keep things simple just assume there are only 26 chars
+To keep things simple just assume there are only 3 unique chars
 
 Can we safely remove some char to reduce the problem to a smaller problem?
 
---one-scan algo:
-maintain all the growers as we scan forward. For a new char , attempt to grow some growers.
-Each grower keeps an hashtable (or array) or unused chars to the left. Each entry is {unused char -> sorted stack of positions}
+--DP idea
+as we increment a forward marker, we keep all growers.
 
-Once a grower is recognized, it never gets disqualified
+Each grower keeps a hashtable (or array) of unused chars on its left. Each entry is {unused char -> sorted stack of positions}
+
+As we increment the iterator, we first grow the leading pack of longest growers. In fact, I might pick one grower only [1]. IIF all of them stop growing, then we look at the next pack of next-longest prowers.
+
+[1] I pick the lowest Member.ri value
+
+grower is kinda immutable. Always clones itself before it grows.
 
 If this works it is again using auxDS, my strength
 

@@ -1,6 +1,6 @@
 
 ====generic_factorize.py to use yield
-====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember
+====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
 
 ====Q: insertion sort quick-n-dirty but correct
 ====Q[Lv] 60%: Given array of integers, every element appears three times except for one, which appears exactly once. Find that single one in a linear runtime. Could you implement it without using extra memory?
