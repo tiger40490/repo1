@@ -3,7 +3,40 @@
 [L=leetcode]
 [v=easy to verify]
  
-====union-find problems
+====Q [L547] union-find problem: 
+There are N students in a class. Some of them are friends, while some are not. If A is a direct friend of B, and B is a direct friend of C, then A is an indirect friend of C. And we defined a friend circle is a group of students who are direct or indirect friends.
+
+Given a N*N matrix M representing the friend relationship between students in the class. If M[i][j] = 1, then the ith and jth students are direct friends with each other, otherwise not. And you have to output the total number of friend circles among all the students.
+
+--analysis:
+assign unique id to each circle. Challenge is merge.
+
+Rated "medium" on leetcode but clearly easier than many "easy" questions. Clearly this is a data-structure question ... my traditional stronghold.
+
+--design 1:
+Circle class{ circleId, vector(presized) of studentId}
+map{studentId -> circleId}
+
+When we merge two circles, the smaller circle's students would update their circuleId. Iterative over all students in that small circle
+
+--design 2:
+Same map, but Circle class is now {circleId, parentCircleId (default -1)}
+The acquired circle will have this field set to a top-level circleId... Path compression as in disjoint set. 
+The merge would only update this one field in one object.
+
+Scenario:
+circles AA, BB, CC created
+circle a2 acquired by AA
+circle a3 acquired by a2 (branded by AA)
+circle b2 acquired by BB
+a2 and b2 are now merged --> need to update BB as acquired, but do we have to update b2? Suppose I don't.
+circle c2 acquired by CC
+c2 now merging with b2. Now c2 will get branded by AA, and so should the nodes on the path (c2 -> b2 -> BB -> AA) This would speed up future mergers.
+
+* additional field: The vector of studentId is needed only if we need to output the individual students in each circle.
+
+After the data structures are updated, we iterate over all circle objects. Return the top-level circles.
+
 ====Q [L127] word ladder
 Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
 
