@@ -1,3 +1,7 @@
+--new blogpost: single(or two)-str problems 
+usually need some auxDS, otherwise there's not much to work with
+
+However I have no advantage here.
 --no blogpost
 The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
 * language features
