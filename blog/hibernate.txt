@@ -1,3 +1,8 @@
+--dynamic languages in the SG tech shops
+the inet shops remind me of the dotcom days when perl, php, lotus notes, cold fusion all compete with cpp/java.
+
+These dynamic languages have no depth, no accu, would all fall out of favor. The market will have one dominant dynamic language , probably python
+
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk and 4) salary
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++
@@ -12,7 +17,7 @@ Risk is the main factor.
 
 For MLP, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and much older.
 
-for a non-finance, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
+For a non-finance shop, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
 
 I would still stay away from banks (including SCB) to safeguard my reputation
 
