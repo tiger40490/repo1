@@ -1,82 +1,8 @@
-==new blogpost: self-contempt@theoretical strength #QQ #Cheng Shi
-Cheng Shi was the first to point out "你就是比别人强"
-
-eg: My physics was #1 strongest across my entire middle school (a top Beijing middle school) but I often told myself that math was more valuable
-eg: my core-java and c++ knowledge (QQ++) is stronger than most candidates (largely due to absorbency++) but i often say that project GTD is more relevant. Actually, knowledge is more important to an alphs geek
-Eg: I gave my dad an illustration -- medical professor vs GP.  The Professor has more knowledge but GP is more productive at treating "common" cases. Who is a more trusted expert?
-
-==new blogpost: low-level^high-level expertise
-Compare to laymen on the street, I have accumulated fairly deep, specific and demonstrable expertise in 2 lucrative field i.e. software dev + finance
-* concurrency details (not theory) in real languages
-* dStruct choices and nesting
-* dStruct implementations in java/c++/pyhton
-* sockets
-* SQL joins and tuning
-* drv pricing math, VaR statistics, bond math
-
-These trophies are won based on tsn, interviews and personal time investment ... not automatically
-
---low-level vs high-level
-Most of the dev expertise domains are low-level (consequently very specific). I can even teach in these subjects. The more low-level, the rarer is the expertise. The laymen developers have a vague idea of the low-level details, for many reasons.
-
-High-level understanding is often more useful (than low-level, theoretical QQ knowledge) in projects, but in QQ IV, low-level knowledge is differentiator. 
-Practically all (95%+) high-end java/c++ interviews use low-level questions as differentiator. 
-In my dev (not system architect) interviews, they seldom ask high-level stuff like spring rationale, design patterns... 
-I tend to believe these questions can't /separate the crop from the chaff/
-
-The finance dnlg is also a differentiator among developers. The most specific sub-domains are financial math, the architecture and some of the jargon.
- 
-C++ is more low-level than java, which is more low-level than python...
-
-Q: Paradoxically, C and assembly are even more low-level but not more valuable? 
-%%A: Some C knowledge is highly valued. For example, kernel knowledge is high-value and mostly at the level of C, compiler, assembly, and hardware
-%%A: assembly expertise in device drivers or embedded is not really relevant to HFT, and too far from the money
-=====
---new blogpost: competitive strengths have different values
-competitive strength in speed coding contest -- such contest are now more prevalent and the skills are more valued 
-competitive strength in dStruct/algo beyond the classics
-competitive strength in core cpp QQ
-competitive strength in core java QQ -- bigger job market
-competitive strength in socket QQ
-competitive strength in SQL QQ (and perl GTD) -- better than swing 
-competitive strength in math in school -- huge and long-term impact
-competence in localSys -- no long-term impacts, so Ashish's t-investment is unwise
-improvement in yoga and fitness
-
-In each "competitive" case, you build up competitive strength over J years but may lose it in K years. Each strength has very different long-term impacts, not "zero" (transient) as we sometimes perceived them to be.
-
-Any Valuable resources (including a lucrative job) are scarce and invites a competition. Therefore a competitive strength in any one of these domains has long term impact on health, mental aging, stress level, job choices, commute, amount of annual leave.
-
-For a concrete comparison, let's compare speed coding vs math. 
-In school, math is far more valuable. It enhances your physics. There are many competitions in math. 
-After I turned 30, math, in the form of logical and number-theory quizzes, still plays a small part in some job interviews ...
-However, speed coding strength (am building) has such an appreciating value on the high-end competitive interview scene. 
-Over the next 10Y, speed coding will have far more impact on those fronts listed earlier.
-
-However, if you want to invest in building such a strength, beware of huge disappointments.
-You can say every woman's natural beauty has imperfections when you see that woman everyday. This is because our idea of perfect beauty is based on paintings and photos, not live humans. Similarly, every endeavor's ROTI has imperfections compared to our naive, idealized concepts.
-
-If you look for imperfections you will always find some.... but such fixation on imperfections is cynical, demoralizing and unproductive research
-
-Need to zoom into my strategic strengths + long term interests such as low-level, theoretical stuff, pure algo, dstruct, and avoid my weaknesses 
-
-low level QQ -- my strength
-low level investigation using tools + codebase -- my weakness
-picking up new GTD challenges -- my relative weakness
-picking up new IV topic -- my relative strength
-
---new blogpost
-Suppose i invest heavily and become very productive on a local c++system. 
-Or a java, or SQL, or socket, pyhton, tibrv system. 
-Now, any local system uses only a small portion of the language features.. at most 5% of the advanced interview topics on that language. 
-Therefore the experience won't give me confidence to be an expert on the language... but acing multiple QQ interviews does as these interviews compare dozens of candidates across the field. 
-
-I grew very confident of java through this type of external benchmarking, in contrast to internal benchmarking within the local team.
-
 --no blogpost
 i didn't need high salary so badly, so what's the real reasons why I sacrifice so much to re-enter U.S.?
 rebuild confidence about career/financial foundation for next 25Y, since my passive-income/asset/burn-rate profile is far from comfortable
 rebuild self esteem.. stigma?
+
 --no blogpost
 when I get obsessed with brank peer comparison (against "peers" in china), i miss out on all sorts of more important things like kids, ffree, body shape, diet control, wellness, 
 
@@ -88,18 +14,3 @@ I got to this position by building local relationships, learning the localSys an
 .. so it's hard to be confident about repeating the same at another firm
 
 competitive pressure from younger managers
-
---new blogpost: Best use@spare time=still tech learning 
-my trec is mixed. 
-Mirage -- strategic orgro, $roti
-
-My experiments with quant, swing, c#.. were overspent leading to poor ROTI, but no regrets
-
-Luckily socket, python, coding drill, c++ experiments produced better ROTI in terms of self-confidence, thick=>thin/zbs, mobility, broad-base
-
-We can't dismiss $ROTI but I think we really need to look beyond $ROTI -- too elusive. As Mithun put it, java multithreading alone can fetch you highest salary.
-
-I have blogposts on spare time usage. 
-Tech learning (even the non-strategic topics) are among the most productive!
-There's really nothing more worth learning. 
-Every learning direction has naysayers, and virtually all learning efforts have low ROTI besides a defensive reinforcement.
