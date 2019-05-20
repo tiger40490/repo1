@@ -3,7 +3,6 @@
 [L=leetcode]
 [v=easy to verify]
 
-
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
 N=2: ans=2
@@ -15,6 +14,9 @@ if there's an elegant idea then I should try then read it.
 To keep things simple just assume there are only 3 unique chars
 
 Can we safely remove some char to reduce the problem to a smaller problem?
+
+I feel there should be some DP solution as a shorter haystack is definitely easier than a longer haystack
+
 --DP idea
 as we increment a forward marker, we keep all growers.
 
