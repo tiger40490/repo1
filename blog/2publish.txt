@@ -1,3 +1,33 @@
+====Q [L127] word ladder
+Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
+
+* Only one letter can be changed at a time.
+* Each transformed word must exist in the word list. Note that beginWord is not a transformed word.
+* Return 0 if there is no such transformation sequence.
+* All words have the same length.
+* All words contain only lowercase alphabetic characters.
+* You may assume no duplicates in the word list.
+Example 1:
+beginWord = "hit",
+endWord = "cog",
+wordList = ["hot","dot","dog","lot","log","cog"]
+Output: 5
+Explanation: As one shortest transformation is "hit" -> "hot" -> "dot" -> "dog" -> "cog",
+return its length 5.
+
+Example 2:
+beginWord = "hit"
+endWord = "cog"
+wordList = ["hot","dot","dog","lot","log"]
+Output: 0
+
+--analysis: 
+First scan O(NN)to build the graph. Given an existing graph of N words (N can be 1), a new word is compared against each to construct the edge list.
+N(N+1)/2 comparisons. No choice.
+
+2nd scan O(N+E) BFS
+
+To compare two word, char-wise subtraction should be all zero except one char
 ====Q [L547] union-find problem: 
 There are N students in a class. Some of them are friends, while some are not. If A is a direct friend of B, and B is a direct friend of C, then A is an indirect friend of C. And we defined a friend circle is a group of students who are direct or indirect friends.
 
