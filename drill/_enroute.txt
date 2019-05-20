@@ -2,7 +2,6 @@
 [e=ez]
 [L=leetcode]
 [v=easy to verify]
- 
 
 ====Q [L127] word ladder
 Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
@@ -28,9 +27,12 @@ wordList = ["hot","dot","dog","lot","log"]
 Output: 0
 
 --analysis: 
-First scan O(NN)to build the graph. Given an existing graph of N words (N can be 1), a new word is compared to each to construct the edge list.
+First scan O(NN)to build the graph. Given an existing graph of N words (N can be 1), a new word is compared against each to construct the edge list.
+N(N+1)/2 comparisons. No choice.
 
-2nd scan O(N+E) BFT
+2nd scan O(N+E) BFS
+
+To compare two word, char-wise subtraction should be all zero except one char
 
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
