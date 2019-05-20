@@ -48,13 +48,15 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 --DP idea
 as we increment a forward marker, we keep all growers.
 
-Each grower keeps a hashtable (or array) of unused chars on its left. Each entry is {unused char -> sorted stack of positions}
+Each grower keeps a hashtable (or array) of "unused chars on my left". Each entry is {unused char -> sorted stack of positions}. This eliminates the expensive backscan
 
-As we increment the iterator, we first grow the leading pack of longest growers. In fact, I might pick one grower only [1]. IFF all of them stop growing, then we look at the next pack of next-longest prowers.
+Grower class is kinda copy-on-write. Once it sees it can grow (on both ends), it would remember which pos (on its left) then clone itself (incl hashtable) and then updates its hashtable.
 
-[1] I pick the lowest Member.ri value
+As we increment the iterator, we focus on group 6 i.e. the leading pack of longest growers, all length 6. [1] In fact, I might pick one length-6 grower [2]. IFF all of group-6 stop growing, then we look at group-5.
 
-grower is kinda immutable. Always clones itself before it grows.
+[1] as one length-6 grower may keep growing 15 steps assuming there are only 15 chars on the forward scan. In such a case, this grower can safely be declared the winner, without looking at the "other packs"
+
+[2] if this pick stops growing, then I pick another from the leading pack... backtracking?
 
 If this works it is again using auxDS, my strength
 
