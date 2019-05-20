@@ -1,4 +1,11 @@
 
+==new blogpost: self-contempt@theoretical strength #QQ #Cheng Shi
+Cheng Shi was the first to point out "你就是比别人强"
+
+eg: My physics was #1 strongest across my entire middle school (a top Beijing middle school) but I often told myself that math was more valuable
+eg: my core-java and c++ knowledge (QQ++) is stronger than most candidates (largely due to absorbency++) but i often say that project GTD is more relevant. Actually, knowledge is more important to an alphs geek
+Eg: I gave my dad an illustration -- medical professor vs GP.  The Professor has more knowledge but GP is more productive at treating "common" cases. Who is a more trusted expert?
+
 ==new blogpost: low-level^high-level expertise
 Compare to laymen on the street, I have accumulated fairly deep, specific and demonstrable expertise in 2 lucrative field i.e. software dev + finance
 * concurrency details (not theory) in real languages
