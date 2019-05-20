@@ -17,7 +17,18 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 
 I feel there should be some DP solution as a shorter haystack is definitely easier than a longer haystack
 
---DP idea
+--DP idea 2 (efficiency is decent but clarity is outstanding) 
+At each position i in the haystack string, we keep a club of Members each a palindrome subseq ending at i. 
+
+For the next position, this DP algo builds the new club using earlier clubs. We look at each member in each earlier club. All of these members are unique by construction :) 
+
+Member is a COW class, having an array of subscripts representing the subseq, and also a hashtable (or array) of "unused chars on my left". Each entry is {unused char -> sorted stack of positions}. This eliminates the expensive backscan.
+
+If a member can "grow" to use the new char, then this member clones itself, grows and joins the new club. The "growth" shall update the hashtable if growing both ways.
+
+The new char itself is automatically a (trivial) member of this new club.
+
+--DP idea 1
 as we increment a forward marker, we keep all growers.
 
 Each grower keeps a hashtable (or array) of "unused chars on my left". Each entry is {unused char -> sorted stack of positions}. This eliminates the expensive backscan
