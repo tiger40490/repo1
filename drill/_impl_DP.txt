@@ -15,7 +15,9 @@ Forget about bottom-up. First get the top-down to work on a few test cases.
 
 Q: Recursion ends when remainingCapacity becomes zero? The sequence of combinations to try is basically greedy.
 
-Q: Suppose the s[i] and v[i] can be fractional, How do I avoid trying out all allowed combinations? 
+Q: Suppose the s[i] and v[i] can be fractional, How do I avoid trying out all allowed combinations?
+
+I feel impl is too messy and time consuming. Should i just read?
 
 ====Q [c DP] rod-cutting problem (from Rahul, simpler than knapsack problem): Given a single rod of 10m, also given a price table for pieces like 2m, 5m etc, optimize for total value. A stub (too small) is worthless.
 
