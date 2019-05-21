@@ -2,6 +2,8 @@
 
 I think we should read some hints.
 
+std::nth_element is linear on average !
+
 -- idea 5: 95th percentile problem from NYSE
 -- idea 4: multiple scans
 -- idea 3: segments
