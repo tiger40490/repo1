@@ -28,7 +28,6 @@ if 4 is root, there are f(3) left-subtrees and f(5) right-subtrees, giving f(3)*
 This is not coding challenge but math challenge. 
 
 Q2: output all BSTs. We need a way to represent (serialize) a BST?
-
 ====Q [c str] longest palindrome subsequence (not subarray)
 if there's an elegant idea then I should try then read it. 
 
