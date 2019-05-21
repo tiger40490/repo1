@@ -18,18 +18,24 @@ Can we safely remove some char to reduce the problem to a smaller problem?
 I feel there should be some DP solution as a shorter haystack is definitely easier than a longer haystack
 
 ----DP idea 2 (efficiency is decent but clarity is outstanding) 
-At each position i in the haystack string, we keep a Club of Members each a palindrome subseq ending at i. 
+At each position i in the haystack string, we keep a Club of .... "Members" each a palindrome subseq ending at i. 
+Requirement: Every eligible Member must be in the club. 
 
-For the next position, this DP algo builds the new Club using earlier Clubs. We look at each [4] Member in each earlier Club. All of these Members are unique by construction :) Member is a COW class, having 
-* a constant length (const due to COW)
-* an array of subscripts representing the subseq -- no two Member have identical arrays
-* a hashtable (or array) of "unused chars on my left". Each entry is {unused char -> sorted stack of positions}. This eliminates the expensive backscan.
+For the next position after i++, this DP algo builds the new Club using earlier Clubs. We look at each [4] Member in each earlier Club. All of these Members are unique by construction :) Member is a COW class, having 
+* an immutable length
+* an immutable "seq" array of subscripts representing the subseq -- no two Members have identical seq contents
+* an immutable hashtable (or array) of "unused chars on my left". Each entry is {unused char -> sorted stack of positions}. 
+This local optimizatino eliminates the expensive backscan.
 
-The Club is immutable. Conceptually, there's no reason to modify a club once constructed.
+The Club is immutable. Conceptually, there's no reason to modify a Club once constructed.
 
-What do we do when we examine a member? If a Member can "grow" (righward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable if growing both ways.
+What do we do when we examine a Member? If a Member can "grow" (righward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable if growing both ways.
 
-The new char itself is automatically a (trivial) Member of this new Club.
+The new char itself is automatically a (trivial) Member of this new Club. Cruciallly, this is how a new palindrome subsequence gets created.
+
+At any time, before i++, the latest constructed Club has all the palindrome subseq ending at i. 
+Similar invariants hold for earlier Clubs. 
+This level of complete control is kinda remarkable, thanks to the elegance of this dP algorithm.
 
 --[4] An implementation trick -- The default implementation would examine every known Member but we can be lazier. As we increment i, we will focus on Group-6 i.e. the leading pack of longest Members, all length 6, across all Clubs. One Group-6 Member might keep growing 15 steps where there are only 15 chars on the forward scan. In such a case, this Member can safely be declared the winner, without looking at the "other" Groups
 
