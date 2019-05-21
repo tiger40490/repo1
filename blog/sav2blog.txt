@@ -1,12 +1,6 @@
---truth-about-fintech seminar
-infrastructure play 
-disruptive
-eg: block chain
-eg: clearing and settlement
-* (operational) efficiency
-institutional vs consumer segments
+--books for flight
+TMP? rare curiosity. I can leave the book in SG
 
-"fintech" is mostly about start-up
 --no blogpost:
 many random adversities to fall on us throughout our everyday lives. 
 Each individual is better at handling some categories of adversities. 
@@ -48,6 +42,15 @@ legal risks to security traders
 legal risks to sales people
 legal risks about intellectual property such as stealing code
 
+--truth-about-fintech seminar
+infrastructure play 
+disruptive
+eg: block chain
+eg: clearing and settlement
+* (operational) efficiency
+institutional vs consumer segments
+
+"fintech" is mostly about start-up
 --no blogpost
 When I get the mtv for coding drill, i can sacrifice diet, sleep or yoga, but not a billable day.
 when I get the mtv for QQ including algoQQ and coding experiments, I can sacrifice sleep but not yoga
