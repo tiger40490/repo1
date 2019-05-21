@@ -3,6 +3,13 @@
 [L=leetcode]
 [v=easy to verify]
 
+====Q (update existing code) serialize a BST
+Use addr as node id
+Each node is serialized as "id|val|leftId|rightId", so order doesn't matter.
+
+Can we make do without id and use the sequence to save/recontruct the tree structure?
+I can output layer by layer. If 2nd layer has no missing node, then 3rd layer consist of exactly 4 nodes, using a sentinel value for NUL. If 2nd node is NUL like (A/NUL/C/D, then the next layer would have "2 child nodes for A, 2 child nodes for C, 2 child nodes for D"
+
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
 f(z) denotes count of unique BSTs consisting of the fist z natural number
