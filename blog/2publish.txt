@@ -1,3 +1,8 @@
+--update blogpost: rbtree^priorityQ
+rbtree mass-insert is O(N), right? (same as heap)
+
+standardize terminology to priorityQ, not "heap"
+
 ====Q [L127] word ladder
 Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
 
