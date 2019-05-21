@@ -41,6 +41,7 @@ This level of complete control is kinda remarkable, thanks to the elegance of th
 
 In fact, I might pick one length-6 Member. But if this pick stops growing, then I pick another from the leading pack... backtracking? IFF all of Group-6 stop growing, then we look at Group-5.
 
+I feel this may not work so well, since there's a high chance that some group-1 Member has the best potential. The current length of a Member is not a good predictor of ultimate lengh. 
 ----DP idea 1
 as we increment a forward marker, we keep all growers.
 
