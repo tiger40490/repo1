@@ -1,18 +1,16 @@
 --new blogpost: single(or two)-str problems 
 usually need some auxDS, otherwise there's not much to work with
 
-However I have no advantage here.
---no blogpost
-The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
-* language features
-* pure algo
-* simple speed-coding problems
+However I have no advantage with the auxDS.
+
 --no blogpost
 some elegant solutions are not optimal but still welcome by interviewers
 
 --no blogpost
 moving-window max -- why my showman idea was not developed into the deque solution?
---new blogpost 1^2-pass algos
-90% of the time 2-pass algo is simpler conceptually.
 
-However, in my 2-pivot partition algo, a single-pass was simpler??
+--no blogpost
+The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
+* language features
+* pure algo
+* simple speed-coding problems
