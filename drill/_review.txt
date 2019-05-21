@@ -9,9 +9,7 @@ Each node is serialized as "id|val|leftId|rightId"
 ====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
 ====zebra.py is eg of union-find.
-====shortest substr containing a bag of chars
 Other union-find problems might be harder than this.
-
 ====continuousSentence: 
 memoization for my recursive-in-loop?
 
