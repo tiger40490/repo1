@@ -1,6 +1,7 @@
---update blogpost: rbtree^priorityQ
-rbtree mass-insert is O(N), right? (same as heap)
+--ask Shuo:
+is your China income tax more than U.S.?
 
+--update blogpost: rbtree^priorityQ
 standardize terminology to priorityQ, not "heap"
 
 ====Q [L127] word ladder
