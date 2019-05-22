@@ -1,0 +1,9 @@
+====Q (update blog) serialize a BST
+Can we make do without id and design the serialization sequence to save/reconstruct the tree structure?
+I can output layer by layer. 
+If 2nd layer has no missing node, then 3rd layer consists of exactly 4 nodes, using a sentinel value for any NUL. 
+If 2nd node is NUL like [A/NUL/C/D], then the next layer would have "2 child nodes for A, 2 child nodes for C, 2 child nodes for D"
+The 2 child nodes for A could be NUL/NUL
+
+What if all integer values are valid values? 
+I would add a one-bit flag to the serialized payload.
