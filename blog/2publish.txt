@@ -1,5 +1,6 @@
+135.2 lbs @ 21May on sliding scale 
 --ask Shuo:
-is your China income tax more than U.S.?
+is your China income tax rate more than U.S.?
 
 --update blogpost: rbtree^priorityQ
 standardize terminology to priorityQ, not "heap"
@@ -31,6 +32,8 @@ Output: 0
 First scan O(NN)to build the graph. Given an existing graph of N words (N can be 1), a new word is compared against each to construct the edge list.
 N(N+1)/2 comparisons. No choice.
 
+At the end of this phase, if beginWord and endWord are disjoint then return 0. However i see no simple way to check it.
+
 2nd scan O(N+E) BFS
 
-To compare two word, char-wise subtraction should be all zero except one char
+To compare two word, char-wise subtraction should give all zero except one char
