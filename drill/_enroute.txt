@@ -4,9 +4,6 @@
 [v=easy to verify]
 
 ====Q (update blog) serialize a BST
-Use addr as node id
-Each node is serialized as "id|val|leftId|rightId", so sequence doesn't matter.
-
 Can we make do without id and design the serialization sequence to save/reconstruct the tree structure?
 I can output layer by layer. 
 If 2nd layer has no missing node, then 3rd layer consists of exactly 4 nodes, using a sentinel value for any NUL. 
