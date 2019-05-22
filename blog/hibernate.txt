@@ -1,22 +1,23 @@
 --HFT interviews will take precious time but i won't join them... better postpone
 mobile app shops ... are lighter load for me.
 
-need to economize on my time as my time is precious
+need to economize on my time as my time is scarce. Coding drill is far more productive than resume-customization
+
+ould consider trying ByteDance and GoJack just to practice dealing with these non-finance shops
+
+Avoid the coding assignment due to tcost
 
 --v.tanSgVol.doc:
 need to reduce financial jargon
---dynamic languages in the SG tech shops
-the inet shops remind me of the dotcom days when perl, php, lotus notes, cold fusion all compete with cpp/java.
-
-These dynamic languages have no depth, no accu, would all fall out of favor. The market will have one dominant dynamic language , probably python
-
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk and 4) salary
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++
 
 How about a DRW offer?
-consider seeking some HFT c++ offers after I secure a realistic offer. 
+consider seeking some HFT c++ offers after I secure a realistic offer.
+ 
 If no coding round, then chance of HFT c++ offer is above 50%
+
 I may not join an HFT but an HFT c++ offer would be a boost to my confidence for years to come.
 Remember I did 10+ HFT c++ interviews
 --MLP vs non-finance
@@ -27,10 +28,6 @@ For MLP, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard
 For a non-finance shop, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
 
 I would still stay away from banks (including SCB) to safeguard my reputation
-
---could consider trying ByteDance and GoJack just to practice dealing with these non-finance shops
-
-Avoid the coding assignment due to tcost
 
 --notes on hibernate timing
 get an offer by Sep, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have remaining, the more "attractive" I am among h1 candidates
