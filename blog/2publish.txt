@@ -5,9 +5,9 @@ If 2nd layer has no missing node, then 3rd layer consists of exactly 4 nodes, us
 If 2nd node is NUL like [A/NUL/C/D], then the next layer would have "2 child nodes for A, 2 child nodes for C, 2 child nodes for D"
 The 2 child nodes for A could be NUL/NUL
 
-The id/edgeList based solution is general purpose and efficient. The techniques above are 雕虫小技. Venkat of OC said something similar about regex. 
+The id/edgeList based solution is general purpose and efficient. The techniques above are 雕虫小技. Venkat of OC said something similar about regex state machine. 
 
-Also, disjoint set is a general solution though many problems have simplified union-find solutions.
+In the same vein, disjoint set is a general solution though many problems have simplified union-find solutions.
 
 What if all integer values are valid values? 
 I would add a one-bit flag to the serialized payload.
