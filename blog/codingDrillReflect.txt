@@ -1,3 +1,6 @@
+--I once said if a problem is so original that none of the common technique apply, then I would have an advantage.
+Now I think all the problems ever asked have some optimal solution
+
 --new blogpost: single(or two)-str problems 
 usually need some auxDS, otherwise there's not much to work with
 
