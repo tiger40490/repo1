@@ -12,6 +12,11 @@ In the same vein, disjoint set is a general solution though many problems have s
 What if all integer values are valid values? 
 I would add a one-bit flag to the serialized payload.
 
+--park bike 
+--collect some blog print outs
+--bring some snacks to JFK
+--send luggage to jfk thu evening including books for my carry-on
+
 --sleep where
 #1: office after 6? budget 1.5h commute
 Chinat? heavy luggage:( ... additional commute
@@ -32,3 +37,4 @@ LG2: if books too heavy, just get a taxi
 :) late flight
 :) excellent health
 :) motivation
+:) warmer
