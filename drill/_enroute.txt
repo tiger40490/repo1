@@ -3,8 +3,27 @@
 [L=leetcode]
 [v=easy to verify]
 
-
 ====topo sort: given a directed graph, any linear algo to assign ranks?
+
+rank table -- We can use a hashtable (or pre-sized vector) to store the ranks: {rank -> list of nodes}. Assigning one node means adding the node to the correct list, in O(1)
+
+Assumption 1: the original graph nodes have uplinks but no downlinks. Most common situation.
+
+Assumption 2: the original graph nodes have downlinks but no uplinks.
+
+Scan-1 O(V+E) -- build a hashtable-based two-way edgeSet representation of the graph. For each node, we maintain a hashset of uplinks and a hashset of downlinks. The duplication is needed, based on my knowledge.
+
+Scan-2 O(V) -- assign rank 0 to all top-level nodes. Now we can use the rank table to scan rank-0 nodes
+
+Scan-3 -- Now scan the last assigned rank, rank-0 in this case. For each node in that list, check each downstream child. Unconditionally remove (O(1) thanks to hashset) the uplink from inside the child. After that, If the child has empty hashset of uplinks it is assigned rank 1.
+
+Repeat the last scan.
+
+Every node is assigned only once. Every edge is checked only once or twice.
+
+In this design, I use multiple simple passes and avoid doing too much in one pass. Actually, you can combine Scan-2 and Scan-1.
+
+Can the uplinks hashset become an integer count?
 
 ====Q: a slist has one more link field in each node. It's the address of a random node in the same slist. How do you serialize this linked list?
 
