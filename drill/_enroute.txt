@@ -9,13 +9,15 @@ f(z) denotes count of unique BSTs consisting of the fist z natural number
 f(0)=f(1)=1
 
 * for odd z, express it as z:=2y+1 where y > 0 
-f(2y+1)=[ f(0)*f(2y) + f(1)f(2y-1) + f(2)f(2y-2)... +f(y-1)f(y+1) ]*2 + f(y)f(y)
+f(2y+1)=[ f(a=0)*f(2y) + f(a=1)f(2y-1) + f(2)f(2y-2)... +f(y-1)f(y+1) ]*2 + f(y)f(y)
+
+Note a should increment from 0 up to y-1.
 
 * for even z, express it as z:=2y where y > 0
 f(2y)=[ f(0)*f(2y-1) + f(1)f(2y-2) + f(2)f(2y-3)... +f(y-1)f(y) ]*2
 
 Let's try this formula on f(2)...= 2 good
-Let's try this formula on f(3)...y=1 Formula not good :(
+Let's try this formula on f(3)...=5 y=1
 
 --N=3: 
 if 1 is root, then there are f(2) BSTs

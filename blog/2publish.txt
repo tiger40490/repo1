@@ -7,3 +7,24 @@ The 2 child nodes for A could be NUL/NUL
 
 What if all integer values are valid values? 
 I would add a one-bit flag to the serialized payload.
+
+--sleep where
+#1: office after 6? budget 1.5h commute
+Chinat? heavy luggage:( ... additional commute
+leave office at 4pm and sleep in jfkinn at 5.30 (more likely 6)?
+
+--priority:
+health
+risk of losing things
+LG2: productivity on flight
+** Don't be over-reliant on laptop. It's not so reliable! bring 3-4 books
+LG2: half day leave this Fri is acceptable
+LG2: if books too heavy, just get a taxi
+
+--new conditions this time
+:( heavy luggage ... eating into my sleep and also increasing distraction and increasing risk of mistake
+:( hotel expensive
+:) no work pressure actually
+:) late flight
+:) excellent health
+:) motivation
