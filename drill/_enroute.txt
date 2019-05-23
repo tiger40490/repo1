@@ -3,6 +3,9 @@
 [L=leetcode]
 [v=easy to verify]
 
+
+====topo sort: given a directed graph, any linear algo to assign ranks?
+
 ====Q: a slist has one more link field in each node. It's the address of a random node in the same slist. How do you serialize this linked list?
 
 I think the generic solution works but there is hopefully a more intuitive one -- assign id to each new node in the first scan. 
