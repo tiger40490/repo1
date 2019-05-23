@@ -7,15 +7,15 @@
 
 rank table -- We can use a hashtable (or pre-sized vector) to store the ranks: {rank -> list of nodes of that rank}. Assigning a node means adding the node id to the correct list, in O(1)
 
-Assumption 1: the original graph nodes contain uplinks but no downlinks. Most common situation.
+Assumption 1: the original graph nodes contain uplinks but no downlinks. spreadsheet-model.
 
-Assumption 2: the original graph nodes contain downlinks but no uplinks.
+Assumption 2: the original graph nodes contain downlinks but no uplinks. I think this is Kahn's assumption, like notification call list
 
-In most situations, One of the two assumptions would hold, but rarely both.
+In most situations, One of these two assumptions would hold, but rarely both.
 
-Scan-1 O(V+E) -- build a hashtable-based two-way edgeSet representation of the graph. For each node, we maintain a hashset of uplinks and a hashset of downlinks. The duplication is needed, based on my knowledge.
+Scan-1 O(V+E) -- build a hashtable-based two-way edgeSet representation of the graph. For each node, we maintain a hashset of uplinks and a hashset of downlinks. The duplication is needed, based on my knowledge. However, Kahn's algo uses only the original one-way links.
 
-Scan-2 O(V) -- assign rank 0 to all top-level nodes. Now we can use the rank table to scan rank-0 nodes
+Scan-2 O(V) -- assign rank 0 to all top-level nodes (no uplink). Now we can use the rank table to scan rank-0 nodes
 
 Scan-3 -- Now scan the last assigned rank, rank-0 in this case. For each node in that list, check each downstream child. Unconditionally remove (O(1) thanks to hashset) the uplink from inside the child. After that, If the child has empty hashset of uplinks it is assigned rank 1. I now believe the uplink/downlink is never accessed again, so we can remove both.
 
