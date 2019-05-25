@@ -71,9 +71,18 @@ Say Club-5 (for i=5) has 44 Members, Club-6 has 22 Members, Club-7 has 53 Member
 
 If we can prune the Clubs (treating them as mutable) we can hopefully reduce the total computation cost.
 
-For the purpose, we can keep "packs" of Members. Pack-3 are all the known Members of length 3. This feature doesn't increase run time cost.
+For this purpose, we can keep "Groups" of Members. Group-3 are all the known Members of length 3. This feature doesn't increase run time cost.
+
+We only need two simple variables to start pruning
+* R := remaining chars = len(haystack) - i
+* LeadingPack.len
+LeadingPack.len - R is the pruning criteria. Any pack whose len falls below are hopeless and pruned
+
+Because pruning has the potential to drastically reduce computation, every record breaker is good news, giving us a chance to prune many existing Members.
 
 --An experimental, optimistic technique -- The default implementation would examine every known Member but we can be lazier. As we increment i, we will focus on Group-6 i.e. the leading pack of longest Members, all length 6, across all Clubs. At a given position, when there are only 15 chars on the forward scan, One Group-6 Member might keep growing 15 steps. In that case, this Member can safely be declared the winner, without looking at the "other" Groups.
+
+We would need to remember the original IDs of the Group-6
 
 This is an optimistic algo.
 
