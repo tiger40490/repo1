@@ -1,3 +1,5 @@
+--v.tanSgVol.doc:
+need to reduce financial jargon
 ====Hi Hui Yi,
 I just read Kahn's algorithm for topological sorting and noticed the similarity to my c++ solution. Kahn's algorithm is O(V+E). No other algorithm can beat O(V+E) in terms of scalability.
 

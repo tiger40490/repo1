@@ -3,12 +3,10 @@ mobile app shops ... are lighter load for me.
 
 need to economize on my time as my time is scarce. Coding drill is far more productive than resume-customization
 
-ould consider trying ByteDance and GoJack just to practice dealing with these non-finance shops
+could consider trying ByteDance and GoJack just to practice dealing with these non-finance shops
 
 Avoid the coding assignment due to tcost
 
---v.tanSgVol.doc:
-need to reduce financial jargon
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk and 4) salary
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++
