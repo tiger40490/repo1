@@ -1,10 +1,13 @@
 --new blogpost: assignment^rebind across languages 
-c++ assignment is comparable to a mutator method
-
 for a non-primitive variable, java assignment is always rebinding. Java behavior is well-understood and simple, compared to python.
 
-python assignment is always rebinding in my view, even for an int. Integer is immutable and reference counted.
-In python, if you want two functions to share a single integer object, you can declare global int. 
+c++ assignment is actually well-documented .. comparable to a mutator method
+
+python assignment is always rebinding afaik, even for an int. Integer is immutable and reference counted.
+
+In python, if you want two functions to share a single mutable integer variable, you can declare a global int. 
+It would be in the global idic/namespace
+
 Alternatively, you can wrap the int in a single-element list and call list mutator methods.
 
 See my experiment in github py/88lang
