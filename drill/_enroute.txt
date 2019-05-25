@@ -28,19 +28,6 @@ In this design, I use multiple simple passes and avoid doing too much in one pas
 We treat the original nodes as readonly.
 
 Can the uplinks hashset become an integer count?
-
-====Q: a slist has one more link field in each node. It's the address of a random node in the same slist. How do you serialize this linked list?
-
-I think the generic solution works but there is hopefully a more intuitive one -- assign id to each new node in the first scan. 
-
-first scan to traverse slist and visit all nodes. 
-
-writing to file is only in 2nd scan:
-
-2nd scan visits each node to save the random field along with the host node id
-
-I feel the challenge is ECT
-
 ====Q [c str] longest palindrome subsequence (not subarray)
 if there's an elegant idea then I should try then read it. 
 
