@@ -31,11 +31,11 @@ Can the uplinks hashset become an integer count?
 ====Q [c str] longest palindrome subsequence (not subarray)
 if there's an elegant idea then I should try then read it. 
 
+This problem is probably hard but not so common. Let's not spend too much time
+
 To keep things simple just assume there are only 3 unique chars
 
-Can we safely remove some char to reduce the problem to a smaller problem?
-
-I feel there should be some DP solution as a shorter haystack is definitely easier than a longer haystack
+I feel there should be some DP solution as a shorter haystack is clearly easier than a longer haystack
 
 ----DP idea 2 (efficiency is decent but clarity is outstanding) 
 At each position i in the haystack string, we keep a Club of .... "Members" each a palindrome subseq ending at i. 
@@ -49,7 +49,7 @@ This local optimizatino eliminates the expensive backscan.
 
 The Club is immutable. Conceptually, there's no reason to modify a Club once constructed.
 
-What do we do when we examine a Member? If a Member can "grow" (righward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable if growing both ways.
+What do we do when we examine a Member? If a Member can "grow" (rightward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable if growing both ways.
 
 The new char itself is automatically a (trivial) Member of this new Club. Crucially, this is how a new palindrome subsequence gets created.
 
