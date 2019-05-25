@@ -1,8 +1,5 @@
---review:
-stack-only class? disable operator-new?
-
 --no blogpost
-adding "const" can lead to bewildering template errors
+adding "const" can lead to bewildering template errors that don't show any relation to const
 
 --no blogpost
 # You can put python function body and header on same line :)
