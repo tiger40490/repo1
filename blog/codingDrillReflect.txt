@@ -1,3 +1,15 @@
+--no blogpost: matrix problems are mostly grid problems
+
+--the motivation and joy of coding drill is one of the reasons to feel lucky
+( Comparison -- reading tech books is hard for most peers, but i derive joy and i keep a blog)
+
+However this joy is precious.. more fleeting than tech reading
+
+--new blogpost: classic generator problems (such as combo with redraw, or phonePad...) are not simple for me or for other people. The recursion-in-loop magic is beyond our comprehension.
+
+I feel these algos are building blocks of many problems, both real-world problems and quiz problems.
+
+Many of them are DP problems.
 --I once said if a problem is so original that none of the common technique apply, then I would have an advantage.
 Now I think all the problems ever asked have some optimal solution
 
