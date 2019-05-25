@@ -39,37 +39,8 @@ writing to file is only in 2nd scan:
 
 2nd scan visits each node to save the random field along with the host node id
 
---alternatively
+I feel the challenge is ECT
 
-
-====Q [c DP] given the first N natural numbers, how many BST can you form?
-how do you make use of the previous results for N=2 to tackle N=3?
-f(z) denotes count of unique BSTs consisting of the fist z natural number
-f(0)=f(1)=1
-
-* for odd z, express it as z:=2y+1 where y > 0 
-f(2y+1)=[ f(a=0)*f(2y) + f(a=1)f(2y-1) + f(2)f(2y-2)... +f(y-1)f(y+1) ]*2 + f(y)f(y)
-
-Note a should increment from 0 up to y-1.
-
-* for even z, express it as z:=2y where y > 0
-f(2y)=[ f(0)*f(2y-1) + f(1)f(2y-2) + f(2)f(2y-3)... +f(y-1)f(y) ]*2
-
-Let's try this formula on f(2)...= 2 good
-Let's try this formula on f(3)...=5 y=1
-
---N=3: 
-if 1 is root, then there are f(2) BSTs
-if 3 is root, then there are f(2) BSTs
-if 2 is root, then there are f(1) * f(1) BSTs
---N=9:
-if 1 is root, there are f(8) BSTs
-if 9 is root, there are f(8) BSTs
-if 4 is root, there are f(3) left-subtrees and f(5) right-subtrees, giving f(3)*f(5) BSTs
-
-This is not coding challenge but math challenge. 
-
-Q2: output all BSTs. We need a way to represent (serialize) a BST?
 ====Q [c str] longest palindrome subsequence (not subarray)
 if there's an elegant idea then I should try then read it. 
 
