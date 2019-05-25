@@ -49,7 +49,7 @@ This local optimization eliminates the expensive backscan.
 
 The Club class is immutable. Conceptually, there's no reason to modify a Club once constructed.
 
-What do we do when we examine a Member? If a Member can "grow" (rightward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable if growing both ways.
+What do we do when we examine a Member? If a Member can "grow" (rightward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable IFF growing both ways.
 
 The new char itself is automatically a (trivial) Member of this new Club. Crucially, this procedure is how a new palindrome subsequence gets created.
 
@@ -57,25 +57,26 @@ At any time, before i++, the latest constructed Club includes all the palindrome
 Similar invariants hold for earlier Clubs. 
 This level of complete control is kinda remarkable, thanks to the elegance of this DP algorithm.
 
---[4] An implementation trick -- The default implementation would examine every known Member but we can be lazier. As we increment i, we will focus on Group-6 i.e. the leading pack of longest Members, all length 6, across all Clubs. One Group-6 Member might keep growing 15 steps where there are only 15 chars on the forward scan. In such a case, this Member can safely be declared the winner, without looking at the "other" Groups
+That's a fairly complete solution, but there might exist efficiency improvements.
+
+--pruning the ever-growing Clubs
+Each Club is immutable but at every position we create a new Club.
+
+Say Club-5 (for i=5) has 44 Members, Club-6 has 22 Members, Club-7 has 53 Members. At position 8, We need to examine each Club. However, Some of the Members across the Clubs may be hopelessly short. This can be seen when the unseen section has only 2 chars.
+
+If we can prune the Clubs (treating them as mutable) we can hopefully reduce the total computation cost.
+
+For the purpose, we can keep "packs" of Members. Pack-3 are all the known Members of length 3. This feature doesn't increase run time cost.
+
+--An experimental, optimistic technique -- The default implementation would examine every known Member but we can be lazier. As we increment i, we will focus on Group-6 i.e. the leading pack of longest Members, all length 6, across all Clubs. At a given position, when there are only 15 chars on the forward scan, One Group-6 Member might keep growing 15 steps. In that case, this Member can safely be declared the winner, without looking at the "other" Groups.
+
+This is an optimistic algo.
 
 In fact, I might pick one length-6 Member. But if this pick stops growing, then I pick another from the leading pack... backtracking? IFF all of Group-6 stop growing, then we look at Group-5.
 
-I feel this may not work so well, since there's a high chance that some group-1 Member has the best potential. The current length of a Member is not a good predictor of ultimate lengh. 
-----DP idea 1
-as we increment a forward marker, we keep all growers.
+I feel this may not work so well, since there's a high chance that some group-1 Member has the best potential. The current length of a Member is not a good predictor of ultimate length. 
 
-Each grower keeps a hashtable (or array) of "unused chars on my left". Each entry is {unused char -> sorted stack of positions}. This eliminates the expensive backscan
-
-Grower class is kinda copy-on-write. Once it sees it can grow (on both ends), it would remember which pos (on its left) then clone itself (incl hashtable) and then updates its hashtable.
-
-As we increment the iterator, we focus on group 6 i.e. the leading pack of longest growers, all length 6. [1] In fact, I might pick one length-6 grower [2]. IFF all of group-6 stop growing, then we look at group-5.
-
-[1] as one length-6 grower may keep growing 15 steps assuming there are only 15 chars on the forward scan. In such a case, this grower can safely be declared the winner, without looking at the "other packs"
-
-[2] if this pick stops growing, then I pick another from the leading pack... backtracking?
-
-If this works it is again using auxDS, my strength
+If this algo works it is again using auxDS, my strength
 
 ====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
