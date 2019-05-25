@@ -31,31 +31,31 @@ Can the uplinks hashset become an integer count?
 ====Q [c str] longest palindrome subsequence (not subarray)
 if there's an elegant idea then I should try then read it. 
 
-This problem is probably hard but not so common. Let's not spend too much time
+This problem is probably tough but not so common. Let's not spend too much time
 
 To keep things simple just assume there are only 3 unique chars
 
 I feel there should be some DP solution as a shorter haystack is clearly easier than a longer haystack
 
-----DP idea 2 (efficiency is decent but clarity is outstanding) 
+----DP idea 2 (efficiency is decent but clarity is outstanding -- satisfaction) 
 At each position i in the haystack string, we keep a Club of .... "Members" each a palindrome subseq ending at i. 
 Requirement: Every eligible Member must be in the Club. 
 
-For the next position after incrementing i once, this DP algo builds the new Club using earlier Clubs. We look at each [4] Member in each earlier Club. All of these Members are unique by construction :) Member is a COW class, having 
+For the next position after incrementing i, this DP algo builds the new Club using all earlier ClubS. We look at each [4] Member in each earlier Club. All of these Members are unique by construction :) Member is a COW class, having 
 * an immutable length
-* an immutable "seq" array of subscripts representing the subseq -- no two Members have identical seq contents. The last array element is implicitly i
-* an immutable hashtable (or array) of "unused chars on my left". Each entry is {unused char -> stack of positions}. Note this stack is natually sorted.
-This local optimizatino eliminates the expensive backscan.
+* an immutable "seq" array of subscripts representing the subseq -- no two Members have identical contents in this->seq. The last array element is always i
+* an immutable hashtable (or array) of "unused chars on my left". Each entry is {unused char -> stack of positions}. Note this stack is naturally sorted.
+This local optimization eliminates the expensive backscan.
 
-The Club is immutable. Conceptually, there's no reason to modify a Club once constructed.
+The Club class is immutable. Conceptually, there's no reason to modify a Club once constructed.
 
 What do we do when we examine a Member? If a Member can "grow" (rightward or both ways) to use the new char, then this Member clones itself, grows and joins the new Club. The "growth" shall update the hashtable if growing both ways.
 
-The new char itself is automatically a (trivial) Member of this new Club. Crucially, this is how a new palindrome subsequence gets created.
+The new char itself is automatically a (trivial) Member of this new Club. Crucially, this procedure is how a new palindrome subsequence gets created.
 
 At any time, before i++, the latest constructed Club includes all the palindrome subseq ending at i. 
 Similar invariants hold for earlier Clubs. 
-This level of complete control is kinda remarkable, thanks to the elegance of this dP algorithm.
+This level of complete control is kinda remarkable, thanks to the elegance of this DP algorithm.
 
 --[4] An implementation trick -- The default implementation would examine every known Member but we can be lazier. As we increment i, we will focus on Group-6 i.e. the leading pack of longest Members, all length 6, across all Clubs. One Group-6 Member might keep growing 15 steps where there are only 15 chars on the forward scan. In such a case, this Member can safely be declared the winner, without looking at the "other" Groups
 
