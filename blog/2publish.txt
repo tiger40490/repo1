@@ -1,3 +1,10 @@
+====Hi Hui Yi,
+I just read Kahn's algorithm for topological sorting and noticed the similarity to my c++ solution. Kahn's algorithm is O(V+E). No other algorithm can beat O(V+E) in terms of scalability.
+
+If my solution is indeed similar to Kahn's then it's an optimal algorithm.
+
+Note Kahn's algorithm is simple-looking but implementation will be somewhat hard to read. Therefore, if your reviewers don't like dense code, then blame Kahn.
+
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
 f(z) denotes count of unique BSTs consisting of the fist z natural number

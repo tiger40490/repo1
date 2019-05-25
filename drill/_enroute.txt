@@ -14,7 +14,7 @@ Assumption 2: the original graph nodes contain dependents but no precedents. not
 
 In most situations, One of these two assumptions would hold, but rarely both.
 
-Scan-1 O(V+E) -- build a hashtable-based two-way edgeSet representation of the graph. For each node, we maintain a hashset (or slist) of precedents and a hashset of dependents. The duplication is needed, based on my knowledge. However, Kahn's algo uses only the original one-way links.
+Scan-1 O(V+E) -- build a hashtable-based two-way edgeSet representation of the graph. For each node, we maintain a hashset (or slist) of precedents and a hashset of dependents. The duplication is needed, as described below in the Kahn context. 
 
 Scan-2 O(V) -- assign rank 0 to all top-level nodes (no precedent). Now we can use the rank table to scan rank-0 nodes
 
@@ -24,14 +24,26 @@ Unconditionally remove (O(1) thanks to hashset) the precedent from inside the ch
 After that, If the child has empty hashset of precedents it is assigned rank 1. 
 I now believe the precedent/dependent link is never accessed again, so we can remove both.
 
-Repeat the last scan at rank 1.
+Repeat the last scan at Rank 1, then Rank 2..
 
 Every node is assigned only once. Every edge is checked only once or twice.
 
-In this design, I use multiple simple passes and avoid doing too much in one pass. If needed, you can combine Scan-2 and Scan-1.
-
-We treat the original nodes as readonly.
-
 Can the precedents hashset become an integer count?
+
+-- simplicity
+In this design, I use multiple Simple passes and avoid doing too much in one pass. If needed, you can combine Scan-2 and Scan-1.
+
+We treat the original nodes as readonly -- nice simplification.
+--terminology: 
+precedent/dependent is accurate but abstract.
+"Dependency" is a confusing term. It means someone I depend on. Better avoid this word in graph problems.
+uplink/downlink is visual only in a tree with root on top
+
+--Kahn uses "incoming edge" to mean a precedent
+"All nodes with no incoming edge" ... implies a node object has this->precedents field
+
+When he visits downstream nodes from "current node", he needs this->dependents field
+
+This crucial detail is not explained in wikipedia
 ====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
 Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
