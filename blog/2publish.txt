@@ -93,4 +93,3 @@ In fact, I might pick one length-6 Member. But if this pick stops growing, then 
 I feel this may not work so well, since there's a high chance that some group-1 Member has the best potential. The current length of a Member is not a good predictor of ultimate length. 
 
 If this algo works it is again using auxDS, my strength
-
