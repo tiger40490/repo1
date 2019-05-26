@@ -1,3 +1,10 @@
+--new blogpost:
+I spent 2-4 hours on the knapsack problem. Many would think that's time overspent. This kind of "conventional" view tend to destroy the precious satisfaction.
+
+Some coders complete it in a hurry and move on. They may not compare with the comboSum problem.
+
+They may not learn a lot by doing it quickly. I wouldn't learn much if I do that.
+
 --no blogpost: matrix problems are mostly grid problems
 
 --the motivation and joy of coding drill is one of the reasons to feel lucky
