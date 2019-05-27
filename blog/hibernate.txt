@@ -18,10 +18,10 @@ If no coding round, then chance of HFT c++ offer is above 50%
 
 I may not join an HFT but an HFT c++ offer would be a boost to my confidence for years to come.
 Remember I did 10+ HFT c++ interviews
---MLP vs non-finance
-Risk is the main factor. 
+--HFT vs non-finance
+Risk is the deciding factor. 
 
-For MLP, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and much older.
+For MLP, Tower, Jump etc, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and much older.
 
 For a non-finance shop, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
 
