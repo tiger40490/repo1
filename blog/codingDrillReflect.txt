@@ -1,3 +1,11 @@
+--new blogpost
+I think many (most?) candidates consider IDE coding easier than white-board. I think they rely on IDE as a coding aid.
+
+If on white-board or paper, my relative performance is A-, then on IDE i would score B
+
+my relative weakness on IDE is ECT speed
+my relative strength on white-board is clarity of thought
+
 --new blogpost:
 I spent 2-4 hours on the knapsack problem. Many would consider it overspent. This kind of "conventional" view tend to destroy the precious satisfaction.
 
