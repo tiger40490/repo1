@@ -1,3 +1,4 @@
+====memo(fn, *params) should be extracted as a generic utility
 
 ====generic_factorize.py to use yield
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
