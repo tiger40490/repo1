@@ -1,47 +1,14 @@
 --new blogpost: 
 over a few months, my python ECT speed is now faster than java/c++
 even though I did so many c++ coding problems, my ect speed is still much worse than java
---new blogpost
-I think many (most?) candidates consider IDE coding easier than white-board. I think they rely on IDE as a coding aid.
 
-If on white-board or paper, my relative performance is A-, then on IDE i would score B
-
-my relative weakness on IDE is ECT speed
-my relative strength on white-board is clarity of thought
-
---new blogpost:
-I spent 2-4 hours on the knapsack problem. Many would consider it overspent. This kind of "conventional" view tend to destroy the precious satisfaction.
-
-Some coders complete it in a hurry and move on. They may not compare with the comboSum problem.
-
-They may not learn a lot by doing it quickly. I wouldn't learn much if I do that.
-
---no blogpost: matrix problems are mostly grid problems
-
---the motivation and joy of coding drill is one of the reasons to feel lucky
+--new blogpost: the motivation and joy of coding drill is one of the reasons to feel lucky
 ( Comparison -- reading tech books is hard for most peers, but i derive joy and i keep a blog)
 
 However this joy is precious.. more fleeting than tech reading
 
---new blogpost: classic generator problems (such as combo with redraw, or phonePad...) are not simple for me or for other people. The recursion-in-loop magic is beyond our comprehension.
-
-I feel these algos are building blocks of many problems, both real-world problems and quiz problems.
-
-Many of them are DP problems.
 --I once said if a problem is so original that none of the common technique apply, then I would have an advantage.
 Now I think all the problems ever asked have some optimal solution
-
---new blogpost: single(or two)-str problems 
-usually need some auxDS, otherwise there's not much to work with
-
-However I have no advantage with the auxDS in these problems.
-
---no blogpost
-some elegant solutions are not optimal but still welcome by interviewers
-
---no blogpost
-moving-window max -- why my showman idea was not developed into the deque solution?
-
 --no blogpost
 The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
 * language features
