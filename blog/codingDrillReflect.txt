@@ -1,3 +1,6 @@
+--new blogpost: 
+over a few months, my python ECT speed is now faster than java/c++
+even though I did so many c++ coding problems, my ect speed is still much worse than java
 --new blogpost
 I think many (most?) candidates consider IDE coding easier than white-board. I think they rely on IDE as a coding aid.
 
