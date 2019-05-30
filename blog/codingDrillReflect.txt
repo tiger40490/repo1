@@ -1,14 +1,22 @@
---new blogpost: 
-over a few months, my python ECT speed is now faster than java/c++
-even though I did so many c++ coding problems, my ect speed is still much worse than java
+--no blogpost:
+Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 
---new blogpost: the motivation and joy of coding drill is one of the reasons to feel lucky
-( Comparison -- reading tech books is hard for most peers, but i derive joy and i keep a blog)
+Note my competitors tend to be younger.
+
+I think QQ is mostly a Wall st practice, whereas coding test is mostly a west coast practice
+
+Need to prioritize among the formats as described in google sheet. Leave out speed coding and weekend assignments. This doesn't mean we give up on some fronts. It does mean I accept my limitations as an aging developer
+
+--new blogpost: ECT speed: py^c++
+Over a few months, my python ECT speed is now faster than java/c++.
+Even though I did so many c++ coding problems, my ect speed is still much worse than java
+
+--new blogpost: joy@cod`drill=luck
+the motivation and joy of coding drill (esp. review and refinement) is one of the reasons to feel lucky
+( Comparison -- reading tech books is hard for most peers, but i derive joy and i keep a blog )
 
 However this joy is precious.. more fleeting than tech reading
 
---I once said if a problem is so original that none of the common technique apply, then I would have an advantage.
-Now I think all the problems ever asked have some optimal solution
 --no blogpost
 The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
 * language features
