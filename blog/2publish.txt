@@ -1,6 +1,15 @@
 --v.tanSgVol.doc:
 need to reduce financial jargon
 need to spell out NYSE
+--new blogpost: ECT speed: py^c++
+Over a few months, my python ECT speed is now faster than java/c++.
+Even though I did so many c++ coding problems, my ect speed is still much worse than java
+
+--new blogpost: joy@cod`drill=luck
+the motivation and joy of coding drill (esp. review and refinement) is one of the reasons to feel lucky
+( Comparison -- reading tech books is hard for most peers, but i derive joy and i keep a blog )
+
+However this joy is precious.. more fleeting than tech reading
 ====Q [c DP] given the first N natural numbers, how many BST can you form?
 how do you make use of the previous results for N=2 to tackle N=3?
 f(z) denotes count of unique BSTs consisting of the fist z natural number
