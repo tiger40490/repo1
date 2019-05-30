@@ -1,4 +1,6 @@
---no blogpost: 150k with light load: which FTE
+--no blogpost
+based on recent IV experience (mostly Indeed), i feel my study effort should be 80% coding drill and 20% QQ
+--new blogpost: 150k with light load: which FTE
 some ibanks like OC, Citi, UBS, BONY
 new codebase
 smaller codebase -- like RTS
