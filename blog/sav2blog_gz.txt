@@ -1,12 +1,13 @@
 --no blogpost:
-quant knowledge used to be a big halo, now replaced by coding IV skill like
-
+quant knowledge used to be a halo, now replaced by coding IV skills like
 * DP, recursion
 * data structures
 * speed coding 
 
+I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
 --no blogpost
 based on recent IV experience (mostly Indeed), i feel my study effort should be 80% coding drill and 20% QQ
+
 --new blogpost: 150k with light load: which FTE
 some ibanks like OC, Citi, UBS, BONY
 new codebase

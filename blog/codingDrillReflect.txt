@@ -1,3 +1,6 @@
+--
+Indeed.com challenges based on realistic problems often need non-trivial data structure
+
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 
