@@ -1,6 +1,11 @@
 --
 Indeed.com challenges based on realistic problems often need non-trivial data structure
 
+--new blogpost
+Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
+
+Even with careful selection, i still find it rather futile -- many of the problems I get are not related to my studied probems.
+
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 
