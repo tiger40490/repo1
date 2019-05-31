@@ -1,5 +1,13 @@
 --
 Indeed.com challenges based on realistic problems often need non-trivial data structure
+--sometimes I feel problems without known answers are good since I don't worry about feeling bad 
+--perhaps I should start on new problems, put them on back burners and then read hints
+--integer array problems are often contrived
+--matrix problems are often contrived but very popular
+--new blogpost
+Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
+
+Even with careful selection, i still find it rather futile -- many of the problems I get are not related to my studied problems.
 
 --new blogpost
 Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
@@ -13,7 +21,7 @@ Note my competitors tend to be younger.
 
 I think QQ is mostly a Wall st practice, whereas coding test is mostly a west coast practice
 
-Need to prioritize among the formats as described in google sheet. Leave out speed coding and weekend assignments. This doesn't mean we give up on some fronts. It does mean I accept my limitations as an aging developer
+Need to prioritize 1 or 2 among the formats as described in google sheet. Leave out speed coding and weekend assignments. This doesn't mean we give up on those fronts. It does mean I accept my limitations as an aging developer
 
 The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
 * language features
