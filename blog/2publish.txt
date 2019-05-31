@@ -1,3 +1,8 @@
+--email to redmart
+Hi Hui Yi,
+
+Thanks for the detailed explanation. If you have another coding assignment, I will consider doing it in java. 
+
 --v.tanSgVol.doc:
 need to reduce financial jargon
 need to spell out NYSE
@@ -96,3 +101,5 @@ In fact, I might pick one length-6 Member. But if this pick stops growing, then 
 I feel this may not work so well, since there's a high chance that some group-1 Member has the best potential. The current length of a Member is not a good predictor of ultimate length. 
 
 If this algo works it is again using auxDS, my strength
+--save to contact.txt
+visa checkout tig@gm 100jokes

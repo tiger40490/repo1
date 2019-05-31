@@ -1,3 +1,20 @@
+--update blogpost on long^short term stress
+When my investment (like BGC) is in trouble, the stress is real, but much lower than 10% of the stress due to stigma/pip
+
+If I'm below average in the team, but manager doesn't create a stigma out of it, then I am OK. I can simply tell myself that other guys are very bright and have longer experience with the local system.
+
+--new blogpost: Indeed rejection pain=way below stigma/pip
+I had high hopes, so the pain is proportional to the height, but it's like 1% of the pain from stigma of pip/damagedGood
+
+I do feel inferior in terms of coding test skills, but this feeling is not even 10% of the pain from stigma/pip/damagedGood
+
+--new blogpost: gains from Indeed experience
+* gain -- first hand intuition about what algo topics are possibly out of scope at these interviews
+* gain -- first hand knowledge of young competition
+* gain -- experience with SDI, comparable to Nsdq
+* gain -- real insight into where I'm lacking. battleground experience with tough algo questions. I told my son he needs to embrace himself for the real exams. I think I can improve my battleground performance
+* gain -- some in-depth discussions on age discrimination
+
 --no blogpost:
 quant knowledge used to be a halo, now replaced by coding IV skills like
 * DP, recursion
