@@ -1,8 +1,24 @@
 [c=classic]
 [e=ez]
 [L=leetcode]
+[o=original, not discussed widely]
 [v=easy to verify]
 
+====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
+
+I will call the best pair "left winner" and "right winner"
+
+O(NN) is simple but I think we can achieve O(N)
+
+How about two-pointers moving in?
+How about two-pointers moving forward?
+
+99 88 3 2 3 5 7 5 9< 4 2
+88 99 2 3 5 1 6 3 6 0 1 2 3 
+3 2 1 5 3 2 9 3 1 0 2 6 3 2
+1 0 2 8 6 3 1 7 5 1 4
+
+What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
 ====topo sort: given a directed graph, any linear algo to assign ranks?
 I prefer to use one rank for multiple nodes that can be simultaneously started/concretized/evaluated. This feature can increase flexibility and parallelism
 
