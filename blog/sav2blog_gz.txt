@@ -15,13 +15,6 @@ I do feel inferior in terms of coding test skills, but this feeling is not even 
 * gain -- real insight into where I'm lacking. battleground experience with tough algo questions. I told my son he needs to embrace himself for the real exams. I think I can improve my battleground performance
 * gain -- some in-depth discussions on age discrimination
 
---no blogpost:
-quant knowledge used to be a halo, now replaced by coding IV skills like
-* DP, recursion
-* data structures
-* speed coding 
-
-I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
 --no blogpost
 based on recent IV experience (mostly Indeed), i feel my study effort should be 80% coding drill and 20% QQ
 
@@ -48,3 +41,10 @@ I got to this position by building local relationships, learning the localSys an
 .. so it's hard to be confident about repeating the same at another firm
 
 competitive pressure from younger managers
+--no blogpost:
+quant knowledge used to be a halo, now replaced by coding IV skills like
+* DP, recursion
+* data structures
+* speed coding 
+
+I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
