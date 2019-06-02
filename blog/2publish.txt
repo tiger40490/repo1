@@ -1,8 +1,3 @@
---email to redmart
-Hi Hui Yi,
-
-Thanks for the detailed explanation. If you have another coding assignment, I will consider doing it in java. 
-
 --v.tanSgVol.doc:
 need to reduce financial jargon
 need to spell out NYSE
