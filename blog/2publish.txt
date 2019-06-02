@@ -9,6 +9,12 @@ need to spell out NYSE
 --new blogpost: ECT speed: py^c++
 Over a few months, my python ECT speed is now faster than java/c++.
 Even though I did so many c++ coding problems, my ect speed is still much worse than java
+--new blogpost: 150k with light load: which FTE
+some ibanks like OC, Citi, UBS, BONY
+new codebase
+smaller codebase -- like RTS
+older workforce -- like RTS
+less glamorous -- like RTS, back office
 
 --new blogpost: joy@cod`drill=luck
 the motivation and joy of coding drill (esp. review and refinement) is one of the reasons to feel lucky
