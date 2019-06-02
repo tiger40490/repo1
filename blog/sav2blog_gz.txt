@@ -1,3 +1,5 @@
+--no blogpost:
+so far, during this Memorial trip, I had no motivation (beside the interviews) to study. If you ask me why, I'm too distracted by my son's studies. This one concern acts like a sponge, absorbing all my spare time and mental energy
 --update blogpost on long^short term stress
 When my investment (like BGC) is in trouble, the stress is real, but much lower than 10% of the stress due to stigma/pip
 
@@ -8,7 +10,7 @@ I had high hopes, so the pain is proportional to the height, but it's like 1% of
 
 I do feel inferior in terms of coding test skills, but this feeling is not even 10% of the pain from stigma/pip/damagedGood
 
---new blogpost: gains from Indeed experience
+--new blogpost: gains from Indeed experience #worth the $sacrifice
 * gain -- first hand intuition about what algo topics are possibly out of scope at these interviews
 * gain -- first hand knowledge of young competition
 * gain -- experience with SDI, comparable to Nsdq
