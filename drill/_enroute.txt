@@ -3,6 +3,12 @@
 [L=leetcode]
 [o=original, not discussed widely]
 [v=easy to verify]
+====version resume problem:
+now i feel a big string representing the entire resume will be small. We re not talking about millions of fields and gigabytes of values in each field
+
+--simple design: clone the dict for each version and save it into a vector of pointers. Each update() is O(N) if there were N fields already)
+
+Now I feel they were operating in java mode, so to return entire dict by ref is a O(1). I didn't get the hint from interviewer when he said O(N) read is not necessarily optimal.
 
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 

@@ -1,5 +1,6 @@
---
-Indeed.com challenges based on realistic problems often need non-trivial data structure
+--q: with family distraction, is coding drill easier or blogging?
+I feel coding drill is more rewarding
+
 --sometimes I feel problems without known answers are good since I don't worry about feeling bad 
 --perhaps I should start on new problems, put them on back burners and then read hints
 --integer array problems are often contrived
