@@ -4,6 +4,9 @@ so far, during this Memorial trip, I had no motivation (beside the interviews) t
 When my investment (like BGC) is in trouble, the stress is real, but much lower than 10% of the stress due to stigma/pip
 
 If I'm below average in the team, but manager doesn't create a stigma out of it, then I am OK. I can simply tell myself that other guys are very bright and have longer experience with the local system.
+--no blogpost
+I feel clearly less in-demand as I age. 
+Perhaps I should shift towards domains that young guys avoid -- like c++?
 
 --new blogpost: Indeed rejection pain=way below stigma/pip
 I had high hopes, so the pain is proportional to the height, but it's like 1% of the pain from stigma of pip/damagedGood
@@ -16,8 +19,6 @@ I do feel inferior in terms of coding test skills, but this feeling is not even 
 * gain -- experience with SDI, comparable to Nsdq
 * gain -- real insight into where I'm lacking. battleground experience with tough algo questions. I told my son he needs to embrace himself for the real exams. I think I can improve my battleground performance
 * gain -- some in-depth discussions on age discrimination
---no blogpost
-I feel clearly less in-demand as I age.
 
 --no blogpost
 MLP interview was a speculative effort but now turns out rather important. Because of it I feel more reassured now.
