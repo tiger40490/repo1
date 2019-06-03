@@ -38,7 +38,7 @@ Can we learn from each other the coping strategies including the SMS self-talk?
 --new blogpost: commute becomes a real pain when stressors stack up
 Case: in Apr 2019 the trespass case triggered the reaction and I just wanted to stay home, take rests, research, talk to friends.
 
-These stressors may trigger the same overwhelmed reaction
+These other stressors may trigger the same overwhelmed reaction
 * kids bad exam results
 * family health issues 
 * work project down turn
@@ -55,6 +55,10 @@ legal risks to security traders
 legal risks to sales people
 legal risks about intellectual property such as stealing code
 
+--no blogpost
+When I get the mtv for coding drill, i can sacrifice diet, sleep or yoga, but not a billable day.
+when I get the mtv for QQ including algoQQ and coding experiments, I can sacrifice sleep but not yoga
+
 --truth-about-fintech seminar
 infrastructure play 
 disruptive
@@ -64,9 +68,5 @@ eg: clearing and settlement
 institutional vs consumer segments
 
 "fintech" is mostly about start-up
---no blogpost
-When I get the mtv for coding drill, i can sacrifice diet, sleep or yoga, but not a billable day.
-when I get the mtv for QQ including algoQQ and coding experiments, I can sacrifice sleep but not yoga
-
 --no blogpost
 shenzhen salary: RMB 350k/Y or SGD 6k/M
