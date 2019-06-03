@@ -10,6 +10,9 @@ now i feel a big string representing the entire resume will be small. We re not 
 
 Now I feel they were operating in java mode, so to return entire dict by ref is a O(1). I didn't get the hint from interviewer when he said O(N) read is not necessarily optimal.
 
+--solution with O(1) update: rbtree for each field. Each update appends at only one tree.
+read() requires binary search in each tree. After N updates, total nodes across all trees is N, so we won't need N*logN. We can do better than O(N) since worst case we check every node across all trees.
+
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 
 I will call the best pair "left winner" and "right winner"
