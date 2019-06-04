@@ -4,15 +4,6 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 ====version resume problem:
-now i feel a big string representing the entire resume will be small. We re not talking about millions of fields and gigabytes of values in each field
-
---simple design optimized for O(1) read: 
-Each Update clones the dict for a new version and save the new dict in a vector of pointers. Each update() is O(N) if there were N fields already)
-
-Now I feel interviewer was thinking in java mode, so to return entire dict by ref is O(1). I didn't get the hint from interviewer when he said O(N) read is not necessarily optimal.
---solution optimized for O(1) update: Use a rbtree for each field. Each update appends on one tree. O(1) in STL insert with hint. No such feature in java or python.
-
-Read(verId) requires binary search in each tree. After N updates, total node count across all trees is N, so even a naive search would not exceed O(N). 
 
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 
