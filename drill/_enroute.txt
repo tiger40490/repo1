@@ -1,11 +1,11 @@
 [c=classic]
 [e=ez]
-[C=careercup]
+[cc=careercup]
 [L=leetcode]
 [o=original, not discussed widely]
 [v=easy to verify]
 
-====[C] Q (looks like contrived but very popular): You have k uneven lists of sorted integers. Find the smallest range that includes at least one number from each of the k lists. 
+====[cc] Q (looks like contrived but very popular): You have k uneven lists of sorted integers. Find the smallest range that includes at least one number from each of the k lists. 
 
 For example, 
 List 1: [4, 10, 15, 24, 26] 
@@ -30,18 +30,21 @@ Once we have a new tight window, we remember its size (... and compare it with t
 
 Suppose the left-most item is a clubX item. Now we move the front pointer i.e. right edge of the window, looking for the next clubX item. During this search, we update the table. 
 
-====[C] Q: Given an array of integers. Find two disjoint contiguous sub-arrays such that the absolute difference between the sum of two sub-array is maximum. 
+====[cc] Q: Given an array of signed integers. Find two disjoint contiguous sub-arrays such that the absolute difference between the sum of two sub-array is maximum. 
 * The sub-arrays should not overlap. 
 
 eg: [2 -1 -2 1 -4 2 8] ans: (-1 -2 1 -4) (2 8), diff = 16 
 
 O(n^2) algorithm was not accepted.
+----
+int-array problems are my relative weakness but I have done quite a few. I feel this is more about the algo rather the implementation
 
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 
 I will call the best pair "left winner" and "right winner"
 
-O(NN) is simple but I think we can achieve O(N)
+----
+int-array problem is my relative weakness. O(NN) is simple but I think we can achieve O(N)
 
 How about two-pointers moving in?
 How about two-pointers moving forward?
