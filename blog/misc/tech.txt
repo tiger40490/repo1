@@ -1,3 +1,9 @@
+--new blogpost:
+Tower interviewer asked me to elaborate why I claim java is a very clean language compared to c++ (and c#).
+
+I gave the example of q[=]. In java, this is either content update (for primitive data types) or pointer reseat (for reference types). No ifs or buts.
+
+In c++ q[=] can invoke the copy ctor, move ctor, copy assignment, move assignment, conversion ctor, conversion operator. Its meaning is special for a reference variable in initilization vs update
 --new blogpost: assignment^rebind across languages 
 for a non-primitive variable, java assignment is always rebinding. Java behavior is well-understood and simple, compared to python.
 
