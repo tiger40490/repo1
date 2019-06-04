@@ -1,7 +1,7 @@
 --q: with family distraction, is coding drill easier or blogging?
 I feel coding drill is more rewarding, more satisfying, less guilty
 
---sometimes I feel problems without known answers are good since I don't worry about feeling bad ---> career cup
+--sometimes I feel problems without known answers, without extensive test cases are better since I don't worry about feeling bad. I really don't need the test cases. I just want to find some decent solution, even if incorrect in some cases
 
 career cup also has problem ranking
 
