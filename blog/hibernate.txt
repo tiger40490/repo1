@@ -1,3 +1,16 @@
+--no blogpost:
+now that my job search hits resistance, 
+
+* I feel so lucky to have the comfortable job in mvea team and 
+** the flexibility to work in SGP
+** stable job 
+** although time isn't really on my side... I can afford to wait.
+
+* i feel so lucky to have the mlg offer
+** high salary, proves my worth and earning capacity
+
+* I feel so lucky to have the SCB offer
+** high salary, proves my worth and earning capacity
 --update blogpost(s)
 The pressure to perform would likely create real stress in the family, as i'm not as 'carefree' as in Bayonne.
 
@@ -13,7 +26,7 @@ Safer choices --
 
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk and 4) salary
-A: No in terms of 2) coworkerBenchmark/stigma 3) c++
+A: No in terms of 2) coworkerBenchmark/stigma 3)job security 5) c++ 
 
 How about a DRW offer?
 consider seeking some HFT c++ offers after I secure a realistic offer.
