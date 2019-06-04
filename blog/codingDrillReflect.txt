@@ -1,9 +1,12 @@
 --q: with family distraction, is coding drill easier or blogging?
 I feel coding drill is more rewarding, more satisfying, less guilty
 
---sometimes I feel problems without known answers, without extensive test cases are better since I don't worry about feeling bad. I really don't need the test cases. I just want to find some decent solution, even if incorrect in some cases
+--sometimes I feel problems without known solutions, without extensive test cases are better since I don't worry about feeling bad. 
 
-career cup also has problem ranking
+I used to worry about not knowing correct solutions and wasting my time. 
+Now I know from extensive experience that coming up with my homemade solutions is good enough and rewarding, even if incorrect solutions. 
+I don't need or want to know the correct solution. 
+Further, i'd rather there's no known solution as they destroy my satisfaction
 
 --perhaps I should start on new problems, put them on back burners and then read hints
 --integer array problems are often contrived
