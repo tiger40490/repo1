@@ -1,72 +1,25 @@
 --no blogpost:
 so far, during this Memorial trip, I had no motivation (beside the interviews) to study. 
+
 If you ask me why, I feel too distracted by my son's academic situation. This one concern alone acts like a sponge, absorbing all my spare time and mental energy
+
 --new blogpost
 multiple layers of "protection" always makes me feel secure
 * eg: low BMI + pull up + fitness .. to protect against wellness "hazards". 
 * eg: high fruit/veg low fat/starch diet .. to protect against stress binge
 * eg: plenty of spare time, rather than fully stretched .. to protect against spare time depletion
 * eg: wife able to make a living
-* eg: passive incomes
+* eg: multiple passive incomes
 * eg: c++ in addition to java to provide livelihood
-* eg: many low-cost laptops
---new blogpost
-USD bank balance: I prefer to keep in SG
-USD cash: I prefer to keep in SG as money changer is more competitive than online exchange
+* eg: multiple low-cost laptops
 
---new blogpost:
-many random adversities to fall on us throughout our everyday lives. 
-Each individual is better at handling some categories of adversities. 
-Can we learn from each other the coping strategies including the SMS self-talk?
-* [:)] school problems.. Looking back at MSFM and earlier schools, i had very few problems. 
-** Yixin?
-* driving (parking) can generate more surprises than walking, sitting...
-** car wear-n-tear 
-* medical issues esp. with babies and aged -- inevitable
-** :) sexual health issues are very common .. we are lucky
-* [:)] exercise can generate many unpleasant surprises ... but lack of exercise lead to long-term wellness deterioration. 
-** Also, exercise (incl yoga) make us feel stronger against other adversities
-* loss of belongings 
-* [:)] investment foes... my worries are proportional to the exposure. I have coped well with them so far .. personal strength
-* [:)] immigration problems .. so far I handled them well .. personal strength
-* credit card -- credit score, missed payment...a necessary evil
-* consumer technology (gadgets, services) can generate frustrations, regrettable buys ... complexity.. a necessary evil
-* [:)] job search setbacks -- my big strength, a parachute giving me lots of confidence and freedom from care
-* annual appraisal .. turned out to be my #1 heaviest Blow/stigma/fear
-[:) = lucky or coping well ]
+--email to wife
+为什么我很少打电话给你父母? 因为过去这些年 mis-communication(误会)次数 远远高于顺畅的沟通. 
 
---new blogpost: commute becomes a real pain when stressors stack up
-Case: in Apr 2019 the trespass case triggered the reaction and I just wanted to stay home, take rests, research, talk to friends.
+十年怕井绳, 是因为曾经被蛇咬.
 
-These other stressors may trigger the same overwhelmed reaction
-* kids bad exam results
-* family health issues 
-* work project down turn
-* car problems
-* investment failures
-* immigration issues
-
---new blogpost: legal risks that can tarnish a career
-legal risks to accountants -- sis
-legal risks to doctors like malpractices
-legal risks to car drivers
-reputation risks to renters
-legal risks to security traders
-legal risks to sales people
-legal risks about intellectual property such as stealing code
+无论我说什么话都可能造成误会, 所以我少说, 少接触, 少通话. 要通话, 就只说客套话, 唯恐再次被误解
 
 --no blogpost
 When I get the mtv for coding drill, i can sacrifice diet, sleep or yoga, but not a billable day.
 when I get the mtv for QQ including algoQQ and coding experiments, I can sacrifice sleep but not yoga
-
---truth-about-fintech seminar
-infrastructure play 
-disruptive
-eg: block chain
-eg: clearing and settlement
-* (operational) efficiency
-institutional vs consumer segments
-
-"fintech" is mostly about start-up
---no blogpost
-shenzhen salary: RMB 350k/Y or SGD 6k/M
