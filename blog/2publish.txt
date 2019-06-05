@@ -5,6 +5,19 @@ https://www.booking.com/hotel/us/guest-house-5-min-from-jfk.en-gb.html?aid=30414
 
 https://www.booking.com/hotel/us/cozy-and-quiet.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAEJuAEXyAEV2AEB6AEB-AELiAIBqAIDuAKLtd3nBcACAQ;sid=2b245e910f4b8a8c98c02ab5f2a0e79b;nflt=distance%3D3000%3B;room1=A&;checkin=2019-06-16;checkout=2019-06-17;highlighted_blocks=309416605_164659960_1_0_0;atlas_src=sr_iw_title;from_sr_map=1;from=searchresults;ucfs=1;#map_closed ... is $75 but need taxi both ways. Not refundable
 
+--update blogpost on 随遇而安
+The pressure to perform would likely create real stress in the family, as i'm not as 'carefree' as in Bayonne.
+
+I believe at a high salary or as the first technolgy hire for Julian, expectation would be rather high. Can I withstand the pressure as Saurabh did? I feel some of the past stigmas would come back to haunt me.
+
+Can I have the "courage" to do what Ashish suggested ... in 6 months? Not sure.
+
+Grandpa (and many advisors) said "Do your best and if they decide it's a role mismatch then look for another job". That's basically the Macq and the Qz experience. Too painful. In those two jobs, did I learn coping strategies to manage the pressure? I hope so.
+
+Safer choices -- 
+* stay in NY longer
+* https://bintanvictor.wordpress.com/wp-admin/post.php?post=28830&action=edit
+
 ------new blogpost: versioned dict #indeed
 Q: Suppose a resume/CV consists of key/value pairs of strings. Within a resume, the keys are non-repeating. We need to support two operations -- 
 * Each write(key, value) operation creates or updates a key with a new value, and returns an incremented integer vid i.e. version ID. A version ID represents a point in history, i.e. a snapshot of the resume.
