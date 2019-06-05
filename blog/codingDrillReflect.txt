@@ -1,25 +1,14 @@
 --q: with family distraction, is coding drill easier or blogging?
 I feel coding drill is more rewarding, more satisfying, less guilty
 
---sometimes I feel problems without known solutions, without extensive test cases are better since I don't worry about feeling bad. 
-
-I used to worry about not knowing correct solutions and wasting my time. 
-Now I know from extensive experience that coming up with my homemade solutions is good enough and rewarding, even if incorrect solutions. 
-I don't need or want to know the correct solution. 
-Further, i'd rather there's no known solution as they destroy my satisfaction
-
 --perhaps I should start on new problems, put them on back burners and then read hints
---integer array problems are often contrived
 --matrix problems are often contrived but very popular
 --new blogpost
 Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
 
 Even with careful selection, i still find it rather futile -- many of the problems I get are not related to my studied problems.
 
---new blogpost
-Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
-
-Even with careful selection, i still find it rather futile -- many of the problems I get are not related to my studied probems.
+I feel I need to detach/disengage from the end result (technical wins). Enjoy the journey of focused engagement. Enjoy the self-improvement and self-mastery. 
 
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
