@@ -1,15 +1,22 @@
---update blogpost on long^short term stress
-When my investment (like BGC) is in trouble, the stress is real, but way below 10% of the stress due to stigma/pip
+-new blogpost: explicit^ambiguous performance feedback
+If I'm below average in the team, but manager doesn't create a stigma out of it, then I am OK ... happy and contended. I can simply tell myself that other guys are very bright and have longer experience with the local system.
 
-If I'm below average in the team, but manager doesn't create a stigma out of it, then I am OK. I can simply tell myself that other guys are very bright and have longer experience with the local system.
---no blogpost
+I really fear explicit feedback, but management best practice encourage explicit feedback. Josh is not doing that and am extremely grateful.
+
+I told Greg about my situation and kind of sought more explicit feedback. I think that's not necessary. I really prefer more implicit or ambiguous feedback
+--new blogpost: avoid hot domains that attract young competitors
 I feel clearly less in-demand as I age. 
 Perhaps I should shift towards domains that young guys avoid -- like c++?
 
---new blogpost: Indeed rejection pain=way below stigma/pip
+--new blogpost: PIP stress worse than..
+Indeed rejection pain=way below stigma/pip
 I had high hopes for Indeed, so the pain is proportional to the height, but it's below 2% of the amount of pain from stigma of pip/damagedGood
 
 I do feel inferior in terms of coding test skills, but this feeling is not even 10% of the pain from stigma/pip/damagedGood
+
+My son's academic situation creates stress but still below 20% of the stress of PIP
+
+When my investment (like BGC) is in trouble, the stress is real, but way below 5% of the stress due to stigma/pip
 
 --new blogpost: gains from Indeed experience #worth the $sacrifice
 * gain -- first hand intuition about what algo topics are possibly out of scope at these interviews
