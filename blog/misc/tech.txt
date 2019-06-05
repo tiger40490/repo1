@@ -1,20 +1,20 @@
---new blogpost: pagination query 
-What SQL query can support pagination? Suppose each record is an "article".
+--new blogpost:  SELECT with pagination #Indeed
+What standard SQL query can support pagination? Suppose each record is an "article" and page size is 10 articles.
 
-I think each article has an id maintained in the database table. First page, say latest 10 articles, is sent to browser. The "fetch-next" command from browser would have the last id received. When this command hits the server, should it return the next 10 (AA), or (BB) should it check the new latest articles? I prefer AA. BB can wait until user refreshes the page.
+I will assume each article has an id (or timestamp) maintained in the database table. First page, i.e. latest 10 articles, is sent to browser. The "fetch-next" command from browser would have the last of id fetched. When this command hits the server, should we return the next 10 articles after that id(AA), or (BB) should we check the new latest articles and skip first 10? I prefer AA. BB can wait until user refreshes the web page.
 
-The SQL:2008 standard supports both (XX) top-N feature and (YY) offset feature, but for various reasons, only XX is recommended :
+The SQL:2008 industry standard supports both (XX) top-N feature and (YY) offset feature, but for several reasons [1], only XX is recommended :
 
 select * from Articles where id < lastFetchedId fetch first 10
 
-use-the-index-luke.com explains that the "seek" method is superior to the "offset" method. 
+[1] use-the-index-luke.com clearly explains that the "seek" method is superior to the "offset" method. The BB scenario above is one confusing scenario affecting the offset method. Performance is also problematic when offset value is high. Fetching the 900,000th page is roughly 900,000 times slower than the first page.
 
 --new blogpost:
-Tower interviewer asked me to elaborate why I claim java is a very clean language compared to c++ (and c#).
+Tower interviewer asked me to elaborate why I claimed java is a very clean language compared to c++ (and c#). I said clean means consistency and fewer rules
 
 I gave the example of q[=]. In java, this is either content update (for primitive data types) or pointer reseat (for reference types). No ifs or buts.
 
-In c++ q[=] can invoke the copy ctor, move ctor, copy assignment, move assignment, conversion ctor, conversion operator. Its meaning is special for a reference variable in initilization vs update
+In c++ q[=] can invoke the copy ctor, move ctor, copy assignment, move assignment, conversion ctor, conversion operator. Its meaning is somewhat special for a reference variable in initialization vs update. For (dereferenced) pointers variables, there are additional subtleties.
 
 --new blogpost: assignment^rebind across languages 
 for a non-primitive variable, java assignment is always rebinding. Java behavior is well-understood and simple, compared to python.
@@ -24,9 +24,9 @@ c++ assignment is actually well-documented .. comparable to a mutator method
 python assignment is always rebinding afaik, even for an int. Integer is an immutable object, reference counted.
 
 In python, if you want two functions to share a single mutable integer variable, you can declare a global int. 
-It would be in the global idic/namespace
+It would be in the global idic/namespace. q[=] has special meaning..
 
-Alternatively, you can wrap the int in a single-element list and call list mutator methods.
+Alternatively, you can wrap the int in a single-element list and call list mutator methods, without q[=].
 
 See my experiment in github py/88lang
 
