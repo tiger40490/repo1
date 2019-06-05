@@ -5,5 +5,35 @@ https://www.booking.com/hotel/us/guest-house-5-min-from-jfk.en-gb.html?aid=30414
 
 https://www.booking.com/hotel/us/cozy-and-quiet.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAEJuAEXyAEV2AEB6AEB-AELiAIBqAIDuAKLtd3nBcACAQ;sid=2b245e910f4b8a8c98c02ab5f2a0e79b;nflt=distance%3D3000%3B;room1=A&;checkin=2019-06-16;checkout=2019-06-17;highlighted_blocks=309416605_164659960_1_0_0;atlas_src=sr_iw_title;from_sr_map=1;from=searchresults;ucfs=1;#map_closed ... is $75 but need taxi both ways. Not refundable
 
+------new blogpost: versioned dict #indeed
+Q: Suppose a resume/CV consists of key/value pairs of strings. Within a resume, the keys are non-repeating. We need to support two operations -- 
+* Each write(key, value) operation creates or updates a key with a new value, and returns an incremented integer vid i.e. version ID. A version ID represents a point in history, i.e. a snapshot of the resume.
+* Each read(vid) returns a key/value dictionary as a complete resume at the specified snapshot
+* I think in a realistic system, we also need a deleteVersion(vid) but no need to optimize for it
+
+By definition, the initial version is an empty version 0.
+
+Q: design an efficient solution. 
+Q: after creating N versions, what's the (time and space) complexity of next write()? What's the complexity of the next read()?
+
+Let's say there are K fields in resume version N. Note K <= N. I didn't differentiate K and N, which is useful for my clarity of thinking.
+
+For instance, a simple solution would snapshot entire resume at each write() i.e. each version. Space complexity is bad (but I now believe time complexity is more important.) Worst case -- there are N keys in the resume as version1 creates key1, version 5 creates key5 etc.
+
+A single read() is presumably O(K) just to read the K fields. I firmly believed this was the theoretically limit for time complexity of read(), because I was thinking of network serialization -- either my system or client system need to iterate over all fields of the dict.  Now in hind sight I feel interviewer was thinking in java mode -- to return entire dict by reference is O(1) rather than O(K) ... I didn't get the hint from interviewer when he said O(K) read was not really the lowest time complexity.
+
+Each write() clones the dict for a new vid and saves the new dict in a vector of pointers (!) . This cloning is O(K) if there are N fields already.
+
+Based on this idea, My design 1 used a vector for each key. However, my read() had to create a dict to be returned, on the fly in O(K). I didn't think of return-by-reference/pointer.
+
+My design 2 is a minor optimization to remove the cloning of unchanged values. I thought I was on to something efficient but in java (and python?), all strings are copied by reference so my optimization doesn't mean much in java.
+
+My design 3 is lazy write. So write() only appends to one of the N vectors. The other N-1 vectors are updated only when needed by a later read() or write(). Amortized cost?
+
+My design 4 uses RBTree to optimize for frequent write() at O(1). Each write appends on one tree. STL insert with hint is O(1). No such feature in java or python.
+Read(vid) requires binary search in each tree. After N updates, total node count across all RBTrees is N, so even a naive search would not exceed O(N). 
+
+Now i feel a big string representing the entire resume is still under 100KB. I assumed were were talking about millions of fields of gigabytes each.
+
 ------ save to contact.txt in NY
 visa checkout tig@gm 100jokes
