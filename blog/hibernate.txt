@@ -16,8 +16,8 @@ now that my job search hits resistance,
 I would then try some west coast jobs in NY. Hopefully get an offer without taking it.
 
 --Q: is MLP better than SCB?
-A: Yes in terms of 1) reputation risk and 4) salary
-A: No in terms of 2) coworkerBenchmark/stigma 3)job security 5) c++ 
+A: Yes in terms of 1) reputation risk 5) connectivity
+A: No in terms of 2) coworkerBenchmark/stigma 3)job security 4) c++ 
 
 How about a DRW offer?
 consider seeking some HFT c++ offers after I secure a realistic offer.
