@@ -17,3 +17,6 @@ passports
 local delights for NY colleagues
 condom
 charger + laptop
+
+--tech absorbency
+:) reviewed some old tech blogposts on java9, multicast feed, ...
