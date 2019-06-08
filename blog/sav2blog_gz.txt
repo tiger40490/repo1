@@ -1,3 +1,6 @@
+--no blogpost
+Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
+
 --new blogpost: explicit^ambiguous performance feedback
 If I'm below average in the team, but manager doesn't create a stigma out of it, then I am safe from the deadly hazard ... happy and contended. I can simply tell myself that other guys are very bright and have longer experience with the local system.
 
