@@ -12,12 +12,31 @@ now that my job search hits resistance,
 * I feel so lucky to have the SCB offer
 ** high salary, proves my worth and earning capacity
 
+--
+for both the architect role and the trc role, the expectation could be too high, but who knows where I may find strengths. 
+When I was younger (30's?) i was more fearless on technical ground. 
+Now I'm kinda bogged by negative experiences. 
+Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC and RTS, but the negative feedback "rebased" my self-assessment.
+
+I feel in many (if not all) cases, some may say i did a decent job.
+* Qz had a meet/meet assessment and my mgr (Sundip) liked my performance in the X'mas season.
+* GS challenge was tough but i conquered it convincingly!
+
+--new blogpost: GS tech challenge !! beyond  me
+* GS challenge was tough but i conquered it convincingly!
+
+Everyone said I was good enough. 
+
+I even convinced many that I was a technical strong player in my team.
+(Perhaps Chad was even stronger but that doesn't change the above fact -- consider Roger Federa.)
 --consider giving Josh a heads up that I need to start looking for a SGP job. 
 I would then try some west coast jobs in NY. Hopefully get an offer without taking it.
 
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk 4) connectivity
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++ 
+
+Is java going to be easier? I said java was one of the top 3 explanations of PIP.
 
 How about a DRW offer?
 consider seeking some HFT c++ offers after I secure a realistic offer.
