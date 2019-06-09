@@ -1,12 +1,11 @@
 --update blog on 'expert'
-If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a true expert when benchmarked on interviews.
+If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recognized, accredited expert when benchmarked on interviews.
 
-Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine ..
-
+Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
 Their expertise and value-add may be marginalized in the context of the current mainstream technologies
 
 --no blogpost:
-Quoine probably designed a tcp feed for internet clients, but I think multicast feed is more industrial strength, more advanced. Such expertise is more in-demand 
+Quoine probably designed a tcp feed for internet clients, but in the industry, multicast feed is more industrial-strength, more advanced, more practical. Such expertise is more in-demand 
 
 --no blogpost
 Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
