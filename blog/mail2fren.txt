@@ -1,0 +1,30 @@
+-- a friend replied (sorry about the Chinese comment) --
+You got interviews from those companies but I don’t think you are an ideal candidate for them. Based on what they asked, they are clearly not looking for the “experienced” people. They are looking for someone who just graduated or graduated only a few years ago. 没什么经验但基本功底扎实。一张白纸可能更好，没有坏习惯惯，可塑形强。公司招实习生大概是同样的原因。
+
+----
+Q: do these well-known west coast shops even care about N-years experience? 
+A: yes they do. I think a veteran in a similar west-coast shop is highly sought after, like some senior developer from Google. The proven track record can shine through during the interview when discussing architecture or past projects. Say Linkedin is looking for a senior dev to build a new search engine ( or update-notification engine, or data analytics engine ..). Some solutions work better than others. The candidate's experienced at Google would be really useful. So clearly a Google veteran can bring over that valuable battle-ground experience.
+
+However, the Google veteran must first prove she can code. The white-board coding round has a bar that is considered "reasonable", such that any decent west coast developer should clear it. (Subsequent interview rounds have higher bars.)
+
+In reality, I didn't clear the coding round at some of these west coast shops. 
+* I believe many west coast veterans can clear them, as they did clear similar coding rounds when they got hired years ago
+* I know some fresh grads were able to clear them
+* I know some wall st developers did clear them
+
+My personal observation -- the bar at the coding rounds is very high for the uninitiated, including insufficiently trained candidates like me.
+
+My final answer to the question earlier -- experienced candidates are sought after, but they, like any candidate, must clear coding round.
+
+Let me try extending the Michael Jordan example. Whatever baseball teams interested in his experience as a proven talented athlete. These teams may also believe he could bring something useful over from the field of basketball. However, he must show he can run fast enough and can hit and can catch. If Michael Jordan can only shoot basket, leap, pass the ball, and make play, then he can't pass a basic screening at a baseball recruitment.
+
+Let me extend another point made earlier. Suppose a west coast candidates interviews for an ibank and discusses Java singletons. Can he explain
+* lazy singleton and thread safety
+** double-locked singleton 
+** why "volatile" keyword was not useful in the past but useful now
+* serialization as a potential breach of singleton guarantee
+* classloading as a potential breach of singleton guarantee
+* before and after java 5, what are the most reliable singleton implementations
+* drawbacks of singleton
+
+What if ibank interviewer expects candidates to give precise answer to all of these questions? I feel most west coast candidates would fail as this is really obscure knowledge. Full knowledge of this topic is unreasonable requirement but ibank interviewers still insist. In my west-coast coding interviews I often make very reasonable efforts but not good enough to clear the technical bar.
