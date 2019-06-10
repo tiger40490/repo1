@@ -16,15 +16,15 @@ The smallest range here would be [20, 24] as it contains 24 from list 1, 20 from
 -- moving window algo: first merge-sort all K clubs' items and remember the original clubId of each item. We end up with 
 [0/2nd 4/1st 5/3rd 9/2nd 10/1st ...]
 
-A 'window' is any subarray having representatives from each club.
-A 'tight window' is a window that can't shrink further, i.e. the 1st and last items are the only reps of their clubs.
+A 'basic window' is any subarray having representatives from each club.
+A 'tight window' is a basic window that can't shrink further, i.e. the 1st and last items are the only reps of their clubs.
 
 Now build initial window. Simple procedure -- 
 
-When we build the window, we keep a data structure like {club1: position 1,3,6; club2: position 0,5; club3: position 2,4,..} Basically an array of vectors (or linked lists). We update this table whenever we increment the front pointer in search of the next window. When we find a window, this table should have all K vectors non-empty and at least one of them singular
+When we build the window, we keep a data structure like {club1: position 1,3,6; club2: position 0,5; club3: position 2,4,..} Basically an array of vectors (or linked lists). We update this table whenever we increment the front pointer in search of the next basic window. When we find a basic window, this table should have all K vectors non-empty and at least one of them singular.
 
 now shrink this window. Here's the shrink algo:
-for each vector, find the last added i.e. right-most position. Out of these K positions, find the minimum i.e. right-most ... the left edge of our new tight window.
+for each vector, find the last added i.e. right-most position. Now suppose we are done. now out of these K positions, find the minimum i.e. right-most ... the left edge of our new tight window. If we can truncate this window at this position, then we keep shrinking
 
 Once we have a new tight window, we remember its size (... and compare it with the current winner...)
 
