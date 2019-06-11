@@ -8,12 +8,6 @@ The health hazard is really nothing but one person's assessment. For my recent p
 * I built real mileage in c#. I even proved myself stronger than some c# veterans when I created a simple web server to dump log files for everyday troubleshooting.
 * see more pointers in https://bintanvictor.wordpress.com/wp-admin/post.php?post=27139&action=edit
 
---update blogpost fear@large codebase
-In my experience, perl,php,py,javascript codebases are usually small like pets. When they grow to big creatures they are daunting and formidable just like compiled language projects. Some personal experiences --
-* Qz? Not a python codebase at all
-* pwm comm? I would STILL say codebase would be bigger if using a compiled language
-
-I feel web (or batch) app developers using standard tools lack the hardcore experience.
 --update blog on 'expert'
 If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recognized, accredited expert as proven on benchmarks/interviews.
 
