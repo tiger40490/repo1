@@ -11,7 +11,9 @@ I really fear explicit feedback, but management best practice encourage explicit
 
 I told Greg about my situation and kind of sought more explicit feedback. I think that's not necessary. I really prefer more implicit or ambiguous feedback
 
-I often imagine being one of the old non-VP (or VP) guys in MS. If I'm just mediocre, I would worry (constantly) about layoff -- not the loss of livelihood but loss of pride. As contractor, I would go out after N years without an explicit reason. To me, the financial impact is tolerable, but the explicit negative assessment is a deadly blow.
+I know a few old non-VP (or VP) guys in MS. 
+I often imagine being one of them. 
+If I'm just mediocre, I would worry (constantly) about layoff -- not the loss of livelihood but loss of pride. As contractor, I would go out after N years without an explicit reason. To me, the financial impact is tolerable, but the explicit negative assessment is a deadly blow.
 
 --new blogpost: avoid hot domains that attract young competitors
 I feel clearly less in-demand as I age. 
