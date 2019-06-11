@@ -4,11 +4,11 @@ If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recogniz
 Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
 Their expertise and value-add may be marginalized in the context of the current mainstream technologies
 
-
 --no blogpost
 Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
 
-There's a thinly veiled leaning towards java. If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
+There's a thinly veiled leaning towards java. 
+If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
 
 In reality, the solution you get using another language CAN be different from the optimal java solution.
 
