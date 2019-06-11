@@ -1,3 +1,22 @@
+--update blogpost on ## self-esteem
+Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but no possible upside in terms of self-esteem boost.
+
+It's a high-risk, low-return venture?
+
+The health hazard is really nothing but one person's assessment. For my recent painful jobs, I continue to dismiss/ignore the boosts to my self-esteem --
+* I conquered some of my biggest technology fears -- MSVS; c++ crash management; c++ large code navigation.. Other people may not agree, but my own experience proves that these challenges are harder than web or scripting developments. My fears were more deep-rooted.
+* I built real mileage in c#. I even proved myself stronger than some c# veterans when I created a simple web server to dump log files for everything troubleshooting.
+* I found competent and enjoyment with python
+* I proved myself competent at devops
+* Many of my Macq colleagues had positive views -- AnnMary Wong, Vincent...
+
+
+--update blogpost fear@large codebase
+In my experience, perl,php,py,javascript codebases are usually small like pets. When they grow to big creatures they are daunting and formidable just like compiled language projects. Some personal experiences --
+* Qz? Not a python codebase at all
+* pwm comm? I would STILL say codebase would be bigger if using a compiled language
+
+I feel web (or batch) app developers using standard tools lack the hardcore experience.
 --update blog on 'expert'
 If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recognized, accredited expert as proven on benchmarks/interviews.
 

@@ -1,4 +1,6 @@
-
+--new blogpost in Eng:
+"the perl codebase is smaller compared to using a compiled language" is too long winded
+"the perl codebase would be bigger if written in compiled language"
 --no blogpost:
 how do I make them feel my love? Mostly wife.
 gifts?
