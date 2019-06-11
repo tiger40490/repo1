@@ -4,14 +4,6 @@ If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recogniz
 Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
 Their expertise and value-add may be marginalized in the context of the current mainstream technologies
 
---no blogpost
-Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
-
-There's a thinly veiled leaning towards java. 
-If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
-
-In reality, the solution you get using another language CAN be different from the optimal java solution.
-
 --new blogpost: explicit^ambiguous performance feedback
 If I'm below average in the team, but manager doesn't create a stigma out of it, then I am safe from the deadly hazard ... happy and contended. I can simply tell myself that other guys are very bright and have longer experience with the local system.
 
@@ -24,6 +16,14 @@ I often imagine being one of the old non-VP (or VP) guys in MS. If I'm just medi
 --new blogpost: avoid hot domains that attract young competitors
 I feel clearly less in-demand as I age. 
 Perhaps I should shift towards domains that young guys avoid -- like c++?
+
+--no blogpost
+Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
+
+There's a thinly veiled leaning towards java. 
+If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
+
+In reality, the solution you get using another language CAN be different from the optimal java solution.
 
 --no blogpost:
 Quoine probably designed a tcp feed for internet clients, but in the industry, multicast feed is more industrial-strength, more advanced, more practical. Such expertise is more in-demand 
