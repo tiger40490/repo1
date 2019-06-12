@@ -1,3 +1,6 @@
+--new blog
+I now feel Wall St QQ takes more experience than coding IV of west-coast. Coding drill can use Leetcode over months, whereas QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
+
 --update blogpost on ## self-esteem
 Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but no possible upside in terms of self-esteem boost.
 
