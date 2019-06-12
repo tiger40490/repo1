@@ -1,14 +1,3 @@
---new blogpost:  SELECT with pagination #Indeed
-What standard SQL query can support pagination? Suppose each record is an "article" and page size is 10 articles.
-
-I will assume each article has an id (or timestamp) maintained in the database table. First page, i.e. latest 10 articles, is sent to browser. The "fetch-next" command from browser would have the last of id fetched. When this command hits the server, should we return the next 10 articles after that id(AA), or (BB) should we check the new latest articles and skip first 10? I prefer AA. BB can wait until user refreshes the web page.
-
-The SQL:2008 industry standard supports both (XX) top-N feature and (YY) offset feature, but for several reasons [1], only XX is recommended :
-
-select * from Articles where id < lastFetchedId fetch first 10
-
-[1] use-the-index-luke.com clearly explains that the "seek" method is superior to the "offset" method. The BB scenario above is one confusing scenario affecting the offset method. Performance is also problematic when offset value is high. Fetching the 900,000th page is roughly 900,000 times slower than the first page.
-
 --new blogpost:
 Tower interviewer asked me to elaborate why I claimed java is a very clean language compared to c++ (and c#). I said clean means consistency and fewer rules
 
