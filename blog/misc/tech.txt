@@ -1,3 +1,9 @@
+--update blogpost on word ladder
+first scan ... No need to be extra clever as this simple O(NN) algo is optimal IMO. No need to worry about the visualization of the graph either because the edge list is a proven representation
+
+"seen" -- or array of size N. Array is more elegant than hash table in this case.
+
+the last routine can be extracted to a "simple routine to be implemented later", so no need to worry about it in a white board session.
 --new blogpost:  SELECT with pagination #Indeed
 What standard SQL query can support pagination? Suppose each record is an "article" and page size is 10 articles.
 
