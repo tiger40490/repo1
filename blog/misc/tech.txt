@@ -5,14 +5,12 @@ first scan ... No need to be extra clever as this simple O(NN) algo is optimal I
 
 the last routine can be extracted to a "simple routine to be implemented later", so no need to worry about it in a white board session.
 
-
 --new blogpost: assignment^rebind across languages 
 for a non-primitive variable, java assignment is always rebinding. Java behavior is well-understood and simple, compared to python.
 
-c++ assignment is actually well-documented .. comparable to a mutator method
+Compared to python, c++ assignment is actually well-documented .. comparable to a mutator method.
 
-python assignment is always rebinding afaik, even for an int. Integer is an immutable object, reference counted.
-
+python assignment is always rebinding afaik, even for an integer. Integer objects are immutable, reference counted.
 In python, if you want two functions to share a single mutable integer variable, you can declare a global int. 
 It would be in the global idic/namespace. q[=] has special meaning..
 
