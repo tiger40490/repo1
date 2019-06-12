@@ -1,3 +1,9 @@
+--new blogpost: avoid hot domains that attract young competitors
+I feel clearly less in-demand as I age. 
+Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, risk systems, exchanges and commercial banks (rather than buy-side), sockets, mkt data, 
+
+telecom?
+
 --new blog
 I now feel Wall St QQ takes more experience than coding IV of west-coast. Coding drill can use Leetcode over months, whereas QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
 
@@ -16,23 +22,6 @@ If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recogniz
 
 Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
 Their expertise and value-add may be marginalized in the context of the current mainstream technologies
-
---new blogpost: explicit^ambiguous performance feedback
-If I'm below average in the team, but manager doesn't create a stigma out of it, then I am safe from the deadly hazard ... happy and contended. I can simply tell myself that other guys are very bright and have longer experience with the local system.
-
-I really fear explicit feedback, but management best practice encourage explicit feedback. Josh is not doing that and am extremely grateful.
-
-I told Greg about my situation and kind of sought more explicit feedback. I think that's not necessary. I really prefer more implicit or ambiguous feedback
-
-I know a few old non-VP (or VP) guys in MS. 
-I often imagine being one of them. 
-If I'm just mediocre, I would worry (constantly) about layoff -- not the loss of livelihood but loss of pride. As contractor, I would go out after N years without an explicit reason. To me, the financial impact is tolerable, but the explicit negative assessment is a deadly blow.
-
---new blogpost: avoid hot domains that attract young competitors
-I feel clearly less in-demand as I age. 
-Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, risk systems, exchanges and commercial banks (rather than buy-side), sockets, mkt data, 
-
-telecom?
 
 --no blogpost
 Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
