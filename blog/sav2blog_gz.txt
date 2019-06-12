@@ -27,7 +27,9 @@ If I'm just mediocre, I would worry (constantly) about layoff -- not the loss of
 
 --new blogpost: avoid hot domains that attract young competitors
 I feel clearly less in-demand as I age. 
-Perhaps I should shift towards domains that young guys avoid -- like c++?
+Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, risk systems, exchanges and commercial banks (rather than buy-side), sockets, mkt data, 
+
+telecom?
 
 --no blogpost
 Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
