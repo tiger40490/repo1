@@ -1,6 +1,6 @@
 --new blogpost: avoid hot domains that attract young competitors
 I feel clearly less in-demand as I age. 
-Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, risk systems, exchanges and commercial banks (rather than buy-side), sockets, mkt data, 
+Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, startups, lesser-known banks
 
 telecom?
 
