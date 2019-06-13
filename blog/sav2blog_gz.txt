@@ -4,6 +4,8 @@ Perhaps I should shift towards domains that young guys avoid -- like c++/coreJav
 
 telecom?
 
+see also blogpost on 150k FTE@light load
+
 --new blog
 I now feel Wall St QQ takes more experience than coding IV of west-coast. Coding drill can use Leetcode over months, whereas QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
 

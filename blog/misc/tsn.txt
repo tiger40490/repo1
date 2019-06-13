@@ -31,7 +31,7 @@ ROTI is a huge "deflator" of my enthusiasm, motivation, absorbency.. I think I n
 Among the biggest 10 branching out (tsn) from java/SQL/perl , I still favor c++/socket/py/mktData.
 
 --  no blogpost: long-term orgro=elusive
-long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increasae, I can't think of any... perhaps quant dev
+long-term orgro is elusive. Biggest success I can think of is c++ (thanks to lots of IV) but in terms of salary increase, I can't think of any... perhaps quant dev
 
 swing -- rare engagement + orgro, thick->thin but abandoned !
 
