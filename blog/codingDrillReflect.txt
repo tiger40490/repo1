@@ -1,12 +1,16 @@
---q: with family distraction, is coding drill easier or blogging?
+--update blogpost on quant ^ coding drill
+In 2012 When I was studying quant in my spare time, I was on a powerful ascent. In the subsequent years, I gradually lost most of the power. The sector was shrinking and market depth was disappointing.
+
+Since 2018, my coding drill feels very relevant, even though the gap behind the strong players continues to be a pain and a de-motivation.  When I stop comparing myself with the stronger players, I would feel my improvement in a highly valuable skill
+
+--q: with family distraction, is coding drill easier than blogging?
 I feel coding drill is more rewarding, more satisfying, less guilty
 
 --perhaps I should start on new problems, put them on back burners and then read hints
---matrix problems are often contrived but very popular
 --new blogpost
 Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
 
-Even with careful selection, i still find it rather futile -- many of the problems I get are not related to my studied problems.
+Even with careful selection, i still find it rather futile -- many of the problems I was asked are not related to my studied problems.
 
 I feel I need to detach/disengage from the end result (technical wins). Enjoy the journey of focused engagement. Enjoy the self-improvement and self-mastery. 
 
@@ -15,11 +19,9 @@ Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 
 Note my competitors tend to be younger.
 
-I think QQ is mostly a Wall st practice, whereas coding test is mostly a west coast practice
-
 Need to prioritize 1 or 2 among the formats as described in google sheet. Leave out speed coding and weekend assignments. This doesn't mean we give up on those fronts. It does mean I accept my limitations as an aging developer
 
-The problems I'm interested in might be harder than required? I think some financial firms don't use tough speed coding. Instead, they focus on
+The problems I'm interested in might be harder than the 45-min white board types? I think some financial firms don't use tough speed coding. Instead, they focus on
 * language features
 * pure algo
 * simple speed-coding problems
