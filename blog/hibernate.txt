@@ -1,6 +1,6 @@
 --no blogpost
 Can we be slightly more positive about next job prospect?
-In each recent job experience, the positive seems dwarfed by the negative. 
+When reviewing each recent job experience, the positive xp seems dwarfed by the negative xp. 
 Many of the recent jobs ended in visible failure.  
 --no blogpost
 In 2017, when I tried UBS vol-risk java, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
@@ -35,6 +35,7 @@ Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC
 I feel in many (if not all) cases, some may say i did a decent job.
 * Qz had a meet/meet assessment and my mgr (Sundip) liked my performance in the X'mas season.
 --zuhlke is better than redmart
+A zuhlke offer would be a great 2nd offer.
 more exposure
 possibly more reputable project 
 
