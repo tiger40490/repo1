@@ -13,8 +13,12 @@ removed many visible fats before eating
 avoided deep fried food
 avoided rice
 
+--parenting effort #beyond math:
+many talks with boy, trying to get through to him
+
 --tech-learning absorbency
-:) reviewed 30-50 old tech blogposts on java9, multicast feed, ...
+:) reviewed 30-50 old tech blogposts on java9, multicast feed, ... These are the most valuable tech blogposts. Very engaging.
+I made this selection hoping to maximize absorbency. No regrets
 :) did a few algo challenges
 
 --rush to office:

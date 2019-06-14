@@ -1,4 +1,11 @@
---update blogpost on quant ^ coding drill
+--new blogpost on quant ^ coding drill
+quant knowledge used to be a halo, now replaced by coding IV skills like
+* DP, recursion
+* data structures
+* speed coding 
+
+I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
+
 In 2012 When I was studying quant in my spare time, I was on a powerful ascent. In the subsequent years, I gradually lost most of the power. The sector was shrinking and market depth was disappointing.
 
 Since 2018, my coding drill feels very relevant, even though the gap behind the strong players continues to be a pain and a de-motivation.  When I stop comparing myself with the stronger players, I would feel my improvement in a highly valuable skill

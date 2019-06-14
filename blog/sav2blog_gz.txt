@@ -72,10 +72,3 @@ my c# xx journey was exciting for 6M before OC and in first year in OC. In contr
 leverage? c# is lower but not bad. See separate blogpost
 
 For all languages, there is no hike, no strategic value so at that level all underwhelming
---no blogpost:
-quant knowledge used to be a halo, now replaced by coding IV skills like
-* DP, recursion
-* data structures
-* speed coding 
-
-I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
