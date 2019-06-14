@@ -1,3 +1,5 @@
+--update blogpost on sweet spot:
+No brown-field big codebase please
 
 ------ save to contact.txt in NY
 visa checkout tig@gm 100jokes
