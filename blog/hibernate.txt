@@ -2,12 +2,14 @@
 Can we be slightly more positive about next job prospect?
 When reviewing each recent job experience, the positive xp seems dwarfed by the negative xp. 
 Many of the recent jobs ended in visible failure.  
+
 --no blogpost
-In 2017, when I tried UBS vol-risk java, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
+In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
 
 In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding.
 
-I think Zuhlke would prove more rewarding than MLP.
+I now feel Zuhlke would prove more rewarding than MLP.
+
 --no blogpost:
 now that my job search hits resistance, 
 
@@ -34,31 +36,32 @@ Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC
 
 I feel in many (if not all) cases, some may say i did a decent job.
 * Qz had a meet/meet assessment and my mgr (Sundip) liked my performance in the X'mas season.
+
 --zuhlke is better than redmart
-A zuhlke offer would be a great 2nd offer.
 more exposure
 possibly more reputable project 
 
+A zuhlke offer would be a great 2nd offer.
+
 --new blogpost: GS tech challenge !! beyond  me
-* GS challenge was tough but i conquered it convincingly!
+GS challenge was tough but i conquered it convincingly!
 
 Everyone said I was good enough. 
 
-I even convinced many that I was a technical strong player in my team.
+Yang was tough but he liked my design in errorMemos.
+
+I convinced many that I was a local technical expert in my team.
 (Perhaps Chad was even stronger but that doesn't change the above fact -- consider Roger Federa.)
 --consider giving Josh a heads up that I need to start looking for a SGP job. 
+Shall I discuss with Greg first?
+
 I would then try some west coast jobs in NY. Hopefully get an offer without taking it.
 
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk 4) connectivity
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++ 
 
-Is java going to be easier? I said java was one of the top 3 explanations of PIP.
-
-How about a DRW offer?
-consider seeking some HFT c++ offers after I secure a realistic offer.
- 
-If no coding round, then chance of HFT c++ offer is above 50%
+Is java going to be easier? I said java was one of the top 3 factors of PIP.
 
 I may not join an HFT but an HFT c++ offer would be a boost to my confidence for years to come.
 Remember I did 10+ HFT c++ interviews
