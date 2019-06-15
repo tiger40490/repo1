@@ -1,4 +1,4 @@
---new blogpost ##coreJava QQ topics: stand-out from crowd
+==new blogpost ##coreJava QQ topics: stand-out from crowd
 beware of othRisk
 * low-level core threading features -- higher market value than ecosystem features like concurrency utilities
 * jGC
@@ -10,7 +10,8 @@ beware of othRisk
 -- other advanced QQ topics
 * class loader internals? out of fashion
 * JNI? never popular
-
+* jvm internals? never popular and never needed on any project
+==
 --update blogpost on word ladder
 first scan ... No need to be extra clever as this simple O(NN) algo is optimal IMO. No need to worry about the visualization of the graph either because the edge list is a proven representation
 
