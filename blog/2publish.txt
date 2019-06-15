@@ -2,5 +2,25 @@
 --update blogpost on sweet spot:
 No brown-field big codebase please
 
+-----new blogpost: Korea trip review
+
+--boy's self-discipline
+did math practices on many evenings in hotel + flight
+at teddy bear museum bought the cheapest
+didn't insist on unhealthy foods
+
+--my self-discipline
+removed many visible fats before eating
+avoided deep fried food
+avoided rice
+
+--parenting effort #beyond math:
+many talks with boy, trying to get through to him
+
+--tech-learning absorbency
+:) reviewed 30-50 old tech blogposts on java9, multicast feed, ... These are the most valuable tech blogposts. Very engaging.
+I made this selection hoping to maximize absorbency. No regrets
+:) did a few algo challenges
+
 ------ save to contact.txt in NY
 visa checkout tig@gm 100jokes
