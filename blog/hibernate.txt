@@ -1,8 +1,12 @@
---no blogpost
+--new blogpost: don't be 100% -ve about next job
 Can we be slightly more positive about next job prospect?
 When reviewing each recent job experience, the positive xp seems dwarfed by the negative xp. 
-Many of the recent jobs ended in visible failure.  
+Many of the recent jobs ended in visible failure. These negative experience was 100% due to stigma. No such thing in contract jobs.
 
+The recent positive xp seems to be defined by modest and acceptable salary like 150k, tsn (py, dotnet, msvs, ...) and absence of stigma. 
+
+Q: Would OC be positive if there were a token bonus? I think so. I was learning dotnet + quant happily. However, transfer to RTB team was unacceptable
+Q: would Qz be positive if there were a token bonus? I think so. I would have stayed for a year or two despite the zero mkt value.
 --no blogpost
 In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
 
@@ -68,11 +72,13 @@ Remember I did 10+ HFT c++ interviews
 --HFT vs non-finance
 Risk is the deciding factor. 
 
-For MLP, Tower, Jump etc, I foresee high risk of stigma/PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and much older.
+For MLP, Tower, Jump etc, I foresee high expectation/risk of stigma + PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and much older.
 
 Pollen allergy ..
 
 For a non-finance shop like Zuhlke, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
+
+On the positive side, I think inet experience might give me some insight but remember previous TSN attempts at eq-OMS, quant, drv-pricing, dotnet.
 
 I would still stay away from banks (including SCB) to safeguard my reputation
 
