@@ -2,6 +2,10 @@
 --update blogpost on sweet spot:
 No brown-field big codebase please
 
+--new blogpost in Eng:
+"the perl codebase is smaller compared to using a compiled language" is too long winded
+"the perl codebase would be bigger if written in compiled language"
+
 -----new blogpost: Korea trip review
 
 --boy's self-discipline

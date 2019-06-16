@@ -34,9 +34,6 @@ Tangibility is defined by each individual, and requires a high degree of self-kn
 
 I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for a 3 days only.
 
---new blogpost in Eng:
-"the perl codebase is smaller compared to using a compiled language" is too long winded
-"the perl codebase would be bigger if written in compiled language"
 --no blogpost:
 how do I make them feel my love? Mostly wife.
 gifts?
