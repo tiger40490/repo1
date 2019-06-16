@@ -12,6 +12,18 @@ beware of othRisk
 * JNI? never popular
 * jvm internals? never popular and never needed on any project
 ==
+--New blogpost: many things]python can have attributes 
+
+Those "things" can be a module, a function, a class, an instance of a class
+
+An attribute can be a data item or a method.
+
+I feel attributes are related to namespaces, meta-programming and reflection.
+
+--python features I learned on flight to NY, before Jump IV
+* reduce()+lambda for ECT
+* __debug__
+* attributes 
 --update blogpost on word ladder
 first scan ... No need to be extra clever as this simple O(NN) algo is optimal IMO. No need to worry about the visualization of the graph either because the edge list is a proven representation
 
