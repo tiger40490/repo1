@@ -1,3 +1,20 @@
+--new blogpost note-taking on phone
+I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
+
+With my $100 Palm + foldable keyboard during my early 30's, I was able to take notes better.
+
+Overall, phone (and smemo) is only good for brief notes below half a page.
+
+Q: Do phones offer any advantages?
+A: compared to laptop, more nimble and light-weight. one-hand operation
+A: compared to laptop, backup via gmail is more available.
+A: compared to laptop, battery recharge is easier at any USB socket. Laptop recharge has been a minor stressor
+A: compared to paper, I was able to insert or delete content. Copy-paste is ... feasible though inconvenient.
+A: compared to paper, mass upload is feasible
+A: compared to paper, I was able to keep many small topical notes in multiple "pages". The more pages, the more visible this advantage becomes. With 10 "pages", the paper solution became stressful as I worried about losing them wholesale.
+
+Tip: in 2018 I started using designated sequence of dots q[.] in place of comma or dash
+
 --no blogpost: Koreans have their traditions. My Chinese family also has our traditions
 * daily practices
 * home-cooked healthy meals
