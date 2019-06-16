@@ -1,3 +1,10 @@
+--update blog on attitude@java
+On the other hand, in 2017 I concluded that java was a central piece of my sweet spot and would save me from PIP. C++ codebase is likely to be harder.
+
+Overall, I still favor c++ but not so whole-heartedly. 
+
+The time to go for c++ muscle building is when contract jobs are available. In SG, since I have no contract job to provide the damagedGood-insurance, and given my pollen-allergy, I need to be realistic about my risk tolerance.
+
 --new blogpost: don't be 100% -ve about next job
 Can we be slightly more positive about next job prospect?
 When reviewing each recent job experience, the positive xp seems dwarfed by the negative xp. 
