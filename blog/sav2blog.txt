@@ -1,3 +1,31 @@
+--new: beware JFK custom can take 2-3H
+We may get more tired than expected .. dangerous
+
+--new: taxi beats uber at airport region
+on 17 Jun 2019, I should have taken a taxi at Terminal 1 taxi stand. 
+Instead I decided to save fare by going to Fed Circle, but there was no taxi stand so I had to use Uber, which was cumbersome on my phone and required waiting. 
+This is bad if fatigue or cold weather.
+
+Taxi is not price-guaranteed in advance, and offers no complaint->refund feature, but overall beats Uber hands-down in this case.
+
+--new: traveling to unfamiliar places: prefer 24x7 hotels
+on 17 Jun 2019 I found myself in rain, at quiet hours without anyone to ask. The street addresses are too hard to read in the dark. The only solution is phone call but the "host" is not a hotel desk and didn't answer calls
+
+This risk is too high so I won't take the same risk. No Airbnb. I need a reputable hotel with 24x7 service.
+
+My flight was delayed by 3 hours and I had only 5 hours to recharge before going to work :(
+
+Things could have been worse if
+* cold
+* more luggage
+* fatigue
+
+--new: traveling to unfamiliar places: provide phone battery and mobile data
+on 17 Jun 2019 I was highly dependent on my smart phone for
+* uber
+* map
+* call
+
 --new blogpost note-taking on phone
 I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
 
