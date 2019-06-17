@@ -6,16 +6,18 @@ on 17 Jun 2019, I should have taken a taxi at Terminal 1 taxi stand.
 Instead I decided to save fare by going to Fed Circle, but there was no taxi stand so I had to use Uber, which was cumbersome on my phone and required waiting. 
 This is bad if fatigue or cold weather.
 
-Taxi is not price-guaranteed in advance, and offers no complaint->refund feature, but overall beats Uber hands-down in this case.
+Taxi is not price-guaranteed in advance, and offers no complaint->refund feature, but overall beats Uber hands-down in this high-stake scenario.
+
+In this scenario, i need familiarity, seamless reliability...
 
 --new: traveling to unfamiliar places: prefer 24x7 hotels
-on 17 Jun 2019 I found myself in rain, at quiet hours without anyone to ask. The street addresses are too hard to read in the dark. The only solution is phone call but the "host" is not a hotel desk and didn't answer calls
+on 17 Jun 2019 I found myself in rain, at quiet hours without anyone on the street to consult. The address plates on the buildings were too small to read in the dark. I believe the only solution is phone call but the host is not a hotel desk and didn't answer my calls.
 
-This risk is too high so I won't take the same risk. No Airbnb. I need a reputable hotel with 24x7 service.
+This risk proved to be too high so I won't take the same risk. No Airbnb no homestay. I need a real hotel with 24x7 service.
 
-My flight was delayed by 3 hours and I had only 5 hours to recharge before going to work :(
+My flight was delayed by 3 hours and I had only 5 hours to recuperate before going to work :(
 
-Things could have been worse if
+Things could have been even worse if
 * cold
 * more luggage
 * fatigue
@@ -26,12 +28,12 @@ on 17 Jun 2019 I was highly dependent on my smart phone for
 * map
 * call
 
---new blogpost note-taking on phone
+--new blogpost: note-taking on phone
 I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
 
-With my $100 Palm + foldable keyboard during my early 30's, I was able to take notes better.
+During my early 30's with my $100 Palm + foldable keyboard, I was able to take notes better.
 
-Overall, phone (and smemo) is only good for brief notes below half a page.
+Overall, phone (and smemo) is good for brief notes below half a page.
 
 Q: Do phones offer any advantages?
 A: compared to laptop or paper, audio-blogging on phone has proven fairly useful
