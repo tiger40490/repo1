@@ -1,3 +1,26 @@
+--new: U.S. competition favors motivated candidates
+U.S. college admission policy emphasizes candidate motivation. Motivation is partly demonstrated by tough AP courses that a high-school student chooses for herself. 
+
+Similarly, west coast CIV measures motivation.
+
+--new blogpost: note-taking on phone
+I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
+
+During my early 30's with my $100 Palm + foldable keyboard, I was able to take notes better.
+
+Overall, phone (and smemo) is good for brief notes below half a page.
+
+Q: Do phones offer any advantages?
+A: compared to laptop or paper, audio-blogging on phone has proven fairly useful
+A: compared to laptop, more nimble and light-weight. one-hand operation
+A: compared to laptop, backup via gmail is more available.
+A: compared to laptop, battery recharge is easier at any USB socket. Laptop recharge has been a minor stressor
+A: compared to paper, I was able to insert or delete content. Copy-paste is ... feasible though inconvenient.
+A: compared to paper, mass upload is feasible
+A: compared to paper, I was able to keep many small topical notes in multiple "pages". The more pages, the more visible this advantage becomes. With 10 "pages", the paper solution became stressful as I worried about losing them wholesale.
+
+Tip: in 2018 I started using designated sequence of dots q[.] in place of comma or dash
+
 --new: beware JFK custom can take 2-3H
 We may get more tired than expected .. dangerous
 
@@ -27,24 +50,6 @@ on 17 Jun 2019 I was highly dependent on my smart phone for
 * uber
 * map
 * call
-
---new blogpost: note-taking on phone
-I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
-
-During my early 30's with my $100 Palm + foldable keyboard, I was able to take notes better.
-
-Overall, phone (and smemo) is good for brief notes below half a page.
-
-Q: Do phones offer any advantages?
-A: compared to laptop or paper, audio-blogging on phone has proven fairly useful
-A: compared to laptop, more nimble and light-weight. one-hand operation
-A: compared to laptop, backup via gmail is more available.
-A: compared to laptop, battery recharge is easier at any USB socket. Laptop recharge has been a minor stressor
-A: compared to paper, I was able to insert or delete content. Copy-paste is ... feasible though inconvenient.
-A: compared to paper, mass upload is feasible
-A: compared to paper, I was able to keep many small topical notes in multiple "pages". The more pages, the more visible this advantage becomes. With 10 "pages", the paper solution became stressful as I worried about losing them wholesale.
-
-Tip: in 2018 I started using designated sequence of dots q[.] in place of comma or dash
 
 --no blogpost: Koreans have their traditions. My Chinese family also has our traditions
 * daily practices
