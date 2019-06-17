@@ -1,11 +1,13 @@
---new blogpost CIV=anti-aging
-The west-coast style of CIV is very effective for anti-aging, just like yoga
+--update blogpost CIV=anti-aging
+The west-coast style of CIV is effective for anti-aging, just like yoga.
+
+I think it's more anti-aging than other xx.
 
 --no blogpost: experience is valued less in CIV. 
 Many inexperienced candidates were highly valued.
 
 --update blogpost on musicians and doctors.
-When we watch a movie from Europe, India, Korea ... I know if it has international appeal or only limited local audience.
+When we watch a movie from Europe, India, Korea ... we can tell whether it has any international appeal or only limited local audience.
 
 Similarly localSys knowledge has value only within a single company. The expertise I demonstrate in job interviews are relevant across many sites.
 
