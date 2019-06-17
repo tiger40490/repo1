@@ -3,9 +3,6 @@ The west-coast style of CIV is effective for anti-aging, just like yoga.
 
 I think it's more anti-aging than other xx.
 
---no blogpost: experience is valued less in CIV. 
-Many inexperienced candidates were highly valued.
-
 --no blogpost: 
 With CIV, it's crucial to manage the setbacks. 
 Traditionally, one of my strengths is positive reaction to IV setbacks.
@@ -42,15 +39,18 @@ telecom?
 see also blogpost on 150k FTE@light load
 
 --new blog
-I now feel Wall St QQ takes more experience than coding IV of west-coast. Coding drill can use Leetcode over months, whereas QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
+I now feel Wall St QQ takes more experience than coding IV of west-coast. Coding drill can use Leetcode over months.
+QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
+
+Many inexperienced candidates were highly valued in CIV.
 
 --update blogpost on ## self-esteem
-Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but no possible upside in terms of self-esteem boost.
+Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
 
 high-risk, low-return venture?
 
-The health hazard is really nothing but one person's assessment. For my recent painful jobs, I continue to dismiss/ignore the positive effects on self-esteem --
-* I conquered some of my biggest technology fears -- MSVS; c++ crash management; c++ large code navigation.. Other people may not agree, but my own experience proves that these challenges are harder than web or scripting developments. My fears were more deep-rooted.
+The health hazard is really nothing but one mgr's assessment. For my recent painful jobs, I continue to dismiss/ignore the possible boost to self-esteem --
+* I conquered some of my biggest technology fears -- MSVS; c++ crash management; c++ large code navigation.. Other people may not agree, but my own experience proves that these challenges are harder than high-level dev (like web/scripting..). My fears were more deep-rooted.
 * I built real mileage in c#. I even proved myself stronger than some c# veterans when I created a simple web server to dump log files for everyday troubleshooting.
 * see more pointers in https://bintanvictor.wordpress.com/wp-admin/post.php?post=27139&action=edit
 
