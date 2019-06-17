@@ -65,7 +65,7 @@ Translating personal endeavor to income is holy grail .. frustrating.. Few peopl
 I believe many professionals don't have the abilities to convert spare time to tangible personal growth. 
 Tangibility is defined by each individual, and requires a high degree of self-knowledge. 
 
---new blogpost:
+--no blogpost:
 4 days into a week-long vacation, I start to feel the effect of deprivation/starvation of blogging. It is felt like a personal need similar to physical exercise, recreation. Interesting analogy -- starch. How many days can you go without starch before feeling deprived? 
 
 I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for a 3 days only.
@@ -76,7 +76,7 @@ gifts?
 acts of service, up to a limit that I can accept
 attentive listening
 
---new blogpost
+--no` blogpost
 many smarter women become scheming and take advantage of the husbands. 
 
 My wife is a simple women, so I feel very safe. Simplicity is her virtue.
@@ -92,16 +92,22 @@ Parenting (esp. my son) became a huge commitment in terms of my slack resources.
 
 Additional annual leave is supposed to be a slack resource but I think it doesn't reduce the pressure to perform.
 
---new blogpost: multiple layers of "protection" or buffer always gives me real sense of enhanced security
+--new blogpost: multiple layers@protection(buffer)=>security
+
+Multiple layers@protection or buffer always provide me a real sense of enhanced security. I'm very sensitive to this kinda thing.
+
+I wish the list below can be more specific. On the other hand wide-ranging is kinda good.
+
 * eg: low BMI + pull up + fitness .. to protect against wellness "hazards".
 * eg: high fruit/veg low fat/starch diet .. to prepare for stress binge
 * eg: low visible fat on belly to protect a (almost inevitable) bulging 
 * eg: SG and US as two job markets
 * eg: west coast and wall st as two job markets
 * eg: c++ in addition to java to provide livelihood
+* eg: jxee in addition to coreJava to provide many times more job opportunities
 * eg: plenty of spare time, rather than fully stretched .. to protect against spare time "resource" depletion
-* eg: plenty of paid leaves to protect against slack resource depletion
+* eg: plenty of paid leaves to protect against "slack resource" (i.e. spare time) depletion
 * eg: wife able to make a living
 * eg: multiple passive incomes
 * eg: MYS as additional retirement destination
-* eg: multiple low-cost laptops
+* eg: multiple low-cost laptops for coding drill and git blogging
