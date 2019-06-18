@@ -1,7 +1,3 @@
---food shopping
-sweet yam: small ones
-onions
-carrot: one pack ... can't keep
 --update blogpost on 5 tips2reduce ..
 Note this is kinda overlapping with a recent blogpost ...
 
@@ -14,6 +10,15 @@ No brown-field big codebase please
 --new blogpost in Eng:
 "the perl codebase is smaller compared to using a compiled language" is too long winded
 "the perl codebase would be bigger if written in compiled language"
+
+--update blog on spare time usage?
+when I have no family "burden", I spent my weekly spare time on
+* 5H workout including the wind-down
+* 3H healthy food shopping + cooking
+* 5->10H tech xx incl. coding drill
+* 15->20H blogging incl wellness, parenting... I try to do it on commute + in office
+* 2H email/call friends
+* movies, sight-seeing? close to none
 
 -----new blogpost: Korea trip review
 
