@@ -22,11 +22,6 @@ telecom?
 
 see also blogpost on 150k FTE@light load
 
---new blog
-I now feel Wall St QQ demands more experience than coding IV of west-coast. Coding drill can use Leetcode over months.
-QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
-
-Many inexperienced candidates were highly valued in CIV.
 --no blogpost: 
 With CIV, it's crucial to manage the setbacks. 
 Traditionally, one of my strengths is positive attitude to IV setbacks.
