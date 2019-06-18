@@ -1,17 +1,4 @@
---update blogpost CIV=anti-aging
-The west-coast style of CIV is effective for anti-aging, just like yoga.
 
-I think it's more anti-aging than other xx.
-
-I hope I am up to the game and can continue to play the game. I see many people gave up after an initial growth phase
---no blogpost: 
-With CIV, it's crucial to manage the setbacks. 
-Traditionally, one of my strengths is positive reaction to IV setbacks.
-I have reason to believe I still have this strength.
-
-It is easy to look at the gap and feel hopeless.
-
-Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
 --update blogpost on musicians and doctors.
 When we watch a movie from Europe, India, Korea ... we can tell whether it has any international appeal or only limited local audience.
 
@@ -44,6 +31,14 @@ I now feel Wall St QQ demands more experience than coding IV of west-coast. Codi
 QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
 
 Many inexperienced candidates were highly valued in CIV.
+--no blogpost: 
+With CIV, it's crucial to manage the setbacks. 
+Traditionally, one of my strengths is positive attitude to IV setbacks.
+I have reason to believe I still have this strength.
+
+It is easy to look at the gap and feel hopeless.
+
+Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
 --no blog
 java - exceeding expectations in the churn. Found 2nd life in web2.0
 c# - underwhelming. Displace in web2.0
