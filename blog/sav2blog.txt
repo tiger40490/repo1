@@ -1,7 +1,3 @@
---new: U.S. competition favors motivated candidates
-U.S. college admission policy emphasizes candidate motivation. Motivation is partly demonstrated by tough AP courses that a high-school student chooses for herself. 
-
-Similarly, west coast CIV measures motivation.
 
 --new blogpost: note-taking on phone
 I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
@@ -60,6 +56,11 @@ on 17 Jun 2019 I was highly dependent on my smart phone for
 * home-cooked healthy meals
 * more emphasis on CCA rather than exam benchmark
 * reading printed more than electronic media
+
+--new: U.S. competition favors motivated candidates
+U.S. college admission policy emphasizes candidate motivation. Motivation is partly demonstrated by tough AP courses that a high-school student chooses for herself. 
+
+Similarly, west coast CIV measures motivation.
 
 --no blogpost
 wife/in-laws often say "You spend so much family time on your studies but are you earning more?" 
