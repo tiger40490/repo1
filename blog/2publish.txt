@@ -1,9 +1,12 @@
+--food shopping
+sweet yam: small ones
+onions
+carrot: one pack ... can't keep
 --update blogpost on 5 tips2reduce ..
 Note this is kinda overlapping with a recent blogpost ...
 
 Be ready to look for lower-pay jobs with lower-calibre colleagues
 
---upload justNotepad via gmail? LGlp
 --63.1 kg not 63.5 kg on Sat 15 Jun
 --update blogpost on sweet spot:
 No brown-field big codebase please
