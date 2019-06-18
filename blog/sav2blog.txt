@@ -33,6 +33,8 @@ Taxi is not price-guaranteed in advance, and offers no complaint->refund feature
 
 In this scenario, i need familiarity, seamless reliability...
 
+If we must use uber next time, then ensure we know the route and we have the offline map or printed map
+
 --new: traveling to unfamiliar places: prefer 24x7 hotels
 on 17 Jun 2019 I found myself in rain, at quiet hours without anyone on the street to consult. The address plates on the buildings were too small to read in the dark. I believe the only solution is phone call but the host is not a hotel desk and didn't answer my calls.
 
@@ -44,6 +46,8 @@ Things could have been even worse if
 * cold
 * more luggage
 * fatigue
+
+If we must use a homestay then be sure to speak to host before-hand, not just rely on email. Be sure to agree on arrival time.
 
 --new: traveling to unfamiliar places: provide phone battery and mobile data
 on 17 Jun 2019 I was highly dependent on my smart phone for
