@@ -17,18 +17,18 @@ Q: would Qz be positive if there were a token bonus? I think so. I would have st
 --no blogpost
 In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
 
-In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding.
+In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding, even strategic.
 
 I now feel Zuhlke could prove more rewarding than MLP.
 
 --tower and zuhlke:
 i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
 
-if you stay within familiar domain, there's no chance of gaining some valuable zbs
+if you stay within familiar domain, there's no chance of gaining some valuable zbs. Low latency java@MLP is not completely familiar domain.
 
 for both the architect role and the Tower role, the expectation could be too high, but who knows where I may find strengths. 
 When I was younger (30's?) i was more fearless on technical ground. 
-Now I'm kinda bogged by negative experiences. 
+Now I'm kinda bogged down by negative experiences. 
 Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC and RTS, but the negative feedback "rebased" my self-assessment.
 
 I feel in many (if not all) cases, some may say i did a decent job.
@@ -49,13 +49,9 @@ Yang was tough but he liked my design in errorMemos.
 
 I convinced many that I was a local technical expert in my team.
 (Perhaps Chad was even stronger but that doesn't change the above fact -- consider Roger Federa.)
---consider giving Josh a heads up that I need to start looking for a SGP job. 
-Shall I discuss with Greg first?
-
-I would then try some west coast jobs in NY. Hopefully get an offer without taking it.
 
 --Q: is MLP better than SCB?
-A: Yes in terms of 1) reputation risk 4) connectivity
+A: Yes in terms of 1) reputation risk 4) connectivity, low-latency java
 A: No in terms of 2) coworkerBenchmark/stigma 3) c++ 
 
 Is java going to be easier? I said java was one of the top 3 factors of PIP.
