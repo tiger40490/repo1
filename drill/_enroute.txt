@@ -12,6 +12,20 @@ eg: [2 -1 -2 1 -4 2 8] ans: (-1 -2 1 -4) (2 8), diff = 16
 
 O(n^2) algorithm was not accepted. I feel O(N) is possible. Need clever data structure.
 I think Kadane or watermark algo can help
+
+Without loss of generality, let's assume the best result includes a min subarray on the left and a max subarray on the right.
+
+--idea 1: a partition point at 5 splits the array to 0-4 and 5-end
+For a given partition point, we can find the min subarray on the left and also max subarray on the right.
+
+Now shift the partition point ..
+
+---idea 2: 2 colliding pointers le and ri. 
+0-le contains a min subarray, and ri-end contains a max subarray. 
+
+How do I move the 2 pointers?
+
+if le item is positive then we should grow the max subarray.
 ----
 int-array problems are my relative weakness but I have done quite a few. I feel this is more about the algo rather the implementation
 
