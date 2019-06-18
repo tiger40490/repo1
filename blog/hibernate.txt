@@ -8,9 +8,9 @@ The time to go for c++ muscle building is when contract jobs are available. In S
 --new blogpost: don't be 100% -ve about next job
 Can we be slightly more positive about next job prospect?
 When reviewing each recent job experience, the positive xp seems dwarfed by the negative xp. 
-Many of the recent jobs ended in visible failure. These negative experience was 100% due to stigma. No such thing in contract jobs.
+Many of the recent jobs ended in painful failure. These negative experiences were 100% due to stigma. No such thing in contract jobs.
 
-The recent positive xp seems to be defined by modest and acceptable salary like 150k, tsn (py, dotnet, msvs, ...) and absence of stigma. 
+The positive xp seems to be defined by modest and acceptable salary like 150k, tsn (py, dotnet, msvs, ...) and absence of stigma. 
 
 Q: Would OC be positive if there were a token bonus? I think so. I was learning dotnet + quant happily. However, transfer to RTB team was unacceptable
 Q: would Qz be positive if there were a token bonus? I think so. I would have stayed for a year or two despite the zero mkt value.
@@ -19,21 +19,7 @@ In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the sa
 
 In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding.
 
-I now feel Zuhlke would prove more rewarding than MLP.
-
---no blogpost:
-now that my job search hits resistance, 
-
-* I feel so lucky to have the comfortable job in mvea team and 
-** the flexibility to work in SGP
-** stable job 
-** although time isn't really on my side... I can afford to wait.
-
-* i feel so lucky to have the mlg offer
-** high salary, proves my worth and earning capacity
-
-* I feel so lucky to have the SCB offer
-** high salary, proves my worth and earning capacity
+I now feel Zuhlke could prove more rewarding than MLP.
 
 --tower and zuhlke:
 i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
