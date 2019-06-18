@@ -1,3 +1,10 @@
+--new: self-coaching:one@%%top coping strategies
+cognitive self-talk
+positive twisters
+expressive writing
+build vocab for precise problem description
+
+This practice requires quiet time and some infrastructure like git-blogging, smemo, blgger->wordpress
 
 --new blogpost: note-taking on phone
 I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
