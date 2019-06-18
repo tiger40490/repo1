@@ -1,8 +1,4 @@
 
---update blogpost on musicians and doctors.
-When we watch a movie from Europe, India, Korea ... we can tell whether it has any international appeal or only limited local audience.
-
-Similarly localSys knowledge has value only within a single company. The expertise I demonstrate in job interviews are relevant across many sites.
 
 --new blogpost: ever recovered from PIP@@
 * yes GS -- Everyone rated me Meet except deMunk who used the official rating to derail my transfer. Ironically, deMunk himself was forced out before I resigned.
@@ -68,6 +64,11 @@ There's a thinly veiled leaning towards java.
 If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
 
 In reality, the solution you get using another language CAN be different from the optimal java solution.
+
+--update blogpost on musicians and doctors.
+When we watch a movie from Europe, India, Korea ... we can tell whether it has any international appeal or only limited local audience.
+
+Similarly localSys knowledge has value only within a single company. The expertise I demonstrate in job interviews are relevant across many sites.
 
 --no blogpost:
 Quoine probably designed a tcp feed for internet clients, but in the industry, multicast feed is more industrial-strength, more advanced, more practical. Such expertise is more in-demand 
