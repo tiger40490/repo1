@@ -1,8 +1,10 @@
 --new blog
-I now feel Wall St QQ demands more experience than coding IV of west-coast. Coding drill can use Leetcode over months.
+I observed that Solaris/Oracle is harder to self-teach than linux/mysql/php/python/perl/javascript because even a high-school student can install and hack with the latter. Entry-barrier is non-existent.
+
+Similarly, I now observe that Wall St QQ-IV demands longer experience than coding IV of west-coast. Coding drill can use Leetcode over months.
 QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
 
-Many inexperienced candidates were highly valued in CIV.
+Many inexperienced candidates were highly appreciated in west coast interviews. No such appreciation on Wall St.
 
 --update blog ... csy:
 the IV successes define me.
