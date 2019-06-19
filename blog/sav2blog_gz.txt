@@ -1,5 +1,3 @@
-
-
 --new blogpost: ever recovered from PIP@@
 * yes GS -- Everyone rated me Meet except deMunk who used the official rating to derail my transfer. Ironically, deMunk himself was forced out before I resigned.
 * yes Qz -- I achieved Meet/Meet in Official, final record
@@ -13,14 +11,6 @@ Receiving a job offer from Goog, DRW, Tower, GS etc would have an extremely posi
 The boost to self-image is probably much higher than expected and rather hard to measure.
 
 Remember as I age my attractiveness to these employers would decline
-
---new blogpost: avoid hot domains that attract young competitors
-I feel clearly less in-demand as I age. 
-Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, startups, lesser-known banks
-
-telecom?
-
-see also blogpost on 150k FTE@light load
 
 --no blogpost: 
 With CIV, it's crucial to manage the setbacks. 
@@ -40,11 +30,12 @@ With inet companies including nsdq, I can see my rise in ranking. If I try 10 mo
 I /may never/ become a rock star in these west coast CIVs but I see my potential as a dark horse in 1) white-board CIV, 2) pure-algo
 
 --no blog
-java - exceeding expectations in the churn. Found 2nd life in web2.0
-c# - underwhelming. Displace in web2.0
+java - exceeding my expectations in the churn. Found 2nd life in web2.0
+c# - underwhelming. Displace in web2.0. Google CIV uses 5 anguages, without c#
 c++ - matching my expectation. slow decline. Efficiency advantage is eclipsed by java and some new languages
-py - exceeding expectation
+py - exceeding my expectation
 javascript - exceeding expectation
+
 --update blogpost on ## self-esteem
 Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
 
@@ -54,6 +45,14 @@ The health hazard is really nothing but one mgr's assessment. For my recent pain
 * I conquered some of my biggest technology fears -- MSVS; c++ crash management; c++ large code navigation.. Other people may not agree, but my own experience proves that these challenges are harder than high-level dev (like web/scripting..). My fears were more deep-rooted.
 * I built real mileage in c#. I even proved myself stronger than some c# veterans when I created a simple web server to dump log files for everyday troubleshooting.
 * see more pointers in https://bintanvictor.wordpress.com/wp-admin/post.php?post=27139&action=edit
+
+--new blogpost: avoid hot domains that attract young competitors
+I feel clearly less in-demand as I age. 
+Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, startups, lesser-known banks
+
+telecom?
+
+see also blogpost on 150k FTE@light load
 
 --update blog on 'expert'
 If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recognized, accredited expert as proven on benchmarks/interviews.
