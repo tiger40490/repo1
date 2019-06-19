@@ -18,7 +18,6 @@ method -- post-date
 method -- mass print-out once a while for DRAM-refresh
 method -- remove outdated posts to reduce noise
 
-
 --new blogpost: note-taking on phone
 I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
 
@@ -39,40 +38,6 @@ Tip: in 2018 I started using designated sequence of dots q[.] in place of comma 
 
 --new blogpost:
 git-blogging lets me chip away at multiple (new or existing) posts. More efficient than frequent access to wordpress !
-
---new: beware JFK custom can take 2-3H
-We may get more tired than expected .. dangerous
-
---new: taxi beats uber at airport region
-on 17 Jun 2019, I should have taken a taxi at Terminal 1 taxi stand. 
-Instead I decided to save fare by going to Fed Circle, but there was no taxi stand so I had to use Uber, which was cumbersome on my phone and required waiting. 
-This is bad if fatigue or cold weather.
-
-Taxi is not price-guaranteed in advance, and offers no complaint->refund feature, but overall beats Uber hands-down in this high-stake scenario.
-
-In this scenario, i need familiarity, seamless reliability...
-
-If we must use uber next time, then ensure we know the route and we have the offline map or printed map
-
---new: traveling to unfamiliar places: prefer 24x7 hotels
-on 17 Jun 2019 I found myself in rain, at quiet hours without anyone on the street to consult. The address plates on the buildings were too small to read in the dark. I believe the only solution is phone call but the host is not a hotel desk and didn't answer my calls.
-
-This risk proved to be too high so I won't take the same risk. No Airbnb no homestay. I need a real hotel with 24x7 service.
-
-My flight was delayed by 3 hours and I had only 5 hours to recuperate before going to work :(
-
-Things could have been even worse if
-* cold
-* more luggage
-* fatigue
-
-If we must use a homestay then be sure to speak to host before-hand, not just rely on email. Be sure to agree on arrival time.
-
---new: traveling to unfamiliar places: provide phone battery and mobile data
-on 17 Jun 2019 I was highly dependent on my smart phone for
-* uber
-* map
-* call
 
 --no blogpost: Koreans have their traditions. My Chinese family also has our traditions
 * daily practices
