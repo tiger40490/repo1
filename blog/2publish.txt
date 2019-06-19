@@ -6,6 +6,12 @@ QQ requires not so much project experience but a lot of interview experience. It
 
 Many inexperienced candidates were highly appreciated in west coast interviews. No such appreciation on Wall St.
 
+--update blog on 'expert'
+If I were a 5Y VP (or ED) I would doubt if I'm just a localSys expert or an accredited expert as proven on benchmarks/interviews.
+
+Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
+Their expertise and value-add are be marginalized in the context of the current mainstream technologies
+
 --update blog ... csy:
 the IV successes define me.
 Without these successes, I am likely to feel a total failure and worthless, probably more than once a years -- self-knowledge.

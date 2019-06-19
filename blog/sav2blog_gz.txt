@@ -54,11 +54,6 @@ telecom?
 
 see also blogpost on 150k FTE@light load
 
---update blog on 'expert'
-If I were a 5Y VP (or ED) I would doubt if I'm just a local expert or a recognized, accredited expert as proven on benchmarks/interviews.
-
-Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
-Their expertise and value-add may be marginalized in the context of the current mainstream technologies
 
 --no blogpost
 Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
