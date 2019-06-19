@@ -37,6 +37,9 @@ A: compared to paper, I was able to keep many small topical notes in multiple "p
 
 Tip: in 2018 I started using designated sequence of dots q[.] in place of comma or dash
 
+--new blogpost:
+git-blogging lets me chip away at multiple (new or existing) posts. More efficient than frequent access to wordpress !
+
 --new: beware JFK custom can take 2-3H
 We may get more tired than expected .. dangerous
 
