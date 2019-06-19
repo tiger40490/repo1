@@ -1,13 +1,5 @@
 --shall I upload contact.txt for backup?
---new: self-coaching: one@%%G5 coping strategies
-[q] cognitive self-talk
-positive twister SMS
-[q] expressive writing
-build rich vocab for precise description of confusing or tricky adversities
-
-q = This practice requires quiet time and some infrastructure like git-blogging, smemo, blgger->wordpress 
-
---new: Q:2many posts2fx@@
+--new: Q:2many posts2fuxi@@
 Too many worthwhile poss in my blogs. How do I remember their existence?
 good method -- short-n-sharp questions as blog titles
 good method -- fuxiTitle
@@ -18,28 +10,7 @@ method -- post-date
 method -- mass print-out once a while for DRAM-refresh
 method -- remove outdated posts to reduce noise
 
---new blogpost: note-taking on phone
-I think those who use phone in favor of paper or laptop are not serious note takers. The phone has serious limitations for note taking. Inefficient due to screen+keyboard sizes.
-
-During my early 30's with my $100 Palm + foldable keyboard, I was able to take notes better.
-
-Overall, phone (and smemo) is good for brief notes below half a page.
-
-Q: Do phones offer any advantages?
-A: compared to laptop or paper, audio-blogging on phone has proven fairly useful
-A: compared to laptop, more nimble and light-weight. one-hand operation
-A: compared to laptop, backup via gmail is more available.
-A: compared to laptop, battery recharge is easier at any USB socket. Laptop recharge has been a minor stressor
-A: compared to paper, I was able to insert or delete content. Copy-paste is ... feasible though inconvenient.
-A: compared to paper, mass upload is feasible
-A: compared to paper, I was able to keep many small topical notes in multiple "pages". The more pages, the more visible this advantage becomes. With 10 "pages", the paper solution became stressful as I worried about losing them wholesale.
-
-Tip: in 2018 I started using designated sequence of dots q[.] in place of comma or dash
-
---new blogpost:
-git-blogging lets me chip away at multiple (new or existing) posts. More efficient than frequent access to wordpress !
-
---no blogpost: Koreans have their traditions. My Chinese family also has our traditions
+--new blogpost: Koreans have their wholesome traditions. My Chinese family also has ours
 * daily practices
 * home-cooked healthy meals
 * more emphasis on CCA rather than exam benchmark
@@ -62,12 +33,6 @@ Tangibility is defined by each individual, and requires a high degree of self-kn
 4 days into a week-long vacation, I start to feel the effect of deprivation/starvation of blogging. It is felt like a personal need similar to physical exercise, recreation. Interesting analogy -- starch. How many days can you go without starch before feeling deprived? 
 
 I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for a 3 days only.
-
---no blogpost:
-how do I make them feel my love? Mostly wife.
-gifts?
-acts of service, up to a limit that I can accept
-attentive listening
 
 --new blogpost: spare time as slack resource #blogging,parenting,xx
 In 2017 I wrote to Gerald Robinson that spare time depletion would become one of the key challenges/pains of my forthcoming/upcoming adjustments...

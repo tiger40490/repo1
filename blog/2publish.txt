@@ -12,14 +12,6 @@ If I were a 5Y VP (or ED) I would doubt if I'm just a localSys expert or an accr
 Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
 Their expertise and value-add are be marginalized in the context of the current mainstream technologies
 
---update blog ... csy:
-the IV successes define me.
-Without these successes, I am likely to feel a total failure and worthless, probably more than once a years -- self-knowledge.
-
---new blogpost: lucky:free from negativity@CIV #CSY
-i feel so lucky about freedom from negativity towards coding drill. 
-
-Major advantage! Most of my peers are bogged down by this negativity.
 
 --update blogpost CIV=anti-aging
 The west-coast style of CIV is effective for anti-aging, just like yoga.
@@ -28,11 +20,40 @@ I think it's more anti-aging than other xx.
 
 I hope I am up to the game and can continue to play the game. I see many people gave up after an initial growth phase
 
+--new blogpost: note-taking on phone
+I think those who use phone in favor of paper or laptop are not serious note takers. The phone has severe limitations for note taking. Inefficient due to screen+keyboard sizes.
+
+During my early 30's with my $100 Palm + foldable keyboard, I was able to take notes better.
+
+Overall, phone (and smemo) is good for brief notes below half a page.
+
+Q: Do phones offer any advantages?
+A: compared to laptop or paper -- audio-blogging on phone has proven fairly useful
+A: compared to laptop -- more nimble and light-weight. one-hand operation
+A: compared to laptop -- backup via gmail is more available.
+A: compared to laptop -- battery recharge is easier at any USB socket. Laptop recharge has been a minor stressor
+A: compared to paper -- I was able to insert or delete content. Copy-paste is ... feasible though inconvenient.
+A: compared to paper -- mass upload is feasible
+A: compared to paper -- I was able to separate many small topical notes into "pages". More pages makes this advantage more visible. With just 5 "pages", the paper solution became stressful as I worried about losing them wholesale.
+
+Tip: in 2018 I started using designated sequence of dots q[.] in place of comma or dash
+
+--new blogpost:
+git-blogging lets me chip away at multiple (new or existing) posts. More efficient than frequent access to wordpress !
+
 --email to wife
 I told a few people
 
 Many smarter women become scheming and cunning (I ran out of English adjectives to describe them) to take advantage of the husbands. 
 
 In contrast, my wife is a simple women, so I feel very safe and secure in my marriage. Simplicity is her virtue.
+
+--new: self-coaching: one@%%G5 coping strategies
+[q] cognitive self-talk
+positive twister SMS
+[q] expressive writing
+build rich vocab for precise description of confusing or tricky adversities
+
+q = This practice requires quiet time and some infrastructure like git-blogging, smemo, blgger->wordpress 
 
 --upload justNotepad via gmail? LGlp
