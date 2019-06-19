@@ -1,3 +1,6 @@
+--
+
+
 --new blogpost cod`drill outlasting C++self-study
 Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 
 
