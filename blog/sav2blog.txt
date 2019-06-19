@@ -1,11 +1,11 @@
 --shall I upload contact.txt for backup?
---new: self-coaching: one@%%top coping strategies
-cognitive self-talk
-positive twisters
-expressive writing
-build vocab for precise problem description
+--new: self-coaching: one@%%G5 coping strategies
+[q] cognitive self-talk
+positive twister SMS
+[q] expressive writing
+build rich vocab for precise description of confusing or tricky adversities
 
-This practice requires quiet time and some infrastructure like git-blogging, smemo, blgger->wordpress
+q = This practice requires quiet time and some infrastructure like git-blogging, smemo, blgger->wordpress 
 
 --new: Q:2many posts2fx@@
 Too many worthwhile poss in my blogs. How do I remember their existence?

@@ -1,5 +1,5 @@
 --new blog
-I observed that Solaris/Oracle is harder to self-teach than linux/mysql/php/python/perl/javascript because even a high-school student can install and hack with the latter. Entry-barrier is non-existent.
+I observed that Solaris/Oracle was harder to self-teach at home than linux/mysql/php/python/perl/javascript because even a high-school student can install and hack with the latter. Entry-barrier is non-existent.
 
 Similarly, I now observe that Wall St QQ-IV demands longer experience than coding IV of west-coast. Coding drill can use Leetcode over months.
 QQ requires not so much project experience but a lot of interview experience. It takes more than months of exploration and self-learning.
