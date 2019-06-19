@@ -120,21 +120,24 @@ Parenting (esp. my son) became a huge commitment in terms of my slack resources.
 Additional annual leave is supposed to be a slack resource but I think it doesn't reduce the pressure to perform.
 
 --new blogpost: multiple layers@protection(buffer)=>security
-
 Multiple layers@protection or buffer always provide me a real sense of enhanced security. I'm very sensitive to this kinda thing.
+
+[b = I like the imagery of shock-buffer or impact-buffer. They absorb impacts from unexpected adversities and buys me time.]
 
 I wish the list below can be more specific. On the other hand wide-ranging is kinda good.
 
-* eg: low BMI + pull up + fitness .. to protect against wellness "hazards".
-* eg: high fruit/veg low fat/starch diet .. to prepare for stress binge
+* [b] eg: low BMI + pull up + fitness .. to protect against wellness "hazards".
+* [b] high fruit/veg low fat/starch diet .. to prepare for stress binge
 * eg: low visible fat on belly to protect a (almost inevitable) bulging 
-* eg: SG and US as two job markets
-* eg: west coast and wall st as two job markets
+* SG and US as two job markets
+* west coast and wall st as two job markets
 * eg: c++ in addition to java to provide livelihood
 * eg: jxee in addition to coreJava to provide many times more job opportunities
-* eg: plenty of spare time, rather than fully stretched .. to protect against spare time "resource" depletion
-* eg: plenty of paid leaves to protect against "slack resource" (i.e. spare time) depletion
-* eg: wife able to make a living
-* eg: multiple passive incomes
+* [b] plenty of spare time, rather than fully stretched .. to protect against spare time "resource" depletion
+* plenty of paid leaves to protect against "slack resource" (such as spare time) depletion
+* wife able to make a living
+* multiple passive incomes
 * eg: MYS as additional retirement destination
-* eg: multiple low-cost laptops for coding drill and git blogging
+* [b] eg: multiple low-cost laptops for coding drill and git blogging. In crunch time, I need this backup support.
+* [b] eg: diskHog/landGrab files to be released when I run out of disk space
+* [b] living close to TCM clinic as low-cost alternatives to expensive western clinics
