@@ -1,9 +1,9 @@
 --new blogpost
-coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 
+Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. I think it may even outlast c++ self-study
 
 Anti-aging.
 
-enjoable.
+enjoyable? Yes possible and real. Not theoretical.
 --new blogpost on quant ^ coding drill
 quant knowledge used to be a halo, now replaced by coding IV skills like
 * DP, recursion
