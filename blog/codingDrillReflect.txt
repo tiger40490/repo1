@@ -1,10 +1,12 @@
---new blogpost
-Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. I think it may even outlast c++ self-study
+--new blogpost cod`drill outlasting C++self-study
+Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 
 
 Anti-aging.
 
 enjoyable? Yes possible and real. Not theoretical.
---new blogpost on quant ^ coding drill
+
+I think coding drill may even outlast c++ QQ self-study but crucially my c++ QQ has reached critical mass.
+--new blogpost: cod`drill^ quant self-study
 quant knowledge used to be a halo, now replaced by coding IV skills like
 * DP, recursion
 * data structures
@@ -12,14 +14,12 @@ quant knowledge used to be a halo, now replaced by coding IV skills like
 
 I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
 
-In 2012 When I was studying quant in my spare time, I was on a powerful ascent. In the subsequent years, I gradually lost most of the power. The sector was shrinking and market depth was disappointing.
+In 2012 When I was studying quant in my spare time, I was on a powerful ascent. In the subsequent years, I gradually lost steam. The quant sector was shrinking and market depth was disappointing.
 
 Since 2018, my coding drill feels very relevant, even though the gap behind the strong players continues to be a pain and a de-motivation.  When I stop comparing myself with the stronger players, I would feel my improvement in a highly valuable skill
 
 --q: with family distraction, is coding drill easier than blogging?
 I feel coding drill is more rewarding, more satisfying, less guilty
-
---perhaps I should start on new problems, put them on back burners and then read hints
 
 --new blogpost
 Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
