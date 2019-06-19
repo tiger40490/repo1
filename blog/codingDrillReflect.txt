@@ -28,6 +28,8 @@ Even with careful selection, i still find it rather futile -- many of the proble
 
 I feel I need to detach/disengage from the end result (technical wins). Enjoy the journey of focused engagement. Enjoy the self-improvement and self-mastery. 
 
+Prefer remote CIV. Avoid the cost of on-site interviews -- they are likely to frustrate.
+ 
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 A: practice as fresh grads do. Note my competitors tend to be younger including fresh grads.
