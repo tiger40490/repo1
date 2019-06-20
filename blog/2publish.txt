@@ -1,18 +1,20 @@
---update blog on 'expert'
-If I were a 5Y VP (or ED) I would doubt if I'm just a localSys expert or an accredited expert as proven on benchmarks/interviews.
+--email to Beier
+Hi Beier,
 
-Look at Shubin/Steve, the Sprite expert in London, Richard of Quoine .. 
-Their expertise and value-add are be marginalized in the context of the current mainstream technologies
+What's the reponse you got? Did they say you cleared the bar? 
 
---new blogpost:
-git-blogging lets me chip away at multiple (new or existing) posts. More efficient than frequent access to wordpress !
+I wonder what's the minimum requirement to clear the bar. Is it one pass or two passes on white-board session? I know a pass on the architecture session is not in the minimum requirement.
 
---new: self-coaching: one@%%G5 coping strategies
-[q] cognitive self-talk
-positive twister SMS
-[q] expressive writing
-build rich vocab for precise description of confusing or tricky adversities
+TaskDependency -- I enjoyed the task dependency problem. https://bintanvictor.wordpress.com/2018/05/29/priorityq/ is my recall of the problem. 
 
-q = This practice requires quiet time and some infrastructure like git-blogging, smemo, blgger->wordpress 
+I gave my best shot. I thought it was decent but interviewer actually rated it "below-the-bar". Did you come up with a solution with two priority queues? 
+
+CodeReview -- I thought basic functional bugs would not be in any code under review. I focused on code quality, code smells and subtle bugs. So I didn't spend enough time on the core algorithm, and I missed some serious bugs in the code. This was a big surprise. Now I know "code review" actually means "bug spotting by eyeball", so next time I would focus on bugs in the core logic. How did you fare?
+
+Architecture -- is the only question to test professional experience. 
+
+I believe the white-board and code-review sessions are designed such that candidates with 0 to 3 years working experience can clear the bar. Even a high-school students can practice for a few years to pass these interviews.
+
+In contrast, the architecture question required more experience than I had. I thought my ideas, analyses ... were non-trivial but interviewers actually rated it below-the-bar. So I assume they were looking for more technical insights, which more experienced candidates will have.
 
 --upload justNotepad via gmail? LGlp
