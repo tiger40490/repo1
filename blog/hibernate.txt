@@ -1,12 +1,5 @@
 --try DRW, GS, FB?
 
---no blogpost
-In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
-
-In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding, even strategic.
-
-I now feel Zuhlke could prove more rewarding than MLP.
-
 --tower and zuhlke:
 i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
 
@@ -25,6 +18,13 @@ more exposure
 possibly more reputable project 
 
 A zuhlke offer would be a great 2nd offer.
+
+--zuhlke vs MLP
+In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
+
+In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding, even strategic.
+
+I now feel Zuhlke could prove more rewarding than MLP.
 
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk 4) connectivity, low-latency java
