@@ -77,6 +77,12 @@ get an offer by Sep, before end of season, so I can spend more time with grandpa
 Luckily, my MS job is stable and stress-free, 
 * with remote work flexibility
 * with c++ contexx
+
+After receiving an offer
+* need to discuss GC with Jay
+* accept offer and start background check
+* once background clears, inform Greg and MS
+
 --propose to Jay
 beware of information leak. Better send after getting some SG offers
 
