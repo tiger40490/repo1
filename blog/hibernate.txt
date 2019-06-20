@@ -1,9 +1,20 @@
---try DRW, GS, FB?
+--try DRW, GS, FB, Goog?
 Receiving a job offer from Goog, DRW, Tower, GS etc would have an extremely positive impact on my self image, even if I don't join them or salary is low.
 
-The boost to self-image is probably much higher than expected and rather hard to measure.
+The boost to self-image is probably much higher and long-lasting than expected and rather hard to measure.
 
 Remember as I age my attractiveness to these employers would decline
+
+FB first round onsite can provide xx experience.
+
+If I go through zhaobin, i should be able to get a google first round
+
+ranking:
+Jump preparation .. but not too much py please
+DRW -- real chance
+FB
+GS
+Goog
 
 --tower and zuhlke:
 i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
@@ -14,15 +25,6 @@ for both the architect role and the Tower role, the expectation could be too hig
 When I was younger (30's?) i was more fearless on technical ground. 
 Now I'm kinda bogged down by negative experiences. 
 Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC and RTS, but the negative feedback "rebased" my self-assessment.
-
-I feel in many (if not all) cases, some may say i did a decent job.
-* Qz had a meet/meet assessment and my mgr (Sundip) liked my performance in the X'mas season.
-
---zuhlke is better than redmart
-more exposure
-possibly more reputable project 
-
-A zuhlke offer would be a great 2nd offer.
 
 --zuhlke vs MLP
 In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
@@ -39,18 +41,6 @@ Is java going to be easier? I said java was one of the top 3 factors of PIP.
 
 I may not join an HFT but an HFT c++ offer would be a boost to my confidence for years to come.
 Remember I did 10+ HFT c++ interviews
---HFT vs non-finance
-Risk is the deciding factor. 
-
-For MLP, Tower, Jump etc, I foresee high expectation/risk of stigma + PIP etc, but luckily I have a "knee guard" that I am inexperienced in this field and much older.
-
-Pollen allergy ..
-
-For a non-finance shop like Zuhlke, I estimate workload is lower, calibre is lower. Also I have a bigger "knee guard".
-
-On the positive side, I think inet experience might give me some insight but remember previous TSN attempts at eq-OMS, quant, drv-pricing, dotnet.
-
-I would still stay away from banks (including SCB) to safeguard my reputation
 
 --notes on hibernate timing
 get an offer by Sep, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have remaining, the more "attractive" I am among h1 candidates
