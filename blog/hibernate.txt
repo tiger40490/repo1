@@ -1,19 +1,5 @@
---update blog on attitude@java
-On the other hand, in 2017 after a review I concluded that java was a central piece of my sweet spot and a PIP protection. C++ codebase is likely to be harder and stressful.
+--try DRW, GS, FB?
 
-Overall, I still favor c++ but not so whole-heartedly. 
-
-The time to go for c++ muscle building is when contract jobs are available. In SG, since I have no contract job to provide the PIP-insurance, and given my pollen-allergy, I need to be realistic about my risk tolerance.
-
---new blogpost: don't be 100% -ve about next job
-Can we be slightly more positive about next job prospect?
-When reviewing each recent job experience, the positive xp seems dwarfed by the negative xp. 
-Many of the recent jobs ended in painful failure. These negative experiences were 100% due to stigma. No such thing in contract jobs.
-
-The positive xp seems to be defined by modest and acceptable salary like 150k, tsn (py, dotnet, msvs, ...) and absence of stigma. 
-
-Q: Would OC be positive if there were a token bonus? I think so. I was learning dotnet + quant happily. However, transfer to RTB team was unacceptable
-Q: would Qz be positive if there were a token bonus? I think so. I would have stayed for a year or two despite the zero mkt value.
 --no blogpost
 In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
 
@@ -39,16 +25,6 @@ more exposure
 possibly more reputable project 
 
 A zuhlke offer would be a great 2nd offer.
-
---new blogpost: GS tech challenge !! beyond  me
-GS challenge was tough but i conquered it convincingly!
-
-Everyone said I was good enough. 
-
-Yang was tough but he liked my design in errorMemos.
-
-I convinced many that I was a local technical expert in my team.
-(Perhaps Chad was even stronger but that doesn't change the above fact -- consider Roger Federa.)
 
 --Q: is MLP better than SCB?
 A: Yes in terms of 1) reputation risk 4) connectivity, low-latency java
@@ -83,25 +59,27 @@ After receiving an offer
 * accept offer and start background check
 * once background clears, inform Greg and MS
 
+--for Josh
+Consider giving him a heads up. He would appreciate it? Consult GregR.
+
+Consider taking some half-day leaves.
+
 --propose to Jay
 beware of information leak. Better send after getting some SG offers
 
 Hi Jay,
 
 Here's a new proposal
-* I will take an unpaid sabbatical for about 20 months
-starting Jul (or Aug..) 2019
-* will rejoin CEM in spring 2021, on my own to set things up for the family. I will then bring my family over before my son turns 13 in Aug 2019.
+* I will take an unpaid sabbatical for 20+ months
+starting Aug 2019
+* will rejoin CEM in 2021, on my own to set things up for the family. I will then bring my family over before my son turns 13 in Aug 2019.
 
-Reason 1: to spend a few years with my aging parents. My last chance, as my dad is too old travel to the U.S.
+Reason 1: to spend a few years with my aging parents. My last chance, as my dad is too old to spend time with us in the U.S.
 Reason 2: More Chinese education for my kids, but my son needs to leave Singapore before turning 13 to avoid a heavy NationalService liability deposit
-Reason : My h1b 6-year cap is limited. It's advantageous for me to save it by waiting for my green card outside U.S. I can "recapture" the 20 months spent outside the U.S.
 Reason (minor): income and cost -- there's cost saving in living with family. Please note higher salary is not so important to me. As you know I have walked away from higher offers many times (Morgan Stanley, Pimco etc). I'm impressed with your flexibility, efficiency and trustworthiness so I plan to stay with your firm when I return.
 
 Legal questions:
-Q: My priority date will be unaffected since CEM won't revoke my i-140?
-
-My decision is not finalized. If no good plan, then I can bring my family over in 2019 or 2020.
+Q: My priority date will be unaffected since CEM will keep my i-140?
 
 --email already sent out
 今天收到美国移民部 I-140 批准函， 我正式完成绿卡过程第二阶段。 再等上几年就可以拿绿卡了。 I-140 批准意味着我可以选择换雇主调高薪水， 也可考虑回新工作几年。
