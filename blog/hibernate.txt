@@ -16,18 +16,6 @@ FB
 GS
 Goog
 
---longer notice is better for me n josh
-
---tower and zuhlke:
-i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
-
-if you stay within familiar domain, there's no chance of gaining some valuable zbs. Low latency java@MLP is not completely familiar domain.
-
-for both the architect role and the Tower role, the expectation could be too high, but who knows where I may find strengths. 
-When I was younger (30's?) i was more fearless on technical ground. 
-Now I'm kinda bogged down by negative experiences. 
-Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC and RTS, but the negative feedback "rebased" my self-assessment.
-
 --zuhlke vs MLP
 In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
 
@@ -41,27 +29,20 @@ A: No in terms of 2) coworkerBenchmark/stigma 3) c++
 
 Is java going to be easier? I said java was one of the top 3 factors of PIP.
 
-I may not join an HFT but an HFT c++ offer would be a boost to my confidence for years to come.
-Remember I did 10+ HFT c++ interviews
+--tower and zuhlke:
+i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
+
+if you stay within familiar domain, there's no chance of gaining some valuable zbs. Low latency java@MLP is not completely familiar domain.
+
+for both the architect role and the Tower role, the expectation could be too high, but who knows where I may find strengths. 
+When I was younger (30's?) i was more fearless on technical ground. 
+Now I'm kinda bogged down by negative experiences. 
+Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC and RTS, but the negative feedback "rebased" my self-assessment.
 
 --notes on hibernate timing
+longer notice is better for me n josh
+
 get an offer by Sep, before end of season, so I can spend more time with grandparents and also save my 6Y. The more years I have remaining, the more "attractive" I am among h1 candidates
-
-Luckily, my MS job is stable and stress-free, 
-* with remote work flexibility
-* with c++ contexx
-
-After receiving an offer
-* need to discuss GC with Jay
-* accept offer and start background check
-* once background clears, inform Greg and MS
-
---for Josh
-Consider giving him a heads up. He would appreciate it? Consult GregR.
-
-Consider taking some half-day leaves.
-
-Ask Josh how I could help him ease the transition.
 
 --email already sent out
 今天收到美国移民部 I-140 批准函， 我正式完成绿卡过程第二阶段。 再等上几年就可以拿绿卡了。 I-140 批准意味着我可以选择换雇主调高薪水， 也可考虑回新工作几年。
