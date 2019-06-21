@@ -16,14 +16,6 @@ I have reason to believe I still have this strength.
 It is easy to look at the gap and feel hopeless.
 
 Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
---new:
-i had so many failures at c++ interviews before I started passing. Now I look like a c++ rock star to some 
-I had so many failures at HFT interviews before I started passing at DRW, SIG, Tower
-I had so many failures at remote speed coding before I started passing.
-
-With inet companies including nsdq, I can see my rise in ranking. If I try 10 more times the chance of further progress is more than 70%.
-
-I /may never/ become a rock star in these west coast CIVs but I see my potential as a dark horse in 1) white-board CIV, 2) pure-algo
 
 --no blogpost
 GregR told me the high-end python interviews were more selective than java interviews. I think the reason is same as west-coast coding interviews --
