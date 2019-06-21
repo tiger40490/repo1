@@ -1,3 +1,24 @@
+--update blogpost on word ladder
+first scan ... No need to be extra clever as this simple O(NN) algo is optimal IMO. No need to worry about the visualization of the graph either because the edge list is a proven representation
+
+"seen" -- or array of size N. Array is more elegant than hash table in this case.
+
+the last routine can be extracted to a "simple routine to be implemented later", so no need to worry about it in a white board session.
+
+
+--new blogpost: assignment^rebind]py^c++j 
+for a non-primitive, java assignment is always rebinding. Java behavior is well-understood and simple, compared to python.
+
+Compared to python, c++ assignment is actually well-documented .. comparable to a mutator method.
+
+Afaik, python assignment is always rebinding afaik, even for an integer. Integer objects are immutable, reference counted.
+In python, if you want two functions to share a single mutable integer variable, you can declare a global myInt. 
+It would be in the global idic/namespace. q[=] has special meaning like idic['myInt']=..
+
+Alternatively, you can wrap the int in a singular list and call list mutator methods, without q[=].
+
+See my experiment in github py/88lang
+
 --update to 3hit
 * Qz had a meet/meet assessment and my mgr (Sundip) liked my performance in the X'mas season.
 
@@ -15,6 +36,18 @@ I had so many failures at remote speed coding before I started passing.
 With inet companies including nsdq, I can see my rise in ranking. If I try 10 more times the chance of further progress is more than 70%.
 
 I /may never/ become a rock star in these west coast CIVs but I see my potential as a dark horse in 1) white-board CIV, 2) pure-algo
+==new blogpost ##coreJava QQ topics: stand-out from crowd
+beware of othRisk
+* low-level core threading features -- higher market value than ecosystem features like concurrency utilities, which are so numerous that most candidates are not expected to know in-depth
+* jGC
+* latency tuning -- including JIT
+* collections internals
+-- second tier QQ topics
+* reflection, AOP, bytecode engineering? never popular
+* advanced generics? out of fashion
+* class loader internals? out of fashion
+* JNI? never popular
+* jvm internals? never popular and never needed on any project
 
 --email to Beier
 Hi Beier,
