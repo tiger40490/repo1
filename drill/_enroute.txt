@@ -5,35 +5,6 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-====[cc] Q: Given an array of N signed integers. Find two disjoint contiguous sub-arrays such that the absolute difference between the two sub-array sums is maximized. 
-* The sub-arrays should not overlap. 
-
-eg: [2 -1 -2 1 -4 2 8] ans: (-1 -2 1 -4) (2 8), diff = 16 
-
-O(n^2) algorithm was not accepted. I feel O(N) is possible. Need clever data structure.
-I think Kadane or watermark algo can help
-
-Without loss of generality, let's assume the best result includes a min subarray on the left and a max subarray on the right.
-
---idea 1: a partition point at 5 splits the array to 0-4 and 5-end
-For a given partition point, we can find the min subarray on the left and also max subarray on the right.
-
-Now shift the partition point ..
-
----idea 2: 2 colliding pointers le and ri. 
-0-le contains a min subarray, and ri-end contains a max subarray. 
-
-How do I move the 2 pointers?
-
-if le item is positive then we should grow the max subarray.
---- idea 3: scan fwd to record at each position "max sum ending here" and "min sum ending here". Ditto reverse scan. 
-
-The meh could be zero as in Kadane.
-
-End up with N-array of {a,b,c,d} Records. Then scan this array
-----
-int-array problems are my relative weakness but I have done quite a few. I feel this is more about the algo rather the implementation
-
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 I will call the best pair "left winner" and "right winner"
 

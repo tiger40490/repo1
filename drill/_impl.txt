@@ -1,3 +1,32 @@
+====[cc] Q: Given an array of N signed integers. Find two disjoint contiguous sub-arrays such that the absolute difference between the two sub-array sums is maximized. 
+* The sub-arrays should not overlap. 
+
+eg: [2 -1 -2 1 -4 2 8] ans: (-1 -2 1 -4) (2 8), diff = 16 
+
+O(n^2) algorithm was not accepted. 
+
+Without loss of generality, let's assume the best result includes a min subarray on the left and a max subarray on the right.
+
+
+--idea 1: a partition point at 5 splits the array to 0-4 and 5-end
+For a given partition point, we can find the min subarray on the left and also max subarray on the right.
+
+A O(N^2) solution can be designed based on this idea -- at each partition point, O(N) search of min subarray sum on the left and max subarray sum on the right 
+
+---idea 2: 2 colliding pointers le and ri. 
+0-le contains a min subarray, and ri-end contains a max subarray. 
+
+How do I move the 2 pointers?
+
+if le item is positive then we should grow the max subarray.
+--- idea 3: O(N) scan fwd to record at each position "max sum ending here" and "min sum ending here". Ditto reverse scan. 
+
+The subarray is never empty, as in my minSubarraySum.py.
+
+End up with N-array of {a,b,c,d} Records. Then scan this array in O(N)
+----
+int-array problems are my relative weakness but I have done quite a few. I feel this is more about the algo rather the implementation
+
 ====[cc] 60% Q (looks like contrived but very popular): You have k uneven lists of sorted integers. Find the smallest range that includes at least one number from each of the k lists. 
 
 For example, 
