@@ -5,7 +5,7 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-====[cc] Q: Given an array of signed integers. Find two disjoint contiguous sub-arrays such that the absolute difference between the two sub-array sums is maximized. 
+====[cc] Q: Given an array of N signed integers. Find two disjoint contiguous sub-arrays such that the absolute difference between the two sub-array sums is maximized. 
 * The sub-arrays should not overlap. 
 
 eg: [2 -1 -2 1 -4 2 8] ans: (-1 -2 1 -4) (2 8), diff = 16 
@@ -26,6 +26,11 @@ Now shift the partition point ..
 How do I move the 2 pointers?
 
 if le item is positive then we should grow the max subarray.
+--- idea 3: scan fwd to record at each position "max sum ending here" and "min sum ending here". Ditto reverse scan. 
+
+The meh could be zero as in Kadane.
+
+End up with N-array of {a,b,c,d} Records. Then scan this array
 ----
 int-array problems are my relative weakness but I have done quite a few. I feel this is more about the algo rather the implementation
 
