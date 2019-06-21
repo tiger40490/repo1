@@ -3,7 +3,7 @@ Hi Beier,
 
 What's the response you got? Did they say you cleared the bar? 
 
-I wonder what's the minimum requirement to clear the bar. Is it one pass or two passes on white-board session? I know a pass on the architecture session is not in the minimum requirement.
+I wonder what's the minimum requirement to clear the bar. Is it one pass or two passes on white-board session? I know a pass on the architecture session is Not in the minimum requirement.
 
 TaskDependency -- I enjoyed the task dependency problem. https://bintanvictor.wordpress.com/2018/05/29/priorityq/ is my recall of the problem. 
 

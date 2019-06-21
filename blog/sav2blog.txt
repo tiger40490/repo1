@@ -1,69 +1,9 @@
+--update blogpost on passwords..
+Use wordpress post-by-email but change the number?
 --shall I upload contact.txt for backup?
---new: Q:2many posts2fuxi@@
-Too many worthwhile poss in my blogs. How do I remember their existence?
-good method -- short-n-sharp questions as blog titles
-good method -- fuxiTitle
-good method -- tagging/categories but categories have higher tcost
-good method -- send selected content to friends then post on my blog. Enhanced memory retention
-method -- use abbr in titles of those worthwhile blogposts, so as to sqeeze in more keywords
-method -- post-date
-method -- mass print-out once a while for DRAM-refresh
-method -- remove outdated posts to reduce noise
-
---new blogpost: Koreans have their wholesome traditions. My Chinese family also has ours
-* daily practices
-* home-cooked healthy meals
-* more emphasis on CCA rather than exam benchmark
-* reading printed more than electronic media
-
---new: U.S. competition favors motivated candidates
-U.S. college admission policy emphasizes candidate motivation. Motivation is partly demonstrated by tough AP courses that a high-school student chooses for herself. 
-
-Similarly, west coast CIV measures motivation.
-
---no blogpost
-wife/in-laws often say "You spend so much family time on your studies but are you earning more?" 
-
-Translating personal endeavor to income is holy grail .. frustrating.. Few people can achieve it. Many try personal investment but most fail.
-
-I believe many professionals don't have the abilities to convert spare time to tangible personal growth. 
-Tangibility is defined by each individual, and requires a high degree of self-knowledge. 
+encrypt?
 
 --no blogpost:
 4 days into a week-long vacation, I start to feel the effect of deprivation/starvation of blogging. It is felt like a personal need similar to physical exercise, recreation. Interesting analogy -- starch. How many days can you go without starch before feeling deprived? 
 
 I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for a 3 days only.
-
---new blogpost: spare time as slack resource #blogging,parenting,xx
-In 2017 I wrote to Gerald Robinson that spare time depletion would become one of the key challenges/pains of my forthcoming/upcoming adjustments...
-
-Bayonne commute is tolerable only when I have plenty of "slack resource".
-
-For many (probably most) of my peers, if they don't feel the drive to keep learning in their spare time, the resource depletion doesn't feel so harmful....
-
-Parenting (esp. my son) became a huge commitment in terms of my slack resources...
-
-Additional annual leave is supposed to be a slack resource but I think it doesn't reduce the pressure to perform.
-
---new blogpost: multiple layers@protection(buffer)=>security
-Multiple layers@protection or buffer always provide me a real sense of enhanced security. I'm very sensitive to this kinda thing.
-
-[b = I like the imagery of shock-buffer or impact-buffer. They absorb impacts from unexpected adversities and buys me time.]
-
-I wish the list below can be more specific. On the other hand wide-ranging is kinda good.
-
-* [b] eg: low BMI + pull up + fitness .. to protect against wellness "hazards".
-* [b] high fruit/veg low fat/starch diet .. to prepare for stress binge
-* eg: low visible fat on belly to protect a (almost inevitable) bulging 
-* SG and US as two job markets
-* west coast and wall st as two job markets
-* eg: c++ in addition to java to provide livelihood
-* eg: jxee in addition to coreJava to provide many times more job opportunities
-* [b] plenty of spare time, rather than fully stretched .. to protect against spare time "resource" depletion
-* plenty of paid leaves to protect against "slack resource" (such as spare time) depletion
-* wife able to make a living
-* multiple passive incomes
-* eg: MYS as additional retirement destination
-* [b] eg: multiple low-cost laptops for coding drill and git blogging. In crunch time, I need this backup support.
-* [b] eg: diskHog/landGrab files to be released when I run out of disk space
-* [b] living close to TCM clinic as low-cost alternatives to expensive western clinics
