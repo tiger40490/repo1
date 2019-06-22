@@ -1,3 +1,13 @@
-Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
+review the LMH facebook problem
+
+====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 
 Eg: {B,A,$3} {A,C,$1} {C,B,$2} means A received $2, B lent $1, C lent $1.
+====Q: optimal bst... classic DP problem: 
+Given a set of search keys and their hit probabilities, construct the BST with lowest search cost. 
+we know the probabilities add up to 100%. 
+There are many ways to construct a BST (I solved that problem, shared by Rahul), but the search cost is different, defined as
+
+sum of {depth of key_i * probability of key_i}
+
+Can we put the busiest key as root? But what if it is the first/last key?
