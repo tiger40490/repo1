@@ -1,5 +1,12 @@
 review the LMH facebook problem
 
+====Q: isSymetric(root of a binary tree)
+--idea 1: BFT to list all nodes with level. Then for each node, record the path-from-root as a list.
+Now we scan each level from both ends. The the left node's path should mirror the right node's path
+
+====Q: given the root, invert a binary tree possibly asymmetrical
+--idea 1: BFT to append each node. When popping a node, if it has any le/ri pointers, swap them
+
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 
 Eg: {B,A,$3} {A,C,$1} {C,B,$2} means A received $2, B lent $1, C lent $1.
