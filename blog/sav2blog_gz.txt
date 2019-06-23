@@ -1,7 +1,12 @@
 --no blog
+I spent weeks on ejb but it fell out of fashion. How about rvr and move-semantics?
+Still better t-investment than Qz
+--no blog
 though civ ignores our experiences, the overall hiring process does NOT treat us same as a fresh grad. 
 
 Fresh grads don't have my wall st option. If they aren't good enough for the top tech shops, then they won't earn my salary
+--new blog:
+I was able to move between countries and between industries, primarily based on IV. In contrast, you can't rely on GTD, localSys..
 
 --update blogpost on survivor
 I more than survived at Macq in first year, with a bonus
