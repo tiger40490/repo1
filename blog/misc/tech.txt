@@ -1,3 +1,6 @@
+--Q: in graph DFT and BFT, do we need a "seen" hashtable to remember visited nodes?
+I think so. The textbook DFT/BFT algos use white/grey/black for this purpose. It's basically a hashtable { node addr -> color }
+
 --New blogpost: many things]python can have attributes 
 Those "things" can be a module, a function, a class, an instance of a class
 
