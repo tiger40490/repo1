@@ -5,7 +5,9 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-====median of 2 sorted lists:
+====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner heading to north east corner. The diagonal connecting them can be touched but not crossed. Generate all paths
+
+====revisit: median of 2 sorted lists:
 Assume arr1 is shorter.
 Idea 2: compare mid(arr1) vs mid(arr2)
 Suppose former is lower, i can discard lower half of arr1 (s items). Can i discard highest s items in arr2?
