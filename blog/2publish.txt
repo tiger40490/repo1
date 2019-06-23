@@ -1,3 +1,4 @@
+--publish the numPad 
 --email to Beier
 Hi Beier,
 
@@ -9,12 +10,14 @@ TaskDependency -- I enjoyed the task dependency problem. https://bintanvictor.wo
 
 I gave my best shot. I thought it was decent but interviewer actually rated it "below-the-bar". Did you come up with a solution with two priority queues? 
 
-CodeReview -- I thought basic functional bugs would not be in any code under review. I focused on code quality, code smells and subtle bugs. So I didn't spend enough time on the core algorithm, and I missed some serious bugs in the code. This was a big surprise. Now I know "code review" actually means "bug spotting by eyeball", so next time I would focus on bugs in the core logic. How did you fare?
+CodeReview -- I thought basic functional bugs would not be present in any code under review. I focused on code quality, code smells and subtle bugs. So I didn't spend enough time on the core algorithm, and probably missed some serious bugs therein. 
+
+This was a big surprise. Now I know "code review" actually means "bug spotting by eyeball", so next time I would focus on bugs in the core logic. How did you fare?
 
 Architecture -- is the only question to test professional experience. 
 
-I believe the white-board and code-review sessions are designed such that candidates with 0 to 3 years working experience can clear the bar. Even a high-school students can practice for a few years to pass these interviews.
+I believe the white-board and code-review sessions are designed such that even candidates with 0 to 3 years working experience can clear the bar. Even a high-school students can practice for a few years to pass these interviews.
 
-In contrast, the architecture question required more experience than I had. I thought my ideas, analyses ... were non-trivial but interviewers actually rated it below-the-bar. So I assume they were looking for more technical insights, which more experienced candidates will have.
+In contrast, the architecture question required more experience than I had. I thought my ideas, analyses ... were non-trivial and demonstrated insight and experience, but interviewers actually rated it below-the-bar. So I assume they were looking for more technical insights, which more experienced candidates will have.
 
 --upload justNotepad via gmail? LGlp
