@@ -1,14 +1,17 @@
 --update blogpost on c++tmp
-tmp QQ nlg may turn out to be similar to java bytecode engineering, generics, EJB
+C++TMP and rvr QQ may turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M) ...
 
-I spent months on ejb but it fell out of fashion. How about rvr? Note TMP is more time-honored than rvr.
-Still better t-investment than Qz
+Still better roti than Qz
+
+Note TMP is more time-honored but less quizzed than rvr.
 --no blog
-though civ ignores our experiences, the overall hiring process does NOT treat us same as a fresh grad. 
+Though CIV by definition ignores candidate experience level, the overall hiring process does NOT treat us same as a fresh grad. 
 
-Fresh grads don't have my wall st option. If they aren't good enough for the top tech shops, then they won't earn my salary
---new blog:
-I was able to move between countries and between industries, primarily based on IV. In contrast, you can't rely on GTD, localSys..
+Fresh grads don't have Wall st senior dev job options. If they aren't good enough for the top tech shops, then they won't earn my salary.
+
+When I was undergrad, I could solve many leetcode/hackerrank problems, with or without practice.
+--no blog:
+I was able to move between countries and between industries, primarily based on interview skill. We can't rely on GTD, localSys..
 
 --update blogpost on survivor
 I more than survived at Macq in first year, with a bonus
