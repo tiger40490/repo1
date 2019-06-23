@@ -1,3 +1,8 @@
+--new blogpost:
+A central technique through TMP is class template specialization. Class templates' flexibility can only be achieved via specialization but function templates's flexibility can be achieved via overload ! Overload is much simpler and cleaner than specialization.
+
+In [[c++coding standard]], Alexandrescu/Sutter said "Don't specialize func templates"
+
 --Q: in graph DFT and BFT, do we need a "seen" hashtable to remember visited nodes?
 I think so. The textbook DFT/BFT algos use white/grey/black for this purpose. It's basically a hashtable { node addr -> color }
 
