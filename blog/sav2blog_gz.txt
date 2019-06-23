@@ -1,10 +1,7 @@
---Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy?
-* respect, app ... freedom from stigma
-* impact? Not really important to me
-* domain: devops?
-* domain: quant dev? 
-* domain: inet? impactful but not more enjoyable than my recent jobs
-* domain: mkt data? impactful but not more enjoyable
+--no blog
+though civ ignores our experiences, the overall hiring process does NOT treat us same as a fresh grad. 
+
+Fresh grads don't have my wall st option. If they aren't good enough for the top tech shops, then they won't earn my salary
 
 --update blogpost on survivor
 I more than survived at Macq in first year, with a bonus
@@ -26,6 +23,15 @@ Traditionally, one of my strengths is positive attitude to IV setbacks.
 It is easy to look at the gap and feel hopeless.
 
 Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
+
+--no blogpost:
+Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy?
+* impact? Not really important to me
+* OC type of easy job with plenty of spare time?
+* domain: devops?
+* domain: quant dev, with low churn? 
+* domain: inet? impactful but high-churn... not more enjoyable than my recent jobs
+* domain: mkt data? impactful, low churn but not more enjoyable than other jobs
 
 --new: job search SG still slower than NY
 I didn't try the ibank jobs...
