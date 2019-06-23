@@ -1,9 +1,30 @@
---update blogpost on c++tmp
+--pretty women have easy job search .. similarly I have an easier job search
+--tsn is romanticized. Seldom worked out as planned? 
+Cpp yes
+Eq trading engine ? Not sure
+--ideal job
+150k or even 140k
+Low pip risk
+.contract
+.Low calibre colleagues like oc n rts
+Acceptable domain .. vague!
+--Any perm job without formal appraisal? 
+--Living with family. .. I will  have low traction with qq study. Perhaps coding drill better
+--experts sizing up each other (othRisk)
+Female engineer at an exhibition booth. 
+Which acid tests? qq topics or algo or other zbs topics (I tend to read in my spare time)?--update blogpost on c++tmp
 C++TMP and rvr QQ may turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M) ...
 
 Still better roti than Qz
 
 Note TMP is more time-honored but less quizzed than rvr.
+
+TMP is 
+.needed when reaching next level in c++ zbs. Many new cpp features r added for TMP. I feel TMP is the main innovation thrust across c++ language n standard development. cpp lost many competitions but no other languages offer powerful TMP features.  
+.seldom quizzed in QQ but sometimes you can showcase your Halo. 
+.never needed in greenfield projects.  .Occasionally relevant in understanding existing code base
+
+TMP is used with macros as both are compile time features.
 --no blog
 Though CIV by definition ignores candidate experience level, the overall hiring process does NOT treat us same as a fresh grad. 
 
