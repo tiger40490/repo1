@@ -1,4 +1,4 @@
---update blogpost: easier passwords ..
+--update blogpost: next password ..
 Use wordpress post-by-email but change the number?
 
 --shall I upload contact.txt for backup?
