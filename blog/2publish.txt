@@ -1,4 +1,11 @@
 --publish the numPad 
+====update blog: median of 2 sorted arrays:
+Designate arr1 as the shorter array.
+Idea 2: compare mid(arr1) vs mid(arr2)
+Suppose former is lower, i can discard lower half of arr1 (s items). Can i discard highest s items in arr2?
+
+upper half of arr2 cannot have the median, so a subset of it can be discarded
+
 --email to Beier
 Hi Beier,
 
