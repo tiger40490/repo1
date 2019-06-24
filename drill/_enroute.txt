@@ -5,15 +5,8 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner moving north or east each s(tep, towards that corner. The diagonal connecting them can be touched but not crossed. Generate all paths
-
-Grid traversal.
-
-DFT will require deep recursion. 
-
-BFT (with color)
 ====revisit: median of 2 sorted lists:
-Assume arr1 is shorter.
+Designate arr1 as the shorter array.
 Idea 2: compare mid(arr1) vs mid(arr2)
 Suppose former is lower, i can discard lower half of arr1 (s items). Can i discard highest s items in arr2?
 
@@ -27,6 +20,15 @@ Now we scan each level from both ends. The left node's path should mirror the ri
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 
 Eg: {B,A,$3} {A,C,$1} {C,B,$2} means A received $2, B lent $1, C lent $1.
+
+
+====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner moving north or east each s(tep, towards that corner. The diagonal connecting them can be touched but not crossed. Generate all paths
+
+Grid traversal.
+
+DFT will require deep recursion. 
+
+BFT (with color)
 ====Q: optimal bst... classic DP problem: 
 Given a set of search keys and their hit probabilities, construct the BST with lowest search cost. 
 we know the probabilities add up to 100%. 
