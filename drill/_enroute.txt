@@ -20,11 +20,6 @@ Now scan each level from both ends. The left item's path should mirror the right
 
 (Before the scan. confirm the node count is even.)
 
-====Q 60% (goog): given the root, invert a binary tree possibly asymmetrical
-swap the two child pointers in each node? It's better to assume north/south child pointers -- every pair would be turned upside-down.
-
---idea 1: BFT to append each node. When popping a node, swap the 2 child pointers
-
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 
 Eg: {B>A,$3} {A>C,$1} {C>B,$2} means A received $2, B lent $1, C lent $1.
@@ -33,15 +28,15 @@ Each person gets an account with a final balance. Some (say 22) balances are pos
 
 To really clean up, it's good to identify disjoint groups of persons. Within each group, settle.
 
-====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner moving north or east each s(tep, towards that corner. The diagonal connecting them can be touched but not crossed. Generate all paths
+====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner moving north or east each step, towards that corner. The diagonal connecting them can be touched but not crossed. Generate all paths
 
 Grid traversal.
 
 DFT will require deep recursion. 
 
 BFT (with color)
-====Q: optimal bst... classic DP problem: 
-Given a set of search keys and their hit probabilities, construct the BST with lowest search cost. 
+====Q (classic DP problem, not contrived): optimal bst: 
+Given a set of sorted search keys and their hit probabilities, construct the BST with lowest search cost. 
 we know the probabilities add up to 100%. 
 There are many ways to construct a BST (I solved that problem, shared by Rahul), but the search cost is different, defined as
 
