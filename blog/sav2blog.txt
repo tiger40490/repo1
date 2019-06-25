@@ -24,16 +24,17 @@ sugg: Friday evening is golden. Other parts of the weekend can also be valuable
 Sugg: take half-day leaves to create half-day quiet periods at home. This feature isn't available to contractor
 Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
 Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
+
 --new
 The honeymoon of engagement (on localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
 eg@engage: morning quiet time... the zone
 eg@engage: on flights
 
 --new:
-spent on good mobile data and mobile devices to capture the creativity ...
-spent on printer
-spent on hotel stay near office (or taxi home) to capture the engagement on localSys
-spent on flights to gain family time, engaged 
-spent unpaid leave to attend interviews .. to gain joy, motivation, engagement, precious insight into their selection priority
-spent unpaid leave before starting new job .. to gain peaceful family time? low ROI
-spent (gave up higher pay rate) to gain ... c++ skills like QQ, GTD, zbs
+increase spend on good mobile data and mobile devices to capture the creativity ...
+increase spend on printer
+increase spend on hotel stay near office (or taxi home) to capture the engagement on localSys
+spend on flights to gain family time, engaged 
+spend unpaid leave to attend interviews .. to gain joy, motivation, engagement, precious insight into their selection priority
+Regrettable spent unpaid leave before starting Macq job .. to gain peaceful family time? low ROI
+questionable spend (gave up higher pay rate) to gain ... c++ skills like QQ, GTD, zbs
