@@ -1,19 +1,16 @@
---try DRW, GS, FB, Goog?
+--try FB, Goog?
 Receiving a job offer from Goog, DRW, Tower, GS etc would have an extremely positive impact on my self image, even if I don't join them or salary is low.
 
 The boost to self-image is probably much higher and long-lasting than expected and rather hard to measure.
 
 Remember as I age my attractiveness to these employers would decline
 
-FB first round onsite can provide xx experience.
-
 If I go through zhaobin, i should be able to get a google first round
 
 ranking:
 Jump preparation .. but not too much py xx please. ROTI and core knlg base isn't well-defined.
-DRW -- real chance
+DRW -- real chance. Ask Josh Sparks
 FB
-GS
 Goog
 
 --zuhlke vs MLP
@@ -24,8 +21,8 @@ In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to b
 I now feel Zuhlke could prove more rewarding than MLP.
 
 --Q: is MLP better than SCB?
-A: Yes in terms of 1) reputation risk 4) connectivity, low-latency java
-A: No in terms of 2) coworkerBenchmark/stigma 3) c++ 
+A: Yes in terms of 1) reputation risk 
+A: No in terms of 2) younger coworkerBenchmark/stigma 3) c++ vs connectivity, low-latency java
 
 Is java going to be easier? I said java was one of the top 3 factors of PIP.
 
