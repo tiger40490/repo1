@@ -5,18 +5,33 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+====Q (50%): isSymetric(root of a binary tree)
+assumption: node count unknown. Even if it's known, the info won't help bigO
 
-====Q: isSymetric(root of a binary tree)
---idea 1: BFT to list all nodes with level. Then for each node, record the path-from-root as a list.
-Now we scan each level from both ends. The left node's path should mirror the right node's path
+dft won't work?
+in-order ?
+Any simpler algo?
+How do I know if two nodes are the pair? Must check path-from-root? 
 
-====Q (goog): given the root, invert a binary tree possibly asymmetrical
---idea 1: BFT to append each node. When popping a node, if it has any le/ri pointers, swap them
+--idea 1: BFT to list all nodes with level. 
+For each node, record the path-from-root as a list. As a lighter alternative to this "list", the path can degenerate to the last step, as a le/ri flag.
+
+Now scan each level from both ends. The left item's path should mirror the right item's path.
+
+(Before the scan. confirm the node count is even.)
+
+====Q 60% (goog): given the root, invert a binary tree possibly asymmetrical
+swap the two child pointers in each node? It's better to assume north/south child pointers -- every pair would be turned upside-down.
+
+--idea 1: BFT to append each node. When popping a node, swap the 2 child pointers
 
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 
-Eg: {B,A,$3} {A,C,$1} {C,B,$2} means A received $2, B lent $1, C lent $1.
+Eg: {B>A,$3} {A>C,$1} {C>B,$2} means A received $2, B lent $1, C lent $1.
 
+Each person gets an account with a final balance. Some (say 22) balances are positive, while the rest (say 11) negative. 
+
+To really clean up, it's good to identify disjoint groups of persons. Within each group, settle.
 
 ====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner moving north or east each s(tep, towards that corner. The diagonal connecting them can be touched but not crossed. Generate all paths
 
