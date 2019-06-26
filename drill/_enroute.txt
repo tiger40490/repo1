@@ -5,20 +5,6 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-====Q (50%): isSymetric(root of a binary tree)
-assumption: node count unknown. Even if it's known, the info won't help bigO
-
-dft won't work?
-in-order ?
-Any simpler algo?
-How do I know if two nodes are the pair? Must check path-from-root? 
-
---idea 1: BFT to list all nodes with level. 
-For each node, record the path-from-root as a list. As a lighter alternative to this "list", the path can degenerate to the last step, as a le/ri flag.
-
-Now scan each level from both ends. The left item's path should mirror the right item's path.
-
-(Before the scan. confirm the node count is even.)
 
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 

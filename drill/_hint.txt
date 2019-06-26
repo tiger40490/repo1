@@ -1,4 +1,19 @@
 ==Q[L]: max profit with up to 2 buy-sell pairs
+====Q (60%): isSymetric(root of a binary tree)
+assumption: node count unknown. (Even if it's known, the info won't help bigO.)
+
+dft won't work?
+in-order ?
+Any simpler algo?
+How do I know if two nodes are the pair? Must check path-from-root? 
+
+--idea 1: BFT to list all nodes with level. 
+For each node's enqueue(), record the path-from-root as a list. As a lighter alternative to this "list", the path can degenerate to the last step, as a le/ri flag.
+
+Now scan each level from both ends. The left item's path should mirror the right item's path.
+
+(Before the scan. confirm the node count is even.)
+
 ====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
 I think we should read some hints.
