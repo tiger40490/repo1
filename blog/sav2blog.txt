@@ -2,6 +2,7 @@
 Use wordpress post-by-email but change the number?
 
 --shall I upload contact.txt for backup?
+gmail?
 encrypt?
 
 --no blogpost:
@@ -26,7 +27,7 @@ Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), 
 Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
 
 --new
-The honeymoon of engagement (on localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
+The honeymoon of engagement (on coding drill, localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
 eg@engage: morning quiet time... the zone
 eg@engage: on flights
 
