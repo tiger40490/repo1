@@ -1,3 +1,14 @@
+--no blogpost:
+even though conventional wisdom says i need to practice speed coding till i can complete 2 "medium" problems in 40 minutes, I will take the bet that I don't need to. 
+
+Such a practice is too painful. I'd rather go in with known risk of rejection than pushing myself to do painful practice (consider yoga)
+
+speed is more important than fine quality. I need to unlearn what FB seminar preached.
+
+--
+the new leetcode sub-culture is like math practice my son (and me at his age) needs to do. If you don't bother to practice then you will fail to qualify. There are tests in his school throughout the year. He will likely fail most of them. 
+
+It's really funny that me and my son are in exactly the same situation. Absorbency is both ability and effort.
 --new blogpost: lucky:free from negativity@CIV #CSY
 i feel so lucky about freedom from negativity towards coding drill. 
 
