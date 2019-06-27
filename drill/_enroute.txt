@@ -5,22 +5,24 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
+Eg: {B>A,$3} {A>C,$1} {C>B,$2} means ultimately A received $2, B lent $1, C lent $1.
 
-Eg: {B>A,$3} {A>C,$1} {C>B,$2} means A received $2, B lent $1, C lent $1.
-
-Each person gets an account with a final balance. Some (say 22) balances are positive, while the rest (say 11) negative. 
+Each person gets an account with a final balance. Some (say 22) accounts are positive, while the rest (say 11) negative. 
 
 To really clean up, it's good to identify disjoint groups of persons. Within each group, settle.
 
-====Q from p 183  [[discrete math]]: given a n x n grid. Start from south west corner moving north or east each step, towards that corner. The diagonal connecting them can be touched but not crossed. Generate all paths
+what's the exact requirement? Better ask Rahul
+====Q from p 183  [[discrete math]]: given a n x n grid. Start from north west corner moving south or east each step, towards that corner. The diagonal connecting them can be touched from north, but not crossed. print all paths
 
-Grid traversal.
+Better to treat origin as [0,0] and end as [N,N]
 
 DFT will require deep recursion. 
-
-BFT (with color)
+BFT (with color) where each node remembers all paths-from-root? Kinda brute force 
+How about DP bottom-up? Not good
+--iterative
+Each path has 2N steps, but on any partial path the southward steps must not exceed eastward steps. 
+Make 2N decisions. Be greedy on southward?
 ====Q (classic DP problem, not contrived): optimal bst: 
 Given a set of sorted search keys and their hit probabilities, construct the BST with lowest search cost. 
 we know the probabilities add up to 100%. 
