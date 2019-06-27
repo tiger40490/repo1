@@ -1,24 +1,26 @@
 --update blog on survivor
-My sampling technique was biased. I didn't count the number of times I survived layoff
-* GS through GFC
+My sampling technique was biased, statistically. I didn't count the number of times I survived layoff:
+* GS during GFC
 * OC through the transfer
 * Stirt through the meet/meet
 * Macq through the transfer
 
-My perception of entire period was tainted -- "once I got a PIP, all subsequent positive evidence is negligible."
+My perception of each entire period was tainted -- "once I got a PIP, all subsequent positive evidence is negligible."
 
---pretty women have easy job search .. similarly I have an easier job search
 --tsn is romanticized. Seldom worked out as planned? 
 Cpp yes
 Eq trading engine ? Not sure
+
 --ideal job
 150k or even 140k
 Low pip risk
 .contract
 .Low calibre colleagues like oc n rts
 Acceptable domain .. vague!
+
 --Any perm job without formal appraisal? 
---Living with family. .. I will  have low traction with qq study. Perhaps coding drill better
+
+--Living with family. .. I will  have low traction with QQ study. Perhaps coding drill is better
 --experts sizing up each other (othRisk)
 Female engineer at an exhibition booth. 
 Which acid tests? qq topics or algo or other zbs topics (I tend to read in my spare time)?--update blogpost on c++tmp
@@ -26,6 +28,7 @@ C++TMP and rvr QQ may turn out similar to java bytecode engineering, reflection,
 
 Still better roti than Qz
 
+--
 Note TMP is more time-honored but less quizzed than rvr.
 
 TMP is 
@@ -34,6 +37,7 @@ TMP is
 .never needed in greenfield projects.  .Occasionally relevant in understanding existing code base
 
 TMP is used with macros as both are compile time features.
+--pretty women have easy job search .. similarly I have an easier job search
 --no blog
 Though CIV by definition ignores candidate experience level, the overall hiring process does NOT treat us same as a fresh grad. 
 
