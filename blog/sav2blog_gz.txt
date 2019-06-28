@@ -1,3 +1,7 @@
+--
+TMP techniques are very tricky but do they enhance latency?
+Do they get you higher jobs, with less stress?
+
 --update blog on survivor
 My sampling technique was biased, statistically. I didn't count the number of times I survived layoff:
 * GS during GFC
