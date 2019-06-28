@@ -3,7 +3,6 @@ I think leetcode problems are perceived as basic java knowledge. A self-respecti
 
 As such, we need memory refresh 
 
-
 --ideal job
 150k or even 140k
 Low pip risk
@@ -23,9 +22,6 @@ Only routine python code is "transparent". Many python features are impenetrable
 Cpp yes
 Eq trading engine ? Not sure
 
---experts sizing up each other (othRisk)
-Female engineer at an exhibition booth. 
-Which acid tests? qq topics or algo or other zbs topics (I tend to read in my spare time)?
 
 --update blogpost on c++tmp
 C++TMP and rvr QQ may turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M) ...
