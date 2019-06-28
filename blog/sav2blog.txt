@@ -1,10 +1,10 @@
 
---update blogpost: next password ..
+--update blogpost: for some passwords ..
 Use wordpress post-by-email but change the number?
 
 --shall I upload contact.txt for backup?
 gmail?
-encrypt?
+encrypt via zip?
 
 --new
 The honeymoon of engagement (on coding drill, localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
