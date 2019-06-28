@@ -24,11 +24,17 @@ Eq trading engine ? Not sure
 
 
 --update blogpost on c++tmp
+Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
+Do they get you higher jobs, lower stress? 
+
+In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
+
+TMP techniques would remain a halo for years to come. Classic QQ topic.
+
 C++TMP and rvr QQ may turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M) ...
 
 Still better roti than Qz
 
---
 Note TMP is more time-honored but less quizzed than rvr.
 
 TMP is 
@@ -93,13 +99,6 @@ The high-end employers want to pay high salary only to qualified candidates.
 --update blog ... csy:
 the IV successes define me.
 Without these successes, I am likely to feel a total failure and worthless, probably more than once a years -- self-knowledge.
-
---Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
-Do they get you higher jobs, lower stress? 
-
-In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
-
-TMP techniques would remain a halo for years to come. Classic QQ topic.
 
 --no blog
 java - exceeding my expectations in the churn. Found 2nd life in web2.0
