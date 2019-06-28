@@ -70,11 +70,12 @@ TMP is never needed in greenfield projects. Occasionally relevant in understandi
 
 --pretty women have easy job search .. similarly I have an easier job search
 
-
 --no blogpost
 GregR told me the high-end python interviews were more selective than java interviews. I think the reason is same as west-coast coding interviews --
 
 The high-end employers want to pay high salary only to qualified candidates.
+
+It also explains why ibanks ask crazy QQ questions about java/c++, latency
 
 --update blog ... csy:
 the IV successes define me.
