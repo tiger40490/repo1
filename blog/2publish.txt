@@ -1,12 +1,23 @@
---
+--email
 Hi Jay,
 
 A current colleague of mine is a Chinese Canadian. He has a Canadian company. He would like to use his company for corp-to-corp billing, as alternative to W2 billing.
 
 Possible?
 
---
+--email to ms
 save the email sent to Paul Fox. Good real story to illustrate my investigation skill.
 
 --
-Q: should I read hints on 20 easy and popular problems on geek4geek?
+Q: should I read hints on 20 easy and popular problems on geek4geek? I learned many basic coding techniques from books
+
+--
+lateral hires at high salary often under-perform -- CYW, googler at MS, .. high risk of failure. However, even if I ask for less, I can still hit under-performance.
+
+--new blogpost: backyard usage
+Q: given a backyard, what usages do I find valuable?
+
+swimming? too small
+basketball? no fun
+
+Many of these usages require expensive set-up, not worth it if used lightly
