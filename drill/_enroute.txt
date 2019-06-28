@@ -12,8 +12,8 @@ I think we should read some hints.
 
 std::nth_element is linear on average !
 
--- idea 6: priority Q (min-heap) of size k
-if any item is higher than the min, then pop min and insert
+-- idea 6: priority Q (Fib-heap) of size k
+if any item is higher than the min, then pop min O(logK) and insert in O(1)
 -- idea 6: priority Q 
 Linear time to build it
 -- idea 5: 95th percentile problem from NYSE
