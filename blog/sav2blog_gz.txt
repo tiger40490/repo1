@@ -5,9 +5,6 @@ Only routine python code is "transparent". Many python features are impenetrable
 * yield
 * reflection, meta-programming
 
---
-lateral hires at high salary often under-perform -- CYW, googler at MS, .. high risk of failure. However, even if I ask for less, I can still hit under-performance.
-
 --tsn is romanticized. Seldom worked out as planned? 
 Cpp yes
 Eq trading engine ? Not sure
