@@ -1,7 +1,10 @@
---Alexandrescu's TMP techniques are very tricky and requires absorbency, but do they enhance latency?
-Do they get you higher jobs, with less stress? 
+--Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
+Do they get you higher jobs, lower stress? 
 
-Well, in reality, java can rival c++ in latency. The reason is not obvious and not my focus today. It's just an observed fact that discredits conventional wisdom and our assumptions
+In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
+
+TMP techniques would remain a halo for years to come. Classic QQ topic.
+
 --
 Like Black developers .. As an older developer I also have higher visibility.
 IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
