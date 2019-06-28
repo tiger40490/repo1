@@ -1,10 +1,18 @@
---
-TMP techniques are very tricky and requires absorbency, but do they enhance latency?
-Do they get you higher jobs, with less stress?
+--Alexandrescu's TMP techniques are very tricky and requires absorbency, but do they enhance latency?
+Do they get you higher jobs, with less stress? 
 
+Well, in reality, java can rival c++ in latency. The reason is not obvious and not my focus today. It's just an observed fact that discredits conventional wisdom and our assumptions
 --
-Black developers .. As an older developer I also have higher visibility.
-IFF I work really hard (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
+Like Black developers .. As an older developer I also have higher visibility.
+IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
+
+--new:
+python is not always more "transparent". Many python features are impenetrable 
+* import hack
+* namespace/idic
+* yield
+
+--Some of the MLP connectivity guys could be a top geek to achieve the latency. This geek could have left the team.
 
 --update blog on survivor
 My sampling technique was biased, statistically. I didn't count the number of times I survived layoff:
