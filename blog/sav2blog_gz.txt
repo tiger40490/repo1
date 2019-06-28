@@ -3,6 +3,15 @@ I think leetcode problems are perceived as basic java knowledge. A self-respecti
 
 As such, we need memory refresh 
 
+
+--ideal job
+150k or even 140k
+Low pip risk
+.contract
+.Low calibre colleagues like oc n rts
+Acceptable domain .. vague!
+acceptable mainstream tech like javascript, not GO not Qz
+
 --new:
 Only routine python code is "transparent". Many python features are impenetrable: 
 * import hack
@@ -13,14 +22,6 @@ Only routine python code is "transparent". Many python features are impenetrable
 --tsn is romanticized. Seldom worked out as planned? 
 Cpp yes
 Eq trading engine ? Not sure
-
---ideal job
-150k or even 140k
-Low pip risk
-.contract
-.Low calibre colleagues like oc n rts
-Acceptable domain .. vague!
-acceptable mainstream tech like javascript, not GO not Qz
 
 --experts sizing up each other (othRisk)
 Female engineer at an exhibition booth. 
