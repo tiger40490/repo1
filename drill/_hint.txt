@@ -13,22 +13,3 @@ For each node's enqueue(), record the path-from-root as a list. As a lighter alt
 Now scan each level from both ends. The left item's path should mirror the right item's path.
 
 (Before the scan. confirm the node count is even.)
-
-====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
-
-I think we should read some hints.
-
-std::nth_element is linear on average !
-
--- idea 5: 95th percentile problem from NYSE
--- idea 4: multiple scans
--- idea 3: segments
-
--- Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
-
-O(N) + O(N/2) + O(N/4) ... -> O(N)
-
--- Sol2a: Use qsort partition algo to anchor a (random) pivot element. 
-O(N) on average -- we get O(N)+O(N/2) + O(N/4) + ... < O(2N)
-
-Note average complexity is acceptable in hashtable!
