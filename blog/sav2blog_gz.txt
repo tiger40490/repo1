@@ -70,13 +70,6 @@ TMP is never needed in greenfield projects. Occasionally relevant in understandi
 
 --pretty women have easy job search .. similarly I have an easier job search
 
---new: job search SG still slower than NY
-I didn't try the ibank jobs...
-Singapore tech shops are mostly not keen about my profile
-Singapore fintech shops ? no interest shown.
-Singapore buy-sides are interested but kinda slow.
-
-I must stop romanticizing 
 
 --no blogpost
 GregR told me the high-end python interviews were more selective than java interviews. I think the reason is same as west-coast coding interviews --
