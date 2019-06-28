@@ -1,3 +1,6 @@
+--
+git-blogging is not perfect. print-out is more accessible. Lower friction.
+
 --update blogpost: next password ..
 Use wordpress post-by-email but change the number?
 
