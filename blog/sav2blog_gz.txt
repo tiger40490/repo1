@@ -11,6 +11,18 @@ Low pip risk
 Acceptable domain .. vague!
 acceptable mainstream tech like javascript, not GO not Qz
 
+--no blogpost:
+Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy?
+* impact? Not really important to me
+* OC type of easy job with plenty of spare time?
+* domain: devops?
+* domain: quant dev, with low churn? 
+* domain: inet? impactful but high-churn... not more enjoyable than my recent jobs
+* domain: mkt data? impactful, low churn but not more enjoyable than other jobs
+* mvea type of job
+* RTS type of job -- familiar routine
+* MLP type of job -- challenging... provided I can live in peace with PIP
+
 --no blogpost
 I feel my sister and my son may be more effective. 
 perhaps I have an adjustment problem -- frequently I outperform in IV to set up expectation, but on the job struggle to match it, and receive negative feedback. 
@@ -57,15 +69,6 @@ TMP is needed when reaching next level in c++ zbs. Many new cpp features r added
 TMP is never needed in greenfield projects. Occasionally relevant in understanding existing code base
 
 --pretty women have easy job search .. similarly I have an easier job search
-
---no blogpost:
-Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy?
-* impact? Not really important to me
-* OC type of easy job with plenty of spare time?
-* domain: devops?
-* domain: quant dev, with low churn? 
-* domain: inet? impactful but high-churn... not more enjoyable than my recent jobs
-* domain: mkt data? impactful, low churn but not more enjoyable than other jobs
 
 --new: job search SG still slower than NY
 I didn't try the ibank jobs...
