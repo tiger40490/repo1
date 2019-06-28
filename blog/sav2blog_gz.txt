@@ -22,27 +22,22 @@ Only routine python code is "transparent". Many python features are impenetrable
 Cpp yes
 Eq trading engine ? Not sure
 
-
 --update blogpost on c++tmp
 Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
 Do they get you higher jobs, lower stress? 
 
 In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
 
-TMP techniques would remain a halo for years to come. Classic QQ topic.
+QQ? Will C++TMP (and rvr) QQ turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M)? Even in such a case, still better roti than Qz. Actually TMP is quizzed more than those, and rve is quizzed more than TMP.
 
-C++TMP and rvr QQ may turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M) ...
+When TMP is not quizzed you can still showcase your Halo. TMP techniques would remain a halo for years to come. Classic QQ topic.
 
-Still better roti than Qz
+TMP is more time-honored than many c++11 features.
 
-Note TMP is more time-honored but less quizzed than rvr.
+TMP is needed when reaching next level in c++ zbs. Many new cpp features r added for TMP. I feel TMP is the main innovation front across c++ language n standard development. cpp lost many competitions but no other languages offer anything close to these TMP features.  
 
-TMP is 
-.needed when reaching next level in c++ zbs. Many new cpp features r added for TMP. I feel TMP is the main innovation thrust across c++ language n standard development. cpp lost many competitions but no other languages offer powerful TMP features.  
-.seldom quizzed in QQ but sometimes you can showcase your Halo. 
-.never needed in greenfield projects.  .Occasionally relevant in understanding existing code base
+TMP is never needed in greenfield projects. Occasionally relevant in understanding existing code base
 
-TMP is used with macros as both are compile time features.
 --pretty women have easy job search .. similarly I have an easier job search
 --no blog
 Though CIV by definition ignores candidate experience level, the overall hiring process does NOT treat us same as a fresh grad. 
