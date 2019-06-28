@@ -37,6 +37,9 @@ Each person gets an account with a final balance. Some (say 22) accounts are pos
 To really clean up, it's good to identify disjoint groups of persons. Within each group, settle.
 
 what's the exact requirement? Better ask Rahul
+====Q: generate all paths from [0,0] to [A,B]. Each step must go down
+A+B steps in total. A+B choose A paths?
+
 ====Q from p 183  [[discrete math]]: given a n x n grid. Start from north west corner moving south or east each step, towards that corner. The diagonal connecting them can be touched from north, but not crossed. print all paths
 
 Better to treat origin as [0,0] and end as [N,N]
@@ -45,8 +48,10 @@ DFT will require deep recursion.
 BFT (with color) where each node remembers all paths-from-root? Kinda brute force 
 How about DP bottom-up? Not good
 --iterative
+no need to navigate the grid. Just generate from a formula
 Each path has 2N steps, but on any partial path the southward steps must not exceed eastward steps. 
 Make 2N decisions. Be greedy on southward?
+
 ====Q (classic DP problem, not contrived): optimal bst: 
 Given a set of sorted search keys and their hit probabilities, construct the BST with lowest search cost. 
 we know the probabilities add up to 100%. 
