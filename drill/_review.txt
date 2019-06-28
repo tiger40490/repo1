@@ -1,11 +1,10 @@
 温故而知新 .. I tend to find bugs + neglected/forgotten parts + areas of improvement. Each part of a given solution can be a show stopper or derailer in a real coding test
 
-====LMH facebook problem
-====yield trick in cookbook
+====regex
 ====combosum vs knapsack
 ====continuousSentence: 
 memoization for my recursive-in-loop?
-====regex
+====LMH facebook problem
 ====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 ==find all paths in matrix
 
@@ -15,11 +14,8 @@ thick->thin? not yet.
 Other union-find problems might be harder than this.
 
 ====(cpp) water container
-====2-pivot partition
 ====[Lv] serialize/deserialize binTree
-
 =========== c++lang features
-
 ====oq in shPtrDowncast
 ====my rvr experiments
 ====my enable_if_t experiments
