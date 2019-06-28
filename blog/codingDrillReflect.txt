@@ -1,3 +1,11 @@
+--new:
+A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
+* not long-term commitment. I believe most of them would stop after getting a job.
+* not in-depth
+* not aimed at deep learning and retention
+* more like cram
+
+However an unbiased interviewer/observer could find the student stronger than me.
 --
 Q: should I read hints on 20 easy and popular problems on geek4geek? I learned many basic coding techniques from books
 
