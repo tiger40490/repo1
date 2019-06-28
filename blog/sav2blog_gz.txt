@@ -1,21 +1,9 @@
---Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
-Do they get you higher jobs, lower stress? 
-
-In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
-
-TMP techniques would remain a halo for years to come. Classic QQ topic.
-
---
-Like Black developers .. As an older developer I also have higher visibility.
-IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
-
 --new:
-python is not always more "transparent". Many python features are impenetrable 
+Only routine python code is "transparent". Many python features are impenetrable: 
 * import hack
 * namespace/idic
 * yield
-
---Some of the MLP connectivity guys could be a top geek to achieve the latency. This geek could have left the team.
+* reflection, meta-programming
 
 --update blog on survivor
 My sampling technique was biased, statistically. I didn't count the number of times I survived layoff:
@@ -116,6 +104,13 @@ The high-end employers want to pay high salary only to qualified candidates.
 the IV successes define me.
 Without these successes, I am likely to feel a total failure and worthless, probably more than once a years -- self-knowledge.
 
+--Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
+Do they get you higher jobs, lower stress? 
+
+In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
+
+TMP techniques would remain a halo for years to come. Classic QQ topic.
+
 --no blog
 java - exceeding my expectations in the churn. Found 2nd life in web2.0
 c# - underwhelming. Displace in web2.0. Google CIV uses 5 anguages, without c#
@@ -178,6 +173,7 @@ I chose a c# job ... engaged for a year and then disengaged, shorter than expect
 I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
 
 I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
+--Some of the MLP connectivity guys could be a top geek to achieve the latency. This geek could have left the team.
 
 --no blogpost: c#^java/c++ journeys
 [tags t_below7]
@@ -188,3 +184,6 @@ my c# xx journey was exciting for 6M before OC and in first year in OC. In contr
 leverage? c# is lower but not bad. See separate blogpost
 
 For all languages, there is no hike, no strategic value so at that level all underwhelming
+--no
+Like Black developers .. As an older developer I also have higher visibility.
+IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
