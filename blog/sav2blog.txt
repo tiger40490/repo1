@@ -1,5 +1,3 @@
---
-git-blogging is not perfect. print-out is more accessible. Lower friction.
 
 --update blogpost: next password ..
 Use wordpress post-by-email but change the number?
@@ -7,27 +5,6 @@ Use wordpress post-by-email but change the number?
 --shall I upload contact.txt for backup?
 gmail?
 encrypt?
-
---no blogpost:
-4 days into a week-long vacation, I start to feel the effect of deprivation/starvation of blogging. It is felt like a personal need similar to physical exercise, recreation. Interesting analogy -- starch. How many days can you go without starch before feeling deprived? 
-
-I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for 3 days only.
-
-Q: how do I get more quiet time while living with family?  Note I need more quiet time than other fathers. I suffer more from the family distractions. 
-
-I need quiet time for thinking/blogging about
-* investment
-* wellness planning and mamagement
-* many many non-trivial decisions
-* managing other stressful items
-
-Depending on the specific task on my plate, I will find ... "alternatives" since quiet time is simply insufficient compared to my NY days.
-
-Sugg: stay in office longer, better in early morning but in the evening by default 
-sugg: Friday evening is golden. Other parts of the weekend can also be valuable
-Sugg: take half-day leaves to create half-day quiet periods at home. This feature isn't available to contractor
-Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
-Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
 
 --new
 The honeymoon of engagement (on coding drill, localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
@@ -42,3 +19,26 @@ spend on flights to gain family time, engaged
 spend unpaid leave to attend interviews .. to gain joy, motivation, engagement, precious insight into their selection priority
 Regrettable spent unpaid leave before starting Macq job .. to gain peaceful family time? low ROI
 questionable spend (gave up higher pay rate) to gain ... c++ skills like QQ, GTD, zbs
+
+--
+git-blogging is not perfect. print-out is more accessible. Lower friction.
+
+4 days into a week-long vacation, I start to feel the effect of deprivation/starvation of blogging. It is felt like a personal need similar to physical exercise, recreation. Interesting analogy -- starch. How many days can you go without starch before feeling deprived? 
+
+I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for 3 days only.
+
+Q: how do I get more quiet time while living with family?  Note I need more quiet time than other fathers. I suffer more from the family distractions. 
+
+I need quiet time for thinking/blogging about
+* investment
+* wellness planning and management
+* many many non-trivial decisions
+* managing other stressful items
+
+Depending on the specific task on my plate, I will find ... "alternatives" since quiet time is simply insufficient compared to my NY days.
+
+Sugg: stay in office longer, better in early morning but in the evening by default 
+sugg: Friday evening is golden. Other parts of the weekend can also be valuable
+Sugg: take half-day leaves to create half-day quiet periods at home. This feature isn't available to contractor
+Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
+Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
