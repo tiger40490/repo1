@@ -11,6 +11,24 @@ Low pip risk
 Acceptable domain .. vague!
 acceptable mainstream tech like javascript, not GO not Qz
 
+--no blogpost
+I feel my sister and my son may be more effective. 
+perhaps I have an adjustment problem -- frequently I outperform in IV to set up expectation, but on the job struggle to match it, and receive negative feedback. 
+The problem is my reaction to the feedback. 
+I feel I can do better. I can learn coping strategies. 
+I can relax as grandpa suggested. 
+I can learn to live in peace with the negative feedback. 
+If I put in a reasonable effort and manager accepts it without a bonus, then I feel I can be happy. 
+If I put in a reasonable effort but manager clearly indicates "unacceptable", then I feel i would take action to leave
+
+Overall, my reaction to PIP is weaker than my reaction to IV setbacks.
+
+Traditionally, one of my strengths is positive attitude to IV setbacks.
+
+It is easy to look at the gap and feel hopeless.
+
+Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
+
 --new:
 Only routine python code is "transparent". Many python features are impenetrable: 
 * import hack
@@ -39,23 +57,6 @@ TMP is needed when reaching next level in c++ zbs. Many new cpp features r added
 TMP is never needed in greenfield projects. Occasionally relevant in understanding existing code base
 
 --pretty women have easy job search .. similarly I have an easier job search
---
-I feel my sister and my son may be more effective. 
-perhaps I have an adjustment problem -- frequently I outperform in IV to set up expectation, but on the job struggle to match it, and receive negative feedback. 
-The problem is my reaction to the feedback. 
-I feel I can do better. I can learn coping strategies. 
-I can relax as grandpa suggested. 
-I can live in peace with the negative feedback. 
-If I put in a reasonable effort and manager accepts it without a bonus, then I feel I can be happy. 
-If I put in a reasonable effort but manager clearly indicates "unacceptable", then I feel i would take action to leave
-
-Overall, my reaction to PIP is weaker than my reaction to IV setbacks.
-
-Traditionally, one of my strengths is positive attitude to IV setbacks.
-
-It is easy to look at the gap and feel hopeless.
-
-Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
 
 --no blogpost:
 Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy?
