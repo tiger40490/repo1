@@ -7,6 +7,9 @@ My sampling technique was biased, statistically. I didn't count the number of ti
 
 My perception of each entire period was tainted -- "once I got a PIP, all subsequent positive evidence is negligible."
 
+--
+lateral hires at high salary often under-perform -- CYW, googler at MS, .. high risk of failure. However, even if I ask for less, I can still hit under-performance.
+
 --tsn is romanticized. Seldom worked out as planned? 
 Cpp yes
 Eq trading engine ? Not sure

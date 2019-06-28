@@ -1,3 +1,6 @@
+--
+Q: should I read hints on 20 easy and popular problems on geek4geek? I learned many basic coding techniques from books
+
 --no blogpost:
 even though conventional wisdom says i need to practice speed coding till i can complete 2 "medium" problems in 40 minutes, I will take the bet that I don't need to. 
 
