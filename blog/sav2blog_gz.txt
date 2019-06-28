@@ -39,18 +39,6 @@ TMP is needed when reaching next level in c++ zbs. Many new cpp features r added
 TMP is never needed in greenfield projects. Occasionally relevant in understanding existing code base
 
 --pretty women have easy job search .. similarly I have an easier job search
---no blog
-Though CIV by definition ignores candidate experience level, the overall hiring process does NOT treat us same as a fresh grad. 
-
-Fresh grads don't have Wall st senior dev job options. If they aren't good enough for the top tech shops, then they won't earn my salary.
-
-When I was undergrad, I could solve many leetcode/hackerrank problems, with or without practice.
---no blog:
-I was able to move between countries and between industries, primarily based on interview skill. We can't rely on GTD, localSys..
-
---update blogpost on survivor
-I more than survived at Macq in first year, with a bonus
-I did survive at Stirt by recovering from PIP and earning a meet/meet
 --
 I feel my sister and my son may be more effective. 
 perhaps I have an adjustment problem -- frequently I outperform in IV to set up expectation, but on the job struggle to match it, and receive negative feedback. 
