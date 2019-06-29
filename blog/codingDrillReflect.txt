@@ -1,3 +1,5 @@
+--questioning the value of coding drill is extremely harmful. I need 1st-aid
+
 --new:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
 * not long-term commitment. I believe most of them would stop after getting a job.
