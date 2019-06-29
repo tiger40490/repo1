@@ -1,7 +1,7 @@
 --new:
-I think leetcode problems are perceived as basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
+I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
 
-As such, we need memory refresh 
+As such, we need memory refresh ..
 
 --one-long-job resume can look unattractive for career changers
 I always felt my job-hopper resume is a liability, but west coast shops don't care
