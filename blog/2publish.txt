@@ -10,6 +10,19 @@ My sampling technique was biased, statistically. I didn't count the number of ti
 
 My perception of each entire period was tainted -- "once I got a PIP, all subsequent positive evidence is negligible."
 
+--update blogpost on musicians and doctors.
+When we watch a movie from Europe, India, Korea ... we can tell whether it has any international appeal or only limited local audience.
+
+Similarly localSys knowledge has value only within a single company. The expertise I demonstrate in job interviews are relevant across many sites.
+
 --update blogpost
 Is protein smoothie a good slimming food even for thin people like me? yes
 tip: after protein smoothie, try to do intermediate fasting for a few hours
+
+--email to XR
+Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
+
+There's a thinly veiled leaning towards java. 
+If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
+
+In reality, the solution you get using another language CAN be different from the optimal java solution.

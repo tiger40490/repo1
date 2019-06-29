@@ -9,8 +9,6 @@ I always felt my job-hopper resume is a liability, but west coast shops don't ca
 --update ranking of stressors
 low hit rate of cv is a pain but a much smaller pain compared to other pains
 
---absorbency is more precise than effort
-absorbency is more about capacity, less about attitude, motivation
 --ideal job
 150k or even 140k
 Low pip risk
@@ -114,20 +112,6 @@ telecom?
 
 see also blogpost on 150k FTE@light load
 
-
---no blogpost
-Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
-
-There's a thinly veiled leaning towards java. 
-If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
-
-In reality, the solution you get using another language CAN be different from the optimal java solution.
-
---update blogpost on musicians and doctors.
-When we watch a movie from Europe, India, Korea ... we can tell whether it has any international appeal or only limited local audience.
-
-Similarly localSys knowledge has value only within a single company. The expertise I demonstrate in job interviews are relevant across many sites.
-
 --no blogpost:
 Quoine probably designed a tcp feed for internet clients, but in the industry, multicast feed is more industrial-strength, more advanced, more practical. Such expertise is more in-demand 
 
@@ -152,6 +136,10 @@ I chose a Quant dev job ... engaged for a year and never disengaged. Leverage wa
 
 I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
 --Some of the MLP connectivity guys could be a top geek to achieve the latency. This geek could have left the team.
+
+--update blogpost on absorbency
+absorbency is more precise than 'effort'
+absorbency is more about capacity, less about attitude, motivation
 
 --no blogpost: c#^java/c++ journeys
 [tags t_below7]
