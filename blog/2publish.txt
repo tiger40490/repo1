@@ -1,8 +1,5 @@
 --new blog:
 I was able to move between countries and between industries, primarily based on interview skill. We can't rely on GTD, localSys..
---update blogpost on survivor
-I more than survived at Macq in first year, with a bonus
-I did survive at Stirt by recovering from PIP and earning a meet/meet
 
 --new: job search SG still slower than NY
 I didn't try the ibank jobs...
@@ -12,7 +9,10 @@ Singapore buy-sides are interested but kinda slow.
 
 I must stop romanticizing 
 
---update blog on survivor
+--update blogpost on survivor
+I more than survived at Macq in first year, with a bonus
+I did survive at Stirt by recovering from PIP and earning a meet/meet
+
 My sampling technique was biased, statistically. I didn't count the number of times I survived layoff:
 * GS during GFC
 * OC through the transfer
@@ -21,10 +21,6 @@ My sampling technique was biased, statistically. I didn't count the number of ti
 
 My perception of each entire period was tainted -- "once I got a PIP, all subsequent positive evidence is negligible."
 
---new blogpost
+--update blogpost
 Is protein smoothie a good slimming food even for thin people like me? yes
 tip: after protein smoothie, try to do intermediate fasting for a few hours
-
---update: experts sizing up each other (othRisk)
-Female engineer at an exhibition booth. 
-Which acid tests? qq topics or algo or other zbs topics (I tend to read in my spare time)?
