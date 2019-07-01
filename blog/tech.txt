@@ -5,20 +5,6 @@ In [[c++coding standard]], Alexandrescu/Sutter said "Don't specialize func templ
 
 After remembering this sound byte, it's probably important to remember one of the reasons, for IV (halo) and zbs.
 
---new Q: in graph DFT and BFT, do we need a "seen" hashtable to remember visited nodes? 
-A: I probably needed it in some of my coding problem
-A: 
-I think so. The textbook DFT/BFT algos use white/grey/black for this purpose. It's basically a hashtable { node addr -> color } esp. If nodes are readonly, 
-
-This color technique is not needed for a simple binary tree, but it can become useful in tough CIV
-
---New blogpost: many things]python can have attributes 
-Those "things" can be a module, a function, a class, an instance of a class
-
-An attribute can be a data item or a method.
-
-I feel attributes are related to namespaces, meta-programming and reflection.
-
 --python features I learned on flight to NY, before Jump IV
 * reduce()+lambda for ECT
 * __debug__
