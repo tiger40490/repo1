@@ -2,8 +2,6 @@
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
 
 As such, we need memory refresh ..
-
-
 --new:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
 * not long-term commitment. I believe most of them would stop after getting a job.
@@ -23,24 +21,6 @@ speed is more important than fine quality. I need to unlearn what FB seminar pre
 the new leetcode sub-culture is like math practice my son (and me at his age) needs to do. If you don't bother to practice then you will fail to qualify. There are tests in his school throughout the year. He will likely fail most of them. 
 
 It's really funny that me and my son are in exactly the same situation. Absorbency is both ability and effort.
-
-
-
---new blogpost
-Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".
-
-Even with careful selection, i still find it rather futile -- many of the problems I was asked are not related to my studied problems.
-
-I feel I need to detach/disengage from the end result (technical wins). Enjoy the journey of focused engagement. Enjoy the self-improvement and self-mastery. 
-
-Prefer remote CIV. Avoid the cost of on-site interviews -- they are likely to frustrate.
- 
---new blogpost: lucky:free from negativity@CIV #CSY
-i feel  lucky about freedom from negativity towards coding drill. 
-
-(However, i do have my preference how to practice. A food lover still has her preferred cooking methods.)
-
-Major advantage! Most of my peers are bogged down by this negativity.
 
 --new blogpost cod`drill outlasting C++self-study
 Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 
