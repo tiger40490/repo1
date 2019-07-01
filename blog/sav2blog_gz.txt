@@ -1,5 +1,3 @@
---shall we upload job satisfaction predictor to google sheets?
-
 --new:
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
 
