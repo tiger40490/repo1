@@ -1,3 +1,15 @@
+--aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
+I *guess* GregM (RTS) might be a cautionary tale. 
+He relied on his theoretical knowledge to get a job, but not fast enough with local codebase
+
+Is green field better than brown-field codebase? I guess so. Brown-field projects are rarely given to a new joiner but consider 95G and volFitter !
+
+Q: Are the c++11 QQ topics a form of churn on the interview competition? 
+A: I feel the worst scene is localSys on the job. QQ IV is lighter.
+Q: how about the CIV? still lighter stress than localSys. I can take my time.
+
+Based on personal observation, U.S. employers are definitely better than SG employers.
+
 --new:
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
 
