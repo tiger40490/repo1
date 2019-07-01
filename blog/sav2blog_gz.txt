@@ -14,15 +14,9 @@ Based on personal observation, U.S. employers are definitely better than SG empl
 I always felt my job-hopper resume is a liability, but west coast shops don't care
 
 --update ranking of stressors
-low hit rate of cv is a pain but a much smaller pain compared to other pains
+low hit rate of cv is a real problem but a smaller pain compared to other pains
 
---ideal job
-150k or even 140k
-Low pip risk
-.contract
-.Low calibre colleagues like oc n rts
-Acceptable domain .. vague!
-acceptable mainstream tech like javascript, not GO not Qz
+--Given the high churn in UI space, are interviewers more lenient?
 
 --no blogpost:
 Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy?
