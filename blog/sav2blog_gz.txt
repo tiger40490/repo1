@@ -6,19 +6,11 @@ Is green field better than brown-field codebase? I guess so. Brown-field project
 
 Q: Are the c++11 QQ topics a form of churn on the interview competition? 
 A: I feel the worst scene is localSys on the job. QQ IV is lighter.
-Q: how about the CIV? still lighter stress than localSys. I can take my time.
+Q: how about the Coding IV? still lighter stress than localSys. I can take my time.
 
 Based on personal observation, U.S. employers are definitely better than SG employers.
 
---new:
-I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
-
-As such, we need memory refresh ..
-
---be positive about next job?
-jobSatisfactionPredictor shows most of the factors are negative.
-
---one-long-job resume can look unattractive for career changers
+--one-long-job resume can be bad when you change career
 I always felt my job-hopper resume is a liability, but west coast shops don't care
 
 --update ranking of stressors

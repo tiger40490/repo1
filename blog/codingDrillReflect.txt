@@ -1,3 +1,8 @@
+--new:
+I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
+
+As such, we need memory refresh ..
+
 --questioning the value of coding drill is extremely harmful. I need 1st-aid
 
 --new:
