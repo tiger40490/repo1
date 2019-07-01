@@ -1,3 +1,6 @@
+--request to speak to Attorney
+Q: how long can I hold off returning to U.S.?
+
 --update camp-out
 If in the mood for localSys, then don't go home to sleep. Sleep in office. Go home to eat then come back to office.
 
@@ -23,7 +26,7 @@ Is protein smoothie a good slimming food even for thin people like me? yes
 tip: after protein smoothie, try to do intermediate fasting for a few hours
 
 --email to XR
-Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are gear towards web2.0 shops
+Even though Indeed hiring team claims to be language agnostic and don't care about your app domain, their architecture questions are geared towards web2.0 shops
 
 There's a thinly veiled leaning towards java. 
 If you use another language for your whiteboard, then you had better be very fast and sharp to defend your solution when it differs from the optimal java solution.
@@ -43,4 +46,3 @@ Those "things" can be a module, a function, a class, an instance of a class
 An attribute can be a data item or a method.
 
 I feel attributes are related to namespaces, meta-programming and reflection.
-
