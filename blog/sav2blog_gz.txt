@@ -12,6 +12,14 @@ Perhaps look at jobSatisfactionPredictor?
 * RTS type of job -- familiar routine
 * MLP type of job -- challenging... provided I can live in peace with PIP
 
+--new blogpost: avoid hot domains that attract young competitors
+I feel clearly less in-demand as I age. 
+Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, startups, lesser-known banks
+
+telecom?
+
+see also blogpost on 150k FTE@light load
+
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to get a job, but not fast enough with local codebase
@@ -85,7 +93,7 @@ Without these successes, I am likely to feel a total failure and worthless, prob
 
 --no blog
 java - exceeding my expectations in the churn. Found 2nd life in web2.0
-c# - underwhelming. Displace in web2.0. Google CIV uses 5 anguages, without c#
+c# - underwhelming. Displaced in web2.0. Google CIV uses 5 anguages, without c#
 c++ - matching my expectation. slow decline. Efficiency advantage is eclipsed by java and some new languages
 py - exceeding my expectation
 javascript - exceeding expectation
@@ -99,14 +107,6 @@ The health hazard is really nothing but one mgr's assessment. For my recent pain
 * I conquered some of my biggest technology fears -- MSVS; c++ crash management; c++ large code navigation.. Other people may not agree, but my own experience proves that these challenges are harder than high-level dev (like web/scripting..). My fears were more deep-rooted.
 * I built real mileage in c#. I even proved myself stronger than some c# veterans when I created a simple web server to dump log files for everyday troubleshooting.
 * see more pointers in https://bintanvictor.wordpress.com/wp-admin/post.php?post=27139&action=edit
-
---new blogpost: avoid hot domains that attract young competitors
-I feel clearly less in-demand as I age. 
-Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, startups, lesser-known banks
-
-telecom?
-
-see also blogpost on 150k FTE@light load
 
 --no blogpost:
 Quoine probably designed a tcp feed for internet clients, but in the industry, multicast feed is more industrial-strength, more advanced, more practical. Such expertise is more in-demand 
