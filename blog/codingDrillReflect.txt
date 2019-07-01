@@ -3,7 +3,6 @@ I think some coding problems are perceived similar to basic java knowledge. A se
 
 As such, we need memory refresh ..
 
---questioning the value of coding drill is extremely harmful. I need 1st-aid
 
 --new:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
@@ -13,9 +12,6 @@ A student's approach to statistics is different from a mathematician's. Likewise
 * more like cram
 
 However an unbiased interviewer/observer could find the student stronger than me.
---
-Q: should I read hints on 20 easy and popular problems on geek4geek? I learned many basic coding techniques from books
-
 --no blogpost:
 even though conventional wisdom says i need to practice speed coding till i can complete 2 "medium" problems in 40 minutes, I will take the bet that I don't need to. 
 
@@ -28,20 +24,7 @@ the new leetcode sub-culture is like math practice my son (and me at his age) ne
 
 It's really funny that me and my son are in exactly the same situation. Absorbency is both ability and effort.
 
---new blogpost: cod`drill^ quant self-study
-quant knowledge used to be a halo, now replaced by coding IV skills like
-* DP, recursion
-* data structures
-* speed coding 
 
-I now feel all of these + QQ knowledge are all white elephants not directly relevant to GTD
-
-In 2012 When I was studying quant in my spare time, I was on a powerful ascent. In the subsequent years, I gradually lost steam. The quant sector was shrinking and market depth was disappointing.
-
-Since 2018, my coding drill feels very relevant, even though the gap behind the strong players continues to be a pain and a de-motivation.  When I stop comparing myself with the stronger players, I would feel my improvement in a highly valuable skill
-
---new blogpost: with family distraction,cod`drill easier than QQ blogging@@
-I feel coding drill is more rewarding, more satisfying, less guilty
 
 --new blogpost
 Given my limited bandwidth, I try to focus on the high value problems. I tend to spend long hours on each problem. My idea of "high value" is often about classics, not about "frequency".

@@ -1,3 +1,8 @@
+--update blog on reactions
+"AAA" my reaction to seeing the gap behind the strong coding test takers. I renew my effort without over-thinking
+
+--questioning the value of coding drill is extremely harmful. I need 1st-aid
+
 --request to speak to Attorney. .. and Shuo
 Q: how long can I hold off returning to U.S.?
 Q: if I get GC but stay outside U.S. for years what happens to my GC?
@@ -56,3 +61,12 @@ spend unpaid leave to attend interviews .. to gain joy, motivation, engagement, 
 Regrettable spent unpaid leave before starting Macq job .. to gain peaceful family time? low ROI
 questionable spend (gave up higher pay rate) to gain ... c++ skills like QQ, GTD, zbs
 
+--new blogpost: cod`drill^ quant self-study
+quant knowledge used to be a halo, now replaced by coding IV skills like
+* DP, recursion
+* data structures
+* speed coding 
+
+In 2012 When I was studying quant in my spare time, I was on a powerful ascent. In the subsequent years, I gradually lost steam. The quant sector was shrinking and market depth was disappointing.
+
+Since 2018, my coding drill feels very relevant, even though the gap behind the strong players continues to be a pain and a de-motivation.  When I stop comparing myself with the stronger players, I would feel my improvement in a highly valuable skill
