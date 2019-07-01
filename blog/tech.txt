@@ -1,12 +1,14 @@
 --new blogpost:
 A central technique through TMP is class template specialization. Class templates' flexibility can only be achieved via specialization but function templates' flexibility can be achieved via overload ! Overload is much simpler and cleaner than specialization.
 
-In [[c++coding standard]], Alexandrescu/Sutter said "Don't specialize func templates" for multiple reasons.
+In [[c++coding standard]], Alexandrescu/Sutter said "Don't specialize func templates", for multiple reasons.
+
+After remembering this sound byte, it's probably important to remember one of the reasons, for IV (halo) and zbs.
 
 --new Q: in graph DFT and BFT, do we need a "seen" hashtable to remember visited nodes? 
 A: I probably needed it in some of my coding problem
 A: 
-I think so. The textbook DFT/BFT algos use white/grey/black for this purpose. It's basically a hashtable { node addr -> color }
+I think so. The textbook DFT/BFT algos use white/grey/black for this purpose. It's basically a hashtable { node addr -> color } esp. If nodes are readonly, 
 
 This color technique is not needed for a simple binary tree, but it can become useful in tough CIV
 
