@@ -3,6 +3,9 @@ I think some coding problems are perceived similar to basic java knowledge. A se
 
 As such, we need memory refresh ..
 
+--be positive about next job?
+jobSatisfactionPredictor shows most of the factors are negative.
+
 --one-long-job resume can look unattractive for career changers
 I always felt my job-hopper resume is a liability, but west coast shops don't care
 
