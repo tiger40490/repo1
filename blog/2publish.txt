@@ -1,15 +1,3 @@
---new blogpost: avoid hot domains that attract young competitors
-I feel clearly less in-demand as I age. 
-Perhaps I should shift towards domains that young guys avoid -- like c++/coreJava, back office, startups, lesser-known banks
-
-telecom?
-
-see also blogpost on 150k FTE@light load
-
---update blogpost on absorbency
-absorbency is more precise than 'effort'
-absorbency is more about capacity, less about attitude, motivation
-
 --update blogpost on ## self-esteem
 Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
 
