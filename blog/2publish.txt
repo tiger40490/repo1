@@ -1,3 +1,6 @@
+--update ranking of stressors
+low hit rate of cv is a real problem but a smaller pain compared to other pains
+
 --update blogpost on ## self-esteem
 Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
 

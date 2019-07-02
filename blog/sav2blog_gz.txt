@@ -12,7 +12,6 @@ Perhaps look at jobSatisfactionPredictor?
 * RTS type of job -- familiar routine
 * MLP type of job -- challenging... provided I can live in peace with PIP
 
-
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to get a job, but not fast enough with local codebase
@@ -38,9 +37,6 @@ There are very few burning pleasures:
 --one-long-job resume can be bad when you change career
 I always felt my job-hopper resume is a liability, but west coast shops don't care
 
---update ranking of stressors
-low hit rate of cv is a real problem but a smaller pain compared to other pains
-
 --Given the high churn in UI space, are interviewers more lenient?
 
 --no blogpost
@@ -60,13 +56,6 @@ Traditionally, one of my strengths is positive attitude to IV setbacks.
 It is easy to look at the gap and feel hopeless.
 
 Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
-
---new:
-Only routine python code is "transparent". Many python features are impenetrable: 
-* import hack
-* namespace/idic
-* yield
-* reflection, meta-programming
 
 --tsn is romanticized. Seldom worked out as planned? 
 Cpp yes
