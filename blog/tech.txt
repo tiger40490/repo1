@@ -1,3 +1,8 @@
+--no blogpost
+I asked my friend Davis Wei about noSQL displacing SQL. He pointed that banks probably need full ACID compliance.
+
+Now I feel the more strict those transactional requirement are, the closer we would move towards SQL. Banking has the most strict requirement.
+
 --new blogpost:
 A central technique through TMP is class template specialization. Class templates' flexibility can only be achieved via specialization but function templates' flexibility can be achieved via overload ! Overload is much simpler and cleaner than specialization.
 
