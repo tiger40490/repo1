@@ -1,3 +1,20 @@
+--new
+As I age, brown-field localSys will become harder to absorb. I may need to stay at one system longer.
+
+On the other hand, if offered the chance to convert from contractor to FTE, I may need to resist and possibly move out.
+
+I think my QQ knowledge may remain competitive.
+
+--update blogpost on GTD=reasonable
+pymodels splunk -- code gen, decorators...
+
+--new: set up to fail #Nsdq HR
+The HR professionals at Barclays Singapore and Nsdq failed to persuade me to accept their offers. They probably feel inferior, inadequate, failed, self-pity. The Nsdq guy was already on his way out, so this could be a double-whammy, reinforcing an false perception.
+
+However, the reality is, I was not the right candidate to persuade. The self-pity is mis-directed and groundless.
+
+Now look at my PIP at Macq and Qz. I worked hard towards the expectation but it could be the wrong target for me. I was set up to fail.
+
 --no blogpost:
 Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy? 
 Perhaps look at jobSatisfactionPredictor?
