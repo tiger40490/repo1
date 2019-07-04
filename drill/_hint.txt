@@ -2,7 +2,8 @@
 ====Q:  max path sum
 https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit has my solution but perhaps there are better solutions
 
-====Q (60%): isSymetric(root of a binary tree)
+====Q (60%): isSymetric(root of a binary tree). solved it iteratively and recursively.
+
 assumption: node count unknown. (Even if it's known, the info won't help bigO.)
 
 dft won't work?
@@ -16,3 +17,9 @@ For each node's enqueue(), record the path-from-root as a list. As a lighter alt
 Now scan each level from both ends. The left item's path should mirror the right item's path.
 
 (Before the scan. confirm the node count is even.)
+
+--dft
+first scan records the paths to each leaf node. (Optionally, each path can includes east/west directions).
+2nd scan does the same but always visits right child first.
+
+The two outputs should match
