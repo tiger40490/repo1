@@ -20,11 +20,13 @@ Linear time to build it
 -- idea 4: multiple scans
 -- idea 3: segments
 
--- Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat.
+-- Sol2: O(N). use the O(N) algo in the blog on "given int array, find median ] O(N)". Then discard one of the two segments. Then repeat. 
+Note: Each time the target element must exist in one of the 2 segments.
 
 O(N) + O(N/2) + O(N/4) ... -> O(N)
 
--- Sol2a: Use qsort partition algo to anchor a (random) pivot element. 
+-- Sol2a: Use qsort partition algo to anchor a (random) pivot element to create two segments. Our target must exist in one of the two, so discard the other by adjusting the le/ri boundaries.
+This idea is same as the most voted solution in leetcode discussion.
 O(N) on average -- we get O(N)+O(N/2) + O(N/4) + ... < O(2N)
 
 Note average complexity is acceptable in hashtable!
