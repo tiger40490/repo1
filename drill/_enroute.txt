@@ -14,12 +14,15 @@ Each person gets an account with a final balance. Some (say 22) accounts are pos
 To really clean up, it's good to identify disjoint groups of persons. Within each group, settle.
 
 what's the exact requirement? Better ask Rahul
-====Q: generate all paths from [0,0] to [A,B]. Each step must go down
-A+B steps in total. A+B choose A paths?
+====Q: within a matrix (recombinant tree) generate all paths from [0,0] to [A,B]. Each step must go down
+A+B steps in total. Among them, A steps must move south-east.
 
+A+B_choose_A paths?
+
+To generate the paths, start with the "abbr/combo" algo.
 ====Q from p 183  [[discrete math]]: given a n x n grid. Start from north west corner moving south or east each step, towards that corner. The diagonal connecting them can be touched from north, but not crossed. print all paths
 
-Better to treat origin as [0,0] and end as [N,N]
+easier to treat origin as [0,0] and end as [N,N]
 
 DFT will require deep recursion. 
 BFT (with color) where each node remembers all paths-from-root? Kinda brute force 

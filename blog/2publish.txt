@@ -17,7 +17,7 @@ Do they get you higher jobs, lower stress?
 
 In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
 
-QQ? Will C++TMP (and rvr) QQ turn out similar to java bytecode engineering, reflection, generics, EJB (spent 6M)? Even in such a case, still better roti than Qz. Actually TMP is quizzed more than those, and rve is quizzed more than TMP.
+QQ? Will C++TMP (and rvr) QQ turn out similar to java bytecode engineering, reflection, generics? Even in such a case, still better roti than Qz. Actually TMP is quizzed more than those.
 
 When TMP is not quizzed you can still showcase your Halo. TMP techniques would remain a halo for years to come. Classic QQ topic.
 
