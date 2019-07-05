@@ -1,32 +1,8 @@
 --update ranking of stressors
 low hit rate of cv is a real problem but a smaller pain compared to other pains
 
---update blogpost on ## self-esteem
-With the exception of c++, socket, py(devops), c#...
-Looks like most ventures out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
-
-high-risk, low-return venture?
-
-The health hazard is really nothing but one mgr's assessment. For my recent painful jobs, I continue to dismiss/ignore the possible boost to self-esteem --
-* I conquered some of my biggest technology fears -- MSVS; c++ crash management; c++ large code navigation.. Other people may not agree, but my own experience proves that these challenges are harder than high-level dev (like web/scripting..). My fears were more deep-rooted.
-* I built real mileage in c#. I even proved myself stronger than some c# veterans when I created a simple web server to dump log files for everyday troubleshooting.
-* see more pointers in https://bintanvictor.wordpress.com/wp-admin/post.php?post=27139&action=edit
-
---update blogpost on c++tmp
-Alexandrescu's TMP techniques (not "designs") are very tricky (not "complex") and requires absorbency, but do they enhance latency?
-Do they get you higher jobs, lower stress? 
-
-In terms of latency, Well, java can rival c++ in latency. The reasons are not obvious or intuitive, but not my focus today. It's just an observed fact which discredits conventional wisdom and our assumptions.
-
-QQ? Will C++TMP (and rvr) QQ turn out similar to java bytecode engineering, reflection, generics? Even in such a case, still better roti than Qz. Actually TMP is quizzed more than those.
-
-When TMP is not quizzed you can still showcase your Halo. TMP techniques would remain a halo for years to come. Classic QQ topic.
-
-TMP is more time-honored than many c++11 features.
-
-TMP is needed when reaching next level in c++ zbs. Many new cpp features r added for TMP. I feel TMP is the main innovation front across c++ language n standard development. cpp lost many competitions but no other languages offer anything close to these TMP features.  
-
-TMP is never needed in greenfield projects. Occasionally relevant in understanding existing code base
+--tag "story4iv"
+Paul Fox email
 
 ====Q[L]: Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Rahul said there's an O(N) solution.
 
