@@ -2,7 +2,8 @@
 low hit rate of cv is a real problem but a smaller pain compared to other pains
 
 --update blogpost on ## self-esteem
-Looks like every venture out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
+With the exception of c++, socket, py(devops), c#...
+Looks like most ventures out of my tech sweet spot java/SQL/scripting... presents esteem-hazards (like health hazards) but dismal prospect in terms of self-esteem boost.
 
 high-risk, low-return venture?
 

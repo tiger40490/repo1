@@ -5,7 +5,6 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 Eg: {B>A,$3} {A>C,$1} {C>B,$2} means ultimately A received $2, B lent $1, C lent $1.
 
@@ -58,7 +57,7 @@ How about two-pointers moving forward?
 1 0 2 8 6 3 1 7 5 1 4
 
 What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
-====Q: max distance: Given an array A of integers, find the maximum of j - i subjected to the constraint of A[i] <= A[j].
+====Q: max distance: Given an array A of integers, find the maximum of j - i, subjected to the constraint of A[i] <= A[j].
 Example:
 Input A: [3, 5, 4, 2]
 Output: 2 for the pair (3, 4)
