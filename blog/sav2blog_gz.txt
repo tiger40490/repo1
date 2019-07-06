@@ -65,34 +65,11 @@ There are very few burning pleasures:
 * jogging in stadium
 * learning Oracle
 
---one-long-job resume can be bad when you change career
-I always felt my job-hopper resume is a liability, but west coast shops don't care
-
 --Given the high churn in UI space, are interviewers more lenient?
 
---no blogpost
-I feel my sister and my son may be more effective. 
-perhaps I have an adjustment problem -- frequently I outperform in IV to set up expectation, but on the job struggle to match it, and receive negative feedback. 
-The problem is my reaction to the feedback. 
-I feel I can do better. I can learn coping strategies. 
-I can relax as grandpa suggested. 
-I can learn to live in peace with the negative feedback. 
-If I put in a reasonable effort and manager accepts it without a bonus, then I feel I can be happy. 
-If I put in a reasonable effort but manager clearly indicates "unacceptable", then I feel i would take action to leave
-
-Overall, my reaction to PIP is weaker than my reaction to IV setbacks.
-
-Traditionally, one of my strengths is positive attitude to IV setbacks.
-
-It is easy to look at the gap and feel hopeless.
-
-Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
-
---tsn is romanticized. Seldom worked out as planned? 
+--no blogpost: tsn is romanticized. Seldom worked out as planned? 
 Cpp yes
 Eq trading engine ? Not sure
-
---pretty women have easy job search .. similarly I have an easier job search
 
 --update blog ... csy:
 the IV successes define me.
@@ -104,9 +81,6 @@ c# - underwhelming. Displaced in web2.0. Google CIV uses 5 anguages, without c#
 c++ - matching my expectation. slow decline. Efficiency advantage is eclipsed by java and some new languages
 py - exceeding my expectation
 javascript - exceeding expectation
-
---no blogpost:
-Quoine probably designed a tcp feed for internet clients, but in the industry, multicast feed is more industrial-strength, more advanced, more practical. Such expertise is more in-demand 
 
 --no blogpost: delights: engaged,leverage,strategic.. 
 [tags t_othRisk]
@@ -128,7 +102,6 @@ I chose a c# job ... engaged for a year and then disengaged, shorter than expect
 I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
 
 I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
---Some of the MLP connectivity guys could be a top geek to achieve the latency. This geek could have left the team.
 
 --no blogpost: c#^java/c++ journeys
 [tags t_below7]
@@ -142,3 +115,7 @@ For all languages, there is no hike, no strategic value so at that level all und
 --no
 Like Black developers .. As an older developer I also have higher visibility.
 IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
+
+--already published
+one-long-job resume can be bad when you change career
+I always felt my job-hopper resume is a liability, but west coast shops don't care
