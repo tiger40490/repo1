@@ -1,3 +1,13 @@
+--new: After 100 problems, it's harder to sustain the practice
+Intuitively we experience the diminishing return
+
+--update blogpost on effort^improvement
+I don't like to focus on some measurement, but if I must, then I measure by
+* number of hours spent
+* level of joy, satisfaction and absorption
+
+I don't measure number of problems solved. Such a measurement and benchmark is counterproductive. You can achieve it by reading the solutions and just writing up the code.
+
 --new:
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
 

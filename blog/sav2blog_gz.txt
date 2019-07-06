@@ -1,3 +1,14 @@
+--update blogpost
+Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
+A: It helped. Key is capture of absorbency and engagement. 
+ 
+--new: what can derail work-till-75 plan
+I think health is unlikely to be the reason. IV competition, age discrimination are more likely.
+
+On the job, my energy level might be a factor.
+--new:
+Based on the rumor that west coast is more competitive and age-unfriendly, then the techies in their 40's can't afford to remain hands-on like on Wall st. If confirmed, then Wall st is best for older programmers.
+
 --new
 As I age, brown-field localSys will become harder to absorb. I may need to stay at one system longer.
 
