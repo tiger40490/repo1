@@ -1,17 +1,6 @@
 --new: After 100 problems, it's harder to sustain the practice
-Intuitively we experience the diminishing return
+Intuitively, subconsciously we experience the diminishing return
 
---update blogpost on effort^improvement
-I don't like to focus on some measurement, but if I must, then I measure by
-* number of hours spent
-* level of joy, satisfaction and absorption
-
-I don't measure number of problems solved. Such a measurement and benchmark is counterproductive. You can achieve it by reading the solutions and just writing up the code.
-
---new:
-I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
-
-As such, we need memory refresh ..
 --new:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
 * not long-term commitment. I believe most of them would stop after getting a job.
@@ -31,6 +20,11 @@ speed is more important than fine quality. I need to unlearn what FB seminar pre
 the new leetcode sub-culture is like math practice my son (and me at his age) needs to do. If you don't bother to practice then you will fail to qualify. There are tests in his school throughout the year. He will likely fail most of them. 
 
 It's really funny that me and my son are in exactly the same situation. Absorbency is both ability and effort.
+
+--new:
+I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
+
+As such, we need memory refresh ..
 
 --new blogpost cod`drill outlasting C++self-study
 Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 

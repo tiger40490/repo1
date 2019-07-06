@@ -1,9 +1,10 @@
 --update blogpost
 Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
-A: It helped. Key is capture of absorbency and engagement. 
- 
+A: It helped. Key is capture of absorbency and engagement. I didn't have a lot to capture :(
+
 --new
-in west coast IV, I have no "unfair advantage" as the hiring companies are open to all
+in west coast IV, I have no "unfair advantage" as the employers are open to all. 
+In contrast, 
 On Wall St, I have an unfair advantage in the form of
 * accumulated IV xp
 * accumulated dnlg
@@ -13,14 +14,13 @@ On Wall St, I have an unfair advantage in the form of
 I think health is unlikely to be the reason. IV competition, age discrimination are more likely.
 
 On the job, my energy, absorbency and sustained focus might go down or up with age.
-
-As I age, brown-field localSys will become harder to absorb. I may need to stay at one system longer.
+I wrote more in another blogpost -- As I age, brown-field localSys will become harder to absorb. I may need to stay at one system longer.
 
 On the other hand, if offered the chance to convert from contractor to FTE, I may need to resist and possibly move out.
 
-I think my QQ knowledge may remain competitive.
+I think my QQ knowledge will remain competitive.
 
-Based on the rumor that west coast is more competitive and age-unfriendly, then the techies in their 40's can't afford to remain hands-on like on Wall st. If confirmed, then Wall st is best for older programmers.
+Based on the rumor that west coast is more competitive and age-unfriendly, then the techies there in their 40's can't afford to remain hands-on like on Wall st. If confirmed, then Wall st is better for older programmers.
 
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
@@ -28,12 +28,11 @@ He relied on his theoretical knowledge to get a job, but not fast enough with lo
 
 Is green field better than brown-field codebase? I guess so. Brown-field projects are rarely given to a new joiner but consider 95G and volFitter !
 
-Q: Are the c++11 QQ topics a form of churn on the interview competition? 
-A: I feel the worst scene is localSys on the job. QQ IV is lighter.
+Now consider this seprate question: 
+Q: Are the c++11 QQ topics a form of churn on the interview competition?
+A: I feel the worst scene is localSys on the job. c++11 QQ is lighter.
+
 Q: how about the Coding IV? still lighter stress than localSys. I can take my time.
-
-Based on personal observation, U.S. employers are definitely better than SG employers.
-
 --new: set up to fail #Nsdq HR
 The HR professionals at Barclays Singapore and Nsdq failed to persuade me to accept their offers. They probably feel inferior, inadequate, failed, self-pity. The Nsdq guy was already on his way out, so this could be a double-whammy, reinforcing an false perception.
 
