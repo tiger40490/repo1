@@ -114,5 +114,3 @@ uplink/downlink is visual only in a tree with root on top
 When he visits downstream nodes from "current node", he needs this->dependents field
 
 This crucial detail is not explained in wikipedia
-====Q[c e v] implement half-written abbr_iterative.h based on the abbr_ascendRecursive.h
-Not so easy when the word contains dupe letters. I think hashtable is simplest solution in a realistic context, as explained in cookbook.py
