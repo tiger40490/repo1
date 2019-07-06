@@ -1,0 +1,42 @@
+====topo sort: given a directed graph, any linear algo to assign ranks?
+I prefer to use one rank for multiple nodes that can be simultaneously started/concretized/evaluated. This feature can increase flexibility and parallelism
+
+rank table -- We can use a hashtable (or pre-sized vector) to store the ranks: {rank -> list of nodes of that rank}. Assigning a node means adding the node id to the correct list, in O(1)
+
+Assumption 1: the original graph nodes contain precedents but no dependents. spreadsheet-model. I think this is Kahn's assumption.
+
+Assumption 2: the original graph nodes contain dependents but no precedents. notification list or "call list", or "listener list"
+
+In most situations, One of these two assumptions would hold, but rarely both.
+
+Scan-1 O(V+E) -- build a hashtable-based two-way edgeSet representation of the graph. For each node, we maintain a hashset (or slist) of precedents and a hashset of dependents. The duplication is needed, as described below in the Kahn context. 
+
+Scan-2 O(V) -- assign rank 0 to all top-level nodes (no precedent). Now we can use the rank table to scan rank-0 nodes
+
+Scan-3 -- Now scan the last assigned rank, rank-0 in this case. 
+For each node in that list, check each downstream child. 
+Unconditionally remove (O(1) thanks to hashset) the precedent from inside the child. 
+After that, If the child has empty hashset of precedents it is assigned rank 1. 
+I now believe the precedent/dependent link is never accessed again, so we can remove both.
+
+Repeat the last scan at Rank 1, then Rank 2..
+
+Every node is assigned only once. Every edge is checked only once or twice.
+
+Can the precedents hashset become an integer count?
+
+-- simplicity
+In this design, I use multiple Simple passes and avoid doing too much in one pass. If needed, you can combine Scan-2 and Scan-1.
+
+We treat the original nodes as readonly -- nice simplification.
+--terminology: 
+precedent/dependent is accurate but abstract.
+"Dependency" is a confusing term. It means someone I depend on. Better avoid this word in graph problems.
+uplink/downlink is visual only in a tree with root on top
+
+--Kahn uses "incoming edge" to mean a precedent
+"All nodes with no incoming edge" ... implies a node object has this->precedents field
+
+When he visits downstream nodes from "current node", he needs this->dependents field
+
+This crucial detail is not explained in wikipedia
