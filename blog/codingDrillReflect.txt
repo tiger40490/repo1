@@ -1,7 +1,7 @@
 --new: After 100 problems, it's harder to sustain the practice
 Intuitively, subconsciously we experience the diminishing return
 
---new:
+--no:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
 * not long-term commitment. I believe most of them would stop after getting a job.
 * not in-depth
@@ -9,17 +9,6 @@ A student's approach to statistics is different from a mathematician's. Likewise
 * more like cram
 
 However an unbiased interviewer/observer could find the student stronger than me.
---no blogpost:
-even though conventional wisdom says i need to practice speed coding till i can complete 2 "medium" problems in 40 minutes, I will take the bet that I don't need to. 
-
-Such a practice is too painful. I'd rather go in with known risk of rejection than pushing myself to do painful practice (consider yoga)
-
-speed is more important than fine quality. I need to unlearn what FB seminar preached.
-
---no
-the new leetcode sub-culture is like math practice my son (and me at his age) needs to do. If you don't bother to practice then you will fail to qualify. There are tests in his school throughout the year. He will likely fail most of them. 
-
-It's really funny that me and my son are in exactly the same situation. Absorbency is both ability and effort.
 
 --new:
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
@@ -31,23 +20,14 @@ Am confident that my coding drill will become a "long-term" hobby like java/c++ 
 
 Anti-aging.
 
-enjoyable? Yes possible and real. Not theoretical.
+Enjoyable? Yes possible and real if no pressure. 
+
+Not theoretical; more immediate result
 
 I think coding drill may even outlast c++ QQ self-study but crucially my c++ QQ has reached critical mass.
 
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
-A: practice as fresh grads do. Note my competitors tend to be younger including fresh grads.
 
 Need to prioritize 1 or 2 among the formats as described in google sheet. 
 Leave out speed coding and weekend assignments. (This doesn't mean we give up on those fronts.) It means I accept my limitations as an aging developer.
-
-The problems I'm interested in might be harder than the 45-min white board types. 
-
-I think some financial firms don't use tough speed coding. Instead, they focus on
-* language features
-* threading (I count 9+ such questions)
-* pure algo, perhaps over phone
-* simple speed-coding problems
-
-Few companies use on-site tough speed coding.
