@@ -5,6 +5,15 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+====[eL] Q: Given a binary tree, determine if it is height-balanced -- a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
+
+I can try it on Leetcode .. no need to set up test harness myself but I might be frustrated
+
+-- post-order walk? 
+
+-- How about a simple recursive algo
+for any node, find the its subtree height including itself and return it. Before returning, also compare the left vs right subtree heights
+
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 Eg: {B>A,$3} {A>C,$1} {C>B,$2} means ultimately A received $2, B lent $1, C lent $1.
 

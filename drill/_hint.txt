@@ -2,6 +2,9 @@
 ====Q:  max path sum
 https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit has my solution but perhaps there are better solutions
 
+====[L]Q: friend circle
+https://bintanvictor.wordpress.com/wp-admin/post.php?post=29875&action=edit
+
 ====Q (60%): isSymetric(root of a binary tree). solved it iteratively and recursively.
 
 assumption: node count unknown. (Even if it's known, the info won't help bigO.)
