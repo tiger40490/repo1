@@ -1,6 +1,18 @@
 --is it a problem to have a lot of pending content in git-blogging files?
 I think it's fine. Some old content will get "flushed" to blog or the drain sooner or later
 
+--new: am good at pushing myself to the limit
+am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
+* yoga
+* jogging
+* coding drill
+* camp out
+
+coding drill is the most interesting case study. Other people may complete more problems, but i probably spend more time
+* Ranked by number of problems, i'm just average
+* ranked by hours spent, I'm much higher
+* ranked by effort, I'm even higher, as I push myself harder than others
+
 --no blogpost
 I feel my sister and my son may be more effective. 
 perhaps I have an adjustment problem -- frequently I outperform in IV to set up expectation, but on the job struggle to match it, and receive negative feedback. 
@@ -18,18 +30,6 @@ Traditionally, one of my strengths is positive attitude to IV setbacks.
 It is easy to look at the gap and feel hopeless.
 
 Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as one hallmark of pessimists.
-
---new
-am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
-* yoga
-* jogging
-* coding drill
-* camp out
-
-coding drill is the most interesting case study. Other people may complete more problems, but i probably spend more time
-* Ranked by number of problems, i'm just average
-* ranked by hours spent, I'm much higher
-* ranked by effort, I'm even higher, as I push myself harder than others
 
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
