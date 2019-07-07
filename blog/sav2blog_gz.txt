@@ -17,7 +17,7 @@ In contrast, On Wall St, I have an unfair advantage in the form of
 * accumulated dnlg
 * track record
 
---new: what can derail work-till75 plan
+--new: what can derail work-till-75 plan
 I think health is unlikely to be the reason. IV competition, age discrimination are more likely.
 
 On the job, my energy, absorbency and sustained focus might go down or up with age.
@@ -28,8 +28,14 @@ On the other hand, if offered the chance to convert from contractor to FTE, I ma
 I think my QQ knowledge will remain competitive.
 
 Based on the rumor that west coast is more competitive and age-unfriendly, then the techies there in their 40's can't afford to remain hands-on like on Wall st. If confirmed, then Wall st is better for older programmers.
+
 In fact, beside doctors, Wall St tech might be one of the most eviable domains for work-till-70. Note tech also includes BAU and other support functions.
 
+--new: commercial banks like FX not eq|comm
+
+FX is closer to the everyday business of commercial banks. The biggest FX banks are usually commercial banks -- DB, Barclays, Citi, never ibanks.
+
+FI is a composite market. Some FI products are closer to commercial banks. I think commercial banks buy-n-hold soverein bonds (not traded) similar to insurers do.
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to get a job, but not fast enough with local codebase
