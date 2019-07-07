@@ -1,3 +1,8 @@
+--my priorities for the HRT assignments
+* capture the mood to practice. I may need to cut sleep, but I want to maintain my physical exercise
+* capture the mood to practice leetcode too.
+* do my best (with my abilities) to impress but don't aim to pass
+
 --new: After 100 problems, it's harder to sustain the practice
 Intuitively, subconsciously we experience the diminishing return
 

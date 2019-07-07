@@ -1,13 +1,5 @@
---this weekend
-coding drill + HRT has momentum ... Capture it
-workout - Friday night class if available
-
---no blog
-After reading A.Brooks, I assumed that grandpa's health would suffer if he loses relevance after retirement. 
-
-He is very sure it won't happen. He said people in his circle basically keep working until physically unable. He foresees his life to be really busy for a few more years until his health prevents him from working. 
-
-He actually believe his active workload at age 84 is harming his health. I feel irrelevance would be more detrimental his health, but perhaps he has never thought of irrelevance.
+--is it a problem to have a lot of pending content in git-blogging files?
+I think it's fine. Some old content will get "flushed" to blog or the drain sooner or later
 
 --no blogpost
 I feel my sister and my son may be more effective. 
@@ -73,3 +65,10 @@ sugg: Friday evening is golden. Other parts of the weekend can also be valuable
 Sugg: take half-day leaves to create half-day quiet periods at home. This feature isn't available to contractor
 Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
 Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
+
+--no blog
+After reading A.Brooks, I assumed that grandpa's health would suffer if he loses relevance after retirement. 
+
+He is very sure it won't happen. He said people in his circle basically keep working until physically unable. He foresees his life to be really busy for a few more years until his health prevents him from working. 
+
+He actually believe his active workload at age 84 is harming his health. I feel irrelevance would be more detrimental his health, but perhaps he has never thought of irrelevance.
