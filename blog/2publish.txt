@@ -1,0 +1,2 @@
+--update blogpost: for some passwords ..
+Use wordpress post-by-email but change the number? These strings are naturally easy to refresh
