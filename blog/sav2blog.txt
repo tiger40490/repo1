@@ -31,10 +31,8 @@ coding drill is the most interesting case study. Other people may complete more 
 * ranked by hours spent, I'm much higher
 * ranked by effort, I'm even higher, as I push myself harder than others
 
-
 --shall I upload contact.txt for backup?
-gmail?
-encrypt via zip?
+gmail zip after adding pw? try
 
 --no blog
 The honeymoon of engagement (on coding drill, localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
