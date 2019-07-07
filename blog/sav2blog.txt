@@ -1,3 +1,18 @@
+--nil
+on some games I feel I am unlikely to improve my relative "ranking" so I need to reconcile:
+* kids academics
+* brank
+
+On other "fronts", I feel confident to maintain my comfortable position :
+* sg citizenship
+* work-till-70, life-long learning, access to age-friendly job market
+* mobility across multiple job markets
+* coding IV skill benchmarked against my age group on Wall St 
+* QQ IV beyond coreJava -- c++, c# ..
+* wellness
+* cashflow -- burn rate, retirement planning, ffree
+* stable marriage, valuable support from grandparents
+
 --is it a problem to have a lot of pending content in git-blogging files?
 I think it's fine. Some old content will get "flushed" to blog or the drain sooner or later
 
