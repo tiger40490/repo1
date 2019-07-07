@@ -21,6 +21,7 @@ On the other hand, if offered the chance to convert from contractor to FTE, I ma
 I think my QQ knowledge will remain competitive.
 
 Based on the rumor that west coast is more competitive and age-unfriendly, then the techies there in their 40's can't afford to remain hands-on like on Wall st. If confirmed, then Wall st is better for older programmers.
+In fact, beside doctors, Wall St tech might be one of the most eviable domains for work-till-70. Note tech also includes BAU and other support functions.
 
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
