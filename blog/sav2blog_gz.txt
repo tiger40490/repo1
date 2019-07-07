@@ -1,7 +1,3 @@
---update blogpost
-Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
-A: It helped. Key is capture of absorbency and engagement. I didn't have a lot to capture :(
-
 --new
 in west coast IV, I have no "unfair advantage" as the employers are open to all. 
 In contrast, 
@@ -41,9 +37,11 @@ However, the reality is, I was not the right candidate to persuade. The self-pit
 
 Now look at my PIP at Macq and Qz. I worked hard towards the expectation but it could be the wrong target for me. I was set up to fail.
 
+--update blogpost
+Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
+A: It helped. Key is capture of absorbency and engagement. I didn't have a lot to capture :(
 --update blogpost on GTD=reasonable
 pymodels splunk -- code gen, decorators...
-
 --no blogpost
 sg job market remains as slow and thin as before. Still financial jobs constitute 90% of my job pool
 
@@ -61,7 +59,6 @@ Perhaps look at jobSatisfactionPredictor?
 * RTS type of job -- familiar routine
 * MLP type of job -- challenging... provided I can live in peace with PIP
 
-
 --new: 
 See also the pleasure^chore framework
 
@@ -73,10 +70,6 @@ There are very few burning pleasures:
 * learning Oracle
 
 --Given the high churn in UI space, are interviewers more lenient?
-
---no blogpost: tsn is romanticized. Seldom worked out as planned? 
-Cpp yes
-Eq trading engine ? Not sure
 
 --update blog ... csy:
 the IV successes define me.
@@ -122,6 +115,10 @@ For all languages, there is no hike, no strategic value so at that level all und
 --no
 Like Black developers .. As an older developer I also have higher visibility.
 IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
+
+--no blogpost: tsn is romanticized. Seldom worked out as planned? 
+Cpp yes
+Eq trading engine ? Not sure
 
 --already published
 one-long-job resume can be bad when you change career
