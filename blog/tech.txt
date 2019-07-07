@@ -4,7 +4,7 @@ I think each node is visited up to 3 times -- push to stack and read left child;
 --new blogpost
 t_extInput
 
-I asked my friend Davis Wei about noSQL displacing SQL. He pointed out that banks probably need full ACID compliance.
+I asked my friend Davis Wei about noSQL displacing SQL. He pointed out that banks need full ACID compliance.
 
 Now I feel the more strict those transactional requirement are, the closer we would move towards SQL. Banking has the most strict requirement.
 
