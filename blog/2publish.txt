@@ -1,8 +1,18 @@
 --update design.txt
 No shared_ptr
 
---new blogpost
+--new: mkt data sys avoids shared_ptr/STL
 t_xRef
-shared_ptr and STL containers are avoided in mkt data due to extra DAM allocations
+shared_ptr and STL containers, java autoboxing ... are avoided in mkt data due to extra DAM allocations on the fly.
+shared_ptr in terms of the ref counter
+If a vector is reserved and never reallocates, then it incurs no on-the-fly allocation
+
+--new STL is fast but heap-hot
+STL is faster compared to
+* alternative designs using virtual functions
+* alternative designs not using compile-time TMP techniques
+
+However, STL containers are slower than those without on-the-fly allocation
+ 
 --update blogpost: for some passwords ..
 Use wordpress post-by-email but change the number? These strings are naturally easy to refresh

@@ -1,22 +1,29 @@
---nil
+--new: ## comfortable position among peers
+tag: tectonic, peerComp
+
+We instinctively know, to varying degrees, where we stand among our chosen peer group. 
 on some games I feel I am unlikely to improve my relative "ranking" so I need to reconcile:
 * kids academics
 * brank
 
-On other "fronts", I feel confident to maintain my comfortable position :
-* sg citizenship
-* work-till-70, life-long learning, access to age-friendly job market
+On other "fronts", I feel confident to maintain my comfortable position relative to peers:
+* sg citizenship -- low-cost health care, car-free, property tax
+* work-till-70, life-long learning, access to age-friendly job markets
 * mobility across multiple job markets
 * coding IV skill benchmarked against my age group on Wall St 
 * QQ IV beyond coreJava -- c++, c# ..
 * wellness
 * cashflow -- burn rate, retirement planning, ffree
+* home ownership, low maintenance
 * stable marriage, valuable support from grandparents
+* lower fear of job loss, lower work stress .. thanks to contract
 
 --weekend coding test:
 a lot of time is wasted on BP.
 Better tidy up in the end. During dev, just keep everything in one file
---is it a problem to have a lot of pending content in git-blogging files?
+
+--is it a problem to have a lot of pending content in git-blogging files? I'm "forced" to spend too much reviewing them.
+
 I think it's fine. Some old content will get "flushed" to blog or the drain sooner or later
 
 --new: am good at pushing myself to the limit
@@ -52,7 +59,7 @@ Parenting also requires this capacity. [[Learned optimism]]] listed Permanent as
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
---no blog
+--just fuxi
 The honeymoon of engagement (on coding drill, localSys, GTD, emailing to friends ..) is joy and pleasure in itself.
 eg@engage: morning quiet time... the zone
 eg@engage: on flights
