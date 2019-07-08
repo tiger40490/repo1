@@ -1,2 +1,8 @@
+--update design.txt
+No shared_ptr
+
+--new blogpost
+t_xRef
+shared_ptr and STL containers are avoided in mkt data due to extra DAM allocations
 --update blogpost: for some passwords ..
 Use wordpress post-by-email but change the number? These strings are naturally easy to refresh
