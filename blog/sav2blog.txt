@@ -18,10 +18,6 @@ On other "fronts", I feel confident to maintain my comfortable position relative
 * stable marriage, valuable support from grandparents
 * lower fear of job loss, lower work stress .. thanks to contract
 
---weekend coding test:
-a lot of time is wasted on BP.
-Better tidy up in the end. During dev, just keep everything in one file
-
 --is it a problem to have a lot of pending content in git-blogging files? I'm "forced" to spend too much reviewing them.
 
 I think it's fine. Some old content will get "flushed" to blog or the drain sooner or later
