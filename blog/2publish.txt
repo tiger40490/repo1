@@ -1,3 +1,5 @@
+--ask Jay again
+
 --new: mkt data sys avoids shared_ptr/STL
 t_xRef
 shared_ptr and STL containers, java autoboxing ... are avoided in busy mkt data systems due to on-the-fly DAM allocations.
@@ -14,6 +16,13 @@ However, STL containers are slower than containers without on-the-fly allocation
  
 --update blogpost: for some passwords ..
 Use wordpress post-by-email but change the number? These strings are naturally easy to refresh
+
+--new blogpost:
+A fundamental TMP technique is class template specialization. Class templates' flexibility can only be achieved via specialization but function templates' flexibility can be achieved via overload ! Overload is much simpler than specialization.
+
+In [[c++coding standard]], Alexandrescu/Sutter said "Don't specialize func templates", for multiple reasons.
+
+After remembering this sound byte, it's probably important to remember one of the reasons, for IV (halo) and zbs.
 
 --new: ## comfortable position among peers
 tag: tectonic, peerComp, othRisk

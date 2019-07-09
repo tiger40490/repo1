@@ -1,5 +1,5 @@
 --new blogpost: y is javascript growing
-I think the new generations prefer online services rather than in-person service. They rely on well-designed online GUI, either on smartphone or computer.
+I think the new generations prefer online self-services rather than in-person service. They rely on well-designed online GUI, either on smartphone or computer.
 
 --why is in-order-walk of binTree O(N)
 I think each node is visited up to 3 times -- push to stack and read left child; process (like print) payload; read the right child; 
@@ -10,13 +10,6 @@ t_extInput
 Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He pointed out that banks need full ACID compliance.
 
 Now I feel the more strict transactional requirement we have, the closer we would move towards SQL. Banking has the most strict requirement.
-
---new blogpost:
-A central technique through TMP is class template specialization. Class templates' flexibility can only be achieved via specialization but function templates' flexibility can be achieved via overload ! Overload is much simpler than specialization.
-
-In [[c++coding standard]], Alexandrescu/Sutter said "Don't specialize func templates", for multiple reasons.
-
-After remembering this sound byte, it's probably important to remember one of the reasons, for IV (halo) and zbs.
 
 --python features I learned on flight to NY, before Jump IV
 * reduce()+lambda for ECT
