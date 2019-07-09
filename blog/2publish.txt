@@ -1,18 +1,36 @@
---update design.txt
-No shared_ptr
-
 --new: mkt data sys avoids shared_ptr/STL
 t_xRef
-shared_ptr and STL containers, java autoboxing ... are avoided in mkt data due to extra DAM allocations on the fly.
-shared_ptr in terms of the ref counter
-If a vector is reserved and never reallocates, then it incurs no on-the-fly allocation
+shared_ptr and STL containers, java autoboxing ... are avoided in busy mkt data systems due to on-the-fly DAM allocations.
+shared_ptr has extra DAM in terms of the ref counter
 
---new STL is fast but heap-hot
+consider pre-allocation
+
+--new.. STL is fast but heap-hot
 STL is faster compared to
 * alternative designs using virtual functions
-* alternative designs not using compile-time TMP techniques
+* alternative designs using runtime logic instead of compile-time TMP
 
-However, STL containers are slower than those without on-the-fly allocation
+However, STL containers are slower than containers without on-the-fly allocation. To match those containers, you can pre-allocate enough capacity at start-up.
  
 --update blogpost: for some passwords ..
 Use wordpress post-by-email but change the number? These strings are naturally easy to refresh
+
+--new: ## comfortable position among peers
+tag: tectonic, peerComp, othRisk
+
+We instinctively know, to varying degrees, where we stand among our chosen peer group. 
+on some games I feel I am unlikely to improve my relative "ranking" so I need to reconcile:
+* kids academics
+* brank
+
+On other "fronts", I feel confident to maintain my comfortable position relative to peers:
+* sg citizenship -- low-cost health care, car-free, property tax
+* work-till-70, life-long learning, access to age-friendly job markets
+* mobility across multiple job markets
+* coding IV skill benchmarked against my age group on Wall St 
+* QQ IV beyond coreJava -- c++, c# ..
+* wellness
+* cashflow -- burn rate, retirement planning, ffree
+* home ownership, low maintenance
+* stable marriage, valuable support from grandparents
+* lower fear of job loss, lower work stress .. thanks to contract
