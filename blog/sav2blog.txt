@@ -1,5 +1,5 @@
 --new: ## comfortable position among peers
-tag: tectonic, peerComp
+tag: tectonic, peerComp, othRisk
 
 We instinctively know, to varying degrees, where we stand among our chosen peer group. 
 on some games I feel I am unlikely to improve my relative "ranking" so I need to reconcile:
@@ -18,21 +18,9 @@ On other "fronts", I feel confident to maintain my comfortable position relative
 * stable marriage, valuable support from grandparents
 * lower fear of job loss, lower work stress .. thanks to contract
 
---is it a problem to have a lot of pending content in git-blogging files? I'm "forced" to spend too much reviewing them.
+--is it a problem to have a lot of pending content in git-blogging files? I'm "forced" to spend too much time reviewing them.
 
 I think it's fine. Some old content will get "flushed" to blog or the drain sooner or later
-
---new: am good at pushing myself to the limit
-am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
-* yoga
-* jogging
-* coding drill
-* camp out
-
-coding drill is the most interesting case study. Other people may complete more problems, but i probably spend more time
-* Ranked by number of problems, i'm just average
-* ranked by hours spent, I'm much higher
-* ranked by effort, I'm even higher, as I push myself harder than others
 
 --no blogpost
 I feel my sister and my son may be more effective. 
@@ -89,3 +77,14 @@ After reading A.Brooks, I assumed that grandpa's health would suffer if he loses
 He is very sure it won't happen. He said people in his circle basically keep working until physically unable. He foresees his life to be really busy for a few more years until his health prevents him from working. 
 
 He actually believe his active workload at age 84 is harming his health. I feel irrelevance would be more detrimental his health, but perhaps he has never thought of irrelevance.
+--fuxi: am good at pushing myself to the limit
+am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
+* yoga
+* jogging
+* coding drill
+* camp out
+
+coding drill is the most interesting case study. Other people may complete more problems, but i probably spend more time
+* Ranked by number of problems, i'm just average
+* ranked by hours spent, I'm much higher
+* ranked by effort, I'm even higher, as I push myself harder than others
