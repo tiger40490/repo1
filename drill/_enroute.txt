@@ -83,6 +83,16 @@ moving and expanding window?
 
 How about line sweep?
 
-build a RbTree keyed by prices, but holding the timestamps as payload. Iterate the price levels. 
 
 Need good sample inputs 
+
+build a RbTree keyed by prices, but holding the timestamps as payload.
+--Jargon -- 
+Better prices are to the right on the treemap; 
+Earlier timestamps are invisible on the treemap;
+up-the-tree is not visible on the chart
+
+--idea
+each tree node records "earliest time that's worst than me"
+
+scan from final timestamp to earliest timestamp and insert on treemap. When inserting a node, the "next-better" node gets updated with the new timestamp
