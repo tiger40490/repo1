@@ -1,3 +1,10 @@
+--new:
+I often hear people say "technology XX is dead" .. exaggerated attention-grabbing gimmick, common on social media user posts.
+
+I like the "dead", mainstream, time-honored, stable technologies that are robust (not only resilient) against churn. 
+
+The alternative technologies are use-less, worth-less, hope-less, less proven, low-value, more likely to die young or even dead-on-arrival
+
 --new
 the xx in weekend coding assignments are different from coding drill or work projects
 * intensity -- highest
