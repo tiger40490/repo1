@@ -83,6 +83,6 @@ moving and expanding window?
 
 How about line sweep?
 
-build a RbTree keyed by prices, but holding the timestamps as payload. Iterate the price levels. Between each 2 adjacent price levels, find the time-distance. Longest is best
+build a RbTree keyed by prices, but holding the timestamps as payload. Iterate the price levels. 
 
 Need good sample inputs 
