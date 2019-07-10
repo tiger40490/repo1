@@ -1,6 +1,8 @@
 ====topo sort: given a directed graph, any linear algo to assign ranks?
 I prefer to use one rank for multiple nodes that can be simultaneously started/concretized/evaluated. This feature can increase flexibility and parallelism
 
+terminology -- avoid "dependency" -- confusing. Prefer "upstream/downstream" or "ancestor/descendant". Note ancestors should be processed first.
+
 rank table -- We can use a hashtable (or pre-sized vector) to store the ranks: {rank -> list of nodes of that rank}. Assigning a node means adding the node id to the correct list, in O(1)
 
 Assumption 1: the original graph nodes contain precedents but no dependents. spreadsheet-model. I think this is Kahn's assumption.
