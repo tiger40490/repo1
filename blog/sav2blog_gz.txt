@@ -59,7 +59,7 @@ He relied on his theoretical knowledge to get a job, but not fast enough with lo
 
 Is green field better than brown-field codebase? I guess so. Brown-field projects are rarely given to a new joiner but consider 95G and volFitter !
 
-Now consider this seprate question: 
+Now consider this separate question: 
 Q: Are the c++11 QQ topics a form of churn on the interview competition?
 A: I feel the worst scene is localSys on the job. c++11 QQ is lighter.
 
@@ -88,7 +88,7 @@ Perhaps look at jobSatisfactionPredictor?
 * RTS type of job -- familiar routine
 * MLP type of job -- challenging... provided I can live in peace with PIP
 
---new: 
+--new: QQ study=burning pleasure
 See also the pleasure^chore framework
 
 Unbelievably, QQ study feels like "burning" pleasure to me. After I complete some chore  like coding drill, tax, I long for some QQ study !

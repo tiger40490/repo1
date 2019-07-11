@@ -68,31 +68,23 @@ How about two-pointers moving forward?
 What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
 ====Q: max distance: Given an array A of integers, find the maximum of j - i, subjected to the constraint of A[i] <= A[j].
 Practical scenario -- given a pricing time series, find the "best" buy-sell trade with longest hold, because you want to have some exposure for as long as possible.
+Example: Input A: [3, 5, 4, 2]. Output: 2 for the pair (3, 4)
 
-Example:
-Input A: [3, 5, 4, 2]
-Output: 2 for the pair (3, 4)
-
-Another int-array problem -- my weakness. O(NN) is trivial. Can you beat that?
-
-first compare the 2 ends --- obvious
-
-find the max. left end to max is a candidate
-
-moving and expanding window?
-
-How about line sweep?
-
-
-Need good sample inputs 
+Sugg{ moving and expanding window?
+Sugg: How about line sweep?
 
 build a RbTree keyed by prices, but holding the timestamps as payload.
 --Jargon -- 
-Better prices are to the right on the treemap; 
+Better prices are to the right on the treemap; (Can draw the chart downward)
 Earlier timestamps are invisible on the treemap;
 up-the-tree is not visible on the chart
-
---idea
+--idea 1
 each tree node records "earliest time that's worst than me"
 
-scan from final timestamp to earliest timestamp and insert on treemap. When inserting a node, the "next-better" node gets updated with the new timestamp
+If this can be achieved efficiently, then we can scan the tree one more time. At each node compute the "span" of that price level.
+--idea 2
+each tree node records the earlier of (own timestamp, the next worse node timestamp)
+
+Outer scan -- scan from final timestamp to earliest timestamp and insert on treemap. When inserting a node, the "next-better" node gets updated with the new timestamp
+
+One final tree walk from greatest price (right-most) node. At each node, 
