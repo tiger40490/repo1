@@ -73,18 +73,20 @@ Example: Input A: [3, 5, 4, 2]. Output: 2 for the pair (3, 4)
 Sugg{ moving and expanding window?
 Sugg: How about line sweep?
 
-build a RbTree keyed by prices, but holding the timestamps as payload.
+build a RbTree ordered by price-then-timestamp. The tree will have exactly N tree nodes even though prices are non-unique. In each tree node implicit payload is "my timestamp".
+
 --Jargon -- 
-Better prices are to the right on the treemap; (Can draw the chart downward)
+Better prices are to the right on the treemap; (Can draw the price chart downward)
 Earlier timestamps are invisible on the treemap;
-up-the-tree is not visible on the chart
---idea 1
-each tree node records "earliest time that's worst than me"
+up-the-tree is not visible on the chart and not important
 
-If this can be achieved efficiently, then we can scan the tree one more time. At each node compute the "span" of that price level.
---idea 2
-each tree node records the earlier of (own timestamp, the next worse node timestamp)
+--idea 1 Single fwd scan
+invariant -- at any moment during the fwd scan, each tree node records "earliest price that's same or worse than me".
 
-Outer scan -- scan from final timestamp to earliest timestamp and insert on treemap. When inserting a node, the "next-better" node gets updated with the new timestamp
+Initial payload at each tree node -- next-better tree-node
 
-One final tree walk from greatest price (right-most) node. At each node, 
+After inserting a node on the tree, i look for the "neighbor" tree node defined as a node of same-price (pick earliest) or next-better-price (pick earliest). 
+If neighbor has a payload, duplicate that payload.
+After updating the payload, compute the "hold" time -- from the payload value (an earlier timestamp) to my timestamp. if this new hold time is longer than a global "longest hold", then update the global variable.
+
+Trivial scenario -- If the neighbor doesn't exist, then the payload is my own timestamp
