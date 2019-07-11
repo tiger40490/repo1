@@ -8,15 +8,24 @@ The alternative technologies are use-less, worth-less, hope-less, less proven, l
 --new
 the xx in weekend coding assignments are different from coding drill or work projects
 * intensity -- highest
+* depth -- comparable to my language feature experiments -- improves QQ 
 * scale -- larger than coding drill but not too large like work projects
 * BP -- is a major learning focus and evaluation criteria
 
 --update blogpost on macq .. (tough judge? bonus pool?)
+Macq is probably the only job where I focused on localSys GTD but still hit below the bar
+
 the PIP cast a long shadow and left a deep scar. Am still recovering. This scar is deeper than Stirt case.
 
 Remember the abused children, who grew up traumatized? I was not traumatized as a kid. My traumatic experience is still damaging but I can handle it. I have the maturity to handle it.
 
 Adults are often traumatized by failed marriage, in-law conflicts, 
+
+--update blogpost
+Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
+A: It helped. Key is capture of absorbency and engagement. I didn't have a lot to capture :(
+--update blogpost on GTD=reasonable
+pymodels splunk -- code gen, decorators...
 
 --new
 in west coast IV, I have no "unfair advantage" as the employers are open to all. 
@@ -62,11 +71,6 @@ However, the reality is, I was not the right candidate to persuade. The self-pit
 
 Now look at my PIP at Macq and Qz. I worked hard towards the expectation but it could be the wrong target for me. I was set up to fail.
 
---update blogpost
-Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
-A: It helped. Key is capture of absorbency and engagement. I didn't have a lot to capture :(
---update blogpost on GTD=reasonable
-pymodels splunk -- code gen, decorators...
 --no blogpost
 sg job market remains as slow and thin as before. Still financial jobs constitute 90% of my job pool
 
