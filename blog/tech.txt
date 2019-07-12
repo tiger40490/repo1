@@ -1,7 +1,7 @@
 --new: hacky solutions
 A typical hacky solution -- uses xml comment or database comment column.
 
-But look at sizeof() in sfinae. Alexandrescu described this sizeof usage.
+But look at sizeof() in sfinae. Alexandrescu justified this sizeof usage.
 
 Look at other TMP techniques that exploit compiler rules to the fullest.
 
