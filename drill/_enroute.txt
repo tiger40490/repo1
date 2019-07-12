@@ -68,17 +68,20 @@ How about two-pointers moving forward?
 What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
 ====Q (60%): given a signed-int array, find the longest subarray having sum=K
 
-First scan to build cumulative sum -- the sum-array. Looks like a price chart. First value is the first original element.
+realistic scenario: we know someone executed a buy and a sell and made $K. There are many possible buy-sell points when I review the price points. We know this trader held the position longest to gain exposure, so which buy-sell points did he use?
 
-Now scan the sum array. At each element s[j], I save s[j] in hashtable {s[j] -> j] only if no such key yet. 
+First scan to build cumulative sum -- the sum-array. Looks like a price chart. Initial value is the first original element.
 
-I look for the earliest element s[i] such that s[i] + K == s[j]. If found in the hash table, then compute j-i and update the global best if necessary.
+Now scan this "sum" array. At each element s[j], I save s[j] in hashtable {s[j] -> j] iFF no such key yet. 
 
-Note the hash table's values are all earlier than j, since we are scanning forward.
+Then
+I look for the (by design, earliest) element s[i] such that s[i] + K == s[j]. If found in the hash table, then compute j-i and update the global best if necessary.
+
+Note the hash table's values (positions) are all earlier than j, since we are scanning forward.
 
 Can consolidate to one scan.
 ====Q: max distance: Given an array A of integers, find the maximum of j - i, subjected to the constraint of A[i] <= A[j].
-Practical scenario -- given a pricing time series, find the "best" buy-sell trade with longest hold, because you want to have some exposure for as long as possible.
+Practical scenario -- given a pricing time series, find the "best" buy-sell trade with longest hold, because you want to have some exposure for as long as possible, perhaps as a hedge or for compliance (frequent-trading is penalized). Some hedge funds and IPO placement have lock-in periods.
 Example: Input A: [3, 5, 4, 2]. Output: 2 for the pair (3, 4)
 
 Sugg{ moving and expanding window?

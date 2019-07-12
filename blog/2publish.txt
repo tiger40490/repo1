@@ -26,14 +26,14 @@ Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He po
 
 Now I feel the more strict transactional requirement we have, the closer we would move towards SQL. Banking has the most strict requirement.
 
---new: set up to fail #Nsdq HR
+--new: set up to fail #Nsdq--HR guy
 The HR professionals at Barclays Singapore and Nsdq failed to persuade me to accept their offers. They probably feel inferior, inadequate, failed, self-pity. The Nsdq guy was already on his way out, so this could be a double-whammy, reinforcing a false perception of incompetence.
 
 However, the reality is, I was not the right candidate to persuade. The self-pity is mis-directed and groundless.
 
 Now look at my PIP at Macq and Qz. I worked hard towards the expectation but it could be the wrong target for me. I was set up to fail.
 
---update blogpost on macq .. (tough judge? bonus pool?)
+--new blogpost: real effort but below-bar@@ only Macq
 Macq is probably the only job where I focused on localSys GTD but still hit below the bar
 
 the PIP cast a long shadow and left a deep scar. Am still recovering. This scar is deeper than Stirt case.
@@ -42,9 +42,9 @@ Remember the abused children, who grew up traumatized? I was not traumatized as 
 
 Adults are often traumatized by failed marriage, in-law conflicts, 
 
---update blogpost
-Q: was the initial 6M ramp-up at Macq effective for localSys, GTD?
-A: It helped to some extent. Key is capture of absorbency and engagement. At that time I didn't have a lot to capture :(
+--new blogpost: initial 6M ramp-up
+Q: At Macq, was the initial 6M ramp-up at Macq effective for localSys, GTD?
+A: It helped avoid the Stirt mistake. Key is capture of absorbency and engagement. At that time I didn't have a lot to capture :(
 
 --update blogpost on GTD=reasonable
 pymodels splunk -- code gen, decorators...
@@ -53,7 +53,7 @@ pymodels splunk -- code gen, decorators...
 "Significant improvement" 
 
 --new: what can derail work-till-75 plan
-I think health is unlikely to be the reason. IV competition, age discrimination are more likely.
+I think health is unlikely to be the derailer. IV competition, age discrimination are more likely. The ruthless march of technology also means demand for my skillset will decline..
 
 On the job, my energy, absorbency and sustained focus might go down or up with age.
 I wrote more in another blogpost -- As I age, brown-field localSys will become harder to absorb. I may need to stay at one system longer.
