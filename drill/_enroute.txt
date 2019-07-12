@@ -56,22 +56,18 @@ I will call the best pair "left winner" and "right winner"
 I don't know where this problem comes from. Don't know where to search for solution..Good.. but then i found https://stackoverflow.com/questions/32067492/maximize-sum-distance-for-integer-array is the same problem.
 
 int-array problem is my relative weakness. O(NN) is simple but I think we can achieve O(N) with multiple scans.
-
-How about two-pointers moving in?
-How about two-pointers moving forward?
-
-99 88 3 2 3 5 7 5 9< 4 2
-88 99 2 3 5 1 6 3 6 0 1 2 3 
-3 2 1 5 3 2 9 3 1 0 2 6 3 2
-1 0 2 8 6 3 1 7 5 1 4
-
-What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
-
+--my solution
 scan forward to build a shadow array of "left scores" for each element s[i]:= a[i] - i. If a[i] were to increase by 1, the score would also improve by 1...
 
 Scan backward to build a shadow array of "right scores".
 
 Now work with these 2 arrays. Pick one from each array with highest sum, where first pick must be on the left
+
+Here's how to solve this sub-problem:
+
+build a 'max since first' shadow array based on the left-scores.
+build a 'max since last' shadow array based on the right-scores.
+pairwise add up these two arrays. Find the max in the final shadow array.
 
 ====Q (60%): given a signed-int array, find the longest subarray having sum=K
 
