@@ -21,14 +21,14 @@ Q: how about the Coding IV? still lighter stress than localSys. I can take my ti
 --no blogpost
 sg job market remains as slow and thin as before. Still financial jobs constitute 90% of my job pool
 
+JC has more suitable jobs than SG has for me
+
 --no blogpost:
 Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy? 
 Perhaps look at jobSatisfactionPredictor?
 
-* impact? Not really important to me
 * OC type of easy job with plenty of spare time?
 * domain: devops?
-* domain: quant dev, with low churn? 
 * domain: inet? impactful but high-churn... not more enjoyable than my recent jobs
 * domain: mkt data? impactful, low churn but not more enjoyable than other jobs
 * mvea type of job
@@ -44,8 +44,6 @@ There are very few burning pleasures:
 * tech study including zbs, halo...
 * jogging in stadium
 * learning Oracle
-
---Given the high churn in UI space, are interviewers more lenient?
 
 --update blog ... csy:
 the IV successes define me.
