@@ -21,12 +21,12 @@ A: It helped. Key is capture of absorbency and engagement. I didn't have a lot t
 --update blogpost on GTD=reasonable
 pymodels splunk -- code gen, decorators...
 
---new
+--new: I have IV advantage@WallSt,not WestCoast
 in west coast IV, I have no "unfair advantage" as the employers are open to all. 
 In contrast, On Wall St, I have an unfair advantage in the form of
 * accumulated IV xp
 * accumulated dnlg
-* track record
+* track record .. employers prefer battle-tested 
 
 --new:
 I often hear people say "technology XX is dead" .. exaggerated attention-grabbing gimmick, common on social media user posts.
