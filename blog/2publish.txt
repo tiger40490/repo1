@@ -4,7 +4,7 @@ I think each node is visited up to 3 times -- push to stack and read left child;
 
 --publish the topo sort post
 
---new blogpost: y is javascript growing
+--new: javascript: winds below its wing
 I think the new generations prefer online self-services rather than in-person service. They rely on well-designed online GUI, either on smartphone or computer.
 
 --new: commercial banks like FX not eq|comm
@@ -12,14 +12,14 @@ FX is closer to the everyday business of commercial banks. The biggest FX banks 
 
 FI is a composite market. Some FI products are closer to commercial banks. I think commercial banks buy-n-hold (not trade) sovereign bonds similar to insurers do.
 
---new:
+--new: technology xx is dead
 I often hear people say "technology XX is dead" .. exaggerated attention-grabbing gimmick, common on social media user posts.
 
 I like the "dead", old-fashioned, time-honored, stable technologies that are robust (not only resilient) against churn. 
 
 The alternative technologies are use-less, worth-less, hope-less, less proven, low-value, more likely to die young or even dead-on-arrival
 
---new blogpost
+--new blogpost: disruptive noSQL 
 t_extInput
 
 Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He pointed out that banks need full ACID compliance.
@@ -59,7 +59,7 @@ Based on the rumor that west coast is more competitive and age-unfriendly, then 
 
 In fact, beside doctors, Wall St tech might be one of the most enviable domains for work-till-70. Note "tech" also includes BAU and other support functions.
 
---new: I have IV advantage@WallSt,not WestCoast
+--new: got IV adv@WallSt,not WestCoast
 in west coast IV, I have no "unfair advantage" as the employers are open to all. 
 In contrast, On Wall St, I have an unfair advantage in the form of
 * accumulated IV xp
