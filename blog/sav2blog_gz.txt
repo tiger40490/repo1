@@ -17,12 +17,6 @@ Q: Are the c++11 QQ topics a form of churn on the interview competition?
 A: I feel the worst scene is localSys on the job. c++11 QQ is lighter.
 
 Q: how about the Coding IV? still lighter stress than localSys. I can take my time.
---new: set up to fail #Nsdq HR
-The HR professionals at Barclays Singapore and Nsdq failed to persuade me to accept their offers. They probably feel inferior, inadequate, failed, self-pity. The Nsdq guy was already on his way out, so this could be a double-whammy, reinforcing an false perception.
-
-However, the reality is, I was not the right candidate to persuade. The self-pity is mis-directed and groundless.
-
-Now look at my PIP at Macq and Qz. I worked hard towards the expectation but it could be the wrong target for me. I was set up to fail.
 
 --no blogpost
 sg job market remains as slow and thin as before. Still financial jobs constitute 90% of my job pool

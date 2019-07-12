@@ -26,6 +26,13 @@ Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He po
 
 Now I feel the more strict transactional requirement we have, the closer we would move towards SQL. Banking has the most strict requirement.
 
+--new: set up to fail #Nsdq HR
+The HR professionals at Barclays Singapore and Nsdq failed to persuade me to accept their offers. They probably feel inferior, inadequate, failed, self-pity. The Nsdq guy was already on his way out, so this could be a double-whammy, reinforcing a false perception of incompetence.
+
+However, the reality is, I was not the right candidate to persuade. The self-pity is mis-directed and groundless.
+
+Now look at my PIP at Macq and Qz. I worked hard towards the expectation but it could be the wrong target for me. I was set up to fail.
+
 --update blogpost on macq .. (tough judge? bonus pool?)
 Macq is probably the only job where I focused on localSys GTD but still hit below the bar
 
