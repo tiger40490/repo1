@@ -66,6 +66,13 @@ How about two-pointers moving forward?
 1 0 2 8 6 3 1 7 5 1 4
 
 What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
+
+scan forward to build a shadow array of "left scores" for each element s[i]:= a[i] - i. If a[i] were to increase by 1, the score would also improve by 1...
+
+Scan backward to build a shadow array of "right scores".
+
+Now work with these 2 arrays. Pick one from each array with highest sum, where first pick must be on the left
+
 ====Q (60%): given a signed-int array, find the longest subarray having sum=K
 
 realistic scenario: we know someone executed a buy and a sell and made $K. There are many possible buy-sell points when I review the price points. We know this trader held the position longest to gain exposure, so which buy-sell points did he use?
