@@ -66,6 +66,17 @@ How about two-pointers moving forward?
 1 0 2 8 6 3 1 7 5 1 4
 
 What if the first elements are 11,12,13,14? They are equally good as the left winner or they all lose to another item on the right
+====Q (60%): given a signed-int array, find the longest subarray having sum=K
+
+First scan to build cumulative sum -- the sum-array. Looks like a price chart. First value is the first original element.
+
+Now scan the sum array. At each element s[j], I save s[j] in hashtable {s[j] -> j] only if no such key yet. 
+
+I look for the earliest element s[i] such that s[i] + K == s[j]. If found in the hash table, then compute j-i and update the global best if necessary.
+
+Note the hash table's values are all earlier than j, since we are scanning forward.
+
+Can consolidate to one scan.
 ====Q: max distance: Given an array A of integers, find the maximum of j - i, subjected to the constraint of A[i] <= A[j].
 Practical scenario -- given a pricing time series, find the "best" buy-sell trade with longest hold, because you want to have some exposure for as long as possible.
 Example: Input A: [3, 5, 4, 2]. Output: 2 for the pair (3, 4)
@@ -81,7 +92,7 @@ Earlier timestamps are invisible on the treemap;
 up-the-tree is not visible on the chart and not important
 
 --idea 1 Single fwd scan
-invariant -- at any moment during the fwd scan, each tree node records "earliest price that's same or worse than me".
+invariant -- at any moment during the fwd scan, each tree node records "earliest price point that's same or worse than me".
 
 Initial payload at each tree node -- next-better tree-node
 

@@ -1,4 +1,4 @@
---update O(1) find next level
+--update blog: O(1) find next level
 std::next()
 --update 3hits:
 "Significant improvement" 
