@@ -1,5 +1,17 @@
 --update blog: O(1) find next level
 std::next()
+I think each node is visited up to 3 times -- push to stack and read left child; process (like print) payload; read the right child; 
+
 --update 3hits:
 "Significant improvement" 
 --publish the topo sort post
+
+--new blogpost: y is javascript growing
+I think the new generations prefer online self-services rather than in-person service. They rely on well-designed online GUI, either on smartphone or computer.
+
+--new blogpost
+t_extInput
+
+Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He pointed out that banks need full ACID compliance.
+
+Now I feel the more strict transactional requirement we have, the closer we would move towards SQL. Banking has the most strict requirement.

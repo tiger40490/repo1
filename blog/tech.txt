@@ -5,20 +5,6 @@ But look at sizeof() in sfinae. Alexandrescu described this sizeof usage.
 
 Look at other TMP techniques that exploit compiler rules to the fullest.
 
---new blogpost: y is javascript growing
-I think the new generations prefer online self-services rather than in-person service. They rely on well-designed online GUI, either on smartphone or computer.
-
---why is in-order-walk of binTree O(N)
-I think each node is visited up to 3 times -- push to stack and read left child; process (like print) payload; read the right child; 
-
---new blogpost
-t_extInput
-
-Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He pointed out that banks need full ACID compliance.
-
-Now I feel the more strict transactional requirement we have, the closer we would move towards SQL. Banking has the most strict requirement.
-
 --python features I learned on flight to NY, before Jump IV
 * reduce()+lambda for ECT
 * __debug__
-* attributes 
