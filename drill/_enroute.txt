@@ -88,9 +88,15 @@ Practical scenario -- given a pricing time series, find the "best" buy-sell trad
 Example: Input A: [3, 5, 4, 2]. Output: 2 for the pair (3, 4)
 
 Sugg{ moving and expanding window?
-Sugg: How about line sweep?
+Sugg: How about line sweep (Rahul's solution..)?
 
 build a RbTree ordered by price-then-timestamp. The tree will have exactly N tree nodes even though prices are non-unique. In each tree node implicit payload is "my timestamp".
+
+--O(N) solution using two shadow arrays
+min-from-earliest
+max-from-latest
+
+two curves. As we sweep a horizontal line up, just keep track of the 2 intersections. I think the longest distance btw is the answer.
 
 --Jargon -- 
 Better prices are to the right on the treemap; (Can draw the price chart downward)
