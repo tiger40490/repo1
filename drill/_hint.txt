@@ -15,7 +15,7 @@ Any simpler algo?
 How do I know if two nodes are the pair? Must check path-from-root? 
 
 --idea 1: BFT to list all nodes with level. 
-For each node's enqueue(), record the path-from-root as a list. As a lighter alternative to this "list", the path can degenerate to the last step, as a le/ri flag.
+For each node's enqueue() (including the null nodes), record the path-from-root as a list. As a lighter alternative to this "list", the path can degenerate to the last step, as a le/ri flag.
 
 Now scan each level from both ends. The left item's path should mirror the right item's path.
 

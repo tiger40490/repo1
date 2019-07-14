@@ -1,4 +1,6 @@
 --publish the topo sort post
+--update 
+slist -> bst
 --new: xx@weekend CIV
 the xx in weekend coding assignments are different from coding drill or work projects
 * intensity -- highest
@@ -73,3 +75,18 @@ In contrast, On Wall St, I have an unfair advantage in the form of
 * accumulated IV xp
 * accumulated dnlg, becoming less important
 * track record .. employers prefer battle-tested 
+
+====Q (60%): given a signed-int array, find the longest subarray having sum=K
+
+realistic scenario: we know someone executed a buy and a sell and made $K. There are many possible buy-sell points when I review the price points. We know this trader held the position longest to gain exposure, so which buy-sell points did he use?
+
+First scan to build cumulative sum -- the sum-array. Looks like a price chart. Initial value is the first original element.
+
+Now scan this "sum" array. At each element s[j], I save s[j] in hashtable {s[j] -> j] iFF no such key yet. 
+
+Then
+I look for the (by design, earliest) element s[i] such that s[i] + K == s[j]. If found in the hash table, then compute j-i and update the global best if necessary.
+
+Note the hash table's values (positions) are all earlier than j, since we are scanning forward.
+
+Can consolidate to one scan.
