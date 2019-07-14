@@ -1,5 +1,10 @@
 --publish the topo sort post
-
+--new: xx@weekend CIV
+the xx in weekend coding assignments are different from coding drill or work projects
+* intensity -- highest
+* halos -- comparable to my language feature experiments -- improves QQ 
+* scale -- larger than coding drill but not too large like work projects
+* BP -- is a major learning focus and evaluation criteria
 --new: javascript: winds below its wing
 I think the new generations prefer online self-services rather than in-person service. They rely on well-designed online GUI, either on smartphone or computer.
 
