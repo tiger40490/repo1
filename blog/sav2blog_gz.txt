@@ -9,12 +9,18 @@ Q: Are the c++11 QQ topics a form of churn on the interview competition?
 A: I feel the worst scene is localSys on the job. c++11 QQ is lighter.
 
 Q: how about the Coding IV? still lighter stress than localSys. I can take my time.
+--
+now i feel the west coast civ is even less relevant than the wall st interview questions like linux system, c++/java language details, SQL
 
 --no blogpost
 sg job market remains as slow and thin as before. Still financial jobs constitute 90% of my job pool
-JC has more suitable jobs than SG has for me
+JC has more suitable jobs than SG has including start-up.
 
---no blogpost:
+Singapore non-finance companies simply can't afford because the main street dev salary is much lower than U.S.
+
+The wall st salary level is largely influenced by west coast and also main street dev salary.
+
+--new blogpost:
 Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy? 
 Perhaps look at jobSatisfactionPredictor?
 
