@@ -9,7 +9,8 @@ Q: Are the c++11 QQ topics a form of churn on the interview competition?
 A: I feel the worst scene is localSys on the job. c++11 QQ is lighter.
 
 Q: how about the Coding IV? still lighter stress than localSys. I can take my time.
---
+
+--no
 now i feel the west coast civ is even less relevant than the wall st interview questions like linux system, c++/java language details, SQL
 
 --no blogpost
