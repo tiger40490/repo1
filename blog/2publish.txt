@@ -1,7 +1,3 @@
---update blog: O(1) find next level
-std::next()
-I think each node is visited up to 3 times -- push to stack and read left child; process (like print) payload; read the right child; 
-
 --publish the topo sort post
 
 --new: javascript: winds below its wing
@@ -12,7 +8,7 @@ FX is closer to the everyday business of commercial banks. The biggest FX banks 
 
 FI is a composite market. Some FI products are closer to commercial banks. I think commercial banks buy-n-hold (not trade) sovereign bonds similar to insurers do.
 
---new: technology xx is dead
+--new: technology xyz is dead
 I often hear people say "technology XX is dead" .. exaggerated attention-grabbing gimmick, common on social media user posts.
 
 I like the "dead", old-fashioned, time-honored, stable technologies that are robust (not only resilient) against churn. 
@@ -26,7 +22,7 @@ Long-term trend -- I asked my friend Davis Wei about noSQL displacing SQL. He po
 
 Now I feel the more strict transactional requirement we have, the closer we would move towards SQL. Banking has the most strict requirement.
 
---new: set up to fail #Nsdq--HR guy
+--new: set up to fail #Macq
 The HR professionals at Barclays Singapore and Nsdq failed to persuade me to accept their offers. They probably feel inferior, inadequate, failed, self-pity. The Nsdq guy was already on his way out, so this could be a double-whammy, reinforcing a false perception of incompetence.
 
 However, the reality is, I was not the right candidate to persuade. The self-pity is mis-directed and groundless.
@@ -46,13 +42,13 @@ Adults are often traumatized by failed marriage, in-law conflicts,
 Q: At Macq, was the initial 6M ramp-up at Macq effective for localSys, GTD?
 A: It helped avoid the Stirt mistake. Key is capture of absorbency and engagement. At that time I didn't have a lot to capture :(
 
+Consider set-up-to-fail. I would say even with a quick ramp-up, I would still fall below the bar
+
 --update blogpost on GTD=reasonable
 pymodels splunk -- code gen, decorators...
 
---update 3hits:
-"Significant improvement" 
-
 --new: what can derail work-till-75 plan
+(alias blogpost -- ibank=best place4older techies)
 I think health is unlikely to be the derailer. IV competition, age discrimination are more likely. The ruthless march of technology also means demand for my skillset will decline..
 
 On the job, my energy, absorbency and sustained focus might go down or up with age.
@@ -70,5 +66,5 @@ In fact, beside doctors, Wall St tech might be one of the most enviable domains 
 in west coast IV, I have no "unfair advantage" as the employers are open to all. 
 In contrast, On Wall St, I have an unfair advantage in the form of
 * accumulated IV xp
-* accumulated dnlg
+* accumulated dnlg, becoming less important
 * track record .. employers prefer battle-tested 

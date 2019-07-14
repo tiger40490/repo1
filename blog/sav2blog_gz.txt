@@ -2,7 +2,7 @@
 --new
 the xx in weekend coding assignments are different from coding drill or work projects
 * intensity -- highest
-* depth -- comparable to my language feature experiments -- improves QQ 
+* halos -- comparable to my language feature experiments -- improves QQ 
 * scale -- larger than coding drill but not too large like work projects
 * BP -- is a major learning focus and evaluation criteria
 
