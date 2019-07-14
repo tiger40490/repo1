@@ -20,69 +20,6 @@ Singapore non-finance companies simply can't afford because the main street dev 
 
 The wall st salary level is largely influenced by west coast and also main street dev salary.
 
---new blogpost:
-Since I don't need to worry so much about cash flow .. close to ffree, what jobs would I enjoy? 
-Perhaps look at jobSatisfactionPredictor?
-
-* OC type of easy job with plenty of spare time?
-* domain: devops?
-* domain: inet? impactful but high-churn... not more enjoyable than my recent jobs
-* domain: mkt data? impactful, low churn but not more enjoyable than other jobs
-* mvea type of job
-* RTS type of job -- familiar routine
-* MLP type of job -- challenging... provided I can live in peace with PIP
-
---new: QQ study=burning pleasure
-See also the pleasure^chore framework
-
-Unbelievably, QQ study feels like "burning" pleasure to me. After I complete some chore  like coding drill, tax, I long for some QQ study !
-
-There are very few burning pleasures:
-* tech study including zbs, halo...
-* jogging in stadium
-* learning Oracle
-
---update blog ... csy:
-the IV successes define me.
-Without these successes, I am likely to feel a total failure and worthless. I will probably fall into this pit more than once a years -- self-knowledge.
-
---no blog
-java - exceeding my expectations in the churn. Found 2nd life in web2.0
-c# - underwhelming. Displaced in web2.0. Google CIV uses 5 anguages, without c#
-c++ - matching my expectation. slow decline. Efficiency advantage is eclipsed by java and some new languages
-py - exceeding my expectation
-javascript - exceeding expectation
-
---no blogpost: delights: engaged,leverage,strategic.. 
-[tags t_othRisk]
-I feel my expectation was invariably too high in terms of strategic value, leverage and ROTI, therefore underwhelming. 
-(engagement ... expectation was moderately too high) 
-Against this backdrop, there are little delights, but stigma/respect (not salary!) was too huge as a factor and overshadowed those little delights. For a perspective, please look at the spreadsheet "predict next 3-5Y job satisfaction"
-
-I chose a python job at Macq .. engaged for a few months, to my delight
-I chose the c++ job at RTS .. engaged for 6 months, to my delight. 
-* Reason: traction in interviews and also in GTD and zbs
-* Reason: interviews
-* Reason: socket QQ was in-demand
-* Reason: QQ discussions with colleagues .. visible progress
-
-Both job decisions produced good/superior leverage over 5Y.
-
-I chose a c# job ... engaged for a year and then disengaged, shorter than expected. Leverage was good.
-
-I chose a Quant dev job ... engaged for a year and never disengaged. Leverage was underwhelming.
-
-I chose a c++ large scale eq OMS job ... engaged for a few months. Leverage is unknown
-
---no blogpost: c#^java/c++ journeys
-[tags t_below7]
-my c# xx journey was exciting for 6M before OC and in first year in OC. In contrast, my core-java/c++ (less for jxee) journeys have generated superior ROTI (elusive) because 
-* the interview topics are stable 
-* market waves steered me to stick to (not abandon) these career directions
-
-leverage? c# is lower but not bad. See separate blogpost
-
-For all languages, there is no hike, no strategic value so at that level all underwhelming
 --no
 Like Black developers .. As an older developer I also have higher visibility.
 IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
@@ -90,6 +27,10 @@ IFF I apply myself (localSys) and establish a foundation at a new site as Piroz 
 However, at Stirt I was unable to outshine other guys.
 
 At Macq, I was unable to impress bosses.
+
+--fuxi
+the IV successes define me.
+Without these successes, I am likely to feel a total failure and worthless. I will probably fall into this pit more than once a years -- self-knowledge.
 
 --already published
 one-long-job resume can be bad when you change career
