@@ -1,3 +1,5 @@
+==Q: detect cycle in bintree
+
 ==Q[L]: max profit with up to 2 buy-sell pairs
 ====Q:  max path sum
 https://bintanvictor.wordpress.com/wp-admin/post.php?post=23360&action=edit has my solution but perhaps there are better solutions
