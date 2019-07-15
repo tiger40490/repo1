@@ -1,4 +1,6 @@
 ==Q: detect cycle in bintree
+dft.. use a stack to keep the current path. I may have this code in github
+
 bft. Each node keeps a full-path-from-root
 
 ==Q[L]: max profit with up to 2 buy-sell pairs
