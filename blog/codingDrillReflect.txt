@@ -1,10 +1,10 @@
---my priorities for the HRT assignments
-* capture the mood to practice. I may need to cut sleep, but I want to maintain my physical exercise
-* capture the mood to practice leetcode too.
-* do my best (with my abilities) to impress but don't aim to pass
+--new: brainwash: "medium" leetcode
+The medium/hard classification should be ignored --- counterproductive, highly subjective. Do you judge a movie by hearing a friend's rating of it without watching?
+
+I find the "hard" questions are no harder than "medium" and some "medium" are very tough.
 
 --new: After 100 problems, it's harder to sustain the practice
-Intuitively, subconsciously we experience the diminishing return
+Intuitively, subconsciously we experience the same diminishing return
 
 --no:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
