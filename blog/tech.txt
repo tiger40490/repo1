@@ -1,4 +1,4 @@
---new: hacky solutions
+--new: ##hacky solutions
 A typical hacky solution -- uses xml comment or database comment column.
 
 But look at Scott Meyer's use of local static as singleton and to control initialization order.

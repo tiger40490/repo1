@@ -1,4 +1,5 @@
 ==Q: detect cycle in bintree
+bft. Each node keeps a full-path-from-root
 
 ==Q[L]: max profit with up to 2 buy-sell pairs
 ====Q:  max path sum
