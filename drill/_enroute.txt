@@ -5,6 +5,11 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+==Q: detect cycle in bintree
+dft.. use a stack to keep the current path. I may have this code in github
+
+bft. Each node keeps a parent-node-set, represented by hash table
+
 ====Q: given any tree, print the (height of the subtree) at every node. Also print the node address just for identification
 
 dft with level?
