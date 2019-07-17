@@ -1,0 +1,9 @@
+====Q (classic DP problem, not contrived): optimal bst: 
+Given a set of sorted search keys and their hit probabilities, construct the BST with lowest search cost. 
+we know the probabilities add up to 100%. 
+There are many ways to construct a BST (I solved that problem, shared by Rahul), but the search cost is different, defined as
+
+sum of {depth of key_i * probability of key_i}
+
+Can we put the busiest key as root? But what if it is the first/last key?
+
