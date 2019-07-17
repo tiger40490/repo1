@@ -5,6 +5,22 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+==[L] Q: given two binTrees T and S, check if T is a subtree of S. The tree node payloads (if not empty) must match.
+
+Our algo can't rely on the payload values.
+BFT won't help.
+
+also assign incremental IDs and produce 'pre-order' array of IDs.
+Suppose T size is 22.
+
+post-order walk to get subtree-size at each node. When a node Y has size 22, 
+
+* we can locate Y's position in the pre-order array. Suppose its ID in the array is 55, but its ID in T array is 25, so we shift all T ID values up by 30 and compare. 
+* we can (unreliably) look at the last 22 nodes in the post-order walk. The sequence of sizes should T's.
+* we can compare left subtree size, left-left subtree size.. pre-order visit of each node in T vs Y
+
+==Q: if i backscan a post-order output, is there a single binTree?
+
 ==Q: detect cycle in bintree
 dft.. use a stack to keep the current path. I may have this code in github
 
