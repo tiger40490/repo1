@@ -2,3 +2,12 @@
 The medium/hard classification should be ignored --- counterproductive, highly subjective. Do you judge a movie by hearing a friend's rating of it without watching?
 
 I find the "hard" questions are no harder than "medium" and some "medium" are very tough.
+
+--new: ##hacky solutions
+A typical hacky solution -- uses xml comment or database comment column.
+
+But look at Scott Meyer's use of local static 1) as singleton and 2) to control initialization order.
+
+look at sizeof() in sfinae. Alexandrescu justified this sizeof usage.
+
+Look at other TMP techniques that exploit compiler rules to the fullest.
