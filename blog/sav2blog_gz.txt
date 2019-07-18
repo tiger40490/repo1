@@ -1,3 +1,26 @@
+--new: boxer cornered
+OK you thought you were a good boxer. Now you are pushed to the corner of the ring and taken a beating. Can you fight your way out?
+
+In the past I could often fight my way out. Not in GS. I was beaten and beaten and beaten.. I was challenged to deliver, GTD... My self-esteem as a strong techie took a severe beating. I was "shown" weaker than many techies in the team or the department .. "Look at what they did to Victor .. Horrific".
+
+In terms of theoretical knowledge or innovative design I could be stronger than my peers but I was cornered on brown-field..
+
+The damage can be destructive -- it destroys your self-confidence, self-esteem, self-worth
+
+I had another one (smaller-scale) at Stirt.
+ 
+--trapped due to visa and no internal transfer .. "cornered" and nowhere to hide. 
+This only happened at GS. I think this factor increased the 50% to 100% the severity of the destructive damage.
+
+--put up a good fight and exit
+I did that in Macq but at GS I was trapped
+
+--green field ... was my relative strength 
+The beating was more on brown-field. 
+
+In Macq, green-field also suffered a beating.
+
+-----
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to get a job, but not fast enough with local codebase

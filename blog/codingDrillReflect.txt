@@ -1,9 +1,17 @@
---new: brainwash: "medium" leetcode
-The medium/hard classification should be ignored --- counterproductive, highly subjective. Do you judge a movie by hearing a friend's rating of it without watching?
+--new: Many non-optimal solutions are worthwhile.
 
-I find the "hard" questions are no harder than "medium" and some "medium" are very tough.
+Some of them offer insight into the problems, in terms of structure, constraints...
+Some of them are non-optimal but break down the original problem into smaller, familiar problems.
+Some of them are non-optimal but offer reusable techniques
+Some of them are non-optimal but very short and clever
+Some of them (my homemade) are non-optimal but unique and innovative ... worthwhile achievements.
+Some of them are non-optimal but good enough for "2nd-tier" coding interviews...i.e. less-demanding
 
---new: After 100 problems, it's harder to sustain the practice
+Q: your real goals, motivations for coding drill? Absorbency? Burning pleasure? Satisfaction (as Rahul puts it)? Maintaining a 
+hobby?
+So defocus can help. The focus on "optimal" creates negativity.
+
+--no publish: After 100 problems, it's harder to sustain the practice
 Intuitively, subconsciously we experience the same diminishing return
 
 --no:
@@ -15,7 +23,7 @@ A student's approach to statistics is different from a mathematician's. Likewise
 
 However an unbiased interviewer/observer could find the student stronger than me.
 
---new:
+--
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
 
 As such, we need memory refresh ..

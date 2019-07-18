@@ -1,0 +1,4 @@
+--new: brainwash: "medium" leetcode
+The medium/hard classification should be ignored --- counterproductive, highly subjective. Do you judge a movie by hearing a friend's rating of it without watching?
+
+I find the "hard" questions are no harder than "medium" and some "medium" are very tough.
