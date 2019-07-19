@@ -1,5 +1,3 @@
-
-=====
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to pass interviews, but not fast enough with local codebase
