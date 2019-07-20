@@ -5,19 +5,6 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-==[L] Q: given two binTrees T and S, check if T is a subtree of S. The tree node payloads (if not empty) must match.
-
-Our algo can't rely on the payload values.
-BFT won't help.
-
-For both T and S, We can optionally take in-order walk to assign incremental IDs, then take pre-order walk to produce an array of IDs. 
-
-post-order walk to get subtree-size, subtree-height at each node. Suppose T is size 22 height 4. We will look for any node Y of size 22 and height 4 and a matching payload. This would eliminate lots of S nodes. 
-
-We can run a level-aware BST (lowest levels will not have matching height 4). When we get a qualifier node Y
-* we can locate Y's position in the pre-order array. Suppose its ID in the array is 55, but its ID in T array is 25, so we shift all T ID values up by 30 and compare. 
-* we can compare left subtree size/height/payload, left-left subtree size.. pre-order visit of each node in T vs Y
-
 ==Q: if i backscan a post-order output, is there a single BST?
 Not clear and not easy.
 

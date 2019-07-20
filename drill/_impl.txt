@@ -1,3 +1,4 @@
+====for a binTree, print subtree size/height at every node
 ====practice in-order-walk iterative/recursive
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
 
