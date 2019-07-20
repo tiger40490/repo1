@@ -4,53 +4,6 @@ swap the two child pointers in each node? It's better to assume north/south chil
 
 --idea 1: BFT to append each node. When popping a node, swap the 2 child pointers
 
-====[cc] 60% 
-Q (looks like contrived but very popular): You have k uneven lists of pre-sorted integers, N ints in total. Find the smallest range that includes at least one number from each of the k lists. For example, 
-List 1: [4, 10, 15, 24, 26] 
-List 2: [0, 9, 12, 20] 
-List 3: [5, 18, 22, 30] 
-The smallest range here would be [20, 24] as it contains 24 from list 1, 20 from list 2, and 22 from list 3
-
----- Analysis
--- solution 1 O(N): moving window algo: 
-O(N) merge all K clubs' items into a big array, where payload includes the original clubId of each item. We end up with 
-[0/2nd 4/1st 5/3rd 9/2nd 10/1st ...]
-
-A 'basic window' is any subarray having representatives from each club.
-A 'tight window' is a basic window that can't shrink further, i.e. the 1st and last items are the only reps of their clubs.
-
-Now findInitiaLwindow(), similar to findNextWin(). 
-Simple procedure -- 
-As we build the window, we update a hashtable like {club1: position 1,3,6; club2: position 0,5; club3: position 2,4,..} 
-Basically an array of queues. 
-We update this table each time we increment the front pointer in search of the next basic window. 
-When we find a basic window, this table should have all K queues non-empty and at least one of them singular, probably the last updated queue.
-
-Now shrink this window via shrink(). Here's a fast algo but more tricky and no O() impact --
-For each queue, find the last added i.e. right-most position. 
-Put these K positions in a container(actually no container needed). 
-Now out of these K positions, find the minimum. Say 22. I claim 22 is the left edge of a smaller window. 
-Keep shrinking if we can but I doubt we can.
-
-Here's a slow shrink algo --
-For the current window, look at the clubId of the left edge (back ptr). 
-Use the clubId to locate a queue in the table. 
-Head item in the queue should match the position of back ptr. 
-If not empty, pop this queue and increment the back ptr by one; else exit shrink()
-
-Now we have a tight window, we remember its size (and update current winner). 
-
-After shrink(), we call findNextWin() -- 
-Suppose the basic window's earliest item is a clubX. 
-Now we move back ptr (clubX queue is now empty). 
-Now we move front pointer i.e. right edge of the window, looking for the next clubX item. 
-
-* findNextWin() is O(1) per front ptr increment. Only touches the tail of queues
-* shrink() is O(1) per back ptr increment. Only touches the head of queues
-* therefore, at most N front ptr moves and N back ptr moves.. O(N)
-
-PriorityQ can speed up some, but won't improve bigO
-
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
 ====Q: a slist has one more link field in each node. It's the address of a random node in the same slist. How do you serialize this linked list?
 
