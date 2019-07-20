@@ -1,9 +1,27 @@
---Chat with Davis
+--new: contract rate is not benchmarked against FTE
+If my contract rate is higher than FTE team members, we say that it's not comparable as my employer gets a cut and I also pay more taxes and have no benefits.
+
+If my contract rate is lower than FTE team members, then we often say it's due to market rate. Not sure why, but I don't feel inferior. 
+
+This factor becomes crucial in a PIP situation. The FTE victim would get a donut bonus and donut raise, and her base would fall below some very junior team members .. unbearable humiliation. 
+
+No such humiliation on a non-performing contractor. They just let the contract expire.
+--new: old timers trapped ] lousy job #Davis
 Some old timers change job but regret as new job turns out worse. 
 
 Other old timers hear those war-stories and prefer the certainty of known pain in the current job. They don't feel confident they can find a better job.
 
 Some old timers have a wife who completely opposes job change due to potential impact on family.
+
+why I can afford to quit a job, stay home, and find a lower job? Because of burn rate, passive income and savings.
+
+I think the boss wants to let him go but may feel merciful, so they keep him but give him shitty tasks and demand fast turnaround at good quality.... unreasonable/unfair workload.
+
+Many people can't afford bench time. 
+Many people won't take on a 6M contract.
+Many people will never consider a voluntary pay cut
+Many people worry about job loss so much that they work their ass off to keep the job, even if the workload is unreasonable/unfair. I think in GS I was like them .
+
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to pass interviews, but not fast enough with local codebase
