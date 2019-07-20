@@ -51,9 +51,6 @@ Now we move front pointer i.e. right edge of the window, looking for the next cl
 
 PriorityQ can speed up some, but won't improve bigO
 
-====memo(fn, *params) should be extracted as a generic utility
-
-====generic_factorize.py to use yield
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
 ====Q: a slist has one more link field in each node. It's the address of a random node in the same slist. How do you serialize this linked list?
 
