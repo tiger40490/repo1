@@ -1,11 +1,11 @@
 温故而知新 .. I tend to find bugs + neglected/forgotten parts + areas of improvement. Each part of a given solution can be a show stopper or derailer in a real coding test
 
-====look-n-say in py/algo_arr
-====regex
-====combosum vs knapsack
 ====continuousSentence: 
 memoization for my recursive-in-loop?
-====LMH facebook problem
+====look-n-say in py/algo_arr
+====regex? too hard?
+====combosum vs knapsack
+====LMH facebook problem? obscure
 ====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
 ==find all paths in matrix
 
@@ -15,7 +15,6 @@ thick->thin? not yet.
 Other union-find problems might be harder than this.
 
 ====(cpp) water container
-====[Lv] serialize/deserialize binTree
 =========== c++lang features
 ====oq in shPtrDowncast
 ====my rvr experiments
