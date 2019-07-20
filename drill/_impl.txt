@@ -1,6 +1,6 @@
 ====practice in-order-walk iterative/recursive
 ====Q 60% (goog): given the root, invert a binary tree possibly asymmetrical
-swap the two child pointers in each node? It's better to assume north/south child pointers -- every pair would be turned upside-down.
+swap the two child pointers in each node? It's better to visualize north/south child pointers -- every pair would be turned upside-down.
 
 --idea 1: BFT to append each node. When popping a node, swap the 2 child pointers
 
