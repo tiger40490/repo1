@@ -1,18 +1,3 @@
 ====practice in-order-walk iterative/recursive
-====Q 60% (goog): given the root, invert a binary tree possibly asymmetrical
-swap the two child pointers in each node? It's better to visualize north/south child pointers -- every pair would be turned upside-down.
-
---idea 1: BFT to append each node. When popping a node, swap the 2 child pointers
-
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
-====Q: a slist has one more link field in each node. It's the address of a random node in the same slist. How do you serialize this linked list?
 
-I think the generic solution works but there is hopefully a more intuitive one -- assign id to each new node in the first scan. 
-
-first scan to traverse slist and visit all nodes. 
-
-writing to file is only in 2nd scan:
-
-2nd scan visits each node to save the random field along with the host node id
-
-I feel the challenge is ECT and this problem may show up.
