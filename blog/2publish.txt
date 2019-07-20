@@ -3,6 +3,13 @@ The medium/hard classification should be ignored --- counterproductive, highly s
 
 I find the "hard" questions are no harder than "medium" and some "medium" are very tough.
 
+The official rating sounds authoritative and represents brainwash
+
+--spelling
+quantitative
+authoritative
+*I*AtIve
+
 --new: ##hacky solutions
 A typical hacky solution -- uses xml comment or database comment column.
 

@@ -1,3 +1,9 @@
+--Chat with Davis
+Some old timers change job but regret as new job turns out worse. 
+
+Other old timers hear those war-stories and prefer the certainty of known pain in the current job. They don't feel confident they can find a better job.
+
+Some old timers have a wife who completely opposes job change due to potential impact on family.
 --aging -- localSys (esp. learning large codebase) ... is taxing on the aging memory. 
 I *guess* GregM (RTS) might be a cautionary tale. 
 He relied on his theoretical knowledge to pass interviews, but not fast enough with local codebase
