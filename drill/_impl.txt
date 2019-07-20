@@ -63,26 +63,3 @@ writing to file is only in 2nd scan:
 2nd scan visits each node to save the random field along with the host node id
 
 I feel the challenge is ECT and this problem may show up.
-====Q[c L]: sort a list in O(N logN) but constant space? 
-I think swap is way to go, but recursion stack space? iterative?
-
---O(1) space solution
-Get a quick estimate of the median. 
-Then move two pointers from far ends towards center.
-Whenever med < left item,  freeze left ptr.
-Whenever right item < med, freeze right ptr.
-when both pointers stopped, swap them, then unfreeze both.
-
-Now list is partitioned into two halves. Now divide and conquer. Total logN scans.
-
---O[N] space (not O[1]) idea
-merge sort using an aux array of same size
-1) divide the array into 2^j segments each up to 2 elements, rembering the (segment) boundaries.
-2) sort each segment
-3) merge first 2 segments and output to a new array of N but only use the first few slots
-4) similarly , merge 3rd and 4th segments into the new array, using the next few slots
-Once we merge all pairs, entire new array is populated and old array can be reset to 0 and usable as a blank array
-Now the segment boundaries are updated and reduced by half. When segment count becomes 2, we would be on the last merge.
-5) repeat Step 3
-
-In total we visit each of N nodes logN times
