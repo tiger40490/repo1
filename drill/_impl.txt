@@ -63,11 +63,6 @@ writing to file is only in 2nd scan:
 2nd scan visits each node to save the random field along with the host node id
 
 I feel the challenge is ECT and this problem may show up.
-====Q: insertion sort quick-n-dirty but correct
-
-====Q[c !e L !v] 50%: Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'. No dot !
-I think we can modify the existing solution. No need for an optimal solution
-
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 I think swap is way to go, but recursion stack space? iterative?
 
@@ -76,7 +71,7 @@ Get a quick estimate of the median.
 Then move two pointers from far ends towards center.
 Whenever med < left item,  freeze left ptr.
 Whenever right item < med, freeze right ptr.
-when both pointers stoped, swap them, then unfreeze both.
+when both pointers stopped, swap them, then unfreeze both.
 
 Now list is partitioned into two halves. Now divide and conquer. Total logN scans.
 
