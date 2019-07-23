@@ -1,3 +1,10 @@
+--
+big touch-screen laptop is best computer for coding IV
+* easy zoom, though Ctrl+ may also work
+* easy scroll
+* easy mouse control
+desktop is much harder to carry.
+
 --new: Many non-optimal solutions are worthwhile.
 
 Some of them offer insight into the problems, in terms of structure, constraints...
@@ -18,11 +25,6 @@ A student's approach to statistics is different from a mathematician's. Likewise
 * more like cram
 
 However an unbiased interviewer/observer could find the student stronger than a mathematician.
-
---
-I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
-
-As such, we need memory refresh ..
 
 --new blogpost cod`drill outlasting C++self-study
 Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 
