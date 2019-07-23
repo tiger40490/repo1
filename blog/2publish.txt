@@ -4,6 +4,7 @@ gmail zip after adding pw? try
 --new: big$: contract^FTE
 some reasons that contract rate can exceed FTE base
 
+* Fewer talented candidates. The bright young geeks aren't interested in contract roles. However employers sometimes have big budget to hire strong contractors, so I can more easily get in.
 * contract rate can be adjusted down. If employer feels this rate is too high, they can let it expire. (Many of my peers don't like it but I don't mind.) FTE base can't be so high due to lack of flexibility to bring it down.
 * there's no need to benchmark high contract rate against manager's pay. Therefore, high rate is easier to approve.
 * There's also some bonus component in a FTE position. It is in the employer's equation, but is heavily discounted in my equation.
