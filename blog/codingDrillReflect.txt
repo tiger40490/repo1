@@ -1,8 +1,8 @@
 --
 big touch-screen laptop is best computer for coding IV
 * easy zoom, though Ctrl+ may also work
-* easy scroll
-* easy mouse control
+* easy scroll, without (slow) mouse
+* easy pointer control, without (slow) mouse
 desktop is much harder to carry.
 
 --new: Many non-optimal solutions are worthwhile.
