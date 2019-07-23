@@ -7,12 +7,8 @@ Some of them are non-optimal but very short and clever
 Some of them (my homemade) are non-optimal but unique and innovative ... worthwhile achievements.
 Some of them are non-optimal but good enough for "2nd-tier" coding interviews...i.e. less-demanding
 
-Q: your real goals, motivations for coding drill? Absorbency? Burning pleasure? Satisfaction (as Rahul puts it)? Maintaining a 
-hobby?
+Q: your real goals, motivations for coding drill? Absorbency? Burning pleasure? Satisfaction (as Rahul puts it)? Maintaining a hobby?
 So defocus can help. The focus on "optimal" creates negativity.
-
---no publish: After 100 problems, it's harder to sustain the practice
-Intuitively, subconsciously we experience the same diminishing return
 
 --no:
 A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
@@ -21,7 +17,7 @@ A student's approach to statistics is different from a mathematician's. Likewise
 * not aimed at deep learning and retention
 * more like cram
 
-However an unbiased interviewer/observer could find the student stronger than me.
+However an unbiased interviewer/observer could find the student stronger than a mathematician.
 
 --
 I think some coding problems are perceived similar to basic java knowledge. A self-respecting coder is expected to know all the "easy" problems.
