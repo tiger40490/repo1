@@ -1,16 +1,6 @@
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
---new: big$: contract^FTE
-some reasons that contract rate can exceed FTE base
-
-* Fewer talented candidates. The bright young geeks aren't interested in contract roles. However once a while some employer have a big budget to hire strong contractors, so I have fewer competitors and can easily get in.
-* contract rate can be adjusted down. If employer feels this rate is too high, they can let it expire. (Many of my peers don't like it but I don't mind.) FTE base can't be so high due to lack of flexibility to bring it down.
-* hiring manager sees no need to benchmark high contract rate against manager's pay. Therefore, high rate is easier to approve.
-* There's a big bonus component in a FTE package. It is in the employer's equation, but is removed from my equation.
-
-To hit highest salary leveraging my IV skill, how high can I hit as FTE? Capped by managers and also very hard to meet expectations once hired. However, contract is much easier -- outperform other candidates and I deliver for a year. Bye-bye.
-
 --new: good at pushing myself
 am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
 * yoga
@@ -23,8 +13,17 @@ coding drill is the most interesting case study. Other people may complete more 
 * ranked by hours spent, I'm much higher
 * ranked by effort, I'm even higher, as I push myself harder than others
 
+------new: big$: contract^FTE
+some reasons that contract rate can exceed FTE base
 
---new: contract rate is not benchmarked against FTE
+* Fewer talented candidates. The bright young geeks aren't interested in contract roles. However once a while some employer have a big budget to hire strong contractors, so I have fewer competitors and can easily get in.
+* contract rate can be adjusted down. If employer feels this rate is too high, they can let it expire. (Many of my peers don't like it but I don't mind.) FTE base can't be so high due to lack of flexibility to bring it down.
+* hiring manager sees no need to benchmark high contract rate against manager's pay. Therefore, high rate is easier to approve.
+* There's a big bonus component in a FTE package. It is in the employer's equation, but is removed from my equation.
+
+To hit highest salary leveraging my IV skill, how high can I hit as FTE? Capped by managers and also very hard to meet expectations once hired. However, contract is much easier -- outperform other candidates and I deliver for a year. Bye-bye.
+
+.... Actually I don't compare contract rate against FTE
 If my contract rate is higher than FTE team members, we explain that it's not comparable as my employer gets a cut and I also pay more taxes and have no benefits like paid leaves.
 
 If my contract rate is lower than FTE team members, then we often say it's due to market rate. Not sure why, but I don't feel inferior. 
