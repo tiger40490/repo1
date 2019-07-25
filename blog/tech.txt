@@ -1,3 +1,6 @@
+--RBTree:
+c# SortedDictionary?
+python?
 
 --python features I learned on flight to NY, before Jump IV
 * reduce()+lambda for ECT
