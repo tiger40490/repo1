@@ -1,3 +1,7 @@
+--RBTree:
+c# SortedDictionary?
+python?
+
 --new: java array footprint
 In low-latency java apps, I think array of primitive is quite common. Here I review a few potential latency issues. 
 
