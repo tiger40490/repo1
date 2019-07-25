@@ -1,3 +1,12 @@
+--new: java array footprint
+In low-latency java apps, I think array of primitive is quite common. Here I review a few potential latency issues. 
+
+Suppose we have an array AA of 11 ints, each 32-bit.
+
+AA has housekeeping data such as the array length. AA also has the "standard" object header, of 12-16 bytes...
+
+The 11 ints are allocated in contiguous memory... lucky. For 11 Trade objects, we would get 11 scattered allocations.
+
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
