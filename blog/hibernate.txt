@@ -6,27 +6,6 @@ Sugg: consider another work-from-sg week to set up some things. The flight cost 
 
 Sugg: leave NY on Wed night to have more time in SG before the start date.
 
---request to speak to Attorney. .. and Shuo
-Q: how long can I hold off returning to U.S.?
-Q: if I get GC but stay outside U.S. for years what happens to my GC?
-
---zuhlke vs MLP
-In Mar 2017, when I tried UBS vol-risk java job at Stamford, I was hoping the salary premium would boost my self esteem, even though I felt I wouldn't learn much in that project.
-
-In hindsight, I feel lucky I didn't go there. The RTS c++ experience proved to be more rewarding, even strategic.
-
-I now feel Zuhlke could prove more rewarding than MLP.
-
---tower and zuhlke:
-i told shuo that his first attempt may not work out but could be a training experience, but are we still at the training age? Self-assessment
-
-if you stay within familiar domain, there's no chance of gaining some valuable zbs. Low latency java@MLP is not completely familiar domain.
-
-for both the architect role and the Tower role, the expectation could be too high, but who knows where I may find strengths. 
-When I was younger (30's?) i was more fearless on technical ground. 
-Now I'm kinda bogged down by negative experiences. 
-Technical challenges at GS, Qz, Macq were not really higher than 95G, Barcap, OC and RTS, but the negative feedback "rebased" my self-assessment.
-
 --notes on hibernate timing
 longer notice is better for me n josh
 
