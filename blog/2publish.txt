@@ -1,16 +1,3 @@
---RBTree:
-c# SortedDictionary?
-python?
-
---new: java array footprint
-In low-latency java apps, I think array of primitive is quite common. Here I review a few potential latency issues. 
-
-Suppose we have an array AA of 11 ints, each 32-bit.
-
-AA has housekeeping data such as the array length. AA also has the "standard" object header, of 12-16 bytes...
-
-The 11 ints are allocated in contiguous memory... lucky. For 11 Trade objects, we would get 11 scattered allocations.
-
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
@@ -25,21 +12,3 @@ coding drill is the most interesting case study. Other people may complete more 
 * Ranked by number of problems, i'm just average
 * ranked by hours spent, I'm much higher
 * ranked by effort, I'm even higher, as I push myself harder than others
-
-------new: big$: contract^FTE
-some reasons that contract rate can exceed FTE base
-
-* Fewer talented candidates. The ambitious young geeks aren't interested in contract roles. However once a while some employer have a big budget to hire strong contractors, so I have fewer competitors and can easily get through.
-* contract rate can be adjusted down. If employer feels this rate is too high, they can let it expire. (Many of my peers don't like it but I don't mind.) In contrast, FTE base can't go so high due to lack of flexibility to bring it down.
-* hiring manager sees no need to benchmark high contract rate against existing staff salary. Therefore, high rate is easier to approve.
-* There's a big bonus component in a FTE package. It is in the employer's equation, but is removed from my equation.
-
-To hit highest salary leveraging my IV skill, how high can I hit as FTE? Capped by manager's own salary and also very hard to meet expectations once hired. However, contract is much easier -- outperform other candidates and I deliver for a year. Bye-bye.
-
-.... Actually I don't compare contract rate against FTE
-If my contract rate is higher than FTE team members, we explain that it's not comparable as my employer gets a cut and I also pay more taxes and have no benefits like paid leaves.
-
-If my contract rate is lower than FTE team members, then we often say it's due to market rate. Not sure why, but I don't feel inferior. 
-
-This factor becomes crucial in a PIP situation. The FTE victim would get a donut bonus and donut raise, and her base would fall below some very junior team members .. unbearable humiliation. 
-No such humiliation on a non-performing contractor even if his rate is below a grad. Nobody cares about the benchmark.
