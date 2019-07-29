@@ -1,17 +1,6 @@
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
---longest descending path
-first pass O(NN) to construct waterflow graph : For every node (among NxN), create a outgoing edge (in a node.edgeList) if a neighbor node is strictly lower.
-
-Once the graph is constructed in the form of edgeLists, we start at the lowest node and compute longest descending path starting there. Should be very small. We record this "score" as node.score.
-
-A higher node is always upstream to some "computed" nodes. So take the max of those neighbor's scores. Add 1 to get my score.
-
-Second pass has O(NN) since each node is O(1)
-
-Note if a node is surrounded by higher or equal nodes, then it has score 0.
-
 --new: good at pushing myself
 am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
 * yoga
@@ -19,7 +8,7 @@ am good at pushing myself to the limit, sometimes beyond my limit, even if i may
 * coding drill
 * camp out
 
-coding drill is the most interesting case study. Other people may complete more problems, but i probably spend more time
+coding drill is arguably the most interesting case study. Other people may complete more problems, but i probably spend more time
 * Ranked by number of problems, i'm just average
 * ranked by hours spent, I'm much higher
 * ranked by effort, I'm even higher, as I push myself harder than others
