@@ -16,25 +16,6 @@ Some of them are non-optimal but good enough for "2nd-tier" coding interviews...
 Q: your real goals, motivations for coding drill? Absorbency? Burning pleasure? Satisfaction (as Rahul puts it)? Maintaining a hobby?
 So defocus can help. The focus on "optimal" creates negativity.
 
---no:
-A student's approach to statistics is different from a mathematician's. Likewise, I feel the intern way of coding drill is not good for me
-* not long-term commitment. I believe most of them would stop after getting a job.
-* not in-depth
-* not aimed at deep learning and retention
-* more like cram
-
-However an unbiased interviewer/observer could find the student stronger than a mathematician.
-
---new blogpost cod`drill outlasting C++self-study
-Am confident that my coding drill will become a "long-term" hobby like java/c++ QQ, better than c#/quant/swing QQ. 
-
-Anti-aging.
-
-Enjoyable? Yes possible and real if no pressure. 
-
-Not theoretical; more immediate result
-
-I think coding drill may even outlast c++ QQ self-study but crucially my c++ QQ has reached critical mass.
 
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
