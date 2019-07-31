@@ -5,13 +5,16 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+==Q: merging N pre-sorted arrays is O(N logN), same as merge sort?
+
 ==Q: if i backscan a post-order output, is there a single BST?
 Not clear and not easy.
+I think this is like fwd scanning a pre-order output
 
 ==Q: detect cycle in bintree
 dft.. use a stack to keep the current path. I may have this code in github
 
-bft. Each node keeps a parent-node-set, represented by hash table
+bft. Upon append, each node keeps a parent-node-set, represented by hash table
 
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 Eg: {B>A,$3} {A>C,$1} {C>B,$2} means ultimately A received $2, B lent $1, C lent $1.
