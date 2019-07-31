@@ -6,7 +6,7 @@ For these problems the first and main challenge is getting a good sample of wors
 
 --new: Many non-optimal solutions are worthwhile.
 Some of them offer insight into the problems, in terms of structure, constraints...
-Some of them are the best solutions to modified problems.
+Some of them are non-optimal but optimal solutions to modified problems.
 Some of them are non-optimal but break down the original problem into smaller, familiar problems.
 Some of them are non-optimal but offer reusable techniques
 Some of them are non-optimal but very short and clever
@@ -16,9 +16,12 @@ Some of them are non-optimal but good enough for "2nd-tier" coding interviews...
 Q: your real goals, motivations for coding drill? Absorbency? Burning pleasure? Satisfaction (as Rahul puts it)? Maintaining a hobby?
 So defocus can help. The focus on "optimal" creates negativity.
 
-
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 
 Need to prioritize 1 or 2 among the formats as described in google sheet. 
 Leave out speed coding and weekend assignments. (This doesn't mean we give up on those fronts.) It means I accept my limitations as an aging developer.
+
+Attend more interviews, perhaps remotely.
+
+Focus on absorbency, pattern recognition
