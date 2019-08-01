@@ -5,13 +5,16 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-==Q: merging N pre-sorted arrays is O(N logN), same as merge sort?
+==update blogpost on FB question:
+merging N pre-sorted arrays is O(N logN), same as merge sort?
+bigO insight!
 
 ==Q: if i backscan a post-order output, is there a single BST?
 Not clear and not easy.
 I think this is like fwd scanning a pre-order output
 
 ==Q: detect cycle in bintree
+practical !
 dft.. use a stack to keep the current path. I may have this code in github
 
 bft. Upon append, each node keeps a parent-node-set, represented by hash table
