@@ -1,6 +1,10 @@
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
+==update blogpost on FB question:
+merging N pre-sorted arrays is O(N logN), same as merge sort?
+bigO insight!
+
 --new: good at pushing myself
 am good at pushing myself to the limit, sometimes beyond my limit, even if i may not be "good at" them in a competitive sense.
 * yoga
