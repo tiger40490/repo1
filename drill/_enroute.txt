@@ -5,10 +5,18 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+==Q: if i backscan a post-order output (unsorted), is there a single BST we can build?
 
-==Q: if i backscan a post-order output, is there a single BST?
-Not clear and not easy.
-I think this is like fwd scanning a pre-order output
+I think this is like fwd scanning a pre-order output so yes
+
+--insights 
+
+for a given BST, the pre-order output is unique; the post-order output is also unique.
+
+Can two BSTs produce the same pre-order output? I think impossible
+Can two BSTs produce the same post-order output? I think impossible
+
+So it looks like there's a one-to-one mapping between a bst and a post-order sequence. Like the pre-order, The post-order sequence is also a serialization
 
 ==Q: detect cycle in bintree
 practical !
