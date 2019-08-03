@@ -4,18 +4,6 @@ max profit using up to 2 transactions.
 
 For these problems the first and main challenge is getting a good sample of worst dataset. How do I avoid wasting time in real time?
 
---new: Many non-optimal solutions are worthwhile.
-Some of them offer insight into the problems, in terms of structure, constraints...
-Some of them are non-optimal but optimal solutions to modified problems.
-Some of them are non-optimal but break down the original problem into smaller, familiar problems.
-Some of them are non-optimal but offer reusable techniques
-Some of them are non-optimal but very short and clever
-Some of them (my homemade) are non-optimal but unique and innovative ... worthwhile achievements.
-Some of them are non-optimal but good enough for "2nd-tier" coding interviews...i.e. less-demanding
-
-Q: your real goals, motivations for coding drill? Absorbency? Burning pleasure? Satisfaction (as Rahul puts it)? Maintaining a hobby?
-So defocus can help. The focus on "optimal" creates negativity.
-
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 

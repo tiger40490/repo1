@@ -5,6 +5,9 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
+==Q: put all neg numbers to the right and positive to the right, but with stability and in O(1) space
+if space is relaxed, we can construct a linked list
+
 ====Q: Given a list of loans {lenderId, borrowerId, amt}, write a repay(loans) to produce the minimum set of repayments.
 Eg: {B>A,$3} {A>C,$1} {C>B,$2} means ultimately A received $2, B lent $1, C lent $1.
 
