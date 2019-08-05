@@ -4,6 +4,14 @@ max profit using up to 2 transactions.
 
 For these problems the first and main challenge is getting a good sample of worst dataset. How do I avoid wasting time in real time?
 
+--email
+In 1999, at the height of the dotcom bubble, a fellow programmer described to me the hiring standard at some dotcom shops like "If you can write some simple programs, then you are hired."
+
+I feel the leetcode style interview is now similar. The hiring criteria is geared towards fresh graduates. Even for experienced hires, the emphasis appears mostly on language-agnostic algorithms and data structures. No advanced language knowledge required. No SQL, no OS knowledge, no network protocol, no system automation (scripting) required.
+
+Command line utilities is another example -- a practical skill important in linux/unix work environments, frequently quizzed in Wall St interviews. Not all fresh graduates have this experience, and some experienced hires don't use them either, so this skill is not required in west coast interviews.
+
+I feel this type of screening and this level of salary is a sign of bubble. 
 --no blogpost:
 Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
 
