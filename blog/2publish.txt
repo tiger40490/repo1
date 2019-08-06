@@ -4,22 +4,27 @@ gmail zip after adding pw? try
 ==Q: detect cycle in bintree
 practical !
 
-dft recursive. use a hashset to keep the current path. I may have this code in github
+dft recursive. use a hashset to keep the current path. When exiting a stack frame, remove from the hashset
+I may have this code in github
 
 bft. Upon append, each node keeps a parent-node-set, represented by hash table. Too much memory needed
 
-==Q: if i backscan a post-order output (unsorted), is there a single BST we can build?
+==Q: if I backscan a post-order output (unsorted sequence), is there a single BST we can build?
 
 I think this is like fwd scanning a pre-order output so yes
 
 --insights 
 
-for a given BST, the pre-order output is unique; the post-order output is also unique.
+If I keep a webcam at each tree node
+* During a fwd scan of  pre-order output, every node's left child is born before right child.
+* During a backscan of post-order output, every node's right child is born before left child. During the actual post-order walk, my left child is always printed before my right child.
 
-Can two BSTs produce the same pre-order output? I think impossible
+For a given BST, the pre-order output is unique; the post-order output is also unique.
+
+Can two BSTs produce the same  pre-order output? I think impossible
 Can two BSTs produce the same post-order output? I think impossible
 
-So it looks like there's a one-to-one mapping between a bst and a post-order sequence. Like the pre-order, The post-order sequence is also a serialization
+Like the pre-order, the post-order sequence of a BST is also a serialization
 
 ==update blogpost on FB question:
 merging N pre-sorted arrays is O(N logN), same as merge sort?
