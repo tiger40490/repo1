@@ -4,7 +4,13 @@
 [L=leetcode]
 [o=original, not discussed widely]
 [v=easy to verify]
+==Q(bbg onsite): given a float array like 1, 2, 3, 41,42,44, 211,222,233 being the empId, age, weight of N employees. reshuffle it to an array of sections, where each section describes one person. The number of attributes is given at runtime. Do it in-place i.e. O(1) space. 
 
+first and last elements stay unchanged, but all other elements must move home. For each element, I can compute newHome(oldHome). Once I know the new home, i move in there and evict that element. Now compute newHome(oldHome). 
+
+How do I keep track of which homes already refreshed? If I eventually come back to evict a[1], and the total eviction count is correct, then job done. Can we prove that is always the case?
+
+Implementation: Use 1-based indexing. Every array access to go through a API that translates from logical index to physical index. the same API will handle modulo
 ==Q: put all neg numbers to the right and positive to the right, but with stability and in O(1) space
 if space is relaxed, we can construct a linked list
 
