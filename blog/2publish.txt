@@ -1,3 +1,4 @@
+--5 Aug@Retro 134.8 lbs
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 
@@ -24,7 +25,7 @@ For a given BST, the pre-order output is unique; the post-order output is also u
 Can two BSTs produce the same  pre-order output? I think impossible
 Can two BSTs produce the same post-order output? I think impossible
 
-Like the pre-order, the post-order sequence of a BST is also a serialization
+Like the pre-order, the post-order sequence is also a serialization but only for a BST
 
 ==update blogpost on FB question:
 merging N pre-sorted arrays is O(N logN), same as merge sort?
