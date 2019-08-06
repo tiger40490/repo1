@@ -1,6 +1,9 @@
 温故而知新 .. I tend to find bugs + neglected/forgotten parts + areas of improvement. Each part of a given solution can be a show stopper or derailer in a real coding test
 
-====knapsack.py
+====hiding_Uber.py
+DP
+====knapsack.py 
+DP blaster
 ====isPalindrome #FB
 impl is horrible
 ====continuousSentence: 
@@ -8,17 +11,11 @@ memoization for my recursive-in-loop?
 ====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
 ====edit distance
-====look-n-say in py/algo_arr
+DP blaster
 ====regex? too hard?
 ====combo-sum vs knapsack
 ====It's relatively easy n enjoyable to review some of the classicGenerators problems. 
-==find all paths in matrix
 
-====LMH facebook problem? obscure
-====zebra.py is eg of union-find.
-Other union-find problems might be harder than this.
-
-====(cpp) water container
 =========== c++lang features
 ====oq in shPtrDowncast
 ====my rvr experiments
