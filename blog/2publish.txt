@@ -1,3 +1,4 @@
+--after h2o recharge, disable the auto-recharge
 --shall I upload contact.txt for backup?
 gmail zip after adding pw? try
 aleady created in desktop
