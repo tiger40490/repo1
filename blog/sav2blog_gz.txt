@@ -1,13 +1,12 @@
---
-sometimes I tell myself "if I commit myself I could do well in a job and move up and stay beyond 2Y."
-
-Largely romanticizing. It has not happened and unlikely to happen. Key reasons
+--no blog
+sometimes I tell myself "if I commit myself I could do well in a job and move up and stay beyond 2Y." ... Largely romanticizing. It has not happened and unlikely to happen. Key reasons
 
 * my immigration plan
 * realities of contract job
 * for perm jobs, after 12M I tend to receive neg reviews, partly due to benchmarking. No benchmarking for contractors
 * My cash-flow is positive and I can afford to change to lower jobs, unlike some peers.
 * Nowadays, annual job hopping is not so uncommon as programmers are a hot commodity. (Still, as I age, I avoid that and try to stay for 2Y+)
+
 --Retire at Google?
 CSDoctor thinks it's possible but I doubt it
 However CSDoctor questions himself "To present myself as a team lead or architect, what do I have to offer them?"
@@ -16,13 +15,15 @@ However CSDoctor questions himself "To present myself as a team lead or architec
 
 I feel I'm able to feel OK with conserver lifestyle, but my family members would not feel so comfortable. See my blog on deprivation.
 
---Pattern: I happen to notice a few "peers" getting ahead in terms of salary ... and I get hit by inferiority complex
+--Pattern: 
+
+Suddenly I happen to notice a few "peers" getting ahead in terms of salary ... and I get hit by the same inferiority complex as before.
 
 Actually, people 10 years younger are not my peers
 
 Actually, the manager types aren't my peers, as grandpa pointed out repeatedly.
 
-Q: what do I treasure more? I don't really need the extra income. 
+--Q: what do I treasure more? I don't really need the 20% extra income. 
 A: easy life. PIP, stigma .. are real risks in my career.
 A: beautiful wife
 A: SG citizenship
