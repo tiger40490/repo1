@@ -1,3 +1,10 @@
+--new 
+To prepare for the most interviews beside Google/FB, I can make real improvements using Leetcode easy problems.
+
+Easy problems prove good for building my momentum.
+
+But too many easy problems will not expose me to the challenges at a tough interview.
+
 --update blogpost on worst dataset
 wildcard in parentheses string
 max profit using up to 2 transactions.
