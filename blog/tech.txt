@@ -1,6 +1,6 @@
 --new
 every problem asking "top N" -- quick-select gives average linear time. Real upper bound is O(NN)
-every problem hinting O(1) space -- no auxDS. Use array-swap
+every problem hinting O(1) space -- no auxDS. Use array-swap. Or save (2D) array indices in the array as payload
 every problem hinting O(N) -- use hash table, linked list, append on BST/priorityQ, deque
 --add to blog, not github
 FB interviewer asked why I prefer to keep state in global var rather than a per-record field
