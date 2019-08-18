@@ -1,3 +1,19 @@
+--new: taking up large codebase
+Each time, within 3M of trying, I was able to "take up" a sizable brown field codebase and be productive. As I told Kyle, I don't need bottom-up knowledge to be competent. 
+
+I had more successes taking up huge brown-field codebase than an old-timer has
+* eg: Guardian -- don't belittle the challenge and complexity
+* eg: mvea c++
+* eg: mtg comm, integrated into a huge codebase
+* eg: StirtRisk personalization -- I made it work and manager was impressed
+* eg: StirtRisk bug fixes on GUI
+* eg: zed Billing Mediator
+* -- the obvious success stories
+* eg: AICE -- huge stored proc
+* eg: Quest app owner
+* eg: error memos
+* eg: RTS
+
 --no blog
 I told Rahul that I need to be independent to capture the engagement, but that's short term.
 

@@ -30,6 +30,9 @@ eg@engage: morning quiet time... the zone
 eg@engage: on flights
 eg@engage: weekend assignments
 
+--intrinsic mtv is rather rare in most commercial domains
+Arts (including fine arts..) are more likely. Personalized service (like nursing, counseling) also possible
+
 --no blog
 git-blogging is not perfect. print-out is more accessible. Lower friction.
 
