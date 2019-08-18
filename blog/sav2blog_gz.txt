@@ -1,7 +1,7 @@
 --new: taking up large codebase
-Each time, within 3M of trying, I was able to "take up" a sizable brown field codebase and be productive. As I told Kyle, I don't need bottom-up knowledge to be competent. 
+In a few cases, within 3M I was able to "take up" a sizable brown field codebase and become somewhat productive. As I told Kyle, I don't need bottom-up in-depth knowledge to be competent. 
 
-I had more successes taking up huge brown-field codebase than an old-timer has
+In terms of count, I had more successes taking up sizable brown-field codebase than an old-timer has
 * eg: Guardian -- don't belittle the challenge and complexity
 * eg: mvea c++
 * eg: mtg comm, integrated into a huge codebase
@@ -14,15 +14,7 @@ I had more successes taking up huge brown-field codebase than an old-timer has
 * eg: error memos
 * eg: RTS
 
---no blog
-I told Rahul that I need to be independent to capture the engagement, but that's short term.
-
-Over long term, what do I need to survive and thrive?
-* sustained focus on localSys
-* respect/appreciation
-* not boxed into some unfavorable technology like high-churn 
-
---new blogpost
+--new blogpost?
 sometimes I tell myself "if I commit myself I could do well in a job and move up and stay beyond 2Y." ... Largely romanticizing. It has not happened and unlikely to happen. Key reasons
 
 * my immigration plan
@@ -39,23 +31,20 @@ However CSDoctor questions himself "To present myself as a team lead or architec
 
 I feel I'm able to feel OK with conserver lifestyle, but my family members would not feel so comfortable. See my blog on deprivation.
 
---Pattern: 
-
+Pattern: 
 Suddenly I happen to notice a few "peers" getting ahead in terms of salary ... and I get hit by the same inferiority complex as before.
-
 Actually, people 10 years younger are not my peers
-
 Actually, the manager types aren't my peers, as grandpa pointed out repeatedly.
 
---Q: what do I treasure more? I don't really need the 20% extra income. 
-A: easy life. PIP, stigma .. are real risks in my career.
+Q: what do I treasure more? I don't really need the 20% extra income. 
+A: easy life -- PIP, stigma .. are real risks in my career.
 A: beautiful wife
 A: SG citizenship
 A: wellness
 A: cash flow freedom over 20Y or till end of my life
 A: robust career. Their careers may not be so robust if you look closely
 
---new: stay]shape4CIV+QQ till 50
+--new? stay]shape4CIV+QQ till 50
 I would say QQ is my stronger arm, even though the HFT shops may dismiss it.
 QQ benefits from thick->thin (and xRef) ... one of the key competitive advantages I could develop through blogging and continuous refresh
 
@@ -68,6 +57,14 @@ JC has more suitable jobs than SG has including start-up.
 Singapore non-finance companies simply can't afford because the main street dev salary is much lower than U.S.
 
 The wall st salary level is largely influenced by west coast and also main street dev salary.
+
+--no blog
+I told Rahul that I need to be independent to capture the engagement, but that's short term.
+
+Over long term, what do I need to survive and thrive?
+* sustained focus on localSys
+* respect/appreciation
+* not boxed into some unfavorable technology like high-churn 
 
 --fuxi
 Like Black developers .. As an older Singaporean developer I also have higher visibility.
