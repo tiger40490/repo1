@@ -1,10 +1,7 @@
---
+--new
 every problem asking "top N" -- quick-select gives average linear time. Real upper bound is O(NN)
 every problem hinting O(1) space -- no auxDS. Use array-swap
 every problem hinting O(N) -- use hash table, linked list, append on BST/priorityQ, deque
---linear time != O(N)
-linear time means average complexity is proportional to N
-O(N) means upper bound is proportional to N
 --add to blog, not github
 FB interviewer asked why I prefer to keep state in global var rather than a per-record field
 
