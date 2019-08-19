@@ -1,15 +1,18 @@
---new 
-To prepare for the most interviews beside Google/FB, I can make real improvements using Leetcode easy problems.
-
-Easy problems prove good for building my momentum.
-
-But too many easy problems will not expose me to the challenges at a tough interview.
-
 --update blogpost on worst dataset
 wildcard in parentheses string
 max profit using up to 2 transactions.
 
 For these problems the first and main challenge is getting a good sample of worst dataset. How do I avoid wasting time in real time?
+
+--add to blogpost on satisfaction
+After such heavy leetcode practice, do I feel satisfied? Deeply satisfied? How long will it last?
+
+Will Kyle's drill make me feel different?
+
+Am I more confident after solving many problems on my own? 
+
+--new
+coding drill keeps me younger and more relevant to the new crop of programmers and jobs
 
 --email
 In 1999, at the height of the dotcom bubble, a fellow programmer described to me the hiring standard at some dotcom shops like "If you can write some simple programs, then you are hired."
