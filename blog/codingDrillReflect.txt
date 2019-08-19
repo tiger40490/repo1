@@ -1,18 +1,16 @@
---update blogpost on worst dataset
-wildcard in parentheses string
-max profit using up to 2 transactions.
+--
+some people spend too little time on the motivation analysis, but I tend to spend too much time.
+Perhaps I should just do it
+--update blogpost...
+In terms of long-term orgro, QQ study feels slightly better than coding drill.
+Therefore, I prefer to focus on insight into the structure/constraints of each problem, and hope for better retention.
 
-For these problems the first and main challenge is getting a good sample of worst dataset. How do I avoid wasting time in real time?
+Compared to QQ study, coding drill keeps me younger and more relevant to the new crop of programmers and jobs
 
 --add to blogpost on satisfaction
 After such heavy leetcode practice, do I feel satisfied? Deeply satisfied? How long will it last?
 
-Will Kyle's drill make me feel different?
-
-Am I more confident after solving many problems on my own? 
-
---new
-coding drill keeps me younger and more relevant to the new crop of programmers and jobs
+Am I more confident after solving many problems on my own? I would say yes
 
 --email
 In 1999, at the height of the dotcom bubble, a fellow programmer described to me the hiring standard at some dotcom shops like "If you can write some simple programs, then you are hired."
@@ -22,12 +20,3 @@ I feel the leetcode style interview is now similar. The hiring criteria is geare
 Command line utilities is another example -- a practical skill important in linux/unix work environments, frequently quizzed in Wall St interviews. Not all fresh graduates have this experience, and some experienced hires don't use them either, so this skill is not required in west coast interviews.
 
 I feel this type of screening and this level of salary is a sign of bubble. 
---no blogpost:
-Q: how could I grow my ranking in coding test as I did in java/c++ QQ?
-
-Need to prioritize 1 or 2 among the formats as described in google sheet. 
-Leave out speed coding and weekend assignments. (This doesn't mean we give up on those fronts.) It means I accept my limitations as an aging developer.
-
-Attend more interviews, perhaps remotely.
-
-Focus on absorbency, pattern recognition
