@@ -26,6 +26,15 @@ In terms of count of successes taking up sizable brown-field codebase, I am a se
 * eg: error memos
 * eg: RTS
 
+--new
+I have grown from a sysAdmin to a dev
+I have grown from web and scripting pro into a c++ pro
+Next, I hope to grow my competence with large codebase
+
+With a large codebase, I tend to focus on the parts I don't understand, regardless that's 20% or 80% of the code I need to read
+
+I can learn to live with that ambiguity.
+
 --new blogpost?
 sometimes I tell myself "if I commit myself I could do well in a job and move up and stay beyond 2Y." ... Largely romanticizing. It has not happened and unlikely to happen. Key reasons
 
