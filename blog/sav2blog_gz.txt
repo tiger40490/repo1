@@ -1,3 +1,8 @@
+--market depth
+US tech salary very high, so even a mediocre tech job pays well above traditional jobs. Dev jobs pays even higher than regular tech jobs.
+
+Gave me sense of security
+
 --add to CV:
 had one-on-one discussions with Stroustrup about c++
 
