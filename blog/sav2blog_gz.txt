@@ -1,3 +1,8 @@
+--tell stories -- mentoring skill
+
+--me as perceived against other candidates at my level
+architect or tech lead or dev lead?
+
 --market depth
 US tech salary very high, so even a mediocre tech job pays well above traditional jobs. Dev jobs pays even higher than regular tech jobs.
 
@@ -9,7 +14,7 @@ had one-on-one discussions with Stroustrup about c++
 --new: taking up large codebase
 In a few cases, within 3M I was able to "take up" a sizable brown field codebase and become somewhat productive. As I told Kyle, I don't need bottom-up in-depth knowledge to be competent. 
 
-In terms of count, I had more successes taking up sizable brown-field codebase than an old-timer has
+In terms of count of successes taking up sizable brown-field codebase, I scored more than an average old timer in a given system.
 * eg: Guardian -- don't belittle the challenge and complexity
 * eg: mvea c++
 * eg: mtg comm, integrated into a huge codebase
