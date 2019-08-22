@@ -1,3 +1,13 @@
+--QQ=fake;zbs learning=treacherous
+I often feel my QQ knowledge is not zbs.
+
+Experts sizing up each other ... is mostly by some form of QQ knowledge, not needed to GTD
+
+zbs is vague. QQ has a well-established range of topics. One guy with zbs but poor QQ may be very mediocre in a new team.
+
+Biggest danger with zbs -- when I spend my precious spare time on zbs not aimed at QQ, I inevitably regret. Without QQ, the learning lacks reinforcement, positive feedback loop and fades from memory.
+
+Therefore, zbs learning must aim at xref and thick->thin.
 --brain anti-aging job
 Chris Ma felt any programming job is intense, never lethargic. I tend to associate some support type of work as coding. Chris felt a relatively easy programming job would be good for my brain. 
 
