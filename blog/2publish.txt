@@ -1,4 +1,5 @@
 Q: AnagramIndexOf (string pattern, string haystack) to return the first index of any permutation of pattern.
+Using the frq table is correct but linear search may not be efficient. I think I should use a fixed-size moving window with a dynamic frq table.
 
 Q: innerProduct2SparseArray (Table aa, Table bb)
 First you need to design the Table data structure to represent a sparse array.
