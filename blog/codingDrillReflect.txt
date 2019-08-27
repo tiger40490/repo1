@@ -6,8 +6,6 @@
 * Career round -- played to my advantage as I have multiple real war stories. I didn't prepare much. The stories just came out raw and hopefully authentic
 * the mini coding rounds -- played to my advantage as I reacted fast, thanks to python, my leetcode practice ...
 
-I think my c++/python combo was good. I didn' show c++ but I felt very confident and strong about c++, which probably shined through in front of the last interviewer (from the architect team)
-
 --Today I feel getting much closer to passing. Now I feel One interview is all it takes to enter a new world
 * higher salary than HFT
 * possibly more green field
