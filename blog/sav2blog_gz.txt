@@ -1,3 +1,8 @@
+--add to blogpost on GS-sg
+In SG, more than half the time I was assessed as a dev lead (or architect) but I don't want to. 
+
+U.S. contract market is better.
+
 --no blog
 I feel that Jack is competent with localSys GTD but weak on c++ and comp science.
 
