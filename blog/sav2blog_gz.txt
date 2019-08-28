@@ -1,3 +1,26 @@
+--no blog
+I feel that Jack is competent with localSys GTD but weak on c++ and comp science.
+
+Does he have working knowledge of c++? I assume so. Working knowledge is attainable in a couple of months for a clean language, and up to a year for c++
+
+The level of working knowledge and basic skill is very low for localSys GTD.
+
+His c++ knowledge is probably barely enough to do the job. Remember I didn't know what things live on java heap vs stack.
+
+Based on my guesstimate, he would fail any c++ interview and any algo interview. He can write simple SQL in an interview, but I am not sure if he can write complex joins.
+
+How about CSY? He can solve many algo problems without practice, but he is reluctant to practice. 
+
+I think the self-sense of on-the-job competency is misleading. Many in their positions might feel GTD competency is more important than IV skills. They are so afraid of the benchmark that they don't want to study for it. 
+
+When the thought of tech interview comes up, I think they wish to escape or cover their ears.
+
+--new: jvm^c++ as infrastructure
+c/c++ is part of the infrastructure of many new technologies and will last for decades whereas java may not.
+
+JVM is an infrastructure for some new languages and new frameworks like spring, hadoop, 
+
+This doesn't mean there will be enough c++ jobs
 -- 
 IV topics
 QQ or algo or math ... just fads. Doesn't make sense to me
