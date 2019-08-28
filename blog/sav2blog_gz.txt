@@ -26,17 +26,18 @@ IV topics
 QQ or algo or math ... just fads. Doesn't make sense to me
 
 --QQ=fake;zbs learning=treacherous
-I often feel my QQ knowledge is not zbs.
+Experts sizing up each other ... is mostly by some form of zbs knowledge (mostly QQ), not needed to GTD
 
-Experts sizing up each other ... is mostly by some form of QQ knowledge, not needed to GTD
-
-zbs is vague. QQ has a well-established range of topics. One guy with zbs but poor QQ may be very mediocre in a new team.
+I used to feel my QQ knowledge was not zbs but now I think many interviewers ask zbs questions. zbs is a vague concept. QQ has a well-established range of topics. 
 
 Biggest danger with zbs -- when I spend my precious spare time on zbs not aimed at QQ, I inevitably regret. Without QQ, the learning lacks reinforcement, positive feedback loop and fades from memory.
 
 Therefore, zbs learning must aim at xref and thick->thin.
---brain anti-aging job
-Chris Ma felt any programming job is intense, never lethargic. I tend to associate some support type of work as coding. Chris felt a relatively easy programming job would be good for my brain. 
+
+? One guy with zbs (possibly poor QQ) may be very mediocre in a new team. It depends on the key skill needed in the team. Is it localSys, design ...? I think localSys insight is always required.
+
+--brain: anti-aging job
+Chris Ma felt any programming job is intense, never lethargic. I tend to consider some support type of work as coding. Chris felt a relatively easy programming job would be good for my brain. 
 
 Now I feel this view echoes Jiang Ling's view
 
@@ -51,8 +52,6 @@ In hind sight I basically presented an image as a graying techie interested in c
 * tech jobs are growing and we are in-demand, even at our age. I said we are both lucky. Chris said in the future there will be only IT jobs.
 * my competitiveness among older techies
 * decent contract rate
-
---tell stories -- mentoring skill
 
 --me as perceived against other candidates at my level
 architect or tech lead or dev lead?
