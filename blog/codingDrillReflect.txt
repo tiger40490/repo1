@@ -1,3 +1,18 @@
+--email to XR: my non-monetary motivation is not lower than the salary-oriented motivation
+
+I now recall that most of my friends who practice heavily on leetcode have a clear goal to increase salary.
+
+If their salary-oriented motivation is at level 8 on a scale of 1 to 10, then my level was like 5. Now it's at 5.5 because I feel the prospect of getting a job offer like $250k is more realistic.
+
+However, the level of my motivation was not low for the past year. I think it was just as high as my friends. Motivation is a complex thing so I will just point out a few elements
+* I am motivated by achievements like solving a tough problem by myself. Incompatible with the salary-motivation
+* With 50% of my problems, there are solutions posted but I refuse to look at them. I enjoyed my blissful ignorance. I liked my own solutions
+* I enjoyed some problems outside Leetcode
+
+I think the common theme among these factors is -- salary motivation dilutes many little joys of coding drill.
+
+I'm not doing this drill just for self-improvement. I do it to keep myself relevant to the economy.
+
 --better performance than Indeed onsite
 * coding rounds -- Eric gave positive feedback to confirm my success. No miscommunication as happened in the VersionedDict. 2nd Indeed interviewers failed me even though I "completed" it. Pregnant interviewer may follow suit.
 * not as hard as the 2011 FB interview -- regex problem
