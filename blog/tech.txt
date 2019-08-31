@@ -1,3 +1,9 @@
+--vtable contains
+offset of base type subobject. In multiple inheritance, this offset is often non-zero. This offset is needed not only for field access but also casting 
+typeid
+
+These details are part of the compiler ABI, since object files from older and newer compilers would link together.
+Best-known part of ABI is name-mangling algorithm.
 --new
 every problem asking "top N" -- quick-select gives average linear time. Real upper bound is O(NN)
 every problem hinting O(1) space -- no auxDS. Use array-swap. Or save (2D) array indices in the array as payload
