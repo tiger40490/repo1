@@ -1,4 +1,13 @@
+--update blogpost on coding drill in SG
+Paradox: in US I had real motivation/absorbency/.. to keep up coding drill but i don't feel I will have even 5% of that in SG.
 
+--volunteer to take up prod issues selectively. Dig a bit on my own. Aim at connecting the dots and becoming independent with part of the codebase. Avoid "lossy learning"
+
+However, some may say I'm exploring beyond the necessary. I think my learning style is slightly different, so i want to strike a balance
+* some exploration about the localSys aimed at long term GTD
+* not too much time wasted.
+
+I think the income-orientation will be bad for my motivation. I need some intrinsic motivation.
 --nothing really new here. 
 when a bright new hire is brought into the team he would be benchmarked from Day 1 over the next 6M. Consider Deepak G, Alan Shi, ...
 I'm often not-so-great in terms of localSys ramp-up, GTD etc, but I often put in visible effort
@@ -58,6 +67,11 @@ QQ benefits from thick->thin (and xRef) ... one of the key competitive advantage
 CIV also benefits from blogging and continuous practice ... my competitive advantages. Remember David Okao's question "what is your secret weapon?"
 
 High-end CIV is only needed at top west-coast shops. I think most of the top performers are young but I could stand out among my age group.
+--no
+my record in GS is no bad record any more
+
+--no
+Rahul is ambitious , same as Sunil, Ashish, Yang .... I'm not. I just want to do a professional job and stay at a level I'm comfortable
 
 --nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
 my time at home is limited:
