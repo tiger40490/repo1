@@ -1,8 +1,10 @@
---todo
-5K USD
-RMB 72
-slippers -> gp
+--todo in BJ
 charge x 2
+--todo in SG
+USD cash
+
+--tmpl tmpl param
+See my github code demo
 
 --new: linkedin contact pruning
 cost of maintaining a linkedin contact -- hinders my search/browse.
