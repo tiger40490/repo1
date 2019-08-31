@@ -1,14 +1,23 @@
---Until I left GS, I didn't know how it feels to "conquer" a sizable, lucrative job market
+--conclusions on my mvea era
+* Not much positive feedback beside 'providing new, different viewpoints'
+* should be able to come back to MS
+* I think Josh liked me as a person and understands my priorities
+* A few times I worked hard and made personal sacrifices. Josh noticed.
+* towards the end I was fairly efficient to wrap up my final projects 
+
+--Until I left GS, I didn't know how it feels to "conquer" a sizable, lucrative tech skill. Such a tech skill represents a specific job market with supply and demand
 
 perl? not sizable not lucrative :( Until 2011, Perl was my only core competency :( How lucky am I now !
-coreJava as defined on WallSt .. was my first conquest. After this conquest I haven been trying to conquer more, while many peers stayed in one firm in order to move up.
+coreJava as defined on WallSt .. was my first conquest. After this conquest I haven been trying to repeat my success story, while many peers stayed in one firm in order to move up.
 SQL? Many interview topics not explored, but now SQL is no longer a sizable job market:(
 MOM? Not sizable
 c++ .. was my 2nd conquest, as experienced in 2017 onwards
-CIV .. was my 3rd conquest, though I only rate myself B among west coast candidates.
+CIV .. was my 3rd conquest. Growing bigger, though I only rate myself B among west coast candidates.
 
 --update blogpost on design based@localSys nlg
-nowadays I avoid design confrontation as I can lose my reputation. I got my fingers burnt before including with Kevin
+nowadays I avoid design confrontation as I can lose my reputation. I got my fingers burnt before, including Macq, GS .. when I cared about my designs.
+
+I think Rahul is different. He put his heart into it ... and cared.
 
 --email to XR
 After talking to you and a few friends, now I feel Wall St contract is the fallback career plan for me.
@@ -31,8 +40,6 @@ I focus mostly on the salary level in the WallSt contract market, not the perm s
 This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
 
 --new? stay]shape4CIV+QQ till 50
-(replace the item in _gz.txt)
-
 I would say QQ remains my stronger arm, even though the HFT shops may dismiss it. I don't need to care about them. 
 QQ benefits from thick->thin (and xRef) ... one of the key competitive advantages I could develop through blogging and continuous refresh.
 
