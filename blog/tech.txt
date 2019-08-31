@@ -1,3 +1,5 @@
+--is quicksort constant-space? Better find out even if I can't reproduce it
+
 --vtable contains
 offset of base type subobject. In multiple inheritance, this offset is often non-zero. This offset is needed not only for field access but also casting 
 typeid

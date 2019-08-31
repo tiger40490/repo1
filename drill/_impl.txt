@@ -1,5 +1,7 @@
 ====for a binTree, print subtree size/height at every node
 ====practice in-order-walk iterative/recursive
+====XR's solution to the sparse array inner product
+====binary tree lock/unlock
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 I will call the best pair "left winner" and "right winner"
@@ -21,3 +23,22 @@ build a 'max since first' shadow array based on the left-scores.
 build a 'max since last' shadow array based on the right-scores, but Kyle pointed out this is not needed. We may want to test both
 pairwise add up these two arrays. Find the max in the final shadow array.
 
+====Q[c L]: sort a list in O(N logN) but constant space? 
+(If this were an array, then swap is one way to go, but recursion stack space?)
+
+--O(1) space iterative list-merge sort
+first pass: every 2 elements, sort them. End up with pairwise sorted list
+2nd pass: every 4 elements, merge sort them by merging ab and AB
+3rd pass: every 8 elements, merge sort them by merging abcd and ABCD
+logN passes
+
+--O(?) space original solution
+Get a quick estimate of the median value, possibly a fractional. 
+Then move two pointers from far ends towards center.
+Whenever med < left item,  freeze left ptr.
+Whenever right item < med, freeze right ptr.
+when both pointers stopped, swap them, then unfreeze both.
+
+Now list is partitioned into two halves. (I can also use a random pivot to partition.)
+
+Now divide and conquer. Total logN scans. However how do I remember the anchor positions? 
