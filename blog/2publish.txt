@@ -10,7 +10,7 @@ U.S. contract market is better.
 --new: jvm^c++ as infrastructure
 c/c++ is part of the infrastructure of many new technologies and will last for decades whereas java may not.
 
-This doesn't mean there will be enough c++ jobs
+:( This doesn't mean there will be enough c++ jobs
 
 JVM is an infrastructure for a small number of new languages and new frameworks like spring, hadoop, 
 --add to CV:
@@ -19,14 +19,15 @@ had one-on-one discussions with Stroustrup about c++
 --tmpl tmpl param
 See my github demo
 
-First and possibly only challenge is -- understand the limitation of traditional solutions
+First and possibly biggest challenge is -- understand the limitation of traditional solutions
 
 --new: linkedin contact pruning
 cost of maintaining a linkedin contact -- hinders my search/browse.
 I think I can remove some of the recruiters (that I have stopped working with)
 How about some of the ex-colleagues and ex-classmates who I feel don't like me?
+
 --new? stay]shape4CIV+QQ till 50
-I would say QQ remains my stronger arm, even though the HFT shops may dismiss it. I don't need to care about them. 
+I would say QQ remains my stronger arm. I don't need to care about HFT shops. 
 QQ benefits from thick->thin (and xRef) ... one of the key competitive advantages I could develop through blogging and continuous refresh.
 
 CIV also benefits from blogging and continuous practice ... my competitive advantages. Remember David Okao's question "what is your secret weapon?"
@@ -34,20 +35,19 @@ CIV also benefits from blogging and continuous practice ... my competitive advan
 High-end CIV is only needed at top west-coast shops. I think most of the top performers are young but I could stand out among my age group.
 
 --update blogpost on design based@localSys nlg
-nowadays I avoid design confrontation as I can lose my reputation. I got my fingers burnt before, including Macq, GS .. when I cared about my designs.
+nowadays I avoid design confrontation as I risk losing my reputation. I got my fingers burnt before, including Macq, GS .. when I cared about my designs.
 
-I think Rahul is different. He put his heart into it ... and cared.
+I think Rahul, Zhurong .. are unlike me. He put his heart into it ... and cared about this designss.
 
 --QQ=fake;zbs_learning=treacherous
-Experts sizing up each other ... is mostly by some form of zbs knowledge (mostly QQ), not needed to GTD
+I used to feel my QQ knowledge was not zbs but now I think many interviewers ask zbs questions. zbs is a vague concept. QQ has a well-established range of topics. Experts sizing up each other ... is mostly QQ
 
-I used to feel my QQ knowledge was not zbs but now I think many interviewers ask zbs questions. zbs is a vague concept. QQ has a well-established range of topics. 
-
-Biggest danger with zbs -- when I spend my precious spare time on zbs not aimed at QQ, I inevitably regret. Without QQ, the learning lacks reinforcement, positive feedback loop and fades from memory.
+Biggest danger with zbs -- when I spend my precious spare time on zbs not aimed at QQ, I inevitably regret. Without QQ, the learning lacks reinforcement, positive feedback loop... and fades from memory. 
+I think in SG context the lack of interviews make zbs learning treacherous
 
 Therefore, zbs learning must aim at xref and thick->thin.
 
-? One guy with zbs (possibly poor QQ) may be very mediocre in a new team. It depends on the key skill needed in the team. Is it localSys, design ...? I think localSys insight is always required.
+? One guy with theoretical zbs (either strong or poor QQ) may be very mediocre joining a new team. It depends on the key skill needed in the team. Is it localSys, design ...? 
 
 --email to XR
 After talking to you and a few friends, now I feel Wall St contract is the fallback career plan for me. The alternatives are:
