@@ -4,7 +4,9 @@ charge x 2
 USD cash
 
 --tmpl tmpl param
-See my github code demo
+See my github demo
+
+First and possibly only challenge is -- understand the limitation of traditional solutions
 
 --new: linkedin contact pruning
 cost of maintaining a linkedin contact -- hinders my search/browse.
