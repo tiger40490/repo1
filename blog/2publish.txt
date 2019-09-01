@@ -1,3 +1,4 @@
+
 --todo in SG
 USD cash
 food
@@ -33,6 +34,25 @@ QQ benefits from thick->thin (and xRef) ... one of the key competitive advantage
 CIV also benefits from blogging and continuous practice ... my competitive advantages. Remember David Okao's question "what is your secret weapon?"
 
 High-end CIV is only needed at top west-coast shops. I think most of the top performers are young but I could stand out among my age group.
+
+--new: Proven GTD is worthless in candidate ranking #JackZ
+I feel that Jack Zhang is competent with localSys GTD but weak on c++ and comp science.
+
+Does he have working knowledge of c++? I assume so. Working knowledge is attainable in a couple of months for a clean language, and up to a year for c++
+
+The required level of working knowledge and basic skill is very low for localSys GTD.
+
+His c++ knowledge is probably barely enough to do the job. Remember I didn't know what things live on java heap vs stack.
+
+Based on my guesstimate, he would fail any c++ interview and any algo interview. He can write simple SQL in an interview, but I am not sure if he can write complex joins.
+
+The fact that Jacn and DeepakM are are proven on GTD is useless and lost in the conversation.
+
+How about CSY? He can solve many algo problems without practice, but he is reluctant to practice. 
+
+I think the self-sense of on-the-job competency is misleading. Many in their positions might feel GTD competency is more important than IV skills. They are so afraid of the benchmark that they don't want to study for it. 
+
+When the topic of tech interview comes up, I think they wish to escape or cover their ears.
 
 --update blogpost on design based@localSys nlg
 nowadays I avoid design confrontation as I risk losing my reputation. I got my fingers burnt before, including Macq, GS .. when I cared about my designs.

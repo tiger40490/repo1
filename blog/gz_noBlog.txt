@@ -35,26 +35,6 @@ Corporate ambition, stress, competition, serious designs ... threatens to reduce
 when a bright new hire is brought into the team he would be benchmarked from Day 1 over the next 6M. Consider Deepak G, Alan Shi, ...
 I'm often not-so-great in terms of localSys ramp-up, GTD etc, but I often put in visible effort
 In contrast, My interview benchmark result is often extraordinary.
-
---no blog
-I feel that Jack Zhang is competent with localSys GTD but weak on c++ and comp science.
-
-Does he have working knowledge of c++? I assume so. Working knowledge is attainable in a couple of months for a clean language, and up to a year for c++
-
-The required level of working knowledge and basic skill is very low for localSys GTD.
-
-His c++ knowledge is probably barely enough to do the job. Remember I didn't know what things live on java heap vs stack.
-
-Based on my guesstimate, he would fail any c++ interview and any algo interview. He can write simple SQL in an interview, but I am not sure if he can write complex joins.
-
-The fact that Jacn and DeepakM are are proven on GTD is useless and lost in the conversation.
-
-How about CSY? He can solve many algo problems without practice, but he is reluctant to practice. 
-
-I think the self-sense of on-the-job competency is misleading. Many in their positions might feel GTD competency is more important than IV skills. They are so afraid of the benchmark that they don't want to study for it. 
-
-When the topic of tech interview comes up, I think they wish to escape or cover their ears.
-
 --Retire at Google?
 CSDoctor thinks it's possible but I doubt it
 However CSDoctor questions himself "To present myself as a team lead or architect, what do I have to offer them?"
