@@ -48,34 +48,37 @@ After talking to you and a few friends, now I feel Wall St contract is the fallb
 * startups? No idea.
 
 --new? ##%%conquests since GS
+[tags t_othRisk]
 Until I left GS, I didn't know how it feels to "conquer" a sizable, lucrative tech skill. Such a tech skill represents a specific job market with supply and demand
 
 perl? not sizable not lucrative :( Until 2011, Perl was my only core competency :( How lucky am I now !
-coreJava as defined on WallSt .. was my first conquest. After this conquest I haven been trying to repeat my success story, while many peers stayed in one firm in order to move up.
+coreJava QQ as defined on WallSt .. was my first conquest. After this conquest I haven been trying to replicate my success story, while many peers stayed in one firm in order to move up.
 SQL? Many interview topics not explored, but now SQL is no longer a sizable job market:(
 MOM? Not sizable
-c++ .. was my 2nd conquest, as experienced in 2017 onwards
+sockets ... not so sizable, not yet conquered
+bond math ... was a small conquest
+c++ QQ .. was my 2nd conquest, as experienced in 2017 onwards
 CIV .. was my 3rd conquest. Growing bigger, though I only rate myself B among west coast candidates.
 
 --new: ##taking up large codebases
 I have grown from a sysAdmin to a dev
-I have grown from web and scripting pro into a c++ pro
+I have grown from web and scripting pro into a java pro then c++ pro
 Next, I hope to grow my competence with large codebase
-
 With a large codebase, I tend to focus on the parts I don't understand, regardless that's 20% or 80% of the code I need to read
 
-I can learn to live with that ambiguity. I guess Rahul was good at that.
-
-In a few cases, within 3M I was able to "take up" a sizable brown field codebase and become somewhat productive. As I told Kyle, I don't need bottom-up in-depth knowledge to be competent. 
-
-In terms of count of successes taking up sizable brown-field codebase, I am a seasoned contractor, so I scored more than an average old timer in a given system.
-* eg: Guardian -- don't belittle the challenge and complexity
-* eg: mvea c++? My changes were localized, but the ets ecosystem codebase was huge
-* eg: mtg comm, integrated into a huge codebase
-* eg: StirtRisk personalization -- I made it work and manager was impressed
-* eg: StirtRisk bug fixes on GUI
-* -- the obvious success stories
-* eg: AICE -- huge stored proc + perl
-* eg: Quest app owner
-* eg: error memos
-* eg: RTS
+I can learn to live with that ambiguity. I guess Rahul was good at that. 
+In a few cases, within 3M I was able to "take up" a sizable brown field codebase and become somewhat productive. 
+As I told Kyle, I don't need bottom-up in-depth knowledge to be competent. 
+In terms of count of successes taking up sizable brown-field codebase, I am a seasoned contractor, so I scored more points than an average old timer in a given system.
+eg: Guardian -- don't belittle the challenge and complexity
+eg: mvea c++? My changes were localized, but the ets ecosystem codebase was huge
+eg: mtg comm (small green field), integrated into a huge brown field codebase
+eg: StirtRisk personalization -- I made it work and manager was impressed
+eg: StirtRisk bug fixes on GUI
+eg: Macq build system -- many GTD challenges
+-- the obvious success stories
+eg: AICE -- huge stored proc + perl
+eg: Quest app owner
+eg: error memos
+eg: RTS
+eg: Moodles at NIE
