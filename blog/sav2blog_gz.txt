@@ -63,6 +63,16 @@ My hours in office are scarce :
 * localSys explore -- for long term productivity etc
 * frequent breaks
 
+--QQ=fake;zbs_learning=treacherous
+I used to feel my QQ knowledge was not zbs but now I think many interviewers ask zbs questions. zbs is a vague concept. QQ has a well-established range of topics. Experts sizing up each other ... is mostly QQ
+
+Biggest danger with zbs -- when I spend my precious spare time on zbs not aimed at QQ, I inevitably regret. Without QQ, the learning lacks reinforcement, positive feedback loop... and fades from memory. 
+I think in SG context the lack of interviews make zbs learning treacherous
+
+Therefore, zbs learning must aim at xref and thick->thin.
+
+? One guy with theoretical zbs (either strong or poor QQ) may be very mediocre joining a new team. It depends on the key skill needed in the team. Is it localSys, design ...? 
+
 --new blogpost?
 sometimes I tell myself "if I commit myself I could do well in a job and move up and stay beyond 2Y." ... Largely romanticizing. It has not happened and unlikely to happen. Key reasons
 
