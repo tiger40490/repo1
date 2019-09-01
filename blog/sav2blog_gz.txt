@@ -16,12 +16,6 @@ Paradox: in US I had real motivation/absorbency/.. to keep up coding drill. But 
 subjective assessment, not an objective yardstick that I failed.
 Grandpa said it is like a publication (or movie) receiving reviews. Some critics like it but some dismiss it.
 
-
---nothing really new here. 
-when a bright new hire is brought into the team he would be benchmarked from Day 1 over the next 6M. Consider Deepak G, Alan Shi, ...
-I'm often not-so-great in terms of localSys ramp-up, GTD etc, but I often put in visible effort
-My interview benchmark result is often extraordinary.
-
 --new: conclusions on my mvea era
 * Not much positive feedback beside 'providing new, different viewpoints'
 * should be able to come back to MS
@@ -43,28 +37,6 @@ Perhaps he has high standard as he didn't praise Rahul either.
 * I had two brave attempts to introduce my QOT innovation
 * My 5.1 Brazil pspc project was the biggest config project to date. I single-handedly I overcame many compilation (gm-install) and startup errors.
 
---new? Until I left GS, I didn't know how it feels to "conquer" a sizable, lucrative tech skill. Such a tech skill represents a specific job market with supply and demand
-
-perl? not sizable not lucrative :( Until 2011, Perl was my only core competency :( How lucky am I now !
-coreJava as defined on WallSt .. was my first conquest. After this conquest I haven been trying to repeat my success story, while many peers stayed in one firm in order to move up.
-SQL? Many interview topics not explored, but now SQL is no longer a sizable job market:(
-MOM? Not sizable
-c++ .. was my 2nd conquest, as experienced in 2017 onwards
-CIV .. was my 3rd conquest. Growing bigger, though I only rate myself B among west coast candidates.
-
---update blogpost on design based@localSys nlg
-nowadays I avoid design confrontation as I can lose my reputation. I got my fingers burnt before, including Macq, GS .. when I cared about my designs.
-
-I think Rahul is different. He put his heart into it ... and cared.
-
---email to XR
-After talking to you and a few friends, now I feel Wall St contract is the fallback career plan for me.
-
-* ibank VP jobs -- I know many people in these roles including our friend Youwei. Looks too stressful.
-* SG jobs -- mostly as stressful as ibank  VP jobs. 
-* web2.0 shops -- I assume the expectation will be too high esp. for older guys like me
-* startups? No idea.
-
 --no blog
 As soon as we start to work towards better salary , we are on a slippery slope. 
 We may feel we are on a reasonable ground, with a reasonable goal, but down the slope there is irrationality, despair, desperation, greed, self-hate, inferiority...
@@ -76,14 +48,6 @@ One of the jolting, awakening (一盆凉水) questions is -- Granted other peopl
 I told many friends that I work hard to prepare for interviews but I am Very selective about where to join. 
 I focus mostly on the salary level in the WallSt contract market, not the perm salaries. 
 This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
-
---new? stay]shape4CIV+QQ till 50
-I would say QQ remains my stronger arm, even though the HFT shops may dismiss it. I don't need to care about them. 
-QQ benefits from thick->thin (and xRef) ... one of the key competitive advantages I could develop through blogging and continuous refresh.
-
-CIV also benefits from blogging and continuous practice ... my competitive advantages. Remember David Okao's question "what is your secret weapon?"
-
-High-end CIV is only needed at top west-coast shops. I think most of the top performers are young but I could stand out among my age group.
 
 --nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
 my time at home is limited:
@@ -98,80 +62,6 @@ My hours in office are scarce :
 * GTD -- camp out if in the mood
 * localSys explore -- for long term productivity etc
 * frequent breaks
---add to blogpost on GS-sg
-In SG, more than half the time I was assessed as a dev lead (or architect) but I don't want to. 
-
-U.S. contract market is better.
-
---new: jvm^c++ as infrastructure
-c/c++ is part of the infrastructure of many new technologies and will last for decades whereas java may not.
-
-JVM is an infrastructure for some new languages and new frameworks like spring, hadoop, 
-
-This doesn't mean there will be enough c++ jobs
-
---QQ=fake;zbs learning=treacherous
-Experts sizing up each other ... is mostly by some form of zbs knowledge (mostly QQ), not needed to GTD
-
-I used to feel my QQ knowledge was not zbs but now I think many interviewers ask zbs questions. zbs is a vague concept. QQ has a well-established range of topics. 
-
-Biggest danger with zbs -- when I spend my precious spare time on zbs not aimed at QQ, I inevitably regret. Without QQ, the learning lacks reinforcement, positive feedback loop and fades from memory.
-
-Therefore, zbs learning must aim at xref and thick->thin.
-
-? One guy with zbs (possibly poor QQ) may be very mediocre in a new team. It depends on the key skill needed in the team. Is it localSys, design ...? I think localSys insight is always required.
-
---brain: anti-aging job
-Chris Ma felt any programming job is intense, never lethargic. I tend to consider some support type of work as coding. Chris felt a relatively easy programming job would be good for my brain. 
-
-Now I feel this view echoes Jiang Ling's view
-
---Chris asked "Have you considered other professions"
-I mentioned teaching; Chinese school for young kids; startup .. but I was not serious not passionate.
-
-In hind sight I basically presented an image as a graying techie interested in coding, esp. low-level coding, and low-level, almost theoretical knowledge. 
---I told Chris my bias towards U.S. job market
-* open-door policy towards graying techies
-* lower stress, for multiple reasons
-* plenty of jobs, at least in tristate area
-* tech jobs are growing and we are in-demand, even at our age. I said we are both lucky. Chris said in the future there will be only IT jobs.
-* my competitiveness among older techies
-* decent contract rate
-
---me as perceived against other candidates at my level
-architect or tech lead or dev lead?
-
---market depth
-US tech salary very high, so even a mediocre tech job pays well above traditional jobs. Dev jobs pays even higher than regular tech jobs.
-
-Gave me sense of security
-
---add to CV:
-had one-on-one discussions with Stroustrup about c++
-
---new: taking up large codebase
-In a few cases, within 3M I was able to "take up" a sizable brown field codebase and become somewhat productive. As I told Kyle, I don't need bottom-up in-depth knowledge to be competent. 
-
-In terms of count of successes taking up sizable brown-field codebase, I am a seasoned contractor, so I scored more than an average old timer in a given system.
-* eg: Guardian -- don't belittle the challenge and complexity
-* eg: mvea c++
-* eg: mtg comm, integrated into a huge codebase
-* eg: StirtRisk personalization -- I made it work and manager was impressed
-* eg: StirtRisk bug fixes on GUI
-* -- the obvious success stories
-* eg: AICE -- huge stored proc + perl
-* eg: Quest app owner
-* eg: error memos
-* eg: RTS
-
---new
-I have grown from a sysAdmin to a dev
-I have grown from web and scripting pro into a c++ pro
-Next, I hope to grow my competence with large codebase
-
-With a large codebase, I tend to focus on the parts I don't understand, regardless that's 20% or 80% of the code I need to read
-
-I can learn to live with that ambiguity.
 
 --new blogpost?
 sometimes I tell myself "if I commit myself I could do well in a job and move up and stay beyond 2Y." ... Largely romanticizing. It has not happened and unlikely to happen. Key reasons

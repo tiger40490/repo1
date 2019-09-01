@@ -1,3 +1,24 @@
+--brain: anti-aging job
+Chris Ma felt any programming job is intense, never lethargic. I tend to consider some support type of work as coding. Chris felt a relatively easy programming job would be good for my brain. 
+
+Now I feel this view echoes Jiang Ling's view
+
+--Chris asked "Have you considered other professions"
+I mentioned teaching; Chinese school for young kids; startup .. but I was not serious not passionate.
+
+In hind sight I basically presented an image as a graying techie interested in coding, esp. low-level coding, and low-level, almost theoretical knowledge. 
+--I told Chris my bias towards U.S. job market
+* open-door policy towards graying techies
+* lower stress, for multiple reasons
+* plenty of jobs, at least in tristate area
+* tech jobs are growing and we are in-demand, even at our age. I said we are both lucky. Chris said in the future there will be only IT jobs.
+* my competitiveness among older techies
+* decent contract rate
+* market depth:
+US tech salary very high, so even a mediocre tech job pays well above traditional jobs. Dev jobs pays even higher than regular tech jobs.
+
+Gave me sense of security
+
 --no
 my record in GS is no bad record any more
 
@@ -9,6 +30,11 @@ In recent years, my focus was on ffree, IV maintenance (contract rate),...
 ... not promotion, or staying long and growing my value-add 
 
 Corporate ambition, stress, competition, serious designs ... threatens to reduce my easy life and give me cance
+
+--nothing really new here. 
+when a bright new hire is brought into the team he would be benchmarked from Day 1 over the next 6M. Consider Deepak G, Alan Shi, ...
+I'm often not-so-great in terms of localSys ramp-up, GTD etc, but I often put in visible effort
+My interview benchmark result is often extraordinary.
 
 --no blog
 I feel that Jack is competent with localSys GTD but weak on c++ and comp science.
