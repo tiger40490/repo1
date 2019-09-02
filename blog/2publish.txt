@@ -1,6 +1,16 @@
+==mobile plans
+all post-paid offer free incoming, so I have to rule out pre-paid
+--Starhub $25 no contract 
+100 min free outgoing
+--singtel $20 12M contract, $5 for CND
+150 min free ougoing
+
+====
+
 --record 
 Gp passed me usd 5k on 1 Sep 2019
 
+To send remittance to megaworld again use the 14-digit number 17400015739104
 --new: jvm^c++ as infrastructure
 c/c++ is part of the infrastructure of many new technologies and will last for decades whereas java may not.
 
@@ -65,7 +75,7 @@ After talking to you and a few friends, now I feel Wall St contract is the fallb
 Until I left GS, I didn't know how it feels to "conquer" a sizable, lucrative tech skill. Such a tech skill represents a specific job market with supply and demand
 
 perl? not sizable not lucrative :( Until 2011, Perl was my only core competency :( How lucky am I now !
-coreJava QQ as defined on WallSt .. was my first conquest. After this conquest I haven been trying to replicate my success story, while many peers stayed in one firm in order to move up.
+coreJava QQ (as defined on WallSt) .. was my first conquest. After this conquest I haven been trying to replicate my success story, while many peers stayed in one firm in order to move up.
 SQL? Many interview topics not explored, but now SQL is no longer a sizable job market:(
 MOM? Not sizable
 sockets ... not so sizable, not yet conquered
