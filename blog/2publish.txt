@@ -1,8 +1,5 @@
-
---todo in SG
-USD cash
-food
-SIM card
+--record 
+Gp gave me usd 5k on 1 Sep 2019
 
 --add to blogpost on GS-sg
 In SG, more than half the time I was assessed as a dev lead (or architect) but I don't want to. 
