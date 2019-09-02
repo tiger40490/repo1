@@ -1,10 +1,6 @@
 --record 
-Gp gave me usd 5k on 1 Sep 2019
+Gp passed me usd 5k on 1 Sep 2019
 
---add to blogpost on GS-sg
-In SG, more than half the time I was assessed as a dev lead (or architect) but I don't want to. 
-
-U.S. contract market is better.
 --new: jvm^c++ as infrastructure
 c/c++ is part of the infrastructure of many new technologies and will last for decades whereas java may not.
 
@@ -25,14 +21,14 @@ I think I can remove some of the recruiters (that I have stopped working with)
 How about some of the ex-colleagues and ex-classmates who I feel don't like me?
 
 --new? stay]shape4CIV+QQ till 50
-I would say QQ remains my stronger arm. I don't need to care about HFT shops. 
+I would say QQ remains my stronger arm. I don't need to care about HFT shops' opinion. 
 QQ benefits from thick->thin (and xRef) ... one of the key competitive advantages I could develop through blogging and continuous refresh.
 
 CIV also benefits from blogging and continuous practice ... my competitive advantages. Remember David Okao's question "what is your secret weapon?"
 
 High-end CIV is only needed at top west-coast shops. I think most of the top performers are young but I could stand out among my age group.
 
---new: Proven GTD is worthless in candidate ranking #JackZ
+--new: Proven GTD: worthless in candidate ranking #JackZ
 I feel that Jack Zhang is competent with localSys GTD but weak on c++ and comp science.
 
 Does he have working knowledge of c++? I assume so. Working knowledge is attainable in a couple of months for a clean language, and up to a year for c++
