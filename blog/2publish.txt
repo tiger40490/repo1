@@ -1,14 +1,14 @@
 ==mobile plans
 all post-paid offer free incoming, so I have to rule out pre-paid
+
 --Starhub $25 no contract 
 100 min free outgoing
---singtel $20 12M contract, $5 for CND
-150 min free ougoing
+$3 for 500 sms
 
 ====
 
 --record 
-Gp passed me usd 5k on 1 Sep 2019
+Gp passed me usd 5k on 1 Sep 2019, converted at 1.3876
 
 To send remittance to megaworld again use the 14-digit number 17400015739104
 --new: jvm^c++ as infrastructure
@@ -25,10 +25,6 @@ See my github demo
 
 First and possibly biggest challenge is -- understand the limitation of traditional solutions
 
---new: linkedin contact pruning
-cost of maintaining a linkedin contact -- hinders my search/browse.
-I think I can remove some of the recruiters (that I have stopped working with)
-How about some of the ex-colleagues and ex-classmates who I feel don't like me?
 
 --new? stay]shape4CIV+QQ till 50
 I would say QQ remains my stronger arm. I don't need to care about HFT shops' opinion. 
