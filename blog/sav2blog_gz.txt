@@ -1,4 +1,8 @@
---sugg: volunteer to take up prod issues selectively. Dig a bit on my own. Aim at connecting the dots and becoming independent with part of the codebase. Avoid "lossy learning"
+--focus during office hours
+reduce casual browsing ... online banking etc. snowball risk.
+also warehouse the curiosity search until some designated defocus time.
+
+--sugg: volunteer to take up prod issues selectively. Dig a bit on my own. Aim at connecting the dots and becoming independent with some part of the codebase.  Avoid "lossy learning"
 
 However, some may say I'm exploring beyond the necessary. I think my learning style is slightly different, so i want to strike a balance
 * some exploration about the localSys aimed at long term GTD
