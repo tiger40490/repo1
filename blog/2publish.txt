@@ -1,8 +1,0 @@
-
---record 
-Gp passed me usd 5k on 1 Sep 2019, converted at 1.3876
-
-To send remittance to megaworld again use the 14-digit number 17400015739104
-
---add to CV:
-had one-on-one discussions with Stroustrup about c++
