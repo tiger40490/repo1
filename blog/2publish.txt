@@ -1,3 +1,4 @@
+
 --record 
 Gp passed me usd 5k on 1 Sep 2019, converted at 1.3876
 
@@ -15,7 +16,6 @@ had one-on-one discussions with Stroustrup about c++
 See my github demo
 
 First and possibly biggest challenge is -- understand the limitation of traditional solutions
-
 
 --new? stay]shape4CIV+QQ till 50
 I would say QQ remains my stronger arm. I don't need to care about HFT shops' opinion. 
