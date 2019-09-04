@@ -1,4 +1,8 @@
---new: conclusions on my mvea era
+--more exercise to increase vitality
+start small. no need to go for the "most important" 
+
+--new: conclusions on my mvea era # i keep it in gitblog for commute. Not ready for publish
+
 * Not much positive feedback beside 'providing new, different viewpoints', but Josh doesn't give positive feedback anyway
 * should be able to come back to MS
 * Josh might remember Victor as more suitable for greenfield projects.
