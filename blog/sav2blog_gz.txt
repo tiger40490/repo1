@@ -31,19 +31,6 @@ I told many friends that I work hard to prepare for interviews but I am Very sel
 I focus mostly on the salary level in the WallSt contract market, not the perm salaries. 
 This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
 
---nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
-my time at home is limited:
-* household chores -- leave to maid if possible
-* time for family esp. boy
-* non-tech blogging+emailing is a huge contender
-* tech xx including QQ, zbs, coding ... i would probably give up.
-* GTD (wfh) -- capture the mood if possible
-
-My hours in office are scarce :
-* tech xx including QQ -- need to cut further. Might be tough and need optimization
-* GTD -- camp out if in the mood
-* localSys explore -- for long term productivity etc
-* frequent breaks
 
 --QQ=fake;zbs_learning=treacherous
 I used to feel my QQ knowledge was not zbs but now I think many interviewers ask zbs questions. zbs is a vague concept. QQ has a well-established range of topics. Experts sizing up each other ... is mostly QQ
