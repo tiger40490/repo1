@@ -1,12 +1,13 @@
 --
-unlike many new joiners, I don't have impostor's syndrome. I know my weaknesses and strengths
+unlike many new joiners, I don't have serious impostor's syndrome. I am open about my weaknesses and strengths.
 
 --what i look forward to
 first earn the respect...
 Am not really ambitious, so I will take more time off with family, possibly overseas trip to Penang, Thailand, Taiwan
+
 --focus during office hours
 reduce casual browsing ... online banking etc. snowball risk.
-also warehouse the curiosity search until some designated defocus time.
+also warehouse the curiosity searching until some designated defocus time.
 
 --sugg: volunteer to take up prod issues selectively. Dig a bit on my own. Aim at connecting the dots and becoming independent with some part of the codebase.  Avoid "lossy learning"
 
@@ -16,12 +17,12 @@ However, some may say I'm exploring beyond the necessary. I think my learning st
 
 I think the income-orientation will be bad for my motivation. I need some intrinsic motivation.
 --update blogpost on coding drill in SG
-Paradox: in US I had real motivation/absorbency/.. to keep up coding drill. But i don't feel I will have even 5% of that in SG.
+Paradox: in US I had real motivation/absorbency/.. to keep up coding drill. But in SG I don't feel I will have even 5% of that.
 
---no blog
+--no blog but deep impact
 As soon as we start to work towards better salary , we are on a slippery slope. 
-We may feel we are on a reasonable ground, with a reasonable goal, but down the slope there is irrationality, despair, desperation, greed, self-hate, inferiority...
-we tend to keep up with the Jones's. Many people compare with the wrong peer group ..
+We may feel we are on a reasonable ground, with a reasonable goal, but down the slope there is irrationality, desperation, greed, self-hate, inferiority...
+we tend to keep up with the Jones's. Many people compare with the wrong peer group .. including the web2.0 shops
 We tend to neglect many valuable things that at end of our lives we would recognize as more important than the rat race
 
 One of the jolting, awakening (一盆凉水) questions is -- Granted other people earn a lot more, but i don't need that much money to live a comfortable life, so why do I feel inadequate so often?
@@ -35,7 +36,7 @@ my time at home is limited:
 * household chores -- leave to maid if possible
 * time for family esp. boy
 * non-tech blogging+emailing is a huge contender
-* tech xx including QQ, zbs, coding
+* tech xx including QQ, zbs, coding ... i would probably give up.
 * GTD (wfh) -- capture the mood if possible
 
 My hours in office are scarce :
