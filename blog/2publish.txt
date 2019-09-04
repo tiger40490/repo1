@@ -1,23 +1,2 @@
 NO NEED TO REDUCE SIZE OF GIT-BLOG FILES
 
---new: conclusions on my mvea era # i keep it in gitblog for commute. Not ready for publish
-
-* Not much positive feedback beside 'providing new, different viewpoints', but Josh doesn't give positive feedback anyway
-* should be able to come back to MS
-* Josh might remember Victor as more suitable for greenfield projects.
-* I think Josh liked me as a person and understands my priorities
-* I didn't get the so-called "big picture" that Josh probably valued. Therefore I was unable to "support the floor" when team is out. The last time I was able to happened in GS.
-* A few times I worked hard and made personal sacrifices. Josh noticed.
-* In the final month, I see myself as fairly efficient to wrap up my final projects 
-* Q: was the mvea c++ codebase too big for me? No, given my projects are always localized.
-
-I had a few proud deliveries where I had some impetus to capture the momentum (camp out). 
-I think colleagues were impressed to some extent even though other people probably achieved more. Well, I don't need to compare with those and feel belittled. 
-This analysis revealed that Josh is not easily impressed. 
-Perhaps he has high standard as he didn't praise Rahul either.
-
-* I identified two stateless calc engines in pspc. Seeing the elegant simplicity in the design, I quickly zoom in, stepped over and documented the internal logic and replicated it in spreadsheet.
-* my pspc avg price sheet successfully replicated a prod "issue", shedding light into a hitherto murky part of the codebase
-* I quickly figure out the serialization root cause of the outage
-* I had two brave attempts to introduce my QOT innovation
-* My 5.1 Brazil pspc project was the biggest config project to date. I single-handedly I overcame many compilation (gm-install) and startup errors.
