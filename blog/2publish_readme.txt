@@ -1,3 +1,5 @@
+NO NEED TO REDUCE SIZE OF GIT-BLOG FILES
+
 !! ~~~~ before posting to blog, ensure this is worthwhile ~~~~
 there's a cost to posting, adjusting , back dating, tagging ...
 
