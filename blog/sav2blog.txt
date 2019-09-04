@@ -6,14 +6,21 @@ stressor: insufficient outgoing minutes... cost overrun.. consider buying more m
 stressor: data overusage. I added mobile data limit
 stressor: phone + laptop battery draining
 stressor: watch battery. I chose the reliable service shop
-stressor: the HY fund exposure is still too high.
-destressor: blogging as a tool for focus, clarification, zoom-in
+stressor: the HY exposure is still too high.
+[*] destressor: blogging as a tool for focus, clarification, zoom-in
 destressor: talk to gp
 destressor: cancelled Everyday ccard
+destressor: cancelled multiple oc accounts
 destressor: converted USD 5k, as 5k at home is a stressor
 destressor: postpone SGD expense tracking
 destressor: math -- postpone everything. Let it be
 stressor: unpacking. luckily I did most of it on 2 Sep
+[*] destressor: early sleep
+destressor: short commute, with git-blogging
+destresssor self-esteem: diet control
+
+[*=effective]
+
 --check Uber charge
 postpone by 2 weeks
 
