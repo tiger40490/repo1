@@ -7,6 +7,7 @@ Now I feel this view echoes Jiang Ling's view
 I mentioned teaching; Chinese school for young kids; startup .. but I was not serious not passionate.
 
 In hind sight I basically presented an image as a graying techie interested in coding, esp. low-level coding, and low-level, almost theoretical knowledge. 
+
 --I told Chris my bias towards U.S. job market
 * open-door policy towards graying techies
 * lower stress, for multiple reasons
@@ -25,8 +26,6 @@ my record in GS is no bad record any more
 --no
 Rahul is ambitious , same as Sunil, Ashish, Yang .... I'm not. I just want to do a professional job and stay at a level I'm comfortable
 
---keep 646 549 3446 at DBS, FSM to reduce office distraction
-
 --compared to Rahul putting his heart into a job..
 In recent years, my focus was on ffree, IV maintenance (contract rate),... 
 ... not promotion, or staying long and growing my value-add 
@@ -37,6 +36,7 @@ Corporate ambition, stress, competition, serious designs ... threatens to reduce
 when a bright new hire is brought into the team he would be benchmarked from Day 1 over the next 6M. Consider Deepak G, Alan Shi, ...
 I'm often not-so-great in terms of localSys ramp-up, GTD etc, but I often put in visible effort
 In contrast, My interview benchmark result is often extraordinary.
+
 --Retire at Google?
 CSDoctor thinks it's possible but I doubt it
 However CSDoctor questions himself "To present myself as a team lead or architect, what do I have to offer them?"
@@ -65,22 +65,6 @@ JC has more suitable jobs than SG has including start-up.
 Singapore non-finance companies simply can't afford because the main street dev salary is much lower than U.S.
 
 The wall st salary level is largely influenced by west coast and also main street dev salary. No such influence in SG
-
---no blog
-I told Rahul that I need to be independent to capture the engagement, but that's short term.
-
-Over long term, what do I need to survive and thrive?
-* sustained focus on localSys
-* respect/appreciation
-* not boxed into some unfavorable technology like high-churn 
-
---fuxi
-Like Black developers .. As an older Singaporean developer I also have higher visibility.
-IFF I apply myself (localSys) and establish a foundation at a new site as Piroz does, I think I could survive and possibly show my hidden strengths.
-
-However, at Stirt I was unable to outshine other guys.
-
-At Macq, I was unable to impress bosses.
 
 --fuxi
 the IV successes define me.
