@@ -1,8 +1,7 @@
 --
 unlike many new joiners, I don't have serious impostor's syndrome. I am open about my weaknesses and strengths.
 --
-I want to be seen as dedicated, motivated, ..
-
+I want to be seen as dedicated, motivated, committed ..
 --
 now i feel my age helps me lower their expectations, at least in my own opinion.
 --
@@ -68,7 +67,7 @@ I told many friends that I work hard to prepare for interviews but I am Very sel
 I focus mostly on the salary level in the WallSt contract market, not the perm salaries. 
 This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
 
---c++ low-end jobs are scarce but high-end jobs show robust demand. I think you can see those jobs across many tech companies.
+--c++ low-end jobs are becoming scarce but high-end jobs show robust demand. I think you can see those jobs across many tech companies.
 
 So only high-end developers are needed. The way they select a candidates is ... QQ. I think I have the critical mass now.
 

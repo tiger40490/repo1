@@ -1,8 +1,12 @@
---microsoft acquired Momo project and produced dotnet core to run on non-windows platforms
+--microsoft acquired Mono project and produced dotnet core to run on non-windows platforms
 
 --Azul jvm has optimized GC
 --java community support is better than c# or c++
 --cloud: golang and java are the most popular languages
 
---writing a simple smart pointer is a good xx xp
+--bigData: java is dominant
+--ML (data science): python and c+++ are the top 2 languages
+
+--github:
+writing and experimenting a simple semi-smart pointer is a good xx xp
 Read safeC++
