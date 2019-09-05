@@ -8,39 +8,20 @@ stressor: phone + laptop battery draining
 stressor: watch battery. I chose the reliable service shop
 stressor: the HY exposure is still too high.
 [*] destressor: blogging as a tool for focus, clarification, zoom-in
-destressor: talk to gp
-destressor: cancelled Everyday ccard
-destressor: cancelled multiple oc accounts
+destressor/declutter: cancelled Everyday ccard
+destressor/declutter: cancelled multiple oc accounts
 destressor: converted USD 5k, as 5k at home is a stressor
 destressor: postpone SGD expense tracking
 destressor: math -- postpone everything. Let it be
 stressor: unpacking. luckily I did most of it on 2 Sep
 [*] destressor: early sleep
 destressor: short commute, with git-blogging
-destresssor self-esteem: diet control
+stressor: ikea lamp: luckily i used it enough times. Accept that we have lost that part.
+stressor: boy's math .. attitude, habit, effort, 
 
 [*=effective]
 
---check Uber charge
-postpone by 2 weeks
-
---fuxi:
-ikea lamp: luckily i used it enough times. Accept that we have lost that part.
-
---no blog: unbroken.. a few nice items
-wrist watch
-etone callback
-intimacy
-
---Rahul put his heart into the job. I think my sister does that too.
-My son might as well. I need to appreciate that.
-I put my heart into theoretical learning, which I want to show my son 
-
---no blog
-enjoying the airport lounge food, I feel my kids would feel .... privileged?
-But I don't want them to feel inferior when they don't have it. So perhaps the feeling of privilege is a double-edged sword, to be managed.
-
-Perhaps we can't remove the sense of privilege or inferiority/deprivation
+--consider working in BJ home for a week in Sep 2020
 
 --some lux items highlighting diverging personal priorities
 Japan vacation with kids -- is probably the most visible lux items. I may need to say No. Consider postponing it to my 60's when they grow up.
@@ -48,7 +29,12 @@ top schools (+school district) -- fraction of a million. Simply beyond my means
 
 full-day interview -- costs me a day of billing, but no more than 3 days a year
 
---Over the 2019 final days in the U.S. i felt very lucky
+--no blog: unbroken.. a few nice items
+wrist watch
+etone callback
+intimacy
+
+--nothing new: Over the 2019 final days in the U.S. i felt very lucky
 * surprise improvement -- C++ critical mass while coreJava remains a competency
 * surprise improvement -- CIV is now becoming my 2nd competitive advantage after QQ
 * [unbroken] health + vitality 
@@ -74,7 +60,18 @@ Jiang Ling felt nowadays there are many ways to do coding job at home.
 
 I feel teaching might be good for me.
 
---fuxi
+--no
+Rahul put his heart into the job. I think my sister does that too.
+My son might as well. I need to appreciate that.
+I put my heart into theoretical learning, which I want to show my son 
+
+--fuxi done 
+enjoying the airport lounge food, I feel my kids would feel .... privileged?
+But I don't want them to feel inferior when they don't have it. So perhaps the feeling of privilege is a double-edged sword, to be managed.
+
+Perhaps we can't remove the sense of privilege or inferiority/deprivation
+
+--fuxi x 3
 perhaps I have an adjustment problem with negative feedback. 
 The problem is my reaction to the feedback. 
 I feel my sister and my son may be more effective. 
@@ -99,30 +96,6 @@ eg@engage: weekend assignments
 
 --intrinsic mtv is rather rare in most commercial domains
 Arts (including fine arts..) are more likely. Personalized service (like nursing, counseling) also possible
-
---no blog
-git-blogging is not perfect. print-out is more accessible. Lower friction.
-
-4 days into a week-long vacation, I start to feel the effect of deprivation/starvation of blogging. It is felt like a personal need similar to physical exercise, recreation.
-Interesting analogy -- starch. How many days can you go without starch before feeling deprived? 
-
-I used blog for tech learning, introspection/reflection, diet management, etc. Deprivation means time availability (supply) falling from 3H to 30 minutes. I could tolerate a cut for 3 days only.
-
-Q: how do I get more quiet time while living with family?  Note I need more quiet time than other fathers. I suffer more from the family distractions. 
-
-I need quiet time for thinking/blogging about
-* investment
-* wellness planning and management
-* many many non-trivial decisions
-* managing other stressful items
-
-Depending on the specific task on my plate, I will find ... "alternatives" since quiet time is simply insufficient compared to my NY days.
-
-Sugg: stay in office longer, better in early morning but in the evening by default 
-sugg: Friday evening is golden. Other parts of the weekend can also be valuable
-Sugg: take half-day leaves to create half-day quiet periods at home. This feature isn't available to contractor
-Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
-Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
 
 --fuxi:
 After reading A.Brooks, I assumed that grandpa's health would suffer if he loses relevance after retirement. 
