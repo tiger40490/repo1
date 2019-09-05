@@ -68,6 +68,12 @@ I told many friends that I work hard to prepare for interviews but I am Very sel
 I focus mostly on the salary level in the WallSt contract market, not the perm salaries. 
 This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
 
+--c++ low-end jobs are scarce but high-end jobs show robust demand. I think you can see those jobs across many tech companies.
+
+So only high-end developers are needed. The way they select a candidates is ... QQ. I think I have the critical mass now.
+
+java offers a large number of easier jobs, but they often pay reasonably well.
+
 --no blog
 I told Rahul that I need to be independent to capture the engagement, but that's short term.
 
