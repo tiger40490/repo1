@@ -4,6 +4,14 @@
 [L=leetcode]
 [o=original, not discussed widely]
 [v=easy to verify]
+==Q (google): auto-correct. As user types a word, suggest the closes match from a dictionary. "Edit distance" is defined as per normal. If multiple words are equally close to the user input, then use the "hit count" to break the tie.
+
+==Q: two players on a given simple k-ary tree. Each player takes a node in turn. When it's my turn, I can only take a node connected to my existing nodes.  Implement 
+
+Node * bestFirstNodeOfPlayer2(Node * rootOfFreeTree, Node * firstNodeOfPlayer1)
+
+pre-process the nodes and compute some score for each node
+
 ==Q(bbg onsite): given a float array like 1, 2, 3, 41,42,44, 211,222,233 being the empId, age, weight of N employees. reshuffle it to an array of sections, where each section describes one person. The number of attributes is given at runtime. Do it in-place i.e. O(1) space. 
 
 first and last elements stay unchanged, but all other elements must move home. For each element, I can compute newHome(oldHome). Once I know the new home, i move in there and evict that element. Now compute newHome(oldHome). 
