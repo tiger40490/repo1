@@ -1,4 +1,6 @@
---
+-- perhaps the big picture insight (Josh, Rahul) is equally imp as the local localSys, but i still feel figure-out speed is my real weakness.
+
+-- self-img
 I want to be seen as dedicated, motivated, committed ..
 but I want to FEEL self-esteem regardless of GTD speed. 
 To that end, Macq experience was a defining, watershed event, when I did my best but the standard was too high.
