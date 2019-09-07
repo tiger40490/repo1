@@ -45,6 +45,5 @@ Sugg: take half-day leaves to create half-day quiet periods at home. This featur
 Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
 Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
 
-
 ==This file
 t-cost mgmt, which often requires $$ budgeting
