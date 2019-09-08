@@ -20,4 +20,4 @@ DP blaster
 ====my rvr experiments
 ====my enable_if_t experiments
 ====static | inline free func definition is exempted from ODR?
-====semi-smart pointer in safeC++
+====semi-smart pointer in safeC++ ? See impl.txt
