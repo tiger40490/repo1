@@ -1,4 +1,13 @@
--- perhaps the big picture insight (Josh, Rahul) is equally imp as the local localSys, but i still feel figure-out speed is my real weakness.
+--
+Q: how important is refresh to my CIV performance?
+Q: how important is continuous coding drill?
+Q: how important is refresh to my c++ critical mass?
+
+ideally, i would feel more self-esteem and self-mastery if I can continue my coding drill at 1H a week 
+
+--new?
+[jolt]
+perhaps the big picture insight (Josh, Rahul) is equally imp as the local localSys, but i still feel figure-out speed is my real weakness.
 
 -- self-img
 I want to be seen as dedicated, motivated, committed ..

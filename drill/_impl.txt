@@ -42,3 +42,4 @@ when both pointers stopped, swap them, then unfreeze both.
 Now list is partitioned into two halves. (I can also use a random pivot to partition.)
 
 Now divide and conquer. Total logN scans. However how do I remember the anchor positions? 
+====semi-smart pointer, based on safeC++ 

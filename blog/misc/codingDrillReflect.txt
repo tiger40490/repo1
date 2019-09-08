@@ -13,18 +13,6 @@ I think the common theme among these factors is -- salary motivation dilutes man
 
 I'm not doing this drill just for self-improvement. I do it to keep myself relevant to the economy.
 
---better performance than Indeed onsite
-* coding rounds -- Eric gave positive feedback to confirm my success. No miscommunication as happened in the VersionedDict. 2nd Indeed interviewers failed me even though I "completed" it. Pregnant interviewer may follow suit.
-* not as hard as the 2011 FB interview -- regex problem
-* data structure is fundamental to all the problems today.
-* SDI -- was still my weakness but I think I did slightly better this time
-* Career round -- played to my advantage as I have multiple real war stories. I didn't prepare much. The stories just came out raw and hopefully authentic
-* the mini coding rounds -- played to my advantage as I reacted fast, thanks to python, my leetcode practice ...
-
---Today I feel getting much closer to passing. Now I feel One interview is all it takes to enter a new world
-* higher salary than HFT
-* possibly more green field
-* possibly more time to research, not as pressed as in ibanks
 
 --
 I still want to practice on the harder problems, as they do show up in some interviews.
