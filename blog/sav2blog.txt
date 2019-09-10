@@ -1,7 +1,3 @@
---update blogpost on git blogging
-One of the heaviest tcosts in blogging is searching for related blog posts (and updating one of more of them)
-git-blogging let's me work on a new content gradually, and only put it on the blog after 10 revisions in git. At that time, it could be a new blogpost or an update to one old blogpost.
-
 --stress profile 2 Sep
 Stressor #1 new job ramp up during first month
 stressor #2 BGC payment
