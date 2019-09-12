@@ -1,15 +1,11 @@
 -- port liberty is inferior to newport in terms of connectivity ...
 
--- this weekend need to transfer the monthly allowances to wife
-
 -- I have no time for frequent exp tracking but need to feel the outflow...Avoid card payment. 
 However, need to carry less cash.... reduce mental load. Leave $50 in office drawer and $100 in home drawer, so carry $100 until I get used to it
 
---Q: my predicted burn rate with maid? 7k
+--Q: our predicted burn rate with maid? 7k
 Q: is it even constructive to set a target?
-I usually need (and benefit from) certainty, control, clarity ... --> assurance and confidence, but it can take a lot of effort (I ended up doing it twice a year) and generate some stress.
-
---rename this to ... cashflow.txt?
+I usually need (and benefit from) certainty, control, clarity ... --> assurance and confidence, but it can take a lot of effort (I ended up doing it only twice a year) and generate some stress.
 
 --Jill Lim? Leave it as i can't do nothing.
 
@@ -22,12 +18,9 @@ After we relocate to U.S. we will have some SGD reserve, growing thanks to HDB r
 * put my surplus SGD into CPF-life at age 55.
 
 Until the relocation, I think my USD would be in surplus. 
+However, any property big buy is likely in USD, but unlikely in SG
 
-Any property big buy is likely in USD, but unlikely in SG 
-
-However, when USD is on the rise, I have a chance to gain "access" to it by converting to SGD. Worst case it goes up further and never comes down, so i would invest into cpf-life
-
-Leaving USD bank notes at home is a constant worry and stressor
+When USD is on the rise, I have a chance to gain "access" to it by converting to SGD. Worst case it goes up further and never comes down
 
 --fuxi: ocbc 
 young saver's account will have min balance only when meimei reaches 18
@@ -41,7 +34,7 @@ I will consider
 * lower-paying job with more satisfaction
 * more time with grandparents
 
---new
+--new blogpost
 Many fellow parents (plan to) spend so much on their kids because .. they want-to not pressured-to. Chinese parents feel good about martyrdom -- saving up and spending it on kids education. 
 
 Labor of love... However, Some (33 to 50%) of my peers appear to be under pressure to spend such huge amounts, due to peer pressure and societal expectation like a "norm".

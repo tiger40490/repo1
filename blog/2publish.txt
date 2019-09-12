@@ -1,1 +1,1 @@
--- touchpad blocker is essential. Without it, the runaway touchpad is a show stopper
+-- touchpad blocker is essential. Without it, the runaway touchpad is a fatal design flaw
