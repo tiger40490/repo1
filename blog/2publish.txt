@@ -1,1 +1,3 @@
--- touchpad blocker is essential. Without it, the runaway touchpad is a fatal design flaw
+--check the two payment amounts went into the same account
+
+-- touchpad blocker is essential. Without it, the runaway touchpad is an absolutely fatal design flaw
