@@ -5,6 +5,12 @@ If my collection were to grow, then I would need DAM.
 
 I feel low latency generally avoid DAM. If DAM required, then pre-allocation is preferred.
 
+--GS-HK interviewer said with an array-based order book he could achieve 1 million updates per second.
+
+This is in response to my claim that Rebus is 700K MPS.
+
+Martin Thompson basically said if the software is good enough for the requirement, then no need to go further.
+
 --Q: perf: is heap similar to stack
 I quote Martin out of context -- After allocation, "the speed of using the heap is just like the stack".
 
