@@ -6,31 +6,6 @@ The consumerism has highjacked this phrase, but to me, most finer things in life
 * trips to natural scenes
 * swimming pool. Jogging in the park is free, but I prefer a proper stadium.
 
---stress profile 2 Sep
-Stressor #1 new job ramp up during first month
-stressor #2 BGC payment
-stressor #3 satisfying sex. Not a destressor ... why? I seem to take it as a basic need but many people don't have it and still feel OK
-stressor: insufficient outgoing minutes... cost overrun.. consider buying more minutes just to contain the stress
-stressor: data overusage. I added mobile data limit
-stressor: phone + laptop battery draining
-stressor: watch battery. I chose the reliable service shop
-stressor: the HY exposure is still too high.
-[*] destressor: blogging as a tool for focus, clarification, zoom-in
-destressor/declutter: cancelled Everyday ccard
-destressor/declutter: cancelled multiple oc accounts
-destressor: converted USD 5k, as 5k at home is a stressor
-destressor: postpone SGD expense tracking
-destressor: math -- postpone everything. Let it be
-stressor: unpacking. luckily I did most of it on 2 Sep
-[*] destressor: early sleep
-destressor: short commute, with git-blogging
-stressor: ikea lamp: luckily i used it enough times. Accept that we have lost that part.
-stressor: boy's math .. attitude, habit, effort, 
-
-[*=effective]
-
---consider working in BJ home for a week in Sep 2020
-
 --new: start discarding old stuff for emigration
 Good to start discarding things early to spread out the mental load
 * eletronics
@@ -55,6 +30,31 @@ wrist watch
 body scale
 etone callback
 intimacy
+
+--stress profile 2 Sep
+Stressor #1 new job ramp up during first month
+stressor #2 BGC payment
+stressor #3 satisfying sex. Not a destressor ... why? I seem to take it as a basic need but many people don't have it and still feel OK
+stressor: insufficient outgoing minutes... cost overrun.. consider buying more minutes just to contain the stress
+stressor: data overusage. I added mobile data limit
+stressor: phone + laptop battery draining
+stressor: watch battery. I chose the reliable service shop
+stressor: the HY exposure is still too high.
+[*] destressor: blogging as a tool for focus, clarification, zoom-in
+destressor/declutter: cancelled Everyday ccard
+destressor/declutter: cancelled multiple oc accounts
+destressor: converted USD 5k, as 5k at home is a stressor
+destressor: postpone SGD expense tracking
+destressor: math -- postpone everything. Let it be
+stressor: unpacking. luckily I did most of it on 2 Sep
+[*] destressor: early sleep
+destressor: short commute, with git-blogging
+stressor: ikea lamp: luckily i used it enough times. Accept that we have lost that part.
+stressor: boy's math .. attitude, habit, effort, 
+
+[*=effective]
+
+--consider working in BJ home for a week in Sep 2020
 
 --nothing new: Over the 2019 final days in the U.S. i felt very lucky
 * surprise improvement -- C++ critical mass while coreJava remains a competency
