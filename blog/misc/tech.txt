@@ -1,3 +1,10 @@
+--array is the most important data structure
+C supports only array (horizontal) and struct (vertical). I feel most standard libraries across languages are designed based on the same. Array + graph are about the only data structures in those libraries and in CIV.
+
+For comp science research, there's more energy focused on array than any other data structure.
+
+Array (among various data structures) is the real focus of micro tuning and hardware optimizations.
+
 --microsoft acquired Mono project and produced dotnet core to run on non-windows platforms
 
 --Azul jvm has optimized GC
