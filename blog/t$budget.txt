@@ -11,14 +11,6 @@ This quiet time is often inferior to other quiet times
 
 I feel it's much better to sleep early and get up early. For now we can ignore the health benefits and focus on quiet time.
 
---this hibernation:
-less time (much less) on boy's academics
-less time on personal investment + insurance. Aggressively cut back
-less time (even less) meeting friends
-more time in office
-family outings must count
-:) less blogging on time-management
-
 --focus during office hours
 reduce casual browsing ... online banking etc. snowball risk.
 also warehouse the curiosity searching until some designated defocus time.
@@ -37,6 +29,14 @@ My hours in office are scarce :
 * GTD -- camp out if in the mood
 * localSys explore -- for long term productivity etc
 * frequent breaks
+
+--new: this hibernation=unlike last SG phase
+less time (much less) on boy's academics
+less time on personal investment + insurance. cutting back aggressively.
+less time (even less than before) meeting friends
+more time in office
+family outings must count
+:) less blogging on time-management
 
 --no blog
 git-blogging is not perfect. print-out is more accessible. Lower friction.
