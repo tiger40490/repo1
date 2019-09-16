@@ -6,6 +6,10 @@ Also an entry barrier. Yet young people can take it up if they are determined.
 
 Similarly, yoga is hard for most people but some individuals are determined and can overcome the initial hump (6-24M) and find joy and reward
 
+In my early days with c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ...
+
+Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
+
 --low latency: avoid dynamic data structures
 In my first programing job, I used C without malloc, because I used only array + struct. 
 
