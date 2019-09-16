@@ -1,3 +1,11 @@
+-- one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
+Part of the ecosystem
+Too complicated compared to newer languages like java. The dynamic scripting languages are even simpler
+
+Also an entry barrier. Yet young people can take it up if they are determined. 
+
+Similarly, yoga is hard for most people but some individuals are determined and can overcome the initial hump (6-24M) and find joy and reward
+
 --low latency: avoid dynamic data structures
 In my first programing job, I used C without malloc, because I used only array + struct. 
 
