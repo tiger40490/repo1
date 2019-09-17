@@ -1,3 +1,46 @@
+--fuxi
+I told Rahul that I need to be independent to capture the engagement, but that's short term.
+
+Over long term, what do I need to survive and thrive?
+* sustained focus on localSys
+* respect/appreciation
+* not boxed into some unfavorable technology like high-churn 
+
+--Retirement
+Jiang Ling felt programming till 70 is no problem. Demand is not such an obstacle. 
+Jiang Ling felt nowadays there are many ways to do coding job at home.
+
+I feel teaching might be good for me.
+
+-- self-img
+I want to be seen as dedicated, motivated, committed ..
+but I want to FEEL self-esteem regardless of GTD speed. 
+To that end, Macq experience was a defining, watershed event, when I did my best but the standard was too high. I ought to feel self-esteem.
+
+i feel good about my focus and my strength to resist the temptations. I hope this becomes a positive feedback loop of respect/confidence/self-esteem even without faster progress on projects
+
+I think bosses like Josh would notice the effort even if without impressive progress.
+
+--fuxi
+Q: how important is continuous coding drill?
+Q: how important is refresh to my CIV performance?
+Q: how important is refresh to my c++ critical mass?
+
+ideally, i would feel more self-esteem and self-mastery if I can continue my coding drill at 1H a week. However, now I feel localSys and project progress is more important to my self-esteem.
+
+--no blog but deep impact
+As soon as we start to work towards better salary , we are on a slippery slope. 
+We may feel we are on a reasonable ground, with a reasonable goal, but down the slope there is irrationality, desperation, greed, self-hate, inferiority...
+we tend to keep up with the Jones's. Many people compare with the wrong peer group .. including the web2.0 shops
+We tend to neglect many valuable things that at end of our lives we would recognize as more important than the rat race
+
+One of the jolting, awakening (一盆凉水) questions is - Granted other people earn a lot more, but i don't need that much money to live a comfortable life, so why do I feel inadequate so often?
+
+I told many friends that I work hard to prepare for interviews but I am Very selective about where to join. 
+I focus mostly on the salary level in the WallSt contract market, not the perm salaries. 
+This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
+
+If I were in a high-cost location where typical household burn rate is 15k, then I would be under pressure to earn more just to keep up.
 
 --fuxi
 Like Black developers .. As an older Singaporean developer I also have higher visibility.

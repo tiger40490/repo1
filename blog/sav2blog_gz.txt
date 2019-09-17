@@ -1,3 +1,4 @@
+-- no prod support emails:)
 
 --new: expectation@older techie: big problem with SG 
 On wall st, older techies are accepted as nothing special. 
@@ -6,33 +7,9 @@ In SG, I am usually viewed as a senior leadership candidate.
 
 This is one of the fundamental fault lines in my SG career path.
 
---new: using vi in gitbash 
-can prolong my professional life.
-comparable to standing desk .. not necessary, but trains the system. Gives me (albeit slowly growing) confidence
-comparable to barefoot running
-comparable to mental math
-it gives me (real) advantage over younger programmers
-be realistic and slowly increase the usage. 
-
---
-Q: how important is continuous coding drill?
-Q: how important is refresh to my CIV performance?
-Q: how important is refresh to my c++ critical mass?
-
-ideally, i would feel more self-esteem and self-mastery if I can continue my coding drill at 1H a week 
-
 --new?
 [jolt]
 perhaps the big picture insight (Josh, Rahul) is equally imp as the Local localSys, but i still feel figure-out speed is my real weakness.
-
--- self-img
-I want to be seen as dedicated, motivated, committed ..
-but I want to FEEL self-esteem regardless of GTD speed. 
-To that end, Macq experience was a defining, watershed event, when I did my best but the standard was too high. I ought to feel self-esteem.
-
-i feel good about my focus and my strength to resist the temptations. I hope this becomes a positive feedback loop of respect/confidence/self-esteem even without faster progress on projects
-
-I think bosses like Josh would notice the effort even if without impressive progress.
 
 ---- 3deeper mtv2work4more$ after basic ffree
 * light-duty, semi-retirement jobs providing more free time (mostly for self-learning, blogging). This is indeed a $-motivation because with more financial resources, I can afford to take such jobs at lower pay. In fact, I did pursue this route in my 2019 SG job search.
@@ -51,36 +28,3 @@ I think bosses like Josh would notice the effort even if without impressive prog
 first earn the respect...
 Am not really ambitious, so I will take more time off with family, possibly overseas trip to Penang, Thailand, Taiwan
 ----
---sugg: volunteer to take up prod issues selectively. Dig a bit on my own. Aim at connecting the dots and becoming independent with some part of the codebase.  Avoid "lossy learning"
-
-However, some may say I'm exploring beyond the necessary. I think my learning style is slightly different, so i want to strike a balance
-* some exploration about the localSys aimed at long term GTD
-* not too much time wasted.
-
---no blog but deep impact
-As soon as we start to work towards better salary , we are on a slippery slope. 
-We may feel we are on a reasonable ground, with a reasonable goal, but down the slope there is irrationality, desperation, greed, self-hate, inferiority...
-we tend to keep up with the Jones's. Many people compare with the wrong peer group .. including the web2.0 shops
-We tend to neglect many valuable things that at end of our lives we would recognize as more important than the rat race
-
-One of the jolting, awakening (一盆凉水) questions is - Granted other people earn a lot more, but i don't need that much money to live a comfortable life, so why do I feel inadequate so often?
-
-I told many friends that I work hard to prepare for interviews but I am Very selective about where to join. 
-I focus mostly on the salary level in the WallSt contract market, not the perm salaries. 
-This kind of attitude is one small step towards a more rational, more pragmatic perception of the rat race
-
-If I were in a high-cost location where typical household burn rate is 15k, then I would be under pressure to earn more just to keep up.
-
---no blog
-I told Rahul that I need to be independent to capture the engagement, but that's short term.
-
-Over long term, what do I need to survive and thrive?
-* sustained focus on localSys
-* respect/appreciation
-* not boxed into some unfavorable technology like high-churn 
-
---Retirement
-Jiang Ling felt programming till 70 is no problem. Demand is not such an obstacle. 
-Jiang Ling felt nowadays there are many ways to do coding job at home.
-
-I feel teaching might be good for me.

@@ -23,6 +23,14 @@ However, any property big buy is likely in USD, but unlikely in SG
 
 When USD is on the rise, I have a chance to gain "access" to it by converting to SGD. Worst case it goes up further and never comes down
 
+--new: using vi in gitbash 
+can prolong my professional life.
+comparable to standing desk .. not necessary, but trains the system. Gives me (albeit slowly growing) confidence
+comparable to barefoot jogging
+comparable to mental math
+it gives me (real) advantage over younger programmers
+be realistic and slowly increase the usage. 
+
 --new: notepad++ in-place sorting
 If case-sensitive, the best way is Edit->LineOperations
 
