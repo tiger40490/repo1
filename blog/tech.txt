@@ -46,7 +46,3 @@ Array (among various data structures) is the real focus of micro tuning and hard
 
 --bigData: java is dominant
 --ML (data science): python and c++ are the top 2 languages
-
---github:
-writing and experimenting a simple semi-smart pointer is a good xx xp
-Read safeC++

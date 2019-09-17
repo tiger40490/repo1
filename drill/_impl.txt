@@ -23,6 +23,9 @@ build a 'max since first' shadow array based on the left-scores.
 build a 'max since last' shadow array based on the right-scores, but Kyle pointed out this is not needed. We may want to test both
 pairwise add up these two arrays. Find the max in the final shadow array.
 
+====writing and experimenting a simple semi-smart pointer is a good xx xp
+Read safeC++
+
 ====Q[c L]: sort a list in O(N logN) but constant space? 
 (If this were an array, then swap is one way to go, but recursion stack space?)
 

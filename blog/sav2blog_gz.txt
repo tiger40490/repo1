@@ -1,4 +1,4 @@
--- no prod support emails:)
+--this job has no prod support emails:)
 
 --new: expectation@older techie: big problem with SG
 On wall st, older techies are accepted as regular developers
@@ -6,8 +6,4 @@ On wall st, older techies are accepted as regular developers
 In SG, at my age I am usually viewed as a senior leadership candidate.
 
 This is one of the fundamental fault lines in my SG career path.
-
---new?
-[jolt]
-perhaps the big picture insight (Josh, Rahul) is equally imp as the Local localSys, but i still feel figure-out speed is my real weakness.
 
