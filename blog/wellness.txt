@@ -1,12 +1,13 @@
---the girls with A-grade flexibility (me...) 
+--new: the girls with A-grade flexibility (me...) 
 may not be able to make a living as a yoga instructor
 may not derive satisfaction and self-esteem from her superior flexibility
 may be poor in balancing, strength and endurance (consider endurance sports)
 is probably not going to win in any yoga competition, but why bother with competition? So why feel inferior to them?
 
 --real cost of a yoga session
-(git blogging is much better than web blogging!) 
-$cost is much smaller than the other costs
+(great eg of git blogging beating web blogging!) 
+$cost is trivial cf the other costs
+
 By far the biggest cost is mental energy. I need to really persuade myself.
 
 Another big cost is tcost. Commute, ..
@@ -14,26 +15,13 @@ Another big cost is tcost. Commute, ..
 Therefore, I would not worry about going in 5 min late.
 
 --Make appt with Dr Colin Ong during lunch time?
-I should but no hurry
+I should this month, but no hurry
 
 --even if i eat lots of fruits, meat and low starch, i could still put on weight
 I may need to accept it. Calorie theory breakdown?
 Perhaps see an expert dietitian?
 
 More imp -- avoid eating when not hungry
-
---new: primer on fatty foods
-https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good is a good overview with examples.
-
-I tend to treat most fatty foods as equals .. unwise :(
-
-Trans fats have no known health benefits and there is no safe level of consumption. Therefore, they have been officially banned in the United States
-
-Saturated fats are common in the American diet. They are solid at room temperature and show up in red meat, whole milk and other whole-milk dairy foods including cheese.
-
-Healthy fats are liquid at room temperature, not solid. There are two broad categories of beneficial fats: monounsaturated and polyunsaturated fats.
-
-Good sources of monounsaturated fats are olive oil, avocados, and most nuts including peanuts. They are still calorie-dense.
 
 --update blogpost: nut oil is very different from animal fats
 
@@ -85,3 +73,17 @@ Less is more. More health, more vitality, more confidence.
 try to stretch for 10 min on the body part you last used
 aim for 2-3 such stretches a week. 
 If you can't then I would say aim for 2 minutes twice a week.
+
+--new: primer on fatty foods
+https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good is a good overview with examples.
+
+I tend to treat most fatty foods as equals .. unwise :(
+
+Trans fats have no known health benefits and there is no safe level of consumption. Therefore, they have been officially banned in the United States
+
+Saturated fats are common in the American diet. They are solid at room temperature and show up in red meat, whole milk and other whole-milk dairy foods including cheese.
+
+Healthy fats are liquid at room temperature, not solid. There are two broad categories of beneficial fats: monounsaturated and polyunsaturated fats.
+
+Good sources of monounsaturated fats are olive oil, avocados, and most nuts including peanuts. They are still calorie-dense.
+
