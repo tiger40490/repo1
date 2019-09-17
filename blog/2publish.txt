@@ -38,3 +38,17 @@ If case-insensitive, then no native support. A few options:
 * option: git-bash q[sort] but no in-place sorting
 * option: right-click on the file name, then copy the filename to clipboard. Then openContainingFolderInDOS. Run sort fileName /o fileName 
 * option: TextFX plugin
+
+----new: 3deeper mtv2work4more$ after basic ffree
+* a suitable job for Phase B. A light-duty, semi-retirement job providing plenty of free time (mostly for self-learning, blogging). This goal is indeed a $-motivation because with more financial resources, I can afford to take desirable Phase B jobs at lower pay. In fact, I did pursue this route in my 2019 SG job search.
+* more days with grandparents -- need more unpaid leaves or work in BJ home
+* more respect, from colleagues or myself
+
+--Below are some motivations not so deep
+* better home location (not size) -- clean streets; shorter commute; reasonable school.. Eg Bayonne, JC
+
+-- Below are some 2ndary items
+* more time with kids? Outside top 5 motivations.
+* better (healthy) food? usually I can find cheaper alternatives 
+* workout classes? Usually not expensive
+----
