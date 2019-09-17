@@ -3,32 +3,24 @@ one of the most obvious and real limitation/obsolete features of c++ as a langua
 Part of the ecosystem
 Too complicated compared to newer languages like java. The dynamic scripting languages are even simpler
 
-Also an entry barrier. Yet young people can take it up if they are determined. 
+Also an entry barrier. Young people can take it up if determined, but majority of them are put off. 
+
+In my early days using c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ... Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
 
 Similarly, yoga is hard for most people but some individuals are determined and can overcome the initial hump (6-24M) and find joy and reward
 
-In my early days with c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ...
-
-Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
 --low latency: avoid dynamic data structures
 In my first programing job, I used C without malloc, because I used only array + struct. 
 
-If my collection were to grow, then I would need DAM. 
+If my collection were to grow, then I would have needed DAM. 
 
-I feel low latency generally avoid DAM. If DAM required, then pre-allocation is preferred.
+I feel low latency generally avoid mid-day DAM. If DAM required, then pre-allocation is preferred.
 
 --GS-HK interviewer said with an array-based order book he could achieve 1 million updates per second.
 
 This is in response to my claim that Rebus is 700K MPS.
 
-Martin Thompson basically said if the software is good enough for the requirement, then no need to go further.
-
---Q: perf: is heap similar to stack
-I quote Martin out of context -- After allocation, "the speed of using the heap is just like the stack".
-
-I feel there's a difference in terms of data cache.
-
-Objects on the stack are physically clustered, so presumably CPU can cache them more easily. I know this works with arrays, but not sure about disconnected objects living on a single stack frame
+Martin Thompson basically said if the performance is good enough for the requirement, then no need to go further.
  
 --fuxi : array is the most important data structure
 C supports only array (horizontal) and struct (vertical). I feel most standard libraries across languages are designed based on the same. Array + graph are about the only data structures in those libraries and in CIV.

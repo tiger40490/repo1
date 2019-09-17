@@ -25,11 +25,11 @@ When USD is on the rise, I have a chance to gain "access" to it by converting to
 
 --new: using vi in gitbash 
 can prolong my professional life.
-comparable to standing desk .. not necessary, but trains the system. Gives me (albeit slowly growing) confidence
+comparable to standing desk -- not absolutely necessary, but trains the body system. Slowly Builds confidence
 comparable to barefoot jogging
 comparable to mental math
 it gives me (real) advantage over younger programmers
-be realistic and slowly increase the usage. 
+Please be realistic and slowly increase the usage. Some may suggest big-bang. I could try it 
 
 --new: notepad++ in-place sorting
 If case-sensitive, the best way is Edit->LineOperations
