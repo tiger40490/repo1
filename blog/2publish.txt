@@ -1,8 +1,3 @@
---new blogpost: frq@stretching
-try to stretch for 10 min on the body part you last used
-aim for 2-3 such stretches a week. 
-If you can't then I would say aim for 2 minutes twice a week.
-
 --new blogpost: less is more
 calorie restriction means reduce starch, fried or creamy food. Most of the delicious foods are now reduced to my tolerable limit, without depriving myself.
 
@@ -10,7 +5,7 @@ Less is more. More health, more vitality, more confidence, more self-esteem.
 
 However, the self-esteem should NOT be based on false beliefs and brainwash/propaganda.
 
---too much SGD or USD?
+--new: too much SGD or USD?
 After we relocate to U.S. we will have some SGD reserve, growing thanks to HDB rental income. What use do we have for this growing pile of SGD? 
 * perhaps as wife's reserve. I think she prefers SGD
 * perhaps to top up CPF 
@@ -30,14 +25,6 @@ comparable to barefoot jogging
 comparable to mental math
 it gives me (real) advantage over younger programmers
 Please be realistic and slowly increase the usage. Some may suggest big-bang. I could try it 
-
---new: notepad++ in-place sorting
-If case-sensitive, the best way is Edit->LineOperations
-
-If case-insensitive, then no native support. A few options:
-* option: git-bash q[sort] but no in-place sorting
-* option: right-click on the file name, then copy the filename to clipboard. Then openContainingFolderInDOS. Run sort fileName /o fileName 
-* option: TextFX plugin
 
 ----new: 3deeper mtv2work4more$ after basic ffree
 * a suitable job for Phase B. A light-duty, semi-retirement job providing plenty of free time (mostly for self-learning, blogging). This goal is indeed a $-motivation because with more financial resources, I can afford to take desirable Phase B jobs at lower pay. In fact, I did pursue this route in my 2019 SG job search.
