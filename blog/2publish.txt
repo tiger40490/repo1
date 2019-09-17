@@ -22,3 +22,11 @@ Until the relocation, I think my USD would be in surplus.
 However, any property big buy is likely in USD, but unlikely in SG
 
 When USD is on the rise, I have a chance to gain "access" to it by converting to SGD. Worst case it goes up further and never comes down
+
+--new: notepad++ in-place sorting
+If case-sensitive, the best way is Edit->LineOperations
+
+If case-insensitive, then no native support. A few options:
+* option: git-bash q[sort] but no in-place sorting
+* option: right-click on the file name, then copy the filename to clipboard. Then openContainingFolderInDOS. Run sort fileName /o fileName 
+* option: TextFX plugin

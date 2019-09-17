@@ -1,7 +1,7 @@
--- my struggles #tectonic:
+-- my current struggles #tectonic:
 * boy's math? Is it my job or his job? If I don't take ownership then the pressure is off
 * [t] calorie count? I feel the Singapore climate adds 5 kg, even if my starch intake is halved 3 times
-* [t] yoga
+* yoga? Not so tough once I pay the membership fee :)
 * figure-out-speed ] localSys
 * [t] CIV? LG2. How about review or simple problems?
 * [t=tough struggle]
@@ -16,14 +16,6 @@ Grandpa .. is a 1000 times more real as a role model but his wekends are not all
 
 Anyway, a fixation on burn/rot, leverage etc is mostly counterproductive
 
---notepad++ in-place sorting
-If case sensitive, the best way is Edit->LineOperations
-
-If case inseitive, then no native support. A few options:
-* option: git-bash q[sort] but no in-place sorting
-* option: right-click on the file name, then copy the filename to clipboard. Then openContainingFolderInDOS. Run sort fileName /o fileName 
-* option: TextFX plugin
-
 --new? finer things in life
 (This kind of blogpost is best done in git-blogging :)
 The consumerism has highjacked this phrase, but to me, most finer things in life are free or available to the lower-income families, such as
@@ -34,7 +26,8 @@ The consumerism has highjacked this phrase, but to me, most finer things in life
 
 --new: start discarding old stuff for emigration
 Good to start discarding things early to spread out the mental load
-* eletronics
+* electronics
+* books
 
 --
 intelligence, memory capacity, clear thinking, sharp perception ... can help the individual deal with depression and pessimism. I think most pessimistic thoughts are irrational and/or biased.
@@ -44,12 +37,6 @@ intelligence, memory capacity, clear thinking, sharp perception ... can help the
 "Mindfulness" is a therapy. This therapy can even cope with brain aging.
 
 Memory is a muscle.. I think corrective thinking like my twister SMS is also a muscle one can improve by everyday training.
-
---some lux items, highlighting diverging personal priorities
-Japan vacation with kids -- is probably the most visible lux items. I may need to say No. Consider postponing it to my 60's when they grow up.
-top schools (+school district) -- fraction of a million. Simply beyond my means
-
-full-day interview -- costs me a day of billing, but no more than 3 days a year
 
 --no blog: unbroken.. a few nice items
 wrist watch
@@ -98,14 +85,9 @@ With my marketable skills + health, in the U.S. everything will work out in my p
 * even though my kids may not become top students
 * even though my wife may not find meaningful job
 
---lessons from final JFK trip
+--fuxi: lessons from final JFK trip
 transfer between trains, while carrying 3 luggages is tricky and requires assistance
 
---Retirement
-Jiang Ling felt programming till 70 is no problem. Demand is not such an obstacle. 
-Jiang Ling felt nowadays there are many ways to do coding job at home.
-
-I feel teaching might be good for me.
 
 --no
 Rahul put his heart into the job. I think my sister does that too.
