@@ -1,4 +1,5 @@
--- one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
+--new: 
+one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
 Part of the ecosystem
 Too complicated compared to newer languages like java. The dynamic scripting languages are even simpler
 
