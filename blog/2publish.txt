@@ -1,7 +1,10 @@
---new blogpost: less is more
-calorie restriction means reduce starch, fried or creamy food. Most of the delicious foods are now reduced to my tolerable limit, without depriving myself.
+--email to mlp
+rerun() to remotely echo or cat into in.VTA, then tail the adapter log. Really minor automation, but let's see how reliable it is
 
-Less is more. More health, more vitality, more confidence, more self-esteem. 
+--new blogpost: eat: less is more
+calorie restriction means reduce starch, fried or creamy food. Most of the delicious foods are successfully reduced to my tolerable limit, without depriving myself.
+
+Less is more. More health, more vitality, more confidence, more self-esteem, more control on my diet, 
 
 However, the self-esteem should NOT be based on false beliefs and brainwash/propaganda.
 
