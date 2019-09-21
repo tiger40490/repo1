@@ -1,10 +1,3 @@
---new: expectation@older techie: big problem with SG
-On wall st, older techies are accepted as regular developers
-
-In SG, at my age I am usually viewed as a senior leadership candidate.
-
-This is one of the fundamental fault lines in my SG career path.
-
 --3 reasons this hibernation phase is so much better
 * not fixated on inferiority. at age 38 I was still feeling at peak and hence ... struggling against and missing the expectations repeatedly (boxer taking a brutal beating). Now at age 45 my self-expectations match reality way better
 * java job -- not aiming to tackle tough tech domains like c++ or quant. Job is easier than Macq and Qz. so far no PIP risk
