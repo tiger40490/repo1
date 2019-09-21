@@ -1,5 +1,5 @@
 --new
-intellij (community version) is much cleaner than eclipse
+intellij (even the community version) is much cleaner than eclipse
 
 The most popular tools are often vastly inferior for me. Other examples:
 * my g++ install in strawberryPerl is better than all the g++ installs
@@ -29,13 +29,6 @@ I feel low latency generally avoid mid-day DAM. If DAM required, then pre-alloca
 This is in response to my claim that Rebus is 700K MPS.
 
 Martin Thompson basically said if the performance is good enough for the requirement, then no need to go further.
- 
---fuxi : array is the most important data structure
-C supports only array (horizontal) and struct (vertical). I feel most standard libraries across languages are designed based on the same. Array + graph are about the only data structures in those libraries and in CIV.
-
-For comp science research, there's more energy focused on array than any other data structure.
-
-Array (among various data structures) is the real focus of micro tuning and hardware optimizations.
 
 --microsoft acquired Mono project and produced dotnet core to run on non-windows platforms
 
