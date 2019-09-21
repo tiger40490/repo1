@@ -1,26 +1,3 @@
---email to mlp
-rerun() to remotely echo or cat into in.VTA, then tail the adapter log. Really minor automation, but let's see how reliable it is
-
---new blogpost: eat: less is more
-calorie restriction means reduce starch, fried or creamy food. Most of the delicious foods are successfully reduced to my tolerable limit, without depriving myself.
-
-Less is more. More health, more vitality, more confidence, more self-esteem, more control on my diet, 
-
-However, the self-esteem should NOT be based on false beliefs and brainwash/propaganda.
-
---new: too much SGD or USD?
-After we relocate to U.S. we will have some SGD reserve, growing thanks to HDB rental income. What use do we have for this growing pile of SGD? 
-* perhaps as wife's reserve. I think she prefers SGD
-* perhaps to top up CPF 
-* Perhaps to hedge against USD devaluation. 
-* Perhaps convert to USD to invest in US or Asia.
-* put my surplus SGD into CPF-life at age 55.
-
-Until the relocation, I think my USD would be in surplus. 
-However, any property big buy is likely in USD, but unlikely in SG
-
-When USD is on the rise, I have a chance to gain "access" to it by converting to SGD. Worst case it goes up further and never comes down
-
 --new: using vi in gitbash 
 can prolong my professional life.
 comparable to standing desk -- not absolutely necessary, but trains the body system. Slowly Builds confidence
