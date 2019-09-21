@@ -1,3 +1,11 @@
+--new
+intellij (community version) is much cleaner than eclipse
+
+The most popular tools are often vastly inferior for me. Other examples:
+* my g++ install in strawberryPerl is better than all the g++ installs
+* my git-bash + g++ is a better IDE than all the fancy GUI tools
+* wordpress beats blogger.com hands down
+
 --new: 
 one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
 Part of the ecosystem
