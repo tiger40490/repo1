@@ -41,13 +41,12 @@ I need quiet time for thinking/blogging about
 * many many non-trivial decisions
 * managing other stressful items
 
-Depending on the specific task on my plate, I will find ... "alternatives" since quiet time is simply insufficient compared to my NY days.
+Depending on the specific task on my plate, I will find ... "alternatives" as quiet time is scarce compared to my NY days.
 
-Sugg: stay in office longer, better in early morning but in the evening by default 
+Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
 sugg: Friday evening is golden. Other parts of the weekend can also be valuable
 Sugg: take half-day leaves to create half-day quiet periods at home. This feature isn't available to contractor
 Sugg: yo-yo diet on tech xx -- when we get the quiet time (in the mood or not), learn as much as possible.
-Sugg: On some days, sleep early and catch earlier trains so I can study on trains; On other days, stay up late for quiet hours at night
 
 ==This file
 t-cost mgmt, which often requires $$ budgeting
