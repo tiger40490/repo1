@@ -1,0 +1,12 @@
+--task for open-house
+set up bcomp on iview11
+
+--new: let's accumulate "easy" tasks that can be done 
+doable on train
+doable in open-house
+doable without computer
+
+If we 'finish' these easy tasks in high-absorbency hours, then I have nothing to do during those "distracted" hours
+
+2publish.txt is for open-house
+

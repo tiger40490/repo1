@@ -1,15 +1,6 @@
 --no need to launch git-bash every time.
 Learn to live with the risk of data loss
 
---new: let's accumulate "easy" tasks that can be done 
-doable on train
-doable in open-house
-doable without computer
-
-If we finish these easy tasks in high-absorbency hours, then I have nothing to do during those "distracted" hours
-
-2publish.txt is for open-house
-
 --focus during office hours
 reduce casual browsing ... online banking etc. snowball risk.
 also warehouse the curiosity searching until some designated defocus time.
@@ -32,7 +23,7 @@ My hours in office are scarce :
 * frequent breaks
 * phone call to BJ
 
---sugg: budget time for boy?
+--sugg: budget time-for-boy?
 If nothing planned, then go to office and ... work not xx or blog
 
 --very hard to "work" at home while managing boy's math drill. Problem is context switching tcost
