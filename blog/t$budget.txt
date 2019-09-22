@@ -1,3 +1,6 @@
+--no need to start git-bash every time.
+Learn to live with the risk of data loss
+
 --new: the allure of late night quiet time #living with family 
 See also the blogpost on early rise
 
@@ -10,6 +13,8 @@ This quiet time is often inferior to other quiet times
 * In office I get plenty of quiet time .. early morning, after work, and during lunch break
 
 I feel it's much better to sleep early and get up early. For now we can ignore the health benefits and focus on quiet time.
+
+Consider taking mild sleeping pills to help me regulate. Consult a doctor
 
 --focus during office hours
 reduce casual browsing ... online banking etc. snowball risk.
