@@ -30,7 +30,7 @@ This is in response to my claim that Rebus is 700K MPS.
 
 Martin Thompson basically said if the performance is good enough for the requirement, then no need to go further.
 
---microsoft acquired Mono project and produced dotnet core to run on non-windows platforms
+--microsoft acquired Mono project and produced dotnet core (Sunil) as a jvm challenger to run on non-windows platforms
 
 --Azul jvm has optimized GC
 --java community support is better than c# or c++
