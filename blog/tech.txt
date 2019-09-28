@@ -1,3 +1,17 @@
+--value-based types
+Optional is the only important type we know.
+
+One of the main ideas about value types is that they have no notion of identity (or perhaps their identity isn't detectable to Java programs). In such a world, how could we tell whether a and b "really" are the same or different?
+
+Q: why avoid locking on value-based objects?
+A: https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class
+
+c++ lacks this level of community and collective brain power 
+--new: why avoid locking on boxed Intergers
+https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class section on "UPDATE - 2019/05/18" has a great illustration
+
+Auto-boxing of "33" may produce distinct objects each time, or the same object repeatedly. Compiler has the freedom to optimize, just as in c++.
+
 --new
 intellij (even the community version) is much cleaner than eclipse
 
