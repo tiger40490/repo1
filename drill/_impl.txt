@@ -1,4 +1,3 @@
-====for a binTree, print subtree size/height at every node
 ====practice in-order-walk iterative/recursive
 ====XR's solution to the sparse array inner product
 ====binary tree lock/unlock

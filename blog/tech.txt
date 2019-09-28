@@ -2,9 +2,10 @@
 intellij (even the community version) is much cleaner than eclipse
 
 The most popular tools are often vastly inferior for me. Other examples:
-* my g++ install in strawberryPerl is better than all the g++ installs
+* my g++ install in strawberryPerl is better than all the windows g++ installs
 * my git-bash + g++ is a better IDE than all the fancy GUI tools
 * wordpress beats blogger.com hands down
+* wordpad is a far simpler rich text editor than msword or browsers or mark-down editors
 
 --new: 
 one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
@@ -12,6 +13,10 @@ Part of the ecosystem
 Too complicated compared to newer languages like java. The dynamic scripting languages are even simpler
 
 Also an entry barrier. Young people can take it up if determined, but majority of them are put off. 
+
+There's a minimum mileage required. Many young people don't stay on it long enough. 
+
+My vi mileage is also too short.
 
 In my early days using c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ... Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
 
@@ -32,7 +37,8 @@ Martin Thompson basically said if the performance is good enough for the require
 
 --microsoft acquired Mono project and produced dotnet core (Sunil) as a jvm challenger to run on non-windows platforms
 
---Azul jvm has optimized GC
 --java community support is better than c# or c++
+higher collective brain power
 --cloud: golang and java are the most popular languages
---bigData: java is dominant
+--bigData: java is possibly #1
+--ML: java is 2nd or 3rd
