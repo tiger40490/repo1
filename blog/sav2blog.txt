@@ -1,3 +1,14 @@
+--new: ##delightful technologies with biggest impact@my personal life
+This is low-value blogpost. Before git-blogging, I would post it to blog, or keep this item in gmail draft and spend too much time on it.
+
+recoll -- notepad + MSWE (not MSWord )
+spreadsheet for assets.xlsx and other personal investment. 
+gmail tags, folders
+blogger -> wordpress 
+git blogging
+low-cost home printer + copier + scanner
+strawberry perl + git-bash as my c++ IDE for coding drill
+
 --attachment: am I holding too tight onto ...?
 my fitness including flexibility?
 my diet and weight control? 
