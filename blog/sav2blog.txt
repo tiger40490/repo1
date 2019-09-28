@@ -1,13 +1,3 @@
---new: ##delightful technologies with biggest impact@my personal life
-This is low-value blogpost. Before git-blogging, I would post it to blog, or keep this item in gmail draft and spend too much time on it.
-
-recoll -- notepad + MSWE (not MSWord )
-spreadsheet for assets.xlsx and other personal investment. 
-gmail tags, folders
-blogger -> wordpress 
-git blogging
-low-cost home printer + copier + scanner
-strawberry perl + git-bash as my c++ IDE for coding drill
 
 --dettach: am I holding too tight onto ...?
 my fitness including flexibility?
@@ -34,7 +24,7 @@ as soon as I set up an "expectation" in any of these areas (often for self-motiv
 * [t?] CIV? LG2. How about review or simple problems?
 * [t=tough struggle]
 
---as I age, more resources focused on wellness, unfortunately less on tech xx
+--as I age, more resources focused on wellness, parenting, unfortunately less on tech xx
 
 --fuxi: cigna
 30D emergency coverage in U.S.
