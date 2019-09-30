@@ -1,5 +1,3 @@
---nutrient timing is invented for ultra-endurance athletes. The reserach findings are not directly applicable to the ordinary people.
-
 --major lifestyle improvements in Sep 2019
 * early sleep
 * starch reduction
@@ -36,6 +34,8 @@ To be effective, I can cut further on ice cream, nuts, fried food, starch ..
 
 --fuxi blog: 
 most tempting bad foods for me -- 1) fat 2) starch 3) sugar(T) and combinations of them
+
+--fuxi: nutrient timing is invented for ultra-endurance athletes. The reserach findings are not directly applicable to the ordinary people.
 
 --new: fish cake
 200 cal/100g, compared to 110 cal/100g of drained tuna. Should not overeat
