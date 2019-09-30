@@ -1,8 +1,8 @@
 --major lifestyle improvements in Sep 2019
-* early sleep
 * starch reduction
 * 11pm craving effectively managed
 * vegie salad
+* early sleep
 * elimination of starch and fat in office. I used to eat many snacks of biscuits, nuts, ..
 
 Even if these improvements don't last, they are still worthwhile achievements to celebrate. They are very, very hard to achieve even if temporary
@@ -17,9 +17,9 @@ Even if these improvements don't last, they are still worthwhile achievements to
 --new: body-fat percentage
 Many people believe that body-fat perentage is more improtant than weight. "If most of my weight is muscle and bones, then overweight is fine, like body builders; If some healthy-weight person is full of fat, that is real health issue."
 
-The problem is -- the measurement is highlty inaccurate. It's very hard to estimate the percentage of fat in our body. The fat mass in our organs are impossible to measure.
+I agree that BFP is more important than weight if measurable.
 
-Any theory based on an unmeasurable quantity can't be a useful theory.
+The problem is -- the measurement is extremely inaccurate. It's very hard to estimate the overall percentage of fat in our body. In particular, fat mass in our organs are impossible to measure. Any theory based on an unmeasurable quantity can't be a useful theory.
 
 --update blogpost: even inconsistent meal skipping can be benefial to some people
 Some parents believe delaying a meal by 30 minutes can harm their child. It's similar to the fear that a minute of sun radiation or 2nd-hand smoke can harm your health.
