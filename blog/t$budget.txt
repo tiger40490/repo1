@@ -1,9 +1,18 @@
---priorities
-no hurry: reply to friends
-no hurry: call beijing
-more imp: boy math; diet; 
-imp not urgent: yoga, chin-up
-imp not urgent: coding drill
+--a month into my hibernation, my time (i.e. laser, O2) still feels so precious
+priorities? 
+
+new job -- localSys, respect, ...
+help my son's math
+blogging -- analysis and juggling, like OS scheduler, competing with the tasks being scheduled
+LG-recreation: time with meimei
+LG-recreation: per investment
+LG2: discussion with friends. Email is far more efficient
+LG2: discussion with grandparents
+LG2: coding drill, 
+LG2: c++maintenance? Lucky I could rely on the critical mass
+LG2: yoga + workout? mini-workout is extremely effective
++ commute is a huge time-saver
++ git-blogging + smemo-blogging whenever and wherever I have the inspiration
 
 --why the repo1/blog folder has so many files outside .../misc/? Because with family, I have so many competing priorities:
 invest
