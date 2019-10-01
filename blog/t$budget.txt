@@ -5,6 +5,13 @@ more imp: boy math; diet;
 imp not urgent: yoga, chin-up
 imp not urgent: coding drill
 
+--why the repo1/blog folder has so many files outside .../misc/? Because with family, I have so many competing priorities:
+invest
+boy
+open-house
+t-budget
+wellness
+
 -- sometimes the review of weekend hour utilization is counter-productive. Everyone's weekend is mostly "rot" not burn, including my role models. In fact those who "achieve" more than 3 hours of burning each weekend are probably fictional characters or doing something bad to their body and mind.
 
 Probably they are focusing on something not so strategic or high-leverage, by my standard.

@@ -1,7 +1,7 @@
 --value-based types
-Optional is the only important type we know.
+Optional is the only important example we know.
 
-One of the main ideas about value types is that they have no notion of identity (or perhaps their identity isn't detectable to Java programs). In such a world, how could we tell whether a and b "really" are the same or different?
+One of the main ideas about value types is that they have no notion of identity (or perhaps their identity is detectable only to JVM not Java applications). In such a world, how could we tell whether variables aa and bb "really" are the same or different?
 
 Q: why avoid locking on value-based objects?
 A: https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class
