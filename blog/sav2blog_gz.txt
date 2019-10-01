@@ -1,6 +1,6 @@
---my 1st aid blogposts tend to cluster around 2 central themes -- PIP and peerComp
+--fuxi: my 1st aid blogposts tend to cluster around 2 central themes -- PIP and peerComp
 
---The peerComp tends to be based on very limited facts and mostly imagination.
+--fuxi: The peerComp tends to be based on very limited facts and mostly imagination.
 
 --I like the PIP abbr as it is shorter and well-defined
 
@@ -16,5 +16,6 @@ I grossly underestimated the impact of PIP, damaged goods, stigma,
 --I still want to do c++. If I do a gr8 job in this java team, I might get a chance to take on some c++ work.
 
 Recall the CG/velocity projects I might have some advantages as those guys aren't superstars. 
+
 --in terms of QQ (hard questions by definition), 
 95% of the c++0x features are in mv-semantics
