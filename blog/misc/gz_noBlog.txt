@@ -1,3 +1,14 @@
+--fuxi: my 1st aid blogposts tend to cluster around 2 central themes -- PIP and peerComp
+
+--fuxi: The peerComp tends to be based on very limited facts and mostly biased imagination.
+
+--in terms of QQ (hard questions by definition), 
+95% of the c++0x features are in mv-semantics
+
+--I still want to do c++. If I do a gr8 job in this java team, I might get a chance to take on some c++ work.
+
+Recall the CG/velocity projects I might have some advantages as those guys aren't superstars. 
+
 --fuxi
 I told Rahul that I need to be independent to capture the engagement, but that's short term.
 
