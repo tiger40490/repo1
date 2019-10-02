@@ -1,9 +1,15 @@
 --fuxi: my 1st aid blogposts tend to cluster around 2 central themes -- PIP and peerComp
 
---fuxi: The peerComp tends to be based on very limited facts and mostly biased imagination.
+very different intensities
+
+The peerComp tends to be based on very limited facts and mostly biased imagination.
 
 --in terms of QQ (hard questions by definition), 
-95% of the c++0x features are in mv-semantics
+95% of the c++0x features cluster around mv-semantics. 
+
+I think this is because c++ is a low-level language.
+
+Also the other template features (beside forward()) are not so prominent.
 
 --I still want to do c++. If I do a gr8 job in this java team, I might get a chance to take on some c++ work.
 
