@@ -7,9 +7,9 @@
 --
 Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert has only a limited view of that reality, based on limited data.
 
-Those numbers look impressive, but they are similar to the words -- personal perceptions.
+Those numbers look impressive, but actually similar to the words -- they are mostly personal perceptions dressed up as objective measurements.
 
-If you don't use words or numbers then you can't capture anything. Your impression of that reality (without words you can't evem refer to that reality) remains extremely vague. I now believe vague is the lowest level of comprehension, as bad as a biased comprehension. Using words+numbers we have a chance to improve our perception.
+If you don't use words or numbers then you can't capture any observation of the "reality". Your impression of that reality (without words you can't even refer to that reality) remains hopelessly vague. I now believe vague is the lowest level of comprehension, usually as bad as a biased comprehension. Using words+numbers we have a chance to improve our perception.
 
 my perceptions shape my decisions, and my decisions affect my family's life chances.
 
