@@ -28,13 +28,6 @@ Yoga (and stadium) should really push (pun intended) out to weekends
 Coming home early for family time ... never worked for me. It worked for many peers but not me. No reason to feel shame.
 The best I could do in the evening open-house is ... see the open-house todo lists?
 
---why the repo1/blog folder has so many files I couldn't move into .../misc/? Because with family, I have so many competing priorities:
-invest
-boy
-open-house
-t-budget
-wellness
-
 -- sometimes the review of weekend hour utilization is counter-productive. Everyone's weekend is mostly "rot" not burn, including my role models. In fact those who "achieve" more than 3 hours of burning each weekend are probably fictional characters or doing something bad to their body and mind.
 
 Probably they are focusing on something not so strategic or high-leverage, by my standard.
@@ -48,16 +41,16 @@ Anyway, a fixation on burn/rot, leverage etc is mostly counterproductive
 --important but not urgent:
 flexibility
 coding drill
-c++ critical mass
+c++ critical mass maintenance
 
 --why no CIV? +ve Feedback loop is now broken
 Out-ranked by
 * parenting including boy's math
-* family time
+* family time? what is it?
 * ramp up -- driven by respect, self-respect, honeymoon
 * yoga
 
---I am so used to measuring roti in terms of career including tech xx and ..
+--I am so used to measuring roti in terms of gz including tech xx and work projects
 
 As I age, it is fundamental to increase the weightage on wellness, parenting, taking care of grandparents, marriage ...
 
@@ -83,6 +76,13 @@ Learn to live with the risk of data loss
 reduce casual browsing ... online banking etc. snowball risk.
 also warehouse the curiosity searching until some designated defocus time.
 keep 646 549 3446 at DBS, FSM to reduce office hour distraction
+
+--fuxi: why the repo1/blog folder has so many files I couldn't move into .../misc/? Because with family, I have so many competing priorities:
+invest
+boy
+open-house
+t-budget
+wellness
 
 --nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
 Yoga eats into work and family time..requires a lot of time including commute, preparation, arriving in advance and trying to read/blog there, (or kicked out) 

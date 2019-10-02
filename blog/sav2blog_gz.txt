@@ -1,3 +1,9 @@
+--why I feel more dedicated (and motivated) on this job compared to earlier jobs?
+
+* colleagues are less dedicated
+* sense of urgency
+* I feel I could exceed mgr expectation with 90% effort
+
 --
 Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert has only a limited view of that reality, based on limited data.
 
