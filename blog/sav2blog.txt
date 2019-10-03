@@ -1,21 +1,3 @@
-
---detach: am I holding too tight onto ...?
-my fitness including flexibility?
-my diet and weight control? 
-my c++/java QQ 
-my "conquest" of the age-friendly Wall St job market
-
---new?
-as soon as I set up an "expectation" in any of these areas (often for self-motivation), i can hit disappointments, stress, tough "adjustments"
-* intimacy
-* GC
-* bonus
-* consistent coding drill
-* weight
-* chin-up
-* my cholesterol level
-* boy's math
-
 --no blogpost: my current struggles #tectonic:
 * boy's math? Is it my job or his job? In theory If I don't take any ownership then the pressure is completely off ... but realistically?
 * [t] calorie count? I feel the Singapore climate adds 5 kg, even if my starch intake is halved 3 times
@@ -24,7 +6,7 @@ as soon as I set up an "expectation" in any of these areas (often for self-motiv
 * [t?] CIV? LG2. How about review or simple problems?
 * [t=tough struggle]
 
---as I age, more resources focused on wellness, parenting, unfortunately less on tech xx
+--as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
 
 --fuxi: cigna
 30D emergency coverage in U.S.
@@ -82,4 +64,3 @@ stressor: insufficient outgoing minutes... cost overrun.. consider buying more m
 stressor: data overusage. I added mobile data limit
 
 [*=effective]
-
