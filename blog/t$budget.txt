@@ -51,10 +51,12 @@ c++ critical mass maintenance
 
 --why no CIV? +ve Feedback loop is now broken
 Out-ranked by
-* parenting including boy's math
+* parenting including boy's math. Detached supervision is hard. 
 * family time? what is it?
 * ramp up -- driven by respect, self-respect, honeymoon
 * yoga
+
+How about mini sessions like yoga, skip-rope, chin-up?
 
 --I am so used to measuring roti in terms of gz including tech xx and work projects
 
@@ -65,7 +67,7 @@ For wellness, the huge effort may not produce visible effect !
 As to parenting efforts, again huge tcost but slow improvement
 
 --diet + tcost @ 22 Sep weekend@Vivo
-! very consciously decisions so no regrets.
+! very conscious decisions so no regrets.
 
 yong-toufu was good -- fibrous + lean. After that I had some leftover foods of medium calorie density
 
@@ -75,20 +77,14 @@ How about the positive impacts on kids and wife?
 
 wife surely feels better about me taking time out with family
 
+--family outings - vivo, east-coast, 
+watch out my personal tcost. I could allocate it to 
+* mlp prj + related self-xx
+* coding drill
+* c++/java QQ
+
 --no need to launch git-bash every time.
 Learn to live with the risk of data loss
-
---focus during office hours
-reduce casual browsing ... online banking etc. snowball risk.
-also warehouse the curiosity searching until some designated defocus time.
-keep 646 549 3446 at DBS, FSM to reduce office hour distraction
-
---fuxi: why the repo1/blog folder has so many files I couldn't move into .../misc/? Because with family, I have so many competing priorities:
-invest
-boy
-open-house
-t-budget
-wellness
 
 --nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
 Yoga eats into work and family time..requires a lot of time including commute, preparation, arriving in advance and trying to read/blog there, (or kicked out) 
