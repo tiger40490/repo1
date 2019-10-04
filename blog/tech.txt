@@ -1,16 +1,3 @@
---value-based types
-Optional is the only important example we know.
-
-One of the main ideas about value types is that they have no notion of identity (or perhaps their identity is detectable only to JVM not Java applications). In such a world, how could we tell whether variables aa and bb "really" are the same or different?
-
-Q: why avoid locking on value-based objects?
-A: https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class
-
-c++ lacks this level of community and collective brain power 
---new: why avoid locking on boxed Intergers
-https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class section on "UPDATE - 2019/05/18" has a great illustration
-
-Auto-boxing of "33" may produce distinct objects each time, or the same object repeatedly. Compiler has the freedom to optimize, just as in c++.
 
 --new
 intellij (even the community version) is much cleaner than eclipse
@@ -20,6 +7,20 @@ The most popular tools are often vastly inferior for me. Other examples:
 * my git-bash + g++ is a better IDE than all the fancy GUI tools
 * wordpress beats blogger.com hands down
 * wordpad is a far simpler rich text editor than msword or browsers or mark-down editors
+--value-based types
+Optional.java is the only important example we know.
+
+One of the main ideas about value types is that they have no notion of identity (or perhaps their identity is detectable only to JVM not Java applications). In such a world, how could we tell whether variables aa and bb "really" are the same or different?
+
+Q: why avoid locking on value-based objects?
+A: https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class
+
+c++ lacks this level of community and collective brain power 
+
+--new: why avoid locking on boxed Intergers
+https://stackoverflow.com/questions/34049186/why-not-lock-on-a-value-based-class section on "UPDATE - 2019/05/18" has a great illustration
+
+Auto-boxing of "33" may produce distinct objects each time, or the same object repeatedly. Compiler has the freedom to optimize, just as in c++.
 
 --new: 
 one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
