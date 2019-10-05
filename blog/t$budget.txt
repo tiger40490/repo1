@@ -18,28 +18,13 @@ i tend to feel guilty about time usage [1] in office, but i feel worst at home.
 
 honeymoon is best.
 
---qSG phase t-utilization in hind sight: 
+--qSG phase t-utilization in contrast to this hibernation: 
 yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
 .. how do I improve this time?
 too much time spent with boy.. extremely low roti. Need to be more calculating on tcost. Beware of long journey
 msfm? low roti. Huge tcost like 10~15h/week per subject
 per investment? too much time on fsm + oanda
 extra time in office? too much non-work
-
---biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
-* (safe default) more time in office to capture the absorbency, extend the honeymoon
-* weight management? demands time and energy
-* more frq exercise
-* c++ critical mass maintenance, but without IV :(
-? boy's academics? potentially frustrating
-? QQ+zbs on cloud
-? per investment, esp. on Robinhood?
-? quant refresh?
-
---Q: too much "good stuff" in git-blog or too little?
-In theory, the coding drill content can occupy my time
-
-I feel printout material is still more "precious"
 
 --a month into my hibernation, my time (i.e. laser, O2) still feels so precious
 priorities? 
@@ -53,10 +38,20 @@ LG2: discussion with friends. Email is far more efficient
 LG2: discussion with grandparents
 LG2: coding drill, 
 LG2: c++maintenance? Lucky I could rely on the critical mass
-LG2: yoga + workout? mini-workout is extremely efficient
+LG2: yoga + workout? mini-workout is very time-efficient
 + food preparation: maid is great time-saver
 + commute is a huge time-saver
 + git-blogging + smemo-blogging whenever and wherever I have the inspiration
+
+--biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
+* (safe default) more time in office to capture the absorbency, extend the honeymoon
+* weight management? demands time and energy
+* more frq exercise
+* c++ critical mass maintenance, but without IV :(
+? boy's academics? potentially frustrating
+? QQ+zbs on cloud
+? per investment, esp. on Robinhood?
+? quant refresh?
 
 --new: create(valuable)quiet time
 Even though my son needs me, I still have to prioritize this need among other things such as my quiet time and localSys
@@ -71,6 +66,11 @@ Yoga (and stadium) should really push (pun intended) out to weekends
 Coming home early for family time never worked for me. It probably works for many peers but not me. 
 No reason to feel shame, pity, or inferiority.
 The best I could do in the evening open-house is ... see the open-house todo lists?
+
+--Q: too much "good stuff" in git-blog or too little?
+In theory, the coding drill content can occupy my time
+
+I feel printout material is still more "precious"
 
 -- sometimes the review of weekend hour utilization is counter-productive. Everyone's weekend is mostly "rot" not burn, including my role models. In fact those who "achieve" more than 3 hours of burning each weekend are probably fictional characters or doing something bad to their body and mind.
 
