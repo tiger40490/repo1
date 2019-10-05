@@ -1,10 +1,20 @@
---qSG phase: 
-yoga insufficient positive feedback, too much physical pain, slightly too much $cost pressure
-.. how do I improve this time round?
-too much time spent with boy.. extremely low roti
+--qSG phase t-utilization in hind sight: 
+yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
+.. how do I improve this time?
+too much time spent with boy.. extremely low roti. Need to be more calculating on tcost. Beware of long journey
 msfm? low roti. Huge tcost like 10~15h/week per subject
 per investment? too much time on fsm + oanda
 extra time in office? too much non-work
+
+--biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
+* (safe default) more time in office to capture the absorbency, extend the honeymoon
+* weight management? demands time and energy
+* more frq exercise
+* c++ critical mass maintenance, but without IV :(
+? boy's academics? potentially frustrating
+? QQ+zbs on cloud
+? per investment, esp. on Robinhood?
+? quant refresh?
 
 --Q: too much "good stuff" in git-blog or too little?
 In theory, the coding drill content can occupy my time
