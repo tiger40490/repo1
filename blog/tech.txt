@@ -1,12 +1,27 @@
+--Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
+(I used msvs only for automated build as windows command line build is based on msvs.)
 
+in my java jobs, i often need to spend lots of time learning the ide features.
 --new
 intellij (even the community version) is much cleaner than eclipse
 
+My choice of java ide is based on
+1) other developers in the team, as I need their support
+
+2) online community support -- as most questions are usually answered there
+I think eclipse beats intellij 
+
+3) longevity -- I hate to learn a java ide and lose the investment when it disappears. 
+I think eclipse beats intellij, due to open-source
+
+*)other factors include "clean" 
+
 The most popular tools are often vastly inferior for me. Other examples:
-* my g++ install in strawberryPerl is better than all the windows g++ installs
-* my git-bash + g++ is a better IDE than all the fancy GUI tools
+* my g++ install in strawberryPerl is better than all the windows g++ installs esp. msvs
+* my git-bash + strawberryPerl is a better IDE than all the fancy GUI tools
 * wordpress beats blogger.com hands down
 * wordpad is a far simpler rich text editor than msword or browsers or mark-down editors
+
 --value-based types
 Optional.java is the only important example we know.
 
