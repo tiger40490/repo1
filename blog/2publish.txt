@@ -1,2 +1,23 @@
+--new? stress profile 2 Sep
+Stressor #1 new job ramp up during first month. First month passed with 80% effort. Some visible progress, but a lot more invisible progress.
+stressor #2 BGC payment
+stressor #3 satisfying sex. Not a destressor ... why? I seem to take it as a basic need but many people don't have it and still feel OK
+stressor: I took on the challenge to meet Ms Goh and address boy's math challenge. Stress is largely due to choices 
+[*] destressor: blogging as a tool for focus, clarification, zoom-in
+destressor: short commute, with git-blogging. I don't feel part of my precious spare time is "eroded" by commute
+[*] destressor: early sleep
+stressor: diet and weight? but I started on a new diet under very challenging conditions.
+stressor: yoga discontinued ... but I paid for a membership and created a powerful commitment .. highly effective
+destressor/declutter: cancelled Everyday ccard; cancelled multiple oc accounts
+[*] destressor: SGD expense tracking provided clarity and reassurance
+destressor: the HY exposure reduced
+destressor: converted USD 5k, as 5k at home is a stressor
+stressor: unpacking. luckily I did most of it on 2 Sep
+stressor: ikea lamp: luckily i used it enough times. Accept that we have lost that part.
+stressor: insufficient outgoing minutes... cost overrun.. consider buying more minutes just to contain the stress
+stressor: data overusage. I added mobile data limit
+
+[*=effective]
+
 --save wireless@sg pw into iview11
 door% wireless@sg tiger40490@starhub (without .com)/asdf [tiger40490@singtel/se8 broken?]

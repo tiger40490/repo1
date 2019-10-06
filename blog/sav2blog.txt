@@ -8,6 +8,13 @@
 
 --as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
 
+--new
+publishing from git-blog is multi-step -- create new blogpost (many clicks), tag, remove it from git-blog, commit then git-push
+
+Better do it in batch
+
+Similarly, relocating a blogpost is also multi-step.
+
 --fuxi: cigna
 30D emergency coverage in U.S.
 international emergency service - authorization needed
@@ -44,23 +51,3 @@ intelligence, memory capacity, clear thinking, sharp perception ... can help the
 
 Memory is a muscle.. I think corrective thinking like my twister SMS is also a muscle one can improve by everyday training.
 
---new? stress profile 2 Sep
-Stressor #1 new job ramp up during first month. First month passed with 80% effort. Some visible progress, but a lot more invisible progress.
-stressor #2 BGC payment
-stressor #3 satisfying sex. Not a destressor ... why? I seem to take it as a basic need but many people don't have it and still feel OK
-stressor: I took on the challenge to meet Ms Goh and address boy's math challenge. Stress is largely due to choices 
-[*] destressor: blogging as a tool for focus, clarification, zoom-in
-destressor: short commute, with git-blogging. I don't feel part of my precious spare time is "eroded" by commute
-[*] destressor: early sleep
-stressor: diet and weight? but I started on a new diet under very challenging conditions.
-stressor: yoga discontinued ... but I paid for a membership and created a powerful commitment .. highly effective
-destressor/declutter: cancelled Everyday ccard; cancelled multiple oc accounts
-[*] destressor: SGD expense tracking provided clarity and reassurance
-destressor: the HY exposure reduced
-destressor: converted USD 5k, as 5k at home is a stressor
-stressor: unpacking. luckily I did most of it on 2 Sep
-stressor: ikea lamp: luckily i used it enough times. Accept that we have lost that part.
-stressor: insufficient outgoing minutes... cost overrun.. consider buying more minutes just to contain the stress
-stressor: data overusage. I added mobile data limit
-
-[*=effective]
