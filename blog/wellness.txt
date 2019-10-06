@@ -1,3 +1,10 @@
+--new: weight-loss: popular yet ineffective ideas
+* fewer meal
+* avoid snacking
+* consistent meal timing
+* no big meal after dinner like 8pm
+* heavy breakfast, light dinner
+
 --fuxi: luxury, medically unnecessary -- these commercial offerings are effective for some athletes or patients, but not clinically proven to be nearly as effective as medicines
 * skincare products
 * hair treatments
