@@ -1,3 +1,5 @@
+--record on blog: dbs statement in a given month: one pdf for each combination of owners
+
 --new Q: what's the best use of additional 100k (assuming you can't invest it)?
 I will consider
 * lower-paying job with more satisfaction

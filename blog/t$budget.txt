@@ -1,3 +1,13 @@
+--One of the top 2 blogging lessons learnt -- avoid multiple open editors. Ideally one at a time.
+The browser tabs let you open multiple editors but doing so is a Very Bad Idea
+
+--one of the top 5 blogging lessons 
+git-blogging on multiple laptops has become risky as I often forget to sync up
+Try synching up in office before git-blogging on north train
+ 
+--should feel proud to fix the 0tiger40490 hotspot
+but it's not worthwhile to speed up the lenovo$399 laptop. 
+
 --5 Oct weekend in office
 * no blogging except Eng vocab + a bit of nutrition
 * sent out 2 x saved draft to Larry 

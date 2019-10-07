@@ -1,3 +1,7 @@
+--new
+In spreadsheets, prefer '4~6' rather than '4-6' as the latter is taken as a date !
+prefer ranking with a/b/c than 5/4/3 in excel due to capital-letter highlighting
+
 --Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
 (I used msvs only for automated build as windows command line build is based on msvs.)
 
