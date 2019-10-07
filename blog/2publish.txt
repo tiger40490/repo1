@@ -23,6 +23,3 @@ stressor: insufficient outgoing minutes... cost overrun.. consider buying more m
 stressor: data overusage. I added mobile data limit
 
 [*=effective]
-
---save wireless@sg pw into iview11
-door% wireless@sg tiger40490@starhub (without .com)/asdf [tiger40490@singtel/se8 broken?]
