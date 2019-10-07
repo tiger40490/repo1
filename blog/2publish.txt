@@ -1,8 +1,3 @@
---new blog: rotation lock: ActionCenter->bottom
-
---repo1/bash
-consider subdir bash/func_dot
-
 --new? stress profile 2 Sep
 Stressor #1 new job ramp up during first month. First month passed with 80% effort. Some visible progress, but a lot more invisible progress.
 stressor #2 BGC payment
