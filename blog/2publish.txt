@@ -1,3 +1,5 @@
+--new blog: rotation lock: ActionCenter->bottom
+
 --repo1/bash
 consider subdir bash/func_dot
 
