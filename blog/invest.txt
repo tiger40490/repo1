@@ -1,3 +1,7 @@
+--after hibernation, need to keep paying medishield since I may go without insurance
+
+--grandpa$$+me: maintain in github? security?
+
 --record on blog: dbs statement in a given month: one pdf for each combination of owners
 
 --new Q: what's the best use of additional 100k (assuming you can't invest it)?
