@@ -1,9 +1,11 @@
---
-git-blogging has extra tcost compared to 0.txt, WP, ...
-* git diff? needed
-* git commit with msg
+--new or fuxi?
+git-blogging has extra tcost compared to 0.txt (for small content) and also relative to WP, ...
+* tcost of git diff? needed
+* tcost of git commit with msg
 * don't forget to sync -- real stressor and headache
-* trouble-shooting connectivity
+* tcost of trouble-shooting connectivity
+
+Best to use a single laptop for git-blogging -- iview11 during weekdays
 
 WP blogging also has extra tcost compared to git-blogging, 0.txt ...
 
@@ -20,4 +22,4 @@ In theory, the coding drill content can occupy my time
 I feel printout material is still more "precious"
 
 --no need to launch git-bash every time.
-Learn to live with the risk of data loss
+Learn to live with the risk of data loss. I lived with that risk for years
