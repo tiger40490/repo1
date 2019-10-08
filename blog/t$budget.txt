@@ -1,13 +1,6 @@
 --consider going back to office in evening after boy's math drill
 avoid family dinner
 
---One of the top 2 blogging lessons learnt -- avoid multiple open editors. Ideally one at a time.
-The browser tabs let you open multiple editors but doing so is a Very Bad Idea
-
---one of the top 5 blogging lessons 
-git-blogging on multiple laptops has become risky as I often forget to sync up
-Try synching up in office before git-blogging on north train
- 
 --should feel proud to fix the 0tiger40490 hotspot
 but it's not worthwhile to speed up the lenovo$399 laptop. 
 
@@ -80,11 +73,6 @@ Coming home early for family time never worked for me. It probably works for man
 No reason to feel shame, pity, or inferiority.
 The best I could do in the evening open-house is ... see the open-house todo lists?
 
---Q: too much "good stuff" in git-blog or too little?
-In theory, the coding drill content can occupy my time
-
-I feel printout material is still more "precious"
-
 -- sometimes the review of weekend hour utilization is counter-productive. Everyone's weekend is mostly "rot" not burn, including my role models. In fact those who "achieve" more than 3 hours of burning each weekend are probably fictional characters or doing something bad to their body and mind.
 
 Probably they are focusing on something not so strategic or high-leverage, by my standard.
@@ -133,9 +121,6 @@ watch out my personal tcost. I could allocate it to
 * mlp prj + related self-xx
 * coding drill
 * c++/java QQ
-
---no need to launch git-bash every time.
-Learn to live with the risk of data loss
 
 --nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
 Yoga eats into work and family time..requires a lot of time including commute, preparation, arriving in advance and trying to read/blog there, (or kicked out) 

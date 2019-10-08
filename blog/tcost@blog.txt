@@ -1,0 +1,23 @@
+--
+git-blogging has extra tcost compared to 0.txt, WP, ...
+* git diff? needed
+* git commit with msg
+* don't forget to sync -- real stressor and headache
+* trouble-shooting connectivity
+
+WP blogging also has extra tcost compared to git-blogging, 0.txt ...
+
+--One of the top 2 blogging lessons learnt -- avoid multiple open editors. Ideally one at a time.
+The browser tabs let you open multiple editors but doing so is a Very Bad Idea
+
+--one of the top 5 blogging lessons 
+git-blogging on multiple laptops has become risky as I often forget to sync up
+Try synching up in office before git-blogging on north train
+ 
+--Q: too much "good stuff" in git-blog or too little?
+In theory, the coding drill content can occupy my time
+
+I feel printout material is still more "precious"
+
+--no need to launch git-bash every time.
+Learn to live with the risk of data loss
