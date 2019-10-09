@@ -50,3 +50,8 @@ Out-ranked by
 * yoga
 
 How about mini sessions like yoga, skip-rope, chin-up?
+
+--important but not urgent:
+flexibility
+coding drill
+c++ critical mass maintenance
