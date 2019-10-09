@@ -1,13 +1,3 @@
---no blog: compared to c++US days,
-more time on boy -- far more than half my spare time
-more distractions at home
-more time talking to wife
-more time on family outing
-less time on food preparation, thanks to maid + wife
-less time on commute
-more hours in office
-
-
 --very hard to "work" at home while managing boy's math drill. Problem is context switching tcost
 
 --morning home hours (7 - 8.30) tend to be spent on 
@@ -23,6 +13,8 @@ tech xx is also burn, but less tough.
 avoid family dinner .. unwanted nutrition
 
 put down the food asap. Process emails. select some pleasurable GTD tasks to get into the zone. If needed, get some convenient food 
+
+focus on the honeymoon and laser focus
 
 --fuxi: 5 Oct weekend in office
 * no blogging except Eng vocab + a bit of nutrition
@@ -40,44 +32,6 @@ i tend to feel guilty about time usage [1] in office, but i feel worst at home.
 
 [1] often up to 30% burn and up to 30% rot (like blogging, surfing, calling..)
 
---after weekend hours (not necessarily working) in office, I often feel less motivated on Monday.
-
-honeymoon is best.
-
---qSG phase t-utilization in contrast to this hibernation: 
-yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
-.. how do I improve this time?
-too much time spent with boy.. extremely low roti. Need to be more calculating on tcost. Beware of long journey
-msfm? low roti. Huge tcost like 10~15h/week per subject
-per investment? too much time on fsm + oanda
-extra time in office? too much non-work
-
---a month into my hibernation, my time (i.e. laser, O2) still feels so precious
-priorities? 
-
-new job -- localSys, respect, ...
-help my son's math exams
-blogging -- analysis and juggling, like OS scheduler, competing with the tasks being scheduled
-LG-recreation: time with meimei
-LG-recreation: per-investment
-LG2: discussion with friends. Email is far more efficient
-LG2: discussion with grandparents
-LG2: coding drill, 
-LG2: c++maintenance? Lucky I could rely on the critical mass
-LG2: yoga + workout? mini-workout is very time-efficient
-+ food preparation: maid is great time-saver
-+ commute is a huge time-saver
-+ git-blogging + smemo-blogging whenever and wherever I have the inspiration
-
---biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
-* (safe default) more time in office to capture the absorbency, extend the honeymoon
-* weight management? demands time and energy
-* more frq exercise
-* c++ critical mass maintenance, but without IV :(
-? boy's academics? potentially frustrating
-? QQ+zbs on cloud
-? per investment, esp. on Robinhood?
-? quant refresh?
 
 --fuxi: should feel proud to fix the 0tiger40490 hotspot
 but it's not worthwhile to speed up the lenovo$399 laptop. 
@@ -110,15 +64,6 @@ Anyway, a fixation on burn/rot, leverage etc is mostly counterproductive
 flexibility
 coding drill
 c++ critical mass maintenance
-
---why no CIV? +ve Feedback loop is now broken
-Out-ranked by
-* parenting including boy's math. Detached supervision is hard. 
-* family time? what is it?
-* ramp up -- driven by respect, self-respect, honeymoon
-* yoga
-
-How about mini sessions like yoga, skip-rope, chin-up?
 
 --I am so used to measuring roti in terms of gz including tech xx and work projects
 
