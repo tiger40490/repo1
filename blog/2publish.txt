@@ -1,11 +1,10 @@
---80/96 simplify the ratio
-similar ones?
-48:240
-180:64
-54:120
-84:160
+--80/96 simplify the ratio. More useful than common multiple
+48/240
+180/64
+54/120
+84/160
 36/150
-64:72
-28:84
+64/72
+28/84
 
 multiple simple steps

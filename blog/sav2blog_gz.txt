@@ -1,13 +1,13 @@
 --new
 Majority of the effective, efficient, productive tech professionals don't work long hours because they already earn enough. Some of them can retire if they want to.
 
-Some percentage of them leave a big company, or a high position, sometimes to join a startup. One of the reasons -- already earned enough.
+Some percentage of them quit a big company or a high position, sometimes to join a startup. One of the reasons -- already earned enough.
 
-Most of them value work-life balance. Probably half of them put the value not in words but in action.
+Most of them value work-life balance. Half of them put the value not in words but in action.
 
 Many of them still choose to work hard because they love what they do, or want to achieve more, not because no-choice.
 
---no blogpost: 
+--new: 
 I have achieved basic ffree. So my peerComp pain is like the rich feeling outpaced by a tycoon... endless greed, mindless peer comparison.
 
 The tendency to compare to our neighbors is ... a basic human tendency, like envy. Even a child can experience that. However, it takes a rational mind (wisdom) to control the tendency.
@@ -19,8 +19,8 @@ How about mvea job?
  
 Q: why I feel more dedicated (and motivated) on this job compared to earlier jobs?
 
-* colleagues are less dedicated
-* sense of urgency
+* colleagues are less dedicated, but same at OC
+* a small but growing sense of urgency
 * I feel I could exceed mgr expectation with 90% effort
 
 --tech xx used to be my biggest "burn", bigger than workout, quant, ...
