@@ -1,3 +1,6 @@
+
+--update blogpost: I like the PIP abbr as it is shorter and well-defined outside my own nomenclature
+
 --80/96 simplify the ratio. More useful than common multiple
 48/240
 180/64

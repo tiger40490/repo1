@@ -1,12 +1,3 @@
---new
-Majority of the effective, efficient, productive tech professionals don't work long hours because they already earn enough. Some of them can retire if they want to.
-
-Some percentage of them quit a big company or a high position, sometimes to join a startup. One of the reasons -- already earned enough.
-
-Most of them value work-life balance. Half of them put the value not in words but in action.
-
-Many of them still choose to work hard because they love what they do, or want to achieve more, not because no-choice.
-
 --new: 
 I have achieved basic ffree. So my peerComp pain is like the rich feeling outpaced by a tycoon... endless greed, mindless peer comparison.
 
@@ -23,9 +14,14 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * a small but growing sense of urgency
 * I feel I could exceed mgr expectation with 90% effort
 
---tech xx used to be my biggest "burn", bigger than workout, quant, ...
-I used to focus not only on QQ, but also zbs, and even localSys
-Now the roti of tech xx is much lower than before.
+--new
+Majority of the effective, efficient, productive tech professionals don't work long hours because they already earn enough. Some of them can retire if they want to.
+
+Some percentage of them quit a big company or a high position, sometimes to join a startup. One of the reasons -- already earned enough.
+
+Most of them value work-life balance. Half of them put the value not in words but in action.
+
+Many of them still choose to work hard because they love what they do, or want to achieve more, not because no-choice.
 
 --beware of oth
 Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert has only a limited view of that reality, based on limited data.
@@ -41,6 +37,3 @@ my perceptions shape my selective listening. Gradually, actively, my selective l
 Am basically analyzing my perception of the reality, but that's the best I could do. I'm good at analyzing myself as an object.
 
 Refusing to plan because of high uncertainty is lazy, is pessimistic, is doomed.
-
---I like the PIP abbr as it is shorter and well-defined outside my own nomenclature
-
