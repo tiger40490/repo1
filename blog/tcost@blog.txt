@@ -1,9 +1,8 @@
 --j4 blogging on tcost
-my time allocation, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
+my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
+In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
 
-I can be more rational via blogging. Blogging takes lots of laser + time.
-
-Similarly, I can become more rational about my son's studies and weight, via blogging. But the blogging takes lots of mental energy + time
+On a similar note, I can become more rational about my son's studies and weight, via blogging. But the blogging takes lots of mental energy + time
 
 --new or fuxi?
 git-blogging has extra tcost compared to 0.txt (for small content) and also relative to WP, ...
@@ -23,6 +22,8 @@ The browser tabs let you open multiple editors but doing so is a Very Bad Idea
 git-blogging on multiple laptops has become risky as I often forget to sync up
 Try synching up in office before git-blogging on north train
  
+Try restricting myself to a single laptop.
+
 --Q: too much "good stuff" in git-blog or too little?
 In theory, the coding drill content can occupy my time
 

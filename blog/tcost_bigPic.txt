@@ -1,19 +1,19 @@
 --spare time usage:
-v yoga
+yoga
 stadium
-exercise corner
+^ exercise corner + home + office mini-exercise
 v coding drill
 boy's math
-v git-blogging
-v food prep
-v emailing with friends? 
+git-blogging?
+v food preparation
+v emailing or meeting with friends? 
 shopping with boy as a reward
 
 --no blog: compared to c++US days,
 more time on boy -- far more than half my spare time
 more distractions at home
-more time talking to wife
-more time on family outing
+more time talking to wife ... good. Was too little 
+huge amount of time on family outing ... need to work on tcost and roti. Perhaps I should come home early to exercise, study(?), blog ... (so as to reduce tcost)
 less time on food preparation, thanks to maid + wife
 less time on commute
 more hours in office
