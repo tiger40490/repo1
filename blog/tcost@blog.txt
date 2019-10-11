@@ -1,4 +1,13 @@
---j4 blogging on tcost
+--
+ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
+
+ideas captured during work hours? Git-blog would become a slippery slop. 
+
+* first capture raw content in mslo task/draft. Can't easily transcribe to git-blog. 
+* Some content I can chew over in MSOL then post to WP.
+* For the rest, Over weekend, select some "hatched" content to transcribe to NEW file on github, then sync to laptop
+
+--j4 thinking/blogging about tcost, tbudget etc
 my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
 In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
 
