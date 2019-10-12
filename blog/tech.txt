@@ -1,11 +1,3 @@
---new blogpost: standard free tools
-I favor free, standard tools because in some places we have nothing else
-•	Git-bash
-•	Putty + screen
-•	Notepad++ and text files, instead of RTF 
-•	Standard diff tools
-•	VIM, available in git-bash !
-
 --Martin's low-latency java talk
 Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
 

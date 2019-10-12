@@ -3,9 +3,7 @@ b@a
 citi smrt
 --install a browser
 --iSOS
-App is in company mobile. Need to register on the app.
-
-Before travelling, better ask tech support how to set up data roaming…
+Before traveling, better ask tech support how to set up data roaming + local assistance
 
 In a foreign country, all medical costs are covered by Cigna, but we should call iSOS for advice or repatriation
 
@@ -31,3 +29,11 @@ Daily cash rider is worth keeping until we leave SG. No question.
 36/150
 64/72
 28/84
+
+--new blogpost: standard free tools
+I favor free, standard tools because they are my only choice in some companies
+•	Git-bash
+•	Putty + screen
+•	Notepad++ and ascii files, instead of RTF 
+•	Standard diff tools
+•	VIM, available in git-bash !
