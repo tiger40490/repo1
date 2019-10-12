@@ -1,4 +1,21 @@
---someone said "Inline IS the optimization"
+--new blogpost: standard free tools
+I favor free, standard tools because in some places we have nothing else
+•	Git-bash
+•	Putty + screen
+•	Notepad++ and text files, instead of RTF 
+•	Standard diff tools
+•	VIM, available in git-bash !
+
+--Martin's low-latency java talk
+Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
+
+My Questions
+Q: for low latency should we avoid concurrency ?
+
+Q: If I don’t use heap, and only use stack and static memory….?
+A: heap allows sharing between threads
+
+Q: why is JIT not available to c++?
 
 --pointer as a field of a class is uninitialized by default
 I think Ashish's test shows it

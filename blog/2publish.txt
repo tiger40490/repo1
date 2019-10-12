@@ -1,3 +1,17 @@
+--pay off ccard bills: 
+b@a
+citi smrt
+--install a browser
+--iSOS
+App is in company mobile. Need to register on the app.
+
+Before travelling, better ask tech support how to set up data roaming…
+
+In a foreign country, all medical costs are covered by Cigna, but we should call iSOS for advice or repatriation
+
+--add to open blog
+@reboot is a special crontab feature
+
 --update incomeShield
 Across Singapore, shield Riders covering 100% of deductible + coinsurance are no longer available to new buyers, but existing policies are unaffected. Plus rider annual premium would likely grow.
 
