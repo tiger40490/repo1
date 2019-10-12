@@ -12,21 +12,21 @@ how do I block it permanently?
 --
 Over this hibernation period I could target
 respect at work
-diet habit, 
-weight, 
-boy's studies (benchmark++), 
+weight and diet habit 
+boy's studies -- benchmark++
 net savings, 
-fitness (yoga), 
-coding drill (hard to measure)
-QQ gain
+fitness -- esp. yoga, 
+coding drill -- hard to measure
+QQ gain -- easier than coding drill
 ...
 
-qSG period I focused on some questionable targets (dnlg QQ, C++/c# trec, branch-out, renzi) and didn't feel fulfilled, probably due to PIP. I did achieve basic ffree
+qSG period I focused on some questionable targets (dnlg QQ, C++/c# trec, branch-out, renzi) and didn't feel fulfilled, probably due to PIP. I did achieve basic ffree and trec in c++.
 
 c++US period I had success with c++ trec, weight, yoga, coding drill, housing plan, but rather few visible progress.
 
 Which do I prefer? #all relatively unbalanced, but realistic
-Scenario 1: maintain the healthy weight (64kg) and diet; some respect; no visible progress esp. with boy
+
+Scenario 1: maintain the super-healthy weight (64kg) and diet; some respect; no visible progress esp. with boy
 
 Scenario 2: QQ build-up, maintain c++critical mass, keep up coding drill, weight maintain at 66 kg but no other visible progress
 
