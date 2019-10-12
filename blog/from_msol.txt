@@ -1,0 +1,69 @@
+====places to visit
+-- Day trips:
+Jewel@Changi
+
+-- staycation
+Downtown East
+Changi Village
+
+-- regional
+Penang
+Bali
+Batam
+Bintan
+Tioman island
+
+===
+--iSOS
+App is in company mobile. Need to register on the app.
+
+Before travelling, better ask tech support how to set up data roaming…
+
+In a foreign country, all medical costs are covered by Cigna, but we should call iSOS for advice or repatriation
+
+--add to open blog
+@reboot is a special crontab feature
+
+--new blogpost: standard free tools
+I favor free, standard tools because in some places we have nothing else
+•	Git-bash
+•	Putty + screen
+•	Notepad++ and text files, instead of RTF 
+•	Standard diff tools
+•	VIM, available in git-bash !
+
+--Martin's low-latency java talk
+Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
+
+My Questions
+Q: for low latency should we avoid concurrency ?
+
+Q: If I don’t use heap, and only use stack and static memory….?
+A: heap allows sharing between threads
+
+Q: why is JIT not available to c++?
+
+--new: cake better buy small slice
+big ice-cream/cake is cheaper but more damaging than small slices.
+
+Small slice is expensive but relieves me of the struggle, pain and guilt of overeating.
+
+My last experience – big slice of choco cake from CakeHistory … unable to leave half to next day
+--new blogpost: nuts
+Very few people point out the high fat + high calorie content of just a few nuts. See the picture  of 100g of nuts in ….
+
+Other website highlight that nut fat is heart-healthy.
+
+I like the Raffles magazine summary – need portion control to tiny amount of nuts…. so tiny that I would rather eat a big serving once a few months.
+
+I think tiny amount of nuts are good for salad.
+
+My son doesn’t need so much heart-healthy fat. He can enjoy nuts but in very small quantity
+--why I have a warming feeling for New York City
+After talking to you about your first impression with NYC, I decided to take this opportunity to reflect why I have a warming feeling for the big apple.
+
+Many Americans tell me NYC is full of energy.  There are many young people, and many events. They make me feel lively, not lonely. I certainly wish to see more Chinese faces. Luckily, some of the young people and older people attracted to New  York City are actually Chinese. 
+
+The three Chinatowns in NYC (Manhattan Chinatown, Flushing and eighth avenue) make me feel less isolated than in other U.S. cities.  Jersey City also has a large Chinese population, much higher than an average U.S. city.
+
+Incomes are slightly higher in NYC than other U.S. cities. I feel lucky for that. Even though prices are also higher, I don’t usually buy anything in Manhattan. As a result, I get to save more in NYC than other cities. 
