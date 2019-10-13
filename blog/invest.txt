@@ -1,3 +1,6 @@
+--
+in SG more than U.S., financial orgnanizations assume everyone has a local smart phone. ...  major headache when I'm overseas !
+
 --Ashish's INR CD 
 convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
 cost: bank FX spread
