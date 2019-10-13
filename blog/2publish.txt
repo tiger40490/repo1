@@ -1,7 +1,7 @@
 --new blogpost: standard free tools
 I favor free, standard tools because they are my only choice in some companies
-•	Git-bash
-•	Putty + screen
-•	Notepad++ and ascii files, instead of RTF 
-•	Standard diff tools
 •	VIM, available in git-bash !
+•	Putty + screen
+•	Git-bash
+•	Notepad++ and ascii files in 'recoll', instead of RTF 
+•	Standard diff tools
