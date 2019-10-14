@@ -1,3 +1,7 @@
+--new: replace whole milk with lite icecream
+Is icecream fattening. It feels like whole milk.
+
+Perhaps I should replace a litter of whole milk with a cup of icecream?
 
 --new: cake better buy small slice
 big ice-cream/cake is cheaper but more damaging than small slices.
@@ -16,6 +20,12 @@ I like the Raffles magazine summary – need portion control to tiny amount of n
 I think tiny amount of nuts are good for salad.
 
 My son doesn’t need so much heart-healthy fat. He can enjoy nuts but in very small quantity
+
+--loss ratio
+mini-exercise has low overhead .. low loss
+group class and jogging ... continuous
+swimming has the poorest ratio
+cycling is too light.. poor ratio
 
 --yoga or jogging [1] can interfere with my xx/codingDrill, boy's math, work laser ...
 
