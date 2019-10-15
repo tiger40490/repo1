@@ -1,3 +1,9 @@
+--now I feel the FSM process is poor efficiency
+slow selection
+distraction
+if I invest more, distraction would grow. 
+If I invest less, the profit potential would remain low.. low roti. Just recreational investing.
+
 --new
 publishing from git-blog is multi-step -- create new blogpost (many clicks), tag, remove it from git-blog, commit then git-push
 
