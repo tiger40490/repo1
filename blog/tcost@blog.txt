@@ -1,10 +1,11 @@
 --new
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
-ideas captured during work hours? Git-blog would become a slippery slop. 
+ideas captured during work hours? Git-blog would become a slippery slope.
 
-* first capture raw content in mslo task/draft. Can't easily transcribe to git-blog. 
+* first capture raw content in mslo task/draft. Can't easily transcribe to git-blog.
 * Some content I can chew over in MSOL then post to WP, but risk is slippery slope
+* Some content I should simply send to gmail and post from home
 * For the rest, Over weekend, select some content and transcribe to tmp NEW file on github, then sync to laptop
 
 NEW file reduces risk of merge conflict.
