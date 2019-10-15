@@ -61,19 +61,9 @@ Changi Village
 -- regional
 Penang
 Bali
-Batam
-Bintan
+Batam - very near
 Tioman island
 ===
---email to Miles: why I have a warming feeling for New York City
-After talking to you about your first impression with NYC, I decided to take this opportunity to reflect why I have a warming feeling for the big apple.
-
-Many Americans tell me NYC is full of energy.  There are many young people, and many events. They make me feel lively, not lonely. I certainly wish to see more Chinese faces. Luckily, some of the young people and older people attracted to New  York City are actually Chinese. 
-
-The three Chinatowns in NYC (Manhattan Chinatown, Flushing and eighth avenue) make me feel less isolated than in other U.S. cities.  Jersey City also has a large Chinese population, much higher than an average U.S. city.
-
-Incomes are slightly higher in NYC than other U.S. cities. I feel lucky for that. Even though prices are also higher, I don’t usually buy anything in Manhattan. As a result, I get to save more in NYC than other cities. 
-
 --
 eg: accidental data usage -- waipo, grandma and me all did that with singtel prepaid card. It's a trap!
 eg: starhub tv remote control : paid a channel by accident
@@ -85,7 +75,9 @@ Why i experience so much pain? I think I can learn to relax and accept just as I
 --biggest problem with singtel prepaid card: accidental data usage
 how do I block it permanently?
 
---
+As soon as I buy a new card or refill card, I should disable internet
+
+--new?
 Over this hibernation period I could target
 respect at work
 weight and diet habit 
@@ -110,14 +102,6 @@ Scenario 3: huge time on math without benchmark improvement; some respect; but n
 
 Scenario 4: some time on math without benchmark improvement; some respect; some QQ/codingDrill; weight back up to 67 - 70kg
 
---no blogpost: my current struggles #tectonic:
-* boy's math? Is it my job or his job? In theory If I don't take any ownership then the pressure is completely off ... but realistically?
-* [t] calorie count? I feel the Singapore climate adds 5 kg, even if my starch intake is halved 3 times
-* yoga? now easier once I paid the membership fee :)
-* figure-out-speed ] localSys
-* [t?] CIV? LG2. How about review or simple problems?
-* [t=tough struggle]
-
 --as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
 
 --new
@@ -126,6 +110,17 @@ publishing from git-blog is multi-step -- create new blogpost (many clicks), tag
 Better do it in batch
 
 Similarly, relocating a blogpost is also multi-step.
+
+--email to Miles: why I have a warm feeling for New York City
+After hearing your first impression of NYC, I decided to take this opportunity to reflect why I have a warm feeling for the big apple.
+
+Many Americans tell me NYC is full of energy.  There are many young people, and many events. They make me feel lively, not lonely. I certainly wish to see more Chinese faces. Luckily, some of the young people (and older people) attracted to New  York City are actually Chinese.
+
+The three Chinatowns in NYC (Manhattan Chinatown, Flushing and eighth avenue) make me feel less isolated than in other U.S. cities.  Jersey City also has a large Chinese population, much higher than an average U.S. city.
+
+NYC is more diverse, and less white.
+
+Incomes are slightly higher in NYC than other U.S. cities. I feel lucky for that. Even though prices are also higher, I don’t usually buy anything in Manhattan. As a result, I get to save more in NYC than other cities. 
 
 --fuxi: cigna
 30D emergency coverage in U.S.
@@ -162,4 +157,12 @@ intelligence, memory capacity, clear thinking, sharp perception ... can help the
 "Mindfulness" is a therapy. This therapy can even cope with brain aging.
 
 Memory is a muscle.. I think corrective thinking like my twister SMS is also a muscle one can improve by everyday training.
+
+--no blogpost: my current struggles #tectonic:
+* boy's math? Is it my job or his job? In theory If I don't take any ownership then the pressure is completely off ... but realistically?
+* [t] calorie count? I feel the Singapore climate adds 5 kg, even if my starch intake is halved 3 times
+* yoga? now easier once I paid the membership fee :)
+* figure-out-speed ] localSys
+* [t?] CIV? LG2. How about review or simple problems?
+* [t=tough struggle]
 
