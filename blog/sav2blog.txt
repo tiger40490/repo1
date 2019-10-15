@@ -92,6 +92,10 @@ qSG period I focused on some questionable targets (dnlg QQ, C++/c# trec, branch-
 
 c++US period I had success with c++ trec, weight, yoga, coding drill, housing plan, but rather few visible progress.
 
+as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
+
+I can possibly focus on maintenance -- coreJava, c++. coding drill? Not sure
+
 Which do I prefer? #all relatively unbalanced, but realistic
 
 Scenario 1: maintain the super-healthy weight (64kg) and diet; some respect; no visible progress esp. with boy
@@ -101,9 +105,6 @@ Scenario 2: QQ build-up, maintain c++critical mass, keep up coding drill, weight
 Scenario 3: huge time on math without benchmark improvement; some respect; but no visible progress.
 
 Scenario 4: some time on math without benchmark improvement; some respect; some QQ/codingDrill; weight back up to 67 - 70kg
-
---as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
-
 
 --email to Miles: why I have a warm feeling for New York City
 After hearing your first impression of NYC, I decided to take this opportunity to reflect why I have a warm feeling for the big apple.
