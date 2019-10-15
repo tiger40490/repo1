@@ -104,12 +104,6 @@ Scenario 4: some time on math without benchmark improvement; some respect; some 
 
 --as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
 
---new
-publishing from git-blog is multi-step -- create new blogpost (many clicks), tag, remove it from git-blog, commit then git-push
-
-Better do it in batch
-
-Similarly, relocating a blogpost is also multi-step.
 
 --email to Miles: why I have a warm feeling for New York City
 After hearing your first impression of NYC, I decided to take this opportunity to reflect why I have a warm feeling for the big apple.
@@ -122,9 +116,8 @@ NYC is more diverse, and less white.
 
 Incomes are slightly higher in NYC than other U.S. cities. I feel lucky for that. Even though prices are also higher, I don’t usually buy anything in Manhattan. As a result, I get to save more in NYC than other cities. 
 
-
 --new: clear thinking->less irrational
-intelligence, memory capacity, clear thinking, sharp perception ... can help the individual deal with depression and pessimism. I think most pessimistic thoughts are irrational and/or biased.
+intelligence, memory capacity, clear thinking, sharp perception ... can help the individual deal with depression, pessimism, anxiety, emotional pains. I think most pessimistic thoughts are irrational and/or biased.
 
 "Explanatory style" .. see [[learned optimism]]
 
@@ -139,4 +132,3 @@ Memory is a muscle.. I think corrective thinking like my twister SMS is also a m
 * figure-out-speed ] localSys
 * [t?] CIV? LG2. How about review or simple problems?
 * [t=tough struggle]
-

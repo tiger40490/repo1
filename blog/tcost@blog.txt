@@ -1,4 +1,11 @@
 --new
+publishing from git-blog is multi-step -- create new blogpost (many clicks), tag, remove it from git-blog, commit then git-push
+
+Better do it in batch
+
+Similarly, relocating a blogpost is also multi-step.
+
+--new
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
 gmail is an alternative ... if need to update on home laptop
