@@ -1,8 +1,22 @@
+--cpu set seems to be a linux feature, not just a container feature
+
+--sched_setaffinity is a syscall!
+all other *affinity* functions are based thereon
+
+*_np in function name means non-portable
+
+--C continues to dominates in system programming
+low-latency
+sys calls
+socket programming
+pthreads
+
 --Martin's low-latency java talk
 Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
 
 My Questions
 Q: for low latency should we avoid concurrency ?
+%%A: parallel processing in STM is good but avoid any form of synchronization 
 
 Q: If I don’t use heap, and only use stack and static memory….?
 A: heap allows sharing between threads
