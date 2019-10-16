@@ -1,9 +1,15 @@
---now I feel the FSM process is poor efficiency
+--now I feel my FSM process is low-efficiency
 slow selection
 distraction
 if I invest more, distraction would grow. 
 If I invest less, the profit potential would remain low.. low roti. Just recreational investing.
 
+Shall I control it so I invest bigger amounts provided I don't do anything during office hours. Perhaps set sms to wife's number
+
+--China funds
+now is good time to invest my SGD to buy China stocks?
+
+I found about 5 "good" china funds, but very few in SGD, so let's invest in them all.
 --
 without going to BGC, I doubt Chun Tih would do anything. But better confirm with him before going
 
@@ -13,7 +19,7 @@ cost: bank FX spread
 risk: FX ~ 2% a year
 tcost is very low. Just transfer $1k to Ashish
 
---grandpa$$+me: maintain in google drive? security?
+--grandpa$$+me: maintain in google drive? higher security than github?
 
 --new Q: what's the best use of additional 100k (assuming you can't invest it)?
 I will consider
