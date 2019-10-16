@@ -26,19 +26,5 @@ In this battle, I can become more rational via blogging. Blogging takes lots of 
 
 On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
 
---new or fuxi?
-git-blogging has extra tcost compared to 0.txt (for small content) and also relative to WP, ...
-* tcost of git diff? needed
-* tcost of git commit with msg
-* don't forget to sync -- real stressor and headache
-* tcost of trouble-shooting connectivity
-
-Best to use a single laptop for git-blogging -- iview11 during weekdays
-
-WP blogging also has extra tcost compared to git-blogging, 0.txt ...
-
---One of the top 2 blogging lessons learnt -- avoid multiple open editors (except on company computer). Ideally one at a time.
+--fuxi: One of the top 2 blogging lessons learnt -- avoid multiple open editors (except on company computer). Ideally one at a time.
 The browser tabs let you open multiple editors but doing so is a Very Bad Idea
-
---no need to launch git-bash every time.
-Learn to live with the risk of data loss. I lived with that risk for years
