@@ -1,11 +1,3 @@
-
---new
-publishing from git-blog is multi-step -- create new blogpost (many clicks), tag, remove it from git-blog, commit then git-push
-
-Better do it in batch
-
-Similarly, relocating a blogpost is also multi-step.
-
 --new
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
@@ -19,6 +11,15 @@ ideas captured during work hours? Git-blog would become a slippery slope. A bigg
 * For the rest, Over weekend, select some content and transcribe to tmp NEW file on github, then sync to laptop
 
 NEW file reduces risk of merge conflict.
+
+--fuxi
+publishing from git-blog is multi-step -- create new blogpost (many clicks), tag, remove it from git-blog, commit then git-push
+
+Better do it in batch
+
+better do the WP tagging in batch
+
+Similarly, relocating a blogpost is also multi-step.
 
 --j4 thinking/blogging about tcost, tbudget etc
 my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
