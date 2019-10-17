@@ -1,3 +1,6 @@
+--I need reliable history of the realized dividend yield for each stock
+Robinhood doesn't provide it. Might be a good thing.
+
 --now I feel my FSM process is low-efficiency
 slow selection
 distraction
