@@ -1,4 +1,4 @@
---digitize a pool of 20-> 50 common and EASY problem sum questions at p2-p4 levels
+--digitize a pool of 10-> 20 common and EASY problem sum questions at p2-p4 levels
 Ensure he masters the common pattern-recog. I think the patterns are also relevant in the U.S. exams.
 
 Tie big rewards () and small rewards() to his performance on MY questions.
@@ -17,9 +17,17 @@ Looking back, we often feel and say it was a minor thing, but in the moment it i
 my criticism on boy is mostly about effort and absorbency. 
 but my own absorbency is also limited. So is my wife's absorbency. 五十步笑百步。 I'm unable to do x leetcode problems a week!
 
+I think I know the consequences better than he does.
+I guess he lacks self-discipline, seriously lacking
+
 I think my son is making serious effort. His math talent and absorbency (abilities) is limited. If that's the case we have no reason to blame him. We should accept him as he is.
 
 Is Absorbency part of effort or abilities? Now I don't know. In my case, it's abilities. In my son, i tend to see it as effort... double standard!
+
+--new blogpost: xxxq = interest for learning specific topics
+Here I'm excluding physical skills, but "learning" doesn't equal classroom learning.
+
+I would say whenever my son reads a book he is learning something, not always academic.
 
 --new blogpost: non-academic kids
 With non-academic kids, perhaps it's more important to find his strengths + xxxq, after we accept their academic limitations. 
