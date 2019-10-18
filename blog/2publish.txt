@@ -1,3 +1,11 @@
+--new blogpost: high cost of micro-managing boy's study #flight
+Scenario: on flight to Manila, I just did some QQ or coding drill and can continue but i noticed boy had been watching TV for a few hours, so I told myself Let's take a break and help boy with some math practice. There are multiple problems with this line of thinking.
+
+* the hours on flight are really precious. After the flight, I often remember the productivity level for a long time. This long-term memory has a deeper impact on my self-image and self-assessment than weekend productivity. It has even higher impact than commute productivity. Self-assessment is crucial.
+
+* the ROTI with boy is actually very very low. The real progress would come from within not from parents. There's a deep-rooted cultural bias that parents ought to keep spending more and more hours with kids (like Raymond), and should never give up on the kids. It ignores the ROTI and opportunity cost of parent's time.
+
+* on flight, boy was not in the mood to study. Again, I tend to brush it aside and feel the obligation to change his habit with determination and persistence. It becomes a confrontation and a struggle. Now I think this form of insistent control is too costly as it drains a parent's time and emotional energy. We should NOT ignore these costs.
 
 --propose, agree and print out
 Every loss of his personal belongings -> fine of 10x the value. Transfer the fine amount to Grandpa's account
