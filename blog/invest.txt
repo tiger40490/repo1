@@ -1,5 +1,5 @@
 --I need reliable history of the realized dividend yield for each stock
-Robinhood doesn't provide it. Might be a good thing.
+Robinhood doesn't provide it. Might be a good thing -- less distraction
 
 --now I feel my FSM process is low-efficiency
 slow selection
@@ -11,12 +11,6 @@ Shall I control it so I invest bigger amounts provided I don't do anything durin
 
 --China funds
 now is good time to invest my SGD to buy China stocks?
-
---Ashish's INR CD 
-convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
-cost: bank FX spread
-risk: FX ~ 2% a year
-tcost is very low. Just transfer $1k to Ashish
 
 --grandpa$$+me: maintain in google drive? higher security than github?
 
@@ -39,3 +33,9 @@ If we keep control over our burn rate, basic ffree is not unrealistic, largely t
 --fuxi: SG is a consumer city. Sooo many low-cost or high-cost "goods" including heavy marketing of overseas vacation destinations. I believe overseas vacations are very expensive, lavish and not worthwhile at all.
 
 I need to stand my ground and accept only SEA destinations. No Japan please
+
+--Ashish's INR CD 
+convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
+cost: bank FX spread
+risk: FX ~ 2% a year
+tcost is very low. Just transfer $1k to Ashish
