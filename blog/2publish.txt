@@ -52,7 +52,7 @@ Scenario: on flight to Manila, I just did some QQ or coding drill and can contin
 Every loss of his personal belongings -> fine of 10x the value. Transfer the fine amount to Grandpa's account
 
 --new blogpost: need to avoid...
-Need to avoid micromanaging his homework.
+Need to avoid micromanaging his homework and losing my cool
 Need to avoid comparing with me on STEM subjects
 Need to avoid talking to LianZhong or other parents with academic kids ... counterproductive
 
@@ -115,6 +115,11 @@ I will consider
 * lower-paying job with more satisfaction
 * more frq visits with grandparents
 * vacations at nearby locations. There are plenty of world class yet low-cost destinations in SEA and China. No Japan no Korea please -- luxury and unnecessary. Our family life isn't less complete without them.
+
+--blockbuster success stories
+starch reduction
+early sleep, early rise
+salad everyday for 2 months
 
 --fuxi: cigna
 30D emergency coverage in U.S.
