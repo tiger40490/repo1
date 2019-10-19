@@ -1,3 +1,17 @@
+-- boy_percentageConvert.xlsx
+20% as ratio
+35% as ratio
+70% as ratio
+45% in decimal
+0.033 as percentage
+0.402 as percentage. Is there an approximate ratio 
+2/5 as percentage
+1/4 as percentage
+1/10 as percentage
+3/10 as percentage
+1/8 as percentage
+7/20 as percentage 
+
 --update blogpost: losing my cool
 losing my cool by saying harsh words is still more controlled than smashing/breaking.
 
@@ -12,7 +26,7 @@ Later I had good absorbency i.e. tolerance for dry subjects.
 Many classmates refused to study English -- completely irrelevant to their lives. Same attitude as my son?
 
 --email to xr:
-A few months ago, you said that because of your son, you have to put in a lot of effort, a lot more than other parents. I now have a deeper understanding, after analyzig my son's math learning.
+A few months ago, you said that because of your son, you have to put in a lot of effort, a lot more than other parents. I now have a deeper understanding, after analyzing my son's math learning.
 
 I now feel he did a lot of practice, but still very slow with basic calculations. 
 
