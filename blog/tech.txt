@@ -1,3 +1,9 @@
+--mvctor for pair is field-by-field 
+
+std::pair has no pointer field so I thought there's no meaningful mvctor, but in reality, the pair mvctor is defaulted i.e. each field is moved.
+
+If a pair holds a vector and a string, then the vector would be move-constructed, and so does the string.
+
 --cpu set seems to be a linux feature, not just a container feature
 
 --sched_setaffinity is a syscall!
