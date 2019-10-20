@@ -1,3 +1,49 @@
+--QnA with Dr Steffy
+#1 take-away -- Need to keep up exercise as a reconfirmation/revaldation of my extreme diet towards lower BMI.
+
+Consider Hep vaccination
+
+Q: starch reduction towards zero?
+A: starch reduction towards zero is safe. However, Compared to fruit sugar, starch is be more lasting and more filling.
+
+Q: reduce BMI towards 19?
+A: safe. 18.5 is the limit, as long as you have enough energy, and you feel healthy. (See the #1 take-away)
+
+Q: As layman I believe appearance doesn't indicate health. My wife said I look unhealthy since too thin but I believe I can become still slimmer and be healthy.. right?
+A: YES
+
+Q: Fasting for multiple days is safe? I sometimes fast for a day or longer when my body could tolerate. Is it safe?
+A: Depends. People fasting for multiple days need gradual training, so stomach gradually reduces acid production.
+A: Therefore, intermittent fasting is safer
+
+Q: I now plan to reduce my big meal. In addition, I will reduce or eliminate my smaller meals.
+A: nodding
+
+Very low BMI can lead to low bone density and brittle bones. You can check bone density every 2 years.
+
+Q: I now believe my biggest risk area is heart, followed by cancers and bones
+A: nodding
+
+Q: I guess I would need to live with Lipitor for life
+A: it's OK to depend on Lipitor for life.
+
+Q: Any way to live without lipitor? 
+A: Red rice yeast
+
+Q: I take 1/3 a pill once in 2 days, and I sometimes forget for a week
+A: it's OK. Do consider the 10mg pills
+
+--white blood cell count
+Q: any concern over white blood cell?
+A: your case is not due to viral infection, so you may have a low baseline. Very common in this region.
+
+Q: why such big variation like 3.1 to 2.55 ?
+A: That's Normal. variation is inherent in the measurement.
+
+Q: what level would be worrying?
+A: we look at the various types of white blood cells and their ratios.
+Now I feel I should check white blood cell once a while.
+
 --new: simple tips@spreadsheet 
 In spreadsheets, prefer '4~6' rather than '4-6' as the latter is automatically cast as a date !
 
