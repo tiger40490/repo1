@@ -1,3 +1,8 @@
+--new: bcomp advantage over git-diff
+* shows byte count in new vs old versions, useful in intra-file moves
+* shows char-level changes
+* can hide minor changes
+
 --sugg: q[ nn ] and commit --amend to detect the current HEAD is also origin/....
 
 After pp, set a env var? but how do I reset it?
