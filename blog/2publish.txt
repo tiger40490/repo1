@@ -154,5 +154,10 @@ bigData: java is possibly #1
 ML: java is 2nd or 3rd
 
 --update: old timers are safe in some teams like MLP, but not in MS
+--update blogpost: pw: most important sites 
+* wordpress: access
+* github: access; tampering
+* overseas banks: access
+* local banks (lowest risk): $loss
 
 --first tbl commit in feature branch: to match handler java code

@@ -27,12 +27,14 @@ How about early rise? In 1993 I once beat myself up for not getting up earlier. 
 Self-discipline and will power has Never been the key in early rise.
 
 Yoga is another unbelievable example -- my physical shortcoming, painful, hopeless, no visible progress, No hope of sustained improvement, but against all odds, I did 2 sessions a week for 8 months in Bayonne. 
+
 --best way to remind myself where I keep things at home and in office
 Best is probably a combination of
 * photo
 * a single file or blogpost, to be reviewed periodically
-* send myself emails
-* calendar
+* send myself emails -- searchable
+* calendar - periodic review
+
 --new: Selective listening is not so wrong. We need selective listening. Some information, tips, suggestions, facts-n-figures do more harm than good to us. Our mind is not so strong so rational, therefore it can be polluted, influenced... 
 
 One eg is the Internet millionaire on youtube. I used to say "even though I hate his face he might be a good guy just too polished." I used to dismiss my more cynical Chinese friends as prejudiced, opinionated .... until Hongzhi told me some Eric was a 骗子. Then I met another in my very first public speech given at Woodlands library, to 20 interested investors.
@@ -40,7 +42,6 @@ One eg is the Internet millionaire on youtube. I used to say "even though I hate
 I now tune in to my first impressions, my instincts and my gut feelings, even though they are not fair, balanced at all. If I always suspend these unfounded assessments, I would listen to hoaxes all the time. 
 
 --new: the more carefully I prepare something, the higher my risk of disappointment
-
 * eg: prepare math worksheet for boy
 * eg: wife or mom prepares a meal for me
 * eg: quant study
@@ -50,11 +51,6 @@ I now tune in to my first impressions, my instincts and my gut feelings, even th
 
 No progress, then time wasted. That's materialistic.
 
---update blogpost: pw: most important sites 
-* wordpress: access
-* github: access; tampering
-* overseas banks: access
-* local banks (lowest risk): $loss
 
 --
 eg: accidental data usage -- waipo, grandma and me all did that with singtel prepaid card. It's a trap!
