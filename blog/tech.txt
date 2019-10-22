@@ -1,7 +1,5 @@
---new: bcomp advantage over git-diff
-* shows byte count in new vs old versions, useful in intra-file moves
-* shows char-level changes
-* can hide minor changes
+--mlphone bb app settings
+in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
 --sugg: q[ nn ] and commit --amend to detect the current HEAD is also origin/....
 
@@ -76,6 +74,11 @@ I feel low latency generally avoid mid-day DAM. If DAM required, then pre-alloca
 This is in response to my claim that Rebus is 700K MPS.
 
 Martin Thompson basically said if the performance is good enough for the requirement, then no need to go further.
+
+--new: bcomp advantage over git-diff
+* shows byte count in new vs old versions, useful in git blogging intra moves
+* can hide minor changes
+* shows char-level changes -- hard to see in git-diff
 
 --fuxi: C continues to dominates in system programming
 low-latency
