@@ -9,55 +9,6 @@ Compare to my peers, I have superior Long-term absorbency on these specific chal
 
 These long-term absorbency advantages are life-enhancing (too put it mildly)
 
---new: Selective listening is not so wrong. We need selective listening. Some information, tips, suggestions, facts-n-figures do more harm than good to us. Our mind is not so strong so rational, therefore it can be polluted, influenced... 
-
-One eg is the Internet millionaire on youtube. I used to say "even though I hate his face he might be a good guy just too polished." I used to dismiss my more cynical Chinese friends as prejudiced, opinionated .... until Hongzhi told me some Eric was a 骗子. Then I met another in my very first public speech given at Woodlands library, to 20 interested investors.
-
-I now tune in to my first impressions, my instincts and my gut feelings, even though they are not fair, balanced at all. If I always suspend these unfounded assessments, I would listen to hoaxes all the time. 
-
---new: clear thinking->less irrational
-intelligence, memory capacity, clear thinking, sharp perception ... can help the individual deal with depression, pessimism, anxiety, emotional pains. I think most pessimistic thoughts are irrational and/or biased.
-
-"Explanatory style" .. see [[learned optimism]]
-
-"Mindfulness" is a therapy. This therapy can even cope with brain aging.
-
-Memory is a muscle.. I think corrective thinking like my twister SMS is also a muscle one can improve by everyday training.
-
---new jolt
-Now I think my vague sense of 'burn' was a mix of  materialistic ROTI + harsh self-discipline over the lazy self. 
-
-(When thinking of burn/rot, there is always a harsh, imposing self2judge at the back of my mind. )
-
-I have a destructive self-hate and implicitly consider myself too lazy and weak. By my standard every human shows weakness. 
-* I beat myself up over stretching in lower-middle school. The most painful experience in my life.
-* I still hate myself frequently because I couldn't "practice yoga at home everyday". Well, those (mostly women) who can are probably too weak for daily exercise, continuous learning, ...
-* I beat myself up over coding drill
-* I beat up my son over his math practice
-
-I once demonized masturbation, eggs .... all based on unfounded theories. 
-
-I used to set an self-expectation of such high self-discipline that every human would Fall short, including grandpa, Wenqian, .. but I thought my standard was normal and achievable if I simply Try Hard. 
-
-Now I'm older and wiser. 
-I know these standards are too hard for mere humans. We humans are not machines. 
-No one has such strong will as to force the body to do all the painful things.
-In real people, the strong motivation comes from within, from a desire, not from self-discipline.
-
-My diet is probably the best eg -- so tough, unenjoyable, but I could put up with it because the level of pain is lower than other people feels.  If you ask me to cut further and further, I will experience too much "pain" in terms of self-deprivation.
-
-How about early rise? In 1993 I once beat myself up for not getting up earlier. For 25 years since, it was impossible to last beyond 3 days. Now I have lasted about a month !
-Self-discipline and will power has Never been the key in early rise.
-
-Yoga is another unbelievable example -- my physical shortcoming, painful, hopeless, no visible progress, No hope of sustained improvement, but against all odds, I did 2 sessions a week for 8 months in Bayonne. 
-
---best way to remind myself where I keep things at home and in office
-Best is probably a combination of
-* photo
-* a single file or blogpost, to be reviewed periodically
-* send myself emails -- searchable
-* calendar - periodic review
-
 --new: the more carefully I prepare something, the higher my risk of disappointment
 * eg: prepare math worksheet for boy
 * eg: wife or mom prepares a meal for me
@@ -81,35 +32,6 @@ how do I block it permanently?
 
 As soon as I buy a new card or refill card, I should disable internet
 
---new?
-Over this hibernation period I could target
-respect at work
-weight and diet habit 
-boy's studies -- benchmark++
-net savings, 
-fitness -- esp. yoga, 
-coding drill -- hard to measure
-QQ gain -- easier than coding drill
-...
-
-qSG period I focused on some questionable targets (dnlg QQ, C++/c# trec, branch-out, renzi) and didn't feel fulfilled, probably due to PIP. I did achieve basic ffree and trec in c++.
-
-c++US period I had success with c++ trec, weight, yoga, coding drill, housing plan, but rather few visible progress.
-
-as I age, more resources focused on wellness, parenting, per-investment, unfortunately less on tech xx
-
-I can possibly focus on maintenance -- coreJava, c++. coding drill? Not sure
-
-Which do I prefer? #all relatively unbalanced, but realistic
-
-Scenario 1: maintain the super-healthy weight (64kg) and diet; some respect; no visible progress esp. with boy
-
-Scenario 2: QQ build-up, maintain c++critical mass, keep up coding drill, weight maintain at 66 kg but no other visible progress
-
-Scenario 3: huge time on math without benchmark improvement; some respect; but no visible progress.
-
-Scenario 4: some time on math without benchmark improvement; some respect; some QQ/codingDrill; weight back up to 67 - 70kg
-
 --email to Miles: why I have a warm feeling for New York City
 After hearing your first impression of NYC, I decided to take this opportunity to reflect why I have a warm feeling for the big apple.
 
@@ -120,8 +42,3 @@ The three Chinatowns in NYC (Manhattan Chinatown, Flushing and eighth avenue) ma
 NYC is more diverse, and less white.
 
 Incomes are slightly higher in NYC than other U.S. cities. I feel lucky for that. Even though prices are also higher, I don’t usually buy anything in Manhattan. As a result, I get to save more in NYC than other cities. 
--- regional places to visit
-Penang
-Bali
-Batam - lower tcost
-Tioman island
