@@ -1,3 +1,6 @@
+--transfer some 10k from OA to SA ?
+Ask CPF to compute the additional interest earned each year
+
 --now I feel my FSM process is low-efficiency
 slow selection
 distraction
