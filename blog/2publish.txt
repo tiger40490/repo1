@@ -1,4 +1,4 @@
---Q: if I declare a huge int array in static memory, will the object file become huge?
+--research then publish: Q: if I declare a huge int array in static memory, will the object file become huge?
 
 This is possibly a QQ nlg pearl, a halo zbs, not GTD
 
