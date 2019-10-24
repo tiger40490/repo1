@@ -1,3 +1,24 @@
+--new (soul-search): superior absorbency domains
+When in sky-high absorbency, I should try and take on the really tough. When in "good" absorbency, I should take on the medium tough jobs.
+
+Compare to my peers, I have superior Long-term absorbency on these specific challenges:
+* jogging, but not stretching
+* push-up but not chin-up
+* QQ study but not coding drill -- major competition
+* eating raw veg but not celery
+* delaying meals but not reducing dinner
+
+These long-term absorbency advantages are life-enhancing, too put it mildly
+
+--new: accept minor accidental losses
+eg: accidental data usage -- waipo, grandma and me all did that with singtel prepaid card. It's a trap!
+eg: boy buying stationeries for fun, then lost of unusable
+eg: starhub tv remote control : paying channel by accident
+eg: smrt card penalty
+eg: retro fitness fee
+
+Why i experience so much pain? I think I can learn to relax and accept just as I have accepted many things in my life
+
 --update blogpost: good thing about mlp
 not sure which blogpost it is!
 
@@ -38,3 +59,7 @@ One eg is the Internet millionaire on youtube. I used to say "even though I hate
 I now tune in to my first impressions, my instincts and my gut feelings, even though they are not fair, balanced at all. If I always suspend these unfounded assessments, I would listen to hoaxes all the time. 
 
 --update: old timers are safe in some teams like MLP, but not in MS
+
+--Q: if I declare a huge int array in static memory, will the object file become huge?
+
+This is possibly a QQ nlg pearl, a halo zbs, not GTD

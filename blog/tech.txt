@@ -1,15 +1,7 @@
---mlphone bb app settings
+--fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
---sugg: q[ nn ] and commit --amend to detect the current HEAD is also origin/....
-
-After pp, set a env var? but how do I reset it?
-
-q[ nn ] to check the HEAD vs origin/... and simply refuse
-
---Q: if I declare a huge int array in static memory, will the object file become huge?
-
-This is possibly a QQ nlg pearl, a a halo zbs, not GTD
+--sugg: q[ nn ] and q[ commit --amend ] both to detect the current HEAD is also origin/.... Use commit hook
 
 --new: 
 mvctor for pair is field-by-field 
@@ -18,7 +10,7 @@ std::pair has no pointer field so I thought there's no meaningful mvctor, but in
 
 If a pair holds a vector and a string, then the vector would be move-constructed, and so does the string.
 
---cpu set seems to be a linux feature, not just a container feature
+--fuxi: cpu set seems to be a linux feature, not just a container feature
 
 --sched_setaffinity is a syscall!
 all other *affinity* functions are based thereon
