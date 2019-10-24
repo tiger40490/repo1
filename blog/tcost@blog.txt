@@ -6,7 +6,7 @@ gmail is an alternative ... if need to update on home laptop
 ideas captured during work hours? Git-blog would become a slippery slope. A bigger slippery slope is WP blogging.
 
 * first capture raw content in mslo task/draft. Can't easily transcribe to git-blog.
-* Some content I can chew over in MSOL then post to WP, but risk is slippery slope
+* Some content I can chew over in MSOL then post to WP outside work hour, but risk is slippery slope
 * Some content I should simply send to gmail and post from home
 * For the rest, Over weekend, select some content and transcribe to tmp NEW file on github, then sync to laptop
 
