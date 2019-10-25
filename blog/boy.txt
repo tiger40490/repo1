@@ -1,5 +1,5 @@
 
---new: 
+--new or fuxi: 
 boy's math drill need to differentiate between the more practical skills vs contrived questions
 
 cubic volume
@@ -8,7 +8,9 @@ average
 chart
 
 --A very obvious problem in dabao is lack of refresh.
-It takes a lot of effort (by parent, tutor or himself) to hit an insight (for a given type of problem). He doesn't review it, and will lose 70% of the precious knowledge-gain.
+It takes a lot of effort (by parent, tutor or himself) to hit an insight (for a given type of problem). 
+
+He doesn't review it, and will lose 70% of the precious knowledge-gain.
 
 --I used to have a buddy type relationship with boy.. Now is more like coach.
 What's the key factor? Something in my attitude.
