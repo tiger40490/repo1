@@ -1,3 +1,5 @@
+--remove IMEJP (57MB) against TrustedInstaller
+
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
