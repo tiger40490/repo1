@@ -21,11 +21,8 @@ better do the WP tagging in batch
 
 Similarly, relocating a blogpost is also multi-step.
 
---j4 thinking/blogging about tcost, tbudget etc
+--fuxi: j4 thinking/blogging about tcost, tbudget etc
 my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
 In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
 
 On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
-
---fuxi: One of the top 2 blogging lessons learnt -- avoid multiple open editors (except on company computer). Ideally one at a time.
-The browser tabs let you open multiple editors but doing so is a Very Bad Idea
