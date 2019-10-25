@@ -1,3 +1,5 @@
+--consider USD 5k into FX robot after earning Citi.NA bonus
+
 --sugg: transfer some 5k from OA to SA just to live through it.
 Ask CPF to compute the additional interest earned each year
 Can do this during lunch break
