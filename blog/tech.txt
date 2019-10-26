@@ -2,14 +2,6 @@
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
 --sugg: q[ nn ] and q[ commit --amend ] both to detect the current HEAD is also origin/.... Use commit hook
-
---new: 
-mvctor for pair is field-by-field 
-
-std::pair has no pointer field so I thought there's no meaningful mvctor, but in reality, the pair mvctor is defaulted i.e. each field is moved.
-
-If a pair holds a vector and a string, then the vector would be move-constructed, and so does the string.
-
 --fuxi: cpu set seems to be a linux feature, not just a container feature
 
 --sched_setaffinity is a syscall!
