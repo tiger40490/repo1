@@ -3,11 +3,6 @@ in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -
 
 --sugg: q[ nn ] and q[ commit --amend ] both to detect the current HEAD is also origin/.... Use commit hook
 
---confusing words
-A cornerstone (foundation stone) is the FIRST stone laid when constructing a foundation. It is considered the most important stone in the building, as all other stones are laid in reference to this first.
-
-The keystone is placed LAST when constructing an arch, locking all the other stones into place. It allows the arch to bear its own weight. The word keystone is often used figuratively to mean the central idea of a philosophy, process, business proposition or principle upon which the entire philosophy, process, business proposition or principle stands.
-
 --new: 
 mvctor for pair is field-by-field 
 
