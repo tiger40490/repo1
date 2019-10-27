@@ -1,3 +1,10 @@
+--container of polymorphic Animals (having vtbl); Nested containers .. 
+There are many variations of "common practices" in c++ but in java/c# the best practice is nothing but a single choice. 
+
+These dynamic languages rely on a single big hammer and make everything look like a nail.
+
+This is another example of "too many variations" in c++
+
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
