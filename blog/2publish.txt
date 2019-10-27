@@ -1,3 +1,36 @@
+--new (open): G9 improvements since Sep 2019
+Note I want focus more on effort less on results
+
+family dinner skipped most of the time
+
+early sleep, early rise
+
+more raw veg than any years before
+
+yoga
+
+starch -- quit rice for 2 months
+
+"defocus" list in office + noHurry list at home
+
+soaking/drafting in gitblog
+
+cake history habit
+
+late dinner habit
+
+ice cream -- now buying small pieces not in bulk
+
+quit heavy snacking in office
+.. beyond G9 
+weight hasn't gone back to q3sg levels
+blogging on commute; 
+home-made milkshake
+temptations identified -- wrong food, wrong time, wrong qty
+blog: prefer bulk operations
+paid off BGC
+helped a few friends with coding tests
+
 --research then publish: Q: if I declare a huge int array in static memory, will the object file become huge?
 
 This is possibly a QQ nlg pearl, a halo zbs, not GTD
