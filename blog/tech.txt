@@ -3,7 +3,16 @@ The frontpage shows "quick access" list of recent files, completely useless and 
 
 You can move one or more files -- select (filenames highlighted in blue) then right click -> move
 
-Q: how to remove "quickaccess"
+Q: possible to remove "quickAccess"
+A: settings -> general
+
+html files in your google drive can't be displayed as html
+
+--this Deevali weekend
+no time wasted. no family outing. no runaway blogging
+biggest achievement -- help boy with math. also helped 2 friends with tech IV. Nothing more strategic
+burn: jogging
+created more math worksheet
 
 --container of polymorphic Animals (having vtbl); Nested containers .. 
 There are many variations of "common practices" in c++ but in java/c# the best practice is nothing but a single choice. 
