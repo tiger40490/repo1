@@ -1,4 +1,4 @@
---I want to 
+--I want to increase/reduce time allocation
 ^ proj and localSys xx
 ^ yoga
 ? nutritional research
