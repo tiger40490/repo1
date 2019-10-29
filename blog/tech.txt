@@ -1,4 +1,4 @@
---google drive cheatsheet
+--fuxi, then new: google drive cheatsheet
 You can move one or more files -- select (filenames highlighted in blue) then right click -> move
 
 Files are usually versioned.

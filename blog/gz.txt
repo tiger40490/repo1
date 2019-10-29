@@ -1,8 +1,9 @@
---QQ and coding drill is a full-time job. There are so many details to learn and practice. Some candidates practice for years and become much better than those who practice for months only.
+--fuxi: QQ and coding drill is a full-time job. There are so many details to learn and practice. Some candidates practice for years and become much better than those who practice for months only.
 
---Deepak told me that Rahul, Padma etc stayed in RTS for many years and became complacent and uninterested in tech topics outside their work.
+--new: complicent guys]RTS #Deepak
+Deepak told me that Rahul, Padma etc stayed in RTS for many years and became "complacent" and uninterested in tech topics outside their work.
 
-I think Deepak has a point.
+I think Deepak has sharp observation.
 
 I notice many Indian colleagues uninterested in zbs or QQ topics. That's a fundamental reason for my QQ strength on the Wall St job market.
 I think many of them learn the minimum to pass tech interviews.
@@ -15,7 +16,8 @@ The RTS team may not have any zbs benchmark, since GTD is 99.9% the focus for th
 
 These are some of the reasons Deepak felt 4Y is the max .. Deepak felt H1 guys are always on our toes and therefore more fit for survival.
 
---Within a month, You can often (not always) predict a worker's long-term attitude?
+--new: 
+Within a month, You can often (not always) predict a worker's long-term attitude?
 On this job I feel I would continue for a few months to show commitment (to deadlines), dedication (not so much distraction), sense of urgency ..
 
 How about mvea job? I think I became distracted and spent too many work hours on non-work like nutrition, housing, QQ, 
@@ -25,15 +27,6 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * colleagues are less dedicated, but same at OC
 * a small but growing sense of urgency
 * I feel I could exceed mgr expectation with 90% effort
-
---new?
-Majority of the effective, efficient, productive tech professionals don't work long hours because they already earn enough. Some of them can retire if they want to.
-
-Some percentage of them quit a big company or a high position, sometimes to join a startup. One of the reasons -- already earned enough.
-
-Most of them value work-life balance. Half of them put the value not in words but in action.
-
-Many of them still choose to work hard because they love what they do, or want to achieve more, not because no-choice.
 
 --beware of oth
 Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert has only a limited view of that reality, based on limited data.
