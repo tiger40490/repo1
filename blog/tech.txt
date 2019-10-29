@@ -12,33 +12,33 @@ A: settings -> general
 
 html files in your google drive can't be displayed as html. File URL doesn't show file name. When you download you will see the file name.
 
---new:
-container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
-There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 
-
-No-choice is a Very Good Thing, as proven in practice.
-
-These dynamic languages rely on a single big hammer and make everything look like a nail.
-
-This is another example of "too many variations" in c++.
-
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
 --sugg: q[ nn ] and q[ commit --amend ] both to detect the current HEAD is also origin/.... Use commit hook
+
 --fuxi: cpu set seems to be a linux feature, not just a container feature
 
---sched_setaffinity is a syscall!
+--new: cpu affinity
+sched_setaffinity is a syscall!
 all other *affinity* functions are based thereon
 
 *_np in function name means non-portable
+
+Need to read more. Similar to socket QQ -- Not deep, but even more academic than socket
+
+--new:
+is malloc a kernel service, syscall or a userland function offered in a regular library?
+
+Can I implement my own DAM without involving the kernel?
 
 --Martin's low-latency java talk
 Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
 
 My Questions
 Q: for low latency should we avoid concurrency ?
-%%A: parallel processing in STM is good but avoid any form of synchronization 
+A: yes
+%%A: parallel processing in ST-Mode is good but avoid any form of synchronization 
 
 Q: If I don’t use heap, and only use stack and static memory….?
 A: heap allows sharing between threads
@@ -48,12 +48,14 @@ Q: why is JIT not available to c++?
 --pointer as a field of a class is uninitialized by default
 I think Ashish's test shows it
 
-However, such a field creates an opportunity for mvctor
+However, such a field creates an opportunity for mv-ctor. The referent object is usually on heap on in static memory
 
 --new: Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
 (I used msvs only for automated build since windows command line build is based on msvs.)
 
 in my java jobs, i often need to spend lots of time learning the ide features.
+
+A: c++ IDE is less effective less value-adding more complicated. Majority of c++ developers actually don't use any IDE. 
 
 --new: 
 one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.

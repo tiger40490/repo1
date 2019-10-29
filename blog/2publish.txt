@@ -1,3 +1,15 @@
+--email
+ask C-EPA team ... any IDE?
+--new:
+container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
+There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 
+
+No-choice is a Very Good Thing, as proven in practice.
+
+These dynamic languages rely on a single big hammer and make everything look like a nail.
+
+This is another example of "too many variations" in c++.
+
 --new: Y alpha geeks keep working hard
 Based on my hypothesis, imagination and a bit of observation.
 
