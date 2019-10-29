@@ -1,23 +1,26 @@
---fuxi, then new: google drive cheatsheet
-You can move one or more files -- select (filenames highlighted in blue) then right click -> move
+--fuxi, then new: google drive basics
+To move one (or multiple) file -- click to select -> # filenames highlighted in blue -> right click to get context menu -> move
 
 Files are usually versioned.
 
 You can easily rename files and folders.
 
-The frontpage shows "quick access" list of recent files, completely useless and distracting. 
+The MyDrive frontpage shows a "quick access" list of recent files, a complete distraction. 
 
 Q: possible to remove "quickAccess"
 A: settings -> general
 
 html files in your google drive can't be displayed as html. File URL doesn't show file name. When you download you will see the file name.
 
---container of polymorphic Animals (having vtbl); Nested containers .. 
-There are many variations of "common practices" in c++ but in java/c# the best practice is nothing but a single choice. 
+--new:
+container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
+There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 
+
+No-choice is a Very Good Thing, as proven in practice.
 
 These dynamic languages rely on a single big hammer and make everything look like a nail.
 
-This is another example of "too many variations" in c++
+This is another example of "too many variations" in c++.
 
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
