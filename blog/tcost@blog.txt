@@ -1,5 +1,5 @@
 --new
-the tcost of blogging is comparable to the tcost of exercise (yoga/jogging/..), diet and nutritional research. Blogging is critical to diet (and exercise, to a lesser extent) because 
+the tcost of blogging is comparable to the extra tcost of exercise (yoga/jogging/..) beyond the actual workout minutes, diet preperation, nutritional research... Blogging is critical to diet (and exercise, to a lesser extent) because 
 
 * my overall wellness and vitality is the #1 fundamental factor of my dev-till-70 plan, 
 * weight is the (#1 factor) surprise tail that wags the dog, in my wellness

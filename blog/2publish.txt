@@ -1,7 +1,6 @@
 --new:
 container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
 There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 
-
 No-choice is a Very Good Thing, as proven in practice.
 
 These dynamic languages rely on a single big hammer and make everything look like a nail.
@@ -11,7 +10,9 @@ This is another example of "too many variations" in c++.
 --new (jolt): dental appearance^obesity: affluence
 in the past, dental appearance of a local population is an indication of socio-economic wellbeing (and affluence). The developed countries all feature cleaner teeth.
 
-Nowadays, the protruding belly is now the leading sign.. These bellies indicate poor education, low quality nutrition such as convenient junk foods (like pizza) ... 
+Also, skin diseases are often left untreated in developing countries since they are not life-threatening. Therefore, skin health is a sign of socio-economic wellbeing.
+
+Nowadays, the protruding belly is now the leading sign.. They indicate poor education, poor government effort, low quality nutrition such as convenient junk foods (like pizza) ... 
 
 Note Low cost nutrition can be high quality.
 
@@ -42,6 +43,7 @@ My ROTI accounting needs to be much more inclusive (beyond muscle-building) befo
 * an hour + in office on work project. Even 10 min spent on the project is a challenging proposition. Get real. 加分不够 ! 
 
 --new: Y alpha geeks keep working hard #speculation
+oth_risk
 Based on my hypothesis, imagination and a tidbit of observation.
 
 Majority of the effective, efficient, productive tech professionals don't work long hours because they already earn enough. Some of them can retire if they want to.
@@ -73,8 +75,10 @@ Consider taking mild sleeping pills to help me regulate. Consult a doctor
 --update blogpost
 non-work income is more encompassing than passive income. IN my blog, should Use it more 
 
---new (open): G9 improvements since Sep 2019
-Note I want focus more on effort less on results
+work ethics is also a good word to use in my blog.
+
+--new (open): G9 wellness improvements since Sep 2019
+Note I want to focus more on effort less on results
 
 family dinner skipped most of the time
 
@@ -110,4 +114,3 @@ helped a few friends with coding tests
 --research then publish: Q: if I declare a huge int array in static memory, will the object file become huge?
 
 This is possibly a QQ nlg pearl, a halo zbs, not GTD
-
