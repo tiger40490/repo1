@@ -1,12 +1,3 @@
---fuxi: increase/reduce time allocation
-^ proj and localSys xx
-^ yoga
-^ boy's arithmetic drill
-? nutritional research
-? QQ + coding drill
-v personal finance
-v blogging
-v call to parents
 
 --fuxi: composing emails is slow-cooking. We need time. It's time well-spent.
 At work or at home, we should NOT rush.

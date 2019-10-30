@@ -1,3 +1,29 @@
+--new? time^mood..2 scarce resources
+see also blogpost on absorbency domains
+
+time is a /limiting factor/ (mood is the twin sister) because when I try to break through and reach the next level, I often hit a /ceiling/ not in terms of my capacity but in terms of time. This experience is shared by many people, and easy to understand. The more subtle experience is limiting factor of productivity mood. I often speak of "absorbency" as a specific example; sometimes I speak of "motivation".
+
+Xp: I often take leave specifically to provide time for myself but usually can't achieve the expected ROTI.
+
+xp: I took many leaves to attend an IV. The time + absorbency is a precious combination that leads to breakthrough. If I only provide time to myself, most of the time I don't achieve much in terms tech learning.
+
+* the zone -- (as described in my email) i often need a block of uninterrupted hours. Time is clearly a necessary but insufficient condition.
+* yoga -- the motivation is very rare, far fewer than jogging
+* time for workout -- I often tell my friends that lack of time sounds like an excuse given the mini-workout option. Well, free time still helps a lot, but motivation is more important in this case.
+* localSys -- absorbency is more rare here than coding drill, which is more rare than c++QQ which is more rare than java QQ
+* face time with boy -- math practice etc.. the calm, engaged mood on both sides is very rare and precious. I tend to lose my cool even when I make time for my son.
+* laptop working at train stations -- MRT stations or 33rd St ... to capture the mood. Time alone is useless
+
+--fuxi: increase/reduce time allocation
+^ proj and localSys xx
+^ yoga
+^ boy's arithmetic drill
+? nutritional research
+? QQ + coding drill
+v personal finance
+v blogging
+v call to parents
+
 --spare time usage:
 yoga
 stadium
