@@ -1,4 +1,18 @@
 --new
+the tcost of blogging is comparable to the tcost of exercise (yoga/jogging/..), diet and nutritional research. Blogging is critical to diet (and exercise, to a lesser extent) because 
+
+* my overall wellness and vitality is the #1 fundamental factor of my dev-till-70 plan, 
+* weight is the (#1 factor) surprise tail that wags the dog, in my wellness
+* the psychological element (hunger, temptation, motivation..) is the #1 most important challenge in my case. Temptation is the (#1) deciding factor and #1 obstacle to my diet
+* blogging is my #1 essential effort on the psychological elements, esp. temptation.
+
+Blogging is effective because diet (and exercise) is all about self-management, self-discovery, self-understanding, self-motivation, self-monitoring, self-adjustment, (I didn't say "self-discipline")
+
+the tcost of blogging is a critical part of parenting, because the mindset, mentality ... of the parents is a fundamental part of the parenting challenge. 
+Parents get emotional. Parents are imperfect humans. 
+Some grow as parents by reading, discussing with partners and friends. I choose blogging.
+
+--new
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
 gmail is an alternative ... if need to update on home laptop
