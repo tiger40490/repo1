@@ -1,5 +1,3 @@
---email
-ask C-EPA team ... any IDE?
 --new:
 container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
 There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 
@@ -43,8 +41,8 @@ My ROTI accounting needs to be much more inclusive (beyond muscle-building) befo
 * a rare 30 min of c++ GTD+zbs. Note in the past even 30 seconds of xx was hard when working with boy.
 * an hour + in office on work project. Even 10 min spent on the project is a challenging proposition. Get real. 加分不够 ! 
 
---new: Y alpha geeks keep working hard
-Based on my hypothesis, imagination and a bit of observation.
+--new: Y alpha geeks keep working hard #speculation
+Based on my hypothesis, imagination and a tidbit of observation.
 
 Majority of the effective, efficient, productive tech professionals don't work long hours because they already earn enough. Some of them can retire if they want to.
 
