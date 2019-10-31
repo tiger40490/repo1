@@ -1,4 +1,4 @@
---new
+====new
 the tcost of blogging is comparable to the extra tcost of exercise (yoga/jogging/..) beyond the actual workout minutes, diet preparation, nutritional research... My reflective blogging is critical to diet (and exercise, to a lesser extent) because 
 
 * my overall wellness and vitality is the #1 fundamental factor of my dev-till-70 plan, 
@@ -8,16 +8,17 @@ the tcost of blogging is comparable to the extra tcost of exercise (yoga/jogging
 
 My introspective blogging is effective because diet (and exercise) is all about self-management, self-discovery, self-understanding, self-motivation, self-monitoring, self-adjustment, (I didn't say "self-discipline")
 
-the tcost of blogging is a critical part of parenting, because the mindset, mentality ... of the parents is a fundamental part of the parenting challenge. 
+--the tcost of blogging is a critical part of parenting, because the mindset, mentality ... of the parents is a fundamental part of the parenting challenge. 
 Parents get emotional. Parents are imperfect humans. 
 Some grow as parents by reading, discussing with partners and friends. I choose blogging.
 
-.. more j4 thinking/blogging about tcost, tbudget etc
+-- more j4 thinking/blogging about tcost, tbudget etc
 my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
 In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
 
-On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
+--On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
 
+====
 --new
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
