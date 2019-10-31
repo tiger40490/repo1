@@ -1,3 +1,21 @@
+--fuxi, then new: google drive phrasebook
+move -- To move one (or multiple) file -- click to select -> # filenames highlighted in blue -> right click to get context menu -> move
+
+rename -- easy on files and folders.
+
+versioned -- Files are usually versioned.
+
+littering -- The MyDrive frontpage shows a "quick access" list of recent files, a complete distraction. 
+
+Q: possible to remove "quickAccess"
+A: settings -> general
+
+html files -- in your google drive can't be displayed as html. File URL doesn't show file name. When you download you will see the file name.
+
+disk hogs -- settings -> storage used -> culprits -> # quota page shows the biggest files, but they only add up to a few MB. Most of my google drive usage is actually gmail!
+
+trash -- files in trash are retained for ..?
+
 --new:
 container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
 There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 

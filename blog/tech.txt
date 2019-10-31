@@ -1,18 +1,3 @@
---fuxi, then new: google drive basics
-To move one (or multiple) file -- click to select -> # filenames highlighted in blue -> right click to get context menu -> move
-
-Files are usually versioned.
-
-You can easily rename files and folders.
-
-The MyDrive frontpage shows a "quick access" list of recent files, a complete distraction. 
-
-Q: possible to remove "quickAccess"
-A: settings -> general
-
-html files in your google drive can't be displayed as html. File URL doesn't show file name. When you download you will see the file name.
-
-settingss -> storage space -> quota ... shows the biggest files, but these files only add up to a few MB. Most of the google drive aggregate usage is actually gmail.
 
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
