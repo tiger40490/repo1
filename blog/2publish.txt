@@ -1,3 +1,21 @@
+--new: blogging]ff @@
+ideas captured during home hours? Try to capture in git-blog. Then after chewing in git-blog for a while, update wp in bulk
+
+gmail is an (usually inferior) alternative ... if I update on home laptop only
+
+ideas captured during work hours? Git-blog would become a slippery slope. A bigger slippery slope is WP blogging.
+
+more tolerable is paper blogging 
+more tolerable is MSOL soaking
+more tolerable is blogging after 7pm 
+
+* first capture raw content in mslo task/draft. Can't easily transcribe to git-blog.
+* Some content I can chew over in MSOL then post to WP outside work hour, but risk is slippery slope
+* Some content I should simply send to gmail and post from home
+* For the rest, Over weekend, select some content and transcribe to tmp NEW file on github, then sync to laptop
+
+NEW file reduces risk of merge conflict.
+
 --fuxi, then new: google drive phrasebook
 move -- To move one (or multiple) file -- click to select -> # filenames highlighted in blue -> right click to get context menu -> move
 
@@ -16,7 +34,7 @@ disk hogs -- settings -> storage used -> culprits -> # quota page shows the bigg
 
 trash -- files in trash are retained for ..?
 
---new:
+--new: OO-modeling: c++too many choices
 container of polymorphic Animals (having vtbl); Nested containers; singletons; class inheriting from multiple supertypes .. 
 There are many variations of "common practices" in c++ but in java/c# the best practice is no-choice. 
 No-choice is a Very Good Thing, as proven in practice.
@@ -26,6 +44,7 @@ These dynamic languages rely on a single big hammer and make everything look lik
 This is another example of "too many variations" in c++.
 
 --new (jolt): dental appearance^obesity: affluence
+
 in the past, dental appearance of a local population is an indication of socio-economic wellbeing (and affluence). The developed countries all feature cleaner teeth.
 
 Also, skin diseases are often left untreated in developing countries since they are not life-threatening. Therefore, skin health is a sign of socio-economic wellbeing.

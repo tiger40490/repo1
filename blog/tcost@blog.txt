@@ -19,20 +19,3 @@ my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, sa
 In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
 
 ====
---new: blogging]ff @@
-ideas captured during home hours? Try to capture in git-blog. Then after chewing in git-blog for a while, update wp in bulk
-
-gmail is an (usually inferior) alternative ... if I update on home laptop only
-
-ideas captured during work hours? Git-blog would become a slippery slope. A bigger slippery slope is WP blogging.
-
-more tolerable is paper blogging 
-more tolerable is MSOL soaking
-more tolerable is blogging after 7pm 
-
-* first capture raw content in mslo task/draft. Can't easily transcribe to git-blog.
-* Some content I can chew over in MSOL then post to WP outside work hour, but risk is slippery slope
-* Some content I should simply send to gmail and post from home
-* For the rest, Over weekend, select some content and transcribe to tmp NEW file on github, then sync to laptop
-
-NEW file reduces risk of merge conflict.
