@@ -19,7 +19,7 @@ In this battle, I can become more rational via blogging. Blogging takes lots of 
 --On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
 
 ====
---new
+--new: blogging]ff@@
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
 gmail is an alternative ... if need to update on home laptop
