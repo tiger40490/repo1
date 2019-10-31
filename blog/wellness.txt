@@ -1,4 +1,5 @@
---yoga is much harder than jogging
+--new: yoga: too easy^hard
+yoga is much harder than jogging.
 
 As I told Rahul, I am unable to find a mid point between
 
