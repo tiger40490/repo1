@@ -12,6 +12,12 @@ the tcost of blogging is a critical part of parenting, because the mindset, ment
 Parents get emotional. Parents are imperfect humans. 
 Some grow as parents by reading, discussing with partners and friends. I choose blogging.
 
+.. more j4 thinking/blogging about tcost, tbudget etc
+my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
+In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
+
+On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
+
 --new
 ideas captured during home hours? Try to capture in git-blog. Then after brewing in git-blog for a while, update wp
 
@@ -19,15 +25,13 @@ gmail is an alternative ... if need to update on home laptop
 
 ideas captured during work hours? Git-blog would become a slippery slope. A bigger slippery slope is WP blogging.
 
+more tolerable is paper blogging 
+more tolerable is MSOL soaking
+more tolerable is blogging after 7pm 
+
 * first capture raw content in mslo task/draft. Can't easily transcribe to git-blog.
 * Some content I can chew over in MSOL then post to WP outside work hour, but risk is slippery slope
 * Some content I should simply send to gmail and post from home
 * For the rest, Over weekend, select some content and transcribe to tmp NEW file on github, then sync to laptop
 
 NEW file reduces risk of merge conflict.
-
---fuxi: j4 thinking/blogging about tcost, tbudget etc
-my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
-In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
-
-On a similar note, I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
