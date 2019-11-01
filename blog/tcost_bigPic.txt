@@ -1,34 +1,26 @@
 --fuxi: increase/reduce time allocation
 ^ proj and localSys xx
-^ yoga
-^ boy's arithmetic drill
+^ QQ + coding drill
+? boy's arithmetic drill
+? yoga
+? stadium
 ? nutritional research
-? QQ + coding drill
 v personal finance
 v blogging
 v call to parents
-
---spare time usage:
-yoga
-stadium
 ^ exercise corner + home + office mini-exercise
-v coding drill
-boy's math
-git-blogging?
-v food preparation
-v emailing or meeting with friends? 
-shopping with boy as a reward
+^shopping with boy as a reward
 
---no blog: compared to c++US days,
+--fuxi: compared to c++US days,
 more time on boy -- far more than half my spare time
 more distractions at home
 more time talking to wife ... good. Was too little 
-huge amount of time on family outing ... need to work on tcost and roti. Perhaps I should come home early to exercise, study(?), blog ... (so as to reduce tcost)
+huge amount of time on family outing ... need to work on tcost and roti. 
 less time on food preparation, thanks to maid + wife
 less time on commute
 more hours in office
 
---I am so used to measuring roti in terms of gz including tech xx and work projects
+--new: I am so used to measuring roti in terms of gz including tech xx and work projects, but i was always philosophical about income
 
 As I age, it is fundamental to increase the weightage on wellness, parenting, taking care of grandparents, marriage ...
 
@@ -36,13 +28,13 @@ For wellness, the huge effort may not produce visible effect !
 
 As to parenting efforts, again huge tcost but slow improvement
 
---qSG phase t-utilization in contrast to this hibernation: 
-yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
-.. how do I improve this time?
-too much time spent with boy.. extremely low roti. Need to be more calculating on tcost. Beware of long journey
+--new: q3SG phase t-utilization in contrast to this hibernation: 
+too much time spent with boy.. extremely low roti. Need to be more calculating on tcost. Beware of long trips.
 msfm? low roti. Huge tcost like 10~15h/week per subject
-per investment? too much time on fsm + oanda
+personal investment? too much time on fsm + oanda
 extra time in office? too much non-work
+yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
+(how do I improve yoga this time round?)
 
 --a month into my hibernation, my time (i.e. laser, O2) still feels so precious
 priorities? 

@@ -1,10 +1,3 @@
---update blog on ... Kyle discussion
-my sense of work ethic is based on
-* hours spent in office
-* non-work hours in office 
-* colleagues' effort
-* manager's ...
-
 --new: 
 Within a month, You can often (not always) predict a worker's long-term attitude?
 On this job I feel I would continue for a few months to show commitment (to deadlines), dedication (not so much distraction), sense of urgency ..
@@ -17,7 +10,8 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * a small but growing sense of urgency
 * I feel I could exceed mgr expectation with 90% effort
 
---beware of oth
+--new:
+othRisk
 Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert observer has only a limited view of that reality, based on limited data.
 
 Those numbers look impressive, but actually similar to the words -- they are mostly personal perceptions dressed up as objective measurements.
