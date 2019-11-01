@@ -1,22 +1,18 @@
---I feel Ashish's MLP IV experience again proves the relative importance of GTD vs QQ
+--update blog on ... Kyle discussion
+my sense of work ethic is based on
+* hours spent in office
+* non-work hours in office 
+* colleagues' effort
+* manager's ...
 
-His GTD capacity is evident, but high-end interviews always discount/dismiss GTD and focus on QQ instead, including "problem-solving" as the young bbg interviewer put it.
-
-Tanvil's self-description is revealing, but Ashish is a better example as I know him better than I know other peers.
-
-Viswa is another example. 
-
-GTD superstars are typically not recognized experts. They fail the expertise-benchmark.
-
---fuxi: QQ and coding drill is a full-time job. There are so many details to learn and practice. Some candidates practice for years and become much better than those who practice for months only.
-
---new: complicent guys]RTS #Deepak
+--new: complacent guys]RTS #Deepak
 Deepak told me that Rahul, Padma etc stayed in RTS for many years and became "complacent" and uninterested in tech topics outside their work.
 
 I think Deepak has sharp observation.
 
-I notice many Indian colleagues uninterested in zbs or QQ topics. That's a fundamental reason for my QQ strength on the Wall St job market.
+I notice many Indian colleagues uninterested in zbs or QQ topics. That's a fundamental reason for my QQ strength on the Wall St body-building arena.
 I think many of them learn the minimum to pass tech interviews.
+CSY has this attitude on coding IV but the zbs attitude on socket knowledge 
 
 If you regularly benchmark yourself externally, often against younger guys, you are probably more aware of your standing, your aging, the pace of tech churn, ... You live your days under more stress, both negative and positive stress. 
 
