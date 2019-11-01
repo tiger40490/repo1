@@ -5,23 +5,6 @@ my sense of work ethic is based on
 * colleagues' effort
 * manager's ...
 
---new: complacent guys]RTS #Deepak
-Deepak told me that Rahul, Padma etc stayed in RTS for many years and became "complacent" and uninterested in tech topics outside their work.
-
-I think Deepak has sharp observation.
-
-I notice many Indian colleagues uninterested in zbs or QQ topics. That's a fundamental reason for my QQ strength on the Wall St body-building arena.
-I think many of them learn the minimum to pass tech interviews.
-CSY has this attitude on coding IV but the zbs attitude on socket knowledge 
-
-If you regularly benchmark yourself externally, often against younger guys, you are probably more aware of your standing, your aging, the pace of tech churn, ... You live your days under more stress, both negative and positive stress. 
-
-I think these RTS guys may benchmark internally once a while, if ever. If the internal peers are not very strong, then you get a false sense of strength.
-
-The RTS team may not have any zbs benchmark, since GTD is 99.9% the focus for the year-end appraisal.
-
-These are some of the reasons Deepak felt 4Y is the max .. Deepak felt H1 guys are always on our toes and therefore more fit for survival.
-
 --new: 
 Within a month, You can often (not always) predict a worker's long-term attitude?
 On this job I feel I would continue for a few months to show commitment (to deadlines), dedication (not so much distraction), sense of urgency ..
@@ -35,16 +18,17 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * I feel I could exceed mgr expectation with 90% effort
 
 --beware of oth
-Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert has only a limited view of that reality, based on limited data.
+Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert observer has only a limited view of that reality, based on limited data.
 
 Those numbers look impressive, but actually similar to the words -- they are mostly personal perceptions dressed up as objective measurements.
 
-If you don't use words or numbers then you can't capture any observation of the "reality". Your impression of that reality (without words you can't even refer to that reality) remains hopelessly vague. I now believe vague is the lowest level of comprehension, usually as bad as a biased comprehension. Using words+numbers we have a chance to improve our perception.
+If you don't use words or numbers then you can't capture any observation of the "reality". Your impression of that reality (without words you can't even refer to that reality) remains hopelessly vague. I now believe vague is the lowest level of comprehension, usually as bad as a biased comprehension. Using words + numbers we have a chance to improve our perception.
 
 my perceptions shape my decisions, and my decisions affect my family's life chances.
 
 my perceptions shape my selective listening. Gradually, actively, my selective listening would modify my "membrane"! All great thinkers, writers update their membrane.
 
+Am not analyzing reality. Instead, 
 Am basically analyzing my perception of the reality, but that's the best I could do. I'm good at analyzing myself as an object.
 
 Refusing to plan because of high uncertainty is lazy, is pessimistic, is doomed.
