@@ -10,7 +10,18 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * a small but growing sense of urgency
 * I feel I could exceed mgr expectation with 90% effort
 
---new:
+--those other guys are not smarter, more successful than me
+
+Many are still consultants. Actually consultants have our advantages and 
+
+Many are stuck at VP level and facing job insecurity.
+
+Most of them lack the mgmt skill to move into senior leadership. Whose who do tend to be in China or HK. 
+If you are not the right personality, then the leadership career path is more painful, less in-control, more 被动, less confident, more prone to failure. 
+
+Cherry Mo?
+
+--new: analyzing my perception of reality
 othRisk
 Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert observer has only a limited view of that reality, based on limited data.
 
