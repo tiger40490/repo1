@@ -49,6 +49,7 @@ Again, I feel it depends on coworker benchmark, localSys i.e. your brainpower vs
 A big red-flag item.
 Need to control the tcost
 I think a core issue is losing my cool
+If lost my cool then better go to office
 
 --new: missed punches are more tiring than landed punches. 
 I need to spend more time in office and reduce the wasted time/energy on boy. 
@@ -77,13 +78,9 @@ I can record the time usage over a few evenings and ask "how could we improve? W
 --going home early
 I used to feel the “warm feeling” about going home early … some math with boy, some shopping, a bit of exercise but the utilization rate was always very disappointing.
 
-I tried locking myself up in a room. Still ineffective.
+I tried locking myself up in a room, with the earphone on. Still ineffective.
 I tried connecting remotely. Still ineffective.
 I feel sitting in MRT station or downstairs help to some extent, if I can do so for long enough.
-
---evening exercise at stadium can be 20-60 min ... very comfortable, but now my son needs me.
-
-the physical and emotional benefits ... are insufficient. I need to commit more into localSys and my son's academics.
 
 --fuxi: 5 Oct weekend in office
 * no blogging except Eng vocab + a bit of nutrition
@@ -129,12 +126,11 @@ How about the positive impacts on kids and wife?
 
 wife surely feels better about me taking time out with family
 
---weekend family outing
+--fxi: weekend family outing
 exercise is burn ... hard burn
 math practice and my coding drill is burn
 tech xx is also burn, but less tough.
 
---family outings - vivo, east-coast, 
 watch out my personal tcost. I could allocate it to 
 * mlp prj + related self-xx
 * coding drill
