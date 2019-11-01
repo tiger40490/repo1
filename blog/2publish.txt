@@ -1,3 +1,24 @@
+--new? time^absorbency..2 scarce resources
+see also blogpost on absorbency domains
+
+time is a /limiting factor/ (with a twin sister) because when I try to break through and reach the next level on some endeavor, I often hit a /ceiling/ not in terms of my capacity but in terms of time. 
+
+Common experience shared by many, therefore easy to understand. In contrast, a more subtle experience is the limiting factor of productive mood. 
+This phrase is vague and intangible, so sometimes I speak of "motivation" -- not exactly same and still vague. 
+Sometimes I speak of "absorbency" as a more specific proxy. 
+
+Specific xp: I often take leave specifically to provide time for myself but usually can't achieve the expected ROTI.
+
+Specific xp: Many times I took leaves to attend an IV. The time + absorbency is a precious combination that leads to breakthrough. If I only provide time to myself, most of the time I don't achieve much in terms tech learning.
+
+Specific xp: yoga -- the absorbency is very rare, far worse than jogging. 
+
+* the zone -- (as described in my email) i often need a block of uninterrupted hours. Time is clearly a necessary but insufficient condition.
+* time for workout -- I often tell my friends that lack of time sounds like an excuse given the mini-workout option. Well, free time still helps a lot, but motivation is more important in this case.
+* localSys -- absorbency is more rare here than coding drill, which is more rare than c++QQ which is more rare than java QQ
+* face time with boy -- math practice etc.. the calm, engaged mood on both sides is very rare and precious. I tend to lose my cool even when I make time for my son.
+* laptop working at train stations -- like MRT stations or 33rd St ... to capture the mood. Available time by itself is useless
+
 --new: complacent guys]RTS #Deepak
 Deepak told me that Rahul, Padma etc stayed in RTS for many years and became "complacent" and uninterested in tech topics outside their work.
 
