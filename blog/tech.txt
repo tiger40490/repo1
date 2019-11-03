@@ -1,3 +1,7 @@
+--new: price discovery and closing auction
+An exchange provides the (nearly) ideal venue for price discovery, but in reality the fragmentation of liquidity makes price discovery non-trivial even on a large exchange like NYSE.
+
+Luckily, the closing auction remains a centralized process. Even though a stock symbol can be traded on multiple exchanges beside the primary listing exchange, auction orders are always sent to the primary listing exchange.
 
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
