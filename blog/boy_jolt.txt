@@ -1,3 +1,10 @@
+--
+As a student, I found certain subjects completely boring and useless -- politics, Chinese, biology
+
+Most of my classmates felt the same about history, 
+
+So we were not motivated to memorize or practice.
+
 --jolt: apparently, only one student in his class is comfortable with the word problems.
 
 Sounds like everyone else is afraid and anxious about word problems.
