@@ -1,15 +1,20 @@
 --fuxi: increase/reduce time allocation
 ^ proj and localSys xx
-^ QQ + coding drill
-? boy's arithmetic drill
-? yoga
-? stadium
-? nutritional research
-v personal finance
-v blogging
-v call to parents
+? QQ + coding drill
+^ boy's arithmetic drill - preparation
+? boy's arithmetic drill - face time ... too high
+^ shopping with boy as a reward
+^ meimei
 ^ exercise corner + home + office mini-exercise
-^shopping with boy as a reward
+? yoga
+^ mini stretches
+? stadium
+v nutritional research
+v personal finance as recreation
+? blogging to manage everything
+v call to parents
+v discussion with friends
+v recording weight measurements
 
 --fuxi: compared to c++US days,
 more time on boy -- far more than half my spare time
@@ -20,38 +25,17 @@ less time on food preparation, thanks to maid + wife
 less time on commute
 more hours in office
 
---new: I am so used to measuring roti in terms of gz including tech xx and work projects, but i was always philosophical about income
 
-As I age, it is fundamental to increase the weightage on wellness, parenting, taking care of grandparents, marriage ...
+--new: q3SG phase t-utilization in contrast to this hibernation:
+History is a mirror
 
-For wellness, the huge effort may not produce visible effect !
-
-As to parenting efforts, again huge tcost but slow improvement
-
---new: q3SG phase t-utilization in contrast to this hibernation: 
-too much time spent with boy.. extremely low roti. Need to be more calculating on tcost. Beware of long trips.
+too much time spent with boy.. extremely low roti. 
+Need to be more calculating on tcost. Beware of long trips but boy really appreciates it.
 msfm? low roti. Huge tcost like 10~15h/week per subject
 personal investment? too much time on fsm + oanda
 extra time in office? too much non-work
 yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
 (how do I improve yoga this time round?)
-
---a month into my hibernation, my time (i.e. laser, O2) still feels so precious
-priorities? 
-
-new job -- localSys, respect, ...
-help my son's math exams
-blogging -- analysis and juggling, like OS scheduler, competing with the tasks being scheduled
-LG-recreation: time with meimei
-LG-recreation: per-investment
-LG2: discussion with friends. Email is far more efficient
-LG2: discussion with grandparents
-LG2: coding drill, 
-LG2: c++maintenance? Lucky I could rely on the critical mass
-LG2: yoga + workout? mini-workout is very time-efficient
-+ food preparation: maid is great time-saver
-+ commute is a huge time-saver
-+ git-blogging + smemo-blogging whenever and wherever I have the inspiration
 
 --biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
 * (safe default) more time in office to capture the absorbency, extend the honeymoon
