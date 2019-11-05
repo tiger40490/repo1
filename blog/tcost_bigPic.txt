@@ -8,11 +8,11 @@
 ^ exercise corner + home + office mini-exercise
 ? yoga
 ^ mini stretches
-? stadium
+v stadium - tcost
 v nutritional research
 v personal finance as recreation
 ? blogging to manage everything
-v call to parents
+? call to parents -- need grandpa's support
 v discussion with friends
 v recording weight measurements
 
