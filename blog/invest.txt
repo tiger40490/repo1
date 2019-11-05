@@ -1,31 +1,4 @@
-
 --PNB time deposit hopefully 6% pa
-
---fuxi:
-Any high-return products not audited could be a vehicle for money laundering
-The criminals are willing to pay a fee (say 22%) to wash their black money into white money. The 22% becomes profit for the investment firm so the firm can generate high return for retail investors like me.
-
---fuxi: For someone like Gary in his 30's, there are lots of upcoming big-ticket items weighing on the mind
-* kids education -- easily USD 1M
-* provide housing for children when they turn 25 or something. Nowadays China parents take up this extra responsibility because they feel their children are hopeless to save up enough by themselves.
-* medical
-
-Since there's no reliable estimates on these bit-ticket costs, they tend to feel their "worries/burdens" are real.
-
---Jolt: conserver-ffree ^ envy
-Re my blogpost of China peers hopeless to achieve ffree.
-
-I have achieved basic ffree. So my peerComp pain (one of the 2 main pains) is like the rich feeling outpaced by a tycoon... endless greed, mindless peer comparison.
-
-after talking to Gary, I realized that I could be ffree but not free from pain --- if I see other people earning a lot more and their family enjoying those things I used to dismiss as unnecessary...
-
-I would feel left behind. I think Henry Yin also hinted at the same.
-
-The tendency to compare to our neighbors is ... a basic human tendency, like envy. Even a child can experience that. However, it takes a rational mind (wisdom) to control the tendency.
-
-What did grandpa say when I said my son would go to an average school while other Chinese families mostly live in top school districts.
-
-what would the early-retirement-extreme author say?
 
 --new: ffree=unrealistic4some Chinese middle-class
 talking to Jack Zhang and Henry Yin, I feel the stereotypical Chinese middle class (my own peer group) is basically hopeless to achieve ffree. 
@@ -76,6 +49,17 @@ I need to stand my ground and accept only SEA destinations. No Japan please
 
 --I need reliable history of the realized dividend yield for each stock
 Robinhood doesn't provide it. Might be a good thing -- less distraction ...
+
+--fuxi: For someone like Gary in his 30's, there are lots of upcoming big-ticket items weighing on the mind
+* kids education -- easily USD 1M
+* provide housing for children when they turn 25 or something. Nowadays China parents take up this extra responsibility because they feel their children are hopeless to save up enough by themselves.
+* medical
+
+Since there's no reliable estimates on these bit-ticket costs, they tend to feel their "worries/burdens" are real.
+
+--fuxi:
+Any high-return products not audited could be a vehicle for money laundering
+The criminals are willing to pay a fee (say 22%) to wash their black money into white money. The 22% becomes profit for the investment firm so the firm can generate high return for retail investors like me.
 
 --Ashish's INR CD 
 convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
