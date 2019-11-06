@@ -48,8 +48,7 @@ less time on food preparation, thanks to maid + wife
 less time on commute
 more hours in office
 
-
---new: q3SG phase t-utilization in contrast to this hibernation:
+--new: q3SG phase t-utilization 
 History is a mirror
 
 too much time spent with boy.. extremely low roti. 
@@ -60,7 +59,7 @@ extra time in office? too much non-work
 yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
 (how do I improve yoga this time round?)
 
---biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
+--One of the biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
 * (safe default) more time in office to capture the absorbency, extend the honeymoon
 * weight management? demands time and energy
 * more frq exercise
@@ -79,7 +78,7 @@ Out-ranked by
 
 How about mini sessions like yoga, skip-rope, chin-up?
 
---important but not urgent:
-flexibility
-coding drill
+--fuxi: important but not urgent:
+flexibility, bone density
+coding drill -- I feel i won't forget the past problems.
 c++ critical mass maintenance
