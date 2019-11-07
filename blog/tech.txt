@@ -1,9 +1,10 @@
 --new:
 Half of the major new language features are designed for the std library developers.
-The unspoken assumption is -- these features are equally useful to other library developers.
+The unspoken assumption -- these features are equally useful to other library developers.
 
 The follow-up assumption -- app developers also need to use some (and understand all) of the nitty-gritty details.
 
+In reality, not relevant to GTD for app developers.
 --new: price discovery and closing auction
 An exchange provides the (nearly) ideal venue for price discovery, but in reality the fragmentation of liquidity makes price discovery non-trivial even on a large exchange like NYSE.
 
