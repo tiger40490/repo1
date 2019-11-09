@@ -8,7 +8,7 @@ I always need something smarter, more personalized, less direct,  more subtle,
 .. boy
 
 --yoga^coding_drill 
-In both cases, a key derailer is peer comparison. 
+In both cases, a key derailer is peer comparison, which leads to "engine loss of power"
 
 --update blogpost: my notations
 AAA > AAa > AA. Only last letter can be lower case
