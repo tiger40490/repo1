@@ -1,3 +1,8 @@
+--Some git-blog files can keep growing without creating guilt
+* tech
+* wellness
+* invest
+* boy
 --new: git-blog on office PC
 Better than web blogging, perhaps after 7pm.
 
