@@ -1,4 +1,5 @@
 
+
 --fuxi: 
 i feel there's real conflict between my work honeymoon, parenting, yoga, early sleep, ...
 
@@ -37,7 +38,30 @@ Again, I feel it depends on coworker benchmark, localSys i.e. your brainpower vs
 A big red-flag item.
 Need to control the tcost
 I think a core issue is losing my cool
-If lost my cool then better go to office
+Once I lose my cool then better go to office
+
+Overall, time spent coaching boy on his math has better roti than 
+* watching TV/movie, 
+* reading/watching news, 
+* surfing, curiosity searching, 
+* personal investment including huge t-spend on bx and account monitoring, 
+* micro-optimization on gadgets ...
+
+--
+I tend to hold highly negative views about my roti with kids (ditto with yoga, MSFM, c#), probably unfair bias. 
+
+With yoga and with time spent on kids, I have a habit to adopt a stringent standard (in a blatant double-standard) that invariably casts a bad light on my effort. 
+It's like pointing out the imperfections in a beautiful woman. 
+
+So even if my renzi coaching did enhance his renzi abilities and comprehension, you won't see any improvement a few years later if he still refuses to apply his mind.
+
+Q: is my zbs xx higher roti? Questionable.
+
+Q: is my coding drill higher roti? It's 100% interview driven, and not relevant to GTD.
+
+Q: how is the roti in c#, noSQL, meta-programming...?
+
+--9 Nov I witnessed boy could read a Chinese story JiangXiaoYa fluently
 
 --new: missed punches are more tiring than landed punches. 
 I need to spend more time in office and reduce the wasted time/energy on boy. 
