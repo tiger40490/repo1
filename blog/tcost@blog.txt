@@ -26,3 +26,5 @@ A: controversial. Using my laptop, beside better merge conflict, I always follow
 .. How about email-blogging? Eliminates merge conflict.
 
 .. How about github.com-blogging? Reduces merge conflict.
+
+.. How about git-printout? I can update either at home or on github.com.
