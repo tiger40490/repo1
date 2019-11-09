@@ -33,7 +33,7 @@ RTS boss was pushy, heartless and not considerate
 
 Again, I feel it depends on coworker benchmark, localSys i.e. your brainpower vs brainpower baked into localSys... and other factors I may be missing .
 
---new? working with boy on his problem sums is the least efficient item in my t-budget. 
+--fuxi: working with boy on his problem sums is the least efficient item in my t-budget. 
 A big red-flag item.
 Need to control the tcost
 I think a core issue is losing my cool
