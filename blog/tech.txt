@@ -1,3 +1,15 @@
+--new
+When an order is sent directly to NYSE, NYSE could decide to route it to BATS-Y which fills it. I guess the fill report should probably show 30=BATY
+
+liquidity indicator might show 3 (routed out)
+
+--new: iphone explosure due to overcharge overnight
+apple hotline told me that there is builtin protection for overheating.
+
+If it's a genuine iphone without damage or tamper, then it won't explode. If it does, it's a defect. What we see on video footage could be fake. 
+
+Before a phone explodes due to overcharge, there would be signs of unusual heating.
+
 --new:
 Half of the major new language features are designed for the std library developers.
 The unspoken assumption -- these features are equally useful to other library developers.

@@ -1,7 +1,14 @@
 --jot: my effective tactics against personal limitations are never brute force willpower.
 Willpower doesn't work for me even though some level of self-discipline is required.
 
-I always need something smarter, or more subtle, more personal.
+I always need something smarter, more personalized, less direct,  more subtle, 
+
+.. yoga
+.. coding drill
+.. boy
+
+--yoga^coding_drill 
+In both cases, a key derailer is peer comparison. 
 
 --update blogpost: my notations
 AAA > AAa > AA. Only last letter can be lower case

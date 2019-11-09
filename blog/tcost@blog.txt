@@ -7,6 +7,8 @@ git-blogging everywhere I go ... could lead to an unhealthy dependency on gadget
 Compared to paper-blogging, git-blogging is inefficient due to polish? 
 Well, in terms of over-polish, git is much better than WP blogging. With WP blogging, I feel the pressure to polish enough to be readable to myself. In contrast, in git, i can leave the content in barebones point form because I know I would revise it before publishing.
 
+additional tcost of git-blogging -- merge conflict
+
 --Some git-blog files can keep growing without creating guilt
 * tech
 * wellness
