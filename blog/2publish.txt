@@ -1,36 +1,6 @@
---update post-commit:
-printf "$0 -->...
- 
---eng:
-similar to ...
-comparable to ...
-in contrast to ...
-
 --need more problems like
 90/45
 75%/25%
 120/24
 350/70
 36/120
-
-
---new: why i prefer devising my problem rather than taking a book
-If I choose one question from a P5 book, the 
-other 9 questions on the same page create immense negative pressure, because they are not easy for my son.
-
-They might have equal value as my chosen question, but I don't (and should not) have to deal with more than one tough question at a time.
-
---Jolt: conserver-ffree ^ envy
-Re my blogpost of China peers hopeless to achieve ffree.
-
-I have achieved basic ffree. So my peerComp pain (one of the 2 main pains) is like the rich feeling outpaced by a tycoon... endless greed, mindless peer comparison.
-
-after talking to Gary, I realized that I could be ffree but not free from pain --- if I see other people earning a lot more and their family enjoying those things I used to dismiss as unnecessary...
-
-I would feel left behind. I think Henry Yin also hinted at the same.
-
-The tendency to compare to our neighbors is ... a basic human tendency, like envy. Even a child can experience that. However, it takes a rational mind (wisdom) to control the tendency.
-
-What did grandpa say when I said my son would go to an average school while other Chinese families mostly live in top school districts.
-
-what would the early-retirement-extreme author say?

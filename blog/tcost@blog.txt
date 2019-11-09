@@ -1,3 +1,6 @@
+--moving a post between blogs is too time consuming, probably not worth it.
+should do it in bulk
+
 --new: git-blog on office PC
 Better than web blogging, perhaps after 7pm.
 
