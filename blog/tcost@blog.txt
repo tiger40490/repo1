@@ -1,3 +1,6 @@
+--update blogpost on open-house
+Open house distraction is worst when I need to focus, such as blogging
+
 --Some git-blog files can keep growing without creating guilt
 * tech
 * wellness
