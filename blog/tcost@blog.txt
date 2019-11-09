@@ -1,6 +1,3 @@
---moving a post between blogs is too time consuming, probably not worth it.
-should do it in bulk
-
 --new: git-blog on office PC
 Better than web blogging, perhaps after 7pm.
 
@@ -9,26 +6,4 @@ Major slippery slope !
 Risk of merge conflict.
 
 Q: is it better than using my laptop in the pantry? 
-A: controversial. Using my laptop, I set a hard time limit. Using PC, I appear to be working. 
-
-====new
-the tcost of blogging is comparable to the extra tcost of exercise (yoga/jogging/..) beyond the actual workout minutes, diet preparation, nutritional research... My reflective blogging is critical to diet (and exercise, to a lesser extent) because 
-
-* my overall wellness and vitality is the #1 fundamental factor of my dev-till-70 plan, 
-* weight is the (#1 wellness factor) surprise tail that wags the dog, in my case
-* the psychological element (hunger, temptation, motivation..) is the #1 important challenge in my case. Temptation is the (#1) deciding factor and #1 obstacle to my diet
-* blogging is my #1 essential effort on the psychological elements, esp. temptation.
-
-My introspective blogging is effective because diet (and exercise) is all about self-management, self-discovery, self-understanding, self-motivation, self-monitoring, self-adjustment, (I didn't say "self-discipline")
-
---the tcost of blogging is a critical part of parenting, because the mindset, mentality ... of the parents is a fundamental part of the parenting challenge. 
-Parents get emotional. Parents are imperfect humans. 
-Some grow as parents by reading, discussing with partners and friends. I choose blogging.
-
-I can become more rational about my son's studies and weight, via blogging. Blogging takes lots of mental energy + time
-
--- more j4 thinking/blogging about tcost, tbudget etc
-my time allocation strategy, roti ... is crucial to my self-esteem/self-hate, satisfaction, regrets, emotional pains, 
-In this battle, I can become more rational via blogging. Blogging takes lots of laser energy + time.
-
-====
+A: controversial. Using my laptop, I always follow a hard time limit. Using PC, other guys think I'm working. 
