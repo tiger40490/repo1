@@ -1,7 +1,9 @@
---std::bitset is popular in c++ coding interviews
-to_string()
-to_ulong()
-ctor can take an int or a string.
+--new: std::bitset: popular ] WallSt c++coding IV
+std::bitset is popular in WallSt c++ coding interviews. Rather easy to use if you are an experienced c++ developer.
+
+to_string() and cvctor from string like like "011100101011010"
+to_ulong() and cvctor from ulong
+operator[] returns a reference, so you can assign to myBitset[0]. Designed to mimic a raw array on the surface. Actually, return type is not reference to a bool. Rather, I think it's a reference to a specific posiiton in the "backing store". See http://www.cplusplus.com/reference/bitset/bitset/operator[]/
 
 --new
 When an order is sent directly to NYSE, NYSE could decide to route it to BATS-Y which fills it. I guess the fill report should probably show 30=BATY
