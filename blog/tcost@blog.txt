@@ -1,5 +1,14 @@
+--new: ideal device for git-blogging:
+* windows 
+* wifi
+* reliable physical keyboard
+* low-cost 2nd-hand laptop
+* size and weight? LG2
+* long battery or 2 chargers? LG3
+* touch-screen? LG
+
 --update blogpost on open-house
-Open house distraction is worst when I need to focus, such as blogging
+Open house distraction is worst when I need to focus, such as reflective blogging
 
 --
 git-blogging everywhere I go ... could lead to an unhealthy dependency on gadgets. Perhaps we ought to rely more on paper or bare hands.
