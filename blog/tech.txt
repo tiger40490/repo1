@@ -1,3 +1,8 @@
+--std::bitset is popular in c++ coding interviews
+to_string()
+to_ulong()
+ctor can take an int or a string.
+
 --new
 When an order is sent directly to NYSE, NYSE could decide to route it to BATS-Y which fills it. I guess the fill report should probably show 30=BATY
 
