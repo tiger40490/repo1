@@ -5,7 +5,7 @@
 * low-cost 2nd-hand laptop
 * size and weight? LG2
 * long battery or 2 chargers? LG3
-* touch-screen? LG
+* touch-screen? LG99
 
 --update blogpost on open-house
 Open house distraction is worst when I need to focus, such as reflective blogging
