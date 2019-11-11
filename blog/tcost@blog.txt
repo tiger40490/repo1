@@ -14,9 +14,13 @@ Open house distraction is worst when I need to focus, such as reflective bloggin
 * read on mrt
 * use 0.txt and smemo more
 
-git-blogging-anywhere on light laptop with real keyboard ... represents the highest (effienccy, convenience) form of contemplation. However, it could /breed/ unhealthy dependency on gadgets. Perhaps we ought to rely more on paper or bare hands.
+--new: 
+git-blogging-anywhere on light laptop with real keyboard ... represents the highest form of contemplation (effiency, convenience). 
+However, it could /breed/ unhealthy dependency on gadgets. Perhaps we ought to rely more on paper-blogging or bare hands.
 
-Q: Compared to paper-blogging, git-blogging is inefficient due to polish? 
+For light-edit subjects, smemo or 0.txt are more efficient than git-blogging.
+
+Q: Compared to paper-blogging, git-blogging can breed inefficiency due to polish? 
 A: Well, in terms of over-polish, git is much better than WP blogging. With WP blogging, I feel the pressure to polish enough to be readable to myself. In contrast, with git i can leave the content in barebones point form because I know I would revise it before publishing.
 
 Additional tcost of git-blogging -- merge conflict
