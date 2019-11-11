@@ -1,3 +1,11 @@
+--a data API (for javascript consumers, python consumers, Excel consumers..) can include
+lookupById
+search
+subscription API like server push
+streaming API
+sorted collection API
+
+(this content is better done via chewing .. in gmail/outlook/git, NOT web blogging)
 --new: std::bitset: popular ] WallSt c++coding IV
 std::bitset is popular in WallSt c++ coding interviews. Rather easy to use if you are an experienced c++ developer.
 
