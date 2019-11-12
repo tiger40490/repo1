@@ -1,3 +1,4 @@
+
 --PNB time deposit hopefully 6% pa
 
 --new: ffree=unrealistic4some Chinese middle-class
@@ -56,6 +57,9 @@ Robinhood doesn't provide it. Might be a good thing -- less distraction ...
 * medical
 
 Since there's no reliable estimates on these bit-ticket costs, they tend to feel their "worries/burdens" are real.
+
+--(LG-oth)what to do with boy's 5k balance? a single FSM fund or keep as a reserve, while investing more fund from 108? transfer boy's SGD 5000.00 to wife's FSM? 
+--bgc is high maintenance; FX robot might be better. Both are affecting my laser-gun.
 
 --fuxi:
 Any high-return products not audited could be a vehicle for money laundering
