@@ -7,8 +7,6 @@
 * long battery or 2 chargers? LG3
 * touch-screen? LG99
 
---update blogpost on open-house
-Open house distraction is worst when I need to focus, such as reflective blogging
 
 -- set up lenovo for commute? Would eliminate the "high cost low usage of Lenovo" zsms. Well, Take this chance to live without git-blogging. 
 * read on mrt
@@ -29,7 +27,7 @@ Additional tcost of git-blogging -- merge conflict
 * tech
 * wellness
 * invest
-* boy
+? boy
 
 --new: git-blog on office PC
 Better than web blogging (except merge-conflict), perhaps after 7pm.
@@ -40,8 +38,8 @@ Better than web blogging (except merge-conflict), perhaps after 7pm.
 Q: is git-blogging@workPC better than using my laptop in the pantry? 
 A: controversial. Using my laptop, beside better merge conflict, I always follow a hard time limit. Using PC, other guys think I'm working. 
 
-.. How about email-blogging? Eliminates merge conflict.
+.. How about email-blogging? Eliminates merge conflict + slippery slope
 
 .. How about github.com-blogging? Reduces merge conflict.
 
-.. How about git-printout? I can update either at home or on github.com.
+.. How about git-printout? I can update either at home or on github.com. Eliminates merge conflict + slippery slope

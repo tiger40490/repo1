@@ -1,3 +1,6 @@
+--update blogpost on open-house
+Open house distraction is worst when I need to focus, such as reflective blogging
+
 --update blogpost: slim^brank 
 our Indian neighbor -- not earning a lot more than me...
 
