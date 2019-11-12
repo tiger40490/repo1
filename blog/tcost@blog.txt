@@ -1,30 +1,8 @@
---new: ideal device for git-blogging:
-* windows 
-* wifi
-* reliable physical keyboard
-* low-cost 2nd-hand laptop
-* size and weight? LG2
-* long battery or 2 chargers? LG3
-* touch-screen? LG99
-
-
--- set up lenovo for commute? Would eliminate the "high cost low usage of Lenovo" zsms. Well, Take this chance to live without git-blogging. 
+-- set up lenovo for commute? Would eliminate the "high cost low usage of Lenovo" zsms. Well, Take this chance to live without git-blogging.
 * read on mrt
 * use 0.txt and smemo more
-
---new: 
-git-blogging-anywhere on light laptop with real keyboard ... represents the highest form of contemplation (effiency, convenience). 
-However, it could /breed/ unhealthy dependency on gadgets. Perhaps we ought to rely more on paper-blogging or bare hands.
-
-For light-edit subjects, smemo or 0.txt are more efficient than git-blogging.
-
-Q: Compared to paper-blogging, git-blogging can breed inefficiency due to polish? 
-A: Well, in terms of over-polish, git is much better than WP blogging. With WP blogging, I feel the pressure to polish enough to be readable to myself. In contrast, with git i can leave the content in barebones point form because I know I would revise it before publishing.
-
-Additional tcost of git-blogging -- merge conflict
 
 --fuxi: Some git-blog files can keep growing without creating guilt
 * tech
 * wellness
 * invest
-? boy
