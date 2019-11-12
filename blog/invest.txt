@@ -34,7 +34,7 @@ Can do this during lunch break
 Now I feel robinhood and fsm portfolios are small so luckily I don't get hit by their interference with my life. 
 I prefer to review them as recreation and only when free.
 
---now I feel my FSM process is low-efficiency
+--fuxi: now I feel my FSM process is low-efficiency
 slow selection
 distraction
 if I invest more, distraction would grow. 
@@ -45,8 +45,6 @@ Shall I control it so I invest bigger amounts provided I don't do anything durin
 --fuxi: SG is a consumer city. Sooo many low-cost or high-cost "goods" including heavy marketing of overseas vacation destinations. I believe overseas vacations are very expensive, lavish and not worthwhile at all.
 
 I need to stand my ground and accept only SEA destinations. No Japan please
-
---grandpa$$+me: maintain in google drive? higher privacy than github?
 
 --I need reliable history of the realized dividend yield for each stock
 Robinhood doesn't provide it. Might be a good thing -- less distraction ...
@@ -59,7 +57,8 @@ Robinhood doesn't provide it. Might be a good thing -- less distraction ...
 Since there's no reliable estimates on these bit-ticket costs, they tend to feel their "worries/burdens" are real.
 
 --(LG-oth)what to do with boy's 5k balance? a single FSM fund or keep as a reserve, while investing more fund from 108? transfer boy's SGD 5000.00 to wife's FSM? 
---bgc is high maintenance; FX robot might be better. Both are affecting my laser-gun.
+
+--fuxi: bgc is high maintenance; FX robot might be better. Both are affecting my laser-gun.
 
 --fuxi:
 Any high-return products not audited could be a vehicle for money laundering
