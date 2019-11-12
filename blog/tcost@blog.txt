@@ -28,18 +28,3 @@ Additional tcost of git-blogging -- merge conflict
 * wellness
 * invest
 ? boy
-
---new: git-blog on office PC
-Better than web blogging (except merge-conflict), perhaps after 7pm.
-
-1) Major slippery slope !
-2) Risk of merge conflict.
-
-Q: is git-blogging@workPC better than using my laptop in the pantry? 
-A: controversial. Using my laptop, beside better merge conflict, I always follow a hard time limit. Using PC, other guys think I'm working. 
-
-.. How about email-blogging? Eliminates merge conflict + slippery slope
-
-.. How about github.com-blogging? Reduces merge conflict.
-
-.. How about git-printout? I can update either at home or on github.com. Eliminates merge conflict + slippery slope
