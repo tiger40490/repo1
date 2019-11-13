@@ -1,4 +1,4 @@
---new: git-blogging=best
+--new cooked: git-blogging=best
 sitting in ikea and watching my son playing... I realized that git-blogging helps me get into the "zone" faster, creates faster engagement and focus than paper-blogging, paper-reading etc.
 
 Specifically, 
@@ -12,7 +12,13 @@ I spend way too much time on titles ...
 
 This is one moment to declare git-blogging is the highest form of expressive writing.
 
--- set up lenovo for commute? Would eliminate the "high cost low usage of Lenovo" zsms. Well, Take this chance to live without git-blogging.
+--new cooked: open-house blogging choices
+Open house distraction is worst when I need to focus, such as reflective blogging.
+
+The best coping device is git-blogging .. It beats web blogging or even email blogging. 
+Paper blogging won't let me build up a blogpost incrementally.
+
+-- fuxi: set up lenovo for commute? Would eliminate the "high cost low usage of Lenovo" zsms. Well, Take this chance to live without git-blogging.
 * read on mrt
 * use 0.txt and smemo more
 
