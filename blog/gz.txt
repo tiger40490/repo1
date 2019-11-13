@@ -1,3 +1,9 @@
+--fuxi: 
+After listening to FPGA, off-heap memory latency ...
+I feel the arms race of latency is limited to high-speed trading only.
+
+latency technology has limited economic value compared to mobile, cloud, cryptocurrency, or even data science and machine learning.
+
 --new
 Q: why does QQ study feel more serious, more like work than wellness research, when the latter is more strategic more important to my wellbeing?
 coding is my profession. By growing as a coder, I become more in-demand in the economy. Then I increase earning capacity to support various family needs.
@@ -15,7 +21,6 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * I feel I could exceed mgr expectation with 90% effort
 
 --"Those" peers are not smarter, more successful than me
-
 Many are still consultants. Actually consultant career have its advantages and charms.
 
 Many are stuck at VP level and facing job insecurity.
@@ -25,9 +30,9 @@ If you are not the right personality, then the leadership career path is more pa
 
 Cherry Mo?
 
---new: analyzing my perception of reality
+--new but no hurry: analyzing my perception of reality
 othRisk
-Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends. There's some reality out there but each person including the expert observer has only a limited view of that reality, based on limited data.
+Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends, past and future. There's some reality out there but each person including the expert observer has only a limited view of that reality, based on limited data.
 
 Those numbers look impressive, but actually similar to the words -- they are mostly personal perceptions dressed up as objective measurements.
 
