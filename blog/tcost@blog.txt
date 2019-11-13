@@ -1,3 +1,16 @@
+--new: git-blogging=best
+sitting in ikea and watching my son playing... I realized that git-blogging helps me get into the "zone" faster, creates faster engagement and focus than paper-blogging, paper-reading etc.
+
+Specifically, 
+Editing long sentences, reviewing dozens (not half-dozen) of topics .. gets me into the zone faster.
+
+In contrast,
+* web-bloggig is really clumsy when editing more than 5 topics simultaneously.
+I spend way too much time on titles ...
+* recoll has a high cost in terms of file-naming 
+* gmail-blogging system can't easily organize dozen's of topics
+
+This is one moment to declare git-blogging is the highest form of expressive writing.
 --new: y early2office
 j4: less crowded train.. Can study on train
 j4: can blog in office till 10am
