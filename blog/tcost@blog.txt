@@ -1,3 +1,14 @@
+--new: under t-pressure don't curtail blogging
+Analogy: In an austerity period, we don’t want to cut resources for accounting department because these professionals help enforce the austerity measures.
+
+Analogy: To reduce family burn rate, we don’t want to cut spending on durable tools like rechargeable, sturdy bikes..
+
+Now, when my personal time and "bandwidth" comes under pressure, it’s tempting to look around among my peers and identify blogging as a huge over-spend. 
+However, I follow a coping strategy that relies on blogging a.k.a. reflective, expressive writing. 
+It’s crucial to recognize blogging as both a t-spend and a relief.
+
+Blogging is crucial to my stress mgmt and crisis mgmt.
+
 --new cooked: git-blogging=best
 sitting in ikea and watching my son playing... I realized that git-blogging helps me get into the "zone" faster, creates faster engagement and focus than paper-blogging, paper-reading etc.
 
