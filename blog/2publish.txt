@@ -1,3 +1,6 @@
+--update blogpost on chewing/brewing/soaking/..
+slow-cooking
+
 --update blogpost on open-house
 Open house distraction is worst when I need to focus, such as reflective blogging
 

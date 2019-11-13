@@ -88,7 +88,7 @@ Coding drill is not strategic either ! Workout is more strategic
 
 I can record the time usage over a few evenings and ask "how could we improve? What's a better profile?"
 
---new: Jolt: go`home earlgit dy4family time
+--new Jolt: go`home earlgit dy4family time
 I used to feel the “warm feeling” about going home early … some math with boy, some shopping, a bit of exercise ... but the utilization rate was always disappointing.
 
 Q: what specific lasers would make me fee ... justified?
@@ -140,6 +140,3 @@ My hours in office are scarce :
 * localSys explore -- for long term productivity etc
 * frequent breaks
 * phone call to BJ
-
---fuxi: composing emails is slow-cooking. It need time (as Martin put it). It's time well-spent.
-At work or at home, we should NOT rush.
