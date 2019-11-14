@@ -1,8 +1,3 @@
---fuxi: 
-After listening to FPGA, off-heap memory latency ...
-I feel the arms race of latency is limited to high-speed trading only.
-
-latency technology has limited economic value compared to mobile, cloud, cryptocurrency, or even data science and machine learning.
 
 --new
 Q: why does QQ study feel more serious, more like work than wellness research, when the latter is more strategic more important to my wellbeing?
@@ -46,6 +41,12 @@ Am not analyzing reality. Instead,
 Am basically analyzing my perception of the reality, but that's the best I could do. I'm good at analyzing myself as an object.
 
 Refusing to plan because of high uncertainty is lazy, is pessimistic, is doomed.
+
+--fuxi: 
+After listening to FPGA, off-heap memory latency ...
+I feel the arms race of latency is limited to high-speed trading only.
+
+latency technology has limited economic value compared to mobile, cloud, cryptocurrency, or even data science and machine learning.
 
 --update blogpost: every time I try the SG job market, recruiters would tell me there are so many "new" employers or new markets, but invariably, i need to focus on the old guards .. mostly ibanks, as the new market is not open to me.
 
