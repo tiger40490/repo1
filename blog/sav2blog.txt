@@ -4,19 +4,15 @@ Brute force willpower never worked for me even though some level of self-discipl
 
 I always need some tactics smarter, more personalized, less direct,  more subtle, 
 
+.. chin-up
 .. yoga
 .. coding drill
 .. boy's motivation
 
---yoga^coding_drill 
-In both cases, a key derailer is peer comparison, which leads to "engine loss of power"
+--new: yoga^HFT coding
+In both cases, a key derailer is peer comparison, which leads to "engine loss of power".
 
---update blogpost: my notations
-AAA > AAa > AA. Only last letter can be lower case
-AA > AA-
-Choose either the Aa scheme or the A- scheme. Don't mix.
-The Aa scheme is more granular;
-The A- scheme is more visual
+I felt that whatever effort I put in, I would still be too weak compared to "their" standard
 
 --new: ##rare achievements used as mere basic std
 I tend to feel inferior, self-hate... by benchmarkig against these rare achievements as if they are commonplace.
@@ -29,7 +25,8 @@ I tend to feel inferior, self-hate... by benchmarkig against these rare achievem
 * my friends describing their childhood training in piano, calligraphy, math
 * me or other people achieving focus in office. Actually Lack of focus is the norm!
 * grandpa's level of focus
-
+* grandpa's level of diet control
+* my diet control
 
 --new: clarity of thinking is a non-trivial strength in me
 Many friends say I'm very reflective and demonstrate Grade-A self knowledge and self analysis. 
