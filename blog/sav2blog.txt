@@ -1,5 +1,6 @@
---I get into crises-type anxieties far too often ..
-Let's be slightly more rational and ask ourselves -- what events can qualify as a crisis? Let's list up to 9 high-level categories. I think they all have some timeline.
+--new: crises anxiety
+I get into crises anxieties far too often ..
+Let's be slightly more rational and ask ourselves -- what bad news (events) should be considered a crisis? Let's list up to 9 high-level categories. I think they all have some timeline.
 
 * kids developmental problem
 * medical condition that should not be postponed indefinitely. Note aging issues are things to be accepted gracefully.
@@ -7,18 +8,19 @@ Let's be slightly more rational and ask ourselves -- what events can qualify as 
 * family tension
 * things out@service but actually needed. Counter example: the bedroom door repair can be postponed.
 
-Here are some fake crises:
-* my engagement honeymoon on the new job has ended
+Here are some fake crises (storm-in-teacup):
+* my engagement honeymoon has ended
 * my time allocation differs from my rational model -- so what?
 * my spare time is not generating any ROTI -- but when did it?
 * my workout time has reduced -- but any real effect on my health?
+* visible result of my time spent on boy is far below my expectation -- but real progress nevertheless
 
-Slightly less often we notice a shocking deteriorating condition, but irrevesible hence no 'timeline'. I think what we need most is acceptance with serenity.
+Slightly less often we notice a shocking deterioration, but irrevesible hence no big change needed. What we need most is acceptance with serenity.
 * skin, hair condition, perhaps due to aging
 * c++ programmers' life becoming tougher on wall st
 * growing population of younger, brighter developers in Singapore job market
 
-Who have the serenity and the discernment? Grandpa, ..
+Which individuals have the serenity and the discernment? Grandpa, Josh?
 
 --jot: my effective tactics against personal limitations are never brute force willpower.
 Willpower doesn't work for me even though some level of self-discipline is required.
