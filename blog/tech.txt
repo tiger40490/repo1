@@ -4,9 +4,8 @@ reversed vs reverse
 items vs iteritems
 iterable and yield
 
---a data API (for javascript consumers, python consumers, Excel consumers..) can include
-lookupById
-search
+--new: a data API (for javascript consumers, python consumers, Excel consumers..) can include
+smart search
 subscription API like server push
 streaming API
 sorted collection API
