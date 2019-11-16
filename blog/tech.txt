@@ -1,3 +1,9 @@
+--py
+sorted vs sort
+reversed vs reverse
+items vs iteritems
+iterable and yield
+
 --a data API (for javascript consumers, python consumers, Excel consumers..) can include
 lookupById
 search
