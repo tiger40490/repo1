@@ -1,8 +1,5 @@
 --py
-sorted vs sort
-reversed vs reverse
-items vs iteritems
-iterable and yield
+fuxi: iterable and yield
 
 --new: a data API (for javascript consumers, python consumers, Excel consumers..) can include
 smart search
