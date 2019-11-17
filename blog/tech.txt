@@ -1,3 +1,9 @@
+--java doesn't give you contorl over memory layout
+No struct. (c# is better)
+A string object is always a seperate heapy thingy
+
+--low-latency apps should not use lock-free... Strictly single-threaded mode, strictly. 
+
 --When setting up a new phone (laptop, and outlook are similar), i need to simplify it.
 disable many notifications
 uninstall many apps

@@ -1,3 +1,12 @@
+--latency measurement gotchas ... is zbs but not GTD or QQ
+
+--jvm perf tuning is mainstream (and socially meaningful) if we focus on
+* saturation
+* throughput
+* typical user-experience respose time
+
+In contrast, one super-narrow niche area is micro-latency as in HFT
+
 --update blog on 3 strikes
 Hukun was also let go
 budget cut was severe in the stirt tech team
