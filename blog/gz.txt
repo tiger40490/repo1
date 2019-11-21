@@ -1,3 +1,18 @@
+--
+what would I do in my 70's before or when I couldn't find a full time job?
+I asked a few MS colleagues...
+I think Jack Zhang said he would keep working, just like me. In 2014, A Trac consultant trainer told a class of OCBC trainees that he would teach for free...
+
+Some successful people reach the peak of their career in their 30's or 40's. After that, they become advisors or decision makers for a committee. They make use of the relationships, judgements...
+My dad is different. He is still productive in his 80's.
+
+Am not one of those successful people. I am just a professional interviewee/programmer for Wall St. 
+
+software dev career is somewhat different, but I feel it still resembles some traditional domains like ...?
+--when I read the bio paragraph of a fellow technie, I often feel inferior. I think many of these individuals show a leadership track record, but they lack portable tech skill. Their leadership skill is not so portable.
+
+They might have higher salary, but (hold your breath) .. but i don't need higher income. 
+
 --latency measurement gotchas ... is zbs but not GTD or QQ
 
 --jvm perf tuning is mainstream (and socially meaningful) if we focus on
