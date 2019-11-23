@@ -1,3 +1,12 @@
+--Morse experience
+Given a tough problem, I can either solve it myself over a few days or read the std solution. 
+
+I learn more by working out my (non-optimal) solutions.
+More laser
+More engagement
+More absorbency -> self-esteem
+More mileage acquired
+
 --email to XR: my non-monetary motivation is not lower than the salary-oriented motivation
 
 I now recall that most of my friends who practice heavily on leetcode have a clear goal to increase salary.
