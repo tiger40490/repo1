@@ -1,9 +1,11 @@
 remind NCT about last stay I haven't paid him
-Is NCT always staying here?
+Ask: Is NCT always staying here?
+Ask: mobility in BGC
+
 ====devices
 Make the most use of smemo
-which device for gmail + wp? vivo or one of the laptops?
-
+which device for gmail? vivo
+Q: Leave the Lenovo behind? Yes
 --vivo for communication with raymond+lisa; 
 wechat with NCT
 gmail
@@ -14,6 +16,7 @@ wechat with wife? LG2
 ====cash
 Need to leave $x in PNB for ... taxes?
 If needed, convert from USD, because CNY is efficient @SG money changers.
+
 ====priorities
 --set up basics for my 3 days
 wifi
@@ -24,3 +27,5 @@ withdraw cash from PNB via ATM?
 curtain
 power socket
 
+====return flight
+sleep early. get up early. Leave by 7.30am; 8.30 to reach airport
