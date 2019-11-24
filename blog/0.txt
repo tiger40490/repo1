@@ -1,12 +1,10 @@
-remind NCT about last stay I haven't paid him
-Ask: Is NCT always staying here?
-Ask: mobility in BGC
-Ask: tipping
-Ask: wifi, atm, floor ...
+Ask building: floor; socket ...
+Ask MW: full docs + timeline of title transfer
 
 ====what to do
+deposit php cash; get atm card
 --yoga
-
+--driving
 ====devices
 Make the most use of smemo
 Q: Leave the Lenovo behind? Yes
@@ -17,20 +15,10 @@ wechat with wife? LG2
 --iview11 for git-blogging
 
 ====cash
-Need to leave $x in PNB for ... taxes?
-If needed, convert from USD, because CNY is efficient @SG money changers.
 
 ====priorities
---set up basics for my 3 days
-wifi
-healthy food
-handle on floor -- physical safety 
-
 --set up secondary #tv++
-withdraw cash from PNB via ATM? 
-
 --LG2 items
-curtain
 power socket
 
 ====return flight
