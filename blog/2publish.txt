@@ -1,3 +1,15 @@
+
+--new: 5%higher cost@better gadget
+Marginal cost of a slightly fancier laptop is unnoticed if everything fine.
+It's noticed when underutilized.
+It's noticed when broken
+
+Note -- Laptops become underutilized and broken more than phones, printers, other gadgets.
+
+Vindicated 2nd-hand laptops:
+* Dell $250
+* Acer $120
+
 --new: ffree=unrealistic4some Chinese middle-class
 (oth? The state of mind is important to me. The peer comparison is bound to affect me from time to time.) 
 talking to Jack Zhang and Henry Yin, I feel the stereotypical Chinese middle class (my own peer group) is basically hopeless to achieve ffree. 
@@ -19,14 +31,12 @@ i feel good but not conceited about my burn rate + savings rate. Also proud of m
 
 I mention my ffree to many people and I start to feel positive about it, hopefully not losing my feet on the ground.
 
-If we keep control over our burn rate, barebones ffree is not unrealistic, largely thanks to medishield.
+World Bank poverty line for rich countries is USD 22/day or USD 8k/Y. In Singapore, If we keep control over our burn rate, barebones ffree is not unrealistic, largely thanks to medishield.
 
 Do some people work hard towards ffree and upon arrival spend their hard-earned money like there's no tomorrow? 
-I feel "unconstrained spend" is a common dream, but inconsistent with realistic practical ffree.
+I feel "unconstrained spend" is a naive dream, inconsistent with realistic practical ffree.
 
-ffree is a state of mind. It is more than a discipline, and not a harsh discipline. It is a keen awareness of what spends are important to yourself and what aren't.
-
-World Bank poverty line for rich countries is USD 22/day or USD 8k/Y
+ffree is a state of mind. It is more than a discipline, but not a harsh discipline. It is a keen awareness of what spends are important to yourself and what aren't.
 
 ..some of the important (often unglamorous) thing money can get for me, roughly ranked:
 healthcare such as the shield plans
@@ -45,7 +55,7 @@ On 25 Nov at Alliance Global tower, Christopher was the first MW rep. cpastrana.
 
 When NCT asked Christopher about timeline of Deed of absolute sale, the answer was Jan 2020
 
-There stages of ownership transfer
+Three stages of ownership transfer
 1) deed of assignment
 2) deed of absolute sale
 3) title deed registration with government
@@ -53,15 +63,15 @@ There stages of ownership transfer
 --new: t-utilization: q3SG as mirror
 History is a mirror.
 
-too much low-quality time with boy. Need to be more calculating on tcost as $cost. Beware of long trips, though boy really appreciates some of them.
+Too much low-quality-time with boy. Need to be more "calculating" on tcost as a cost. Beware of long trips, though boy really appreciates some of them.
 
-msfm? Huge tcost like 10~15h/week per subject, but this is often a absorbency honeymoon. I learnt a lot, though the strategic value is not considered questionable.
+msfm? Huge tcost like 10~15h/week per subject, but this lead to multiple absorbency honeymoons. I learned a lot, though the strategic value is now considered questionable.
 
 personal investment? too much tcost on fsm + oanda
 
-extra time in office? too much non-work
+extra time in office? A bit too much non-work activities.
 
-yoga? insufficient positive feedback, too much physical pain, slightly too much $cost pressure
+yoga? insufficient positive feedback, too much physical straining/exertion, slightly too much $cost pressure.
 
 --email to Ashish
 You said I'm now pretty good at coding interviews. I said I was just lucky.
