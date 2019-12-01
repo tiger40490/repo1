@@ -1,3 +1,20 @@
+--new: ##real limitations of %%ffree
+This analysis takes effort. Here's a modest start. I think without in-depth and comprehensive anslysis, my bare-bones ffree is naive and built on shaky ground.
+
+country risk -- what if Cambodia or Philippines gets into trouble and property market collapses?
+
+Currency risk -- suppose I'm retired in Singapore, and PHP or USD weakens
+
+--Genn on rental income tax 
+how to report. Can NCT help?
+how many percent?
+how does the tax department catch us?
+
+--Genn on legal contract
+landlord's insurance
+
+Agency agreement -- need to document the fees and responsibilities.
+
 --Raymond on retirement destinations
 Raymond plans to stay rented in A then B then C for a year each time, perhaps including China.
 
