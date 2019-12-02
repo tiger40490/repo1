@@ -1,3 +1,13 @@
+--new: ##eg@costly-unsatisfying
+alcoholic drinks tend to be fancy
+fresh foods
+famous beef as the most expensive meat on the market
+smart phone with fancy cameras
+laptops with fast processors or huge memory
+cinemas with leather seats 
+dwellings with a sea view
+limo with a drink table by the seat
+
 --new: ##real limitations of %%ffree
 This analysis takes effort. Here's a modest start. I think without in-depth and comprehensive anslysis, my bare-bones ffree is naive and built on shaky ground.
 
