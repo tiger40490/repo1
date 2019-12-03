@@ -1,6 +1,7 @@
 --update myCarePlus
-what if I emigrate?
-Can I downgrade to a smaller amount?
+what if I emigrate? If am overseas, still can claim
+
+Can I downgrade to a smaller amount? No
 
 Is premium amount in addition to eldershiled premium?
 
@@ -8,4 +9,5 @@ premium represents a $250/M burn rate .. a bit too high in my ffree
 
 Risk of over-protection. Sizing should be done based on needs.. as we aren't affluent. 
 
-Can I buy multiple policies and terminate one of them when no longer needed?
+Can I buy multiple policies and terminate one of them when no longer needed? Yes
+split the $5k: $1100 using medisave + $2500 + $1400
