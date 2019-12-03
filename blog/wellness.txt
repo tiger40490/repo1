@@ -1,12 +1,3 @@
---new:
-To satisfy my craving for chocolates, I can eat more raw veg!
-
---new: Many question whether I need to lose more weight. Time will tell. I believe over 20 years they will realize I was right to focus so much on deep-green zone
-
---new: fresh foods are inferior
-Fresh means expensive-yet-unsatisfying
-fresh means perishable, can't store for weeks like other foods
-fresh means higher risk of "wrong amount"
 
 --new: why weekly yoga is harder than diet, jogging, codingDrill..
 My yoga, diet daily battle, coding drill .. all feel like Promethean struggles.
@@ -95,10 +86,20 @@ Fish? Not sure
 
 milk? not sure
 
+--fuxi:
+To satisfy my craving for chocolates, I can eat more raw veg!
+
 --fuxi: Q: why buy mixed veg rice when I have free home cooking?
 A: there are many veg (+meat) missing in my home cooking
 A: qty-temptation in home cooking. Outside food is rationed
 When I reach home late and the leftover is boxed up, I feel no obligation to "finish that tiny amount". 
+
+--fuxi: Many question whether I need to lose more weight. Time will tell. I believe over 20 years they will realize I was right to focus so much on deep-green zone
+
+--fuxi: fresh foods are inferior
+Fresh means expensive-yet-unsatisfying
+fresh means perishable, can't store for weeks like other foods
+fresh means higher risk of "wrong amount"
 
 --fuxi: the pizzahut experience
 I couldn't stick to my rule "no food if not hungry". I decided to break my rule but I fought a Baoshan war :
