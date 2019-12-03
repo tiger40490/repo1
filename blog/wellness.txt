@@ -1,17 +1,14 @@
 --MyShield post-hospitalization reimbursement covers 365 days
 
-MyShield also covers day surgery with zero hour hospital stay
+day surgery with zero hour hospital stay? Medishield also covers.
 
 --ElderShield
-
-triggers
+3 common causes
 1) accident
 2) critical illness
 3) old age
 
-deferment 90D -- if qualified at assessment time, Aviva will pay the 3M warehoused.
-
---ask about IdealIncome
+deferment 90D -- if qualified at assessment time, Aviva will pay out the 3M as warehoused.
 
 --new: why weekly yoga is harder than diet, jogging, codingDrill..
 My yoga, diet daily battle, coding drill .. all feel like Promethean struggles.
