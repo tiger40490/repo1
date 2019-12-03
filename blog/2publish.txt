@@ -11,5 +11,3 @@ premium represents a $250/M burn rate .. a bit too high in my non-working phase.
 
 Can I buy multiple policies and terminate one of them when no longer needed? Yes
 split the $5k into 2 plans: $1300/12Y using medisave + $3700
-
-Out of 100 claims (successful or not) in ElderShield and MyCare, 67 were made before age 55.
