@@ -13,7 +13,16 @@ This analysis takes effort. Here's a modest start. I think without in-depth and 
 
 country risk -- what if Cambodia or Philippines gets into trouble and property market collapses?
 
+SG country risk -- what if medishield fails to deliver?
+
 Currency risk -- suppose I'm retired in Singapore, and PHP or USD weakens
+
+--for my bare-bones ffree set-up, One of the biggest uncertainties is predictability of in/out cash-flow . 
+Every investment has uncertainties aka risks. 
+Experienced investors often categorize dozens of known risks into some 5 categories. 
+The grouping is mostly conceptual and arbitrary.
+
+As Wallace Xu said, rental prop mgmt probably needs the owner to stay local and learn the legwork.
 
 --Genn on rental income tax 
 how to report. Can NCT help?
@@ -25,12 +34,12 @@ landlord's insurance
 
 Agency agreement -- need to document the fees and responsibilities.
 
---Raymond on retirement destinations
+--fuxi: Raymond on retirement destinations
 Raymond plans to stay rented in A then B then C for a year each time, perhaps including China.
 
 Healthcare is key. If not so healthy, then better stay near home base i.e. sg.
 
---SRS account in DBS/posb
+--fuxi: SRS account in DBS/posb
 $15,300/Y max deposit into this account as tax exempt income. Tax saving of more than $2.4k/Y 
 After 5Y (say 2030) can withdraw as 2030 income but my tax bracket in 2030 would be the lowest, because first 40k in 2030 is not taxed in Singapore.
 
@@ -45,13 +54,6 @@ Also invest some cpf OA balance into FSM
 * yoga classes .. used to cost me $150/M. Now I see it as $15/session
 * healthy foods like raw veg, fruits
 * new laptops
-
---for my barebones ffree set-up, One of the biggest uncertainties is predictability of in/out cash-flow . 
-Every investment has uncertainties aka risks. 
-Experienced investors often categorize dozens of known risks into some 5 categories. 
-The grouping is mostly conceptual and arbitrary.
-
-As Wallace Xu said, rental prop mgmt probably needs the owner to stay local and learn the legwork.
 
 --this 4D3N experience living in BGC is a immersion training / dress rehearsal / internship for a MY retirement.
 
