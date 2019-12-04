@@ -1,3 +1,9 @@
+--threading is a core IV topic in java, but remain a "superstructure" topic in c++, in the form of c++11 thread and pthreads.
+
+I think java threading is simpler and accessible to regular app developers whereas c++ threading remains part of the vast array of advanced topics.
+
+I think my progress in my c++ QQ performance since 2011 was mostly in the core QQ topics. I achieved some thick->thin and critical mass.
+
 --java doesn't give you contorl over memory layout
 No struct. (c# is better)
 A string object (even as a field) is always a seperate heapy thingy
