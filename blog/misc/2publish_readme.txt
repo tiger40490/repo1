@@ -1,4 +1,7 @@
-NO NEED TO REDUCE SIZE OF GIT-BLOG FILES
+-- NO NEED TO REDUCE SIZE OF these GIT-BLOG FILES
+tech.txt
+wellness.txt
+boy.txt
 
 !! ~~~~ before posting to blog, ensure this is worthwhile ~~~~
 there's a cost to posting, adjusting , back dating, tagging ...
