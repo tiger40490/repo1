@@ -1,3 +1,18 @@
+--I still beat myself up in terms of ROTI ..
+* reading boy's exam papers ... doesn't help my career
+* localSys .. doesn't help me keep my QQ knowledge afresh, or help maintain my sense of long-term security
+* ..
+
+I should really ask myself what are more strategic -- not QQ not coding drill not localSys. Wellness is most strategic.
+
+QQ can help me on interviews, but wellness has more long-term benefits
+
+I should ask what risks are higher. Perhaps IV failure is an unlikely risk, compared to PIP, overweight, inflexibility, PSLE, ... In such a scenario, i may need to accept the fading of my c++ QQ level. In fact, c# and quant already accepted. Java is a lucky case -- critical mass, slow changing question bank ...
+
+Also some things need to be taken care of even if they require tons of low-ROTI legwork -- BGC, boy's academics...
+
+Lastly, git-blogging is a pillar. I can't afford to cut (t-spend) on my pillars.
+
 --I used to believe personal investment effort (FSM etc) is more strategic than QQ because I felt I could grow my portfolio.
 Now I know that my confidence in this effort is much lower than expected, so I dare not put in a lot.
 
