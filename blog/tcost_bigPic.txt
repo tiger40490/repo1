@@ -25,13 +25,13 @@ I should ask what risks are higher. Perhaps IV failure is an unlikely risk, comp
 
 Also some things need to be taken care of even if they require tons of low-ROTI legwork -- BGC, boy's academics...
 
-
---important not urgent
-BGC rental set-up on the legal aspect
-
+--fuxi: important not urgent
 study boy's exam results. I don't aim to improve his score, but rather take on a joint project and build teamwork.
-
 xx cooking
+flexibility, bone density
+coding drill -- I feel i won't forget the past problems.
+c++ critical mass maintenance
+
 --fuxi (jolt): In terms of roti, yoga has less transient, more lasting benefits than most "endeavors" including most tech xx .. churn and fashion.
 
 In contrast, software tech is like hairstyle -- what's dominant for the current decade is fashionable but not always techically superior.
@@ -63,8 +63,3 @@ Out-ranked by
 * yoga
 
 How about mini sessions like yoga, skip-rope, chin-up?
-
---fuxi: important but not urgent:
-flexibility, bone density
-coding drill -- I feel i won't forget the past problems.
-c++ critical mass maintenance
