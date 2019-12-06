@@ -10,7 +10,7 @@ Currency risk -- suppose I'm retired in Singapore, and PHP or USD weakens
 
 inflation risk -- Singapore is hopefully well-managed
 
-credit ris -- CPF-based medical insurance 
+credit risk -- CPF-based medical insurance 
 
 for my bare-bones ffree set-up, One of the biggest uncertainties is predictability of in/out cash-flow . 
 Every investment has uncertainties aka risks. 
