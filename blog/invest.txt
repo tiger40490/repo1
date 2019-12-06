@@ -12,20 +12,12 @@ inflation risk -- Singapore is hopefully well-managed
 
 credit ris -- CPF-based medical insurance 
 
---for my bare-bones ffree set-up, One of the biggest uncertainties is predictability of in/out cash-flow . 
+for my bare-bones ffree set-up, One of the biggest uncertainties is predictability of in/out cash-flow . 
 Every investment has uncertainties aka risks. 
 Experienced investors often categorize dozens of known risks into some 5 categories. 
 The grouping is mostly conceptual and arbitrary.
 
 As Wallace Xu said, rental prop mgmt probably needs the owner to stay local and learn the legwork.
-
---fuxi: I used to believe personal investment effort (FSM etc) is more strategic than QQ because I felt I could grow my portfolio.
-Now I know that my confidence in this effort is much lower than expected, so I dare not put in a lot.
-
-Also, after trying multiple investment products I realized that luck is a much bigger factor than skill or analysis. 
-
---Ashish on retirement destination
-Singapore is the best city for retirement, esp. for older Singapore citizens.
 
 --new: ##eg@costly-unsatisfying
 alcoholic drinks tend to be fancy
@@ -36,6 +28,31 @@ laptops with fast processors or huge memory
 cinemas with leather seats 
 dwellings with a sea view
 limo with a drink table by the seat
+
+--Ashish's INR CD 
+convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
+cost: bank FX spread
+risk: FX ~ 2% a year
+tcost is very low. Just transfer $1k to Ashish
+
+--consider investing CPF-OA balance into U.S. 
+Should be able to beat 2.5%
+no guilt no hurry
+
+* If recreational amount, then too much tcost.
+* If 20k, then I need to convince myself to take the plunge. I would say that long term prospect is good.
+
+--sugg: transfer some 5k from OA to SA just to live through it.
+Ask CPF to compute the additional interest earned each year
+Can do this during lunch break
+
+--fuxi: I used to believe personal investment effort (FSM etc) is more strategic than QQ because I felt I could grow my portfolio.
+Now I know that my confidence in this effort is much lower than expected, so I dare not put in a lot.
+
+Also, after trying multiple investment products I realized that luck is a much bigger factor than skill or analysis. 
+
+--Ashish on retirement destination
+Singapore is the best city for retirement, esp. for older Singapore citizens.
 
 --fuxi: Raymond on retirement destinations
 Raymond plans to stay rented in A then B then C for a year each time, perhaps including China.
@@ -72,19 +89,6 @@ This author had a lot to say about "where to spend the time after retirement mea
 --plan how to let grandpa pay for the maid cost
 wait for them to arrive first.
 
---consider investing CPF-OA balance into U.S. 
-Should be able to beat 2.5%
-no guilt no hurry
-
-* If recreational amount, then too much tcost.
-* If 20k, then I need to convince myself to take the plunge. I would say that long term prospect is good.
-
---consider USD 5k into FX robot after earning Citi.NA bonus
-
---sugg: transfer some 5k from OA to SA just to live through it.
-Ask CPF to compute the additional interest earned each year
-Can do this during lunch break
-
 --fuxi: I used to feel a pressure, an obligation to periodically review and adjust my portfolio. 
 
 Now I feel robinhood and fsm portfolios are small so luckily I don't get hit by their interference with my life. 
@@ -112,16 +116,8 @@ Robinhood doesn't provide it. Might be a good thing -- less distraction ...
 
 Since there's no reliable estimates on these bit-ticket costs, they tend to feel their "worries/burdens" are real.
 
---(LG-oth)what to do with boy's 5k balance? a single FSM fund or keep as a reserve, while investing more fund from 108? transfer boy's SGD 5000.00 to wife's FSM? 
-
 --fuxi: bgc is high maintenance; FX robot might be better. Both are affecting my laser-gun.
 
 --fuxi:
 Any high-return products not audited could be a vehicle for money laundering
 The criminals are willing to pay a fee (say 22%) to wash their black money into white money. The 22% becomes profit for the investment firm so the firm can generate high return for retail investors like me.
-
---Ashish's INR CD 
-convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
-cost: bank FX spread
-risk: FX ~ 2% a year
-tcost is very low. Just transfer $1k to Ashish
