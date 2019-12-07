@@ -1,18 +1,21 @@
---fuxi: increase/reduce time allocation
-^ email to sis as digestion, analysis,,,
-nutrition: more research less blogging
-^ orgro tech xx, in the long run
-boy's math: more research, more coaching less telling
-^ workout, esp. exercise corner + home + office mini-exercise
-^ proj and localSys xx
-? QQ + coding drill
-^ boy's arithmetic drill - preparation
-? boy's arithmetic drill - face time ... too high
-^ shopping with boy as a reward
-v stadium - rewarding but tcost
-? blogging to manage everything
+--fuxi: increase/reduce time allocation #very few increases
+= blogging to manage everything
 v call to parents -- need grandpa's support
 v discussion with friends -- email more efficient
+email to sis as digestion, analysis,,,
+
+v nutrition: more research; maintain blogging to digest the findings
+^ mini-exercise in exercise corner + home + office 
+v stadium, swimming - rewarding but tcost
+
+^ proj and localSys xx? Capture i.e. increase if in the mood
+QQ + coding drill? Capture
+
+boy's math: more research, more coaching less telling
+^ boy's arithmetic drill - preparation
+v boy's arithmetic drill - face time ... too high
+v boy's science
+= shopping with boy as a reward
 
 --fuxi: important not urgent
 study boy's exam results. I don't aim to improve his score, but rather take on a joint project and build teamwork.

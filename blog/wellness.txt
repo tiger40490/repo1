@@ -1,4 +1,4 @@
---new
+--new: score each delicious
 For each highly attractive food (creamy cakes, flavored nuts,,,) I will record up to 3 scores
 * published calorie density vs my own estimate thereof, on my own digestive system, in my own body
 * the food's value as a taste-enhancer to help me take in more raw veg.
