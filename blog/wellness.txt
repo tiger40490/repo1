@@ -1,10 +1,14 @@
 --new
-For each highly attractive food (creamy cakes, flavored nuts..) I should record up to 3 scores
+For each highly attractive food (creamy cakes, flavored nuts,,,) I will record up to 3 scores
 * published calorie density vs my own estimate thereof, on my own digestive system, in my own body
-* the food's value to help me eat more raw veg
+* the food's value as a taste-enhancer to help me take in more raw veg.
 
-nuts are the prime example of its type -- high published density but lower density in my estimate, and high value as a companion for raw veg
+nuts are the prime example of its type -- high published density but lower density in my estimate, and high value as a companion for raw veg. For higher enhancer score, I should take only garlic flavored nuts without coating.
 
+left-over starch in a delicious starchy food is an important case. For example, Red-bean bun or pizza,,,. 
+I often use these foods to help me take in more raw veg. 
+After I eat up the most tasty part, there's the left-over, usually starchy. I always feel a semi-conscious urge to finish the left-over but .. but the satisfaction+reward vs calorie "load" simply don't make sense!
+ 
 .. minor scores:
 * harms and benefits. Few foods have known side effects -- tobacco, trans-fat, alcohol, 
 
