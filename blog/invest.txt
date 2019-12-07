@@ -3,49 +3,19 @@ We don't have the years to try out various locations so we end up retiring in th
 
 Perhaps what's familiar and comfortable is the best retirement destination.
 
---new: ##real limitations of %%ffree
-This analysis takes effort. Here's a modest start. I think without in-depth and comprehensive anslysis, my bare-bones ffree is naive and built on shaky ground.
-
-country risk -- what if Cambodia or Philippines gets into trouble and property market collapses?
-
-SG country risk -- what if medishield fails to deliver?
-
-Currency risk -- suppose I'm retired in Singapore, and PHP or USD weakens
-
-inflation risk -- Singapore is hopefully well-managed
-
-credit risk -- CPF-based medical insurance 
-
-for my bare-bones ffree set-up, One of the biggest uncertainties is predictability of in/out cash-flow . 
-Every investment has uncertainties aka risks. 
-Experienced investors often categorize dozens of known risks into some 5 categories. 
-The grouping is mostly conceptual and arbitrary.
-
-As Wallace Xu said, rental prop mgmt probably needs the owner to stay local and learn the legwork.
-
---new: ##eg@costly-unsatisfying
-alcoholic drinks tend to be fancy
-fresh foods
-famous beef as the most expensive meat on the market
-smart phone with fancy cameras
-laptops with fast processors or huge memory
-cinemas with leather seats 
-dwellings with a sea view
-limo with a drink table by the seat
-
---Ashish's INR CD 
+--fuxi: Ashish's INR CD 
 convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
 cost: bank FX spread
 risk: FX ~ 2% a year
 tcost is very low. Just transfer $1k to Ashish
 
---consider investing CPF-OA balance into U.S. 
+--sugg: consider investing CPF-OA balance into U.S. 
 Should be able to beat 2.5%
 no guilt no hurry
 
 * If recreational amount, then too much tcost.
 * If 20k, then I need to convince myself to take the plunge. I would say that long term prospect is good.
 
---sugg: transfer some 5k from OA to SA just to live through it.
+--sugg: transfer some 1k from OA to SA just to live through it.
 Ask CPF to compute the additional interest earned each year
 Can do this during lunch break

@@ -1,19 +1,5 @@
---fuxi: realities of China developers
 
-Above 35 ... considered too old for coding job. Screened out by Many hiring teams. 
-
-Those above 35 need to move into mgmt or consider something else
-
-9-9-6 culture
-
-In Shanghai, above RMB 30k/M is hard.  
-
---people like NCT are very effective without written records, no email, ..
-In such a work env I would show my weakness in the form of dependency on written record, reflective bogging... 
-
-In a working env with theoretical (math) complexities, or low-level details, I have a clear advantage.
-
---
+--fuxi: 
 what would I do in my 70's before or when I couldn't find a full time job?
 I asked a few MS colleagues...
 I think Jack Zhang said he would keep working, just like me. In 2014, A Trac consultant trainer told a class of OCBC trainees that he would teach for free...
@@ -24,54 +10,20 @@ My dad is different. He is still productive in his 80's.
 Am not one of those successful people. I am just a professional interviewee/programmer for Wall St. 
 
 software dev career is somewhat different, but I feel it still resembles some traditional domains like ...?
---when I read the bio paragraph of a fellow technie, I often feel inferior. I think many of these individuals show a leadership track record, but they lack portable tech skill. Their leadership skill is not so portable.
 
-They might have higher salary, but (hold your breath) .. but i don't need higher income. 
+--fuxi: realities of China developers
+Above 35 ... considered too old for coding job. Screened out by Many hiring teams. 
 
---latency measurement gotchas ... is zbs but not GTD or QQ
+Those above 35 need to move into mgmt or consider something else
 
---jvm perf tuning is mainstream (and socially meaningful) if we focus on
-* saturation
-* throughput
-* typical user-experience respose time
+9-9-6 culture
 
-In contrast, one super-narrow niche area is micro-latency as in HFT
+In Shanghai, above RMB 30k/M is hard.  
 
---update blog on 3 strikes
-Hukun was also let go
-budget cut was severe in the stirt tech team
-I did a hell lot of good work in Dec 2014
+--fuxi: people like NCT are very effective without written records, no email, ..
+In such a work env I would show my weakness in the form of dependency on written record, reflective bogging... 
 
---new
-Q: why does QQ study feel more serious, more like work than wellness research, when the latter is more strategic more important to my wellbeing?
-software programming is my profession. By growing as a coder, I become more in-demand in the economy. Then I increase earning capacity to support various family needs.
-
---"Those" peers are not smarter, more successful than me
-Many are still consultants. Actually consultant career have its advantages and charms.
-
-Many are stuck at VP level and facing job insecurity.
-
-Most of them lack the mgmt skill to move into senior leadership. Those who do, tend to be in China or HK. 
-If you are not the right personality, then the leadership career path is more painful, less in-control, more 被动, less confident, more prone to failure. 
-
-Cherry Mo?
-
---new but no hurry: analyzing my perception of reality
-othRisk
-Using words and numbers, am trying to "capture" my perceptions (intuitions, observations and hopefully a bit of insights) of the c++/java job market trends, past and future. There's some reality out there but each person including the expert observer has only a limited view of that reality, based on limited data.
-
-Those numbers look impressive, but actually similar to the words -- they are mostly personal perceptions dressed up as objective measurements.
-
-If you don't use words or numbers then you can't capture any observation of the "reality". Your impression of that reality (without words you can't even refer to that reality) remains hopelessly vague. I now believe vague is the lowest level of comprehension, usually as bad as a biased comprehension. Using words + numbers we have a chance to improve our perception.
-
-my perceptions shape my decisions, and my decisions affect my family's life chances.
-
-my perceptions shape my selective listening. Gradually, actively, my selective listening would modify my "membrane"! All great thinkers, writers update their membrane.
-
-Am not analyzing reality. Instead, 
-Am basically analyzing my perception of the reality, but that's the best I could do. I'm good at analyzing myself as an object.
-
-Refusing to plan because of high uncertainty is lazy, is pessimistic, is doomed.
+In a working env with theoretical (math) complexities, or low-level details, I have a clear advantage.
 
 --no blog: 
 Within a month, You can often (not always) predict a worker's long-term attitude?
@@ -84,15 +36,3 @@ Q: why I feel more dedicated (and motivated) on this job compared to earlier job
 * colleagues are less dedicated, but same at OC
 * a small but growing sense of urgency
 * I feel I could exceed mgr expectation with 90% effort
-
---fuxi: 
-After listening to FPGA, off-heap memory latency ...
-I feel the arms race of latency is limited to high-speed trading only.
-
-latency technology has limited economic value compared to mobile, cloud, cryptocurrency, or even data science and machine learning.
-
---update blogpost: every time I try the SG job market, recruiters would tell me there are so many "new" employers or new markets, but invariably, i need to focus on the old guards .. mostly ibanks, as the new market is not open to me.
-
-This is similar to Deepak, Shanyou trying the wall St c++ job market.
-
-(I used to update the blog directly, searching for multiple suitable blogposts... time consuming)

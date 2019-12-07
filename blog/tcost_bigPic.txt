@@ -14,17 +14,6 @@ v stadium - rewarding but tcost
 v call to parents -- need grandpa's support
 v discussion with friends -- email more efficient
 
---I still beat myself up in terms of ROTI ..
-* reading boy's exam papers ... doesn't seem to help my career
-* localSys .. doesn't seem to help me keep my QQ knowledge afresh, or help maintain my sense of long-term security
-* ..
-
-I need to ask myself what are more strategic -- not QQ not coding drill not localSys. Wellness is most strategic including the diet training. QQ can help me on interviews, but wellness has more long-term benefits
-
-I should ask what risks are higher. Perhaps IV failure is an unlikely risk, compared to PIP, overweight, inflexibility, PSLE, ... In such a scenario, i may need to accept the fading of my c++ QQ level. In fact, c# and quant already accepted. Java is a lucky case -- critical mass, slow changing question bank ...
-
-Also some things need to be taken care of even if they require tons of low-ROTI legwork -- BGC, boy's academics...
-
 --fuxi: important not urgent
 study boy's exam results. I don't aim to improve his score, but rather take on a joint project and build teamwork.
 xx cooking
@@ -45,7 +34,7 @@ less time on food preparation, thanks to maid + wife
 less time on commute
 more hours in office
 
---fuxi: One of the biggest challenge during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
+--fuxi: One of the biggest challenges during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
 * (safe default) more time in office to capture the absorbency, extend the honeymoon
 * weight management? demands time and energy
 * more frq exercise
@@ -54,12 +43,3 @@ more hours in office
 ? QQ+zbs on cloud
 ? per investment, esp. on Robinhood?
 ? quant refresh?
-
---why no CIV? +ve Feedback loop is now broken
-Out-ranked by
-* parenting including boy's math. Detached supervision is hard. 
-* family time? what is it?
-* ramp up -- driven by respect, self-respect, honeymoon
-* yoga
-
-How about mini sessions like yoga, skip-rope, chin-up?
