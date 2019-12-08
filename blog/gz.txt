@@ -1,8 +1,12 @@
+--update blog on 知新而后温故
+In some situations, the most effective learning is 1% new and 99% refresh
+
+--fuxi: Some people study a new topic like socket or FIX or mkt data but can't answer interview questions.
+This is very common and should not be a source of shame.
 
 --fuxi: 
 what would I do in my 70's before or when I couldn't find a full time job?
-I asked a few MS colleagues...
-I think Jack Zhang said he would keep working, just like me. In 2014, A Trac consultant trainer told a class of OCBC trainees that he would teach for free...
+In 2014, A Trac consultant trainer told a class of OCBC trainees that he would teach for free...
 
 Some successful people reach the peak of their career in their 30's or 40's. After that, they become advisors or decision makers for a committee. They make use of the relationships, judgements...
 My dad is different. He is still productive in his 80's.
