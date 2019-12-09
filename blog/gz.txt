@@ -1,6 +1,3 @@
---update blog on 知新而后温故
-In some situations, the most effective learning is 1% new and 99% refresh
-
 --fuxi: Some people study a new topic like socket or FIX or mkt data but can't answer interview questions.
 This is very common and should not be a source of shame.
 
