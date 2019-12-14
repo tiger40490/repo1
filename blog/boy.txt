@@ -1,3 +1,5 @@
+--given the drug risk, i should consider delaying my son's emmigration
+
 --exam scores don't mean much to my son
 At some age, he would realize the importance of these scores.
 
