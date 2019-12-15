@@ -1,3 +1,11 @@
+--ask Susan about rental occupancy.
+Also ask about psf price
+
+--find out IRAS policy on overseas rental income
+
+--new: concentration risk in Cambodia
+in defense of a 4th Cambodia shop, a typical single  property investment in China, U.S. or Singapore is about SGD1000k, but 4 shops combine to about SGD500k
+
 --new: burnRate^rentalSpread for XR]SG
 I can explain to XR that his ex-housing burn rate in SG would be $6k and his rental spread across U.S./SG would be USD 2.5k but he would lack confidence in these far-fetched estimates.
 
