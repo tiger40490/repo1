@@ -3,8 +3,17 @@ Also ask about psf price
 
 --find out IRAS policy on overseas rental income
 
---new: concentration risk in Cambodia
-in defense of a 4th Cambodia shop, a typical single  property investment in China, U.S. or Singapore is about SGD1000k, but 4 shops combine to about SGD500k
+--new: research, not quality@edu determines college prestige 
+quality of eduction -- UChicago uses all master grads as tutors while NUS strictly employes only PhD holders as tutorial teachers.
+
+MSFM: Two of the most important lecturers were PhD candidates
+--update blogpost on prestige #Kyle
+geographical location of the college is probably more important than prestige. Some 2nd-tier colleges in NYC get many campus recruitments from Wall St
+
+--update blogpost on designerLabel
+The Chinese middle-class parents don't have 5M net worth that enable them to afford a 250k "designer label" college education when the quality thereof is only marginally higher than a 2nd tier college
+
+However, the stereotypical Chinese white-collar middleclass parent often chooses to spend like the super-rich.
 
 --new: burnRate^rentalSpread for XR]SG
 I can explain to XR that his ex-housing burn rate in SG would be $6k and his rental spread across U.S./SG would be USD 2.5k but he would lack confidence in these far-fetched estimates.
