@@ -1,3 +1,6 @@
+--new: shops thrive in congested cities.
+shop units are still precious in many congested cities.
+online retail requires delivery through traffic.
 
 --new: quality@edu!=measured by college(research)prestige
 My first hand experience on quality of eduction -- 
