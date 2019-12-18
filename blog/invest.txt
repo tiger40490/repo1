@@ -1,4 +1,7 @@
 --psf
+peak usd 127.946 after discount
+flatiron: usd 144.760k after discount
+
 PeakRetail is around SGD 1k psf
 Flatiron is SGD 766 psf
 
