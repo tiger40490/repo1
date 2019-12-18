@@ -7,7 +7,7 @@ Flatiron is SGD 766 psf
 
 --10Y GRR 82% over 10 years. #before taxes, 5% 6% ... 14%
 10Y GRR is quarterly bank deposit
-current office space rental yield is 7-8%
+current office space rental yield is 7-8%, lower than shops
 
 --MIH 
 Ascott is the manager for the hotel portion only
@@ -16,21 +16,29 @@ Grade-A offices are managed by MIH
 Skylar 5Y GRR paid since 2018
 Ascott partnership since 2017
 
+Flatiron, AsiaProperties and Energy12 are high yield bonds that could default like Majestic Village.
+
+--
+I think even an AA bond has a non-zero risk of default.
+
+A junk bond has a higher rick, but still below 5% probability. 
+
+My PeakRetail has a higher credit rating. BridgeRetail is slightly lower. Flatiron’s credit rating is mostly due to Ascott.
+
+My Ritz junk bond did default.
+
+Energy12 has a low credit rating.
 --fuxi: 
 4% title fees for both PeakRetail and Flatiron
 
---wife still feels we need higher earning because we still feel the strain of parenting due to limited financial resources.
+--fuxi: wife still feels we need higher earning because we still feel the strain of parenting due to limited financial resources.
 
-In the U.S. I would feel the strain of long commute.
+In the U.S. I could feel the strain of long commute.
 
-Family will probably find our home small and old.
-
-I could invest in renovation (comfort) rather than size (appreciation). 
+Family will probably find our home small and old. I would invest in renovation (comfort) rather than size (appreciation). We are lucky to be used to a small home.
 
 --fuxi
 I allow myself to feel superior about my burn rate and Fuller wealth, but I Don’t want to fall into the trap of benchmarking with the high earners.
-
---fuxi: the BGC agency search is a valuable hard-lesson experience. I foresee I would have similar situations and requirements going forward.
 
 --fuxi: Ashish's INR CD 
 convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
@@ -39,7 +47,7 @@ risk: FX ~ 2% a year
 tcost is very low. Just transfer $1k to Ashish
 
 --sugg: consider investing CPF-OA balance into U.S. 
-Should be able to beat 2.5%
+Should be able to beat 3.5%
 no guilt no hurry
 
 * If recreational amount, then too much tcost.
