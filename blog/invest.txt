@@ -18,16 +18,24 @@ Ascott partnership since 2017
 
 Flatiron, AsiaProperties and Energy12 are high yield bonds that could default like Majestic Village.
 
---
+--new: default risks affecting passive incomes
 I think even an AA bond has a non-zero risk of default.
 
-A junk bond has a higher rick, but still below 5% probability. 
+A junk bond has a higher risk, but still below 5% probability. 
 
 My PeakRetail has a higher credit rating. BridgeRetail is slightly lower. Flatiron’s credit rating is mostly due to Ascott.
 
 My Ritz junk bond did default.
 
 Energy12 has a low credit rating.
+
+..protections:
+protection: health and in-demand skills
+Protection: diversify the passive incomes
+Protection: CPF Life
+protection: HDB rental
+protection: BGC rental
+
 --fuxi: 
 4% title fees for both PeakRetail and Flatiron
 
