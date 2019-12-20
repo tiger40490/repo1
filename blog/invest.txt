@@ -18,6 +18,11 @@ Ascott partnership since 2017
 
 Flatiron, AsiaProperties and Energy12 are high yield bonds that could default like Majestic Village.
 
+--new: inflation: GRR^windfall
+GRR hates inflation, but inflation might help appreciation.
+
+Worst scenario -- inflation hits GRR, but somehow doesn't lead to property appreciation. How likely? 
+
 --new: default risks affecting passive incomes
 I think even an AA bond has a non-zero risk of default.
 
