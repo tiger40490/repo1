@@ -18,8 +18,8 @@ Ascott partnership since 2017
 
 Flatiron, AsiaProperties and Energy12 are high yield bonds that could default like Majestic Village.
 
---new: inflation: GRR^windfall
-GRR hates inflation, but inflation might help appreciation.
+--new: inflation eroading GRR^windfall
+GRR hates inflation, but property appreciation is often boosted by inflation.
 
 Worst scenario -- inflation hits GRR, but somehow doesn't lead to property appreciation. How likely? 
 
@@ -28,7 +28,7 @@ I think even an AA bond has a non-zero risk of default.
 
 A junk bond has a higher risk, but still below 5% probability. 
 
-My PeakRetail has a higher credit rating. BridgeRetail is slightly lower. Flatiron’s credit rating is mostly due to Ascott.
+My PeakRetail probably has a higher credit rating. BridgeRetail is slightly lower. Flatiron’s credit rating is mostly due to Ascott.
 
 My Ritz junk bond did default.
 
@@ -40,6 +40,10 @@ Protection: diversify the passive incomes
 Protection: CPF Life
 protection: HDB rental
 protection: BGC rental
+
+--GRR should not be perceived as guaranteed like cpf-Life
+In my ffree projection, it's dangerously naive to treat GRR as guaranteed like cpf-Life.
+We need to factor in the credit risk and market risk.
 
 --fuxi: 
 4% title fees for both PeakRetail and Flatiron
