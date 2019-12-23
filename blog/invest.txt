@@ -18,7 +18,7 @@ Ascott partnership since 2017
 
 Flatiron, AsiaProperties and Energy12 are high yield bonds that could default like Majestic Village.
 
---new: 
+--new or update blogpsot
 My peers have low passive income because
 * they aim at windfall not current income
 * they only buy properties on loan, eroding rental yield
@@ -32,10 +32,14 @@ jolt
 My U.S. peers earn a lot higher (after tax), but Melvein3 would reduce their disposable income to be inferior to mine.
 
 --new: reliability ranking of passive incomes
+GRR should not be perceived as guaranteed like cpf-Life
+In my ffree projection, it's dangerously naive to treat GRR as guaranteed like cpf-Life.
+We need to factor in the credit risk and market risk.
+
 As mentioned in other bloposts, seeking 100% reliability is futile, disappointing, ,,
 CPF Life
 HDB rental -- I know the market, the location, currency
-divdidend stocks
+dividend stocks
 PeakRetail -- CapitalLand, currency, asset-country risk
 BridgeRetail --  
 MIH -- grade-A office has lower rental yield than shops; less mature location
@@ -64,9 +68,6 @@ Protection: CPF Life
 protection: HDB rental
 protection: BGC rental
 
---GRR should not be perceived as guaranteed like cpf-Life
-In my ffree projection, it's dangerously naive to treat GRR as guaranteed like cpf-Life.
-We need to factor in the credit risk and market risk.
 
 --fuxi: 
 4% title fees for both PeakRetail and Flatiron
