@@ -1,28 +1,11 @@
 --new: counting sort^suffix array
 Counting sort is so simple that most books don't go in depth, but counting sort is a favorite in CIV !
 
-Similarly, we have the sliding window.
+Similarly, we have the sliding window, two-pointer..
 
-Suffix array is very powerful and relatively simple, but not popular in CIV
+Suffix array is very powerful and relatively simple, but not popular in CIV. Trie is popular, in contrast.
 
 This reveals something about the CIV culture.
-
---email to XR
-After talking to you about my MS friend Jack, I realized there's a misconception in many people's mind.
-
-Suppose a competent develoepr Mr X stays in one firm for 7+ years and needs to find a new job. Many people think this Mr X would experience some difficulties due to lack of practice, but eventually find a job at a comparable pay, perhaps within 12 months.
-
-People point out their acquantances. It looks like more than half of the "sample" are like Mr X. That's a misconception in my view.
-
-I feel Mr X is lucky because
-* Perhaps he is in mid-range JavaEE, where the interviews are the least selective.
-* Perhaps he is strong on theoretical topics (Unlike Jack). Most interview questions are highly theoretical.
-* Perhaps timing was good for him as job market condition was fluid.
-* Perhaps Mr X is not too old.
-
-In general, the default scenario is rather pessimistic. In the default scenario, the interview questions are very different from on-the-job tech challenges so Mr X would struggle for years to re-learn all the interview topics. It takes many candidates 10 to 30 interviews to get a hang of it.
-
-I believe in reality, many VP level developers struggle for years to find a comparable job, and many give up trying. These unsuccessful "data points" are probably removed from the sample as the guys don't talk about their failures as much as they talk about the eventual successful outcomes.
 
 --new: Some people study a new topic like socket or FIX or mkt data but can't answer interview questions.
 This is very common and should not be a source of shame.
