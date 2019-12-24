@@ -14,6 +14,22 @@ https://www.schumachercargo.com/retire-philippines-100000/
 
 http://www.interaksyon.com/breaking-news/2018/05/28/127494/wealth-shaming-philippine-economy/
 
+--new: credit risk affecting passive incomes
+I think even an AA bond has a non-zero risk of default.
+
+A junk bond has a higher risk than regular bonds, but still below 5% probability. My Ritz junk bond did default.
+
+My PeakRetail presumably has a higher credit rating. BridgeRetail is perhaps slightly lower. Flatiron’s credit "perception" is mostly due to Ascott.
+
+Energy12 presumably has a low credit rating.
+
+..protections:
+protection: health and in-demand tech skills
+Protection: diversify the passive income streams
+Protection: CPF Life
+protection: HDB rental
+protection: BGC rental -- no credit risk
+
 --new: inflation eroding GRR^windfall
 GRR abhors inflation, but property appreciation is often boosted by inflation.
 
