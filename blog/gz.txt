@@ -1,3 +1,9 @@
+--new: top professional skills having mktDepth+$value
+eg: medical
+eg: financial dnlg?
+eg: quant?
+best eg: coding skills. At any skill level there's demand
+
 --new: counting sort^suffix array
 Counting sort is so simple that most books don't go in depth, but counting sort is a favorite in CIV !
 
