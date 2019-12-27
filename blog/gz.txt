@@ -4,6 +4,9 @@ eg: financial dnlg?
 eg: quant?
 best eg: coding skills. At any skill level there's demand
 
+--update blogpost
+dev-till-70 -- how many peers?
+
 --new: counting sort^suffix array
 Counting sort is so simple that most books don't go in depth, but counting sort is a favorite in CIV !
 
