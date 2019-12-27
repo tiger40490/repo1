@@ -1,8 +1,8 @@
 --new: top professional skills having mktDepth+$value
 eg: medical
-eg: financial dnlg?
+eg: financial product knowledge?
 eg: quant?
-best eg: coding skills. At any skill level there's demand
+best eg: coding skills. At any income level and skill level there's healthy demand
 
 --new: counting sort^suffix array
 Counting sort is so simple that most books don't go in depth, but counting sort is a favorite in CIV !
@@ -13,7 +13,7 @@ Suffix array is very powerful and relatively simple, but not popular in CIV. Tri
 
 This reveals something about the CIV culture.
 
---new: Some people study a new topic like socket or FIX or mkt data but can't answer interview questions.
+--fuxi: Some people study a new topic like socket or FIX or mkt data but can't answer interview questions.
 This is very common and should not be a source of shame.
 
 --fuxi: 
