@@ -1,3 +1,11 @@
+--new: 
+maxProfit solutions are not simple or easy. These solutions often are reusable and require a lot of digestion and internalization
+
+* watermark
+* Kadane
+* scan from both ends
+* DP #Qihao
+
 --new:
 https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a-method shows the pitfalls of returning Option from a method.
 
