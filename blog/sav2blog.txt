@@ -3,7 +3,7 @@ nicknames for my devices, for git commit msg and other purposes
 "hp"
 "299"
 
---new: ##3ways2make mouse pointer easier to see
+--new: ##3ways2make mouse pointer easier to see on a low-visibility screen
 inverted scheme
 
 pointer size is best controlled in 'pointer size' in settings. Same page also let's you chose inverted scheme
