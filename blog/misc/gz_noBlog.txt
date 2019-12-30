@@ -1,3 +1,51 @@
+--fuxi: top professional skills having mktDepth+$value
+eg: medical
+eg: financial product knowledge?
+eg: quant?
+best eg: coding skills. At any income level and skill level there's healthy demand
+
+--fuxi: Some people study a new topic like socket or FIX or mkt data but can't answer interview questions.
+This is very common and should not be a source of shame.
+
+--fuxi: 
+what would I do in my 70's before or when I couldn't find a full time job?
+In 2014, A Trac consultant trainer told a class of OCBC trainees that he would teach for free...
+
+Some successful people reach the peak of their career in their 30's or 40's. After that, they become advisors or decision makers for a committee. They make use of the relationships, judgements...
+My dad is different. He is still productive in his 80's.
+
+Am not one of those successful people. I am just a professional interviewee/programmer for Wall St. 
+
+software dev career is somewhat different, but I feel it still resembles some traditional domains like ...?
+
+--fuxi: realities of China developers
+Above 35 ... considered too old for coding job. Screened out by Many hiring teams. 
+
+Those above 35 need to move into mgmt or consider something else
+
+9-9-6 culture
+
+In Shanghai, above RMB 30k/M is hard.  
+
+MS fresh grades RMB 300k/Y, then slow increment towards 500k
+
+--fuxi: people like NCT are very effective without written records, no email, ..
+In such a work env I would show my weakness in the form of dependency on written record, reflective bogging... 
+
+In a working env with theoretical (math) complexities, or low-level details, I have a clear advantage.
+
+--no blog: 
+Within a month, You can often (not always) predict a worker's long-term attitude?
+On this job I feel I would continue for a few months to show commitment (to deadlines), dedication (not so much distraction), sense of urgency ..
+
+How about mvea job? I think I became distracted and spent too many work hours on non-work like nutrition, housing, QQ, 
+ 
+Q: why I feel more dedicated (and motivated) on this job compared to earlier jobs?
+
+* colleagues are less dedicated, but same at OC
+* a small but growing sense of urgency
+* I feel I could exceed mgr expectation with 90% effort
+
 --fuxi: my 1st aid blogposts tend to cluster around 2 central themes -- PIP and peerComp
 
 very different intensities
