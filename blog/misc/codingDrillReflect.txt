@@ -1,3 +1,12 @@
+--new: counting sort^suffix array
+Counting sort is so simple that most books don't go in depth, but counting sort is a favorite in CIV !
+
+Similarly, we have the sliding window, two-pointer..
+
+Suffix array is very powerful and relatively simple, but not popular in CIV. Trie is popular, in contrast.
+
+This reveals something about the CIV culture.
+
 --Morse experience
 Given a tough problem, I can either solve it myself over a few days or read the std solution. 
 
