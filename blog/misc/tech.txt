@@ -1,12 +1,3 @@
-
---new: 
-maxProfit solutions are not simple or easy. These solutions often are reusable and require a lot of digestion and internalization
-
-* watermark
-* Kadane
-* scan from both ends
-* DP #Qihao
-
 --new:
 https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a-method shows the pitfalls of returning Option from a method.
 
@@ -131,7 +122,7 @@ I think Ashish's test shows it
 
 However, such a field creates an opportunity for mv-ctor. The referent object is usually on heap on in static memory
 
---new: Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
+--fuxi: Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
 (I used msvs only for automated build since windows command line build is based on msvs.)
 
 in my java jobs, i often need to spend lots of time learning the ide features.
@@ -162,8 +153,7 @@ I feel low latency generally avoid mid-day DAM. If DAM required, then pre-alloca
 
 --GS-HK interviewer said with an array-based order book he could achieve 1 million updates per second.
 
-This is in response to my claim that Rebus is 700K MPS.
-
+This is in response to my claim that Rebus is 700K MPS, which is not far behind. No shame -- 
 Martin Thompson basically said if the performance is good enough for the requirement, then no need to go further.
 
 --new: bcomp advantage over git-diff

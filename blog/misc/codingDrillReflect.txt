@@ -1,3 +1,11 @@
+--new: 
+maxProfit solutions are not simple not easy to understand. These solutions often are reusable and require a lot of digestion and internalization
+
+* watermark
+* Kadane
+* scan from both ends
+* DP #Qihao
+
 --new: counting sort^suffix array
 Counting sort is so simple that most books don't go in depth, but counting sort is a favorite in CIV !
 
