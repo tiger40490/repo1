@@ -1,3 +1,9 @@
+--new: effective text highlighting in git-blog etc
+* most versatile is __connected_underline__
+* color, bold, font size, strike-through
+* underline -- available in web blog only, but confusing (hyperlink)
+* italics -- hardly noticeable on its own. Need to combine with other highlighting
+
 --new:
 nicknames for my devices, for git commit msg and other purposes
 "hp"

@@ -16,9 +16,6 @@ flatiron: usd 144.760k after discount
 PeakRetail is around SGD 1k psf
 Flatiron is SGD 766 psf
 
---update blogpost
-In SG, family meals present the wrong-time and wrong-quantity temptations. Living alone in Singapore, I face only the wrong-food temptation and I have better control.
-
 --new: score each delicious
 For each highly attractive food (creamy cakes, flavored nuts,,,) I will record up to 3 scores. (No more than 4 different scores as I would tend to forget.)
 * published calorie density vs my own estimate thereof, on my own digestive system, in my own body
