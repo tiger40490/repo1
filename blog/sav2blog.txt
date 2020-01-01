@@ -1,10 +1,11 @@
 --new: amidst the demands, focus on protecting
 * protect my precious job -- the numerous precious features
 * protect family harmony -- boy's PSLE is one of the biggest threats
-* protect my wellness -- diet, exercise,,,, demands time + absorbency
+* protect my current wellness condition -- diet, exercise,,,, demands time + absorbency
 
 For these protections, I'm willing to spend more money (not tcost) like tutors, family outings
 
+? protect my carefree cash-flow -- the BGC situation is not yet carefree
 ? protect my interview readiness? I think I will NOT lose it so soon.
 
 --new: effective text highlighting in git-blog etc
@@ -17,22 +18,3 @@ For these protections, I'm willing to spend more money (not tcost) like tutors, 
 nicknames for my devices, for git commit msg and other purposes
 "hp"
 "a299"
-
---new: ##3ways2make mouse pointer easier to see on a low-visibility screen
-inverted scheme
-
-pointer size is best controlled in 'pointer size' in settings. Same page also let's you chose inverted scheme
-
-pointer trail
-
---new: how many peers have my..
-tags: abovePeers
-
-How many percent of my peers have my
-* my wellness, including diet/yoga/sleep habits
-* my family harmony, with my beautiful wife, kids and grandparents
-* my SG advantages in medi-shield, nanny state, low-cost healthcare,,,
-* my robust career propsect, including my dev-till-70 plan
-* my ffree
-
-With each question, the remaining percentage drops.
