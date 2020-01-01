@@ -7,7 +7,7 @@
 --new:
 nicknames for my devices, for git commit msg and other purposes
 "hp"
-"299"
+"a299"
 
 --new: ##3ways2make mouse pointer easier to see on a low-visibility screen
 inverted scheme
