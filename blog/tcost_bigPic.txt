@@ -1,15 +1,17 @@
---after grandparents come over, family distraction is now full-blown assault
+--after grandparents come over, family distraction is now a full-blown assault
+I feel frusrated and disappointed many times a day.
+
 * hardware breakdowns
 * questions on everything in the house
-* emotional discussions on boy's PLSE. Real stress real strain
+* emotional discussions on boy's PSLE. Real stress real strain. Real risk of affecting my localSys learning
 * health conditions
 * frequent conflicts with grandma
 
---coping with the distractions when entire family is here
+..coping with the distractions when entire family is here
 luckily office is nearby and work hours are flexible
 more time in office on ... localSys or QQ or blogging
 
---fuxi: increase/reduce time allocation #very few increases
+--fuxi: increase/reduce time allocation
 = blogging to manage everything
 ^ mini-exercise in exercise corner + home + office 
 v stadium, swimming - rewarding but tcost
@@ -23,8 +25,6 @@ v boy's arithmetic drill - face time ... too high
 v boy's science
 
 --fuxi: important not urgent
-study boy's exam results. I don't aim to improve his score, but rather take on a joint project and build teamwork.
-xx cooking
 flexibility, bone density
 coding drill -- I feel i won't forget the past problems.
 c++ critical mass maintenance
@@ -44,10 +44,8 @@ more hours in office
 
 --fuxi: One of the biggest challenges during this hibernation -- very few proven, effective usages of precious personal time including plenty of leaves
 * (safe default) more time in office to capture the absorbency, extend the honeymoon
-* weight management? demands time and energy
+* weight management? demands time and absorbency, and frustrating
 * more frq exercise
 * c++ critical mass maintenance, but without IV :(
-? boy's academics? potentially frustrating
-? QQ+zbs on cloud
+? boy's academics? frustrating,,, losing my cool
 ? per investment, esp. on Robinhood?
-? quant refresh?
