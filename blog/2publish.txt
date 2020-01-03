@@ -18,7 +18,8 @@ Flatiron is SGD 766 psf
 
 --new: What does a school district mean to me?
 It means level of durg prevalance.
-I don't care that that much about benchmark score
+I don't care that much about benchmark score
 
-SG average school is possibl a 7/10 (possibly 10) school district in terms of benchmark and discipline. 
+SG average school is possibl a 7/10 (possibly 10) school district in terms of benchmark and discipline. Similarly, California schools often has higher academic standard than NJ school districts.
+
 Why do I spend so much on U.S. top school districts (housing, private schools etc) when Singapore is cheaper and better?
