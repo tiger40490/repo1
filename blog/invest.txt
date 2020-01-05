@@ -1,7 +1,7 @@
 --update blogpost on kids,,,deprivation
-the spending habit of my wife and kids implies a burn rate that is 50% higher than the 3k level in bare-bones ffree.
+The spending habits of my wife and kids imply a burn rate that is 50% higher than the $3k/M estimate in my bare-bones ffree.
 
-I have reason to believe that once they grow up, that burn rate will drop.
+I have reason to believe that once kids grow up, that burn rate will drop.
 
 --update blog on 3ffree :
 if living with grandma in my 60's, then my burn rate would be higher by ... 1k? but grandma would join us with her savings.
@@ -27,6 +27,10 @@ done: $1k from 198 to OCBC
 done: simultaneously recording 30k for gp
 
 --update blog: other derailers of my ffree
+All of these adversities demand financial resources and can drain my reserve.
 major investment loss like a property devaluation. 
-medical condition
 divorce
+wife's health
+kids' health
+kids' injury
+
