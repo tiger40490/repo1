@@ -3,7 +3,7 @@ https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a
 
 I feel this is like borrowing from a loan shark to pay off credit card balance. 
 
-If you are careful, it can help you avoid the NPE of the traditional practice, but if you are undisciplined (like most of us), then this new stragey is even worse. 
+If you are careful, it can help you avoid the NPE of the traditional practice, but if you are undisciplined (like most of us), then this new stragey is even worse -- 
 
 Traditional return type is something like String, but caller has to deal with nulls. New strategy is supposed to remove the risk/doubt of a null return value, but alas, caller still needs to check null first, before checking against empty
 
