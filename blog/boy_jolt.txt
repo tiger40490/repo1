@@ -1,8 +1,8 @@
---new: ## still commiting old mistakes: fixation on benchmarks
+--new jolt: ## still commiting old mistakes: fixation on benchmarks
 I still benchmark boy with "China students" and the academic kids, ignoring his self-benchmark
 I still commit the CSY mistake of comparing college branding, ignoring..
 I still focus too much on pattern recognition, ignoring...
-I still focus too much on efficiency in his homework, ignoring...
+I still focus too much on efficiency in his homework, ignoring ... Actually most kids at this age are inefficient.
 I still compare him to myself in math, ignoring his superior standard in science etc
 I still compare him to myself in absorbency, ignoring his talent in inter-personal etc
 I still base my reward/discipline on peer comparison
@@ -79,18 +79,11 @@ In hind sight, I had no better use of my spare time. I couldn't save my spare ti
 
 Without these experiments, could we discover .
 
---jolt: my care-less attitude and t-spend on meimei is possibly good, according to grandpa.
-
---jolt:
-when you feel you are angry with boy about his attitude and effort, cool down for a few seconds and ask yourself "Be honest, are you zen about the peer comparison rat race?"
-
-Grandpa is more zen.
-
 --fuxi: jolt: for many of my peers, their parents set high bars and don't praise them.
 
 For my son, i need to set my bar very low and praise him for every small improvement.
 
---new blogpost: jolt: not 90% of the Chinese parents tell me to be strict
+--fuxi: jolt: not 90% of the Chinese parents tell me to be strict
 
 I feel perhaps 40-60% of the Chinese parents practice that. 
 (I feel for their kids Strict probably works better than in my case.)
@@ -99,14 +92,11 @@ I feel perhaps 40-60% of the Chinese parents practice that.
 
 Not easy
 
---jolt: what if I'm still in NY?
-
+--fuxi: jolt: what if I'm still in NY?
 Q: Is it a crisis in terms of his math, diet, ..? 
 
 Q: Am I coaching him to become much better? 
 A: I think I have some influence but not dramatic. Without me he would still grow as a normal kid
-
-
 
 --jolt
 As a student, I found certain subjects completely boring and useless -- politics, Chinese, biology
@@ -140,8 +130,7 @@ I think many Singapore students are very very weak in basic math skills.
 
 I criticized Shanyou for his "shame" about his son, but what about my feeling of inferiority about my son's math benchmark performance?
 
---jolt:
-Without the bmark crisis, 
+--jolt: if without the bmark crisis
 I wouldn't see his arithmetic weakness created by years of neglect
 I wouldn't say he is so lazy. Perhaps he is more motivated than many kids of another country.
 I wouldn't see his poor clarity of thinking and pattern recognition
