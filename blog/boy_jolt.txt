@@ -84,7 +84,7 @@ Why is XR (or anyone in his shoes) so fixated on the expert diagnosis? Subconsci
 
 In reality, a grade-A academic child can become mediocre in college or professionally, while a grade-D child can turn out rather decent.
 
---jolt: my huge t-spend with boy in q3sg was not so stupid.
+--new jolt: my huge t-spend with boy in q3sg was not so stupid.
 was an experiment comparable to my msfm, my c++, my c#, my overseas investment...
 
 Experiment are risky in terms of disappointments. 
@@ -94,25 +94,14 @@ In hind sight, I had no better use of my spare time. I couldn't save my spare ti
 
 Without these experiments, could we discover .
 
---new blogpost: jolt: the time spent blogging about boy is
-therapeutic.
-
-Also, the time spent preparing his math worksheet is therapeutic.
-
-I'm good at these even though these take up huge amount of energy and precious quiet time.
-Luckily I don't feel worn out by these efforts.
-
-I feel at my age, parenting IS a main job, comparable to my day job. 
-Actually, Career progression is NOT my main responsibility at this stage of my life.
-
---new blogpost: jolt: my care-less attitude and t-spend on meimei is possibly good, according to grandpa.
+--jolt: my care-less attitude and t-spend on meimei is possibly good, according to grandpa.
 
 --jolt:
 when you feel you are angry with boy about his attitude and effort, cool down for a few seconds and ask yourself "Be honest, are you zen about the peer comparison rat race?"
 
 Grandpa is more zen.
 
---new blogpost: jolt: for many of my peers, their parents set high bars and don't praise them.
+--fuxi: jolt: for many of my peers, their parents set high bars and don't praise them.
 
 For my son, i need to set my bar very low and praise him for every small improvement.
 
@@ -121,7 +110,7 @@ For my son, i need to set my bar very low and praise him for every small improve
 I feel perhaps 40-60% of the Chinese parents practice that. 
 (I feel for their kids Strict probably works better than in my case.)
 
---new blogpost: jolt: every time I say something negative about my son, I should precede and follow it with something positive. 
+--fuxi: jolt: every time I say something negative about my son, I should precede and follow it with something positive. 
 
 Not easy
 
@@ -132,13 +121,6 @@ Q: Is it a crisis in terms of his math, diet, ..?
 Q: Am I coaching him to become much better? 
 A: I think I have some influence but not dramatic. Without me he would still grow as a normal kid
 
---new blogpost: jolt:
-the word problems in Singapore math classes have a negative effect, if not an overall negative aspect in the Singapore education system.
-It has a negative effect on my wife and me.
-If we are in the U.S. the math training may be too simple but no such unnecessary anxiety.
-I try to be rational about these word problems but I find myself trapped. 
-
-Since c++US days, I have told myself to avoid this part of the exam. 
 
 
 --jolt
@@ -148,11 +130,6 @@ Most of my classmates felt the same about history,
 
 So we were not motivated to memorize or practice.
 
---jolt: apparently, only one student in his class is comfortable with the word problems.
-
-Sounds like everyone else is afraid and anxious about word problems.
-
-This says a lot about the quality and effectiveness of this education
 
 --jolt
 I decided in NY to come home and reduce boy's math workload -- saturation, eroding confidence/interest..
