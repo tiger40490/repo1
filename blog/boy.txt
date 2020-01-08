@@ -2,7 +2,8 @@
 catchy phrases
 sharp questions
 
---new: escalation #short-term frustration 
+--new: escalation of %%short-term frustration 
+tag: introspective
 My frustration escalates when working with dabao's word problems.
 In contrast, his English, science and non-word math problems are not alarming, intolerable to me. 
 I think my yardstick is myself and other China students, whose standard is higher in math than other subjects. 
@@ -29,7 +30,6 @@ Accept that because of heavy homework, he would have limited sleep. I would have
 
 --fuxi: I do have some (not infinite) spare time thanks to MLP job
 for boy's math practice, baby-sitting facetime is likely to help him, until I lose my cool
-
 
 --fuxi: exam scores don't mean much to my son
 At some age, he would realize the importance of these scores.
@@ -79,7 +79,6 @@ For my son, since he is not motivated enough, there's basically nothing much I c
 
 carrot and stick short term tgt-control
 
-
 --fuxi: unexpected successes ROTI with boy #peter drucker:
 NTUC trips
 math sheet on his own
@@ -106,17 +105,6 @@ It's easy to feel love for a younger kid. Younger kids are visibly vulnerable an
 
 It's harder to maintain the unconditional love and patience for an older kid.
 
---fuxi:  
-most of my huge effort to help boy was on the same area -- 上进， 不甘落后，克服困难，持之以恒重复练习， 不怕枯燥。
-
-在这方面， 最有效的帮助是课外活动， 比如钢琴， 不必拿啥名次或证书， 就说他坚持到今天，没有终止，就是不可思议的进步，因为大宝的天性是非常的而不是一般的贪玩，
-
-再比如游泳跑步，他都接受了。没有放弃。
-
-这几项都是家长决定之后，提议坚持。 决定得对。 
-
-除了这个方面， 我也曾帮大宝培养华文兴趣， 减肥， 没啥效果。 
-
 --new blogpost: growing gap behind those academic kids
 category: benchmark
 I think Lianzhong, Jingheng and many China families that tuition teachers describe are in a different category. 
@@ -128,34 +116,17 @@ According to standardized benchmarks, the gap is rather large like ... even the 
 At college level, you still need repetitive practices but less important.
 The regular kids may catch up.
 
---email to wife/grandparents:
-我下半年回新工作后， 会逐渐减少大宝的繁重作业， 因为对孩子学习帮助不大。 
+--fuxi:   no subject
+most of my huge effort to help boy was on the same area -- 上进， 不甘落后，克服困难，持之以恒重复练习， 不怕枯燥。
 
-比如数学难题， 做很多还是掌握不了。 也许他的同学能掌握， 那可能是他们能承受反复练习， 大宝没他们的耐力， 或许不应归罪为孩子的错。 
+在这方面， 最有效的帮助是课外活动， 比如钢琴， 不必拿啥名次或证书， 就说他坚持到今天，没有终止，就是不可思议的进步，因为大宝的天性是非常的而不是一般的贪玩，
 
-我决心做有智慧和胆识的家长。 数学这科我学的最久， 有自己的体会，观点。 我的决策，基于我的亲身体会和我对大宝的观察， 应该比老师更有根据。 老师的优势， 在于对同年龄学生的了解
+再比如游泳跑步，他都接受了。没有放弃。
 
---new blog: PSLE is serious
-事实上, 美国轻松的学校很多都不是好学校. 美国中学生也要竞争, 也有考试, 也有难题, 也需要坚持和努力, 不学无术的学生大都没有好出路, 只能被淘汰到社会底层.
+这几项都是家长决定之后，提议坚持。 决定得对。 
 
-我曾计划大宝来美, 家住北昂小镇, 能进所谓天才班, 但如果他现在不努力, 恐怕到时候进不去.
+除了这个方面， 我也曾帮大宝培养华文兴趣， 减肥， 没啥效果。 
 
-考虑正式参加 PSLE, 一家人共同经历这个磨难。 爷爷说也许是件好事， 好像军训. 学习生涯不都是轻松自在的. 压力,磨难有时免不了. 竞争, 是注定免不了的.
-
-在美国, 要上好大学得从 15 岁开始竞争. 也是有压力的.
---fuxi: 
-学习是任务, 不喜欢也得接受. 
-作业是繁重, 但别的同学能做完, 我们也能.
-
-我们总说大宝不努力。 我没有给他足够的夸奖， 爸爸做的不够。
-
-可以考虑给他一些压力。 这个年岁可以承受一些压力 （包括数学作业）。 但避免厌学。 
-
-我还是提倡温和地坚持。 学习和作业的目标就定为考分。 每天学习最少30分钟， 要他自己认同而不是家长强加的。
-
-完不成学习任务的后果最好是自然的，要不就是他自选的， 而不是家长制造出的后果。 怎么把"后果"和奖励结合呢？
-
-不甘下游
 
 --fuxi: lucky my boy is not too skinny or short
 --fuxi: 5 lang of love for boy
@@ -164,6 +135,7 @@ quality time -- keeping company. He doesn't like to be left alone, except with a
 
 Q: why does love matter in this academic benchmark race?
 A: because support, family bonding ,,, outweights the crazy benchmark
+
 --fuxi: I'm STILL trying to make dabao another tanbin
 This tendency is very stubborn and subtle.
 
