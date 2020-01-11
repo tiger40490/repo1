@@ -1,3 +1,5 @@
+--need to record somewhere to fix the c++ code for operator>>
+
 --new: fellow parents spending massive time with kids
 the media suggests that many parents (mostly mothers) of pre-teens spend half their weekends taking kids to places hoping to expose them to in-situ learning. 
 
