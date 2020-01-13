@@ -1,10 +1,12 @@
 --NCT vs Aleris
-.. in favor or NCT
-trust
 [s] next few days of short term rental
 [s] past HOA dues -- Anyway I will split the savings with NCT
-[s] sunk cost sharing on the initial set-up
 [s=small amount] 
+
+.. in favor or NCT
+trust
+I will need to rely on NCT once a while
+[s] sunk cost sharing on the initial set-up
 
 .. in favor of Aleris
 I don't know the agent behind NCT. I know Aleris to some extent.
@@ -12,7 +14,6 @@ She takes note of my preferences and tries to meet my criteria regardless of oth
 has staff
 more professional
 much better documentation
-one layer fewer. I deal directly with the local agent. no key-person risk
 more long-term, sustainable set-up
 no worry about "what if NCT stops working there"
 
