@@ -19,6 +19,14 @@ Luckily I don't feel worn out by these efforts.
 I feel at my age, parenting IS a main job, comparable to my day job. 
 Actually, Career progression is NOT my main responsibility at this stage of my life.
 
+--new: better blog post titles:
+catchy phrases
+sharp questions
+
+It requires time and mental energy to create and improve blog titles. 
+Effective titles help organize my thoughts on a complex and challenging subject such as parenting or diet. 
+Such a subject may grow to 200 blogposts, so without effective organization lots of content become effectively lost.
+
 --new: effective text highlighting in git-blog etc
 * most versatile is __connected_underline__
 * color, bold, font size, strike-through

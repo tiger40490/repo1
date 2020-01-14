@@ -8,14 +8,3 @@ Now I can name the 3rd recurring pain -- boy's current (rather than longer-horiz
 
 --bindi's suggestion:
 look in the mirror and tell yourself "You are good enough".
-
---new: better blog post titles:
-catchy phrases
-sharp questions
-
-It requires time and mental energy to create and improve blog titles. These good titles help organize my thoughts on a complex and challenging subject such as parenting or diet. Such a subject may hit 200 blogposts, so without effective organization lots of content become effectively lost.
-
---new:
-nicknames for my devices, for git commit msg and other purposes
-"hp"
-"a299"
