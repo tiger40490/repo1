@@ -3,16 +3,10 @@
 * protect family harmony -- boy's PSLE is one of the biggest threats
 * protect my current wellness condition -- diet, exercise,,,, demands time + absorbency
 
-For these protections, I'm willing to spend more money (not tcost) like tutors, family outings
+For these protections, I'm willing to spend more money (not tcost) like tutors, nearby family outings (tcost)
 
 ? protect my carefree cash-flow -- the BGC situation is not yet carefree
 ? protect my interview readiness? I think I will NOT lose it so soon.
-
---new: effective text highlighting in git-blog etc
-* most versatile is __connected_underline__
-* color, bold, font size, strike-through
-* underline -- available in web blog only, but confusing (hyperlink)
-* italics -- hardly noticeable on its own. Need to combine with other highlighting
 
 --new jolt: time spent blogg`about boy=therapeutic
 Time spend blogging about boy is therapeutic. 
@@ -25,3 +19,8 @@ Luckily I don't feel worn out by these efforts.
 I feel at my age, parenting IS a main job, comparable to my day job. 
 Actually, Career progression is NOT my main responsibility at this stage of my life.
 
+--new: effective text highlighting in git-blog etc
+* most versatile is __connected_underline__
+* color, bold, font size, strike-through
+* underline -- confusing (hyperlink)
+* italics -- hardly noticeable on its own. Need to combine with other highlighting
