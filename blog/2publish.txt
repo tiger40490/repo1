@@ -1,3 +1,18 @@
+--new: amidst the demands, focus on protecting
+* protect my precious job -- the numerous precious features
+* protect family harmony -- boy's PSLE is one of the biggest threats
+* protect my current wellness condition -- diet, exercise,,,, demands time + absorbency
+
+For these protections, I'm willing to spend more money (not tcost) like tutors, family outings
+
+? protect my carefree cash-flow -- the BGC situation is not yet carefree
+? protect my interview readiness? I think I will NOT lose it so soon.
+
+--new: effective text highlighting in git-blog etc
+* most versatile is __connected_underline__
+* color, bold, font size, strike-through
+* underline -- available in web blog only, but confusing (hyperlink)
+* italics -- hardly noticeable on its own. Need to combine with other highlighting
 
 --new jolt: time spent blogg`about boy=therapeutic
 Time spend blogging about boy is therapeutic. 

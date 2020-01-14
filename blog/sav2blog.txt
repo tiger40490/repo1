@@ -15,22 +15,6 @@ sharp questions
 
 It requires time and mental energy to create and improve blog titles. These good titles help organize my thoughts on a complex and challenging subject such as parenting or diet. Such a subject may hit 200 blogposts, so without effective organization lots of content become effectively lost.
 
---new: amidst the demands, focus on protecting
-* protect my precious job -- the numerous precious features
-* protect family harmony -- boy's PSLE is one of the biggest threats
-* protect my current wellness condition -- diet, exercise,,,, demands time + absorbency
-
-For these protections, I'm willing to spend more money (not tcost) like tutors, family outings
-
-? protect my carefree cash-flow -- the BGC situation is not yet carefree
-? protect my interview readiness? I think I will NOT lose it so soon.
-
---new: effective text highlighting in git-blog etc
-* most versatile is __connected_underline__
-* color, bold, font size, strike-through
-* underline -- available in web blog only, but confusing (hyperlink)
-* italics -- hardly noticeable on its own. Need to combine with other highlighting
-
 --new:
 nicknames for my devices, for git commit msg and other purposes
 "hp"
