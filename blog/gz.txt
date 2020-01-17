@@ -1,3 +1,28 @@
+==I pointed out that zbs is vague, compared to QQ and GTD.
+Many zbs learning experiences (me or DQH) were arguably irrelevant if never quizzed.
+
+--iv questions on malloc, tmalloc and the facebook malloc
+In latency benchmarks, c++ should simply 1) avoid DMA or 2) pre-allocate. Therefore, if the iv question touches on benchmark, then the malloc question become moot.
+
+--iv questions on lockfree in c++
+messier and more low-level than lockfree in jvm. I would say lockfree is seldom written by a c++ app developer. Therefore not a GTD topic at all. Purely QQ halo topic.
+
+--iv question on volatile
+Again, many interviewers use volative as concurrency feature in c++ but it's non-standard !  Even if it has a side effect if using gcc, the practice is "not something I would recommend", though I won't criticize hiring team's current practice.
+
+--iv question on throwing dtor
+c++ standard says UDB but still some interviewers ask about it. So this topic is not zbs not GTD but really QQ
+
+--iv question on debugger breakpoint
+Not GTD, not even zbs
+
+--iv question (GS-HK) on CAS no slower than uncontended lock acquisition
+I feel I don't need to know how much faster. My knowledge is good enough for GTD
+
+--iv question on how many clock cycles per instruction
+no GTD but zbs for a latency enthusiast
+
+==
 --update blogpost on not left behind ... https://1330152open.wordpress.com/wp-admin/post.php?post=17035&action=edit
 
 I have achieved a lot (cf my peers) in wellness, ffree, branded degree, career longevity,,, but still, to earn the worldly, materialistic OtherPeople'sEnvy (OPE), I need to move up (or start up). 

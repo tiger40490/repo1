@@ -1,5 +1,23 @@
---new:
-https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a-method shows the pitfalls of returning Option from a method.
+--new: unspecified^undefined behavior
+Some interview questions really really go into UDB, so it is very very useful to understand UnSpecifiedBehavior (USB): 
+
+Compilant compilers are not required to document the behavior but the behavior should be valid such as crash.
+
+UDB gives compilers more freedom. The actual result could be anything.
+
+--new: competitors to x86 instruction sets
+Interviewers often focus on x86 instruction sets, but I could point out competing instruction sets.
+
+IBM's PowerPC, Oracle's Sparc, were popular in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
+
+AMD64 (i.e. x86-64) was created at AMD, as an extension on x86
+
+IA-64 was created at HP then Intel, widely deployed in data centers.
+
+If interivew is not 100% focused on server-side, then I would point out ARM is dominant in handheld.
+
+--update blogpost on Optional.java
+https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a-method shows the pitfalls of returning Optional from a method.
 
 I feel this is like borrowing from a loan shark to pay off credit card balance. 
 
