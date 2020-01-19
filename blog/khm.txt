@@ -4,6 +4,10 @@
 :( rental yield lower, despite what they say
 :( higher risk of buying overpriced
 
+--credit risk .. A single number is unable to capture the whole picture 
+In termsof the reputation at stake, Oxley is better
+In terms of GRR trec，MIH is slightly better
+
 --concentration risk at the bkk1 location
 This location may not take off as an office location
 
