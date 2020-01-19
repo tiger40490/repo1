@@ -18,11 +18,11 @@ saturation? Oversupply?
 --which office location has the lowest risk excluding existing CBD?
 bkk1
 
---location is key, but it should be considered along with psf price level, which needs to include GRR.
+--location is key, but needs a "key-tag" i.e. psf, which needs to include GRR.
 
-SG is great location but I don't consider it because of psf price level.
+On one extreme, SG is great location but I rule it out because of psf price level.
 
-Land-banking locations are cheap but hopeless.
+On the other extreme, Land-banking locations are cheap but hopeless.
 
 Diamond island office locatinon is less mature than bkk1 but could be popular with Chinese companies
 
