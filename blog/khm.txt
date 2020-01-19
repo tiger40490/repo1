@@ -1,8 +1,20 @@
 --residential pros and cons
-:) faster to sell because more investors are comfortable with the asset class
+:) faster to sell because more investors are familiar with the asset class
+:) faster appreciation due to hot money, _but_ unstable
 :( not so precious
 :( rental yield lower, despite what they say
 :( higher risk of buying overpriced
+
+--new: precious
+shops are precious only in primte retail locations. Consider shops in industrial parks.
+
+Office units are precious only in prime commercial locations.
+
+Residential can be precious in elite locations such as school districts.
+
+--ff rental
+BridgeFF: 5% after tax
+Diamond twin tower: 150k deal is "first 3 year rent-free to seller at 8% of 197k"
 
 --credit risk .. A single number is unable to capture the whole picture 
 In terms of the reputation at stake, Oxley is better
