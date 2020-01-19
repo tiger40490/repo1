@@ -18,12 +18,20 @@ saturation? Oversupply?
 --which office location has the lowest risk excluding existing CBD?
 bkk1
 
+--location is key, but it should be considered along with psf price level, which needs to include GRR.
+
+SG is great location but I don't consider it because of psf price level.
+
+Land-banking locations are cheap but hopeless.
+
+Diamond island office locatinon is less mature than bkk1 but could be popular with Chinese companies
+
 --maturity level
 CBD is the mature commercial center. PPCC is next to CBD.
 
 bkk1 district is rather mature as a shopping/retail district, esp. anchored by Aeon and Nagaworld. My 3 shop units are in the right location.
 
-Diamond island has some commercial offices but i feel the location has limited potential as a 2nd CBD
+Diamond island has some maturity as commercial location but i feel the location has limited potential as a 2nd CBD
 
 PPCC is most raw, most uncertain, but with the highest potential as a commercial office location. 
 However, my psf price may be too high already.
