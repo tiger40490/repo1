@@ -1,24 +1,12 @@
---residential pros and cons
-:) faster to sell because more investors are familiar with the asset class
-:) faster appreciation due to hot money, _but_ less stable
-:( More of a commodity, not as precious as prime location shop units.
-:( rental yield lower, despite what marketers say
-:( higher risk of buying overpriced
-
---new: precious
-shops are precious only in primte retail locations. Consider shops in industrial parks.
-
-Office units are precious only in prime commercial locations.
-
-Residential can be precious in elite locations such as school districts.
-
 --ff rental
 BridgeFF: 5% after tax
 Diamond twin tower: 150k deal is "first 3 year rent-free to seller at 8% of 197k". After 3Y, rental yield could be lower.
 
 --credit risk .. A single number is unable to capture the whole picture
 In terms of the reputation at stake, Oxley is better
-In terms of GRR trec， MIH is slightly better
+In terms of GRR trec， MIH is slightly better.
+
+Grade-A being so rare, the reputation at stake is rather high.
 
 I have trusted Megaworld, Oxley and Ritz.
 
@@ -29,20 +17,36 @@ Orchard does have office demands.
 --concentration risk in PP retail sector esp. in the bkk1 district
 saturation? Oversupply?
 
---which office location has the lowest risk excluding existing CBD?
+--which office location outside current CBD has the lowest risk?
 bkk1
 
---capital land is not EDB or GIC. The quality of management is not all the same across these firms.
+Note BridgeFF is not grade-A and not really office. It's soho. I don't know how to categorize it, but it's somewhere between studio and small office. 
+Demand will be lower compared to a real office building
+
+--new: precious
+shops are precious only in primte retail locations. Consider shops in industrial parks.
+
+Office units are precious only in prime commercial locations.
+
+Residential can be precious in elite locations such as school districts.
+
+--capital-land is not EDB or GIC. The quality of management is not all the same across these firms.
 
 Some private firms have better management.
 
 --project: diamond twin tower
 :( location even more remote than theBridge
 :( 150k heavy
-:( in a down turn, th3 prime locations would hold much better
-
+:( in a down turn, the prime locations would hold much better
 --project: purple
 :) affordable, but not compared to my past shop units.
 :) higher rental yield than other residential locations, only according to agents. I feel vacancy risk is high. The rich don't prefer to rent a studio! The working class prefer convenient locations in the city.
 :) lower psf than other residential locations
 :( not a prime location. I don't like the sales pitch about the potential.
+--residential pros and cons
+:) faster to sell because more investors are familiar with the asset class
+:) faster appreciation due to hot money, _but_ less stable
+:( More of a commodity, not as precious as prime location shop units.
+:( rental yield lower, despite what marketers say
+:( higher risk of buying overpriced
+
