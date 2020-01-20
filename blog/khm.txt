@@ -20,6 +20,8 @@ Diamond twin tower: 150k deal is "first 3 year rent-free to seller at 8% of 197k
 In terms of the reputation at stake, Oxley is better
 In terms of GRR trec， MIH is slightly better
 
+I have trusted Megaworld, Oxley and Ritz.
+
 --concentration risk at the bkk1 location
 This location may not take off as an office location
 Orchard does have office demands.
@@ -29,19 +31,6 @@ saturation? Oversupply?
 
 --which office location has the lowest risk excluding existing CBD?
 bkk1
-
---New: location: key-tag
-location is key, but needs a "key-tag" i.e. psf, which needs to include GRR.
-
-On one extreme, SG is great location but I rule it out because of psf price level.
-
-On the other extreme, Land-banking locations are cheap but hopeless.
-
-Diamond island office locatinon is less mature than bkk1 but could be popular with Chinese companies
-
-If MIH psf (after GRR) is higher than BridgeFF, then need to reconsider. 
-
-If you consider MIH as a high-yield bond (with a 95% put option), then location doesn't matter. However, location matters at a fundamental level as it underlies credit risk and appreciation potential
 
 --location maturity level
 current CBD is the mature commercial center. PPCC is next to CBD.
@@ -53,16 +42,9 @@ Diamond island has some maturity as commercial location but i feel the location 
 PPCC is most raw, most uncertain, but with the highest potential as a commercial office location. 
 However, Flatiron psf price is too high if without GRR.
 
---project: MIH
-:( lesser known developer
-:) Ascott lending credibility on the residential portion. Unlike all other projects
+--capital land is not EDB or GIC. The quality of management is not all the same across these firms.
 
-:( high quantum
-
-:( location -- higher uncertainty
-:) location -- hedge against the bkk1 district. capture the potential for both
-:( location -- if no take-off within 10Y, then I would rely on developer to rent out my unit. They may not have my best interest.
-:( location -- may be hard to sell
+Some private firms have better management.
 
 --project: diamond twin tower
 :( location even more remote than theBridge
