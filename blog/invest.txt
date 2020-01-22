@@ -1,3 +1,12 @@
+--new: barebones burn rate during retirement
+Conceptually, assuming $0 accomodation, barebones monthly burn rate would be 50% allocated to food. I would say SGD 500 out of SGD 1k.
+
+food + public transport + public utilities would be 2/3 of that burn rate.
+
+Wildcard is healthcare. In Singapore, outpatient cost might be $50-$100/month
+
+Across developed countries, food cost is rather low relative to income. Public transport and utilities are supposed to be provided at low cost. 
+
 --update blogpost on deprivation
 wife, as a mainstream consumer, wants to feel affordability when considering some everyday "lifestyle" spend like a toy, food, home fixture...
 
