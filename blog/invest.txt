@@ -1,3 +1,12 @@
+--
+Fact: thanks to globalization, food and clothing cost is reducing world wide, so is the minimum cost of living (at least in SG)
+
+Q: but why is our monthly burn rate not reducing?
+A: I would say as a bachelor, my burn rate is probably lower than before, but as a family, we all want the same level of "pleasure" as our neighbors.
+We FEEL impoverished and deprived if we only consume at the same level as 10Y ago (which has become cheaper than 10Y ago)
+
+This question has implications on FIRE and bare-bones ffree
+
 --new: barebones burn rate during retirement
 Conceptually, assuming $0 accomodation, barebones monthly burn rate would be 50% allocated to food. I would say SGD 500 out of SGD 1k.
 
