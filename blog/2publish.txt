@@ -1,8 +1,8 @@
---new: theorical minimum burn rate during retirement
+--new: theoretical minimum burn rate during retirement
 Conceptually, assuming $0 accommodation, barebones monthly burn rate would be 50% allocated to food. I would say SGD 500 out of SGD 1k.
 
 food + public transport + public utilities would be 66.6% of that burn rate.
 
 The wildcard is healthcare. In Singapore, outpatient cost might be $50-$100/month
 
-Across developed countries, food cost is rather low relative to income. Public transport and utilities are supposed to be provided at low cost. 
+Across developed countries, food cost is rather low relative to income, and possibly falling if we aim at the "basic healthy" level. Public transport and utilities are supposed to be provided at low cost. 

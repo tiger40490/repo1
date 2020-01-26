@@ -1,20 +1,16 @@
---
-Fact: thanks to globalization, food and clothing cost is reducing world wide, so is the minimum cost of living (at least in SG)
+--update blogpost on deprivation
+Fact: thanks to globalization, food and clothing cost is reducing world wide, so is the minimum cost of living, at least in SG.
 
 Q: but why is our monthly burn rate not reducing?
-A: I would say as a bachelor, my burn rate is probably lower than before, but as a family, we all want the same level of "pleasure" as our neighbors.
-We FEEL impoverished and deprived if we only consume at the same level as 10Y ago (which has become cheaper than 10Y ago)
+A: I would say as a bachelor, my burn rate is probably lower than before, but as a family, we all want the same level of "pleasure" as our neighbors. We FEEL impoverished and deprived if we only consume at the same level as 10Y ago (which has become cheaper than 10Y ago)
 
-This question has implications on FIRE and bare-bones ffree
+This question has implications on FIRE and bare-bones ffree.
 
---update blogpost on deprivation
-wife, as a mainstream consumer, wants to feel affordability when considering some everyday "lifestyle" spend like a toy, food, home fixture...
-
+Wife, as a mainstream consumer, wants to feel "affordable" when considering certain everyday "lifestyle" spend like a toy, food, home fixture... 
 If her friends can afford something, but I tell her "not necessary", she would feel deprived.
-
 To me these "lifestyle" items are all unnecessary, but I'm no purist.... 
 
-At my abstinence level, my projected family burn rate is 3k. At wife's spending level, it is probably 3k additional, due to
+At my abstinence level, my projected family burn rate is 3k. In contrast, at wife's spending level, it is probably double, due to
 * travel and dining
 * personal items
 
@@ -22,8 +18,8 @@ She wants freedom to spend any way she wants, without asking for approval.
 
 I kind of believe I can be comfortable with, say, 5k burn rate, but for her, the 'comfortable' level is possibly 10k. The ERE author is much lower.
 
---wife's allowance
-make your wife feels that she could spend her money any way she wants. The 100k is her money just like her own salary. 
+--new: wife's allowance
+make your wife feel that she could spend her money any way she wants. The 100k is her money just like her own salary. 
 
 Trust that she won't overspend. She is not a teenager.
 
@@ -31,9 +27,11 @@ Trust that she won't overspend. She is not a teenager.
 now should go back to 1800 but she has no salary. 
 I will pay for all enrichments (perhaps $1k/m)
 
-Clawback $700 for Jan allowance.
+done : Clawback $700 for Jan allowance.
 
 Point of future adjustment -- monthly allowance
 
---involve boy in FSM investment analysis and decision
+--fuxi: involve boy in FSM investment analysis and decision
 This is more realistic, applied math
+
+However, he has to finish his homework
