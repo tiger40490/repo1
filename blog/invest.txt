@@ -1,3 +1,9 @@
+--fuxi: the product the company the salesman
+With MIH, biggest factor is the company, but all three factors are equally important.
+
+With BGC, biggest factor is the product (location)
+
+With PeakRetail, biggest factor is the other companies (Shangrila + capitalLand)
 
 --update blogpost on deprivation
 Fact: thanks to globalization, food and clothing cost is reducing world wide, so is the minimum cost of living, at least in SG.
