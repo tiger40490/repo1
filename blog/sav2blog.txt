@@ -23,13 +23,13 @@ Among these endeavors, my success is most visible and decisive in $$, and least 
 
 calorie-quota is a similar concept to carbon-quota. Each country each year is given a quota. If you over use then you need to borrow from the future quota.
 
---introspective: self-control: 寸土必争
+--new: introspective: self-control: 寸土必争
 (oth_risk. This blogpost needs a better title)
 
-Once I set a (realistic) numerical target for my endeavor, I push myself to execute my plan with ruthless precision, semi-consciously beating up myself whenever I deviate visibly.
+Once I set a (realistic) numerical target for my endeavor, I push myself to execute my plan with ruthless, clinical precision, semi-consciously beating up myself whenever I deviate visibly.
 
 This attitude/habit is effective in some domains --
-* Polyclinic dietitian .. without clinical precision, calorie reduction will be futile
+* Polyclinic dietitian .. without precision, calorie reduction will be futile
 * Some people save for months then spend all the savings at year end
 * my burn_rate_control (ffree) is the poster child success story
 * quitting from substance addiction 
@@ -39,18 +39,7 @@ However, with early rise, I feel my 寸土必争 attitude may not be necessary, 
 
 weekly coding drill, daily yoga, daily workout ... don't need 寸土必争. Momentum is more important
 
---jolt:
-my introspective self-discovery is iterative, self-correcting and endless like editing a wikipedia article. 
-I don't feel very effective because there are always too many things I don't understand about myself...
-
-However, I never feel inferior (hopeless compared to "them") as felt in yoga, coding practice, or moving-up
-
---jolt: pay to enter a marathon?
-Mr ERE would not spend that money. Presumably he would not spend on yoga classes, packaged salad or fancy fruits.
-
-Reality is, spending money on these things do improve my health. If you ask me to DIY at home, I know I would fail due to limited self-discipline or drive.
-
---vi in git-bash
+--fuxi: vi in git-bash
 fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
 
 --new
@@ -75,7 +64,5 @@ Now I can name the 3rd recurring pain -- boy's current (rather than longer-horiz
 --fuxi: bindi's suggestion:
 look in the mirror and tell yourself "You are good enough".
 
---no blog
-If no kids, then I feel I would have won the war against FOMO and pretty much all the battles I care to fight.
-
-If no wife, then I would have won more completely more comfortably.
+Q: Do you ever think it's vulnerable to acknowledge and disclose your true weakness?
+A: Sometimes I believe it's a sign of strength, but only when the weakness is something I am comfortable with, not my worst weakness
