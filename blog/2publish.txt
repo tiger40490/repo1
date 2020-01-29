@@ -1,9 +1,9 @@
 --np++ keyboard shortcut to insert date stamp 
 
---new: theoretical min burn rate during retirement
+--new: min burn rate during retirement: mostly food
 Conceptually, excluding accommodation, bare-bones monthly burn rate would be 50% allocated to food. I would guess roughly SGD 500 out of SGD 1k.
 
-food + public transport + public utilities would be 70% of that burn rate.
+food + public transport + public utilities comprise 70% of that burn rate.
 
 The wildcard is healthcare. In Singapore, outpatient cost might be $50-$100/month
 
