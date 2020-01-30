@@ -36,13 +36,6 @@ Difference between 8% and 7% is huge if you rely on it as current income.
 
 --fuxi: dbs ccard tx history: e-statatement
 
---update blog on credibility
-if the Cambodia developer were a prestigious builder operating in the U.S., offering their assets as a REIT, the GRR would be much lower, due to credibility. 
-
-Credibility translates to higher demand and lower "discount" in the form of GRR.
-
---fuxi: mrt manual top-up can let me feel the cahs flow
-
 --fuxi: wife still feels we need higher earning because we still feel the strain of parenting due to limited financial resources.
 
 In the U.S. I could feel the strain of long commute.
@@ -51,19 +44,6 @@ Family will probably find our home small and old. I would invest in renovation (
 
 --fuxi
 I allow myself to feel superior about my burn rate and Fuller wealth, but I Don’t want to fall into the trap of benchmarking with the high earners.
-
---fuxi: Ashish's INR CD 
-convert SGD->INR, invest for 1Y for 7%, convert back to SGD.
-cost: bank FX spread
-risk: FX ~ 2% a year
-tcost is very low. Just transfer $1k to Ashish
-
---sugg: consider investing CPF-OA balance into U.S. 
-Should be able to beat 3.5%
-no guilt no hurry
-
-* If recreational amount, then too much tcost.
-* If 20k, then I need to convince myself to take the plunge. I would say that long term prospect is good.
 
 --sugg: transfer some 1k from OA to SA just to live through it.
 Ask CPF to compute the additional interest earned each year
