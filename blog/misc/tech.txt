@@ -1,3 +1,11 @@
+--java (and c#) reference (varialbe) is more like pointer than c++ reference
+c++ reference can't be reseated. This is the major difference.
+
+--why can't we take the address of c++ reference? 
+A pointer is often a runtime object, with an address.
+
+A ref is strictly a variable and never a runtime object, so it has no address.
+
 --new: unspecified^undefined behavior
 Some interview questions really really go into UDB, so it is very very useful to understand UnSpecifiedBehavior (USB): 
 
