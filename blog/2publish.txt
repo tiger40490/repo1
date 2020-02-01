@@ -29,6 +29,20 @@ Can deposit cash in CashAcceptanceMachine at Infinity branch
 
 CD interest is quoted pretax ... about 0.375% pa for up to P250k. Tax rate is flat 20%
 
+--update blogpost on haircut in u.s.
+much higher haircut than SEA due to 
+* higher professional fees
+* wood : more repairs
+* taxes
+
+--new: USD1k passive income is more important to ME than..
+oth_risk
+
+This amount of nonwork income
+* is not exciting for my U.S. peers as their burn rate is like 9k. 
+* is far from enough to someone without passive income as this amount is way below burn rate
+* but is a significant addition when my passive income is already close to family burn rate.
+
 --new: min burn rate during retirement: mostly food
 Conceptually, excluding accommodation, bare-bones monthly burn rate would be 50% allocated to food. I would guess roughly SGD 500 out of SGD 1k.
 
@@ -40,6 +54,15 @@ Across developed countries, food cost is rather low relative to income, and poss
 
 --update blogpost on left-over noodle
 daily battle
+
+--new: fat: (egg+)fish^meat(+milk)
+#1 attraction of fish relative to meat -- fat content
+
+Intrinsic fat in fish is considered 1)heart-healthy 2) rather low quantity even in fatty fish like salmon.
+
+For red or white meat, the skin and other fats are heavy. Even for small bits of visible fat, I am pains-taking. Not needed with fish :)
+
+eggs have the same advantage, but fish and egg white are the best animal proteins, even better than dairy.
 
 --new jolt: home food is better quality but..
 many friends warn me that home cooking use far "healthier" food than commercial cooking.

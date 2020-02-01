@@ -1,10 +1,3 @@
---new: USD1k passive income is more important to ME
-oth_risk
-
-This amount of nonwork income
-* is not exciting for my U.S. peers as their burn rate is like 9k. 
-* is not that useful to someone without passive income as this amount is way below burn rate
-* is a significant addition when my passive income is already close to family burn rate.
 
 --sugg: consider investing CPF-OA balance into U.S. 
 Should be able to beat 3.5%
@@ -17,12 +10,6 @@ no guilt no hurry
 if the Cambodia developer were a prestigious builder operating in the U.S., offering their assets as a REIT, the GRR would be much lower, due to credibility. 
 
 Credibility translates to higher demand and lower "discount" in the form of GRR.
-
---update blogpost on haircut in u.s.
-much higher haircut due to 
-* higher professional fees
-* wood : more repairs
-* taxes
 
 --new:
 Do I rather owe IRS a few thousand or be owed a few thousand?
