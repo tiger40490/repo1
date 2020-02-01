@@ -10,22 +10,22 @@ A ref is strictly a variable and never a runtime object, so it has no address at
 --new: competitors to x86 instruction sets
 Interviewers often focus on x86 instruction sets, but I could point out competing instruction sets.
 
-IBM's PowerPC, Oracle's Sparc, were popular in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
+IBM's PowerPC and Oracle's Sparc, were once popular instruction sets in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
 
-AMD64 (i.e. x86-64) was created at AMD, as an extension on x86
+AMD64 instruction set (i.e. x86-64) was created at AMD, as an extension on x86
 
-IA-64 was created at HP then Intel, widely deployed in data centers.
+IA-64 instruction set was created at HP then Intel, widely deployed in data centers.
 
-If interivew is not 100% focused on server-side, then I would point out ARM is dominant in handheld.
+If interivew is not 100% focused on server-side, then I would point out ARM instruction set is dominant in handheld.
 
 --update blogpost on Optional.java
 https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a-method shows the pitfalls of returning Optional from a method.
 
-I feel this is like borrowing from a loan shark to pay off credit card balance. 
+I feel this is like borrowing from a loan shark to avoid accidental credit card interest charge. 
 
 If you are careful, it can help you avoid the NPE of the traditional practice, but if you are undisciplined (like most of us), then this new stragey is even worse -- 
 
-Traditional return type is something like String, but caller has to deal with nulls. New strategy is supposed to remove the risk/doubt of a null return value, but alas, caller still needs to check null first, before checking against empty
+Traditional return type is something like String, but caller has to deal with nulls. New strategy is supposed to remove the risk/doubt of a null return value, but alas, caller still needs to check null first, before checking against empty!
 
 --new:
 For c++ to hold its ground in the latency benchmarks
