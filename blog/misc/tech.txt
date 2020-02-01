@@ -7,13 +7,6 @@ A pointer is conceptually a runtime object, occupying run time memory, with an a
 
 A ref is strictly a variable and never a runtime object, so it has no address at runtime. I suspect compiler replaces it with the target variable.
 
---new: unspecified^undefined behavior
-Some interview questions really really go into UDB, so it is very very useful to understand UnSpecifiedBehavior (USB): 
-
-Compilant compilers are not required to document the behavior but the behavior should be valid such as crash.
-
-UDB gives compilers more freedom. The actual result could be anything.
-
 --new: competitors to x86 instruction sets
 Interviewers often focus on x86 instruction sets, but I could point out competing instruction sets.
 

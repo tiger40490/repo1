@@ -1,3 +1,11 @@
+
+--new: unspecified^undefined behavior
+Some interviewers really really go into UDB, so to impress them it is very very useful to understand UnSpecifiedBehavior (USB): 
+
+Compilant compilers are not required to document the behavior but the behavior should be valid such as crash.
+
+Compared to USB, UDB gives compilers more freedom. The actual result could be anything includig invalid results.
+
 --new: why rental yield varies so much across countries
 National culture is one reason (Chinese^American etc)
 
