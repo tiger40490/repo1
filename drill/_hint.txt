@@ -8,3 +8,12 @@ sum of {depth of key_i * probability of key_i}
 
 Can we put the busiest key as root? But what if it is the first/last key?
 
+More of a math problem than algo problem.
+
+what's a tail problem? Only two nodes with their hit probabilities. Put the hotter node on top (downward tree)
+
+How about three nodes (A B C)? There's a breakeven point 
+If middle node is slightly cold then it should be root.
+
+Pa+Pc   vs   2Pa+Pb # C being hottest
+Pc      vs    Pa+Pb # wins iFF C too hot
