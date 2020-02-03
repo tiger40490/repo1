@@ -29,12 +29,6 @@ Can deposit cash in CashAcceptanceMachine at Infinity branch
 
 CD interest is quoted pretax ... about 0.375% pa for up to P250k. Tax rate is flat 20%
 
---update blogpost on haircut in u.s.
-much higher haircut than SEA due to 
-* higher professional fees
-* wood : more repairs
-* taxes
-
 --new: USD1k nonwork income is more important to ME than others
 oth_risk
 
