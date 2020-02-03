@@ -1,3 +1,8 @@
+--fuxi:
+if i eat dinner when not hungry, I can get very hungry in the morning, even though dinner calorie content was very high.
+
+This confirms my observation that calorie-induced hunger is mostly about timing
+
 --update blogpost on overeat
 clean, simple tofu is safe to overeat -- low starcch, low fat, some protein, high water content
 
