@@ -20,3 +20,5 @@ b=root  vs   c as root
 -------------------------
 Pa+Pc   vs   2Pa+Pb
 Pc      vs    Pa+Pb # <- R wins iFF C too hot
+
+Should review the related question -- given the range [1,9] how many BST's can you construct
