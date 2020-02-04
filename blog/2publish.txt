@@ -7,3 +7,53 @@ jogging in stadium
 
 --new: consider SG American school
 Perhaps the academic benchmark pressure is much lower in an American or international school.
+
+--new: When setting up a new phone (laptop, and outlook are similar), i need to simplify it.
+The more I rely on a device (laptop, linux, printer/scanner, camera..) the more I need to (invest time and) analyze my priorities and preferences.
+
+
+--new (for wife): iphone explosion due to overcharge overnight
+apple hotline told me that there is builtin protection for overheating.
+
+If it's a genuine iphone without damage or tamper, then it won't explode. If it does, it's a defect. What we see on video footage could be fake. 
+
+Before a phone explodes due to overcharge, there would be signs of unusual heating.
+
+--new jolt: language new features=mostly4lib developers
+In C++0x, Half of the major new language features are designed for the standard library developers.
+The unspoken assumption -- these features are equally useful to other library developers.
+The follow-up assumption -- app developers also need to use some (and understand all) of the nitty-gritty details.
+
+In reality, these nitty-gritty details are not relevant to GTD for app developers.
+
+--new: java give us no contorl over memory layout
+No struct. (c# is better)
+A string object (even as a field) is always a seperate heapy thingy
+
+--new: a data API (for javascript consumers, python consumers, Excel consumers..) can include
+smart search
+subscription API like server push
+streaming API
+sorted collection API
+
+(this content is better done via chewing .. in gmail/outlook/git, NOT web blogging)
+
+--new: std::bitset: popular ] WallSt c++coding IV
+std::bitset is popular in WallSt c++ coding interviews. Rather easy to use if you are an experienced c++ developer.
+
+to_string() and cvctor from string like "011100101011010"
+to_ulong() and cvctor from ulong
+operator[] returns a reference, so you can assign to myBitset[0]. Designed to superfically mimic a raw array. Actually, return type is not reference to a bool. Rather, I think it's a reference to a specific posiiton in the "backing store". See http://www.cplusplus.com/reference/bitset/bitset/operator[]/
+
+Avoid the notion of "left/right" -- Lowest bit has position 0, becasue bitset is designed to represent a binary integer. To scan from highest bit, we must iterate from bitset[size()-1] to bitset[0].
+
+--new: exchange routing-out an order
+When an order is sent directly to NYSE, NYSE could decide to route it to BATS-Y which fills it. I guess the fill report should probably show 30=BATY
+
+liquidity indicator might show 3 (routed out)
+
+
+--new: price discovery and closing auction
+An exchange provides the (nearly) ideal venue for price discovery, but in reality the fragmentation of liquidity (eg: routing-out) makes price discovery non-trivial even on a large exchange like NYSE.
+
+Luckily, the closing auction remains a centralized process. Even though a stock symbol can be traded on multiple exchanges beside the primary listing exchange, auction orders are always sent to the primary listing exchange.
