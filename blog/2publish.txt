@@ -1,3 +1,8 @@
+--email to mlp
+Rule of thumb -- make changeable behavior configurable i.e. if we need a quick change in this bevior we can achieve it by configuraitno, without code change.
+
+This rule of thumb assumes that config changes are easier, quicker, more readable, more manageable than code change. 
+
 --new: unexpected successes: My ROTI with boy #peter drucker:
 NTUC trips
 math sheet on his own
