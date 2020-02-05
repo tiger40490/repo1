@@ -1,10 +1,3 @@
---email to mlp
-Rule of thumb -- make changeable behavior configurable. Benefit -- if we need a quick change we can achieve it by configuration, without code change.
-
-This rule of thumb assumes that compared to code change, config changes are easier, quicker, more readable and transparent, more manageable.
-
---call citibank ..
-
 --new: unexpected successes: My ROTI with boy #peter drucker:
 NTUC trips
 math sheet on his own
