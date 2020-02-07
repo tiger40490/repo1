@@ -1,3 +1,11 @@
+--update blogpost on not-left-behind 
+Over the decades, I have slowly moved higher among my peers.
+* wellness
+* dev-till-70 -- explanation needed: meaningful, engaging job. Low age discrimination. I am past my peak
+* long-term cashflow -- burn rate + passive income
+* SG citizenship -- carefree medical, housing,,,
+* prestigious college -- vast majority of my friends can't match me
+
 --fuxi: My mom, wife and friends used to say I don't take care of my hair, my shoes, my skin, my dress...
 But look at those guys who do. These guys typically lack self-discipline and now show a belly, sluggish, affected by tabaco, alcohol,,,
 
@@ -18,11 +26,6 @@ Salary was low -- actually a stressor since U.S. burn rate was much higher than 
 long commute from Brooklyn. Couldn't afford $2.5k rental in Jersey City.
 Camp-out was a relief
 java market depth as a parachute, cushion and safety net, was unavailable to me at that time.
-
---with the table-edge cushion, what I need is 
-buy without oth
-try out without fear
-discard without regret
 
 --git-bash dark background makes git-diff hard to read
 tip: zoom in 
