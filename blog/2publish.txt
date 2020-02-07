@@ -20,6 +20,30 @@ If it's a genuine iphone without damage or tamper, then it won't explode. If it 
 
 Before a phone explodes due to overcharge, there would be signs of unusual heating.
 
+--update blogpost on deprivation
+Fact: thanks to globalization, food and clothing cost is reducing world wide, so is the minimum cost of living, at least in SG.
+
+Q: but why is our monthly burn rate not reducing?
+A: I would say as a bachelor, my burn rate slowly reduced, but as a family, we all want the same level of luxury and creature comfort as our neighbors. 
+We would FEEL impoverished and deprived if we can only afford to consume at the same level as 10Y ago (which has now become cheaper)
+
+This question has implications on FIRE and bare-bones ffree.
+
+Wife, as a mainstream consumer, wants to feel "affordable" when considering certain everyday "lifestyle" spend like a toy, personal care, home fixture, fancy food... 
+If her friends can afford something, but I tell her "not necessary", she would feel deprived.
+To me these "lifestyle" items are all unnecessary, but I'm no purist either .... 
+
+At my abstinence level, projected family burn rate is SGD 2k. 
+In contrast, at wife's spending level, she told me 4-5k excluding housing, major medical and travel. 
+She wants freedom to spend any way she wants, without asking for approval.
+
+I kind of believe I can be truly *comfortable* at, say, 4k burn rate (excluding housing + major medical + college tuition), but for her, the 'comfortable' level is possibly 8k. The ERE author is much lower.
+
+--update blog on credibility
+if the Cambodia developer were a prestigious builder operating in the U.S. or Europe, offering their assets as a REIT, the GRR would be much lower, due to better credibility. 
+
+Credibility translates to higher demand and lower "discount" in the form of GRR.
+
 --new jolt: new c++features=mostly4lib developers
 In C++0x, Half of the major new language features are designed for the standard library developers.
 The unspoken assumption -- these features are equally useful to other library developers.
