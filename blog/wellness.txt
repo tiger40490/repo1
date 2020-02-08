@@ -1,3 +1,9 @@
+
+--update blogpost on wrong-time
+if i eat a high-calorie, heavy dinner when not really hungry, I can still get really hungry the next morning.
+
+This confirms my observation that calorie-induced ("genuine") hunger is largely driven by timing not .... The gap between the early dinner and the morning time is too long
+
 --keep warm.
 Sneezing can alarm other people and can conceal a ncov symptom
 
@@ -10,11 +16,6 @@ A: if I'm more than 95% full then only I would feel no appetite for the ice crea
 A: if I spend only half a minute at McDonald's, without prior planning.
 
 Bao3shan1 -- eating one ice cream is not /destructive/ if I don't continue eating 5 more.
-
---fuxi:
-if i eat dinner when not hungry, I can get very hungry in the morning, even though dinner calorie content was very high.
-
-This confirms my observation that calorie-induced hunger is mostly about timing
 
 --fuxi
 if you are serious about visible fat, then avoid meat coated with flour. More than half the times I find skin or fat concealed by the coating.
