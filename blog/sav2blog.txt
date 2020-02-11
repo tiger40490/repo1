@@ -8,12 +8,9 @@ $0.70 shoe glue
 $1.10 mrt card holder
 $2.10 roach trap
 
-
---body scale
+--fuxi: body scale
 :) I nearly but didn't lose temper
 :) no mean achievement to maintain below 64 kg for 5 months
-
-Let's try cheap price (less heart-ache) + below-bed + thick corner cushions 
 
 --new: battery consumption after lid-close
 for my Acer$299, battery depletion during idle time proved to be a real problem. John Tan (Simlim shop) told me to choose Sleep when lid closes.
