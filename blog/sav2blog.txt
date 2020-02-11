@@ -1,5 +1,3 @@
---research but fake crisis
-why taskview doesn't use all the screen real estate?
 
 --Mr DIY prices:
 below $4 table-edge cushion for about half a meter. Need to compare with the wide versino I bought
@@ -97,3 +95,6 @@ weekly coding drill, daily yoga, daily workout ... don't need 寸土必争. Mome
 
 --fuxi: vi in git-bash
 fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
+
+--research but fake crisis
+why taskview doesn't use all the screen real estate?
