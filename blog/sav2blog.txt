@@ -20,17 +20,6 @@ $0.70 shoe glue
 $1.10 mrt card holder
 $2.10 roach trap
 
---fuxi: body scale
-:) I nearly but didn't lose temper
-:) no mean achievement to maintain below 64 kg for 5 months
-
---new: battery consumption after lid-close
-for my Acer$299, battery depletion during idle time proved to be a real problem. John Tan (Simlim shop) told me to choose Sleep when lid closes.
-I did as told since Dec 2019. It worked reasonably well in terms of battery saving and quick wake-up. The tiny LED goes red-off-red.. after I close the lid.
-
-One drawback -- sometimes this LED goes blue-off-blue.. even with the lid closed. I have found that this basically means laptop failed to go to sleep.
-
-Cause? unknown.
 
 --update blogpost on not-left-behind 
 Over the decades, I have slowly moved higher among my peers (very loosely defined).

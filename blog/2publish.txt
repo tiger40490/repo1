@@ -18,6 +18,18 @@ If it's a genuine iphone without damage or tamper, then it won't explode. If it 
 
 Before a phone explodes due to overcharge, there would be signs of unusual heating.
 
+--fuxi: body scale
+:) I nearly but didn't lose temper
+:) no mean achievement to maintain below 64 kg for 5 months
+
+--new: battery consumption after lid-close
+for my Acer$299, battery depletion during idle time proved to be a real problem. John Tan (Simlim shop) told me to choose Sleep when lid closes.
+I did as told since Dec 2019. It worked reasonably well in terms of battery saving and quick wake-up. The tiny LED blinks red-off-red.. after I close the lid.
+
+One drawback -- sometimes this LED blinks blue-off-blue.. even with the lid closed. I have found that this basically means laptop failed to go to sleep.
+
+Cause? unknown.
+
 --update blogpost on deprivation
 Fact: thanks to globalization, food and clothing cost is reducing world wide, so is the minimum cost of living, at least in SG.
 
