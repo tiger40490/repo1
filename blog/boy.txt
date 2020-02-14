@@ -1,3 +1,6 @@
+-- Q: how does boy feel about parents' pride in having him as a son?
+Q: how does he feel when other parents talk about their kids in positive terms.
+
 -- fine for boy:
 When an item is misplaced and unfound over 3 days, the first time fine will be 10x the price.
 If something is lost 2nd time, double the fine to 20x
