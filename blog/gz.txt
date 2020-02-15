@@ -1,5 +1,5 @@
 --the hottest c++ job domain is HFT, but
-.. but they can't pay compared to web2.0
-.. but the skillset is not transferrable or upstream to java ! I think it's rather niche
+.. but they can't pay compared to web2.0 and they only pay slightly more than ibanks
+.. but the skillset is not portable or upstream to java ! I think it's rather niche
 
-I think the QQ knowledge is mostly bookish, not GTD skills at all.
+I think the c++ latency QQ knowledge is 99% bookish, not GTD skills at all.
