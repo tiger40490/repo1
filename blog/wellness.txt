@@ -1,3 +1,6 @@
+--update blogpost on celery
+celery pairs well with yogurt and even better with yam paste
+
 --fuxi: dental care
 i need more brushing, perhaps more frequent
 I , meimei and boy need more frequent dental checks
