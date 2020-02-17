@@ -19,12 +19,3 @@ If busy with projects, those Projects might be affected (worst case -- overlooke
 
 If not busy at work, then I tend to feel guilty for taking advantage of employer
 
---new: weekend family outing: aim at burn
-exercise is burn ... hard burn
-math practice and my coding drill is burn
-tech xx is also burn, but less tough.
-
-watch out my personal tcost. I could allocate it to 
-* mlp prj + related self-xx
-* coding drill
-* c++/java QQ
