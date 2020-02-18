@@ -1,3 +1,10 @@
+--update blogpost on number theory + combinatics
+These math domains would be rather obscure if coding were not this popular, important and lucrative.
+
+Since the 2000's, more and more IV focus is placed on math.
+
+This trend is bad news for the GTD types like Ashish, the domain experts and the managers like Shuo etc
+
 --new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. Not available in other languages.
 
 --new: java ref closest cousin]]c++: pointer!!ref
