@@ -1,0 +1,32 @@
+--blogging is both recreation and a copying device.
+As recreation it tends to soak up most of my spare time, competing with 
+* workout
+* localSys study
+* coding drill
+
+As coping device it is often heavily relied on. Not a substance abuse and Should not be criminalized..
+
+Sometimes these different roles are not easily discernable and the guilt feeling kicks in...
+
+my brainpower is limited and not making enough progress... but This topic needs more analysis.
+
+--new or update: vi in git-bash
+vi can improve my git-blogging efficiency
+
+fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
+
+One of the G5 show-stoppers is moving content intra or inter.
+
+-- need some "system" on what content goes into
+0.txt
+smemo
+git blog
+
+Is there a xls table?
+
+-- Some of the inefficiencies in my blogging practice
+* updating existing blogposts is far more time-consuming and inefficient than adding new
+
+* reviewing growing content of git blogging files
+* git merge conflict
+* carrying laptop around -- need to disable the wake-up password
