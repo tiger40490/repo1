@@ -8,6 +8,10 @@ Since the 2000's, more and more IV focus is shifted to math, largely in these tw
 
 This trend is bad news for the GTD types like Ashish/CSY, the domain experts and the managers like Shuo etc
 
+I think some strong students don't bother with coding skill since it is less quizzed in school.
+
+I suspect that in some colleges, math is regarded as more refined, more classic than coding skill in any language such as python or javascript.
+ 
 --update blogpost on celery
 celery pairs well with yogurt and even better with yam paste
 
