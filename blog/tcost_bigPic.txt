@@ -1,4 +1,3 @@
-
 --weekends: limiting factor is not spare time (like O2) but absorbency
 inufficient absorbency for localSys
 inufficient absorbency for jogging, stretch
