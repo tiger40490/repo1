@@ -166,3 +166,21 @@ liquidity indicator might show 3 (routed out)
 An exchange provides the (nearly) ideal venue for price discovery, but in reality the fragmentation of liquidity (eg: routing-out) makes price discovery non-trivial even on a large exchange like NYSE.
 
 Luckily, the closing auction remains a centralized process. Even though a stock symbol can be traded on multiple exchanges beside the primary listing exchange, auction orders are always sent to the primary listing exchange.
+
+--new: introspective: self-control: ctbz 寸土必争
+(oth_risk. This blogpost needs a better title)
+Aha! 寸土必争 is a daily struggle, tough for everyone. It's actually my competitive strength!
+
+Once I set a (realistic) numerical target for my endeavor, I push myself to execute my plan with ruthless, clinical precision, semi-consciously beating up myself whenever I deviate visibly.
+
+This attitude/habit is effective in some domains --
+* Polyclinic dietitian .. without precision, calorie reduction will be futile
+* Some people save for months then spend all the savings at year end
+* my burn_rate_control (ffree) is the front page success story
+* reducing my dependency on starch
+* focus on time utilization is a great example. Many people spend time (and $) in "fun" places that actually don't create a lot of pleasure.
+
+However, with early rise, I feel my 寸土必争 attitude may not be necessary, possibly counterproductive.
+
+Weekly coding drill, daily yoga, daily workout ... don't need 寸土必争. Momentum is more important.
+

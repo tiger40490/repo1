@@ -167,25 +167,3 @@ Among these endeavors, my success is most visible and decisive in $$, and least 
 
 calorie-quota is a similar concept to carbon-quota. Each country each year is given a quota. If you over use then you need to borrow from the future quota.
 
---new: introspective: self-control: ctbz 寸土必争
-(oth_risk. This blogpost needs a better title)
-Aha! 寸土必争 is a daily struggle, tough for everyone. It's actually my competitive strength!
-
-Once I set a (realistic) numerical target for my endeavor, I push myself to execute my plan with ruthless, clinical precision, semi-consciously beating up myself whenever I deviate visibly.
-
-This attitude/habit is effective in some domains --
-* Polyclinic dietitian .. without precision, calorie reduction will be futile
-* Some people save for months then spend all the savings at year end
-* my burn_rate_control (ffree) is the poster child success story
-* quitting from substance addiction 
-* focus on time utilization is a great example. Many people spend time (and $) in "fun" places that actually don't create a lot of pleasure.
-
-However, with early rise, I feel my 寸土必争 attitude may not be necessary, possibly counterproductive.
-
-weekly coding drill, daily yoga, daily workout ... don't need 寸土必争. Momentum is more important
-
---fuxi: vi in git-bash
-fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
-
---research but fake crisis
-why taskview doesn't use all the screen real estate?

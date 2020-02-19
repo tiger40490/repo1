@@ -1,3 +1,5 @@
+--fuxi: vi in git-bash
+fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
 
 --fuxi: grandpa said I need to slow down in speaking
 
