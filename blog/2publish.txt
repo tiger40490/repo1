@@ -1,6 +1,13 @@
 
 --need to wash my backpack more often due to contact with floors + covid19 virus
 
+--update blogpost on number theory + combinatorics
+These math subdomains would remain obscure if programming as (a profession) were not this mainstream, wide spread, lucrative and economically important.
+
+Since the 2000's, more and more IV focus is shifted to math, largely in these two subdomains.
+
+This trend is bad news for the GTD types like Ashish/CSY, the domain experts and the managers like Shuo etc
+
 --update blogpost on celery
 celery pairs well with yogurt and even better with yam paste
 
