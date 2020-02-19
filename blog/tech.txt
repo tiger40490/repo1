@@ -1,5 +1,12 @@
---new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. Not available in other languages.
+--hashtable removal is constant-time amortized or average?
 
+Many algos have aggregate O(N) time but one unlucky item could exhibit very bad complexity. Is it amortized?
+
+--new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. 
+
+Not available in other languages.
+
+Q: is deletion really constant time?
 --new: java ref closest cousin]]c++: pointer!!ref
 java (and c#) reference varialbes are more like pointer variables than c++ reference variables
 c++ reference variables can't be reseated. This is the major difference.
