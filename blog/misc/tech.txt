@@ -1,9 +1,9 @@
---update blogpost on number theory + combinatics
-These math domains would be rather obscure if coding were not this popular, important and lucrative.
+--update blogpost on number theory + combinatorics
+These math subdomains would remain obscure if programming as a profession were not this popular, wide spread, lucrative and economically important.
 
-Since the 2000's, more and more IV focus is placed on math.
+Since the 2000's, more and more IV focus is placed on math, largely in these two subdomains.
 
-This trend is bad news for the GTD types like Ashish, the domain experts and the managers like Shuo etc
+This trend is bad news for the GTD types like Ashish/CSY, the domain experts and the managers like Shuo etc
 
 --new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. Not available in other languages.
 
