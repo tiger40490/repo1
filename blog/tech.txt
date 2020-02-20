@@ -1,9 +1,3 @@
---hashtable insert is constant-time amortized or average?
-
-Many algos have aggregate O(N) time but one unlucky item could exhibit very bad complexity. Is it amortized?
-
-vector insert is O(1) amortized. 
-
 --new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. 
 
 Not available in other languages.
