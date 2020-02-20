@@ -1,12 +1,7 @@
---update blogpost on China peers hopeless
-somehow, may of my fellow parents seem to say that they must earn 200k to feel barely acceptable. 
+--fuxi: cherish the MLP job but beware attachment
 
-I feel this is exactly due to XR-style irrational peer comparison. Those families earning 50k don't struggle, so why would 150k income be so intolerable?
-
---cherish the MLP job but beware attachment
-
---the hottest c++ job domain is HFT, but
-.. but they can't pay compared to web2.0 and they only pay slightly more than ibanks
+--fuxi: the hottest c++ job domain is HFT, but
+.. but they underpay web2.0 and they only pay slightly more than ibanks
 .. but the skillset is not portable or upstream to java ! I think it's rather niche
 
 I think the c++ latency QQ knowledge is 99% bookish, not GTD skills at all.
