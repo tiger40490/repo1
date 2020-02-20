@@ -2,7 +2,8 @@
 
 Not available in other languages.
 
-Q: is deletion really constant time?
+Q: is deletion really constant time? I think so. Hashtable delete then linked list delete
+
 --new: java ref closest cousin]]c++: pointer!!ref
 java (and c#) reference varialbes are more like pointer variables than c++ reference variables
 c++ reference variables can't be reseated. This is the major difference.
