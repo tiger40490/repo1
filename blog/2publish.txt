@@ -1,0 +1,6 @@
+--update blogpost on home-food quality
+buying icecream ^ home cooked meal
+
+Ice cream cone is usually a conscious buy, less frequently wrong-time and rarely wrong qty.
+
+home cooked food -- frequently wrong time and wrong qty. The quality factor is smaller factor in the full picture.
