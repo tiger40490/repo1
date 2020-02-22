@@ -1,3 +1,7 @@
+--update blogposts with t_expert blog tag
+
+Ashish said his GTD skill is .. but someone like him would appear an amater to the real experts.
+
 --fuxi: cherish the MLP job but beware attachment
 
 --fuxi: the hottest c++ job domain is HFT, but
