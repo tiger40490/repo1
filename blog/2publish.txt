@@ -1,3 +1,5 @@
+--fake crisis : meimei mult table
+
 --need to set aside USD 101,400 for Flatiron
 + PGM warehouse
 + Peak rental income 
