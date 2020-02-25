@@ -1,13 +1,11 @@
+
 --Q: Am I driven to master the localSys? I think a bit of negative motivation (fear) is needed. 
 
 I think I wasn't at mvea. At RTS I lost the steam after a whie. 
 
 What's my vague definition of mastering? Perhaps I did master the pspc module?
 
-
 [1] I would say yes at catcha, empworld, zed, Strategem, RTS. Perhaps yes at Chartered, 
-
-
 
 --oth: system architect career path that Qihao described 
 I'm biased against such a career path. I think some interviewers expect the contractor to bring valuable experience to the table and propose solutions (to be decided by the app owner)
@@ -24,6 +22,15 @@ I probably have a blogpost on my past record. Overall, I think this "promise" is
 In recent jobs, I have not been very keen, determined to overcome the challenges and propose new ideas. To score a point, I don't really need to get it implemented. 
 
 I feel at Mvea I lost the initial drive.
+--fuxi: Ashish 
+At my age, I don't need to be a strong coder
+I only need to maintain my IV form -- both QQ and CIV
+
+Choose your game where you have a comfortable/easy advantage
+--fuxi: Ashish 
+At my age, I don't need to be a strong coder
+I only need to maintain my IV form -- both QQ and CIV
+
 --Update blogpost on boxer in a corner
 however strong you are in a dev team, there are tasks to "reveal" your relative weaknesses, unless your team is mediocre and you are stronger than average on all fronts [1]. 
 --update blogposts with t_expert blog tag
