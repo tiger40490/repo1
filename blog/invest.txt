@@ -1,5 +1,4 @@
 -- update blogpost on stock picking distractions
-
 I once spent tons of hours on FSM cherry-picking but underwhelming ROTI
 
 Stock picking analysis? XR did that for a long time but not so spectacular
@@ -17,11 +16,11 @@ Economic moat is popularized by Buffett and is an element of (value) stock picki
 -- updated blogpost on SG inflation
 3% SG official inflation rate?
 My own burn rate record-keeping is the most reliable data source
-If we exclude flights, kids, bx etc, then than "couple core burn rate" is not showing any inflation
+If we exclude flights, kids, bx, rental cost, then the "couple core burn rate" is not showing any inflation
 
 In fact, I sense a deflation due to price reduction in food and clothing
 
-long-term (30Y) prediction of inflation is unreliable. 3k burn rate growing to double over 20Y or 30Y is unreliable.
+long-term (30Y) prediction of inflation is unreliable. 3k burn rate growing by 100% over 20Y or 30Y is unreliable.
 
 --update blogpost on Macq economist
  buy property only if you are convinced the local economy would grow over the long term.
