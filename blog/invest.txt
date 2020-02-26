@@ -1,3 +1,9 @@
+-- stock picking
+I spent tons of hours on FSM cherry-picking but underwhelming ROTI
+
+Stock picking ? XR did that for a long time but not so spectacular
+
+Just reading the newspapers alone would take lots of mental energy
 
 -- new: ffree: j4 peer-comparison analysis
 aboutOth
