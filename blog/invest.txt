@@ -5,11 +5,6 @@ Stock picking analysis? XR did that for a long time but not so spectacular
 
 Just reading the newspapers alone would take lots of mental energy
 
--- update blogpost on... in a decline, favor companies with 
-* div
-* massive balance sheet
-* stable biz model
-
 -- I feel value investing requires absorbency and is not for everyone. 
 Picking undervalued stocks using so much data is a tedious job, and you may be in a way competing with some "strong" players who analyze the same data.
 
@@ -33,15 +28,6 @@ If we exclude flights, kids, bx, rental cost, then the "couple core burn rate" i
 In fact, I sense a deflation due to price reduction in food and clothing
 
 long-term (30Y) prediction of inflation is unreliable. 3k/M burn rate growing by 100% over 20Y or 30Y is unreliable.
-
--- update blogpost on compound return 
-I think compound return is exaggerated. 
-How many percent of the average investor can achieve, say, 10% compound return over 10Y? I would say one in 1000.
-
-Risk-free compound return rate is 2%, so 10% is not easy and not common.
-
-More realistic is 4% compound return.
-
 --real passive income beside my GRR
 div stock is more passive than rental property active mgmt
 

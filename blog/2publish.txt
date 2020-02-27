@@ -29,6 +29,19 @@ In such a context, property is a good inflation protection.
 * population growth
 * normal inflation
 
+-- update blogpost on compound return 
+I think compound return is exaggerated. 
+How many percent of the average investor can achieve, say, 10% compound return over 10Y? I would say one in 1000.
+
+Risk-free compound return rate is 2%, so 10% is not easy and not common.
+
+More realistic is 4% compound return.
+
+-- update blogpost on... in a decline, favor companies with 
+* div
+* massive balance sheet
+* stable biz model
+
 -- update blogpost on ffree ^ envy
 with 6k salary, some exclusive "clubs" would reject my family members -- financially disqualified to enroll,,, These include immigration, investment, branded educational institutes etc
 
