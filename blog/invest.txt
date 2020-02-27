@@ -1,21 +1,23 @@
 -- update blogpost on stock picking distractions
 I once spent tons of hours on FSM cherry-picking but underwhelming ROTI
 
-Stock picking analysis? XR did that for a long time but not so spectacular
+Stock picking analysis? I did that for a while on Robinhood
 
 Just reading the newspapers alone would take lots of mental energy
 
 -- I feel value investing requires absorbency and is not for everyone. 
 Picking undervalued stocks using so much data is a tedious job, and you may be in a way competing with some "strong" players who analyze the same data.
 
+--update : ffree ^ envy+FOMO
+Other people's envy is the damper of my bare-bones ffree.
+I'm confronting the paradox. In search of a ratinoal perception, I have a chance to restore some balance.
+
+I feel Theordore Rubin's books shed some light
+
 -- I feel undervalued stocks are more visible than overseas properties.
 I think properties in "famililar" cities still get less mindshare than undervalued stocks. 
 
 Therefore, I feel the likelihood of finding an undervalued stock is lower.
-
--- Beyond the 20 most visible stocks in each country or "market", most stocks don't receive a lot of attention. So there might be good value stocks undervalued.
-
-However, I think some "sophisticated" investors use algorithms to analyze published financial statements
 
 -- new: moat
 Economic moat is popularized by Buffett and is an element of (value) stock picking
