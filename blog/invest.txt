@@ -27,34 +27,29 @@ Economic moat is popularized by Buffett and is an element of (value) stock picki
 
 -- updated blogpost on SG inflation
 3% SG official inflation rate?
-My own burn rate record-keeping is the most reliable data source
-If we exclude flights, kids, bx, rental cost, then the "couple core burn rate" is not showing any inflation
+My own burn rate record-keeping is the most reliable and relevant data source
+If we exclude flights, kids, bx, rental cost, then the "couple core burn rate" is showing very low inflation
 
 In fact, I sense a deflation due to price reduction in food and clothing
 
-long-term (30Y) prediction of inflation is unreliable. 3k burn rate growing by 100% over 20Y or 30Y is unreliable.
-
---update blogpost on Macq economist
- buy property only if you are convinced the local economy would grow over the long term.
-In such a context, property is a good inflation protection.
+long-term (30Y) prediction of inflation is unreliable. 3k/M burn rate growing by 100% over 20Y or 30Y is unreliable.
 
 -- update blogpost on compound return 
-I think this is exaggerated. 
-How many percent of the average investor can achieve, say, 10% compound return over 10Y? I would say one in 10,000.
+I think compound return is exaggerated. 
+How many percent of the average investor can achieve, say, 10% compound return over 10Y? I would say one in 1000.
 
 Risk-free compound return rate is 2%, so 10% is not easy and not common.
 
 More realistic is 4% compound return.
 
 --real passive income beside my GRR
-div stock  is more passive than rental property active mgmt
+div stock is more passive than rental property active mgmt
 
 -- new: ffree: j4 peer-comparison analysis
 aboutOth
 
 Q: Why writing so many blogposts comparing my ffree with peers?
-
-Because since my teenage years I have observed the vast majority of adults (99% of the people around me), and witnessed their struggle and stress, and later experienced the same myself. 
+A: since my teenage years I have observed the vast majority of adults (99% of the people around me), and witnessed their struggle and stress, and later experienced the same myself. 
 Since 2017 I started seeing some reasons to feel free -- surreal. It demands a clarification. 
 
 There are a few /identifiable/ differences (btw me and peers) not only in attitude but in the actual cashflow situation 
