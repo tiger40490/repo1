@@ -1,7 +1,7 @@
 -- update blogpost on stock picking distractions
 I once spent tons of hours on FSM cherry-picking but underwhelming ROTI
 
-Stock picking analysis? I did that for a while on Robinhood
+Stock picking analysis? I did that for a while on Robinhood. Not impressive
 
 Just reading the newspapers alone would take lots of mental energy
 
@@ -10,7 +10,13 @@ Picking undervalued stocks using so much data is a tedious job, and you may be i
 
 --update : ffree ^ envy+FOMO
 Other people's envy is the damper of my bare-bones ffree.
-I'm confronting the paradox. In search of a ratinoal perception, I have a chance to restore some balance.
+If we don't compare to the (wrong) peer group we can feel pretty comfortable and carefree. So why do we compare?
+
+On one hand, minimum acceptable food cost is dropping and I have more than enough income to survive. On the other hand I feel lousy seeing my "peers" earning 10 times more than that minimum. Every one of them seems to complain about cost level.
+
+Q: what's enough? Philip Che said $5k for a family of 4. Wife said 4-5k for my family of 4.
+
+I'm confronting the paradox. In search of a rational perception, I have a chance to restore some balance.
 
 I feel Theordore Rubin's books shed some light
 
@@ -27,7 +33,7 @@ Economic moat is popularized by Buffett and is an element of (value) stock picki
 My own burn rate record-keeping is the most reliable and relevant data source
 If we exclude flights, kids, bx, rental cost, then the "couple core burn rate" is showing very low inflation
 
-In fact, I sense a deflation due to price reduction in food and clothing
+In fact, I sense a deflation due to price reduction in food and clothing. Also electronics, flights, haircut show deflation.
 
 long-term (30Y) prediction of inflation is unreliable. 3k/M burn rate growing by 100% over 20Y or 30Y is unreliable.
 --real passive income beside my GRR
