@@ -93,10 +93,10 @@ I think Ashish's test shows it
 
 However, such a field creates an opportunity for mv-ctor. The referent object is usually on heap on in static memory
 
---fuxi: Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
+--new: Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
 (I used msvs only for automated build since windows command line build is based on msvs.)
 
-in my java jobs, i often need to spend lots of time learning the ide features.
+in my java jobs, i often need to spend lots of time learning the ide features, because ide is value-adding and nearly indispensible.
 
 A: c++ IDE is less effective less value-adding more complicated. Majority of c++ developers actually don't use any IDE. 
 
