@@ -1,5 +1,3 @@
---buy T:us below $40
-
 --add to 0.txt: fake crisis : meimei mult table
 
 --new: low latency: avoid dynamic data structures
