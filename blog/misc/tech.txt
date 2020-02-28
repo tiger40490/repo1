@@ -115,30 +115,18 @@ In my early days using c++, I tried to set up eclipse CDT and spent lots of time
 
 Similarly, yoga is hard for most people but some individuals are determined and can overcome the initial hump (6-24M) and find joy and reward
 
---new: low latency: avoid dynamic data structures
-RTS uses no STL containers.
-
-In my first programing job, I used C without malloc, because I used only array + struct. If my collection were to grow, then I would have needed DAM. 
-
-I feel low latency generally avoid mid-day DAM. If DAM required, then pre-allocation is preferred.
-
---GS-HK interviewer said with an array-based order book he could achieve 1 million updates per second.
-
-This is in response to my claim that Rebus is 700K MPS, which is not far behind. No shame -- 
-Martin Thompson basically said if the performance is good enough for the requirement, then no need to go further.
-
 --new: bcomp advantage over git-diff
 * shows byte count in new vs old versions, useful in git blogging intra moves
 * can hide minor changes
-* shows char-level changes -- hard to see in git-diff
 
---fuxi: C continues to dominates in system programming
-low-latency
+--fuxi: C continues to dominate in system programming
+low-latency, high efficiency in terms of hardware resources
 sys calls
 socket programming
 pthreads
 
 --fuxi: microsoft acquired Mono project and produced dotnet core (Sunil) as a jvm challenger to run on non-windows platforms
+Let's see how it catches on
 
 --fuxi: java community support is better than c# or c++
 higher collective brain power

@@ -1,2 +1,11 @@
 --buy T:us below $40
+
 --add to 0.txt: fake crisis : meimei mult table
+
+--new: low latency: avoid dynamic data structures
+RTS uses no STL containers.
+
+In my first programing job, I used C without malloc, because I used only array + struct. If my collection were to grow at run time, then I would have needed DAM. 
+
+I feel low latency generally avoid mid-day DAM. If DAM required, then pre-allocation is preferred.
+
