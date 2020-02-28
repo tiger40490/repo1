@@ -100,21 +100,6 @@ in my java jobs, i often need to spend lots of time learning the ide features.
 
 A: c++ IDE is less effective less value-adding more complicated. Majority of c++ developers actually don't use any IDE. 
 
---new: 
-one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
-Part of the ecosystem
-Too complicated compared to newer languages like java. The dynamic scripting languages are even simpler
-
-Also an entry barrier. Young people can take it up if determined, but majority of them are put off. 
-
-There's a minimum mileage required. Many young people don't stay on it long enough. 
-
-My vi mileage is also too short.
-
-In my early days using c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ... Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
-
-Similarly, yoga is hard for most people but some individuals are determined and can overcome the initial hump (6-24M) and find joy and reward
-
 --new: bcomp advantage over git-diff
 * shows byte count in new vs old versions, useful in git blogging intra moves
 * can hide minor changes
