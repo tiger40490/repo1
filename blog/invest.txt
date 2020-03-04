@@ -1,4 +1,3 @@
-
 -- update blogpost on stock picking distractions
 I once spent tons of hours on FSM cherry-picking but underwhelming ROTI
 

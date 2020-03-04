@@ -1,4 +1,5 @@
 --add to 0.txt: fake crisis : meimei mult table
+-- pay bofa credit card
 
 --new: low latency: avoid dynamic data structures
 RTS uses no STL containers.
