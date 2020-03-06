@@ -6,7 +6,6 @@ I too was delayed for 1.5 years but excelled in HJC. I accepted very grudgingly.
 I also had many NUS classmates a few years older
 
 --add to 0.txt: fake crisis : meimei mult table
--- pay bofa credit card
 
 --new: low latency: avoid dynamic data structures
 RTS uses no STL containers.
