@@ -1,3 +1,13 @@
+--new: j4 burn rate tracking
+(T_abovePeers)
+I spend about 3-6H/month
+
+Detailed expense tracking gives me critical insight 
+* where I could realistic cut waste, and by how much
+* after kids grow up, what core burn rate my wife and me would hit
+* why nobody else believes in my burn rate projection but I should believe it
+* why the hell my peers' family burn so fast
+
 -- update blogpost on stock picking distractions
 I once spent tons of hours on FSM cherry-picking but underwhelming ROTI
 
