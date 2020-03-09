@@ -1,4 +1,18 @@
--- imagine Saurab and Sanjay. How they cope with the PIP and "layoff"
+--plowback into c++
+After my java conquest, I decided to avoid build-up to jxee. I decided to deepen and branch-out to c++.
+
+I believed the stability of c++ would favor older coders like me, but now I feel c++ is mostly used for HFT i.e. type2. 
+The type1/type3 WallSt c++ shops represent roughly half the market and (yes!) provided some small ROI.
+
+c++ did help my coreJava QQ.
+
+c++ did strengthen my profile and confidence at web2.0 interviews, as coreJava isn't so dominant therein.
+
+Overall, the plowback is effective but underwhelming. 
+It would be more effective if coreJava is less dominant, as in web2.0 and microsoft shops.
+
+-- imagine being Saurab or Sanjay. How did they cope with the PIP and "layoff"?
+There's a lot I can learn from them.
 
 --new: Siddesh
 similar to TYY, these individuals are good at climbing up (for reasons I am not able/interested to elaborate)
