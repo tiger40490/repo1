@@ -11,6 +11,12 @@ c++ did strengthen my profile and confidence at web2.0 interviews, as coreJava i
 Overall, the plowback is effective but underwhelming. 
 It would be more effective if coreJava is less dominant, as in web2.0 and microsoft shops.
 
+--some of the CIV questions from Deepak, Ashish ... are inferior by my leetcode filtering criteria such as contrived.
+
+They are also harder to record.
+
+Therefore, not worth my time.
+
 -- imagine being Saurab or Sanjay. How did they cope with the PIP and "layoff"?
 There's a lot I can learn from them.
 
