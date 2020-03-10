@@ -1,7 +1,7 @@
---plowback into c++
+--new: plowback into c++
 After my java conquest, I decided to avoid build-up to jxee. I decided to deepen and branch-out to c++.
 
-I believed the stability of c++ would favor older coders like me, but now I feel c++ is mostly used for HFT i.e. type2. 
+I believed the stability of c++ would favor older coders like me, but now I feel c++ is mostly chosen by HFT i.e. type2. 
 The type1/type3 WallSt c++ shops represent roughly half the market and (yes!) provided some small ROI.
 
 c++ did help my coreJava QQ.
@@ -9,15 +9,15 @@ c++ did help my coreJava QQ.
 c++ did strengthen my profile and confidence at web2.0 interviews, as coreJava isn't so dominant therein.
 
 Overall, the plowback is effective but underwhelming. 
-It would be more effective if coreJava is less dominant, as in web2.0 and microsoft shops.
+It would be more effective where coreJava is less dominant, as in web2.0 and microsoft shops.
 
---some of the CIV questions from Deepak, Ashish ... are inferior by my leetcode filtering criteria such as contrived.
+--fuxi: some of the CIV questions from Deepak, Ashish ... are inferior by my leetcode filtering criteria such as contrived.
 
 They are also harder to record.
 
 Therefore, not worth my time.
 
--- imagine being Saurab or Sanjay. How did they cope with the PIP and "layoff"?
+--jolt: imagine being Saurab or Sanjay. How did they cope with the PIP and "layoff"?
 There's a lot I can learn from them.
 
 --new: Siddesh
@@ -61,19 +61,19 @@ I probably have a blogpost on my past record. Overall, I think this "promise" is
 In recent jobs, I have not been very keen, determined to overcome the challenges and propose new ideas. To score a point, I don't really need to get it implemented. 
 
 I feel at Mvea I lost the initial drive.
+
 --fuxi: Ashish 
 At my age, I don't need to be a strong coder
 I only need to maintain my IV form -- both QQ and CIV
 
 Choose your game where you have a comfortable/easy advantage
---fuxi: Ashish 
-At my age, I don't need to be a strong coder
-I only need to maintain my IV form -- both QQ and CIV
 
 --Update blogpost on boxer in a corner
-however strong you are in a dev team, there are tasks to "reveal" your relative weaknesses, unless your team is mediocre and you are stronger than average on all fronts [1]. 
+however strong you are in a dev team, there are tasks to "reveal" your relative weaknesses, unless your team is mediocre and you are stronger than average on all fronts
+
 --update blogposts with t_expert blog tag
 Ashish said his GTD skill is .. but someone like him would appear an amater to the real experts.
+
 --fuxi: the hottest c++ job domain is HFT, but
 .. but they underpay web2.0 and they only pay slightly more than ibanks
 .. but the skillset is not portable or upstream to java ! I think it's rather niche
