@@ -1,4 +1,10 @@
---update : ffree ^ envy+FOMO
+-- update blogpost on 12M delay
+eg: An RTS suport manager (white American) told me many Americans choose to earn a degree in their 30's. 
+This route is similar to the very common "returning" Master's student who have worked for a few years to gain some firsthand experience of the working world. 
+I think these "older" students often come in with motivation, rather than forced to study as my son is now. 
+Not every student is suitable for a nonstop flight secondary->preU->undergrad->Master's 
+
+-- update : ffree ^ envy+FOMO
 Other people's envy is the damper of my bare-bones ffree.
 If we don't compare to the (wrong) peer group we can feel pretty comfortable and carefree, in a glowing self-esteem. So why do we compare?
 
