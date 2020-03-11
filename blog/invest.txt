@@ -6,7 +6,7 @@ beside Melvein3, the Chinese parents tend to spend half their disposable incomes
 Picking undervalued stocks using so much data is a tedious job, and you may be in a way competing with some "strong" players who analyze the same data.
 
 -- I feel undervalued stocks are 10 times more visible than overseas properties.
-I think properties in "famililar" cities still get less mindshare than undervalued stocks. 
+I think properties in "familiar" cities still get less mindshare than the most obscrue undervalued stocks. 
 
 Thousands of automated systems collect, compare, disseminate financial data on All stocks. If there's some hidden gem in an undervalued stock, it won't stay unnoticed.
 
@@ -14,26 +14,6 @@ Therefore, I feel the likelihood of finding an undervalued stock is lower.
 
 -- new: moat
 Economic moat is popularized by Buffett and is an element of (value) stock picking
-
--- update blogpost on SG inflation
-For long-term burn rate management, inflation (along with medical) is one of the biggest concerns.
-
-3% SG official inflation rate?
-My own burn rate record-keeping is the most reliable and relevant data source
-If we exclude flights, kids, bx, rental cost, then the "couple base burn rate" is showing very low inflation
-
-In fact, I sense a deflation due to price reduction in food and clothing. Also electronics, flights, haircut show deflation.
-
-long-term (30Y) prediction of inflation is unreliable. 3k/M burn rate growing by 100% over 20Y or 30Y is unreliable.
-
---new: cashcow^passive^nonwork income
-"Cash cow" can be passive or active mgmt, but is reliable, not diminishing
-"nonwork income" can be passive or active.
-
-Beside my GRR, truly passive income is rare.
-* div stock is more passive than rental property
-
-rental income is the best inflation-proof passive income. Dividends are also effective. In contrast, insurance products don't provide good inflation protection.
 
 -- keeping up with the Joneses
 i once hoped that, for most folks, passive income would relieve bulk of the pressure of this modern life.

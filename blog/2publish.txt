@@ -10,6 +10,27 @@ Not every student is suitable for a nonstop flight secondary->preU->undergrad->M
 * If boy does poorly in secondary school he would not attend poly or JC but serve NS first (I could then work in U.S. alone). 
 * If he finds motivation before 16, then we can choose to emmigrate or complete JC.
 
+--new: cashcow^passive^nonwork income
+"Cash cow" can be passive or active mgmt, but is reliable, not diminishing
+"nonwork income" can be passive or active.
+
+Beside my GRR, truly passive income is rare.
+* div stock is more passive than rental property, but less consistent in most cases.
+
+rental income is the best inflation-proof passive income. Dividends are also effective. In contrast, insurance products don't provide good inflation protection.
+
+-- update blogpost on SG inflation
+For long-term burn rate management, inflation (along with medical) is one of the biggest concerns.
+
+3% SG official inflation rate?
+My own burn rate record-keeping is the most reliable and relevant data source
+If we exclude flights, kids, bx, rental cost, then the "couple base burn rate" is showing very low inflation
+
+In fact, I sense a deflation due to price reduction in food and clothing. Also electronics, flights, haircut show deflation.
+
+long-term (30Y) prediction of inflation is unreliable. 3k/M burn rate growing by 100% over 20Y or 30Y is unreliable.
+
+
 --new: fledgling ffree: keep low profile
 my barebones ffree and carefree life now is 1) impermanent 2) precious 3) based on sound principles but a thin foundation
 
