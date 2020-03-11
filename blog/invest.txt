@@ -15,6 +15,19 @@ Therefore, I feel the likelihood of finding an undervalued stock is lower.
 -- new: moat
 Economic moat is popularized by Buffett and is an element of (value) stock picking
 
+--new: big ticket spends of FOMO
+update blogpost on ffree^fomo
+
+If I benchmark with those earning 200k, my wife and kids would want vacations to Japan, Europe.
+
+They would want a bigger home. I can accept a small home, but prime location!
+
+They might want a brand new car, not pre-owned.
+
+Wife would want a top school district.
+
+When I tell them "not necessary", they might feel impoverished? Not sure.
+
 -- keeping up with the Joneses
 i once hoped that, for most folks, passive income would relieve bulk of the pressure of this modern life.
 This hope was based on the universal observation that burn rate is the primary source of pressure in modern life. (See separate blogpost)
@@ -26,9 +39,9 @@ Through this lense I find peer comparison as a chronic, pervasive source of pres
 
 Note non-work income does cushion the impact of PIP...
 
-If (consider Raymond) I had a consistent $6k/M nonwork income + zero salary, I would still feel impoverised, mostly due to peer pressure.
+If (consider Raymond) I had a consistent $6k/M nonwork income + zero salary, I would still feel impoverished, mostly due to peer pressure.
 
-I must accept a simpler lifestyle than the peers' lifestyle
+Better accept a simpler lifestyle than the peers' lifestyle
 * without vacations to Europe, Japan
 * without latest smartphones
 * smaller home, in an average school district
@@ -40,8 +53,6 @@ I think this tunnel vision ignores some fundamental factors such as
 * family harmony
 * lifetime income
 * career longevity
-
---new: bare-bones ffree=far from carefree
 
 --fuxi: The most wasteful small purchases:
 * basketball -- bought four so far. But there are many less visible wastes.
