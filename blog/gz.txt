@@ -1,3 +1,20 @@
+--new: c++toolChain: archaic for new coders #yoga
+one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
+Part of the ecosystem
+Just like manual cars, too complicated compared to newer languages like java. The dynamic scripting languages are even simpler. 
+
+Also an entry barrier. Young people can take it up if determined, but majority of them are put off. 
+
+Q: A non-compSci graduate or an mid-career boot camp can take up programming in a scripting language or a simpler compiled language, but how many percent would take up c++? 
+
+There's a minimum mileage required. Many young people don't stay on it long enough. 
+
+My vi mileage is also too short.
+
+Similarly, yoga is hard for most people but some individuals are determined and can overcome the initial hump (6-24M) and find joy and reward
+
+In my early days using c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ... Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
+
 --new: plowback into c++
 After my java conquest, I decided to avoid build-up to jxee. I decided to deepen and branch-out to c++.
 
@@ -46,7 +63,7 @@ What's my vague definition of mastering? Perhaps I did master the pspc module?
 
 [1] I would say yes at catcha, empworld, zed, Strategem, RTS. Perhaps yes at Chartered, 
 
---oth: system architect career path that Qihao described 
+--fuxi: oth: system architect career path that Qihao described 
 I'm biased against such a career path. I think some interviewers expect the contractor to bring valuable experience to the table and propose solutions (to be decided by the app owner)
 
 Q: was I able to play that role? 
@@ -67,12 +84,6 @@ At my age, I don't need to be a strong coder
 I only need to maintain my IV form -- both QQ and CIV
 
 Choose your game where you have a comfortable/easy advantage
-
---Update blogpost on boxer in a corner
-however strong you are in a dev team, there are tasks to "reveal" your relative weaknesses, unless your team is mediocre and you are stronger than average on all fronts
-
---update blogposts with t_expert blog tag
-Ashish said his GTD skill is .. but someone like him would appear an amater to the real experts.
 
 --fuxi: the hottest c++ job domain is HFT, but
 .. but they underpay web2.0 and they only pay slightly more than ibanks
