@@ -1,6 +1,3 @@
---update blogposts with t_expert blog tag
-Ashish said his GTD skill is .. but someone like him would appear an amater to the real experts.
-
 --Update blogpost on boxer in a corner
 however strong you are in a dev team, there are tasks to "reveal" your relative weaknesses, unless you are stronger than average on all fronts
 
