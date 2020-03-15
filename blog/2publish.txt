@@ -6,6 +6,20 @@ beside Melvein3, the middle class Chinese parents tend to spend half their dispo
 
 Note disposable income is money remaining after paying all the bills + mortgage + gas
 
+--new: precious
+shops are precious only in primte retail locations. Consider shops in industrial parks.
+
+Office units are precious only in prime commercial locations. Consider offices in Orchard.
+
+Residential can be precious in elite locations such as top school districts.
+
+--new: residential pros and cons
+:) faster to sell because more investors are familiar with the asset class
+:) faster appreciation due to hot money, _but_ less stable
+:( More of a commodity, not as precious as prime location shop units.
+:( NRY lower, despite what marketers say. 
+:( higher risk of buying overpriced
+
 --new or update: vi in git-bash
 vi can improve my git-blogging efficiency
 
