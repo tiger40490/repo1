@@ -1,11 +1,4 @@
 
---new or update: vi in git-bash
-vi can improve my git-blogging efficiency
-
-fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
-
-One of the G5 show-stoppers is moving content intra or inter.
-
 -- need some "system" on what content goes into
 0.txt
 smemo

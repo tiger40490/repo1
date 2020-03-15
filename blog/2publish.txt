@@ -6,6 +6,13 @@ beside Melvein3, the middle class Chinese parents tend to spend half their dispo
 
 Note disposable income is money remaining after paying all the bills + mortgage + gas
 
+--new or update: vi in git-bash
+vi can improve my git-blogging efficiency
+
+fundamental training. More "health promotion" please. Use vi even when notepad++ is readily available
+
+One of my G5 show-stoppers is moving content intra or inter.
+
 --jolt: PIP^jobloss fear
 For me, job loss is a lighter stressor than PIP fear. 
 
