@@ -1,4 +1,4 @@
--- Some of the inefficiencies in my blogging practice
+--fuxi: Some of the inefficiencies in my blogging practice
 * updating existing blogposts is far more time-consuming and inefficient than adding new
 * reviewing growing content of git blogging files
 * git merge conflict
