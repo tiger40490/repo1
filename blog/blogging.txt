@@ -1,14 +1,5 @@
-
--- need some "system" on what content goes into
-0.txt
-smemo
-git blog
-
-Is there a xls table?
-
 -- Some of the inefficiencies in my blogging practice
 * updating existing blogposts is far more time-consuming and inefficient than adding new
-
 * reviewing growing content of git blogging files
 * git merge conflict
 * carrying laptop around -- need to disable the wake-up password
