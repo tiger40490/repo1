@@ -1,13 +1,17 @@
+--add to Nav worksheet:
+NAV accounting is less useful than burn rate accouting
+
 --In the spiriit of celebration (like NCID discharge or edusave award), the lavish spend is often miscalculated
 * dining at a known place is prudent
 * dining at a fancy new restaurant? High chance of overspend
 * simple toys are good
 * fancy toys? often overspend
 
--- I feel value-investing requires absorbency and is not for everyone. 
+--new: value investing
+I feel value-investing requires absorbency and is not for everyone. 
 Picking undervalued stocks using so much data is a tedious job, and you may be in a way competing with some "strong" players who analyze the same data.
 
--- I feel undervalued stocks are 10 times more visible than overseas properties.
+..I feel undervalued stocks are 10 times more visible than overseas properties.
 I think properties in "familiar" cities still get less mindshare than the most obscrue undervalued stocks. 
 
 Thousands of automated systems collect, compare, disseminate financial data on All stocks. If there's some hidden gem in an undervalued stock, it won't stay unnoticed.
@@ -16,28 +20,6 @@ Therefore, I feel the likelihood of finding an undervalued stock is lower.
 
 -- new: moat
 Economic moat is popularized by Buffett and is an element of (value) stock picking
-
---new: big ticket spends of FOMO
-update blogpost on ffree^fomo
-
-If I benchmark with those earning 200k, my wife and kids would want vacations to Japan, Europe.
-
-They would want a bigger home. I can accept a small home, but prime location!
-
-They might want a brand new car, not pre-owned.
-
-Wife would want a top school district.
-
-When I tell them "not necessary", they might feel impoverished? Not sure.
-
--- update ffree ^ envy 
-useful to zoom into the biggest discretionary spends. 
-
-Figures below are monthly outlays.
-.. USD 5k/M mortgage + prop tax. USD 4k-6k
-.. USD 2k/M/child private school 
-.. USD 1k/M private car. Figure is total cost, depends on usage
-.. USD 1k/M/child enrichments. Figure varies a lot.
 
 --new: keeping up with the Joneses #FOMO
 i once hoped that, for most folks, passive income would relieve bulk of the pressure of this modern life.
