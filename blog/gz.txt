@@ -15,45 +15,8 @@ Similarly, yoga is hard for most people but some individuals are determined and 
 
 In my early days using c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ... Futile. Not worthwhile. java tools are much better. Most c++ programmers don't bother with such convenience and rely on command line tools.
 
---new: plowback into c++
-After my java conquest, I decided to avoid build-up to jxee. I decided to deepen and branch-out to c++.
-
-I believed the stability of c++ would favor older coders like me, but now I feel c++ is mostly chosen by HFT i.e. type2. 
-The type1/type3 WallSt c++ shops represent roughly half the market and (yes!) provided some small ROI.
-
-c++ did help my coreJava QQ.
-
-c++ did strengthen my profile and confidence at web2.0 interviews, as coreJava isn't so dominant therein.
-
-Overall, the plowback is effective but underwhelming. 
-It would be more effective where coreJava is less dominant, as in web2.0 and microsoft shops.
-
---fuxi: some of the CIV questions from Deepak, Ashish ... are inferior by my leetcode filtering criteria such as contrived.
-
-They are also harder to record.
-
-Therefore, not worth my time.
-
 --jolt: imagine being Saurab or Sanjay. How did they cope with the PIP and "layoff"?
 There's a lot I can learn from them.
-
---new: Siddesh
-similar to TYY, these individuals are good at climbing up (for reasons I am not able/interested to elaborate)
-When one of them eventualy moves up, I feel the pain of FOLB.
-This is one of the 2 most common pains in my blog, but progressively becoming less painful less devastating as I age.
-(As I age, my self-mgmt advantages have started to emerge -- wellness, cashfow, career longevity,,,)
-
-Their brank and their career-peak income is not badly needed in my life,,,
-
-See also t_expert and gzMgr^contractor, t_gzPeerComp
-
-* lifelong income
-* age friendly - wall st contractor?
-* competition from younger players -- is worse in more visible, more lucrative positions.
-* career stability -- is better in my case due to mediocre salary
-* mkt depth -- is better in many dev positions because salary is mediocre
-* do I need the extra income?
-* easy life?
 
 --Q: Am I driven to master the localSys? I think a bit of negative motivation (fear) is needed. 
 
@@ -62,30 +25,3 @@ I think I wasn't at mvea. At RTS I lost the steam after a while.
 What's my vague definition of mastering? Perhaps I did master the pspc module?
 
 [1] I would say yes at catcha, empworld, zed, Strategem, RTS. Perhaps yes at Chartered, 
-
---fuxi: oth: system architect career path that Qihao described 
-I'm biased against such a career path. I think some interviewers expect the contractor to bring valuable experience to the table and propose solutions (to be decided by the app owner)
-
-Q: was I able to play that role? 
-A: I think Josh actually felt I was able to. I think that was at a micro level, but I might be able to at higher level as well.
-
-A: I think Venkat and Shubin actually noticed it 
-
-I think Yang, Chad... were more successful doing this, though I didn't like Yang's java solutions. 
-
-I probably have a blogpost on my past record. Overall, I think this "promise" is not easy to deliver. My track record was mixed.
-
-In recent jobs, I have not been very keen, determined to overcome the challenges and propose new ideas. To score a point, I don't really need to get it implemented. 
-
-I feel at Mvea I lost the initial drive.
-
---fuxi: Ashish 
-At my age, I don't need to be a strong coder
-I only need to maintain my IV form -- both QQ and CIV
-
-Choose your game where you have a comfortable/easy advantage
-
---fuxi: the hottest c++ job domain is HFT, but
-.. but they underpay web2.0 and they only pay slightly more than ibanks
-.. but the skillset is not portable or upstream to java ! I think it's rather niche
-I think the c++ latency QQ knowledge is 99% bookish, not GTD skills at all.
