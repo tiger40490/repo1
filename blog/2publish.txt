@@ -1,16 +1,15 @@
 --new: fix annoyances before stress spike
-These annoyances can grow into stressors when my "healthcare overwhelmed". Therefore, it's best to chip away at them when not under stress
+These annoyances can grow into stressors when my "healthcare system overwhelmed". Therefore, it's best to chip away at them when not under stress
 * bofa credit balance cheques
 * retrofitness extra charges
 * tax filing
 * hardware breakdowns
 * repair/replace - home fixtures, electronics, 
 
-What kinda buffer would be effective against these random stressors? 
+Q: What kinda buffer would be effective against these random stressors? 
 * short commute
 * evening/weekend flexible work hours
 * consistent time allocated to coding drill
 * consistent time allocated to jogging, yoga and strength training
 * adequate rest including sleep
 * plenty of paid time-off
-* movies?
