@@ -1,3 +1,21 @@
+--new: c++toolChain: archaic for new coders #yoga
+one of the most obvious and real limitation/obsolete features of c++ as a language is the tool chain.
+Part of the ecosystem
+Just like manual cars, too complicated compared to newer languages like java. The dynamic scripting languages are even simpler. 
+
+Also an entry barrier. Young people can take it up if determined, but majority of them are put off.
+
+Q: A non-compSci graduate on a mid-career boot camp can take up programming in a scripting language or a simpler compiled language, but how many percent would take up c++? 
+
+There's a minimum mileage required. Many young people don't stay on it long enough. 
+
+My vi mileage is also too short.
+
+Similarly, yoga is hard for most people but some individuals are determined and therefore able to overcome the initial hump (6-24M) and find joy and reward.
+
+In my early days using c++, I tried to set up eclipse CDT and spent lots of time on the tool chain. My goal was to set up similar convenience ... Futile. Not worthwhile. java tools are miles ahead. Most c++ programmers don't bother with such convenience and rely on command line tools.
+
+Just as I prefer command line, I often feel more confident (relative to my peers) with c++ tool chain
 
 --new: ctbz: micro-saving add up over 9Y
 Most adults or young people don't monitor their burn rate, calorie-quota or regular exercise. The cumulative effect would eventually show up.
