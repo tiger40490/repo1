@@ -1,0 +1,9 @@
+--update: anti-aging job
+Chris Ma felt any programming job is intense, never lethargic. I tend to classify some maintenance type of work as coding. 
+
+Chris felt a relatively easy programming job might be good for my brain. EPA?
+
+Now I feel this view echoes Jiang Ling's view
+
+--new: bcomp advantage over git-diff
+* shows byte count in new vs old versions, useful in git blogging intra moves

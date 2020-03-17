@@ -1,4 +1,9 @@
 
+--fuxi: microsoft acquired Mono project and produced dotnet core (Sunil) as a jvm challenger to run on non-windows platforms
+Let's see how it catches on
+
+I think mono project may be better off as independent but endorsed by Microsoft
+
 --fuxi: oth: system architect career path that Qihao described 
 I'm biased against such a career path. I think some interviewers expect the contractor to bring valuable experience to the table and propose solutions (to be decided by the app owner)
 
@@ -188,17 +193,7 @@ However, at Stirt I was unable to outshine other guys.
 
 At Macq, I was unable to impress bosses.
 
---brain: anti-aging job
-Chris Ma felt any programming job is intense, never lethargic. I tend to consider some support type of work as coding. Chris felt a relatively easy programming job might be good for my brain. 
-
-Now I feel this view echoes Jiang Ling's view
-
---Chris asked "Have you considered other professions"
-I mentioned teaching; Chinese school for young kids; startup .. but I was not serious not passionate.
-
-In hind sight I basically presented an image as a graying techie interested in coding, esp. low-level coding, and low-level, almost theoretical knowledge. 
-
---I told Chris my bias towards U.S. job market
+--I told Chris Ma my bias towards U.S. job market
 * open-door policy towards graying techies
 * lower stress, for multiple reasons
 * plenty of jobs, at least in tristate area
@@ -209,23 +204,6 @@ In hind sight I basically presented an image as a graying techie interested in c
 US tech salary very high, so even a mediocre tech job pays well above traditional jobs. Dev jobs pays even higher than regular tech jobs.
 
 Gave me sense of security
-
---fuxi
-my record in GS is no bad record any more
-
---no
-Rahul is ambitious , same as Sunil, Ashish, Yang .... I'm not. I just want to do a professional job and stay at a level I'm comfortable
-
---compared to Rahul putting his heart into a job..
-In recent years, my focus was on ffree, IV maintenance (contract rate),... 
-... not promotion, or staying long and growing my value-add 
-
-Corporate ambition, stress, competition, serious designs ... threatens to reduce my easy life and give me cancer!
-
---nothing really new here. 
-when a bright new hire is brought into the team he would be benchmarked from Day 1 over the next 6M. Consider Deepak G, Alan Shi, ...
-I'm often not-so-great in terms of localSys ramp-up, GTD etc, but I often put in visible effort
-In contrast, My interview benchmark result is often extraordinary.
 
 --Retire at Google?
 CSDoctor thinks it's possible but I doubt it

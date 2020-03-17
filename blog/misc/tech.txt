@@ -1,4 +1,4 @@
---hasSameContent(dict1, dict2): return dict1 == dict2 
+--fuxi: hasSameContent(dict1, dict2): return dict1 == dict2 
 --new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. 
 
 Not available in other languages.
@@ -100,19 +100,3 @@ However, such a field creates an opportunity for mv-ctor. The referent object is
 in my java jobs, i often need to spend lots of time learning the ide features, because ide is value-adding and nearly indispensible.
 
 A: c++ IDE is less effective less value-adding more complicated. Majority of c++ developers actually don't use any IDE. 
-
---new: bcomp advantage over git-diff
-* shows byte count in new vs old versions, useful in git blogging intra moves
-* can hide minor changes
-
---fuxi: C continues to dominate in system programming
-low-latency, high efficiency in terms of hardware resources
-sys calls
-socket programming
-pthreads
-
---fuxi: microsoft acquired Mono project and produced dotnet core (Sunil) as a jvm challenger to run on non-windows platforms
-Let's see how it catches on
-
---fuxi: java community support is better than c# or c++
-higher collective brain power
