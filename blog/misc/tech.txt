@@ -48,11 +48,6 @@ For java,
 * one allocation fewer. I think one allocation is thousands of times slower than a simple calc
 * code size is smaller and more i-cache friendly
 
---threading is a core IV topic in java, but remain a "superstructure" topic in c++, in the form of c++11 thread and pthreads.
-
-I think java threading is simpler and accessible to regular app developers whereas c++ threading remains part of the vast array of advanced topics.
-
-I think my progress in my c++ QQ IV since 2011 was mostly in the core QQ topics. I achieved some thick->thin and critical mass.
 
 --really low-latency apps should probably avoid lock-free... Strictly single-threaded mode, strictly. 
 
