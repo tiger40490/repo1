@@ -33,10 +33,6 @@ I feel frustrated and disappointed many times a day.
 
 I thought grandparents could reduce the distraction due to boy's studies, but I think this distractions is actually worsening. I probably have no one to blame but myself.
 
-..coping with the distractions when entire family is here
-luckily office is nearby and work hours are flexible
-more time in office on ... localSys or QQ or blogging
-
 --fuxi: increase/reduce time allocation
 = blogging to manage everything
 = investment
@@ -51,6 +47,5 @@ boy's math: more research, more coaching less telling
 v boy's arithmetic drill - face time ... too high
 
 --fuxi: important not urgent
-flexibility, bone density
-coding drill -- I feel i won't forget the past problems.
+bone density
 c++ critical mass maintenance
