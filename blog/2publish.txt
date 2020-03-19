@@ -7,3 +7,7 @@ Now I feel this view echoes Jiang Ling's view
 
 --new: bcomp advantage over git-diff
 * shows byte count in new vs old versions, useful in git blogging intra moves
+
+--new or update blogpost: advantage of make_shared
+* code size is smaller and more i-cache friendly
+* one allocation fewer. I think one allocation is thousands of times slower than a simple calc
