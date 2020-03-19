@@ -11,3 +11,12 @@ Now I feel this view echoes Jiang Ling's view
 --new or update blogpost: advantage of make_shared
 * code size is smaller and more i-cache friendly
 * one allocation fewer. I think one allocation is thousands of times slower than a simple calc
+
+--update blogpost on Optional.java
+https://dzone.com/articles/considerations-when-returning-java-8s-optional-from-a-method shows the pitfalls of returning Optional from a method.
+
+I feel this is like borrowing from a loan shark to avoid accidental credit card interest charge. 
+
+If you are careful, it can help you avoid the NPE of the traditional practice, but if you are undisciplined (like most of us), then this new stragey is even worse -- 
+
+Traditional return type is something like String, but caller has to deal with nulls. New strategy is supposed to remove the risk/doubt of a null return value, but alas, caller still needs to check null first, before checking against empty!
