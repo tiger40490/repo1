@@ -1,13 +1,9 @@
 --fuxi: hasSameContent(dict1, dict2): return dict1 == dict2 
---new  : linkedHashSet as dynamic sorted collection with O(1) remove but without insert. 
 
+--new : linkedHashSet as dynamic sorted collection with O(1) remove/lookup, but insert is O(logN)
 Not available in other languages.
 
-Q: is deletion really constant time? I think so. Hashtable delete then linked-list delete
-
---new: java ref closest cousin]]c++: pointer!!ref
-java (and c#) reference varialbes are more like pointer variables than c++ reference variables
-c++ reference variables can't be reseated. This is the major difference.
+one-time sort in a temporary array, then one-time build the linkedHashSet. Additional insert is O(logN). Additional lookup/remove is O(1)
 
 --why can't we take the address of a c++ reference variable? 
 A pointer is conceptually a runtime object, occupying run time memory, with an address.
