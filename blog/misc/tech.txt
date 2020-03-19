@@ -52,16 +52,14 @@ For java,
 
 I think java threading is simpler and accessible to regular app developers whereas c++ threading remains part of the vast array of advanced topics.
 
-I think my progress in my c++ QQ performance since 2011 was mostly in the core QQ topics. I achieved some thick->thin and critical mass.
+I think my progress in my c++ QQ IV since 2011 was mostly in the core QQ topics. I achieved some thick->thin and critical mass.
 
 --really low-latency apps should probably avoid lock-free... Strictly single-threaded mode, strictly. 
 
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
---sugg: q[ nn ] and q[ commit --amend ] both to detect the current HEAD is also origin/.... Use commit hook
-
---fuxi: cpu set seems to be a linux feature, not just a container feature
+--fuxi: cpu set seems to be a linux kernel feature, not just a container feature
 
 --new: cpu affinity
 sched_setaffinity is a syscall probably close to the hardware. 
@@ -80,8 +78,8 @@ Can I implement my own DAM without involving the kernel? I would say some kernel
 
 Is there a cpu instruction for DAM? Does cpu care about heap vs stack?
 
---Martin's low-latency java talk
-Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
+--fuxi: Martin's low-latency java talk
+java has no deallocation cost. C++ deallocation is worse than allocation. Deallocation may use locking if performed across threads.
 
 My Questions
 Q: for low latency should we avoid concurrency ?
@@ -92,6 +90,7 @@ Q: If I don’t use heap, and only use stack and static memory….?
 A: heap allows sharing between threads
 
 Q: why is JIT not available to c++?
+%%A: c was not designed for JIT and ineffective 
 
 --pointer as a field of a class is uninitialized by default
 I think Ashish's test shows it
