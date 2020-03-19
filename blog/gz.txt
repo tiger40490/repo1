@@ -11,8 +11,10 @@ What's my vague definition of mastering? Perhaps I did master the pspc module?
 
 [1] I would say yes at catcha, empworld, zed, Strategem, RTS. Perhaps yes at Chartered, 
 
---I feel c++ QQ common topics outnumber java by 100%
+--update blogpost on paper tigers
+I feel c++ QQ common topics outnumber java by 100%
 TMP
 make_shared
 forward()
 fwd declaration
+
