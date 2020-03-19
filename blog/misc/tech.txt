@@ -13,18 +13,6 @@ c++ reference variables can't be reseated. This is the major difference.
 A pointer is conceptually a runtime object, occupying run time memory, with an address.
 
 A ref is strictly a variable and never a runtime object, so it has no address at runtime. I suspect compiler replaces it with the target variable.
-
---new: competitors to x86 instruction sets
-Interviewers often focus on x86 instruction sets, but I could point out competing instruction sets.
-
-IBM's PowerPC and Oracle's Sparc, were a pair of once-popular instruction sets in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
-
-AMD64 instruction set (i.e. x86-64) was created at AMD, as an extension on x86
-
-IA-64 instruction set was created at HP then Intel, widely deployed in data centers.
-
-If interivew is not 100% focused on server-side, then I would point out ARM instruction set is dominant in handheld.
-
 --new:
 For c++ to hold its ground in those simplistic, often numerical, latency benchmarks
 * no new no malloc. Use stack and data segment

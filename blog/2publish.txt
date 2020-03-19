@@ -5,6 +5,18 @@ Chris felt a relatively easy programming job might be good for my brain. EPA?
 
 Now I feel this view echoes Jiang Ling's view
 
+--new: competitors to x86 instruction sets
+Interviewers often focus on x86 instruction sets, but I could point out competing instruction sets.
+
+IBM's PowerPC and Oracle's Sparc, were a pair of once-popular instruction sets in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
+
+AMD64 instruction set (i.e. x86-64) was created at AMD, as an extension on x86
+
+IA-64 instruction set was created at HP then Intel, widely deployed in data centers.
+
+If interivew is not 100% focused on server-side, then I would point out ARM instruction set is dominant in handheld.
+
+
 --new: bcomp advantage over git-diff
 * shows byte count in new vs old versions, useful in git blogging intra moves
 
