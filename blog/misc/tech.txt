@@ -17,7 +17,7 @@ A ref is strictly a variable and never a runtime object, so it has no address at
 --new: competitors to x86 instruction sets
 Interviewers often focus on x86 instruction sets, but I could point out competing instruction sets.
 
-IBM's PowerPC and Oracle's Sparc, were once popular instruction sets in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
+IBM's PowerPC and Oracle's Sparc, were a pair of once-popular instruction sets in HighPerformanceComputing. Even if they are less popular now, the still have a presence.
 
 AMD64 instruction set (i.e. x86-64) was created at AMD, as an extension on x86
 
