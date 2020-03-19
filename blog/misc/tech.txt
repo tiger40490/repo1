@@ -64,17 +64,21 @@ in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -
 --fuxi: cpu set seems to be a linux feature, not just a container feature
 
 --new: cpu affinity
-sched_setaffinity is a syscall!
+sched_setaffinity is a syscall probably close to the hardware. 
 all other *affinity* functions are based thereon
 
 *_np in function name means non-portable
+
+is there a cpu instruction for affinity?
 
 Need to read more. Similar to socket QQ -- Not deep, but even more academic than socket
 
 --new:
 is malloc a kernel service, syscall or a userland function offered in a regular library?
 
-Can I implement my own DAM without involving the kernel?
+Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
+
+Is there a cpu instruction for DAM? Does cpu care about heap vs stack?
 
 --Martin's low-latency java talk
 Deallocation is worse than allocation. Deallocation may use locking if performed across threads.
@@ -94,9 +98,4 @@ I think Ashish's test shows it
 
 However, such a field creates an opportunity for mv-ctor. The referent object is usually on heap on in static memory
 
---new: Q: why unlike java/c#, in my c++ jobs I seldom needed to learn ide? 
-(I used msvs only for automated build since windows command line build is based on msvs.)
-
-in my java jobs, i often need to spend lots of time learning the ide features, because ide is value-adding and nearly indispensible.
-
-A: c++ IDE is less effective less value-adding more complicated. Majority of c++ developers actually don't use any IDE. 
+class-type fields like a field of Integer type is always initialized via the ctor. Remember the BCCD sequence.
