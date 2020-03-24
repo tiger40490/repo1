@@ -1,11 +1,14 @@
 --new: Y Dividend Aristocrats hate to cut dividend
 https://finance.yahoo.com/news/big-oil-big-crisis-save-204611096.html?.tsrc=rss says
 
-Janus Henderson researchers said “At some point though, borrowing to pay the dividend is not sustainable.... Nobody wants to be the CEO who cuts the dividend. They understand that any company that cuts, its shareholders will flow into competitors and be very, very hesitant to ever come back.”
+Janus Henderson research said “At some point though, borrowing to pay the dividend is not sustainable.... Nobody wants to be the CEO who cuts the dividend. They understand that any company that cuts, its shareholders will flow into competitors and be very, very hesitant to ever come back.”
 
 Shell, Chevron Corp., and Total may also choose to save money for dividends by reducing their share-buyback programs, which are typically seen by investors as more discretionary than the quarterly cash payouts.
 
 GS research said “In past oil downturns, Big Oil on aggregate did not respond to challenging macro conditions through material dividend cuts,” 
+
+--update blogpost
+Self-education on stock picking is more valuable than fund-picking
 
 --high-div sectors: oil, telco, motor,
 I now feel big oil might be the biggest sector
@@ -33,3 +36,15 @@ Not completely irrational. There are rational reasons, perhaps subconscious.
 It takes lots of time to try out retirement locations in MYS. 
 
 There's a good chance that we would retire in SG. In such a scenarios, we would only explore MYS for economical long-vacation (like 1-12M) so we would try it out only after or right before we retire, not now.
+
+--new
+comm^residential~=div cashcow^hot stock
+
+I favor reliable payout on top of stable (ideally protected) NAV
+
+Shop units (offices, hotels..) are the first asset class to meet my criteria. Now I feel dividend cashcow stocks are somewhat similar. To understand this asset class, we must compare it to those rockstar tech stocks.
+
+* dividend stocks are usually less glamourous partly because they don't show fast or windfall appreciation 
+* my favorite dividend stocks are usually well-know, just as the rockstars. 
+* Unlike commercial properties, dividend stocks do fluctuate in valuation. This means buying at low price is more "possible" than in real estates
+* credit risk is higher with properties as dividend stocks are known to keep paying it.
