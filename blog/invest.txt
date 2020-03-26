@@ -27,16 +27,14 @@ Not completely irrational. There are rational reasons, perhaps subconscious.
 --update blogpost on MYS
 It takes lots of time to try out retirement locations in MYS. 
 
-There's a good chance that we would retire in SG. In such a scenarios, we would only explore MYS for economical long-vacation (like 1-12M) so we would try it out only after or right before we retire, not now.
+There's a growing likelihood that we would retire in SG. In such a scenarios, we would only explore MYS for economical (long) vacation (like 1-12M) so we would try it out right before we retire, not now.
 
---new
-comm^residential~=div cashcow^hot stock
+--updated softspot
+My favorite -- reliable current income on top of stable (ideally protected) NAV
 
-I favor reliable payout on top of stable (ideally protected) NAV
-
-Shop units (offices, hotels..) are the first asset class to meet my criteria. Now I feel dividend cashcow stocks are somewhat similar. To understand this asset class, we must compare it to those rockstar tech stocks.
+Shop units (offices, hotels..) are the first asset class to meet the above criteria. Now I feel dividend cashcow stocks are somewhat similar. To understand this asset class, we must compare it to those rockstar tech stocks.
 
 * dividend stocks are usually less glamourous partly because they don't show fast or windfall appreciation 
-* my favorite dividend stocks are usually well-know, just as the rockstars. 
+* my favorite dividend stocks are usually household names, just as the rockstars. 
 * Unlike commercial properties, dividend stocks do fluctuate in valuation. This means buying at low price is more "possible" than in real estates
-* credit risk is higher with properties as dividend stocks are known to keep paying it.
+* credit risk is higher with properties because dividend aristocrats are known to keep paying.
