@@ -12,3 +12,7 @@ $2.10 roach trap
 
 --new: give/receive the sympathy
 In this story, most people give their sympathy to the parent; the child received no sympathy
+
+--new: how to improve mood of gp, wife
+outing
+fruit shopping with gp
