@@ -1,3 +1,7 @@
+--new blogpost: q[start] to launch windows GUI apps
+start excel some/spreadsheet.xlsx
+start git difftool
+
 -- clone() is needed mostly in one context -- immutable composite class
 This topic is relevant in QQ IV.
 
