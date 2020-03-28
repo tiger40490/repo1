@@ -1,8 +1,11 @@
---new or updated: 
-U.S. healthcare is most expensive even though tax is higher than Canada or Singaopre.
+
+--new: med^tax rate: SG,US,, 
+U.S. healthcare is more expensive than Canada bit tax is lower.
+
+However, SG is superior in both tax rate (much lower) and healthcare cost (lower).
 
 --high-div sectors: oil, telco, motor,
-I now feel big oil might be the biggest sector
+I now feel big oil might be the biggest sector 
 
 -- G3 criteria for small buys
 * 30D chart

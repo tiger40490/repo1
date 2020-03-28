@@ -1,3 +1,5 @@
+-- screen time limit should grow with age, so boy should get a higher limit at his age.
+
 -- jolt: I have a prejudice against correction tape
 --jolt: I told dabao that love him. That's sincere. But at times I really want him to feel punished and fearful. 
 I feel I am enduring and sacrificing so much. I want him to feel my pain and suffering.
