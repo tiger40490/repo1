@@ -1,3 +1,5 @@
+--update blogpost
+car ownership in old age -- (not based on data) feels like dangerous and high maintenance
 
 --new: med^tax rate: SG,US,, 
 U.S. healthcare is more expensive than Canada bit tax is lower.
