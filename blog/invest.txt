@@ -1,5 +1,5 @@
 --update blogpost
-car ownership in old age -- (not based on data) feels like dangerous and high maintenance
+car ownership in old age -- (not based on data) feels like dangerous and high maintenance. Far less reliable than public transport in Singapore
 
 --new: med^tax rate: SG,US,, 
 U.S. healthcare is more expensive than Canada bit tax is lower.
@@ -23,8 +23,6 @@ The bigger the transaction amount, the more scrutiny
 
 --new: HDB lease buy-back scheme
 No hurry, but wife is interested
-
---new: consider transferring $1k OA -> SA, but this would reduce my investable amount
 
 --new: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
 Not completely irrational. There are rational reasons, perhaps subconscious.
