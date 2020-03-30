@@ -1,3 +1,8 @@
+--new: evaporated milk
+For a creamy taste without the cream, try evaporated (canned) milk! Evaporated milk is made by removing water from fresh milk and then heating it. Heating the milk gives it the creamy, slightly cooked taste and darker colour
+
+More dense than fresh milk, but there are low-fat versions.
+
 --new: more spare time can "buy" me
 See also plowback
 
@@ -14,7 +19,6 @@ inufficient absorbency for jogging, stretch
 inufficient absorbency for coding drill
 
 Jolt: Before I scold ah-boy about his absorbency deficiency, look in the mirror.
-
 
 --new: ## important not urgent: current G3
 c++ critical mass maintenance
