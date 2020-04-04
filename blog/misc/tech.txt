@@ -1,3 +1,10 @@
+--fuxi: 5GHz ^ 2.4GHz wifi
+Range favors lower frequency. Bigger homes may need it.
+
+bandwidth favors higher frequency. Video streaming.
+
+Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Hard to verify.
+
 --new blogpost: q[start] to launch windows GUI apps
 start excel some/spreadsheet.xlsx
 start git difftool

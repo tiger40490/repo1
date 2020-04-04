@@ -1,5 +1,10 @@
---new dlink router console cheatsheet
+--new: dlink router web-console cheatsheet
 http://192.168.0.1/adv_mac_filter.php : MAC address filter
 http://192.168.0.1/bsc_lan.php : current DHCP clients (wired+wireless)
 http://192.168.0.1/bsc_wlan.php : SSID name
 
+Warning -- timeout is short and unforgiving
+
+Reset button -- Power On then hold Reset button for 10 seconds.
+
+Factory default password: cajne57275 on SSID dlink-45C*
