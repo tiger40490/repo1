@@ -1,3 +1,12 @@
+--new: ipad2
+too old to install whatsapp
+builtin speaker: s$45 replacement
+16GB. Available space too small to install some big games.
+
+--new: power jargon @ %%parenting struggle
+'losing my cool' and 'facetime' are valuable descriptors to help me identify and verbalize. They are instrumental to my therapeutic blogging.
+
+
 --new: dlink router web-console cheatsheet
 http://192.168.0.1/adv_mac_filter.php : MAC address filter
 http://192.168.0.1/bsc_lan.php : current DHCP clients (wired+wireless)
