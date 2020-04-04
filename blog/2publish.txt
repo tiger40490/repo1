@@ -1,19 +1,7 @@
---new: (offsite) storage to keep boy's items
-Storhub charges $34/M but also one-time fees $25
-
-letterbox?
-
-put lock on my drawer
-
-clear bag in meter room
-
--- update blogpost: average schools us^sg:
-sg average school sounds safer, more strict
-
---new: evaporated milk
-For a creamy taste without the cream, try evaporated (canned) milk! Evaporated milk is made by removing water from fresh milk and then heating it. Heating the milk gives it the creamy, slightly cooked taste and darker colour
-
-More dense than fresh milk, but there are low-fat versions.
+--new dlink router console cheatsheet
+http://192.168.0.1/adv_mac_filter.php : MAC address filter
+http://192.168.0.1/bsc_lan.php : current DHCP clients (wired+wireless)
+http://192.168.0.1/bsc_wlan.php : SSID name
 
 --new: more spare time can "buy" me
 See also plowback
@@ -32,36 +20,3 @@ inufficient absorbency for coding drill
 
 Jolt: Before I scold ah-boy about his absorbency deficiency, look in the mirror.
 
---new: ## important not urgent: current G3
-c++ critical mass maintenance
-bone density
-flexibility 
-
---new jolt: math coaching: focus@ %%own ROTI
-In my parenting effort, if I don't focus on my current roti, I would eventually feel the pain. Analog: if you don't monitor your calorie/burn rate, you will eventually suffer/experience the cummulative effect.
-
-If some coaching effort is not effective (usually losing my cool), then stop it early enough, even if boy is suffering in numerous ways, even if I look like a quitter...
-Basically, I can waste more time by trying to "help" him.
-
-jolt: my deep (vague) disappointment with my renzi effort was largely due to the worldly, materialistic "progress". 
-No progress, then i feel time wasted. That's materialistic and impatience.
-
---new: Y Dividend Aristocrats hate to cut dividend
-https://finance.yahoo.com/news/big-oil-big-crisis-save-204611096.html?.tsrc=rss says
-
-Janus Henderson research said “At some point though, borrowing to pay the dividend is not sustainable.... Nobody wants to be the CEO who cuts the dividend. They understand that any company that cuts, its shareholders will flow into competitors and be very, very hesitant to ever come back.”
-
-Shell, Chevron Corp., and Total may also choose to save money for dividends by reducing their share-buyback programs, which are typically seen by investors as more discretionary than the quarterly cash payouts.
-
-GS research said “In past oil downturns, Big Oil on aggregate did not respond to challenging macro conditions through material dividend cuts,” 
-
---update blogpost
-Self-education on stock picking is more valuable than fund-picking
-
-
---new: in mid March 2020, I visited swimming pool and couldn't help comparing with my last bachelor phase around age 31, when I developed weekly swimming routine.
-At that time I didn't know any way to earn more than 5k
-I didn't know my killer talent at theoretical QQ topics like low-level, math, concurrency principles
-I didn't have a dev-till-40 plan (let alone 70) or the associated security in family livelihood.
-i didn't have the nonwork income sources
-I didn't have UChicago brand
