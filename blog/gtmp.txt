@@ -3,7 +3,7 @@ unexpected success with home wifi set-up
 * tip: cable point need at least 2 power sockets to support 4 to 6 devices -- modem, router, powerline networking, phone
 * tip: place the devices high up, to free up table space. Most devices (except phone) should be shileded from access
 ** to achieve this, I chose wall-mounting rack
-* minor tip: place wifi router in the open living room. If not possible, consider powerline networking
+* minor tip: place wifi router in the open living room. Best practice is ceiling-mount. If not possible, consider powerline networking.
 * tip: install power sockets higher up throughout the house
 
 --due to PSLE, compulsory WFH
