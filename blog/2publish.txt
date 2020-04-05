@@ -20,3 +20,8 @@ Warning -- timeout is short and unforgiving
 Reset button -- Power On then hold Reset button for 10 seconds.
 
 Factory default password: cajne57275 on SSID dlink-45C*
+
+--new: naming home SSID
+If your SSID has the same signal strength as 5 other, then sorting by name.
+
+Therefore, my SSID names start with "0" and end in "2" or "5" for the 5Ghz
