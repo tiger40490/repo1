@@ -1,3 +1,10 @@
+--update blogpost on paper tigers
+I feel c++ QQ common topics outnumber java by 100%
+TMP
+make_shared
+forward()
+fwd declaration
+
 --new: ipad2
 too old to install whatsapp
 builtin speaker: s$45 replacement
