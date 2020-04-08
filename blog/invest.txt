@@ -1,3 +1,10 @@
+--new: covid19 $handout: family burn rate #bare-bones
+covid19 rescue budgets by the rich nations often feature a one-time cash handout up to $3k/family.
+
+This figure suggests a bare-bones monthly family burn rate of $1k/family. 
+
+To the authorities, realistic median family burn rate is estimated at well below 5k/M. That median is an unknown quantity we have to estimate. Even a 3k/M burn rate estimate would render the handout amount as useless as a drop in a bucket.
+
 --update blogpost
 car ownership in old age -- (not based on data) feels like dangerous and high maintenance. Far less reliable than public transport in Singapore
 
@@ -6,25 +13,26 @@ U.S. healthcare is more expensive than Canada bit tax is lower.
 
 However, SG is superior in both tax rate (much lower) and healthcare cost (lower).
 
---high-div sectors: oil, telco, motor,
-I now feel big oil might be the biggest sector 
-
--- G3 criteria for small buys
+--new: stock: G3 criteria for small buys
 * 30D chart
 * div yield. Earning and div history are less important
 * analyst consensus
 The bigger the transaction amount, the more scrutiny
 
---In the spiriit of celebration (like NCID discharge or edusave award), the lavish spend is often miscalculated
+--new: family celebration can be lavish
+In the spirit of celebration (like NCID discharge or edusave award), our lavish spend is often miscalculated
 * dining at a known place is prudent
 * dining at a fancy new restaurant? High chance of overspend
 * simple toys are good
 * fancy toys? often overspend
 
---new: HDB lease buy-back scheme
+--fuxi: high-div sectors: oil, telco, motor,
+I now feel big oil might be the biggest sector 
+
+--fuxi: HDB lease buy-back scheme
 No hurry, but wife is interested
 
---new: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
+--fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
 Not completely irrational. There are rational reasons, perhaps subconscious.
 
 --update blogpost on MYS
