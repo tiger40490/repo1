@@ -1,3 +1,46 @@
+--to give more support to grandparents
+both are becoming my dependents. 
+arbitrage between him and gm. 
+
+identify the cycle of ineffective handling of challenges. 
+
+make time and create mental energy reserve by reducing the fixation on boy.
+
+.. to give gp more support
+physical presence a few times a day.
+bring him out for a walk
+talk about kids, and other common interests
+
+gp is more isolated, with very limited emotional support network than gm
+
+gm has more recreation including cooking and 
+
+.. to give gm more support
+i tend to give her the cold shoulder and make her feel rejected, hard. 
+
+When she hurts I also feel the pain.
+
+Walk away ... works better than a harsh cold shoulder.
+
+create some warm, soft conversations to offset the cold dialogs
+
+show appreciation for her cooking
+
+--new: mainstream solution is often grossly inferior
+earliest example: English vocabulary building as baptism by fire? My Singapore teachers/classmates suggested reading newspapers but actually dictionary-browsing proved far more efficient and effective
+
+early eg: personal note keeping? When I bought my first computer in 1998, mostly to keep personal notes, I found the mainstream solution of MSWord was far inferior to ascii files
+
+personal eg: to protect my c:\0 from my son's windows account, the mainstream solution of windows folder security was overcomplicated. See ...
+eg: U.S. medical insurance is overcomplicated compared to national healthcare systems in other countries. 
+eg: U.S. medical billing/coding is overcomplicated. In contrast the Singapore system is much simpler.
+eg: GUI programming? html + browser (before javascript) proved so much simpler than client-server
+
+eg: my very first paid programming job was rather mainstream -- Excel + ftp, but the nascent CGI proved far better documented, more reliable...
+
+eg: file system security?  Microsoft solution is overcomplicated compared to unix. I thought the Microsoft solution was mainstream
+eg: config files? Unix tradition uses individual text files per application, much simpler than windows registry. I thought the registry design was mainstream (see my blogpost on registry)
+
 --new: 
 unexpected success with home wifi set-up
 * tip: cable point need at least 2 power sockets to support 4 to 6 devices -- modem, router, powerline networking, phone
