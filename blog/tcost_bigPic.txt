@@ -15,6 +15,21 @@ v QQ + coding drill? Capture
 
 boy's math: more research, more coaching less telling
 
+
+--fuxi: during circuit breaker, family distraction is now a full-blown assault
+I feel frustrated and disappointed many times a day.
+
+* hardware breakdowns
+* questions on everything in the house
+* heated discussions on boy's PSLE. Real stress real strain. Real risk of affecting my work
+* health conditions 
+* frequent conflicts with grandma
+* degradation of wellness
+* degradation of concentration during work hours
+* i often feel the need to go home early. But I should capture the localSys mood
+
+I thought grandparents could reduce the distraction due to boy's studies, but I think this distractions is actually worsening. I probably have no one to blame but myself.
+
 --if I continue to negelect workout, coding drill, QQ,,, for too long, zsms would likely grow,
 
 even though I put in more hours into my projects
@@ -32,21 +47,6 @@ Consider JackZ and Raymond's situations. At my age and (my economic) level, what
 ? academic parenting? No. I prioritize motivation, bonding, coaching 
 ? learn div-stock as diversification for my rental properties
 ? learn time-saving devices and techniques including commute, blogging
-
---fuxi: after grandparents come over, family distraction is now a full-blown assault
-I feel frustrated and disappointed many times a day.
-
-* hardware breakdowns
-* questions on everything in the house
-* heated discussions on boy's PSLE. Real stress real strain. Real risk of affecting my work
-* health conditions 
-* frequent conflicts with grandma
-* degradation of wellness
-* degradation of concentration during work hours
-* i often feel the need to go home early. But I should capture the localSys mood
-
-I thought grandparents could reduce the distraction due to boy's studies, but I think this distractions is actually worsening. I probably have no one to blame but myself.
-
 
 --new: ## important not urgent: current G3
 c++ critical mass maintenance
