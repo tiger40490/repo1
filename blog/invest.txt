@@ -12,9 +12,6 @@ This figure suggests a bare-bones monthly family burn rate of $1k/family.
 
 To the authorities, realistic median family burn rate is estimated at well below 5k/M. That median is an unknown quantity we have to estimate. Even a 3k/M burn rate estimate would render the handout amount as useless as a drop in a bucket.
 
---update blogpost
-car ownership in old age -- (not based on data) feels like dangerous and high maintenance. Far less reliable than public transport in Singapore
-
 --new: med^tax rate: SG,US,, 
 U.S. healthcare is more expensive than Canada bit tax is lower.
 

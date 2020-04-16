@@ -1,3 +1,20 @@
+--new: ##self-care private hour usages
+* therapeutic blogging including some emails
+* jogging? yes self-care iff in stadium!
+
+Some self-care acts do not require private hour:
+* localSys including reviews
+* mini exercise? kind of self-care, albeit too short to feel "tough" enough; Doesn't need private hour
+* yoga? yes self-care iff in class, not in private
+* review tanbinvest blog? guilty, but can do during day time, in another room.
+* review jobjob blog? makes me feel doing something to strengthen myself
+
+--update blogpost
+car ownership in old age -- (not based on data) feels like dangerous and high maintenance. Far less reliable than public transport in Singapore
+
+--new word: self condemnation 
+stronger than guilt
+
 --update blogpost on paper tigers
 I feel c++ QQ common topics outnumber java by 100%
 TMP

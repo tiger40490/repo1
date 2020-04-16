@@ -1,9 +1,4 @@
---jolt: comparing to my c++us days, my roti is now very poor 
-.. but I managed to avoid the unthinkable situation of family separation during covid19
-.. but why care about roti?
-.. but those high roti levels may be short-lived and based on biased data collection
-
---fuxi: if I don't set a target for weekend roti, then by default my implicit target would be grossly unrealistic -> guilt, self-hate, self-despise, even depression
+--jolt: Don't aim to be there for them all the time. I need quiet time4selfcare
 
 --fuxi: 
 I used to consider my social engagements low efficiency -- missing both ingredients of "burn"
@@ -84,6 +79,11 @@ localsys? No
 stretch? Yes but no power surge in that space
 coach my son on wordy problems? No 
 coach my son on self-discipline and confidence? possibly
+
+--jolt: comparing to my c++us days, my roti is now very poor 
+.. but I managed to avoid the (unthinkably) dreadful situation of family separation during covid19
+.. but why care about roti?
+.. but those high roti levels may be short-lived and based on biased data collection
 
 --jolt: compared to Bayonne days, I still have some non-trivial spare time.
 I used to "burn" some of it on coding drill (2H/W), yoga(6H/W), workout etc
