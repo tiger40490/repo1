@@ -1,55 +1,9 @@
---new
-https://www.syfe.com/magazine/5-key-financial-areas-of-focus-that-singaporeans-in-their-40s-need-to-plan-for/ says
 
-To prevent /lifestyle creep/ and to give you the cashflow you need to invest towards your retirement goals, you need to set and commit to a budget. A popular rule-of-thumb would be to save or invest 20% of your income, leaving 50% for necessities and 30% for non-essential spending like shopping trips and dining out.
-
-"Lifestyle creep" is a useful short phrase, further explained in a related  article https://www.syfe.com/magazine/your-30s-are-the-best-time-to-build-wealth-these-5-things-will-get-you-there/
-
---new: covid19 $handout: family burn rate #bare-bones
-covid19 rescue budgets by the rich nations often feature a one-time cash handout up to $3k/family.
-
-This figure suggests a bare-bones monthly family burn rate of $1k/family. 
-
-To the authorities, realistic median family burn rate is estimated at well below 5k/M. That median is an unknown quantity we have to estimate. Even a 3k/M burn rate estimate would render the handout amount as useless as a drop in a bucket.
-
---new: med^tax rate: SG,US,, 
-U.S. healthcare is more expensive than Canada bit tax is lower.
-
-However, SG is superior in both tax rate (much lower) and healthcare cost (lower).
-
---new: stock: G3 criteria for small buys
+--fuxi: stock: G3 criteria for small buys
 * 30D chart
 * div yield. Earning and div history are less important
 * analyst consensus
 The bigger the transaction amount, the more scrutiny
 
---new: family celebration can be lavish
-In the spirit of celebration (like NCID discharge or edusave award), our lavish spend is often miscalculated
-* dining at a known place is prudent
-* dining at a fancy new restaurant? High chance of overspend
-* simple toys are good
-* fancy toys? often overspend
-
---fuxi: high-div sectors: oil, telco, motor,
-I now feel big oil might be the biggest sector 
-
---fuxi: HDB lease buy-back scheme
-No hurry, but wife is interested
-
 --fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
 Not completely irrational. There are rational reasons, perhaps subconscious.
-
---update blogpost on MYS
-It takes lots of time to try out retirement locations in MYS. 
-
-There's a growing likelihood that we would retire in SG. In such a scenarios, we would only explore MYS for economical (long) vacation (like 1-12M) so we would try it out right before we retire, not now.
-
---update softspot
-My favorite -- reliable current income on top of stable (ideally protected) NAV
-
-Shop units (offices, hotels..) are the first asset class to meet the above criteria. Now I feel dividend cashcow stocks are somewhat similar. To understand this asset class, we must compare it to those rockstar tech stocks.
-
-* dividend stocks are usually less glamourous partly because they don't show fast or windfall appreciation 
-* my favorite dividend stocks are usually household names, just as the rockstars. 
-* Unlike commercial properties, dividend stocks do fluctuate in valuation. This means buying at low price is more "possible" than in real estates
-* credit risk is higher with properties because dividend aristocrats are known to keep paying.
