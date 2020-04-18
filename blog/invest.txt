@@ -1,4 +1,4 @@
--- div stock #Ashish
+--update blogpost on buy-n-hold hero stock #Ashish
 Reliable div is more important than index-beating appreciation.
 
 Consistent div usually comes from a defensive stock
@@ -11,3 +11,12 @@ The bigger the transaction amount, the more scrutiny
 
 --fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
 Not completely irrational. There are rational reasons, perhaps subconscious.
+
+--new: cryptocurrency as a combo of gold+mastercard
+I feel this currency is like gold, with a limited supply, and chosen as a medium of excahnge
+
+The supply of a given currency is limited, artifically. Increasing demand would bid up the valuation, until another crypotocurrency (a new kid on the block) is born with a 100B initial circulation.
+
+Like gold, mastercard became a medium of exchange. 
+
+Each system enhancement on a given currency could increase its competitive chance of becoming the next mastercard. 
