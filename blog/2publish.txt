@@ -1,3 +1,16 @@
+--new: y I worry about circuit-breaker extension
+fear of productivity drop
+fear of losing my cool with kids
+fear of self-hate
+fear of sustained loss of self-care private hours
+fear of overall loss of control
+
+I tend to overlook the improvements in the situation of my family and of Singapore
+* improvement in MYS, the supply of Singapore's nutrition
+* reduction in new cases in the community
+* grandparents secured flight tickets
+* I found a sustainable jogging routine
+
 --to give more support to grandparents
 both are becoming my dependents. 
 arbitrage between him and gm. 
@@ -40,17 +53,7 @@ eg: my very first paid programming job was rather mainstream -- Excel + ftp, but
 
 eg: file system security?  Microsoft solution is overcomplicated compared to unix. I thought the Microsoft solution was mainstream
 eg: config files? Unix tradition uses individual text files per application, much simpler than windows registry. I thought the registry design was mainstream (see my blogpost on registry)
-
---new: very first March-weekend in review
-* [burn] 18 laps jogging. No yoga but i feel fine
-* [burn] tough math + science coaching with boy, against resistance, without losing my cool
-* [burn] localSys + projects on Friday in office
-* [burn] coding drill -- 2 questions for Ashish
-* java QQ
-* 2 outings with boy + basketball. more efficient than previoius trips. 3 - 6pm is the longest this time.
-
-Q: biggest achievement? coaching. Second biggest would be coding drill
-Q: most strategic achievement? coaching as bonding
+s bonding
 
 --new: unexpected success with home wifi set-up
 * tip: cable point need at least 2 power sockets to support 4 to 6 devices -- modem, router, powerline networking, phone
