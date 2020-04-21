@@ -1,3 +1,14 @@
+--update blogpost on clone()
+clone() is needed for immutable design, a hot topic for core java IV. 
+However, clone() is not well known or well quizzed
+
+clone() is far more obscure than c++ copy ctor
+
+ImmutableComposite can have field objects that are mutable types iFF they are clonable.
+
+--fuxi:
+Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropped very low.
+
 --new: JVM remote debugging is not so foolproof.
 GDB is not so foolproof. See my blogposts.
 
