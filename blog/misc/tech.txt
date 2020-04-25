@@ -1,3 +1,7 @@
+--new:
+relying on free commercial software service can be unsustainable -- wechat, whatsapp
+In contrast, gmail/yahoomail is reliable
+
 --update blogpost on clone()
 clone() is needed for immutable design, a hot topic for core java IV. 
 However, clone() is not well known or well quizzed
