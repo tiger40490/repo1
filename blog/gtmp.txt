@@ -1,6 +1,14 @@
+--starhub Two choices:
+AA) wait for expiry of current contract, then renew online to start a no-contract plan
+BB) accept the email offer and start new 1Y contract right away
+
+Between AA and BB plan quotas, no difference except 15^25 GB. I don't need this data so I would prefer the flexibility in AA.
+:) CND + weekend data -- same between the two choices
+
 --update blogpost on e-infra
 spares are proving essential
 * spare foldable table
+* spare power adapters
 * spare laptops
 * spare speakers
 * spare router
