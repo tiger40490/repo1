@@ -1,3 +1,9 @@
+--update blogpost on theoretical-min retirement burn rate
+when my family needs belt-tightening, I feel confident we can achieve it.
+* healthcare including bx -- we can rely on policlinics + TCM clinics
+* nutrition -- see blogpost on basic healthy food
+* enrichment -- would become a luxury to live without
+
 --new:covid19 inflation risk
 Most of my properties' valuations have a positive correlation with inflation. Like bond coupons, my GRR nonwork income would suffer from inflation, but long-term rental growth may speed up.
 
