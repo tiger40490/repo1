@@ -1,3 +1,13 @@
+--update blogpost on e-infra
+spares are proving essential
+* spare foldable table
+* spare power adapters
+* spare laptops
+* spare speakers
+* spare router
+* spare audio cables
+* spare printing paper
+
 --new: 30-min chunks WFH
 I need to break up my time into half-hour chunks. Aim at one productive chunk with 2 other chunks
 

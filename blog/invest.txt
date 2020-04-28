@@ -1,23 +1,23 @@
 --update blogpost on theoretical-min retirement burn rate
-when my family needs belt-tightening, I feel confident we can achieve it.
-* healthcare including bx -- we can rely on policlinics + TCM clinics
-* nutrition -- see blogpost on basic healthy food
-* enrichment -- would become a luxury to live without
+What's the lifetime risk that my family may fall on hard times and needs belt-tightening? Not zero. My parents experienced that. Some affulent families can't cope with such a change. My family is not well-to-do and I feel relatively confident we can cope.
+* healthcare including bx -- we can rely on policlinics + TCM clinics.
+* nutrition -- see blogpost on basic healthy 
+* kids' enrichment -- would become a luxury to live without
+
+--fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
+Not completely irrational. There are rational reasons, perhaps subconscious.
 
 --new:covid19 inflation risk
-Most of my properties' valuations have a positive correlation with inflation. Like bond coupons, my GRR nonwork income would suffer from inflation, but long-term rental growth may speed up.
+Most of my properties' valuations have a positive correlation with inflation. 
+
+Endowment policy holders among my friends would probably suffer from inflation. Likewise, my GRR nonwork income would hurt by inflation, but long-term rental growth may benefit.
 
 Dividend stocks would probably protect me from inflation risk.
-
-Endowment policy holders among my friends would probably suffer from inflation.
 
 --update blogpost on buy-n-hold hero stock #Ashish
 Reliable div is more important than index-beating appreciation.
 
 Consistent div usually comes from a defensive stock
-
---fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
-Not completely irrational. There are rational reasons, perhaps subconscious.
 
 --new: cryptocurrency as a combo of gold+mastercard
 I feel this currency is like gold, with a limited supply, and chosen as a medium of excahnge
