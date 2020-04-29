@@ -1,5 +1,8 @@
+--fuxi: find last reboot time of win10
+systeminfo|grep Boot # usable in my git-bash
+
 --new:
-relying on free commercial software service can be unsustainable -- wechat, whatsapp
+relying on free commercial software service can sometimes be unsustainable -- wechat, whatsapp
 In contrast, gmail/yahoomail is reliable
 
 --update blogpost on clone()
@@ -11,7 +14,7 @@ clone() is far more obscure than c++ copy ctor
 ImmutableComposite can have field objects that are mutable types iFF they are clonable.
 
 --fuxi:
-Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropped very low.
+Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropping very low.
 
 --new: JVM remote debugging is not so foolproof.
 GDB is not so foolproof. See my blogposts.
