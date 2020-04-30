@@ -1,3 +1,7 @@
+--new: json format
+Basic rule -- name:value pairs. The value can be array, jsonObj or primitives
+Basic rule -- array is enclosed in []; jsonObj is enclosed in {}
+
 --fuxi: find last reboot time of win10
 systeminfo|grep Boot # usable in my git-bash
 
