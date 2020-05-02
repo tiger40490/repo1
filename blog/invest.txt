@@ -1,3 +1,7 @@
+--new: income eq-funds: my take
+I feel most of the big fund houses probably avoid the high-yield, high-risk stocks such as U.S. REITs.
+
+I guess for them, 4% div is considered high. I assume the fund dividend payout comes strictly from stock dividend, not position liquidation. Therefore, a typical “high-income” equity fund can only pay 5% average. In reality it could swing between 3% and 7%
 --update blogpost on theoretical-min retirement burn rate
 What's the lifetime risk that my family may fall on hard times and needs belt-tightening? Not zero. My parents experienced that. Some affulent families can't cope with such a change. My family is not well-to-do and I feel relatively confident we can cope.
 * healthcare including bx -- we can rely on policlinics + TCM clinics.

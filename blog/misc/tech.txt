@@ -2,6 +2,8 @@
 Basic rule -- name:value pairs. The value can be array, jsonObj or primitives
 Basic rule -- array is enclosed in []; jsonObj is enclosed in {}
 
+--new: j4 returning char instead of void return
+If there are many exit points include catch clauses and nested loops, then void return can conceal coding errors where we return unintentionally.
 --fuxi: find last reboot time of win10
 systeminfo|grep Boot # usable in my git-bash
 
