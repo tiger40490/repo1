@@ -1,3 +1,7 @@
+--new:
+relying on free commercial software service can sometimes be unsustainable -- wechat, whatsapp
+In contrast, gmail/yahoomail is reliable
+
 --new
 "household" can mean single-person or family
 
