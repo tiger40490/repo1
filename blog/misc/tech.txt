@@ -1,14 +1,18 @@
 --new: json format/syntax
-Basic rule -- name:value pairs. The value can be array (horizontal), jsonObj (vertical) or primitives. As the ancestor, C language introduced array and struct
+Basic rule -- name:value pairs. Name is (always?) a primitive string. 
+Value can be array (horizontal), jsonObj (vertical) or primitives. As the ancestor of javascript, C language introduced array and struct.
 
-array is enclosed in []; jsonObj is enclosed in {}
+array of jsonObjects are enclosed in []; jsonObj is enclosed in {} and consist of name:value pairs
+
+Note array can only appear as a value in a name:value pair.
+
+A jsonObj can be a field of an enclosing jsonObj, or can be an array element. In both casee, it is the value of a name:value pair. 
 
 --new: j4 returning char instead of void return
 If there are many exit points including catch clauses, breaks from nested loops, and there are clean-up clauses at loop-ends, then void return is a loose design and /breed/ hidden coding errors -- returning unintentionally and erroneously.
 
 --fuxi: find last reboot time in win10
 systeminfo|grep Boot # usable in my git-bash
-
 
 --update blogpost on clone()
 clone() is needed for immutable design, a hot topic for core java IV. 
