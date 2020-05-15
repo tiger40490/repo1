@@ -3,7 +3,7 @@ Impact cache updates -- can use IP multicast?
 
 
 --new: j4 returning char instead of void return
-If there are many exit points including catch clauses, breaks from nested loops, and there are clean-up clauses at loop-ends, then void return is a loose design and /breed/ hidden coding errors -- returning unintentionally and erroneously.
+If there are many exit points including catch clauses, breaks from nested loops, and there are clean-up clauses at loop-ends, then void return is a loose design and /breed/ invisible coding errors like returning unintentionally.
 
 --fuxi: find last reboot time in win10
 systeminfo|grep Boot # usable in my git-bash
