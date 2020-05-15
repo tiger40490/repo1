@@ -1,15 +1,6 @@
 --
 Impact cache updates -- can use IP multicast?
 
---new: json format/syntax
-Basic rule -- name:value pairs. Name is (always?) a primitive string. 
-Value can be array (horizontal), jsonObj (vertical) or primitives. As the ancestor of javascript, C language introduced array and struct.
-
-array of jsonObjects are enclosed in []; jsonObj is enclosed in {} and consists of name:value pairs
-
-Note array can only appear as a value in a name:value pair.
-
-A jsonObj can be a field of an enclosing jsonObj, or can be an array element. In both casee, it is the value of a name:value pair. 
 
 --new: j4 returning char instead of void return
 If there are many exit points including catch clauses, breaks from nested loops, and there are clean-up clauses at loop-ends, then void return is a loose design and /breed/ hidden coding errors -- returning unintentionally and erroneously.
