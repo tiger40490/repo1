@@ -1,10 +1,6 @@
 --
 Impact cache updates -- can use IP multicast?
 
-
---new: j4 returning char instead of void return
-If there are many exit points including catch clauses, breaks from nested loops, and there are clean-up clauses at loop-ends, then void return is a loose design and /breed/ invisible coding errors like returning unintentionally.
-
 --fuxi: find last reboot time in win10
 systeminfo|grep Boot # usable in my git-bash
 
@@ -19,7 +15,7 @@ ImmutableComposite can have field objects that are mutable types iFF they are cl
 --fuxi:
 Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropping very low.
 
---new: JVM remote debugging is not so foolproof.
+--fuxi: JVM remote debugging is not so foolproof.
 GDB is not so foolproof. See my blogposts.
 
 We need to fully embrace the reality that live debugging is often impractical.
@@ -32,10 +28,6 @@ Range favors lower frequency. Bigger homes may need it.
 bandwidth favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. Microwave did hit me.
-
---new blogpost: q[start] to launch windows GUI apps
-start excel some/spreadsheet.xlsx
-start git difftool
 
 -- clone() is needed mostly in one context -- immutable composite class
 This topic is relevant in QQ IV.
