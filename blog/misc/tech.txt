@@ -1,3 +1,6 @@
+--
+Impact cache updates -- can use IP multicast
+
 --new: json format/syntax
 Basic rule -- name:value pairs. Name is (always?) a primitive string. 
 Value can be array (horizontal), jsonObj (vertical) or primitives. As the ancestor of javascript, C language introduced array and struct.
