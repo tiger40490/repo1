@@ -1,9 +1,6 @@
 --
 Impact cache updates -- can use IP multicast?
 
---fuxi: find last reboot time in win10
-systeminfo|grep Boot # usable in my git-bash
-
 --update blogpost on clone()
 clone() is needed for immutable design, a hot topic for core java IV. 
 However, clone() is not well known or well quizzed
