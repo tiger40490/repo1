@@ -1,3 +1,21 @@
+--new: create more effective singletons
+In numerous legacy java codebases I worked with, many important methods are non-static methods but their usage suggest they should have been designed as static methods.
+
+This complicates refactoring and testing. 
+
+Static methods can be used without (somehow) getting a handle on a host object. Note “getting” can be very complicated.
+
+Solution – create singletons (not strict as in the java sense) in those host classes.
+--new: 
+In the json loader project, when I refactored an overgrown method, I often extracted part of it into a “delegate” method or a helper method.
+
+This delegate method is invoked only from the original method. It can have the same method name, same signatures, sometimes in the same or another file.
+
+The identical name between both methods is a tell-tale sign of their relationship.
+
+If the original method thus becomes very simple, then we refer to it as a wrapper. 
+
+A more common extraction procedure creates a reusable routine that’s invoked from multiple places -- DRY
 --
 Impact cache updates -- can use IP multicast?
 
