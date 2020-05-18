@@ -1,4 +1,4 @@
---new: create more effective singletons
+--new: create more semi-singletons
 In numerous legacy java codebases I worked with, many important methods are non-static methods but their usage suggest they should have been designed as static methods.
 
 This complicates refactoring and testing. 
