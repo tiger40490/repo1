@@ -5,37 +5,10 @@ Find out FSM interest rate
 
 --fuxi: div yield on cost = DY over initial cost
 
---new: income eq-funds: my take
+--fuxi: income eq-funds: my take
 I feel most of the big fund houses probably avoid the high-yield, high-risk stocks such as U.S. REITs.
 
 I guess for them, 4% div is considered high. I assume the fund dividend payout comes strictly from stock dividend, not position liquidation. Therefore, a typical “high-income” equity fund can only pay 5% average. In reality it could swing between 3% and 7%
 
---update blogpost on theoretical-min retirement burn rate
-What's the lifetime risk that my family may fall on hard times and needs belt-tightening? Not zero. My parents experienced that. Some affulent families can't cope with such a change. My family is not well-to-do and I feel relatively confident we can cope.
-* healthcare including bx -- we can rely on policlinics + TCM clinics.
-* nutrition -- see blogpost on basic healthy 
-* kids' enrichment -- would become a luxury to live without
-
 --fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
 Not completely irrational. There are rational reasons, perhaps subconscious.
-
---new:covid19 inflation risk
-Most of my properties' valuations have a positive correlation with inflation. 
-
-Endowment policy holders among my friends would probably suffer from inflation. Likewise, my GRR nonwork income would hurt by inflation, but long-term rental growth may benefit.
-
-Dividend stocks would probably protect me from inflation risk.
-
---update blogpost on buy-n-hold hero stock #Ashish
-Reliable div is more important than index-beating appreciation.
-
-Consistent div usually comes from a defensive stock
-
---new: cryptocurrency as a combo of gold+mastercard
-I feel this currency is like gold, with a limited supply, and chosen as a medium of excahnge
-
-The supply of a given currency is limited, artifically. Increasing demand would bid up the valuation, until another crypotocurrency (a new kid on the block) is born with a 100B initial circulation.
-
-Like gold, mastercard became a medium of exchange. 
-
-Each system enhancement on a given currency could increase its competitive chance of becoming the next mastercard. 
