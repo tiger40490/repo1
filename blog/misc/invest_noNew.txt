@@ -1,3 +1,7 @@
+
+--fuxi: consider putting USD 60k to FSM to earn higher interest, but tcost a bit too high?
+Find out FSM interest rate
+
 --fuxi: div yield on cost = DY over initial cost
 
 --fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
