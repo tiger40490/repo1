@@ -1,83 +1,9 @@
---new: ##encouraging teachers of boy
-yoga teachers: Compared to the SG teachers, Bayonne teacher is more encourating on a weaker student
-
-math teachers: Christine is more encouraging on a weaker student
-
-piano teachers: The Filippino teacher is more encouraging on a weaker student
-
-I wonder if Ashish's attitude on workout fits into the picture.
-
---new: boy academics: ibt(stronger)those]China 
-clarify and reinforce my guesstimate -- his eng is better than 95% of China students; his science is probably better than 51% of China students; his math is better than some rural China students who lack adequate learning resources including parents and tutors
-
---new: keywords to keep in mind
-温和的坚持
-
-keep the cool
-
-keep the voice lower and slower -- sign of authority
-
-more patience (but firm)
-
-protect the bond, the self-esteem
---update blogpost on wbank:
+--new: high-flyer burn rate
 looking at Rahul, P.Mullins etc -- Capable professionals, but that level of minimum burn rate creates a permanent burden on their shoulders. 
 
 I think the value-investing seminar target audience also feel a similiar burden -- How the hell can I sustain my BASIC $2k/head family lifestyle if I don't want to work so hard for 30Y and then sustain the same lifestyle beyond retirement? Their problem is really the burn rate.
 
-Instead of 2k/head, Aaron of DBS said 10k/M nonwork income would be comfortable for financial freedom.
-
 In terms of burn rate, I'm blessed with a frugal wife, SG citizenship ..
-
--- update blogpost on conducive learning environment
-biggest item in my checklist for that environment is peer influence. 
-
-I feel north (or south) Edison might be pretty good. 
-
-Bayonne and JC feel all right.
-
---new:U.S.drug culture: G5 specific strategies
-(unranked)
-* choose strict schools. Pay the price.
-* Choose Chinese neighbourhood like Edison. Accept the long commute
-* join a class as an older student
-* protect the bond with kids, so they open up to me when needed.
-* wife stay home to keep an eye on him for a while.  During the formative years, mother has more influence than father. (If he needs constant monitoring, then consider SG.)
-* focus on what we can control; recognize and accept the things beyond our control.
-
-#1 Biggest strategy -- parachute. When needed, be decisive to relocate back to SG. 
-I would then have no doubt that I need to work in SG for several years, perhaps at lower salary.
-Accept that both kids could be delayed by a year or two, or consider international schools.
-Philosophically, Even though every decision has consequences, we are not permanently locked into the emmigration decisions. 
-
---new: luxury edu: unaffordable for lower middle class
-jolt
-t_ffreelimitation
-t_SDXQ
-
-In the U.S context, medical school is for the upper class. Similarly, top schools (in all countries), top colleges, private tuition, enrichment programs... can be considered as luxuries that lower middle class (like me) can't afford easily. 
-I would have to struggle, sacrifice, endure a lot to afford them.
-
-My barebones ffree is insufficient for this level of luxury.
-
-Before college phase, I think luxury education could be 70% of the total budget. This luxury alone can derail my carefree life.
-
-Similar experience -- the prospect of a 700k home (with property tax + mortgage) became a threat to my cashflow carefree /position/, until I devised the lease-spread idea/plan. 
-
---new: G3 damages@lockdown@%%life
-1) bonding with boy -- I had more frustrations, and more bursts of temper
-2) loss of quiet hours for reflective blogging and self care, but now I think I can go to MRT
-3) diet and BMI loss of control
-no family outing
-sleep -- my late hours often lead to poor sleep the next morning
-yoga
-standing desk usage 
-
-.. Some of the unexpected triumphs:
-More positive perception of wife's parenting practices
-jogging 
-repaired many things at home
-wrong-time temptation at home meal time
 
 --new: random list of "protections" close2%%heart
 See also https://1330152open.wordpress.com/wp-admin/post.php?post=15622&action=edit
@@ -103,22 +29,10 @@ harmony at home
 [c=cashflow stress or distress]
 [w=welness protections]
 
--- update blogpost on distraction
-Robinhood proved very distractive. It became substance addiction similar to the wrong-time temptation
-
---new: income eq-funds: my take
-I feel most of the big fund houses probably avoid the high-yield, high-risk stocks such as U.S. REITs.
-
-I guess for them, 4% div is considered high. I assume the fund dividend payout comes strictly from stock dividend, not position liquidation. Therefore, a typical “high-income” equity fund can only pay 5% average. In reality it could swing between 3% and 7%
-
---update blogpost on canada: 
-The names of many U.S. cities conjure up romatic images in my head, but to visit or retire there, main factor is 1) cost and 2) climate, 3) Chinese community
+--update Canada blogpost
+The names of many Canadian and U.S. cities conjure up romatic images in my head, but to visit or retire there, main factor is 1) cost and 2) climate, 3) Chinese community
 
 Therefore, I should consider Penang, Jiande only
-
---new: ice-cream: buy expensive popsicles
-Some ice cream popsicles are tiny and expensive. 
-When we buy this product (rather than the big tub), we are "persuaded" to eat less ice-cream each time, and more slowly. Without the popsicle packaging, I would probably eat 5 times in one sitting.
 
 --new: BMI L@ctrl: self-care^self-hate
 a big part of my cabin fever is diet loss@control, esp. the wrong-time temptation.
@@ -140,9 +54,3 @@ Perhaps the increased calorie intake (presumably due to starch and fat) is direc
 
 Perhaps what I need is intermittent fasting or warrior diet. Go without starch/fat for 16H everyday.
 
---new: live free of restrictions
-I can live with the restrictions of diet, burn rate... but not LiuShuo style self-restraint in office context.
-
-I feel the suffering is not worthwhile.
-
-I don't feel self-confident I can "improve" myself. 
