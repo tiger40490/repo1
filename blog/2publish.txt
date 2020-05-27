@@ -1,9 +1,3 @@
---new: out-of-control^poor : appetite
-Rare -- poor appetite leading to insufficient food intake is fairly serious.
-Pravalent -- Out-of-control appetite esp. the wrong-food (but also the wrong-time) prolblems often lead to overweight
-
-I'm lucky to enjoy a good-yet-under-control appetite.
-
 -- new: Jack Zhang on parenting
 高压 discipline ..
 
@@ -15,54 +9,18 @@ Accept some variations in individual personalities.
 
 Curiosity is a good thing in a kid.
 
---fuxi: JackZ on my family migration
+..JackZ on my family migration
 U.S. migration might be more risky for your kids then for you
 
 Make sure you still have enough time for your kids when you are working here.
 
 Parent's time is a key factor in Raymond's success story.
 
---new: 
 JackZ: If you feel your son is likely to become a manager type, then perhaps the wordy problem skills (abstract logical skills) are not really relevant in the long run. Self-confidence is arguably more important.
 
 Both Jack and grandpa foresee that my derogatory remarks could easily damage boy's confidence.  I use such harsh words to get his attention, but apparently the net effect is counterproductive. Jack suggested -- paste reminder on your computer, in your cockpit, on the mirror ... to remind yourself.
 
 Given the lack of interest in wordy problems, U.S. culture would probably emphasize encouragement not forced practice.
 
-
---new: accept boy+me as imperfect
-need to remind myself that I'm doing OK as a parent, not perfect but not so bad
-Accept myself and my kids with all our imperfections.
-
---new: U.S.schools below 8 vs SG average schools
-In U.S. I said schools rated 5 to 7 are fine for my son. 
-
-In terms of condusive environment, an average secondary school in SG is even better
-
-
---new: Am I driven2master localSys@@ 
-I think a dose (not fixation) of negative motivation is needed, including fear.
-
-I think I wasn't at mvea. At RTS I lost the steam after a while. 
-
-What's my vague definition of "master"? Perhaps I did master the pspc module of mvea?
-
-I would say yes at catcha, empworld, zed, Strategem, RTS. Perhaps yes at Chartered, 
-
---new: Raymond on parent`hours spent #Malay
-I asked Raymond why Malay students seldom out-perform.
-Raymond is confident that IQ is not one of the factors.
-
-He said a key factor is that Malay parents have too many kids and too little spare time outside work (often 1.5 to two jobs). Raymond contrasted the hours he spends with his boys.
-
-Jack He also said affluent families often have full time mom taking care of kids.
-
---new: high-flyer burn rate
-looking at Rahul, P.Mullins etc -- Capable professionals, but that level of minimum burn rate creates a permanent burden on their shoulders. 
-
-I think the value-investing seminar target audience also feel a similiar burden -- How the hell can I sustain my BASIC $2k/head family lifestyle if I don't want to work so hard for 30Y and then sustain the same lifestyle beyond retirement? Their problem is really the burn rate.
-
-In terms of burn rate, I'm blessed with a frugal wife, SG citizenship ..
-
---new: U.S.edu=more encouraging less competitive
-U.S. edu (and parenting) culture -- more encouragement, more confidence building, less "rule-abiding" as I experienced first-hand in Singapore system.
+--new: parenting: blogging=most therapeutic
+therapeutic blogging takes lots of time, but is more effective than counselling on parenting, wordy problem face time,,,
