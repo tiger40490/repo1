@@ -1,6 +1,3 @@
---update blogpost on var names
-incum -- incumbent
-
 --update blogposts on hib: immigration plan change
 I had three j4hibernation -- 1) grandparent reunion 2) longer preschool career 3) Chinese4girl
 
