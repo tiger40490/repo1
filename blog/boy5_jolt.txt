@@ -1,4 +1,4 @@
---new untitled
+--new: US parent`culture!=weak
 jolt: my view of U.S. vs Chinese parenting culture/practices
 I tend to feel U.S. is weaker, ineffective and failing, but look at the output of these two cultures. Out of 10,000 white-collar families, the number of "successful" (beyond grades) adult children is not higher among the Chinese. In fact, as soon as we look beyond pre-U benchmarks, the picture would be very very different. 
 
@@ -13,12 +13,6 @@ Many parenting cliches suggest that parents have the authority to influence (yes
 
 Each time he has a valid argument, I really need to listen and respond to his argument without too much emotion and bias. Also I need to ackknowledge the limitations in my arguments. 
 
---jolt:
-when I criticize boy's unnecessary spend on fancy subway sandwich, I should remember my own "unnecessary" lunch-after-lunch.
-
-Note boy's sandwich is relatively healthy by his standard.
-
-I told a counselor that I would tell the 11 year old tanbin that "no one is perfect or powerful. Everyone of us is weak."
 
 --why i say his math is weaker than his Eng, Sci etc?
 Because his percentile in this class, but ...
