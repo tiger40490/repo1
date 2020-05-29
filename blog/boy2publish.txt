@@ -1,3 +1,14 @@
+--new: US parent`culture!=weak
+jolt: my view of U.S. vs Chinese parenting culture/practices
+I tend to feel U.S. is weaker, ineffective and failing, but look at the output of these two cultures. Out of 10,000 white-collar families, the number of "successful" (beyond grades) adult children is not higher among the Chinese. In fact, as soon as we look beyond pre-U benchmarks, the picture would be very very different. 
+
+--new: over-confidence to change ah-boy #Ashish
+Ashish told me about an Indian Australian girl he dated remotely. She is overweight, but Ashish was extremely confident he could make her work out really hard and lose weight. Similarly, I was confident that I could control my kids' screen addiction, diet, exercise etc. In reality, self-will is the dominant force. Coaching is conditional on the motivation of the student.
+
+Confidence is generally a good thing, but unrealistic, naive confidence is the seed of my deep pains. Confidence about how much influence you have over a family member is usually overconfidence. Overconfidence in parenting is common.
+
+Many parenting cliches suggest that parents have the authority to influence (yes) and POWER (no) to control (no) their young children's behavior, habits. Well, the only things that control children are prisons and mental institutions. (In contrast, schools and hopistal wards do not have control.)
+
 --new: CSY's BostonU kid
 jolt: 
 Shanyou's son had academic talents in high school but refused to study. He "only" managed to earn a half-scholarship to study comp science in Boston University.
@@ -5,6 +16,16 @@ Shanyou felt "what a waste -- he could get into ivy league".
 I'm feeling the same about my son. As I criticize CSY for his parenting attitude/perception, I have to admit that I am in the same trap -- 五十步笑百步.
 
 This is one of the elements of reality I have to accept.
+
+--new: am still fixated on benchmarks
+fuxi jolt: why i say his math is weaker than his Eng, Sci etc?
+Because his percentile in this class, but ...
+.. but his low score is often due to attention to details
+.. but wordy problems are hard for everyone
+.. but his "higher" classmates might be using rote techniques, with poor clarity of thinking
+
+Because I'm comparing his clarity of thinking to ME in wordy problems vs science etc !
+.. but i should mostly compare him to his contemporary
 
 --e-games: not all equal
 Not all games are created equal, equally addictive, ,,
@@ -58,6 +79,31 @@ camp-out
 
 Are they more strategic? I doubt it
 
+--new jolt: I would speak uplifting langauge if he is weak
+If my kid is genuinly weak in wordy problems, and lacks self-confidence, I would create uplifting words to build up his confidence.
+
+Right now, Am doing the opposite -- He is improving but am using harsh words to cut him in half. I do it due to his attitude/motivation. 
+
+Sherleen, grandpa and wife (over many months) all pointed out that my words (I would add "perception") on dabao's math standard are too negative. I am at my worst when talking about pattern recognition in wordy problems. Grandma sometimes echos my negativity. I use these words well before I lose my cool.
+
+Perhaps grandma's attitude/perception is not a role model, but a negative example of anger management.
+
+However, It is unfair to put 100% of the blame on grandma. I'm (at least 90%) responsible for my own action.
+
+Grandpa issued the gravest warning -- my words would decimate dabao's self-esteem, confidence.
+
+Sherleen said "uplifting" after she noticed dabao's lack of self-esteem. Now I think that for some individuals, affirmative words are a key language of love. I should read the book (online) to understand this one languge of love.
+
+--new: don't-care: inefficient study->no time to play
+dabao is not bothered with the fact that he has close to no time for play because he spends all his time on homework and tuition
+I feel he has little desire to get more free time. 
+
+i feel the pain of heavy homework+tuition is not an unberable pain to him.
+
+I feel he doesn't really know what he wants to do with his spare time or how to convert spare time to enjoyment, so he doesn't bother to create spare time.
+
+Playtime is frequently ineffective as a motivator to him. An aimless boy?
+
 --new jolt: my huge t-spend with boy in q3sg was not so stupid.
 It was an experiment comparable to my msfm, my c++, my c#, my overseas investment...
 
@@ -82,7 +128,7 @@ Curiosity is a good thing in a kid.
 ..JackZ on my family migration
 U.S. migration might be more risky for your kids then for you
 
-Make sure you still have enough time for your kids when you are working here.
+Make sure you still have enough time for your kids when you are working here. Short commute (like 95G) would be huge.
 
 Parent's time is a key factor in Raymond's success story.
 
