@@ -1,3 +1,7 @@
+--blog title: explanation mark as suffix
+when would we use this? 
+This is more visual than the t_jolt tags, but is not usable as a filter.
+
 --update blogposts on hib: immigration plan change
 I had three j4hibernation -- 1) grandparent reunion 2) longer preschool career 3) Chinese4girl
 
