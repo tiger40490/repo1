@@ -1,3 +1,12 @@
+--fuxi: does he ever find the "checklist" useful against careless mistakes?
+If not, he won't use it in exam.
+
+If he doesn't care enough about losing the marks, then he won't bother with the checklist.
+
+Before his next math sheet, ask him "What common mistakes do you tend to make?" Ask him to write it on a sticker. Then after he finishes the sheet, ask him to check each question.
+
+The process of conceiving the checklist and using it is conscious and active learning.
+
 --fuxi: threading is a core IV topic in java, but remain a "superstructure" topic in c++, in the form of c++11 thread and pthreads.
 
 I think java threading is simpler and accessible to regular app developers whereas c++ threading remains part of the vast array of advanced topics.
