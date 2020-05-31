@@ -1,3 +1,7 @@
+--drawback of git blogging (cf web blogging) at this time -- multiple devices. Merge conflict.
+
+--consider downsizing my starhub mobile plan. Get used to a limited plan.
+
 --new: ##good parents: wife+me
 * both kids are healthy
 * screen time is limited
