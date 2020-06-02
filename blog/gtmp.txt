@@ -1,3 +1,20 @@
+--the acer156
+let's use it as much as possible, for wfh and for wife, but too much kids play can accelerate wear and tear.
+
+J4 SGD950, the highest price paid since the linux laptop (Prestigio)?
+* big touch screen for wfh
+* brand new, with new battery
+* light weight
+
+set-up required
+* wifi
+* chrome, opera
+* notepad++
+* 7zip
+* Chinese input
+* fingerprint for quick login
+* LGpp: git, py
+
 --drawback of git blogging (cf web blogging) at this time -- multiple devices. Merge conflict.
 
 --new: ##good parents: wife+me
