@@ -11,6 +11,11 @@ c++ set.insert also rejects. However Multiset would not reject.
 c++ map insert is consistent with set
 c++ map operator[] Replaces, similar to java, but more complicated under the surface.
 
+--new: retrieve from a Set the item equivalent to me
+Not sure how important this technique is. 
+
+I feel a map is a better choice for such a requirement.
+
 --new: create more semi-singletons
 In numerous legacy java codebases I worked with, many important methods are non-static methods but their usage suggest they should have been designed as static methods.
 
