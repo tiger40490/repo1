@@ -1,24 +1,3 @@
---new: dismissive of positive parenting
-I tend to dismiss the positive style -- encouraging, bonding, 
-
-I tend to subscribe to the narratives of the other style -- control (to the maximum extent), discipline, self-discipline, consequences, 
-
-Many of the above keywords are also important to the encouraging style. 
-
---new: need to show him that I'm proud of him
-* English better than most kids in China
-* Chinese better than most kids in U.S.
-* Science
-* mult verse
-* gadgets
-* maps
-* social skills
-* kind to meimei
-* piano
-* bicycle
-* height -- lucky my boy is not too skinny or short
-* can swim
-
 --new: wordy problems: what help needed
 I feel what he needs is not academic help, but a ton of encouragement and some control 温和的坚持. Consider my yoga experience.
 
@@ -43,24 +22,6 @@ The "perseverance" slogan is directly against my plan.
 
 The real obstacle is not brain power, but will power, or (intrisic or extrinsic) motivation.
 
---new: comparing math standard SG^US^CN
-jolt: his math skills overall, if benchmarked in U.S., might be an A-.
-
-His wordy problem performance might be B+.
-
-His SG classmates' math standard, if benchmarked in China, might be a B, because I know from experience that China's math standard is higher.
-
-China students would look down on these SG counterparts because "their tough problems are so easy for us. They are just hopeless."
-
---new : SG wordy problem has a negative effect 
-jolt:
-the wordy problems in Singapore math classes have a negative effect, if not an overall negative aspect in the Singapore education system.
-It has a negative effect on my wife and me.
-If we are in the U.S. the math training may be too simple but no such unnecessary anxiety.
-I try to be rational about these wordy problems but I find myself trapped. 
-
-Since c++US days, I have told myself to avoid this part of the exam. 
-
 --new: Good questions@math coaching sessions
 jolt: 
 Q: in my recent wordy problem face time, is boy making an effort 
@@ -80,7 +41,7 @@ Khan academy?
 
 ROTI? May not be effective.
 
---new: train kids2b self-dependent
+--new: train kids2b self-dependent@@
 I have heard the conventional and expert advice for years -- make school-age children self-dependent.
 Now I think it may fail miserably for a few percent of the kids. My son could be one of them. 
 
