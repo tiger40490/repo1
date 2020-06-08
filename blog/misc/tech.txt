@@ -60,11 +60,6 @@ $ start excel assets\{git.xls
 
 --fuxi: hasSameContent(dict1, dict2): return dict1 == dict2 
 
---new : linkedHashSet as dynamic sorted collection with O(1) remove/lookup, but insert is O(logN)
-Not available in other languages.
-
-one-time sort in a temporary array, then one-time build the linkedHashSet. Additional insert is O(logN). Additional lookup/remove is O(1)
-
 --why can't we take the address of a c++ reference variable? 
 A pointer is conceptually a runtime object, occupying run time memory, with an address.
 
