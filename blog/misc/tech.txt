@@ -1,17 +1,3 @@
-
---new: retrieve from a Set the item equivalent to me
-Not sure how important this technique is. 
-
-I feel a map is a better choice for such a requirement.
-
---new: create more semi-singletons
-In numerous legacy java codebases I worked with, many important methods are non-static methods but their usage suggest they should have been designed as static methods.
-
-This complicates refactoring and testing. 
-
-Static methods can be used without (somehow) getting a handle on a host object. Note “getting” can be very complicated.
-
-Solution – create singletons (not strict as in the java sense) in those host classes.
 --new: 
 In the json loader project, when I refactored an overgrown method, I often extracted part of it into a “delegate” method or a helper method.
 
