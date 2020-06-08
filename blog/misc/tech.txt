@@ -1,12 +1,4 @@
 
---new: duplicate handling in set^map: java and c++
-java map.put Replaces (and returns previos mapped value)
-java set.add Rejects (and returns false. True would mean added-witout-conlfict )
-
-c++ set.insert also rejects. However Multiset would not reject.
-c++ map insert is consistent with set
-c++ map operator[] Replaces, similar to java, but more complicated under the surface.
-
 --new: retrieve from a Set the item equivalent to me
 Not sure how important this technique is. 
 

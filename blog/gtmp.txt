@@ -1,3 +1,9 @@
+--listen^hear
+
+"am listening without hearing anything" In this sentence, hearing is the (successful) result whereas listening is the (possibly passive) effort
+
+"You said you hear us, but are you listening?" In this sentence, hearing is passive receiving info whereas listening is active effort.
+
 --The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) bothers me more than other people
 
 The only solution I found so far is landGrab. I felt silly to spend hours setting up the tools to support landGrab. zsms! The zsms is annoying to say the least.
