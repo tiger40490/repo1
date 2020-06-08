@@ -1,7 +1,3 @@
---.bashrc
-qcfg # to read the file
-qcfg- # to load the file, if applicable
-qcfg+ # to edit the file
 
 --new: duplicate handling in set^map: java and c++
 java map.put Replaces (and returns previos mapped value)
@@ -153,3 +149,8 @@ I think Ashish's test shows it
 However, such a field creates an opportunity for mv-ctor. The referent object is usually on heap on in static memory
 
 class-type fields like a field of Integer type is always initialized via the ctor. Remember the BCCD sequence.
+
+--fuxi: .bashrc 
+qcfg # to display or dump the file
+qcfg- # to load the file, if applicable
+qcfg+ # to edit the file
