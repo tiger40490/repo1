@@ -1,4 +1,20 @@
+--
+indifference is similar to apathy
+indifferent is similiar to apathetic
+
 --listen^hear
 "am listening without hearing anything" In this sentence, hearing is the (successful) result whereas listening is the (possibly passive) effort
 
 "You said you hear us, but are you listening?" In this sentence, hearing is passive receiving info whereas listening is active effort.
+
+--new: biggest c++ coding projects
+In 2015 I played with the idea of apply for a $5k salary DBS job just to get big-project c++ dev experience.
+
+The idea of "big" depends on the skill you want to demonstrate or learn.
+
+If you mean build tool for large codebase then MS is largest, followed by Macq MTS. 
+
+If you mean actual source code size that demonstrates data structures, algorithms, BestPractice, then my NYSE integrated feed parser is largest 
+followed by my weekend coding interview projects.
+
+It's worthwhile to review those projects
