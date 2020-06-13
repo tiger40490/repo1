@@ -3,18 +3,18 @@ indifference is similar to apathy
 indifferent is similiar to apathetic
 
 --listen^hear
-"am listening without hearing anything" In this sentence, hearing is the (successful) result whereas listening is the (possibly passive) effort
+"Am listening without hearing anything" -- In this sentence, hearing is the (successful) result whereas listening is the (possibly passive) effort
 
-"You said you hear us, but are you listening?" In this sentence, hearing is passive receiving info whereas listening is active effort.
+"You said you hear us, but are you listening?" In this sentence during the George Froyd event, hearing is passive act of receiving info whereas listening is active effort.
 
---new: biggest c++ coding projects
-In 2015 I played with the idea of apply for a $5k salary DBS job just to get big-project c++ dev experience.
+--new: biggest c++ coding projects #$5k DBS
+In 2015 I toyed with the outlandish idea of applying for a $5k/M DBS job just to get a hardcore big-project c++ dev experience.
 
-The idea of "big" depends on the skill you want to demonstrate or learn.
+The criteria for "big" depends on the skill you want to demonstrate or learn.
 
-If you mean build tool for large codebase then MS is largest, followed by Macq MTS. 
+* If you mean build tool for large codebase then MS is largest, followed by Macq MTS and Macq quant. 
 
-If you mean actual source code size that demonstrates data structures, algorithms, BestPractice, then my NYSE integrated feed parser is largest 
-followed by my weekend coding interview projects.
+* If you mean actual substantial source code size that demonstrates large team BestPractices, data structures, threading,,, then my NYSE integrated feed parser is largest 
+followed by my weekend coding interview projects. Mvea is next biggest.
 
-It's worthwhile to review those projects
+It's worthwhile to review those weekend projects, mostly hosted in cppProj
