@@ -1,11 +1,12 @@
---new: wordpress on mobile
+--new: wordpress on smartphone
 the app is not worth installing
 
 The web page looks barely usable on mobile phone.
-
 Need to set 10 posts per page
-
 Search box is at bottom
+
+--set permitted usage for boy's Rob account
+
 --fuxi: the space below window /sill/
 is a source of pain as I couldn't find productive use
 
