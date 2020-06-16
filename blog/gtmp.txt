@@ -1,9 +1,3 @@
---new: wordpress on smartphone
-the app is not worth installing
-
-The web page looks barely usable on mobile phone.
-Need to set 10 posts per page
-Search box is at bottom
 
 --new jolt: fixation@brankd^topSchool
 I have a fixation on brank precisely because I can't achieve it.
