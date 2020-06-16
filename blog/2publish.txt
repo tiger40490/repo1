@@ -14,10 +14,10 @@ Unexpectedly, Blogging has given me a much-needed sense of empowerent, control a
 For anger mgmt at face time, therapeutic blogging really helps.
 
 --new: wordpress on smartphone
-the app is not worth installing
+the mobile app is not worth installing
 
-The web page looks barely usable on mobile phone.
-Need to set 10 posts per page
+On the mobile browser, the web pages look barely usable:
+Consider showing 20 posts per page
 Search box is at bottom
 
 --
@@ -29,14 +29,14 @@ indifferent is similiar to apathetic
 
 "You said you hear us, but are you listening?" In this sentence during the George Froyd event, hearing is passive act of receiving info whereas listening is active effort.
 
---new: biggest c++ coding projects #$5k DBS
+--new: biggest c++dev projects #$5k DBS
 In 2015 I toyed with the outlandish idea of applying for a $5k/M DBS job just to get a hardcore big-project c++ dev experience.
 
-The criteria for "big" depends on the skill you want to demonstrate or learn.
+The criteria for "big" depends on the specific skills you want to demonstrate or learn.
 
-* If you mean build tool for large codebase then MS is largest, followed by Macq MTS and Macq quant. 
+* If you mean navigation, tracing, build, enhancement, large team BestPractices,,, in a large codebase, then MS is largest, followed by Macq MTS and Macq quant. 
 
-* If you mean actual substantial source code size that demonstrates large team BestPractices, data structures, threading,,, then my NYSE integrated feed parser is largest 
+* If you mean substantial source code size that demonstrates data structures, threading,,, then my NYSE integrated feed parser is largest 
 followed by my weekend coding interview projects. Mvea is next biggest.
 
 It's worthwhile to review those weekend projects, mostly hosted in cppProj
