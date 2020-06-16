@@ -1,12 +1,5 @@
---new: xp staying on after PIP, with dignity
-GS: informal, unofficial PIP. After it, I stayed for close to a year.
 
-Stirt: I overcame the setback at end of 2014 and scored Meet/Meet but without a bonus. 
-
-Now I think it is possible to stay on with dignity and pride.
-I hope at my age now, I grow older and wiser, less sensitive less vulnerable, more mellow more robust, or even more resilient
-
---
+--fuxi:
 my single-process design proposal
 * am proud of my suggestion. I have technical knowledge to know it is not worthless, even if everyone else thinks it not ideal.
 * am proud of my initiative.
@@ -14,22 +7,15 @@ my single-process design proposal
 
 Even if no one says anything positive about it, it's still a worthwhile lesson
 
---new jolt: VP^contractor: lower stress]U.S.
-After hibernation, for the first few years in the U.S. quite possibly my stress level (and wife's) would grow.
-
-Would a contract job or a VP job give me stress relief? Clearly, contract job feels lighter, despite the lower salary and lower job security.
-
-Boss personality is the biggest wildcard, but I would say job nature (esp. expectation) is crucial. VPs are benchmarked and ranked. As contractor, I think renewal based on budget is the main appraisal.
-
 --fuxi: old-timers and attachment
 My contractor mentality shows a healthy dose of detachment
 
---fuxi: 
-For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen advantages in tech IV.
+--new untitled
+For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
 
 speed coding is less of "my game"
 
-Programming is all about details.
+Performance (including bigO) is all about details.
 
 --fuxi:
 my daily sense of "good work" depends mostly on 
