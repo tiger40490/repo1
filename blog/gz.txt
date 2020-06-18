@@ -6,8 +6,10 @@ my single-process design proposal
 
 Even if no one says anything positive about it, it's still a worthwhile lesson
 
---fuxi: old-timers and attachment
+--new: mgr role risk: attachment # all old-timers
 My contractor mentality shows a healthy dose of detachment
+
+The manager types tend to have attachment.
 
 --new untitled
 For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
