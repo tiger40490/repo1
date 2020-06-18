@@ -1,4 +1,3 @@
-
 --fuxi:
 my single-process design proposal
 * am proud of my suggestion. I have technical knowledge to know it is not worthless, even if everyone else thinks it not ideal.
