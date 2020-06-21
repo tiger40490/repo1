@@ -2,14 +2,17 @@
 --new untitled
 For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
 
-speed coding is less of "my game"
+Performance (including bigO, but excluding field turning) is all about details.
 
-Performance (including bigO) is all about details.
+In contrast, speed coding is less of "my game". It is like a sprint race for a footballer.
 
---fuxi:
+--new untitled
+Daily sense@goodWork
 my daily sense of "good work" depends mostly on 
-AA) visible output
+AA) visible output, visible to boss and other people
 BB) my own sacrifice, sometimes invisible. Factors inlucde the amount of hours I spend in office
+
+AA is dominant.
 
 Without BB, sometimes I feel a bit guilty, but usually I feel proud of myself.
 
