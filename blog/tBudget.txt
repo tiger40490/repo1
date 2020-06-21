@@ -1,8 +1,10 @@
---leisure reading ^ blog review
-Tech reading is different...
-leisure reading, though fresh input, is less ROTI than blog review.
+--new: leisure reading ^ blog review
+jolt
+leisure reading, though fresh content, is less ROTI than blog review.
 
-Therefore, I 
+Therefore, I now allocate close to zero hour each week to leisure reading.
+
+( Tech reading is not same as leisure reading.)
 
 --new spare time: now^c++US
 jolt: compared to c++US days, I still have some non-trivial spare time.
