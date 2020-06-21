@@ -1,4 +1,22 @@
---more time with grandparents, in the last few weeks
+--leisure reading ^ blog review
+Tech reading is different...
+leisure reading, though fresh input, is less ROTI than blog review.
+
+Therefore, I 
+
+--new spare time: now^c++US
+jolt: compared to c++US days, I still have some non-trivial spare time.
+I used to "burn" some of it on coding drill (2H/W), yoga(6H/W), workout etc
+
+Now the 'burn' is (higher or lower) -- spent on parenting, household chores, (mini) workout, localSys, 
+
+Managing the various enrichment programs -- is partly parenting, partly household duty
+
+gadget management -- about 3 hours a week.
+
+family outing -- is huge tcost. The time I could utilize for blogging or learning is very little. There's also the wrong-time temptation.
+
+No wonder I have so little time left for tech xx. This analysis is valuable as it addresses the guilt, self-hate, sense of stagnation, lack of progress.
 
 --fuxi: current guilty t-spends:
 * read about covid19
@@ -54,11 +72,6 @@ coach my son on self-discipline and confidence? possibly
 .. but I managed to avoid the (unthinkably) dreadful situation of family separation during covid19
 .. but why care about roti?
 .. but those high roti levels may be short-lived and based on biased data collection
-
---jolt: compared to Bayonne days, I still have some non-trivial spare time.
-I used to "burn" some of it on coding drill (2H/W), yoga(6H/W), workout etc
-
-Now the 'burn' is (higher or lower) -- spent on parenting, (mini) workout, localSys
 
 --fuxi: when overloaded with commitments in investment, parenting,,,
 
