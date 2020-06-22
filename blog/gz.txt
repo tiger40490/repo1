@@ -1,3 +1,12 @@
+--update blogpost on semi-retirement jobs
+I wanted a semi-retirement job with reasonable salary, but low calibre, low workload, low pace. SXA said Oracle has some deparments (or job functions) like that but these jobs are unstable. 
+
+I said my experience at Citi gave me that impression. SXA said he has interactions with some backend Citi departments such as the online banking backend:
+* mission critical
+* many approvals and controls.. lengthy process.. therefore slow pace
+* low or no green-field element. Mostly maintenance.
+* complex legacy system
+* Some bachelors can spend many hours every day with the system
 
 --new untitled
 For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
