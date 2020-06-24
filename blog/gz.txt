@@ -1,12 +1,12 @@
---update blogpost on semi-retirement jobs
-I wanted a semi-retirement job with reasonable salary, but low calibre, low workload, low pace. SXA said Oracle has some deparments (or job functions) like that but these jobs are unstable. 
+--update blogpost on https://bintanvictor.wordpress.com/wp-admin/post.php?post=28830&action=edit
+I wanted a semi-retirement job with reasonable salary, but low calibre, low workload, low pace. (SXA said Oracle has some deparments (or job functions) like that but these jobs are unstable.)
 
-I said my experience at Citi gave me that impression. SXA said he has interactions with some backend Citi departments such as the online banking backend:
+I said my experience at Citi gave me that impression. SXA said he has interactions with some backend Citi departments such as but not only the online banking backend:
 * mission critical
 * many approvals and controls.. lengthy process.. therefore slow pace
 * low or no green-field element. Mostly maintenance.
 * complex legacy system
-* Some bachelors can spend many hours every day with the system
+* Some young bachelor guys can spend many hours every day with the system
 
 --new untitled
 For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
@@ -14,14 +14,4 @@ For all my career esp. after 35, my competitive strengths in theoretical + detai
 Performance (including bigO, but excluding field turning) is all about details.
 
 In contrast, speed coding is less of "my game". It is like a sprint race for a footballer.
-
---new untitled
-Daily sense@goodWork
-my daily sense of "good work" depends mostly on 
-AA) visible output, visible to boss and other people
-BB) my own sacrifice, sometimes invisible. Factors inlucde the amount of hours I spend in office
-
-AA is dominant.
-
-Without BB, sometimes I feel a bit guilty, but usually I feel proud of myself.
 
