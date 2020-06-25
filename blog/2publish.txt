@@ -8,6 +8,21 @@ For c++ to hold its ground in those simplistic, often numerical, speed tests,
 For java, 
 * any GC has some stop-the-world phase.
 
+--c++ref: Y we can't take its address
+A pointer is conceptually a runtime object, occupying runtime memory, with an address.
+
+A ref is strictly a compile-time symbol and never a runtime object, so it may have no address at runtime. I suspect compiler may replace it with the referent variable.
+
+Such a reference is like a syntactical sugar, mostly for func params. Then came rvr to challenge all of these notions.
+
+--new jolt: wellness to receive more attention....
+for a couple of years (2017-2019) I valued wellness higher relative to FOMO, benchmark exams, wealth ...
+Now in mid 2020, wellness is retreating to take a backseat. 
+
+How do I change my fundamental perception and belief to get wellness /restored to its rightful place/? I may need to consciously downplay the other preoccupations.
+
+Q: after a yoga/pull-up/diet/bmi improvemenet, how do I derive the same positive feeling (like pride) as derived from an investment success or job offer?
+
 --new gr8idea: take-up-for-fun: wordy problems
 My assumption -- he has lost the basic skills. Pushing him hard will be ineffective.
 

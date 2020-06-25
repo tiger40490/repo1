@@ -71,13 +71,6 @@ $ start excel assets\{git.xls
 
 --fuxi: hasSameContent(dict1, dict2): return dict1 == dict2 
 
---why can't we take the address of a c++ reference variable? 
-A pointer is conceptually a runtime object, occupying run time memory, with an address.
-
-A ref is strictly a symbol and never a runtime object, so it has no address at runtime. I suspect compiler replaces it with the referent variable.
-
-such a reference is like a syntactical sugar, mostly for func params. Then came rvr !
-
 --new or update:
 multi-threading as a skill is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
 
