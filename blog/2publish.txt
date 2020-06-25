@@ -1,3 +1,13 @@
+--new: c++ coping with x-lang benchmarks
+For c++ to hold its ground in those simplistic, often numerical, speed tests,
+* no new no malloc. Use stack and data segment
+* no STL no std::string no shared_ptr
+* optimize d-cache and i-cache
+* use compile-time programming
+
+For java, 
+* any GC has some stop-the-world phase.
+
 --new gr8idea: take-up-for-fun: wordy problems
 My assumption -- he has lost the basic skills. Pushing him hard will be ineffective.
 

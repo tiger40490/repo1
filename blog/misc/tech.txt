@@ -77,41 +77,25 @@ A pointer is conceptually a runtime object, occupying run time memory, with an a
 A ref is strictly a symbol and never a runtime object, so it has no address at runtime. I suspect compiler replaces it with the referent variable.
 
 such a reference is like a syntactical sugar, mostly for func params. Then came rvr !
---new:
-For c++ to hold its ground in those simplistic, often numerical, latency benchmarks
-* no new no malloc. Use stack and data segment
-* no STL no std::string no shared_ptr
-* optimize d-cache and i-cache
-* use compile-time programming
-
-For java, 
-* no GC
 
 --new or update:
-really low-latency apps should probably avoid lock-free... Strictly single-threaded mode (no shared mutable), strictly. 
-Lockfree programming assumes the presence of shared mutable. If no shared mutable, then these constructs would exert a unwanted performance penalty 
+multi-threading as a skill is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
+
+Low latency on a multi-core machine would probably use many threads in STM
+
+See Doug Lea for a broader perspective
 
 --fuxi: mlphone bb app settings
 in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
 
 --fuxi: cpu set seems to be a linux kernel feature, not just a container feature
 
---new: cpu affinity
-sched_setaffinity is a syscall probably close to the hardware. 
-all other *affinity* functions are based thereon
-
-*_np in function name means non-portable
-
-is there a cpu instruction for affinity?
-
-Need to read more. Similar to socket QQ -- Not deep, but even more academic than socket
-
 --new:
 is malloc a kernel service, syscall or a userland function offered in a regular library?
 
 Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
 
-Is there a cpu instruction for DAM? Does cpu care about heap vs stack?
+Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack?
 
 --fuxi: Martin's low-latency java talk
 java has no deallocation cost. C++ deallocation is worse than allocation. Deallocation may use locking if performed across threads.
@@ -127,14 +111,3 @@ A: heap allows sharing between threads
 Q: why is JIT not available to c++?
 %%A: c was not designed for JIT and ineffective 
 
---pointer as a field of a class is uninitialized by default
-I think Ashish's test shows it
-
-However, such a field creates an opportunity for mv-ctor. The referent object is usually on heap on in static memory
-
-class-type fields like a field of Integer type is always initialized via the ctor. Remember the BCCD sequence.
-
---fuxi: .bashrc 
-qcfg # to display or dump the file
-qcfg- # to load the file, if applicable
-qcfg+ # to edit the file

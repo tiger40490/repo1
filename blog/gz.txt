@@ -1,4 +1,4 @@
---new untitled
+--fuxi: untitled
 For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
 
 Performance (including bigO, but excluding field turning) is all about details.
