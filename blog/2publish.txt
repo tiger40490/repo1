@@ -9,7 +9,7 @@ For java,
 * any GC has some stop-the-world phase, so prevent all GC.
 
 --c++ref: Y we can't take its address
-A pointer is conceptually a runtime object, occupying runtime memory, with an address.
+A pointer is conceptually a runtime object, occupying runtime memory, with an address. (Actual implementation, by compiler, of the pointer could be different, but another can of worm for another day.)
 
 A ref is strictly a compile-time symbol and never a runtime object, so it may have no address at runtime. I suspect compiler may replace it with the referent variable.
 

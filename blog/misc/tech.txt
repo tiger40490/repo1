@@ -1,3 +1,9 @@
+--new untitled
+
+95G offer service used tibrv to send updates to GUI. Robust and fast
+
+Also there was one daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
+
 --new: price^value of various smartphones
 price of smartphone depends on
 * branding
