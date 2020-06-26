@@ -1,3 +1,8 @@
+--penalty for boy's aggressive behaviors (on meimei foot and mom's arm)
+Penalty 1: 2M handphone fast -- no handphone gaming from 27 Jun to end of prelim. Prison term capped at 2 months
+Penalty 2: 16D laptop fast -- no PC gaming for 16 days, to be split into 3 terms. Each temporary release from laptop prison will last one day.
+Penalty 3: $600 fine -- transfer to GP's account.
+
 --new: c++coping with x-lang benchmarks
 For c++ to hold its ground in those simplistic, numerical, high volume, speed tests,
 * no new no malloc. Use stack and data segment
