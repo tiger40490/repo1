@@ -1,12 +1,12 @@
---new: c++ coping with x-lang benchmarks
-For c++ to hold its ground in those simplistic, often numerical, speed tests,
+--new: c++coping with x-lang benchmarks
+For c++ to hold its ground in those simplistic, numerical, high volume, speed tests,
 * no new no malloc. Use stack and data segment
 * no STL no std::string no shared_ptr
 * optimize d-cache and i-cache
 * use compile-time programming
 
 For java, 
-* any GC has some stop-the-world phase.
+* any GC has some stop-the-world phase, so prevent all GC.
 
 --c++ref: Y we can't take its address
 A pointer is conceptually a runtime object, occupying runtime memory, with an address.
