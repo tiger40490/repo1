@@ -1,3 +1,8 @@
+--new: importance: refresh imt learnNew
+One key reason why I spend so much time on blog review compared to reading books -- memory weakening
+
+For the same reason, my ration of [ time on tech knowledge refresh / time on learning new ] is higher than my friends'. 
+
 --new
 t_stress
 See also stress-lite days
