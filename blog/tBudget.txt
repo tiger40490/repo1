@@ -1,5 +1,17 @@
+--new: t-allocation: no need2earn more..
+t_stress
+See also stress-light days
 
---new spare time: now^c++US
+some high flyers live under stress (including my style of constant study). 
+Other high fliers (My sister? Rahul?) work hard and play harder.. usually big spenders. 
+
+Nowadays I often feel I don't need to earn more so I want to increase the amount of (personal or family) time in peaceful leisure.
+
+How about leisure reading? Pleasure but /decadent/indulgent/. 
+How about social gathering, networking events? Not so enjoyable, and very time-consuming.
+exercise, QQ, reflective blogging ... are much better.
+
+--fuxi: spare time: now^c++US
 jolt: compared to c++US days, I still have some non-trivial spare time.
 I used to "burn" some of it on coding drill (2H/W), yoga(6H/W), workout etc
 
