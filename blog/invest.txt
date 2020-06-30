@@ -1,6 +1,6 @@
---
-For income/expenses comparison, should we use per-household or per person?
+--fuxi
+For income and expenses comparison, should we use per-household or per-person?
 
-Most economist, policy makers,,, prefer per-household. I think this is invalid if a household has "unusual" size. For a household size up to 5, I agree the per-household metric is better. 
+Most economist, policy makers,,, prefer per-household. For a household size up to 5, I agree the per-household metric is better. I think this yardstick is invalid if a special household has "unusual" size. 
 
-Level of provision is determined by household cashflow. Most of the "provisions" are shared within a household -- home/utilities, car, food, 
+Level of provision is determined by household cashflow. Most of the "provisions" are shared within a household -- home/utilities, car, food,
