@@ -7,13 +7,13 @@ important to deemphasize the big common items so they don't overshadow the small
 --add to some of the t_bless blogposts 
 Luckily my myopia has stablized over 30 years.
 
---update blogpost ..
+--update blogpost ... one of the bless blogposts
 my 3 recurring pains indicate that my current life is actually blessed
 
---penalty for boy's aggressive behaviors (on meimei foot and mom's arm)
+--penalty for boy's aggressive behaviors (meimei foot and mom's arm)
 Penalty 1: 2M handphone fast -- no handphone gaming from 27 Jun to end of prelim. Prison term capped at 2 months
 Penalty 2: 16D laptop fast -- no PC gaming for 16 days, to be split into 3 terms. Each temporary release from laptop prison will last one day.
-Penalty 3: $600 fine -- transfer to GP's account + $6 fine from roblox account
+Penalty 3: $600 fine -- transfer to GP's account
 
 --new: c++coping with x-lang benchmarks
 For c++ to hold its ground in those simplistic, numerical, high volume, speed tests,
@@ -26,6 +26,7 @@ For java,
 * any GC has some stop-the-world phase, so prevent all GC.
 
 --c++ref: Y we can't take its address
+t_clarify
 A pointer is conceptually a runtime object, occupying runtime memory, with an address. (Actual implementation, by compiler, of the pointer could be different, but another can of worm for another day.)
 
 A ref is strictly a compile-time symbol and never a runtime object, so it may have no address at runtime. I suspect compiler may replace it with the referent variable.
@@ -33,7 +34,7 @@ A ref is strictly a compile-time symbol and never a runtime object, so it may ha
 Such a reference is like a syntactical sugar, mostly for func params. Then came rvr to challenge all of these notions.
 
 --new jolt: wellness to receive more attention....
-for a couple of years (2017-2019) I valued wellness higher relative to FOMO, benchmark exams, wealth ...
+for a couple of years (2017-2019) I valued wellness higher relative to FOMO, benchmark exams, buffer ratio ...
 Now in mid 2020, wellness is retreating to take a backseat. 
 
 How do I change my fundamental perception and belief to get wellness /restored to its rightful place/? I may need to consciously downplay the other preoccupations.
