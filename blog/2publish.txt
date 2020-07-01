@@ -1,19 +1,8 @@
---update blogposts: SAVED, personalAdvantages, Shields, carefree, livelihood, ffree
-important to deemphasize the big common items so they don't overshadow the smaller, unique factors.
-* sgCitizenship
-* burn rate + nonwork income
-* wellness
-
 --add to some of the t_bless blogposts 
 Luckily my myopia has stablized over 30 years.
 
 --update blogpost ... one of the bless blogposts
 my 3 recurring pains indicate that my current life is actually blessed
-
---penalty for boy's aggressive behaviors (meimei foot and mom's arm)
-Penalty 1: 2M handphone fast -- no handphone gaming from 27 Jun to end of prelim. Prison term capped at 2 months
-Penalty 2: 16D laptop fast -- no PC gaming for 16 days, to be split into 3 terms. Each temporary release from laptop prison will last one day.
-Penalty 3: $600 fine -- transfer to GP's account
 
 --new: c++coping with x-lang benchmarks
 For c++ to hold its ground in those simplistic, numerical, high volume, speed tests,
