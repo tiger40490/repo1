@@ -1,7 +1,7 @@
 --new: importance: refresh imt learnNew
 One key reason why I spend so much time on blog review compared to reading books -- memory limitation
 
-For the same reason, my ratio of [ time on tech knowledge refresh / time on learning new ] is higher than my friends'. 
+For the same reason, my ratio of [ time on tech knowledge refresh / time on learning new ] is one of the highest among my peers
 
 --new jolt low-energy on work projects
 t_intro
