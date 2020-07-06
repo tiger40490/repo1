@@ -1,3 +1,6 @@
+--fuxi jolt: I blame meimei when I had to undo a few hours of installing of the latch, but
+most of those hours were learning. Next installation would be much faster.
+
 --new: importance: refresh imt learnNew
 One key reason why I spend so much time on blog review compared to reading books -- memory limitation
 
