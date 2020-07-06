@@ -1,3 +1,5 @@
+--fuxi doubling penalty might be too  severe
+
 --fuxi: boy said his #1 favorite food is chips, so let's research with him on calorie density (and also other nutritions) in this and other foods
 
 --fuxi: 
