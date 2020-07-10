@@ -1,3 +1,10 @@
+--new untitled
+in java, an Throwable can come from some invisible code, perhaps in the jvm.
+In c++ a catch is always for something explicitly thrown by a c++ code module.
+
+--new:
+jGC knowledge is medium-churn. The insight and halo you build loses value over 10 years.
+
 --udpate blogpost
 gmail : alt-shift-5 for strike-through
 
