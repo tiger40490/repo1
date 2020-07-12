@@ -1,3 +1,12 @@
+--add tag t_FOMO^livelihood to blogposts:
+fomo^pip^...
+slim^brank
+
+--new: carefree=plenty@t$
+Mostly care freedom depends on BRBR, but a second factor is a buffer of time
+
+Long commute eats into the buffer
+
 --new jolt low-energy on work projects
 t_intro
 I now feel low-energy (low-absorbency is a second descriptor) on work projects. However, at the same time I could feel high-absorbency on workout (or diet), QQ (or coding drill), parenting,,,
