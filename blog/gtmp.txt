@@ -13,8 +13,7 @@ These other absorbency domains are arguably more strategic, so the current situa
 
 Is it possible to have high-absorbency on all fronts? Unlikely. Therefore, recognize your priorities, embrace the imperfect self, and celebrate the improved-imperfection. Everyday is imperfect anyway.
 
-
---new: importance: refresh imt learnNew
+--fuxi: importance: refresh imt learnNew
 One key reason why I spend so much time on blog review compared to reading books -- memory limitation
 
 For the same reason, my ratio of [ time on tech knowledge refresh / time on learning new ] is one of the highest among my peers
