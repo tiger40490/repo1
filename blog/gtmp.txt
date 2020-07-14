@@ -1,11 +1,9 @@
---add tag t_FOMO^livelihood to blogposts:
-fomo^pip^...
-slim^brank
-
 --new: carefree=plenty@t$
-Mostly care freedom depends on BRBR, but a second factor is a buffer of time
+Mostly carefree depends on BRBR, but a second factor is a buffer of spare time
 
-Long commute eats into the buffer
+Long commute eats into this buffer.
+
+Noisy home also eats into this buffer because the most precious time is private time.
 
 --new jolt low-energy on work projects
 t_intro
@@ -15,7 +13,7 @@ These other absorbency domains are arguably more strategic, so the current situa
 
 Is it possible to have high-absorbency on all fronts? Unlikely. Therefore, recognize your priorities, embrace the imperfect self, and celebrate the improved-imperfection. Everyday is imperfect anyway.
 
--- consider buying a smartphone where I have full control on what apps I can uninstall. 
+--fuxi: consider buying a smartphone where I have full control on what apps I can uninstall. 
 youtube etc are harmful to my kids, to their habits, to their eyesight...
 
 The benefit of wechat, whatsapp etc need to be weighed against the harmful effects.
