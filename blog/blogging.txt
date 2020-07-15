@@ -1,13 +1,15 @@
 --fuxi: sometimes I feel the field is overcrowded in T_tectonic or T_defense. The number of blogposts are too numerous and I couldn't remember which is which.
 
-Now I feel most of the time each blogpost has a different angle, different perspective, sometimes with a powerfulDescriptor
+Now I feel in most cases each blogpost has a different angle, different perspective, sometimes with a powerfulDescriptor
+
+With a large number of blogposts, it Will always be hard to remember which is which
 
 --new
 My G3 1stAid targets all require cognitive theraupy
 1) PIP, damaged good
 2) FOLB, slow track
 
---blog for complex problem solving and decision making is different from therapeutic blogging
+--blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
 eg: U.S. housing
 eg: brain aging
 eg: retirement destination
