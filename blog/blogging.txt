@@ -1,3 +1,4 @@
+--fuxi: w1r3 means writeOnceReviewed3times
 --fuxi: sometimes I feel the field is overcrowded in T_tectonic or T_defense. The number of blogposts are too numerous and I couldn't remember which is which.
 
 Now I feel in most cases each blogpost has a different angle, different perspective, sometimes with a powerfulDescriptor
