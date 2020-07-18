@@ -1,12 +1,24 @@
---new jolt: family outing: extremely low roti,high tcost
+--fuxi: weekend roti target is important in my recent experience. 
 
+Q: Is it possible that on some weekends I don't notice the low roti? 
+A: Unlikely. The poor roti would become obvious and irratating.
+
+In contrast, my weekday roti can also become very low but i do put in more effort... never so indulgent 
+
+--new untitled
+what's in common between:
+* comparison-shopping for tiny savings
+* curiosity google searches
+* lots of time spent on FSM, robinhood with small trades
+
+All of these are pleasurable. All entail huge cumulative tcost
+
+--new jolt: family outing: extremely low roti,high tcost
 The Cigna counsellors advocate family outing for stress relief and family bonding. I agree, but I don't think it is the most efficient. It is legitimate pleasure for sure. (Can we reduce it to once in two weeks? Just give some excuse like weather, appointments...)
 
 In a way, people (average or high intelligence) save money exactly for pleasures such as this pleasure. I guess it's important to be aware of the tcost, although the awareness can create stress, guilt... 
 
-Analogy -- I think before we enjoy a fancy meal, we need at least some awareness of the high $cost and BMI cost. Life is mostly about pain, duty, effort, livelihood,,, and much less pleasure.
-
-family outing also entails high BMI cost.
+Analogy -- I think before we enjoy a fancy meal, we need at least some awareness of the high $cost and BMI cost. Life is mostly about pain, duty, effort, livelihood,,, and much less about pleasure (享受).
 
 --new: t-allocation: no need2earn more..
 t_stress
@@ -85,7 +97,7 @@ stretch? Yes but no power surge in that space
 coach my son on wordy problems? No 
 coach my son on self-discipline and confidence? possibly
 
---jolt: comparing to my c++us days, my roti is now very poor 
+--fuxi jolt: comparing to my c++us days, my roti is now very poor 
 .. but I managed to avoid the (unthinkably) dreadful situation of family separation during covid19
 .. but why care about roti?
 .. but those high roti levels may be short-lived and based on biased data collection
