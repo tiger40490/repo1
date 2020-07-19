@@ -1,6 +1,13 @@
 --fuxi:
 GTD_selfXX -- when is a good time? When do I have the absorbency?
 
+--new
+I have a bit of critical mass on socket IV.
+
+Those writing networking/socket programs outside C are on the sidelilne/peripheral. Those programming languages depend on the C API. C++ class/template libraries are in a similar situation. All of them are too high-level.
+
+Therefore, I believe my socket QQ interview questions are alien to these candidates.
+
 --new: untitled
 for many peers (LS, Sunil, CNA...), the main goal is higher income but for me dev-till-70 is more useful.
 
