@@ -5,3 +5,11 @@ laptops not in use can suffer oxidation
 
 --new: Trump@WHO: reduce blogg`under stress@@
 Bckground: Whenever I feel time spent on blogging is spiraling out of hand, instinctively I want to /curtail/ blogging, but Trump taught me a lesson -- Trump's decision to cut funding to the WHO during pandemic is similar to my cut.
+
+--new : per-household^capita cashflow ranking
+othRisk
+For meaningful income and expenses comparison, should we use per-household or per-capita?
+
+Most economists, policy makers,,, prefer per-household. For a household size up to 5, I agree the per-household metric is better. I think this yardstick is invalid if a special household has "unusual" size. 
+
+Level of (resource) provision is determined by per-household (not capita) cashflow. Most of the "provisions" are shared within a household -- home/utilities, car, food, vacations, parenting as a "benefit"

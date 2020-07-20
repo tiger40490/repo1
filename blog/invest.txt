@@ -4,10 +4,7 @@ ask wife again about 22k earning very low interest
 ask wife again about myCarePlus
 
 -- fuxi: do I prefer cash payment rather than card payment?
+cash
 
---fuxi
-For meaningful income and expenses comparison, should we use per-household or per-capita?
+card payment adds too much noise to expense tracking and search
 
-Most economist, policy makers,,, prefer per-household. For a household size up to 5, I agree the per-household metric is better. I think this yardstick is invalid if a special household has "unusual" size. 
-
-Level of (resource) provision is determined by household cashflow. Most of the "provisions" are shared within a household -- home/utilities, car, food, vacations, 
