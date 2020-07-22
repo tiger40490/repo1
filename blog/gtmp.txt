@@ -1,3 +1,5 @@
+-- allocate some 60 min (over a few days) going through my imp docs in safeboxes + drawers , to simplify and reduce
+
 --using password to refresh NRIC is not effective... ? Shall I put wife's nric into dbs?
 
 --fuxi: buy 1 get 1 free
