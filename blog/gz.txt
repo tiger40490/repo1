@@ -1,3 +1,16 @@
+--update blogpost on java=outlier
+tech fads in my experience
+C#, WPF
+perl
+stored proc
+mysql
+php
+apache, DNS
+
+Was I lucky? I was lucky only with coreJava !
+
+I feel java big data tech, and data science will go out of fashion within 10Y
+
 --fuxi:
 GTD_selfXX -- when is a good time? When do I have the absorbency?
 
