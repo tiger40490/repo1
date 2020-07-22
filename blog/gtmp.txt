@@ -79,25 +79,12 @@ By repeating myself many times, I usually come up with new content, new pointers
 --fuxi: Vivo sms notification: swipe down then tap
 
 --shall I replace the water spray pipe preemptively?
-Looks like the existing pipe has known quality issue.
-
---fuxi: the space below window /sill/
-is a source of pain as I couldn't find productive use
-
-One idea is to a cabinet
-
-Another idea is move the window out.
-
-All the above ideas cost quite a bit. One cheap use of it is as temporary storage.
-
---fuxi: bigger watermelons were handpicked by supplier
-In my experience the smaller watermelons are more likely to be low quality
-
+The risk of flooding is too high
 --ask wife and kids to help make 6 color hats
 One of them is probably least used. If I actually wear it I may be nudged to think in that direction.
 
 --new
-The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) bothers ME particularly
+The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
 
 The only solution I found so far is landGrab. I felt silly to spend hours setting up the tools to support landGrab. zsms! The zsms is annoying to say the least.
 
