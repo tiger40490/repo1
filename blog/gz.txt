@@ -3,7 +3,7 @@ my dad is the very best in his field, but he knows his influence is not so wide,
 
 In comparison, I have reached ffree fairly early, in my late 20's when I quite my full time job. Reached again after finishing overseas rental started in my early 40's as described to Kyle. Then the mvea and mlp jobs became carefree, and my SGD non-CPF brbr increased way past 2.0.
 
-Am i better than him? Not so simple
+Am i more successful than him? No simple conclusion.. depends on what your priorities.
 
 --update blogpost on java=outlier
 tech fads in my experience
@@ -15,24 +15,27 @@ php
 apache, DNS
 
 Was I lucky? I was lucky only with coreJava !
+I had my share of unluckiness.
 
-I feel java big data tech, and data science will go out of fashion within 10Y
+I feel java big data tech, and data science will go out of fashion by 2030.
 
 --fuxi:
 GTD_selfXX -- when is a good time? When do I have the absorbency?
+chipaway when in the mood
 
---new
+--new: critical mass on socket IV
 I have a bit of critical mass on socket IV.
 
-Those writing networking/socket programs outside C are on the sidelilne/peripheral. Those programming languages depend on the C API. C++ class/template libraries are in a similar situation. All of them are too high-level.
+Those writing networking/socket programs outside C are on the peripheral/sideline. Those programming languages depend on the C API. C++ class/template libraries are in a similar situation. All of them are too high-level.
 
-Therefore, I believe my socket QQ interview questions are alien to these candidates.
+Therefore, I believe my past socket QQ interview questions are alien to those high-level candidates.
 
 --new: untitled
-for many peers (LS, Sunil, CNA...), the main goal is higher income but for me dev-till-70 is more useful.
+for many peers (LS, Sunil, CNA...), the main goal is higher income but for me dev-till-70 is more valuable.
 
 Contract job market is better for me not THEM.
 
+Core
 java is one of the best tech domains. I can stick to java (keeping c++ critical mass). THEY may need to accept some corporate technology stack like cloud or Qz or data analytics.
 
 Tech IV skills (coding drill and QQ) are absolutely essential to me not THEM.
