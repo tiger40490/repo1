@@ -1,3 +1,6 @@
+--why is smart ptr so populare in c++IV
+I think even if a hiring team doesn't use smart ptr (or TMP or threading), they would ask this topic as it is a good probe on big4
+
 --new untitled
 in java, a Throwable can come from some invisible code, perhaps in the jvm.
 
