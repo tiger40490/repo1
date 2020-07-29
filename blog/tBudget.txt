@@ -1,3 +1,11 @@
+-- new: refresh: localSys^QQ^blog
+limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
+
+* top 200 of the nontech blogposts -- refresh is time-consuming
+* QQ, CIV pearls -- need to focus on the evergreen, xref and thick->thin
+** learn new pearls? LGlp if it doesn't get integrated via xref. 
+* localSys -- I never really allocate enough time on refresh. Maybe I should.
+
 --
 if I focus my attention on XR's question, I would derive some awareness, some pain, but probably not a lot of motivatio to change.
 
