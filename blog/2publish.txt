@@ -1,7 +1,3 @@
---update 6 color
-yellow -- positive perspective based on logic not intuition
-yellow hat is hard to get right.
-
 --new: defensive portfolio=overrated
 t_critiq
 Defensive portolio is an important and popular theme, popular with retail investors, important in academia.
@@ -15,12 +11,6 @@ In a blackswan event (not as rare as earthquakes) such as the pandemic, ordinary
 
 --q3sg, c++US... how about the first US phase?
 US#1
-
---update blogpost on minimalist
-small indugence in food
-
---update
-laptops not in use can suffer oxidation 
 
 --new: Trump@WHO: reduce blogg`under stress@@
 Bckground: Whenever I feel time spent on blogging is spiraling out of hand, instinctively I want to /curtail/ blogging, but Trump taught me a lesson -- Trump's decision to cut funding to the WHO during pandemic is similar to my cut.
