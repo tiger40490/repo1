@@ -1,16 +1,5 @@
---new: defensive portfolio=overrated
-t_critiq
-Defensive portolio is an important and popular theme, popular with retail investors, important in academia.
-
-It assumes cashflow is the most important human need, but how about food, healthcare?
-
-Look at the blogpost on shields...
-Adequate-cashflow-when-needed is only one of my top 5. It is highly overrated.
-
-In a blackswan event (not as rare as earthquakes) such as the pandemic, ordinary people like me worry about food security, hospital overrun, restriction in travel and family reunion. These human needs ... are beyond what money can buy.
-
---q3sg, c++US... how about the first US phase?
-US#1
-
---new: Trump@WHO: reduce blogg`under stress@@
-Bckground: Whenever I feel time spent on blogging is spiraling out of hand, instinctively I want to /curtail/ blogging, but Trump taught me a lesson -- Trump's decision to cut funding to the WHO during pandemic is similar to my cut.
+-- new: short names identifying phases@%%career
+ib4US -- four ibanks
+q3sg -- 3 SG jobs I selected for quant-dev career
+c++US
+hib19
