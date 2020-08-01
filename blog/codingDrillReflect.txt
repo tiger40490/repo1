@@ -1,3 +1,8 @@
+-- what assitance can sweeten the coding drill?
+books like [[algorithm]]
+print-out of my blogposts
+sunshine + patience
+
 --new: 
 maxProfit solutions are not simple not easy to understand. These solutions often are reusable and require a lot of digestion and internalization
 
