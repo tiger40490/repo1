@@ -1,3 +1,10 @@
+--fuxi
+when would I have time for 
+* general nlg colorful, highly readable books about our body, transportation
+* Chinese ancient literature
+* Fortune/Reader's Digest
+* reduce the git-blog files
+
 -- new: refresh: localSys^QQ^blog
 limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
 

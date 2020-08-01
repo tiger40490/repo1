@@ -4,6 +4,11 @@
 [L=leetcode]
 [o=original, not discussed widely]
 [v=easy to verify]
+
+==Q: given start and end points of a line segment, determine the angle if we sweep the x-axis anti-clockwise.
+
+compute the slope, then use arctangent.
+
 ==Q: Given 3 points {x1,y1} {x2,y2}, {x3,y3} representing a triangle, determine if a new point P {X,Y} is inside or outside the triangle.
 Q2: Also determine if the triangle is actually a single line segment.
 

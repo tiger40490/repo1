@@ -1,3 +1,10 @@
+-- fuxi?
+For 3 jobs I postponed my start date
+
+* Qz -- to maximize the most relaxing phase of any job
+* Macq -- to extend the job hunt (on bench) after securing an offer. I was already in good shape for c++ interviews in SG.
+* MLP -- Similar to Macq case, but not on bench. Before I secured the MLP offer, I had created a valuable momentum and peak absorbency for coding drill.
+
 --new:
 This write-up is too vague at this stage.
 
