@@ -5,7 +5,7 @@
 [o=original, not discussed widely]
 [v=easy to verify]
 
-==Q (implement?): given start (x1,y1) and end (x2,y2) points of a line segment, determine the point on the line segment with X=x3
+==[e] Q (implement?): given start (x1,y1) and end (x2,y2) points of a line segment, determine the point on the line segment with X=x3
 
 Only one unknown y3 in this equation:
 (y3-y1)/(x3-x1) == (y2-y1)/(x2-x1)
@@ -16,7 +16,7 @@ Need special code to check for horizontal or vertical line segments. It's better
 
 I feel this question is mostly about elegant handling of edge cases.
 
-==Q: given start and end points of a line segment, determine the angle [0, 2pi) if we sweep the x-axis anti-clockwise.
+==[e] Q: given start and end points of a line segment, determine the angle [0, 2pi) if we sweep the x-axis anti-clockwise.
 
 compute the slope, then use arctangent.
 
