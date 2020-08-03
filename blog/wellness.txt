@@ -1,5 +1,8 @@
---what fruits go to with smoothie
-bananamangoavocado
+--fuxi: what fruits go to with smoothie
+banana
+mango
+avocado
+
 creamy fruits, rather than juice which gets over-dilluted by ice.
 
 --update blogpost on celery
