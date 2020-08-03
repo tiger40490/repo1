@@ -1,2 +1,6 @@
+--what fruits go to with smoothie
+bananamangoavocado
+creamy fruits, rather than juice which gets over-dilluted by ice.
+
 --update blogpost on celery
 Be more bold buying celery, as I can add it to smoothie
