@@ -1,7 +1,10 @@
-
-==[e] Q: given start and end points of a line segment, determine the angle [0, 2pi) if we sweep the x-axis anti-clockwise.
+==[e] Q: given start and end points of a line segment, determine the angle [0, 2pi) if we sweep the x-axis anti-clockwise. answer ought to be [0,2pi]
 
 compute the slope, then use arctangent. There are four quadrants to handle
+
+alternatively, the dot product -> acos method would give [0,pi]. We may need to subtract that from 2pi, but how do we decide? depends on the y-coordinate.
+
+Follow-up question: given two line segments, what's the angle from Line1 to Line2?
 
 ====[e] Q (implement?): given start (Point1) and end (Point2) points of a line segment, determine the point on the line segment with its x-coordinates given as x3.
 
