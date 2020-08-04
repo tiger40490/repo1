@@ -17,8 +17,6 @@ I think we only need to ensure x2-x1 != 0. Failing this check, we should return 
 I feel this question is mostly about elegant handling of edge cases.
 
 ====practice in-order-walk iterative/recursive
-====XR's solution to the sparse array inner product
-====binary tree lock/unlock
 ====comboSum.cpp has a half-written memoization version, based on a recursive top-down, but not necessarily appropriate or easy to remember/reproduce
 ====[o]Q: maximize sum+dist. Given an array of signed ints. The score of any pair is their sum + their distance(i.e. subscript diff). Find the best pair.
 I will call the best pair "left winner" and "right winner"
