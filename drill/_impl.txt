@@ -1,3 +1,8 @@
+
+==[e] Q: given start and end points of a line segment, determine the angle [0, 2pi) if we sweep the x-axis anti-clockwise.
+
+compute the slope, then use arctangent. There are four quadrants to handle
+
 ====[e] Q (implement?): given start (Point1) and end (Point2) points of a line segment, determine the point on the line segment with its x-coordinates given as x3.
 
 Only one unknown y3 in this equation:
