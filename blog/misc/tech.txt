@@ -1,7 +1,7 @@
---new:
+--fuxi
 Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
 
--- pre-order and post-order walk can appy to k-ary trees
+--fuxi pre-order and post-order walk can appy to k-ary trees
 pre-order means print myself first before my children
 
 post-order means print myself last.
@@ -10,7 +10,6 @@ post-order means print myself last.
 gmail : alt-shift-5 for strike-through
 
 --new untitled
-
 95G offer service used tibrv to send updates to GUI. Robust and fast
 
 Also there was one daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
