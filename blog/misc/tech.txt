@@ -1,17 +1,10 @@
---why is smart ptr so populare in c++IV
-I think even if a hiring team doesn't use smart ptr (or TMP or threading), they would ask this topic as it is a good probe on big4
-
---new untitled
-in java, a Throwable can come from some invisible code, perhaps in the jvm.
-
-In c++ a catch clause always catches something explicitly thrown by a c++ code module, never something from a C library.
-
-However, https://stackoverflow.com/questions/28925878/do-c-standard-library-functions-which-are-included-in-c-throw-exception shows some corner case of undefined behavior in a strcpy(). In such a case, the c++ compiler can do anything including throwing exception.
-
-Note C functions like strcpy() doesn't throw because C doesn't support exceptions, but c++ compiler is permitted to and does generate code that throws in some corner cases.
-
 --new:
-jGC knowledge is medium-churn. The insight and halo you build loses value over 10 years.
+Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
+
+-- pre-order and post-order walk can appy to k-ary trees
+pre-order means print myself first before my children
+
+post-order means print myself last.
 
 --udpate blogpost
 gmail : alt-shift-5 for strike-through
