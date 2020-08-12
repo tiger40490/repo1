@@ -1,3 +1,12 @@
+--new: risks remain high but am calmer
+After circuit breaker, even though infection risk is not lower than before, SG healthcare system is significantly stronger in terms of testing capacity, treatment capacity.
+
+Similarly,
+
+.. bedbug -- the risk remains very very high esp. in terms of suffering, but now I have a more robust mentality
+
+.. tech churn -- disruption remains high, but now I have the insight of WallSt contract market, and I have found java/c++ rather stable. See https://bintanvictor.wordpress.com/wp-admin/post.php?post=30897&action=edit
+
 --new: y smart ptr popular in c++IV
 I think even if a hiring team doesn't use smart ptr (for that matter, TMP, threading,,), they would drill into this topic as it is a good probe on big4
 
