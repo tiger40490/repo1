@@ -1,3 +1,11 @@
+-- fuxi: do I prefer cash payment rather than card payment?
+cash
+
+card payment adds too much noise to expense tracking and search
+
+--fuxi: I want to make wife feel my sense of wealth, but without spending too much.
+Home upgrade is probably the best choice
+
 -- fuxi
 even though I'm a single-income family, my brbr is possibly better than many of my U.S. peers with compbined income much higher than mine. 
 
