@@ -1,8 +1,8 @@
 -- update blogpost on.. OC survey?
 
-listening to the BBC Business Daily [[dealing with mass unemployment]], I now believe many people have very limited savings.
+listening to the BBC Business Daily [[dealing with mass unemployment]], I now believe many people have really limited savings.
 
-However, Raymond, Jack Z... can survive for years, due to lower burn rate and high savings.
+However, Raymond, Jack Z... can survive for years, due to burn rate discipline and high savings.
 
 --new: risks remain high but am calmer
 After circuit breaker, even though infection risk is not lower than before, SG healthcare system is significantly stronger in terms of testing capacity, treatment capacity.
@@ -37,16 +37,16 @@ hib19
 
 -- new: live life2the fullest, but@low burn rate
 t_powerfulDescriptor
-I guess the ERE author can say he is living his life to the fullest. I don't need to benchmark with him. Similar to him, or unlike him, I do feel I'm living my life to the fullest. There's nothing missing in my current carefree life. My current life is satisfying and complete.
+I guess the ERE author can say he is living his life to the fullest. I don't need to benchmark with him. Similar to him or unlike him, I do feel I'm living my life to the fullest. There's nothing missing in my current carefree life. My current life is satisfying and complete.
 
-The Bhuddist would say there's still a lot of unsatisfied desires and pains lurking beneath the surface. Admittedly, the pains will surface, but they become mild and forgotten. 
+The Bhuddist would say there's still a lot of unsatisfied desires and pains lurking beneath the surface. Admittedly, these pains will surface, and hopefully become mild and forgotten. 
 
-The current condition is obviously impermanent, and possibly short-lived, but in this blogpost I don't care.
+The current carefree bliss is obviously impermanent, and possibly short-lived, but in this blogpost I don't care.
 
 green Cornerstone: rewarding, unstressful job
 red Cornerstone: boycott to FOMO/FOLB
 red Cornerstone: Brbr, ffree
-old foundation: health, marriage, citizenship
+foundation: health, marriage, citizenship
 
 The red cornerstones are based on cashflow.
 
@@ -60,9 +60,9 @@ How about Ivy League colleges and UChicago? Poor bargain, according to Kyle.
 
 In these cases, mainstream preference is not an accurate reflection of my preference. It's crucial to honor my own preference (and wife's) rather than other people's preferences.
 
---new: overreliance@investment
+--new: overreliance@investment^productivity
 Li Ka Shing
 Qatar government
-SG government
+SG GIC
 
 Investment should be supplementary. We need to be competitive and productive in our core competence... If you neglect those and rely too much on investment you will /drift into irrelevance/.

@@ -10,11 +10,11 @@ limited memory capacity, unable to hold everything in L1 cache. Some content mus
 
 * top 200 of the nontech blogposts -- refresh is time-consuming
 * QQ, CIV pearls -- need to focus on the evergreen, xref and thick->thin
-** learn new pearls? LGlp if it doesn't get integrated via xref. 
+** learn new pearls? LGlp unless it gets linked in via xref. 
 * localSys -- I never really allocate enough time on refresh. Maybe I should.
 
 --
-if I focus my attention on XR's question, I would derive some awareness, some pain, but probably not a lot of motivatio to change.
+if I focus my attention on XR's question about how I make use of my free time on the job, I would derive some awareness, some pain, but probably not a lot of motivatio to change.
 
 If I have 4H/d freed up compared to past jobs, then 
 1H spent on parenting
@@ -26,6 +26,7 @@ less time spent on tech learning than before
 my outing time with boy is still very very high, but better than P2 time when focus was on renzi. 2020 outing trips tend to be joint exercise.
 
 In a way, I have no better usage of my increased spare time. The tech xx doesn't feel so satisfying. Blogging is the most satisfying, more than workout.
+
 In Bayonne, I would spend it on workout, blogging, tech xx
 --fuxi: weekend roti target is important in my recent experience. 
 Q: Is it possible that on some weekends I don't notice the low roti? 
