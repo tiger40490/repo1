@@ -4,7 +4,8 @@ may need a proper lamp. Shall we move the ikea lamp over?
 
 --how to use HP more often to avoid oxidation?
 avoid oth
-perhaps keep the acer95 in cockpit2
+perhaps keep the acer95 in cockpit2 ?
+create a bash func to copy from the mem card into blog/misc/0.txt 
 
 -- i have more and more content in 0.txt. what if i misplace the mem card?
 make periodic copies to C: drive?
