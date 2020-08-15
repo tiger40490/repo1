@@ -1,3 +1,6 @@
+--new:
+lamp at cockpit 1? Don't buy because we may have spare soon.
+
 --i can't use cockpit 1 as much as I hoped, due to distraction
 cockpit 1 has better standing desk
 may need a proper lamp. Shall we move the ikea lamp over?
@@ -5,19 +8,15 @@ may need a proper lamp. Shall we move the ikea lamp over?
 --how to use HP more often to avoid oxidation?
 avoid oth
 perhaps keep the acer95 in cockpit2 ?
-create a bash func to copy from the mem card into blog/misc/0.txt 
 
 -- i have more and more content in 0.txt. what if i misplace the mem card?
-make periodic copies to C: drive?
-use gtmp.txt more?
+For tww questions, use gtmp.txt more?
 
 --fuxi jolt: I'm constantly dissatisfied with my 'burn'
 * too little spare time spent on work projects, but for decades I have prioritized tech xx over GTD
 * BMI not improving, but I am rather successful keeping starch intake low, delaying big meals, smoothie, raw veg, chia etc
 
 but i tend to brush aside my jogging, the high number of hours in office, my improving attitude on boy, revived mtv for coding drill
-
---vivo phone: cut off the cover for the charger socket?
 
 --fuxi:
 how do I practice some driving to prevent forgetting
