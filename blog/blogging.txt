@@ -1,6 +1,3 @@
---fuxi: 
-top 10 or top 20 categories = most visible
-
 --fuxi: w1r3 means writeOnceReviewed3times
 --fuxi: sometimes I feel the field is overcrowded in T_tectonic or T_defense. The number of blogposts are too numerous and I couldn't remember which is which.
 
@@ -23,7 +20,7 @@ eg: timing of family migration
 --new: ## topics spanning multiple blogs
 schooling -- mostly in 61060, but SDXQ goes into tanbinvest
 U.S. migration -- mostly in 610610, but tanbinvest covers housing, commute topics
-retirement destination -- mostly in tanbinvest
+retirement destination -- mostly in tanbinvest, but some country comparison is in 610610
 
 --new: 温故知新@blog beats frenDialog 
 There's a lot of insight in my blogposts for 温故知新. Arguably more fruitful than email exchanges with friends and reading books.
