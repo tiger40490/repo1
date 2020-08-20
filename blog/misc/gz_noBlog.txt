@@ -1,3 +1,8 @@
+--fuxi
+I had open conflicts with managers in SCS, VZ, GS, albeit mild conflicts in Barcap
+
+Now I am more tolerant and melllow, like in RTS ... Now I appreciate job stability.
+
 --fuxi: threading is a core IV topic in java, but remain a "superstructure" topic in c++, in the form of c++11 thread and pthreads.
 
 I think java threading is simpler and accessible to regular app developers whereas c++ threading remains part of the vast array of advanced topics.
