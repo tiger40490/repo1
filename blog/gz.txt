@@ -6,34 +6,28 @@ For 3 jobs I postponed my start date
 * Macq -- to extend the job hunt (on bench) after securing an offer. I was already in good shape for c++ interviews in SG.
 * MLP -- Similar to Macq case, but not on bench. Before I secured the MLP offer, I had created a valuable momentum and peak absorbency for coding drill.
 
---new:
+--new: untitled
 This write-up is too vague at this stage.
 
 Writing work emails, I often feel unsure of the nuances and potential reactions (ever so subtle) in the recipients. Work email etiquette is too numerous, too nuanced for me.
 
-Actully this 'unsure' feeling might be a sign of my sensitivity.
+Actully this 'unsure' feeling might be a sign of my sensitivity and maturity.
 
-Some of my so-called peers are much more confident about these nuances. They write quick, informal, barely acceptable English sentences, but they are confident there's nothing offending. They are often managers. I often feel inferior to them.
+Some of my so-called peers are much more confident about these nuances. They write quick, informal, barely acceptable English sentences, sometimes too short sometimes too lengthy. But they are confident there's nothing offending. They are often managers. I often feel inferior to them.
 
-Actually written communication is still my relative strength compared to spoken communication. My weakness is more severe in spoken communications since I have very little time to react.
+Actually written communication is still my relative strength compared to spoken communication. My weakness is more severe in spoken communications since I have very little time to react, to process the message I send across.
 
-Everyone has very time to react, but most people are more natural more confident than I am.
-
---
-my dad is the very best in his field, but he knows his influence is not so wide, his value not so great, his legacy will not last very long.
-
-In comparison, I have reached ffree fairly early, in my late 20's when I quite my full time job. Reached again after finishing overseas rental started in my early 40's as described to Kyle. Then the mvea and mlp jobs became carefree, and my SGD non-CPF brbr increased way past 2.0.
-
-Am i more successful than him? No simple conclusion.. depends on what your priorities.
+Sometims everyone has very little time to react, but most people are more natural more confident than I am.
 
 --update blogpost on java=outlier
-tech fads in my experience
+tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
 perl
 stored proc
 mysql
 php
 apache, DNS
+LotusNotes apps for Raymond
 
 Was I lucky? I was lucky only with coreJava !
 I had my share of unluckiness.
