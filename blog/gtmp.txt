@@ -1,20 +1,7 @@
---update blogpost on FOMO^bless
-Whatever justification is probably flawed.
-
-Given my bare-bones ffree, I feel blessed ... when comparing to those without ffree !
-
-However, my ffree is bare-bones, so I avoid benchmarking with the rich.
-
-Compare across, not compare up. That's a slogan
-
---new:
-lamp at cockpit 1? Don't buy because we may have spare soon.
-
 --i can't use cockpit 1 as much as I hoped, due to distraction
 cockpit 1 has better standing desk
-may need a proper lamp. Shall we move the ikea lamp over?
 
--- i have more and more content in 0.txt. what if i misplace the mem card?
+--fuxi: i have more and more content in 0.txt. what if i misplace the mem card?
 For tww questions, use gtmp.txt more?
 
 --fuxi jolt: I'm constantly dissatisfied with my 'burn'
@@ -27,20 +14,6 @@ but i tend to brush aside my jogging, the high number of hours in office, my imp
 how do I practice some driving to prevent forgetting
 Can I practice in China?
 
---new: carefree=plenty@t$
-Mostly carefree depends on BRBR, but a second factor is a buffer of spare time
-
-Long commute eats into this buffer.
-
-Noisy home also eats into this buffer because the most precious time is private time.
-
---new jolt low-energy on work projects
-t_intro
-I now feel low-energy (low-absorbency is a second descriptor) on work projects. However, at the same time I could feel high-absorbency on workout (or diet), QQ (or coding drill), parenting,,,
-
-These other absorbency domains are arguably more strategic, so the current situation as described is actually better than the "average" situation which features no absorbency on any front whatsoever.
-
-Is it possible to have high-absorbency on all fronts? Unlikely. Therefore, recognize your priorities, embrace the imperfect self, and celebrate the improved-imperfection. Everyday is imperfect anyway.
 
 --fuxi: importance: refresh imt learnNew
 One key reason why I spend so much time on blog review compared to reading books -- memory limitation
