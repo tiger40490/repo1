@@ -6,6 +6,20 @@ DP blaster
 impl is horrible
 ====continuousSentence: 
 memoization for my recursive-in-loop?
+
+Each position in the input string is a node. Directional arrows link the nodes. We need to find-all-paths from first node to last node.
+
+To build the graph, we generate all the outgoing arrows at each reachable node, starting from the first node.
+
+For the find-any-path problem, what's the simpler, elegant solution?
+
+====find all paths in a directional graph, from Start node to End node
+vanila DFS is optimal?
+
+recursive-in-loop is also viable?
+
+Can check out my algorithm book
+
 ====(cpp) max submatrix using histogram algo
 thick->thin? not yet. 
 ====edit distance
