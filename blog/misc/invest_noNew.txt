@@ -1,3 +1,4 @@
+
 -- fuxi: do I prefer cash payment rather than card payment?
 cash
 
@@ -18,8 +19,6 @@ Find out FSM interest rate
 
 --fuxi: why I spend so much disposable time on personal finance, mostly ressearch and decision making? More than tech or wellness
 Not completely irrational. There are rational reasons, perhaps subconscious.
-
---fuxi: consider transferring $1k OA -> SA, but this would reduce my investable amount
 
 -- fuxi: moat
 Economic moat is popularized by Buffett and is an element of (value) stock picking
@@ -99,9 +98,6 @@ Family will probably find our home small and old. I would invest in renovation (
 --fuxi
 I allow myself to feel superior about my burn rate and Fuller wealth, but I Don’t want to fall into the trap of benchmarking with the high earners.
 
---sugg: transfer some 1k from OA to SA just to live through it.
-Ask CPF to compute the additional interest earned each year
-Can do this during lunch break
 
 --fuxi: I used to believe personal investment effort (FSM etc) is more strategic than QQ because I felt I could grow my portfolio.
 Now my confidence in this effort is much lower, so I dare not put in a lot.

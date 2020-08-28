@@ -1,3 +1,9 @@
+--book movie tickets with boy
+
+-- transfer USD from Citi US?
+
+-- update blogpost on 102k USD? Not necessary
+
 --new winUpdate^codingDrill
 The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
 
