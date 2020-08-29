@@ -1,34 +1,9 @@
--- update blogpost on shields or common QnA
-There's nothing permanent when it comes to long-horizon planning.
-
-SG's stability, prosperity is never taken for granted and constantly under threat. Similarly,
-
-Your wellness will not last. You can't "invest" or "buy" 10 years of wellness. You must keep working on it. Daily battle. My dad and LKY are good role models.
-
-You career longevity is even more similar to the SG case. Coding drill, QQ study ... 
-
-In all cases, some fear, some worry, some sense of uncertainty is healthy and keep...
-
-See the BBC program about worry
-
 --fuxi: the mattress seller says "you spend a third of your life sleeping" so their expensive mattress is equal in value to 1/3 of your life
 
 Actually, sleep quality depends on many things and the mattress is only 0.1% of them.
 
 The sports shoe seller says your health is more important than wealth, but quality of shoes is really a minor factor compared to motivtion and availability of time
 
---new winUpdate^codingDrill
-The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
-
-The only solution I found so far is landGrab. I felt silly to spend hours setting up the tools to support landGrab. zsms! The zsms is annoying to say the least.
-
-I feel CSY's view on coding practice is similar in that he probably feels silly to spend months on it, but he just couldn't find any better solution to this huge and immediate problem. 
-
-In contrast, Deepak has a positive attitude. Some may say that over 3 years, Deepak won't improve to get ahead of CSY, but who are we to judge. Life is full of surprises. Deepak will improve as long as he keeps up the practice, and someday he will get lucky. 
-
-In theory, someone who doesn't practice can also get lucky, but I don't believe it. This is my bias towards hard work. Luck favors the deligent like Deepak
-
-Actually, my windowsUpdate situation is better than CSY's situation, becasue I have a working solution.
 
 --fuxi: i have more and more content in 0.txt. what if i misplace the mem card?
 For tww questions, use gtmp.txt more?
