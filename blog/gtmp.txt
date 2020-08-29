@@ -1,8 +1,21 @@
---book movie tickets with boy
+-- update blogpost on shields or common QnA
+There's nothing permanent when it comes to long-horizon planning.
 
--- transfer USD from Citi US?
+SG's stability, prosperity is never taken for granted and constantly under threat. Similarly,
 
--- update blogpost on 102k USD? Not necessary
+Your wellness will not last. You can't "invest" or "buy" 10 years of wellness. You must keep working on it. Daily battle. My dad and LKY are good role models.
+
+You career longevity is even more similar to the SG case. Coding drill, QQ study ... 
+
+In all cases, some fear, some worry, some sense of uncertainty is healthy and keep...
+
+See the BBC program about worry
+
+--fuxi: the mattress seller says "you spend a third of your life sleeping" so their expensive mattress is equal in value to 1/3 of your life
+
+Actually, sleep quality depends on many things and the mattress is only 0.1% of them.
+
+The sports shoe seller says your health is more important than wealth, but quality of shoes is really a minor factor compared to motivtion and availability of time
 
 --new winUpdate^codingDrill
 The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
