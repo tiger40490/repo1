@@ -1,3 +1,14 @@
+--fuxi but no point publishing:
+To find a windows service name
+
+  sc query > some.log
+
+To fine the pid of the service name
+
+  sc queryex WinDefend
+
+  taskkill /F /PID 4168
+  
 --fuxi
 Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
 
