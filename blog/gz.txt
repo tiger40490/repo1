@@ -1,3 +1,9 @@
+--update blogpost on SG talent pool
+Looking at my son's PSLE math questions, I feel the real challenge in high-end tech IV is theoretical/analytical skills -- problem-solving skill as hiring teams say, but very theoretical in nature. 
+
+pure-algo and QQ are the two primary domains. ECT and BP are less theoretical.
+
+This is NOT needed on any project I have seen. Therefore, most of my GTD-capable friends can't crack such interviews.
 
 -- new: refresh: localSys^QQ^blog
 limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
