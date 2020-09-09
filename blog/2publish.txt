@@ -1,8 +1,18 @@
+
+--new: white elephants: gold^mansions
+t_gold
+As discussed in ... most top school district homes have underwhelming rental yield, because you can't subdivide them into smaller private units. These homes cost a lot partly due to psf premium in a premium location, but more becuase of size. They are white elephants with higher taxes, high maintenance costs. In contrast, commercial and prime-location residential properties are both prestigious and high-yield.
+
+Grand piano is another white elephant. I always prefer simple, functional alternatives.
+
+Jewelry is a white elephant. Poor liquidity, low inheritance value, but Gold is a less white elephant. A kilobar sounds prestigious but you have to pay some security firm to hold it for you.  One advantage of gold coin collection (not kilobar) is that you can buy or sell a small portion of it. Fairly liquid except the lousy bid/ask spread.
+
 --some notes from the informal mid-year review
 * flexibility while testing with global brokers
 * learn more varieties of EPA's, esp. on the dnlg
 * higher productivity, faster delivery
 * be more vocal during team meetings, but it's easy to put someone else on the spot
+* PMA bug fix 
 
 --Hi Dr Lau,
 Two new topics to discuss in Lihui's review.

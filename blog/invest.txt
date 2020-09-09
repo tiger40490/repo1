@@ -11,20 +11,12 @@ Next question: what asset classes are suitable for holding long-term beyond 50Y.
 
 If I have more confidence about holding long-term, then I can afford to take more risks.
 
---new: white elephants: gold^mansions
-As discussed in ... most top school district homes have underwhelming rental yield, because you can't subdivide them into smaller private units. These homes cost a lot partly due to psf premium in a premium location, but more becuase of size. They are white elephants with higher taxes, high maintenance costs. In contrast, commercial and prime-location residential properties are both prestigious and high-yield.
 
-Grand piano is another white elephant. I always prefer simple, functional alternatives
-
-Jewelry is a white elephant. Poor liquidity, low inheritance value, but Gold is a less white elephant. A kilobar sounds prestigious but you have to pay some security firm to hold it for you.  One advantage of gold coin collection (not kilobar) is that you can buy or sell a small portion of it. Fairly liquid except the lousy bid/ask spread.
-
---There's a risk that after I sell Blk 155 I'm not allowed to buy another HDB. Must declare under oath that there's no residential property under my name.
-
---any spare cash now can go into
-* cpf OA -- illiquid till 55
+--no blog: any spare cash now can go into
 * cpf SA towards ERS, but illiquid till 65
-* gold
-* US stocks
+* cpf OA -- illiquid till 55
+* gold -- might suffer a 10Y trough 
+* US stocks -- might suffer a 5Y trough
 
 -- Hi my sister,
 othRisk
@@ -33,15 +25,15 @@ Re your "vague" question of what I want to achieve with my investment effort, I 
 
 Indeed I still spend several weeks each quarter on investment research/review/decisions. I adjust my views (more often than my portfolio) rather actively.
 
-Even though I feel kinda "job done" (i.e. I can retire to a thrifty retirement), there's still some cashflow anxiety beneath the surface. 
+Even though I feel almost "job done" (i.e. I can retire to a thrifty retirement), there's still some cashflow anxiety beneath the surface.
 
 First goal I want to achieve with my investment is relief from that anxiety. Comparatively, I'm on a very comfortable cashflow "high ground", so my anxiety is less than other people's. Specifically, I will say there's risk that we could fall sick, or suffer an investment loss or make other oversized mistakes. Additional incomes (hopefully diversified and without 10Y wait) are the relief.
 
-Second goal I want to achieve with my investment is relief from long commute, which  is a common pain in NY area. Most people seem to put up with it but I hate long commute. With more investment income, I can afford to live closer to office, or take lower-paying jobs closer to home.
+The Second (very specific) goal I want to achieve with my investment is relief from long commute, which  is a common pain in NY area. Most people seem to put up with it but I hate long commute. With more investment income, I can afford to live closer to office, or take lower-paying jobs closer to home.
 
-Another goal I want to achieve with my investment is extra reserve to support big ticket items such as college. I don't need an even bigger home, but my wife has persuaded me to consider a bigger home. Vacations are unnecessary to my (carefree) life, but my wife would appreciate them.
+Another goal I want to achieve with my investment is extra reserve to support big ticket items such as college. I don't need an even bigger home, but my wife has persuaded me to consider a bigger home. Vacations are unnecessary to my simple life, but my wife would appreciate them.
 
-As I said, most of my peers (Chinese professionals in finance) set a target to save more than a million for top school-district housing and top colleges. These are luxury items, not suitable for lower-middle class like me. I say NO...
+As I said, most of my peers (Chinese professionals in finance) set a target to save more than a million dollars for top school-district housing and top colleges. These are luxury items, not suitable for lower-middle class like me. To them I say NO Thanks.
 
 -- fuxi or update blogpost on brbr?
 Compared to 2016, my burn rate is down by 2-3k, partly due to pre-school, airfare, ...
