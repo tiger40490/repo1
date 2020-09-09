@@ -1,3 +1,14 @@
+-- new: long trough in stocks/gold
+Xp: unit trusts
+Xp: Majestic Village
+
+Re the blogpost on big-ticket necessity outlays till 55
+Q: if I don't have a need for the amount I sank in, then Why did I hate long trough in a liquid asset like stocks and gold?
+
+This quesiton underlies my subconscious resistance to long-term commitments such as endowments. 
+
+A:  more disposable income (for better commute, enrichment programs), more current income, brbr buffer, exclub(?), windfall profit(?). I hate to have my money locked up while giving up these "nicer" things
+
 --new: too much cash saved for legacy
 My "challenge" in this blogpost is not having too little left for my kids, but having too much cash now, 50Y before my expected end of life
 
@@ -10,7 +21,7 @@ Next, keep an eye on the long-horizon risks, beyond inflation. See my blogpost o
 Next question: what asset classes are suitable for holding long-term beyond 50Y.
 
 If I have more confidence about holding long-term, then I can afford to take more risks.
-
+* gold, stocks, properties
 
 --no blog: any spare cash now can go into
 * cpf SA towards ERS, but illiquid till 65
