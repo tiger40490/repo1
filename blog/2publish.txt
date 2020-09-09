@@ -1,7 +1,20 @@
+-- new: long trough in stocks,gold,,
+t_gold
+Xp: unit trusts - about 3 out of 10 get stuck for 5Y+
+Xp: Majestic Village
+
+On the basis of the blogpost on big-ticket necessity outlays till 55, here's a follow-up question:
+Q: if the amount of money is not-neded (i.e. I don't have a need for the amount sunk in), then Why did I hate long trough in a liquid asset like stocks and gold?
+
+This quesiton underlies my subconscious resistance to long-term commitments such as endowments. 
+
+A: more disposable income (for better commute, enrichment programs), more current income, brbr buffer, exclub(?), windfall profit(?). I hate to have my money locked up while giving up these "nicer" things
+
+Reminder -- most of the time the "not-needed" condition is not 100% satisfied i.e. I do have something of a "need" for the amount. This reminder is very relevant for gold, and also (not for long-trough) HDB upgrade.
 
 --new: white elephants: gold^mansions
-t_gold
-As discussed in ... most top school district homes have underwhelming rental yield, because you can't subdivide them into smaller private units. These homes cost a lot partly due to psf premium in a premium location, but more becuase of size. They are white elephants with higher taxes, high maintenance costs. In contrast, commercial and prime-location residential properties are both prestigious and high-yield.
+gold
+As discussed in ... most top school district homes have underwhelming rental yield, because you can't subdivide them into smaller private units. These homes are so expensive partly due to psf premium in a premium location, but a bigger reason is size. They are white elephants due to taxes, maintenance costs etc. In contrast, commercial and prime-location residential properties are both prestigious and high-yield.
 
 Grand piano is another white elephant. I always prefer simple, functional alternatives.
 
