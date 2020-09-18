@@ -24,9 +24,6 @@ pre-order means print myself first before my children
 
 post-order means print myself last.
 
---udpate blogpost
-gmail : alt-shift-5 for strike-through
-
 --new untitled
 95G offer service used tibrv to send updates to GUI. Robust and fast
 

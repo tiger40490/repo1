@@ -16,3 +16,6 @@ Rental car is expensive but worth considering. We may need to buy a car just to 
 
 --update multiple blogposts:
 stress eating is now more important than home/office
+
+--udpate blogpost
+gmail : alt-shift-5 for strike-through
