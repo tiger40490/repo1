@@ -28,7 +28,7 @@ Actually written communication is still my relative strength compared to spoken 
 Sometims everyone has very little time to react, but most people are more natural more confident than I am.
 
 --update blogpost on java=outlier
-tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
+These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
 perl
 stored proc
@@ -40,7 +40,7 @@ LotusNotes apps for Raymond
 Was I lucky? I was lucky only with coreJava !
 I had my share of unluckiness.
 
-I feel java big data tech, and data science will go out of fashion by 2030.
+I feel by 2030 java bigData will go out of fashion just like java Generics, Hibernate, functional java, streams API, .
 
 --fuxi:
 GTD_selfXX -- when is a good time? When do I have the absorbency?
