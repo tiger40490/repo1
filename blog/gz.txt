@@ -1,11 +1,3 @@
---update on c++ guys unlucky.
-Out of 100 java guys trying WallSt jobs, 90 are (often quickly) disqualified on tech screening.
-
-Out of 100 c++ guys trying WallSt jobs, perhaps 70 are disqualified for the same reason.
-
-The expertise entry-barrier is higher in C++, due to wider range of essential knowledge. Java is seen more of a commodity skill.
-
-Therefore, it's easier for me to ace the java QQ interview than c++ QQ interview.
 
 -- new: refresh: localSys^QQ^blog
 limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
