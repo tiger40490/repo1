@@ -7,12 +7,6 @@ The expertise entry-barrier is higher in C++, due to wider range of essential kn
 
 Therefore, it's easier for me to ace the java QQ interview than c++ QQ interview.
 
---update blogpost on CA nanny state:
-Canada, one of the better western systems in pandemic management, had covid19 deaths every day until 11 Sep
-https://www.channelnewsasia.com/news/world/canada-reports-zero-covid-19-deaths-for-first-time-since-march-13104740
-
-Total deaths reached 9000+. Compare it to Singapore's very low death toll.
-
 --new: expensive cars breed over-usage
 quality of life is correlated with more walking/cycling, less driving.
 
