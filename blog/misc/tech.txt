@@ -103,9 +103,9 @@ $ start excel assets\{git.xls
 --fuxi: hasSameContent(dict1, dict2): return dict1 == dict2 
 
 --new or update:
-multi-threading as a skill is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
+Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
 
-Low latency on a multi-core machine would probably use many threads in STM
+Low latency on a multi-core machine would probably use a lot of threads in STM
 
 See Doug Lea for a broader perspective
 
@@ -114,13 +114,13 @@ in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -
 
 --fuxi: cpu set seems to be a linux kernel feature, not just a container feature
 
---new:
+--new: untitled
 is malloc a kernel service, syscall or a userland function offered in a regular library?
 
 Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
 
 Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack?
-
+Can check my linux book
 --fuxi: Martin's low-latency java talk
 java has no deallocation cost. C++ deallocation is worse than allocation. Deallocation may use locking if performed across threads.
 
