@@ -1,13 +1,13 @@
 --update on c++ guys unlucky.
 Out of 100 java guys trying WallSt jobs, 90 are disqualified in tech screening, often in early rounds. Too many weak candidates without depth.
 
-Out of 100 c++ guys trying WallSt jobs, perhaps 70 are disqualified for the same reason. This does NOT mean your chance of success is higher. The opposite is true. The remaining 30 get filtered out in later rounds, for reasons like "well-qualified but not a good match, not exactly what we want"
+Out of 100 c++ guys trying WallSt jobs, perhaps 70 are disqualified for the same reason. This does NOT mean your chance of success is higher. The opposite is more likely. The remaining 30 get filtered out in later rounds, for reasons like "well-qualified but not a good match, not exactly what we want"
 
 The expertise entry-barrier is higher in C++, due to wider range of essential knowledge. Java is seen more of a commodity skill.
 
 Therefore, it's easier for me to ace the java QQ interview than c++ QQ interview.
 
---new: expensive cars breed over-usage
+--new: expensive cars breed unhealthy over-usage
 quality of life is correlated with more walking/cycling, less driving.
 
 However, the more expensive your car is, the worse you would feel leaving it underutilized in the garage 95% of the time.
