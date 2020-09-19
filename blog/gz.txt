@@ -1,13 +1,15 @@
--- new: churn in WallSt^internet
+-- new: technology churn on WallSt^internet
 my perception of churn has been fundamentally shaped by my two personal experiences -- pre-2007 internet career and post-2007 WallSt career.
 
 The technologies in the internet space has faster churn. 
 
-A big chunk of WallSt infrastructure is browser-based, intranet or internet. They experience similiar level of churn. Jxee is affected.
+A big chunk of WallSt infrastructure is browser-based, intranet or internet. They experience similiar level of churn. Jxee is affected. Remember PWM servlet-based framework?
 
 Another chunk of WallSt infrastructure is low churn, including coreJava, c++, SQL, MOM, FIX, sockets, batch jobs
 
-UI technology can be internet-based but is usually high-churn.
+By the way, Linux is dominant on WallSt and in the broader internet ecosystem.
+
+UI technology is usually high-churn. Increasingly browser-based.
 
 -- new: refresh: localSys^QQ^blog
 limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.

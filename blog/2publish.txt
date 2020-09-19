@@ -1,5 +1,5 @@
 --update on c++ guys unlucky.
-Out of 100 java guys trying WallSt jobs, 90 are (often quickly) disqualified in tech screening. Too many weak candidates without depth.
+Out of 100 java guys trying WallSt jobs, 90 are disqualified in tech screening, often in early rounds. Too many weak candidates without depth.
 
 Out of 100 c++ guys trying WallSt jobs, perhaps 70 are disqualified for the same reason. This does NOT mean your chance of success is higher. The opposite is true. The remaining 30 get filtered out in later rounds, for reasons like "well-qualified but not a good match, not exactly what we want"
 
@@ -15,7 +15,7 @@ However, the more expensive your car is, the worse you would feel leaving it und
 Rental car is expensive but worth considering. We may need to buy a car just to practice driving.
 
 --update multiple blogposts:
-stress eating is now more important than home/office
+stress eating is now more important
 
 --udpate blogpost
 gmail : alt-shift-5 for strike-through
