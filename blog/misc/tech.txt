@@ -31,17 +31,6 @@ post-order means print myself last.
 
 Also there was one daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
 
---new: price^value of various smartphones
-price of smartphone depends on
-* branding
-* component cost such as processor speed, RAM size, screen size, battery capacity
-* Is reliability a factor? Not directly. Perhaps the brand and components have an indirect effect
-
-My requirements ("value") are
-1. reliability
-2. screen size
-3. battery
-
 --new: 
 In the json loader project, when I refactored an overgrown method, I often extracted part of it into a “delegate” method or a helper method.
 

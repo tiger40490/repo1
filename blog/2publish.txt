@@ -24,3 +24,15 @@ stress eating is now more important
 
 --udpate blogpost
 gmail : alt-shift-5 for strike-through
+
+
+--new: price^value when choosing smartphones
+price of smartphone depends on
+* branding
+* component cost such as processor speed, RAM size, screen size, battery capacity
+* Is reliability a factor? Not directly. Perhaps the brand and components have an indirect effect
+
+According to my requirements, the "value" of a model depends on
+1. reliability
+2. screen size
+3. battery
