@@ -1,7 +1,7 @@
 --does data center rack space always mean cloud?
 Two major sectors:
-* financial companies generally use private data centers, probably not cloud
-* web sites generally use the cloud
+* financial companies -- generally use private data centers, probably not cloud
+* web sites -- often uses the cloud
 
 The other sectors are unfamiliar to me.
 
