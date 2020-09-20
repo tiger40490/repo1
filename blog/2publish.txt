@@ -1,9 +1,14 @@
+--update to blogpost Comfortable Position
+The ffree is really the tip of an iceberg. The Fuller wealth is based on my strengths and my guiding principles/priorities/habits
+
+Similarly, the SG GDP ranking is the tip of an iceberg. 
+
 --update on c++ guys unlucky.
 Out of 100 java guys trying WallSt jobs, 90 are disqualified in tech screening, often in early rounds. Too many weak candidates without depth.
 
 Out of 100 c++ guys trying WallSt jobs, perhaps 70 are disqualified for the same reason. This does NOT mean your chance of success is higher. The opposite is more likely. The remaining 30 get filtered out in later rounds, for reasons like "well-qualified but not a good match, not exactly what we want"
 
-The expertise entry-barrier is higher in C++, due to wider range of essential knowledge. Java is seen more of a commodity skill.
+The expertise entry-barrier is higher in C++, due to wider range of essential knowledge. Java is considered more of a commodity skill.
 
 Therefore, it's easier for me to ace the java QQ interview than c++ QQ interview.
 
