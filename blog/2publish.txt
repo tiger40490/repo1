@@ -1,8 +1,3 @@
---update to blogpost Comfortable Position
-The ffree is really the tip of an iceberg. The Fuller wealth is based on my strengths and my guiding principles/priorities/habits
-
-Similarly, the SG GDP ranking is the tip of an iceberg. 
-
 --update on c++ guys unlucky.
 Out of 100 java guys trying WallSt jobs, 90 are disqualified in tech screening, often in early rounds. Too many weak candidates without depth.
 
