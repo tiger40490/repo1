@@ -5,6 +5,8 @@ Two major sectors:
 
 The other sectors are unfamiliar to me.
 
+--sys call is not always hardware related. my linux book has a section on sys calls related to signals!
+
 --fuxi but no point publishing:
 To find a windows service name
 
