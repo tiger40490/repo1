@@ -1,7 +1,9 @@
 --new: writing to map 
 putIfAbsent: java uses putIfAbsent(); c++ uses insert()
 insertOrUpdate: java uses put(); c++ uses operator[]
-updateIfExisting: Both uses IF block?
+updateIfExisting: java uses replace(); 
+
+Note computeIfAbsent() is kinda more efficient than putIfAbsent which unconditionally computes the new "value" even though there's a 50/50 chance it is unneeded -- i.e. the preexisting-key scenario.
 
 --does data center rack space always mean cloud?
 Two major sectors:
