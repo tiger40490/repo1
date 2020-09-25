@@ -1,5 +1,5 @@
 -- new: technology churn on WallSt^internet
-my perception of churn has been fundamentally shaped by my two personal experiences -- pre-2007 internet career and post-2007 WallSt career.
+my perception of churn has been fundamentally shaped by two phases in my professional experiences -- pre-2007 internet career and post-2007 WallSt career.
 
 The technologies in the internet space has faster churn. 
 
