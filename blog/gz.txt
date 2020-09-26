@@ -19,6 +19,11 @@ limited memory capacity, unable to hold everything in L1 cache. Some content mus
 ** learn new pearls? LGlp unless it gets linked in via xref. 
 * localSys -- I never really allocate enough time on refresh. Maybe I should.
 
+--fuxi
+remote coding test is unauthenticated and never more than a screening test, not a ranking test to rank candidates.
+
+Ranking always requires face-to-face interview.
+
 -- fuxi?
 For 3 jobs I postponed my start date
 
