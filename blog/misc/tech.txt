@@ -1,7 +1,11 @@
+--new: sharedMem,semaphore: IPC is first version
+For semaphore, pthreads API is newer
+For sharedMem, Linux API is newer?
+
 --new: writing to map 
 putIfAbsent: java uses putIfAbsent(); c++ uses insert()
 insertOrUpdate: java uses put(); c++ uses operator[]
-updateIfExisting: java uses replace(); 
+updateIfExisting: java uses replace(); c++ needs if-block
 
 Note computeIfAbsent() is kinda more efficient than putIfAbsent which unconditionally computes the new "value" even though there's a 50/50 chance it is unneeded -- i.e. the preexisting-key scenario.
 
