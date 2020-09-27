@@ -1,7 +1,3 @@
---new: sharedMem,semaphore: IPC is first version
-For semaphore, pthreads API is newer
-For sharedMem, Linux API is newer?
-
 --new: writing to map 
 putIfAbsent: java uses putIfAbsent(); c++ uses insert()
 insertOrUpdate: java uses put(); c++ uses operator[]
