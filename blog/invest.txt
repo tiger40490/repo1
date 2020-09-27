@@ -1,6 +1,3 @@
---update blogpost on FIRE
-add link to Homesteading section of ERE blogpost
-
 -- my avg return rate
 properties outperformed. Even without appreciation, the rental savings mean 4% net return
 my unit trusts -- probably 2-4%
