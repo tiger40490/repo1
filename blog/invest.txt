@@ -1,9 +1,3 @@
--- my avg return rate
-properties outperformed. Even without appreciation, the rental savings mean 4% net return
-my unit trusts -- probably 2-4%
-Private equity -- I managed to recover from a big loss, so barely positive return overall
-
-I have a blogpost on the highest returns achieved. I think it's in compound
 
 --update blogpost on "half the stressor"
 cashflow stress is the biggest livelihood stress for most people
@@ -30,6 +24,15 @@ My default crbr is SGD 3k. Housing is a $0 net cost. If I live in a remote outsk
 Malaysia retirement is a natural extension of outskirt SG. It should produce even better crbr and brbr. 
 
 Remember, during retirement, brbr stil matters esp. if I descend to cash flow low ground.
+
+-- fuxi: %%avg return rate
+properties outperformed. Even without appreciation, the rental savings mean 4% net return
+my unit trusts -- probably 2-4%
+Private equity -- I managed to recover from a big loss (Airtropolic), so barely positive return overall
+
+A rigorous calc would include unrealized pnl from mark-to-market, ...
+
+I have a blogpost on the highest returns achieved. I think it's in compound
 
 --fuxi: FCF and big investments
 Some higih-earning individuals are unable to buy a home. I think my ex-colleagues Damien, Pinsky might be among them. I imagine they don't give it priority. 
