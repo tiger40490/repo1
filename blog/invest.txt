@@ -1,3 +1,25 @@
+-- new: gold vs endowment insurance
+Both gold and insurnace provides long-term capital protection.
+
+Different holding periods to realize the protection. In the standard scenario, both require long holding period. In special scenarios both can show quick return.
+* Insurance (not gold) delivers non-negative return as soon as you die (or TPD).
+* Gold (not insurance) can show a positive return depending on market
+
+.. hedge against stock declines.
+Both can be imperfect hedges. I have very low (below 1%) allocation to stocks but when my allocation grows to 5% this may be relevant.
+
+.. inflation: Gold is the strongest currency over long horizon. Insurance provides a fixed payout that fears inflation.
+
+.. liquidate when you need it
+Insurance is better when you have an "acceptable" reason to liquidate such as TPD. You are not subject to market condition.
+
+If you need the money for some other reason, then both liquidations can be unprofitable. 
+
+--why I don't want to increase my eq allocation from 1% to 10%?
+Main reason is current income vs windfall appreciation. 
+
+My rental properties deliver higher current income while appreciation may be higher or lower than SP500 
+
 --new: rent in JC; buy rental property nearby
 JC offers plenty of contract jobs + acceptable housing choices.
 
