@@ -1,4 +1,9 @@
---no blog: Q: carefree? why am i still so short of time? I think i'm still not carefree
+--no blog: 
+ERE Jacob pointed out that many early retirees have too much time and few meaningful projects. "Free from financial worries, but free to do ...." 
+
+That's opposite of my problems I'm facing in my carefree life now.
+
+Q: carefree? why am i still so short of time? I think i'm still not carefree
 * parenting -- requires a huge amount of time
 * BGC -- lots of decisions
 * gold -- 
@@ -9,15 +14,7 @@
 
 As revealed to my sis, there's still livelihood anxiety under the surface.
 
---fuxi
-blogging for time usage and blogging about blogging should NOT be cut.
-
---fuxi
-when would I have time for 
-* general nlg colorful, highly readable books about our body, transportation
-* reduce the git-blog files
-
---
+--no blog
 if I focus my attention on XR's question about how I make use of my free time on the job, I would derive some awareness, some pain, but probably not a lot of motivatio to change.
 
 If I have 4H/d freed up compared to past jobs, then 
@@ -32,6 +29,15 @@ my outing time with boy is still very very high, but better than P2 time when fo
 In a way, I have no better usage of my increased spare time. The tech xx doesn't feel so satisfying. Blogging is the most satisfying, more than workout.
 
 In Bayonne, I would spend it on workout, blogging, tech xx
+
+--fuxi
+blogging for time usage and blogging about blogging should NOT be cut.
+
+--fuxi
+when would I have time for 
+* general nlg colorful, highly readable books about our body, transportation
+* reduce the git-blog files
+
 --fuxi: weekend roti target is important in my recent experience. 
 Q: Is it possible that on some weekends I don't notice the low roti? 
 A: Unlikely. The poor roti would inevitably become obvious and irratating, similar to money wasted.
@@ -129,11 +135,6 @@ localsys? No
 stretch? Yes but no power surge in that space
 coach my son on wordy problems? No 
 coach my son on self-discipline and confidence? possibly
-
---fuxi jolt: comparing to my c++us days, my roti is now very poor 
-.. but I managed to avoid the (unthinkably) dreadful situation of family separation during covid19
-.. but why care about roti?
-.. but those high roti levels may be short-lived and based on biased data collection
 
 --fuxi: when overloaded with commitments in investment, parenting,,,
 
