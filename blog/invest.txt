@@ -5,19 +5,7 @@ I tend to look up towards U.S. and HK as high-income countries. Here's my critic
 * for main street: U.S. (not HK) is higher-income than SG, but BR is higher. Brbr is unclear.
 
 However, there are many other factors such as social safety net, opportunities.
---fuxi: current low burn rate=temporary
-I feel the long-term burn rate is SGD 5k including bx premiums, taxes, airtickets
 
---new: effective as retiree investor@@
-Yes in terms of my medical plan
-Yes in tersm of my college fund for my kids
-Yes in terms of my Fuller Wealth
-Yes mostly in terms of my focus on steady current income rather than appreciation
-
-No, because I have non-working young kids to support
-No, because I have 50 more years to live
-No, because I have no CPF or social-security income
-No, becasue I will have salary for 30Y or longer
 --new: rent in JC; buy rental property nearby
 JC offers plenty of contract jobs + acceptable housing choices.
 
@@ -33,6 +21,20 @@ cashflow stress is the biggest livelihood stress for most people. FIRE discussio
 family harmony, wellness ... can become more serious stressors.
 
 FOMO/kiasu/exclub/vanity are common stressors but void, empty
+
+--new: Am I effectively an retiree investor@@
+Yes in terms of my medical plan
+Yes in tersm of my college fund for my kids
+Yes in terms of my Fuller Wealth
+Yes mostly in terms of my focus on steady current income rather than appreciation
+
+No, because I have non-working young kids to support
+No, because I have 50 more years to live
+No, because I have no CPF or social-security income
+No, becasue I will have salary for 30Y or longer
+
+--fuxi: current low burn rate=temporary
+I feel the long-term burn rate is SGD 5k including bx premiums, taxes, airtickets
 
 -- fuxi: %%avg return rate
 properties outperformed. Even without appreciation, the rental savings mean 4% net return
