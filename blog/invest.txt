@@ -1,23 +1,23 @@
---new: was envious@U.S.salaries
-I tend to look up towards U.S. and HK as high-income countries. Here's my new assessment
+--new: envious of U.S. superior income
+I tend to look up towards U.S. and HK as high-income countries. Here's my critical assessment
 * for tech professionals: Yes U.S. (not HK) is much higher than SG, but BR is also higher, so brbr is unclear.
 * for WallSt techies: Yes U.S. and HK are higher-income than SG and many more jobs, but BR is higher. Brbr is probably inferior to SG.
 * for main street: U.S. (not HK) is higher-income than SG, but BR is higher. Brbr is unclear.
 
-However, there are many other factors such as social safety net, job opportunities, edu options, ... Too many.
+However, there are many other factors such as social safety net, job opportunities, edu options, 
 
 --update blogpost on "half the stressor"
 cashflow stress is the biggest livelihood stress for most people. FIRE discussions reinforce this common notion. I think it is only slightly exaggerated, like by 0.1%
 
 family harmony, wellness ... can become more serious stressors.
 
-FOMO/kiasu/exclub/vanity are common stressors but void, empty
+FOMO/kiasu/exclub/inferiority and waste-of-talent are common stressors but void
 
 --fuxi: current low burn rate=temporary
 I feel the long-term burn rate is SGD 5k including bx premiums, taxes, airtickets
 
 -- fuxi: %%avg return rate
-properties outperformed. Even without appreciation, the rental savings mean 4% net return
+properties outperformed. Even without appreciation, the rental savings alone translates to at least 4% net return
 my unit trusts -- probably 2-4%
 Private equity -- I managed to recover from a big loss (Airtropolic), so barely positive return overall
 
