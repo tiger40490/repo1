@@ -1,15 +1,3 @@
---new: rent in JC; buy rental property nearby
-JC offers plenty of contract jobs + acceptable housing choices.
-
-I think there is a small part in JC with a good school district. The area is likely too expensive to buy and featuring very poor rental yield. Therefore rent is better than buy.
-
-If rental too high, then consider a smaller home. Those smaller homes are probably unpopular among the richer families. For this reason, affordability is likely better.
-
-With savings from driving and time saved on commute, my livelihood pressure would be greatly relieved. At a later time I might want to rent a bigger home, thanks to flexibility of renting.
-
---update blogpost on 1Y delay
-Hukun also delayed by a year
-
 --locus
 if you attribute success to effort, you sound cocky, conceited, vain
 
@@ -21,20 +9,6 @@ Out of 100 c++ guys trying WallSt jobs, perhaps 70 are disqualified for the same
 The expertise entry-barrier is higher in C++, due to wider range of essential knowledge. Java is considered more of a commodity skill.
 
 Therefore, it's easier for me to ace the java QQ interview than c++ QQ interview.
-
---new: expensive cars breed unhealthy over-usage
-quality of life is correlated with more walking/cycling, less driving.
-
-However, the more expensive your car is, the worse you would feel leaving it underutilized in the garage 95% of the time.
-
-Rental car is expensive but worth considering. We may need to buy a car just to practice driving.
-
---update multiple blogposts:
-stress eating is now more important
-
---udpate blogpost
-gmail : alt-shift-5 for strike-through
-
 
 --new: price^value when choosing smartphones
 price of smartphone depends on

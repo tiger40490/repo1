@@ -1,11 +1,10 @@
---new: envious of U.S. superior income
-I tend to look up towards U.S. and HK as high-income countries. Here's my critical assessment
+--new: was envious@U.S.salaries
+I tend to look up towards U.S. and HK as high-income countries. Here's my new assessment
 * for tech professionals: Yes U.S. (not HK) is much higher than SG, but BR is also higher, so brbr is unclear.
 * for WallSt techies: Yes U.S. and HK are higher-income than SG and many more jobs, but BR is higher. Brbr is probably inferior to SG.
 * for main street: U.S. (not HK) is higher-income than SG, but BR is higher. Brbr is unclear.
 
-However, there are many other factors such as social safety net, job opportunities, edu options, 
-
+However, there are many other factors such as social safety net, job opportunities, edu options, ... Too many.
 
 --update blogpost on "half the stressor"
 cashflow stress is the biggest livelihood stress for most people. FIRE discussions reinforce this common notion. I think it is only slightly exaggerated, like by 0.1%
@@ -13,17 +12,6 @@ cashflow stress is the biggest livelihood stress for most people. FIRE discussio
 family harmony, wellness ... can become more serious stressors.
 
 FOMO/kiasu/exclub/vanity are common stressors but void, empty
-
---new: Am I effectively an retiree investor@@
-Yes in terms of my medical plan
-Yes in tersm of my college fund for my kids
-Yes in terms of my Fuller Wealth
-Yes mostly in terms of my focus on steady current income rather than appreciation
-
-No, because I have non-working young kids to support
-No, because I have 50 more years to live
-No, because I have no CPF or social-security income
-No, becasue I will have salary for 30Y or longer
 
 --fuxi: current low burn rate=temporary
 I feel the long-term burn rate is SGD 5k including bx premiums, taxes, airtickets
@@ -75,6 +63,8 @@ stocks,
 properties
 
 -- retirement destination
+fuxi
+
 YJL said he would stay close to the child. I think it is actually practical. They can help out and also receive help when they are old.
 For my wife and me, perhaps the more important criteria is job. I want to have a dev job till my 70's. Not likely in Singapore.
 -- fuxi or update blogpost on brbr?
