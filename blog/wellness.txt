@@ -9,3 +9,8 @@ Right postures are important but Modifications are often necessary. Saumik told 
 
 How do you tell the difference between a poor form vs a modification? I don't think we need a professional to devise the modifications.
 I would go with my own modifications. 
+
+--new: ccost in addition to tcost,$cost
+ccost = the number of calories /incurred/.
+
+tcost is also "incurred" rather than "spent".
