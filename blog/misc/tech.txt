@@ -71,8 +71,9 @@ bandwidth favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. Microwave did hit me.
 
--- clone() is needed mostly in one context -- immutable composite class
-This topic is relevant in QQ IV.
+--new: java clone() usage
+java clone() is needed mostly in one context -- immutable composite class
+This topic is relevant in IV.
 
 If you design a composite class (ImmComp) to be immutable, where some field is of type CC, then you need to clone each CC object received or returned from ImmComp. Remember the 2010 Citi muni interview.
 
@@ -82,41 +83,31 @@ Aha -- if CC is already an immutable class then things are simpler. We probably 
 Warning: CC could be the root of an object graph such as a tree. When we clone CC and CC contains a field of type DD, then a mutable DD would be part of CC's object state, and also ImmComp's object state. Any change to DD would break immutability of ImmComp :(
 
 -- new: stop/suspend/resume/destroy in java
-Occassional IV question
+Occassional IV question, but relatively low market value
 
-These four methods are still part of the API and stop/suspend/resume are implemented and available. (destroy() is never implemented.) They are all unsafe most for two reasons
+These four methods are still part of the API, and stop/suspend/resume are implemented and available. (destroy() is never implemented.) They are all unsafe mostly for two reasons
 
 1) suspend() forces the thread to suspend without releasing locks if any. Susceptible to deadlock. The resume() method is used with suspend().
 2) stop() forces the thread to die and release all locks. No deadlock risk AFAIK, but if the thread was forced to release a lock, then the lock is likely needed to protect some object state (such as fund transfer). Force-Release of the lock would expose those object's invalidate state.
 
--- to start excel with a spreadsheet file, i can run this command from git-bash:
+--fuxi: python: hasSameContent(dict1, dict2): return dict1 == dict2 
 
-$ start excel assets\{git.xls
-
---fuxi: hasSameContent(dict1, dict2): return dict1 == dict2 
-
---new or update:
-Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
-
+--fuxi
 Low latency on a multi-core machine would probably use a lot of threads in STM
 
+Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
+
 See Doug Lea for a broader perspective
-
---fuxi: mlphone bb app settings
-in any bb app, hit the bb icon at bottom right -> hit gear icon on bottom left -> per-app settings
-
---fuxi: cpu set seems to be a linux kernel feature, not just a container feature
 
 --new: untitled
 is malloc a kernel service, syscall or a userland function offered in a regular library?
 
 Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
 
-Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack?
-Can check my linux book
---fuxi: Martin's low-latency java talk
-java has no deallocation cost. C++ deallocation is worse than allocation. Deallocation may use locking if performed across threads.
+Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack? 
+Can check my linux book or google on brk()
 
+--fuxi:Martin's low-latency java talk
 My Questions
 Q: for low latency should we avoid concurrency ?
 A: yes

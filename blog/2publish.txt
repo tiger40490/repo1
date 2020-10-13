@@ -1,4 +1,8 @@
---locus
+--new: deallocation cost: j^c+++
+Based on a brief chat with Martin Thompson..
+java has no deallocation cost. C++ deallocation is worse than allocation. Deallocation may use locking if performed across threads.
+
+--update blogpost on locus
 if you attribute success to effort, you sound cocky, conceited, vain
 
 --update on c++ guys unlucky.
