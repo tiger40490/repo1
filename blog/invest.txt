@@ -1,17 +1,10 @@
---new: envious of U.S. superior income
+--fuxi: envious of U.S. superior income
 I tend to look up towards U.S. and HK as high-income countries. Here's my critical assessment
 * for tech professionals: Yes U.S. (not HK) is much higher than SG, but BR is also higher, so brbr is unclear.
 * for WallSt techies: Yes U.S. and HK are higher-income than SG and many more jobs, but BR is higher. Brbr is probably inferior to SG.
 * for main street: U.S. (not HK) is higher-income than SG, but BR is higher. Brbr is unclear.
 
 However, there are many other factors such as social safety net, job opportunities, edu options, 
-
---update blogpost on "half the stressor" https://tanbinvest.wordpress.com/wp-admin/post.php?post=14073&action=edit&classic-editor
-cashflow stress is the biggest livelihood stress for most people. FIRE discussions reinforce this common notion. I think it is only slightly exaggerated, like by 0.1%
-
-family harmony, wellness ... can become more serious stressors.
-
-FOMO/kiasu/exclub/inferiority and waste-of-talent are common stressors but void
 
 --fuxi: current low burn rate=temporary
 I feel the long-term burn rate is SGD 5k including bx premiums, taxes, airtickets
@@ -34,7 +27,7 @@ The high rent, of course, goes down the drain.
 
 Big investments don't necessarily require high brbr, but require savings i.e. FCF.
 
---t-budget for [[irrational exuberance]]?
+--fuxi: t-budget for [[irrational exuberance]]?
 Probably no impact on my investment decisions.
 
 --fuxi: when moving to the U.S. i'm likely to lose my current level of carefree/ffree, perhaps due to
@@ -49,6 +42,6 @@ SIA is better
 -- fuxi or update blogpost on brbr?
 Compared to 2016, my burn rate is down by 2-3k, partly due to pre-school, airfare, ...
 
-Now i feel $1k to $2k reduction in burn rate means a lot to my (brbr and) sense of confidence, peaceful leisure, wealth. I think this reveals a fundamental difference between me and my peers.
+Now i understand that $1k to $2k reduction in burn rate means a lot to my (brbr and) sense of confidence, peaceful leisure, wealth. I think this reveals a fundamental difference between me and my peers.
 
 Exclub wealth? Not enhanced by brbr improvement.
