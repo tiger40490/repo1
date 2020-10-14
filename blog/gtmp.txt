@@ -1,3 +1,11 @@
+--new: my occupation as required in forms
+othRisk
+
+I often prefer one-word answers, but a longer, positive answer could influence my self-image. 
+
+* engineer, software engineer, trading software engineer
+* programmer, trading system programmer
+
 --update the blogpost on HF
 t_fomo^livelihood
 To HF, do I come across as fully satisfied, without pains, except parenting?
