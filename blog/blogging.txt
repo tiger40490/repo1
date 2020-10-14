@@ -1,4 +1,4 @@
---new: tcost@refresh
+--new: tcost@blog refresh
 I wrote lots of blogposts with care, energy, laser focus, but i tend to forget them.
 I guess this is a limitation of my memory capacity.
 The tcost of refresh is growing with the volume of my blogs. If I don't want to incur this tcost, then a lot of the initial effort quickly lose value.
@@ -6,6 +6,21 @@ The tcost of refresh is growing with the volume of my blogs. If I don't want to 
 titles play a big role... I may need longer titles.
 
 xref is a key initiative
+
+-- new: Too-thorough-too-elaborate: thesis]my blogs.
+ Justified iFF writing for an readership. 
+The per-finance blog is the prime example. 
+
+In reality, I need some level of tolerance for incomplete, high-level or shallow /courage/ in this and other blogs. 
+This is because my time and laser is a scarce resource.
+I have to prioritize.
+
+--fuxi: word fine-tuning [1] in my blog
+best done in git blog
+
+helps me grow my vocab for self-care, for describing problems in my family while seeking help
+
+[1] I didn't say polish. My blog is not for a showroom
 
 --fuxi: i spent hours reviewing bedbug lessons in my blog, years after the traumatic experience. This deep review is crucial.
 
@@ -23,24 +38,13 @@ My G3 1stAid targets all require cognitive theraupy
 1) PIP, damaged good
 2) FOLB, slow track
 
---blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
+--new? 
+blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
 eg: U.S. housing
 eg: brain aging
 eg: retirement destination
 eg: school choices
 eg: timing of family migration
-
---new: ## topics spanning multiple blogs
-schooling -- mostly in 61060, but SDXQ goes into tanbinvest
-U.S. migration -- mostly in 610610, but tanbinvest covers housing, commute topics
-retirement destination -- mostly in tanbinvest, but some country comparison is in 610610
-
---new: 温故知新@blog beats frenDialog 
-There's a lot of insight in my blogposts for 温故知新. Arguably more fruitful than email exchanges with friends and reading books.
-
-Email exchange is more efficient than calling friends.
-
-Reading books is more rewarding than reading online.
 
 --git-bash dark background makes git-diff hard to read
 tip: zoom in 

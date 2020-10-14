@@ -24,3 +24,15 @@ According to my requirements, the "value" of a model depends on
 1. reliability
 2. screen size
 3. battery
+
+--new: ## topics spanning multiple blogs
+schooling -- mostly in 61060, but SDXQ goes into tanbinvest
+U.S. migration -- mostly in 610610, but tanbinvest covers housing, commute topics
+retirement destination -- mostly in tanbinvest, but some country comparison is in 610610
+
+--new: 温故知新@blog beats frenDialog 
+There's a lot of insight in my blogposts for 温故知新. Arguably more fruitful than email exchanges with friends and reading books.
+
+Email exchange is more efficient than calling friends.
+
+Reading books is more rewarding than reading online.
