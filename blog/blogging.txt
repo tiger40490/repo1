@@ -1,9 +1,8 @@
 --new: tcost@blog refresh
 I wrote lots of blogposts with care, energy, laser focus, but i tend to forget them.
 I guess this is a limitation of my memory capacity.
-The tcost of refresh is growing with the volume of my blogs. If I don't want to incur this tcost, then a lot of the initial effort quickly lose value.
-
-titles play a big role... I may need longer titles.
+I said this without comparing with other people. 
+The tcost of refresh is growing with the volume of my blogs. If I don't incur the refresh tcost, then a lot of the initial effort is quickly lost.. Fast decay
 
 xref is a key initiative
 
@@ -11,6 +10,7 @@ xref is a key initiative
 avoid fancy bullet points
 use longer titles to make similar blogposts more unique and valuable
 delete outdated blogposts?
+maintain more blogposts about memorable conversations 
 
 --fuxi: word fine-tuning [1] in my blog
 best done in git blog
