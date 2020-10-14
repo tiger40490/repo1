@@ -7,13 +7,10 @@ titles play a big role... I may need longer titles.
 
 xref is a key initiative
 
--- new: Too-thorough-too-elaborate: thesis]my blogs.
- Justified iFF writing for an readership. 
-The per-finance blog is the prime example. 
-
-In reality, I need some level of tolerance for incomplete, high-level or shallow /courage/ in this and other blogs. 
-This is because my time and laser is a scarce resource.
-I have to prioritize.
+.. to reduce tcost@blogging: 
+avoid fancy bullet points
+use longer titles to make similar blogposts more unique and valuable
+delete outdated blogposts?
 
 --fuxi: word fine-tuning [1] in my blog
 best done in git blog
