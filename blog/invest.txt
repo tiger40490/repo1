@@ -6,7 +6,7 @@ I tend to look up towards U.S. and HK as high-income countries. Here's my critic
 
 However, there are many other factors such as social safety net, job opportunities, edu options, 
 
---update blogpost on "half the stressor"
+--update blogpost on "half the stressor" https://tanbinvest.wordpress.com/wp-admin/post.php?post=14073&action=edit&classic-editor
 cashflow stress is the biggest livelihood stress for most people. FIRE discussions reinforce this common notion. I think it is only slightly exaggerated, like by 0.1%
 
 family harmony, wellness ... can become more serious stressors.
@@ -42,26 +42,9 @@ Probably no impact on my investment decisions.
 * commute
 * peer comparison 
 
--- what FSM funds are suitable for wife's 5k portfolio?
-fuxi?
-high risk high return equity funds. US funds?
-
---new: too much cash saved for legacy
-othRisk
-My "challenge" in this blogpost is not having too little left for my kids, but having too much cash now, 50Y before my expected end of life. This is a minor challenge compared to all my other challenges.
-
-Default plan is not donation but legacy to my 2 children and grandchildren (if I'm lucky). If something happens to them and my wife goes before me, then donation is an acceptable default.
-
-Most important-yet-neglected factors within my control -- 1) longevity and career longevity 2) what my kids become. These controllable factors ought to be my focus.
-
-Next, keep an eye on the long-horizon risks, beyond inflation. See my blogpost on "financial protections: powerless against some rare disasters"
-
-Next question: what asset classes are suitable for holding long-term beyond 50Y.
-
-If I have more confidence about holding long-term, then I can afford to take more risks. However, I hate long troughs (see the other blogpost)
-* gold, 
-stocks, 
-properties
+--fuxi: what FSM funds are suitable for wife's 5k portfolio?
+high risk high return equity funds. US funds? but now might be a wrong time to go in.
+SIA is better
 
 -- fuxi or update blogpost on brbr?
 Compared to 2016, my burn rate is down by 2-3k, partly due to pre-school, airfare, ...
