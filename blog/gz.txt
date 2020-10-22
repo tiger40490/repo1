@@ -1,3 +1,9 @@
+--new? outlier salary can appear commonplace
+eg: my reply to XR on 250k fresher salary
+eg: IC designer salary in China, according to Zhang Jiong
+eg: FB salary in SG, according to Ajay and other Singapore trading devs
+eg: SGD 240k total comp offered by Jump. Well, the base could be 160k
+
 -- new: technology churn on WallSt^internet
 my perception of churn has been fundamentally shaped by two phases in my professional experiences -- pre-2007 internet career and post-2007 WallSt career.
 
