@@ -10,6 +10,16 @@ Q: Is there an example of sugary foods without oil or starch?
 Q: Is there an example of fatty foods without sugar or starch? 
 A: unshelled peanuts + other nuts
 
+--new:
+Many popular diets ignore the fact that per 100 gram, fat has more than twice the number of calories as carb or protein.
+
+Therefore, I always insist on limiting fat intake.
+
+-- new: popular western diets: created in cultures without starch reliance
+In Chinese culture, starch is the "main food", so most of us are brought up eating starch in every meal. Without starch, it's hardly a meal.
+
+That's one reason those popular diets are unpopular among some Chinese people.
+
 --fuxi: mix veg rice without rice
 I should try this more. 
 Without rice, I felt less guilty, more free
