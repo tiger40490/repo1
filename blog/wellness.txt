@@ -10,15 +10,17 @@ Q: Is there an example of sugary foods without oil or starch?
 Q: Is there an example of fatty foods without sugar or starch? 
 A: unshelled peanuts + other nuts
 
---new:
+--fuxi:
 Many popular diets ignore the fact that per 100 gram, fat has more than twice the number of calories as carb or protein.
 
 Therefore, I always insist on limiting fat intake.
 
--- new: popular western diets: created in cultures without starch reliance
+-- new: popular western diets: created in cultures with lower starch reliance
 In Chinese culture, starch is the "main food", so most of us are brought up eating starch in every meal. Without starch, it's hardly a meal.
 
 That's one reason those popular diets are unpopular among some Chinese people.
+
+However, majority of western meals also feature starch.
 
 --fuxi: mix veg rice without rice
 I should try this more. 
@@ -31,10 +33,8 @@ What if money is not an issue? i would live away from family for several days wh
 
 --update or fuxi
 Q: Can protein powder replace a meal?
-
 With plenty of ice (chia seed is secondary) it did fill my stomach AND provide energy. However, the wrong-time temptation is overpowering. 
 I think key is starch. Protein powder has no starch. If I have not tasted starch for a while, then it's hard.
 
-Q: how about some rice or red bean paste?
-
+Q: how about red bean paste?
 Let me say it again -- chia, ice, protein powder can provide a full meal, but if you have had no starch for a while, then the temptations simply wipe out everything and you can feel hungry (hedonic) again. This is the nature of our senses. 
