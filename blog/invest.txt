@@ -1,3 +1,19 @@
+-- SRS
+benefit: reduce chargeable income. marginal tax rate more likely 15% than 11.5%
+
+SRS balance can invest in gold, ETF@SGX, a few stocks@SGX. accrual 0.05% if not invested.
+
+concerns
+62 -- before this age, withdrawals will incur 5% early withdrawal penalty (no minimum). The other 95% will be consider assessable income
+after 62. 50% of the withdrawal amount goes into asessable income
+
+Here's my withdrawal plan, Assuming I still have high salary in the U.S. but not in SG:
+
+before 62 I can withdraw around 20k/Y. I pay 5% early withdrawal penalty. The other 19k goes into assessible income and hopefully incur no tax.
+after 62 I can withdrawl up to 40k/Y. Half of it will be assessable income to IRAS. 20k chargeable will incur 0 tax
+
+CPF top-up is an alternative
+
 -- compared to condos, sg landed prop has even lower rental yield and demand.
 Most renters won't need such a big home.
 Also, most renters don't want to drive every day. Landed properties usually lack public transport connectivity.
