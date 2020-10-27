@@ -1,23 +1,26 @@
--- SRS
+-- new: SRS
 benefit: reduce chargeable income. marginal tax rate more likely 15% than 11.5%
 
 SRS balance can invest in gold, ETF@SGX, a few stocks@SGX. accrual 0.05% if not invested.
 
-concerns
-62 -- before this age, withdrawals will incur 5% early withdrawal penalty (no minimum). The other 95% will be consider assessable income
-after 62. 50% of the withdrawal amount goes into asessable income
+If no investment return then the 15% gain would be too low to compensate for the loss of liquidity
+
+.. concerns
+before 62, withdrawals will incur 5% early withdrawal penalty (no minimum). The other 95% will be considered assessable income
+after 62. No penalty. 50% of the withdrawal amount goes into asessable income
 
 Here's my withdrawal plan, Assuming I still have high salary in the U.S. but not in SG:
 
 before 62 I can withdraw around 20k/Y. I pay 5% early withdrawal penalty. The other 19k goes into assessible income and hopefully incur no tax.
 after 62 I can withdrawl up to 40k/Y. Half of it will be assessable income to IRAS. 20k chargeable will incur 0 tax
 
-CPF top-up is an alternative
+CPF top-up is an alternative, but more severe liquidity constraint
 
--- compared to condos, sg landed prop has even lower rental yield and demand.
-Most renters won't need such a big home.
+-- compared to condos, sg landed prop has even lower rental demand and yield. See the blogpost on 1BR vs 2BR
+Very few renters need such a big home.
 Also, most renters don't want to drive every day. Landed properties usually lack public transport connectivity.
 
+I would say landed properties are more of a luxury but still better than luxury cars which depreciate.
 -- update blogpost on SEA street food
 In SG the hawker center stalls are not popular with the younger generation of stall owners.  This trend could translate to nutrition inflation. 
 
