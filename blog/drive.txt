@@ -1,7 +1,7 @@
---new: driving=a big yet unavoidable weakness 
+-- new: driving=a big yet unavoidable weakness 
 Compare my weakness in ladder climbing...
 
---new: 
+--fuxi: 
 I want to review my driving blog, relive the experience, and gain more insight
 
 The blog feels like a diary.
@@ -11,8 +11,8 @@ There were so many things to watch out for. There were so many dangers.
 
 Because i had so much trouble learning the multiple challenges of driving, I wanted to practice in difficult situations such as NYC. I think it worked to some extent. 
 
---new:
-where did I make the most mistakes? I think my blog can help.
+--new: where did I make the most mistakes
+I think my blog can help.
 
 -- new: driving required such a slow leraning curve
 During the prolonged learning process, I was so unsure about the challenges. (How about my son?)
