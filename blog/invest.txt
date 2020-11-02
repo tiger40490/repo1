@@ -1,7 +1,7 @@
 -- new: SRS
 benefit: reduce chargeable income. marginal tax rate more likely 15% than 11.5%
 
-SRS balance... can invest in gold, ETF@SGX, a few stocks@SGX. accrual 0.05% if not invested.
+SRS balance... can invest in gold, ETF@SGX, a few stocks@SGX. accrual 0.05% per year if not invested.
 
 .. concerns
 before 62, withdrawals will incur 5% early withdrawal penalty (no minimum). The other 95% will be considered assessable income
