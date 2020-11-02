@@ -3,19 +3,19 @@ benefit: reduce chargeable income. marginal tax rate more likely 15% than 11.5%
 
 SRS balance... can invest in gold, ETF@SGX, a few stocks@SGX. accrual 0.05% if not invested.
 
-.. simple plan:
+.. concerns
+before 62, withdrawals will incur 5% early withdrawal penalty (no minimum). The other 95% will be considered assessable income
+
+after 62. No penalty, 50% of the withdrawal amount goes into asessable income
+
+.. simple plan: Assuming I still have high salary in the U.S. but not in SG:
 Lock up 10k in 2020 to save $1.5k as cash payout. When not working in SG, withdraw $10k (up to 20k) and pay 5% penalty ($500).
 
-If no investment return then the 10% gain would be too low to compensate for the loss of liquidity over the intervening years?
+If no investment return then the 10% gain would be too low to compensate for the loss of liquidity over the intervening years? 
 
 I think I am likely to invest it, but for now, let's assume laziness and LGpp.
 
-.. concerns
-before 62, withdrawals will incur 5% early withdrawal penalty (no minimum). The other 95% will be considered assessable income
-after 62. No penalty, 50% of the withdrawal amount goes into asessable income
-
-Here's my withdrawal plan, Assuming I still have high salary in the U.S. but not in SG:
-
+.. slightly bigger plan
 before 62 I can withdraw around 20k/Y. I pay 5% early withdrawal penalty. The other 19k goes into assessible income and hopefully incur no tax.
 after 62 I can withdrawl up to 40k/Y. Half of it will be assessable income to IRAS. 20k chargeable will incur 0 tax
 
@@ -26,7 +26,7 @@ Very few renters need such a big home.
 Also, most renters don't want to drive every day. Landed properties usually lack public transport connectivity.
 
 I would say landed properties are more of a luxury but still better than luxury cars which depreciate.
--- new: $1k reduction in burn rate
+-- new: $1k reduction ] burn rate
 Compared to 2016, my burn rate is down by 2-3k, partly due to pre-school, airfare, ...
 
 Now i understand that $1k to $2k reduction in burn rate means a lot to my (brbr and) sense of confidence, peaceful leisure, wealth. I think this reveals a fundamental difference between me and my peers, who don't care much about $1k reduction in burn rate.
@@ -81,8 +81,3 @@ Probably no impact on my investment decisions.
 * brbr
 * commute
 * peer comparison 
-
---fuxi: what FSM funds are suitable for wife's 5k portfolio?
-high risk high return equity funds. US funds? but now might be a wrong time to go in.
-SIA is better
-
