@@ -1,3 +1,22 @@
+--new: socket API is not designed for microsec response to signals
+I think signals are popular and proven tools to socket programmers.
+
+When a signal is sent to a socket program, the response is not immediate. I think the receiving program must notice it and react to it.  
+
+I think if faster response is required, then the "event" should be delivered via the socket itself. The proogram would pick up synchronously. 
+
+--new: getsockopt() optLen: api design technique
+Based on P44 [[tcp/ip sockets in C]]
+getsockopt() last parameter is optlen. This is an in-out pointer parameter.
+
+* As input, it indicates the size of a buffer that would receive the output. "Hey Holywood, here my optLen is a size describing how many bytes you can write into my buffer."
+
+* As output, it indicates the size of a buffer containing the output. "Hey caller, here optLen is a size describing how many bytes I have written into your buffer."
+
+Becasue of the in-out usage, optLen is a pointer. If only as ouput, it can be a return value. If only an input it should be a nonref.
+
+Note the buffer can be on stack.
+
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
 --fuxi but no point publishing:
 To find a windows service name
