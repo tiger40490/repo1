@@ -23,10 +23,6 @@ After I told Grandpa about the bedtime conversation, he delivered a shocking rem
 
 This gives me another motivation for healthy longevity -- if my son's income is below average, then I want to hang around to help him. 
 
--- jock itch, due to fungal
--- weight went up by 14 kg from Jan 2019, too fast even for a growing boy
-Pr(adult overweight | overweight as child) = 70%
-
 -- new: smartphone can be acceptable for boy #OPL
 Pearleen Ong on 19 Oct suggested that smartphone is widely considered a semi-necessity, so it's probably not necessary to delay the handover
 
@@ -65,6 +61,9 @@ A: 成绩，体重. 管得太累
 
 Q: can you reduce your phone screen time and influence your son to do the same?
 
+--fuxi: jock itch, due to fungal
+--no blog: weight went up by 14 kg from Jan 2019, too fast even for a growing boy
+Pr(adult overweight | overweight as child) = 70%
 
 -- no blog:
 am not spending enough workout time with meimei
@@ -95,8 +94,5 @@ self care: Also more important than the discussions is blog review and git-blogg
 Sometimes work project can provide work stress, or positive stress, depending on my concentration.
 
 I feel lucky to have the office as my sancturary + short commute.
-
--- alternative to the gaming penalty:
-each 30 min on computer = 5 pages or 3 laps (but I would need to bring him there.)
 
 -- David's suggestion: make stories together with him, to illustrate the direct link between current study effort and consequent enjoyment/satisfaction
