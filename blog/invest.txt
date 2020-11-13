@@ -28,10 +28,10 @@ Can we strike a balance? I think we need to be confident.
 .. case: gold: thanks to my extensive analysis and due to the large bid/ask spread, i think we can commit bigger amounts like 3K+
 
 --no blog
-XH felt $2M asset would support a comfortable burn rate. I said that's too hard for most people. However, I think he is not obsessed and fixated on that target... fortunately for him.
+XH felt $2M asset would support a comfortable burn rate without salary. I said that's too hard for most people. However, I think he is not obsessed and fixated on that target... fortunately for him.
 
---new or updated zero-sum game
-I still believe that on the secondary market, stocks and bonds generate income out of thin air.
+--new or update on zero-sum game
+I still believe that on the secondary market, stocks and bonds are not zero-sum games as they generate income out of thin air.
 
 For stocks, there's also a general trend of long-term appreciation. We can use official closing price as a fair valuation.
 
