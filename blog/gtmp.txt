@@ -1,3 +1,7 @@
+--update piano goal
+faster reading of unfamilar score
+faster identification of major vs minor root - can we use a digital piano
+
 --new: Chinese writers on self-mgmt
 Since my teenage years, I always believe  Japanese population has talents esp. in thought leadership. (I bought many translated books by English and Japanese writers.)
 Japan is a large population with top talents across all fronts.
