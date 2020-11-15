@@ -5,6 +5,8 @@
 * somewhat ambitious moving up to a more senior or more lucrative position in the same team.
 ** am OK with no bonus no raise, and AVP job title iff secure
 
+They speak a shrewd, politically correct yet insightful language. In contrast, I speak my plain, long-winded, foolhardy language, sometimes without thinking too much. Remember my exchange with LSAgain? In the end, I have survived on my tech IV skills. Some of these guys move up, gain OC-effectiveness, but who cares about those things?
+
 --update on placement new
 I think placement new has two distinct usages
 1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
