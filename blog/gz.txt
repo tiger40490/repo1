@@ -1,3 +1,9 @@
+-- no blog: in the zoom seminar on receiving feedback, the 5 active participants are all the same types
+* eloquent
+** my English might be slightly better
+* shrewd
+* somewhat ambitious moving up to a more senior or more lucrative position in the same team.
+** am OK with no bonus no raise, and AVP job title iff secure
 
 --update on placement new
 I think placement new has two distinct usages
