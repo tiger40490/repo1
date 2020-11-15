@@ -1,15 +1,3 @@
---common reasons against moving to U.S. in their mid-30s
-These deep, real reasons help me understand my position, my SWOT
-
-..they need to rebuild a career, because U.S. doesn't recognize Singapore experience.
-In a way, my move to web2.0 would be similiar.
-
-..The promised good jobs in U.S. may not be available to them.
-Competitive interviews.
-
-..uncertainty and risk, vs stable, secure current job in SG
-..racial discrimination
-..immigration complications
 
 --update on placement new
 I think placement new has two distinct usages
@@ -45,6 +33,19 @@ limited memory capacity, unable to hold everything in L1 cache. Some content mus
 * QQ, CIV pearls -- need to focus on the evergreen, xref and thick->thin
 ** learn new pearls? LGlp unless it gets linked in via xref. 
 * localSys -- I never really allocate enough time on refresh. Maybe I should.
+
+--fuxi: common reasons against moving to U.S. in their mid-30s
+These deep, real reasons help me understand my position, my SWOT
+
+..they need to rebuild a career, because U.S. doesn't recognize Singapore experience.
+In a way, my move to web2.0 would be similiar.
+
+..The promised good jobs in U.S. may not be available to them.
+Competitive interviews.
+
+..uncertainty and risk, vs stable, secure current job in SG
+..racial discrimination
+..immigration complications
 
 --fuxi
 remote coding test is unauthenticated and never more than a screening test, not a ranking test to rank candidates.
@@ -108,7 +109,7 @@ Tech IV skills (coding drill and QQ) are absolutely essential to me not THEM.
 They only need to pass IV once a while, and try to stay in one job for years. 
 If tech IV and competing with youngsters is a painful process for them, then they would not keep practicing.
 
--- new: back to home town like a king
+-- fuxi: back to home town like a king
 LS once shared his view that at the same salary (say, 200k) in the U.S. he would be somewhat affluent, but in China he would be super rich in comparison with his /fellow countrymen/. I guess this is a fundamental (therefore powerful) motivator for some people in my circle.
 
 As a less extreme but more widespread case, the covid19 economic fallout puts some tech workers in an enviable position relative to their fellow countrymen.
