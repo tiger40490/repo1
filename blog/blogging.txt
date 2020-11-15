@@ -3,6 +3,16 @@ as of 15 Nov 2020, my git blog files are much bigger than before, proving that I
 
 More important is piano, helping kids (on math...), localSys, wellness activities, even family outing
 
+However, the large amount of no-blog or fuxi content in git-blogging is slow me down... growing baggage. Need to be removed sooner or later
+
+--new? 
+blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
+eg: U.S. housing
+eg: brain aging
+eg: retirement destination
+eg: school choices
+eg: timing of family migration
+
 --fuxi or update blogpost on wp hosting
 I think xh.fu is relatively free (working 4h/d) and hopefully available to help me by email, call or even in-person.
 
@@ -28,14 +38,6 @@ With a large number of blogposts, it Will always be hard to remember which is wh
 My G3 1stAid targets all require cognitive theraupy
 1) PIP, damaged good
 2) FOLB, slow track
-
---new? 
-blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
-eg: U.S. housing
-eg: brain aging
-eg: retirement destination
-eg: school choices
-eg: timing of family migration
 
 --git-bash dark background makes git-diff hard to read
 tip: zoom in 
