@@ -1,9 +1,10 @@
 -- new: respect not tied2peer-benchmarking
 Nothing much new, but a useful revision.
 
-I told a Cigna counsellor, what's really important to my job satisfaction is respect, but the elephant in the room is benchmarking.
+I told a Cigna counsellor, what's really important to my job satisfaction is respect, but the elephant in the room ... is benchmarking.
 
-GS is the most direct experience. Respect from manager, peers, users and even self-respect is mostly based on benchmarking within your own team, and within the bigger department. 
+GS is the most direct experience. Respect from manager, peers, users and even self-respect is mostly based on benchmarking within your own team, and within the bigger department.
+My ErrorMemos user in Texas gave me exceed, perhaps based on his past experience with other developers. Yet my manager found me nothing spectacular.
 
 Users and External peers and users may not know what the other team members are able to achieve *if put in my shoes* so no benchmark per se. Yet these evaluators have an expectation and based on it, a level of respect to you
 
