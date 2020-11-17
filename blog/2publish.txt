@@ -1,3 +1,15 @@
+-- new: technology churn on WallSt^internet
+my perception of churn has been fundamentally shaped by two phases in my professional experiences -- pre-2007 internet career in SG and post-2007 WallSt career in US/SG.
+
+The technologies in the internet space has faster churn. 
+
+A big chunk of WallSt infrastructure is browser-based, intranet or internet. They experience similiar level of churn. Jxee is affected. Remember PWM servlet-based framework?
+
+Another chunk of WallSt infrastructure is low churn, including coreJava, c++, SQL, MOM, FIX, sockets, batch jobs
+
+By the way, Linux is dominant on WallSt and in the broader internet ecosystem.
+
+UI technology is usually high-churn. Increasingly browser-based.
 
 -- new: wind-down tcost: to be embraced
 Opening eg: In Bayonne, after every yoga+pull-up workout, I would spend about 2 hours shopping to wind down. It's a kind of reward, so that the prospect of the next session is not so off-putting. 

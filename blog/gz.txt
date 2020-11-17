@@ -28,25 +28,12 @@ Excellence is measured on personal growth. This is within the student's circle o
 
 They speak a shrewd, politically correct yet insightful language. In contrast, I speak my plain, long-winded, foolhardy language, sometimes without thinking too much. Remember my exchange with LSAgain? In the end, I have survived on my tech IV skills. Some of these guys move up, gain OC-effectiveness, but who cares about those things?
 
-
---new or fuxi? outlier salary can appear commonplace
+--new or fuxi? outlier salary can seem commonplace
 eg: my reply to XR on 250k fresher salary
 eg: IC designer salary in China, according to Zhang Jiong
 eg: FB salary in SG, according to Ajay and other Singapore trading devs
 eg: SGD 240k total comp offered by Jump. Well, the base could be SGD 160k
 
--- new: technology churn on WallSt^internet
-my perception of churn has been fundamentally shaped by two phases in my professional experiences -- pre-2007 internet career in SG and post-2007 WallSt career in US/SG.
-
-The technologies in the internet space has faster churn. 
-
-A big chunk of WallSt infrastructure is browser-based, intranet or internet. They experience similiar level of churn. Jxee is affected. Remember PWM servlet-based framework?
-
-Another chunk of WallSt infrastructure is low churn, including coreJava, c++, SQL, MOM, FIX, sockets, batch jobs
-
-By the way, Linux is dominant on WallSt and in the broader internet ecosystem.
-
-UI technology is usually high-churn. Increasingly browser-based.
 
 -- new: refresh: localSys^QQ^blog
 limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
