@@ -28,13 +28,6 @@ Excellence is measured on personal growth. This is within the student's circle o
 
 They speak a shrewd, politically correct yet insightful language. In contrast, I speak my plain, long-winded, foolhardy language, sometimes without thinking too much. Remember my exchange with LSAgain? In the end, I have survived on my tech IV skills. Some of these guys move up, gain OC-effectiveness, but who cares about those things?
 
---update on placement new
-I think placement new has two distinct usages
-1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
-
-2) for primitive types like int, it informs the compiler to treat the raw memory as "int", without malloc.
-
-2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
 
 --new or fuxi? outlier salary can appear commonplace
 eg: my reply to XR on 250k fresher salary
