@@ -1,3 +1,19 @@
+
+--update blogpost on java=outlier
+These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
+C#, WPF
+perl
+stored proc
+mysql
+php
+apache, DNS
+LotusNotes apps for Raymond
+
+Was I lucky? I was lucky only with coreJava !
+I had my share of unluckiness.
+
+I feel by 2030 java bigData will go out of fashion just like java Generics, Hibernate, functional java, streams API, .
+
 -- new: technology churn on WallSt^internet
 my perception of churn has been fundamentally shaped by two phases in my professional experiences -- pre-2007 internet career in SG and post-2007 WallSt career in US/SG.
 

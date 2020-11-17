@@ -18,11 +18,6 @@ Excellence is measured on personal growth. This is within the student's circle o
 .. researchers like my dad
 
 .. my piano practice and yoga .. is a different form of "respect". I exceed my limitations and my inertia and I derive various benefits, all without benchmarking.
---new or fuxi? outlier salary can seem commonplace
-eg: my reply to XR on 250k fresher salary
-eg: IC designer salary in China, according to Zhang Jiong
-eg: FB salary in SG, according to Ajay and other Singapore trading devs
-eg: SGD 240k total comp offered by Jump. Well, the base could be SGD 160k
 
 -- new: refresh: localSys^QQ^blog
 limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
@@ -32,22 +27,7 @@ limited memory capacity, unable to hold everything in L1 cache. Some content mus
 ** learn new pearls? LGlp unless it gets linked in via xref. 
 * localSys -- I never really allocate enough time on refresh. Maybe I should.
 
---update blogpost on java=outlier
-These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
-C#, WPF
-perl
-stored proc
-mysql
-php
-apache, DNS
-LotusNotes apps for Raymond
-
-Was I lucky? I was lucky only with coreJava !
-I had my share of unluckiness.
-
-I feel by 2030 java bigData will go out of fashion just like java Generics, Hibernate, functional java, streams API, .
-
---new winUpdate category:unavoidable pain
+--new baby post: winUpdate : unavoidable annoyance
 The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
 
 The only solution I found so far is landGrab. I felt silly to spend hours setting up the tools to support landGrab. zsms! The zsms is annoying to say the least.
@@ -61,7 +41,7 @@ In theory, someone who doesn't practice can also get lucky, but I don't believe 
 
 Actually, my windowsUpdate situation is better than CSY's situation, becasue I have a working solution.
 
-.. When living in the U.S. Driving is a big, unavoidable problem.
+.. When living in the U.S. Driving is a big, unavoidable problem. I will choose to live in walkable communities with subway. Look at Beijing and SG, perhaps also HK
 
 .. boys' phone addiction and weight are unavoidable problems.
 

@@ -1,3 +1,5 @@
+-- fuxi: consider deleting blogposts on FSM funds and FXO trading
+
 --no good title
 as of 15 Nov 2020, my git blog files are much bigger than before, proving that I am spending less time publishing blog online. this is a good change.
 
