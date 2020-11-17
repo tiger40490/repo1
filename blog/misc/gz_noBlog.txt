@@ -1,3 +1,69 @@
+
+--fuxi: common reasons against moving to U.S. in their mid-30s
+These deep, real reasons help me understand my position, my SWOT
+
+..they need to rebuild a career, because U.S. doesn't recognize Singapore experience.
+In a way, my move to web2.0 would be similiar.
+
+..The promised good jobs in U.S. may not be available to them.
+Competitive interviews.
+
+..uncertainty and risk, vs stable, secure current job in SG
+..racial discrimination
+..immigration complications
+
+--new Hai3Deng1 effect
+t_uchicago
+Most people who claim an expertise do have some expertise, even if exaggerated slightly. Most audience won't bother to verify the credentials.
+
+My UChicago GPA is 100% authentic. In a fast-moving market, credibility and assurance from known-brands matter. Probably needed it in a declining phase of my career. It's insurance protection for my career.
+
+My java/c++ QQ knowledge is not advanced expertise, but is enough to pass many external benchmarks.
+
+--fuxi
+remote coding test is unauthenticated and never more than a screening test, not a ranking test to rank candidates.
+
+Ranking always requires face-to-face interview.
+
+-- no blog: in the zoom seminar on receiving feedback, the 5 active participants are all the same types
+* eloquent
+** my English might be slightly better
+* shrewd
+* somewhat ambitious moving up to a more senior or more lucrative position in the same team.
+** am OK with no bonus no raise, and AVP job title iff secure
+
+They speak a shrewd, politically correct yet insightful language. In contrast, I speak my plain, long-winded, foolhardy language, sometimes without thinking too much. Remember my exchange with LSAgain? In the end, I have survived on my tech IV skills. Some of these guys move up, gain OC-effectiveness, but who cares about those things?
+
+-- fuxi?
+For 3 jobs I postponed my start date
+
+* Qz -- to maximize the most relaxing phase of any job
+* Macq -- to extend the job hunt (on bench) after securing an offer. I was already in good shape for c++ interviews in SG.
+* MLP -- Similar to Macq case, but not on bench. Before I secured the MLP offer, I had created a valuable momentum and peak absorbency for coding drill.
+
+--new: untitled
+This write-up is too vague at this stage.
+
+Writing work emails, I often feel unsure of the nuances and potential reactions (ever so subtle) in the recipients. Work email etiquette is too numerous, too nuanced for me.
+
+Actully this 'unsure' feeling might be a sign of my sensitivity and maturity.
+
+Some of my so-called peers are much more confident about these nuances. They write quick, informal, barely acceptable English sentences, sometimes too short sometimes too lengthy. But they are confident there's nothing offending. They are often managers. I often feel inferior to them.
+
+Actually written communication is still my relative strength compared to spoken communication. My weakness is more severe in spoken communications since I have very little time to react, to process the message I send across.
+
+Sometims everyone has very little time to react, but most people are more natural more confident than I am.
+
+--fuxi
+jGC knowledge is high-churn. The insight and halo you build loses value over 10 years.
+
+--fuxi: untitled
+For all my career esp. after 35, my competitive strengths in theoretical + details are evergreen and vital advantages in tech IV.
+
+Performance (including bigO, but excluding field turning) is all about details.
+
+In contrast, speed coding is less of "my game". It is like a sprint race for a footballer.
+
 --new: envious of U.S. superior income
 I tend to look up towards U.S. and HK as high-income countries. Here's my critical assessment
 * for inet tech professionals: Yes U.S. (not HK) is much higher than SG, but BR is also higher, so brbr is unclear.
@@ -5,6 +71,35 @@ I tend to look up towards U.S. and HK as high-income countries. Here's my critic
 * for main street techies: U.S. (not HK) is higher-income than SG, but BR is higher. Brbr is unclear.
 
 However, there are many other factors such as social safety net, job opportunities, edu options, 
+
+--fuxi:
+GTD_selfXX -- when is a good time? When do I have the absorbency?
+chipaway when in the mood
+
+--new: untitled
+for many peers (LS, Sunil, CNA...), the main goal is higher income but for me dev-till-70 is more valuable.
+
+Contract job market is better for me not THEM.
+
+Core java is one of the best tech domains. I can stick to java (keeping c++ critical mass). THEY may need to accept some corporate technology stack like cloud or Qz or data analytics.
+
+Tech IV skills (coding drill and QQ) are absolutely essential to me not THEM.
+They only need to pass IV once a while, and try to stay in one job for years. 
+If tech IV and competing with youngsters is a painful process for them, then they would not keep practicing.
+
+-- fuxi: back to home town like a king
+LS once shared his view that at the same salary (say, 200k) in the U.S. he would be somewhat affluent, but in China he would be super rich in comparison with his /fellow countrymen/. I guess this is a fundamental (therefore powerful) motivator for some people in my circle.
+
+As a less extreme but more widespread case, the covid19 economic fallout puts some tech workers in an enviable position relative to their fellow countrymen.
+
+Q: is it intrinsic or extrinsic motivation? Not sureQ: how is FOMO related? I think in U.S. he would feel the FOMO fear but in China he would be the target of envy.
+
+Why I bother with this question? Because this is a subtle factor in my choice of the country for my family
+
+.. BGC and Cambodia experiences:
+For a few days I did live like such a king, but the feeling was not really satisfying.
+
+.. brbr: To me, when comparing U.S. vs "lower" countries, BRBR is more important than this factor.
 
 --fuxi
 I had open conflicts with managers in SCS, VZ, GS, albeit mild conflicts in Barcap
