@@ -12,6 +12,14 @@ Those writing networking/socket programs outside C are on the peripheral/sidelin
 
 Therefore, I believe my past socket QQ interview questions are alien to those high-level candidates.
 
+-- fuxi: refresh on localSys^QQ^nontech-blog
+limited memory capacity, unable to hold everything in L1 cache. Some content must fetch from disk.
+
+* top 200 of the nontech blogposts in recrec -- refresh is time-consuming
+* QQ, CIV pearls -- (about 50% in blog) need to focus on the evergreen, xref and thick->thin
+** learn new pearls? LGlp unless it gets linked in via xref. 
+* localSys -- I never really allocate enough time on refresh. Maybe I should.
+
 --fuxi: common reasons against moving to U.S. in their mid-30s
 These deep, real reasons help me understand my position, my SWOT
 
