@@ -47,11 +47,12 @@ I had my share of unluckiness.
 
 I feel by 2030 java bigData will go out of fashion just like java Generics, Hibernate, functional java, streams API, .
 
---new winUpdate^codingDrill
+--new winUpdate category:unavoidable pain
 The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
 
 The only solution I found so far is landGrab. I felt silly to spend hours setting up the tools to support landGrab. zsms! The zsms is annoying to say the least.
 
+.. coding drill
 I feel CSY's view on coding practice is similar in that he probably feels silly to spend months on it, but he just couldn't find any better solution to this huge and immediate problem. 
 
 In contrast, Deepak has a positive attitude. Some may say that over 3 years, Deepak won't improve to get ahead of CSY, but who are we to judge. Life is full of surprises. Deepak will improve as long as he keeps up the practice, and someday he will get lucky. 
@@ -60,9 +61,9 @@ In theory, someone who doesn't practice can also get lucky, but I don't believe 
 
 Actually, my windowsUpdate situation is better than CSY's situation, becasue I have a working solution.
 
-boys' phone addiction and weight are unavoidable problems.
+.. When living in the U.S. Driving is a big, unavoidable problem.
 
-When living in the U.S. Driving is a big, unavoidable problem.
+.. boys' phone addiction and weight are unavoidable problems.
 
 --update https://bintanvictor.wordpress.com/wp-admin/post.php?post=36414&action=edit
 My PIP experience was truly traumatic with permant scars, but my benchtime experiences were extremely light in comparison:
