@@ -47,13 +47,6 @@ I had my share of unluckiness.
 
 I feel by 2030 java bigData will go out of fashion just like java Generics, Hibernate, functional java, streams API, .
 
---new: critical mass on socket IV
-I have a bit of critical mass on socket IV.
-
-Those writing networking/socket programs outside C are on the peripheral/sideline. Those programming languages depend on the C API. C++ class/template libraries are in a similar situation. All of them are too high-level.
-
-Therefore, I believe my past socket QQ interview questions are alien to those high-level candidates.
-
 --new winUpdate^codingDrill
 The windowsUpdate problem is AA) recurring BB) without simple and reliable solution CC) irritating to ME 
 
@@ -67,11 +60,13 @@ In theory, someone who doesn't practice can also get lucky, but I don't believe 
 
 Actually, my windowsUpdate situation is better than CSY's situation, becasue I have a working solution.
 
+boys' phone addiction and weight are unavoidable problems.
+
+When living in the U.S. Driving is a big, unavoidable problem.
+
 --update https://bintanvictor.wordpress.com/wp-admin/post.php?post=36414&action=edit
 My PIP experience was truly traumatic with permant scars, but my benchtime experiences were extremely light in comparison:
 
 * before Polaris
 * between 95G and Barcap
 * between RTS and mvea
-
-

@@ -1,4 +1,11 @@
 
+--new: critical mass on socket IV
+I have a bit of critical mass on socket IV.
+
+Those writing networking/socket programs outside C are on the peripheral/sideline. Those programming languages depend on the C API. C++ class/template libraries are in a similar situation. All of them are too high-level.
+
+Therefore, I believe my past socket QQ interview questions are alien to those high-level candidates.
+
 --fuxi: common reasons against moving to U.S. in their mid-30s
 These deep, real reasons help me understand my position, my SWOT
 

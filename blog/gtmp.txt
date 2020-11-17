@@ -1,4 +1,9 @@
---fuxi: tcost@piano
+--fuxi: 
+It's hard work to provide a listening year to anyone but your own children. That's why counselling costs money.
+
+For me, writing long emails to friends is a good alternative. They don't need to read.
+
+--new: tcost@piano
 3H/week is high tcost. 
 
 if I get to practice 2-3H beyond the 30m lessons, then I would be proud of myself, regardless of the visible progress.
@@ -10,6 +15,3 @@ tcost@buying and moving piano was non-trivial. Now I can make use of that tcost.
 --update piano goal
 faster reading of unfamilar score
 faster identification of major vs minor root - can we use a digital piano
-
---update blogpost on vision/traction
-WP hosting 
