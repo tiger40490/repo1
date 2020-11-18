@@ -2,34 +2,6 @@
 evening + 3.7
 morning -1 -1
 
--- new: standardize notation of Ctrl, Alt, Shift..
-control/+ and control/plus mean the key combo of Ctrl and the plus sign
-alt/slash means the key combo of Alt and the slash sign
-shift/rightArrow means the key combo of Shift and rightArrow
-shift/f[1-12] means ... obvious. 
-
---update w1rN:
-doesn't tally with the revision history?
-No need
-
---new: fine-tuning phrases in my blog
-helps me grow my vocab for self-care, for describing problems in my family while seeking help
-best done in git blog but 90% done in web blog
-
-Fine-tuning is not exactly same as polishing. My blog is not for a showroom
-
---update blogposts on too many posts to review, or the one on overspenT
-i spent hours reviewing bedbug lessons in my blog, years after the traumatic experience. This deep review is crucial.
-After the SARS outbreak and the Asian financial crisis, Singapore government had serios reviews.
-
---new: git-bash dark background affecting git-diff
-git-bash dark background affects git-diff efficiency, stress build-up, and eye health
-tip: zoom in (ctrl/plus)
-Tip: experiment with color schemes in git-bash. One might be slightly better, perhaps Nord
-
--- new or udpate:
-remove old blogposts to improve search
-
 --update blogpost on java=outlier
 These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
