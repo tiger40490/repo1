@@ -1,3 +1,6 @@
+--update: fan:
+evening + 3.7
+morning -1.5 -1.5
 
 --update blogpost on java=outlier
 These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
@@ -80,13 +83,6 @@ In terms of livelihood, All my top 3 deep, recurring pains above are "superficia
 * my lifelong earn/save/invest and Fuller wealth strengths
 
 My descriptions above tends to lean towards external locus of control, but in reality my personal factors are more important.
-
---new: paying^self-learn^procrastination
-For python camp, WP hosting, yoga and piano, I tend to compare paying vs self-teach
-
-Why don't I compare paying vs procrastination? This is the more realistic picture of choices. I need to get real and accept the imprefect self.
-
-I think paying may give me the boost I need in self-confidence.
 
 --new: robux spend
 I spent money on robux to reduce his gaming time, but is it working?
