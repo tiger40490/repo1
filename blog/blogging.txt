@@ -7,6 +7,11 @@ I think xh.fu is relatively free (working 4h/d) and hopefully available to help 
 
 -- fuxi: consider deleting blogposts on FSM funds and FXO trading
 
+-- update or new
+git blogging proved effective when growing a post incrementally
+
+it becomes ineffective when a file grows too big, and review tcost explodes.
+
 -- new: value@blogging: lockdown selfcare 
 git-blogging and web blogging became selfcare.
 

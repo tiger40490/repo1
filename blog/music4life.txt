@@ -19,3 +19,6 @@ Why don't I compare paying vs procrastination? This is the more realistic pictur
 I think paying may give me the boost I need in self-confidence.
 
 -- new: t-budget: workout imt music
+accu: piano imt workout
+
+-- rename category "piano" to "music4life"

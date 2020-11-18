@@ -2,6 +2,13 @@
 evening + 3.7
 morning -1.5 -1.5
 
+--update w1rN:
+doesn't tally with the revision history?
+No need
+
+-- new or udpate:
+remove old blogposts to improve search
+
 --update blogpost on java=outlier
 These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
