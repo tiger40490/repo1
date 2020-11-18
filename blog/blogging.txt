@@ -5,8 +5,6 @@ I may need to move them to blogger
 I think xh.fu is relatively free (working 4h/d) and hopefully available to help me by email, call or even in-person.
 If it takes more time, I will pay him a consulting fee.
 
--- fuxi: consider deleting blogposts about FSM funds and FXO trading
-
 -- new: growing git-blog files
 as of 15 Nov 2020, my git blog files are much bigger than before, proving that I am spending less time publishing blog online. this is a good change.
 

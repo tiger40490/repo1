@@ -1,6 +1,3 @@
---fuxi
-blogging for time usage and blogging about blogging should NOT be cut.
-
 --new untitled
 what's in common between:
 * comparison-shopping for tiny savings
