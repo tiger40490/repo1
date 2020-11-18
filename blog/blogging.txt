@@ -7,6 +7,11 @@ I think xh.fu is relatively free (working 4h/d) and hopefully available to help 
 
 -- fuxi: consider deleting blogposts on FSM funds and FXO trading
 
+-- new: value@blogging: lockdown selfcare 
+git-blogging and web blogging became selfcare.
+
+Q: growing dependent on wordpress infrastructure, esp. compared to offline git-blogging?
+
 --new untitled
 as of 15 Nov 2020, my git blog files are much bigger than before, proving that I am spending less time publishing blog online. this is a good change.
 
