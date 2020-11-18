@@ -32,28 +32,5 @@ eg: retirement destination
 eg: school choices
 eg: timing of family migration
 
---fuxi: word fine-tuning [1] in my blog
-best done in git blog
 
-helps me grow my vocab for self-care, for describing problems in my family while seeking help
 
-[1] I didn't say polish. My blog is not for a showroom
-
---fuxi: i spent hours reviewing bedbug lessons in my blog, years after the traumatic experience. This deep review is crucial.
-After the SARS outbreak and the Asian financial crisis, Singapore government had serios reviews.
-
---fuxi: sometimes I feel the field is overcrowded in T_tectonic or T_defense. The number of blogposts are too numerous and I couldn't remember which is which.
-
-Now I feel in most cases each blogpost has a different angle, different perspective, sometimes with a powerfulDescriptor
-
-With a large number of blogposts, it Will always be hard to remember which is which
-
---fuxi: 
-My G3 1stAid targets all require cognitive theraupy
-1) PIP, damaged good
-2) FOLB, slow track
-
---new: git-bash dark background affecting git-diff
-git-bash dark background affects git-diff efficiency, stress build-up, and eye health
-tip: zoom in (ctrl/plus)
-Tip: experiment with color schemes in git-bash. One might be slightly better, perhaps nord
