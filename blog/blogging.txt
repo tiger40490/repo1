@@ -7,30 +7,20 @@ I think xh.fu is relatively free (working 4h/d) and hopefully available to help 
 If it takes more time, I will pay him a consulting fee.
 
 -- fuxi: consider deleting blogposts about FSM funds and FXO trading
--- update or new
-git blogging proved effective when growing a post incrementally
-
-it becomes ineffective when a file grows too big, and review tcost explodes.
 
 -- new: value@blogging: lockdown selfcare 
-git-blogging and web blogging became selfcare.
+should merge this into an existing blogpost.
 
-Q: growing dependent on wordpress infrastructure, esp. compared to offline git-blogging?
+git-blogging and web blogging became selfcare and therapeutic
 
---new untitled
+Q: am I growing dependent on wordpress infrastructure, esp. compared to offline git-blogging?
+
+-- new: growing git-blog files
 as of 15 Nov 2020, my git blog files are much bigger than before, proving that I am spending less time publishing blog online. this is a good change.
 
 More important is piano, helping kids (on math...), localSys, wellness activities, even family outing
 
 However, the large amount of no-blog or fuxi content in git-blogging is slow me down... growing baggage. Need to be removed sooner or later
 
---new untitled
-blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
-eg: U.S. housing
-eg: brain aging
-eg: retirement destination
-eg: school choices
-eg: timing of family migration
-
-
-
+git blogging proved effective when growing a post incrementally. 
+it becomes ineffective when a file grows too big, and review tcost explodes.
