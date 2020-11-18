@@ -1,22 +1,26 @@
+-- update post on wp hosting:
+once I get used to my customized WP interface, some of the free WP blogs may feel inconvenient.
+
+I may need to move them to blogger
+
+I think xh.fu is relatively free (working 4h/d) and hopefully available to help me by email, call or even in-person.
+
 -- fuxi: consider deleting blogposts on FSM funds and FXO trading
 
---no good title
+--new untitled
 as of 15 Nov 2020, my git blog files are much bigger than before, proving that I am spending less time publishing blog online. this is a good change.
 
 More important is piano, helping kids (on math...), localSys, wellness activities, even family outing
 
 However, the large amount of no-blog or fuxi content in git-blogging is slow me down... growing baggage. Need to be removed sooner or later
 
---new? 
+--new untitled
 blogging for complex problem solving and decision making is a distinct usage from therapeutic blogging
 eg: U.S. housing
 eg: brain aging
 eg: retirement destination
 eg: school choices
 eg: timing of family migration
-
---fuxi or update blogpost on wp hosting
-I think xh.fu is relatively free (working 4h/d) and hopefully available to help me by email, call or even in-person.
 
 --fuxi: word fine-tuning [1] in my blog
 best done in git blog
@@ -39,8 +43,8 @@ My G3 1stAid targets all require cognitive theraupy
 1) PIP, damaged good
 2) FOLB, slow track
 
---git-bash dark background makes git-diff hard to read
-tip: zoom in 
+--fuxi: git-bash dark background makes git-diff hard to read
+tip: zoom in (ctrl/plus)
 Tip: experiment with color schemes in git-bash. One might be slightly better, perhaps nord
 
 --fuxi: Some of the inefficiencies in my blogging practice
