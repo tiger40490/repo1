@@ -2,6 +2,12 @@
 evening + 3.7
 morning -1 -1
 
+-- new: standardize notation of Ctrl, Alt, Shift..
+control/+ and control/plus mean the key combo of Ctrl and the plus sign
+alt/slash means the key combo of Alt and the slash sign
+shift/rightArrow means the key combo of Shift and rightArrow
+shift/f[1-12] means ... obvious. 
+
 --update w1rN:
 doesn't tally with the revision history?
 No need

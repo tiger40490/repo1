@@ -53,12 +53,7 @@ My G3 1stAid targets all require cognitive theraupy
 1) PIP, damaged good
 2) FOLB, slow track
 
---fuxi: git-bash dark background makes git-diff hard to read
+--new: git-bash dark background affecting git-diff
+git-bash dark background affects git-diff efficiency, stress build-up, and eye health
 tip: zoom in (ctrl/plus)
 Tip: experiment with color schemes in git-bash. One might be slightly better, perhaps nord
-
---fuxi: Some of the inefficiencies in my blogging practice
-* updating existing blogposts is far more time-consuming and inefficient than adding new
-* reviewing growing content of git blogging files
-* git merge conflict
-* carrying laptop around -- need to disable the wake-up password
