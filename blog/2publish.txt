@@ -1,6 +1,6 @@
 --update: fan:
 evening + 3.7
-morning -1.5 -1.5
+morning -1 -1
 
 --update w1rN:
 doesn't tally with the revision history?

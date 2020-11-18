@@ -4,9 +4,9 @@ once I get used to my customized WP interface, some of the free WP blogs may fee
 I may need to move them to blogger
 
 I think xh.fu is relatively free (working 4h/d) and hopefully available to help me by email, call or even in-person.
+If it takes more time, I will pay him a consulting fee.
 
--- fuxi: consider deleting blogposts on FSM funds and FXO trading
-
+-- fuxi: consider deleting blogposts about FSM funds and FXO trading
 -- update or new
 git blogging proved effective when growing a post incrementally
 
