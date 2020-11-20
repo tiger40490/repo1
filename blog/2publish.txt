@@ -5,10 +5,6 @@ maintain individual scripts for each machine.
 
 tbudget 5-10H. Patience needed. Most people seem to be the uncommitted hare rather than the slow but committed tortoise. MengZi compared crabs vs earthworms
 
---update: fan:
-evening + 3.7
-morning -1 -1
-
 --update blogpost on java=outlier
 These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
@@ -58,7 +54,7 @@ By the way, Linux is dominant on WallSt and in the broader internet ecosystem.
 
 UI technology is usually high-churn. Increasingly browser-based.
 
--- new: wind-down tcost: to be embraced
+-- new or fuxi: wind-down tcost: to be embraced
 Opening eg: In Bayonne, after every yoga+pull-up workout, I would spend about 2 hours shopping to wind down. It's a kind of reward, so that the prospect of the next session is not so off-putting. 
 
 The wind-down is a necessary tcost, due to human nature. I don't think there's any superhuman, not in my dad, in Wenqiang, in Rahul. 
@@ -72,38 +68,6 @@ If the wind-down is enjoyable, then be grateful.
 .. speed coding exercise .. is very taxing, depleting my reserve. 
 .. QQ learning is more enjoyable than speed coding exercise and require less wind-down.
 .. my son's green zone.. 
-
---new or update on zero-sum game
-I still believe that on the secondary market, stocks and bonds are not zero-sum games as they generate income out of thin air.
-
-For stocks, there's also a general trend of long-term appreciation. We can use official closing price as a fair valuation.
-
-I believe options, swaps and futures do not have such trends and therefore zero-sum. I would say for all of these derivatives, there's no income generated out of thin air like bond coupons.
-
-How about physical gold coin? If you keep it at home for 50Y, then it is likely to appreciate. This likelihood is the same if the gold coin changes hands over the 50Y. Therefore, trading gold is not zero-sum game.
-
-If, hypothetically, the bond coupon is so low as to be wiped out by transactino costs, then between the buyer and seller, this is a zero-sum game.
-
---update the blogpost on HF
-t_fomo^livelihood
-To HF, do I come across as fully satisfied, without pains, except parenting?
-
-1) PIP, bonus, stigma, respect
-2) FOLB, exclub peer comparison
-3) boy's "performance"
-
-In terms of livelihood, All my top 3 deep, recurring pains above are "superficial" i.e. not real threats to my family livelihood, largely thanks to my interview skills. But IV is the flagship of a fleet of strengths. I should also give credit to
-* the dev (not just tech) job market and my decision to stick to it. I have key talents to thrive in it such as low cultural bias
-* the WallSt contract market that I discovered and held on to
-* lifelong wellness habits
-* bedrock of stable marraige. I made the right choice.
-* bedrock of SG citizenship providing essential protections. I made the right choice.
-* my lifelong earn/save/invest and Fuller wealth strengths
-
-My descriptions above tends to lean towards external locus of control, but in reality my personal factors are more important.
-
---update blogpost ....
-CSY's son has a 60k/Y college fee (similar to Ivy League). 50% paid by parents i.e. 2500/M. With that burn rate, my idea of  "lower stress, lower pay" easy job is impractical.
 
 --new: robux spend
 I spent money on robux to reduce his gaming time, but is it working?
