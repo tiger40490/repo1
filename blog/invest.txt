@@ -6,7 +6,7 @@ looking at my age group and younger peers and beyond, why am i financially caref
 
 But some non-financial factors are fundamental to the financial equation -- wellness, stable marriage, the country
 
---new: at my age, how important is investment analysis
+--fuxi: at my age, how important is investment analysis
 I told  Rebecca that investment analysis is an obsession among some friends I met recently. 
 I think my biggest tcosts and worst ROTI was in stock/FSM
 
@@ -15,7 +15,7 @@ I guess the underlying message was -- my wealth mgmt job is basically done.
 
 Rebecca pointed out most of the spare cash can (had better be) invested, not "left in the bank account" earning 2%
 
--- new: allocation between stocks, ETF and mutual funds
+-- fuxi: allocation between stocks, ETF and mutual funds
 Rebecca said many people among her clients (and also her own parents) allocate more to mutual funds than stocks. Why? distraction, obsession, and volatility.
 
 I asked about index ETF and she had nothing bad to say. I think for U.S. market, ETF is the default choice.
@@ -38,21 +38,7 @@ Can we strike a balance? I think we need to be confident.
 --no blog
 XH felt $2M asset would support a comfortable burn rate without salary. I said that's too hard for most people. However, I think he is not obsessed and fixated on that target... fortunately for him.
 
---new or update on zero-sum game
-I still believe that on the secondary market, stocks and bonds are not zero-sum games as they generate income out of thin air.
-
-For stocks, there's also a general trend of long-term appreciation. We can use official closing price as a fair valuation.
-
-I believe options, swaps and futures do not have such trends and therefore zero-sum. I would say for all of these derivatives, there's no income generated out of thin air like bond coupons.
-
-How about physical gold coin? If you keep it at home for 50Y, then it is likely to appreciate. This likelihood is the same if the gold coin changes hands over the 50Y. Therefore, trading gold is not zero-sum game.
-
-If, hypothetically, the bond coupon is so low as to be wiped out by transactino costs, then between the buyer and seller, this is a zero-sum game.
-
---update blogpost ....
-CSY's son has a 60k/Y college fee (similar to Ivy League). 50% paid by parents i.e. 2500/M. With that burn rate, my idea of  "lower stress, lower pay" easy job is impractical.
-
---new or fuxi
+--fuxi
 Retirement country's economy is a crucial factor.
 My parents are receiving increasing pension. The China system is showing no risk of bankruptcy.
 

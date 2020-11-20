@@ -73,6 +73,17 @@ If the wind-down is enjoyable, then be grateful.
 .. QQ learning is more enjoyable than speed coding exercise and require less wind-down.
 .. my son's green zone.. 
 
+--new or update on zero-sum game
+I still believe that on the secondary market, stocks and bonds are not zero-sum games as they generate income out of thin air.
+
+For stocks, there's also a general trend of long-term appreciation. We can use official closing price as a fair valuation.
+
+I believe options, swaps and futures do not have such trends and therefore zero-sum. I would say for all of these derivatives, there's no income generated out of thin air like bond coupons.
+
+How about physical gold coin? If you keep it at home for 50Y, then it is likely to appreciate. This likelihood is the same if the gold coin changes hands over the 50Y. Therefore, trading gold is not zero-sum game.
+
+If, hypothetically, the bond coupon is so low as to be wiped out by transactino costs, then between the buyer and seller, this is a zero-sum game.
+
 --update the blogpost on HF
 t_fomo^livelihood
 To HF, do I come across as fully satisfied, without pains, except parenting?
@@ -90,6 +101,9 @@ In terms of livelihood, All my top 3 deep, recurring pains above are "superficia
 * my lifelong earn/save/invest and Fuller wealth strengths
 
 My descriptions above tends to lean towards external locus of control, but in reality my personal factors are more important.
+
+--update blogpost ....
+CSY's son has a 60k/Y college fee (similar to Ivy League). 50% paid by parents i.e. 2500/M. With that burn rate, my idea of  "lower stress, lower pay" easy job is impractical.
 
 --new: robux spend
 I spent money on robux to reduce his gaming time, but is it working?
