@@ -5,6 +5,8 @@ maintain individual scripts for each machine.
 
 tbudget 5-10H. Patience needed. Most people seem to be the uncommitted hare rather than the slow but committed tortoise. MengZi compared crabs vs earthworms
 
+a lot of effort is on dealing with windows permissions.
+
 --update blogpost on java=outlier
 These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
