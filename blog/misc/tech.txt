@@ -1,4 +1,5 @@
--- installation fear of risks is much lower when installing wordpress upon a working XAMPP.
+-- update blogpost on wpch
+installation fear of risks is much lower when installing wordpress upon a working XAMPP.
 The more low-level, the more uncertainties.
 
 --update on placement new
