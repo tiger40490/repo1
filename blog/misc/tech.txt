@@ -1,3 +1,6 @@
+-- installation fear of risks is much lower when installing wordpress upon a working XAMPP.
+The more low-level, the more uncertainties.
+
 --update on placement new
 I think placement new has two distinct usages
 1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
