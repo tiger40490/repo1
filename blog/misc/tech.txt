@@ -39,7 +39,7 @@ getsockopt() last parameter is optlen. This is an in-out pointer parameter.
 
 * As output, it indicates the size of a buffer containing the output. "Hey caller, here optLen is a size describing how many bytes I have written into your buffer."
 
-Becasue of the in-out usage, optLen is a pointer. If only as ouput, it can be a return value. If only an input it should be a nonref.
+Becasue of the in-out usage, optLen is a pointer. If only as ouput, it can be a return value. If only an input it should be a nonref, or in some cases a ptr-to-const.
 
 Note the buffer can be on stack.
 
