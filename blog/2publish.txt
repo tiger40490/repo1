@@ -2,6 +2,13 @@
 We spend half the time on improvement ideas for the team + my view of the SG teammates + my son. 
 I think we only spend 10-15 min on my review, all positive.
 
+How can I secure and further strengthen my position?
+* more familiarity with the numerous conventions among the individual adapters
+* more familiarity with mi_epa
+* nautilus? LGlp
+* IMPACT? LGlp
+* futures epa would be considered the next level for me
+
 --new: windows scheduled script to clean up Download folders.
 Use bat file, or bash or perl (strawberry)
 check in the script
