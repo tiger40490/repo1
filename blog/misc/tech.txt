@@ -13,23 +13,6 @@ I think placement new has two distinct usages
 
 2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
 
---new
-Q: can we remove pre-processing loop and merge its logic into the main loop?
-
-I feel it's often a good practice to separate out that initial processing. After that initial loop, we have a checkpoint/milestone where we can use asserts and prints to verify a number of key conditions. This checkpoint could sometimes reduce a lot of uncertainties. 
-
-This preprocessing seems to introduce additional complexity but it's not additional, but rather shifts some amount of complexities from the main loop out to the preprocessing loop.
-
-This is similar to my long-time preference of shifting complex logic from main java app to DB (including stored proc) and to client-side such as java script. 
-
-Some people call it separation of concern. In this case, the job responsibility of the pre-processing loop is well-defined and easy to verify.
-
---new: socket API is not designed for microsec response to signals
-I think signals are popular and proven tools to socket programmers.
-
-When a signal is sent to a socket program, the response is not immediate. I think the receiving program must notice it and react to it.  
-
-I think if faster response is required, then the "event" should be delivered via the socket itself. The proogram would pick up synchronously. 
 
 --new: getsockopt() optLen: api design technique
 Based on P44 [[tcp/ip sockets in C]]

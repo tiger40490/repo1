@@ -34,6 +34,24 @@ In reponse to my bold claims, Rebecca pointed out most of the spare cash can (ha
 
 I feel the classic example is Kun.h. He seems to overanalyze until he couldn't take any action.
 
+--new: merge pre-processing loop into main loop@@
+Q: can we remove pre-processing loop and merge its logic into the main loop?
+
+No. My experience shows that it's often a good practice to separate out that initial processing. After that initial loop, we have a checkpoint/milestone where we can use asserts and prints to verify a number of key assumptions or pre-conditions. This checkpoint can yield huge benefit in reduction of uncertainties.
+
+This preprocessing step seems to introduce additional complexity but it's not additional, but rather shifts some amount of complexities from the main loop out to the preprocessing loop.
+
+This is similar to my long-time preference of shifting complex logic from main java app to DB (including stored proc) and to client-side such as java script. 
+
+Some people call it separation of concern. In this case, the job responsibility of the pre-processing loop is well-defined and easy to verify.
+
+--new: socket API is not designed for microsecond response to signals
+I think signals are popular and proven tools to socket programmers.
+
+When a signal is sent to a socket program, the response is not within a few clock cycles. I think the receiving program must notice it and react to it.  
+
+I think if faster response is required, then the "event" should be delivered via the socket itself. The proogram would pick it up synchronously. 
+
 --update blogpost on java=outlier
 These are tech fads in my experience, but can someone live on this tech till retirement, like the technical writers?
 C#, WPF
