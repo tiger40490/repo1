@@ -1,5 +1,10 @@
+
 --fuxi
 signals in windows?
+
+real time signals are a new Posix concept... not really low-latency.
+
+Most signals are self-sent from the same process. I think timer alarm is one. Sockets is another example. However, keyboard signals like Ctrl-C are not self-sent.
 
 -- update blogpost on wpch
 installation fear of risks is much lower when installing wordpress upon a working XAMPP.
