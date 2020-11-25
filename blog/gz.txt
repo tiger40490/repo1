@@ -1,0 +1,10 @@
+--new: implement hash table or vector:
+eg: Broadway Tech
+eg: GS
+eg: AshS GrassHopper: no-code
+eg: SIG onsite: vector push_back
+eg: GS-London: deque: no-code
+
+Why web2.0 seldom ask this? Not much algo involved. 
+
+Why WallSt often ask this? Reveals efficiency in implementation
