@@ -8,3 +8,12 @@ eg: GS-London: deque: no-code
 Why web2.0 seldom ask this? Not much algo involved. 
 
 Why WallSt often ask this? Reveals efficiency in implementation
+
+--new: scalability^latency
+web2.0 shops don't care about latency engineering including multi-threading, language/compiler features
+
+WallSt doesn't care about scalability per se. For them, scalability is achieved with hardware and architecture.
+
+Both camps care about data structures as they are fundamental to scalability and latency.
+
+OPRA feed handler requires scalability. Similarly, my NYSE XDP feed handlers can cope with 370 KMPS per thread. Somehow web2.0 shops are not impressed.
