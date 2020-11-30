@@ -1,0 +1,2 @@
+--new: add hooks to decoreate barewords "new", "minor" with random numbers
+tbudget: 20m
