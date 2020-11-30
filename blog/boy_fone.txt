@@ -5,6 +5,7 @@ Must show respect, not a chance to squash him.
 
 --new: if he reduces his gaming minutes to 30/day but increase his online chat time?
 
+--noblog: remove notifications on the login page?
 --new:
 ask boy (and wife) what things dad can do with boy each week, partly to replace the screen time.
 It could be a memorable routine.
