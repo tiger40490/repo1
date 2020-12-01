@@ -1,7 +1,6 @@
 --fuxi: prepaid for 3Y. No autopay
---fuxi: subdomain is stable
---fuxi: outside the live-chat operating hours, email support is about an hour delay.
---fuxi: backup .. on wordpress.com? Not offered.  You can assume they back up all sites just in case. Similar to gmail backup.
+--fuxi: outside the live-chat hours, email support is about an hour delay.
+--fuxi: backup .. on wordpress.com? Not offered.  You can assume they back up all sites just in case... similar to gmail or hotmail backup.
 However, if you need to restore, they don't have an obligation to help you.
 
 --new: Q:do I need ssh/ftp access? No
