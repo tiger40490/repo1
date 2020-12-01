@@ -1,6 +1,5 @@
---fuxi: prepaid for 3Y. No autopay
---fuxi: outside the live-chat hours, email support is about an hour delay.
---fuxi: backup .. on wordpress.com? Not offered.  You can assume they back up all sites just in case... similar to gmail or hotmail backup.
-However, if you need to restore, they don't have an obligation to help you.
-
---new: Q:do I need ssh/ftp access? No
+--fuxi: keep the victan6.dreamhost.com as it shows a default wpress install
+--new: to install wp on an existing "website", 
+panel->domains->oneClickInstalls or
+panel->wpress->learnMore&install
+-- fuxi: my dreamhosters.com subdomains are treated (by the panel) as my domains
