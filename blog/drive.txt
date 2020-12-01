@@ -1,7 +1,11 @@
+--fuxi:
+some people take driving as self-care or wind-down or relaxation. 
+This hobby has relatively high cost, but it does prove useful to some.
+
 --new: driving=more dangerous than it seems
 driving is actually dangerous, even though the U.S. culture describes it as an everyday risk.
 
-When a movie shows a traffic accident, we often dismiss it as a contrived plot device, similiar to a miscarriage due to an accidental fall. Actually, traffic accident are quite common. Joe Biden and John Edwards both lost family members in traffic accidents.
+When a movie shows a traffic accident, we often dismiss it as a contrived plot device, similiar to a miscarriage due to an accidental fall. Actually, traffic accident are quite common. Joe Biden and John Edwards both lost loved ones to traffic accidents.
 
 Look at motorcycling. It's a more than 10 times more dangerous than driving at least in terms of death rate, but most people seem to accept the risks inherent in motorcycling.
 
