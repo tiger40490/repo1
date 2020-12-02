@@ -1,6 +1,8 @@
 --update on sinks:
 piano, workout ... serve as sinks that I can suspend when under spare time becomes scarce.
 
+workout has given way to piano because ... payment!
+
 --update
 spending excessive hours (often poorly defined) on winup or the windows license expiration is worse than accepting nagging popup reminders.
 
