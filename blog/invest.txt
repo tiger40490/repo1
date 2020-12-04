@@ -1,5 +1,5 @@
 -- new: age 50 asset allocation 
-more US stocks including indices, up to 20%
+more US stocks including indices, up to 10%
 more international equity funds including ETF
 more gold, up to SGD 100k
 more SRS, perhaps invested in SGD stocks
