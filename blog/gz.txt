@@ -1,3 +1,7 @@
+--new: tech IV: rating communication skill
+In the U.S. competitive landscape, communication skill often means English skills, given the talent pool dominated by immigrants from East Europe and Asia.
+
+However, my interview with the Japanese NumTech failed partly due to lack of humor.
 --
 Some managers are just good at managing a lot of projects, but they may have some limitations elsewhere
 
