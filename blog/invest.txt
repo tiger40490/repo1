@@ -1,3 +1,10 @@
+--update or new
+annual burn rate ought to include non-investment outlays like
+* major medical 
+* college fees
+* mtg monthly as compulsory expenses
+* How about mtg downpayments? Excluded. More like a discretionary investment outlay
+
 -- new: age 50 asset allocation 
 more US stocks including indices, up to 10%
 more international equity funds including ETF
