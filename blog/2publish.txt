@@ -1,10 +1,3 @@
---update quadrants: after the Wells planB 5H hackathon, I now have a power surge for yoga, stair climbing, but do I have a power surge 
-* to try fixing the license expiry, 
-* for DMV renewal
-* to try the dhost migration tools
-* clear the gitblog backlog
-
-These items are low value , non-urgent but if you delay them enough, they grow in urgency. There's no point delaying them, provided I have enough time for workout, for family and for my job
 
 --update on sinks:
 piano, workout ... serve as sinks that I can suspend when spare time becomes scarce.
