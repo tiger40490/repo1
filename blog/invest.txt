@@ -1,9 +1,12 @@
---update or new
+--new: ##annual burn rate exclusions
 annual burn rate ought to include non-investment outlays like
 * major medical 
 * college fees
 * mtg monthly as compulsory expenses
 * How about mtg downpayments? Excluded. More like a discretionary investment outlay
+
+--gold trading on Oanda. If annual cost is like 1% then perhaps better than physical
+install small safe in wardrobe below remotes
 
 -- new: age 50 asset allocation 
 more US stocks including indices, up to 10%
@@ -11,8 +14,9 @@ more international equity funds including ETF
 more gold, up to SGD 100k
 more SRS, perhaps invested in SGD stocks
 
---new: how much liquid cash to hold
-200k might be too much
+--fuxi: how much liquid cash to hold
+200k might be too much if I have 1M invested.
+Wife wants more cash as buffer. So how about $50k in my accounts?
 
 --fuxi: in last Ikea meal, I criticized wife for a tiny $2.60 cheese tart (meimei didn't eat more than one bit), but I spent a much larger $16 on the lamb shank for boy
 
