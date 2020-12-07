@@ -1,3 +1,6 @@
+--sugg: if boy doesn't shout in a day, reward him with SGD $1 from grandpa, comparable to daily effort. 
+Ask boy which reward should be higher.
+
 --fuxi: many primary school parents say "most students have similar IQ" but what's their sample? What's their criteria for 2 students being "similar"?
 If you use an objective benchmark, then how many questions are easy and how many are advanced.
 

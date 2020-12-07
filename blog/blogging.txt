@@ -1,4 +1,2 @@
 --update 
 after migrating tanbinvest when do I start updating it as primary?
-
-how about using driving blog as a first tester?
