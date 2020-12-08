@@ -1,3 +1,5 @@
+--update songs:
+花祭
 --update blogpost on config data
 executables must be in binary, unreadable format, but config can be text files. I think in unix tradition, they are all text files, but not in windows.
 --update on sinks:

@@ -1,3 +1,15 @@
+--new: piano practice as a pastime
+piano (and other music) skill is not at the same level as gaming, or sight-seeing.
+
+Musical skills require absorbency (more than singing). Like jogging, it strengths self-efficacy, raises self-esteem, 
+
+Musical journey is a struggle, between the level of recreational workout and benchmarked workout. 
+There's some form of penalty if you don't put in a miminum amount of practice .. you don't achieve anything and you waste your effort.
+Therefore it demands a commitment.
+
+.. sink, buffer, slack resources
+Piano practice is an excellent energy sink. If 3H/week, then it becomes a good reserve of slack resource, a buffer of extra time. See blogpost on buffers and alternatives.
+
 --fuxi: paying^self-learn^procrastination
 For python camp, WP hosting, yoga and piano, I tend to compare paying vs self-teach
 
