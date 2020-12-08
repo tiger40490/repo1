@@ -1,11 +1,3 @@
---new: windows scheduled script to clean up Download folders.
-Use bat file, or bash or perl (strawberry)
-check in the script
-maintain individual scripts for each machine. 
-
-tbudget 5-10H. Patience needed. Most people seem to be the uncommitted hare rather than the slow but committed tortoise. MengZi compared crabs vs earthworms
-
-a lot of effort is on dealing with windows permissions.
 
 --new untitled:
 In my high school, there were a few focused self-practices that didn't create a visible advantage
@@ -33,3 +25,11 @@ I guess a sex worker would have met my needs to some extent. Some would say the 
 when you see a boxer using only one hand, probably he has a weakness in the other hand, or he is keeping his stronger arm as reserve.
 
 There are many examples of each.
+--new: windows scheduled script to clean up Download folders.
+Use bat file, or bash or perl (strawberry)
+check in the script
+maintain individual scripts for each machine. 
+
+tbudget 5-10H. Patience needed. Most people seem to be the uncommitted hare rather than the slow but committed tortoise. MengZi compared crabs vs earthworms
+
+a lot of effort is on dealing with windows permissions.
