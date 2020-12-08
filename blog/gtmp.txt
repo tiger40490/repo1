@@ -1,3 +1,12 @@
+--new: windows scheduled script to clean up Download folders.
+Use bat file, or bash or perl (strawberry)
+check in the script
+maintain individual scripts for each machine. 
+
+tbudget 5-10H. Patience needed. Most people seem to be the uncommitted hare rather than the slow but committed tortoise. MengZi compared crabs vs earthworms
+
+a lot of effort is on dealing with windows permissions.
+
 --new untitled:
 In my high school, there were a few focused self-practices that didn't create a visible advantage
 * fwd bend

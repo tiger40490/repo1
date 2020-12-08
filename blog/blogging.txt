@@ -1,2 +1,0 @@
---update 
-after migrating tanbinvest when do I start updating it as primary?
