@@ -1,18 +1,20 @@
 
 --new untitled:
-In my high school, there were a few focused self-practices that didn't create a visible advantage
+In my high school, there were a few focused self-practices that failed to create a visible lead over my peers
 * fwd bend
-* hurdler's split
-* basketball? I improved my drible and shooting but not enough for a competitive game.
+* basketball? I improved my drible and shooting significantly but not enough for a competitive game.
 
 How did I react?
 
 How can my son learn from it?
 
+I would say I have reaped dividend for years.. I was able to enjoy basketball much more, and take part in many non-competitive games. My fwd bend is a good part of my rather tight mid-section.
+
 --fuxi
 when you see a boxer using only one hand, probably he has a weakness in the other hand, or he is keeping his stronger arm as reserve.
 
 There are many examples of each.
+
 --new: windows scheduled script to clean up Download folders.
 Use bat file, or bash or perl (strawberry)
 check in the script
