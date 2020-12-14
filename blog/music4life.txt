@@ -1,7 +1,7 @@
 --new or update goals
 https://1330152open.wordpress.com/wp-admin/post.php?post=23731&action=edit&classic-editor
 
-goal of quick take-up: depends on quick sight readin, quick fingering arrangement
+goal of quick take-up: depends on quick sight reading, quick fingering arrangement
 
 -- fuxi:
 workout has given way to piano because ... payment!
@@ -13,30 +13,13 @@ Sugg: some piano tuners may be able to improve base clarity
 Carpet and bigger piano room can help improve base clarity
 German piano is knwon for better base clarity
 
---new: dazzling finger dexterity 
+--fuxi: dazzling finger dexterity 
 On youtube we see (intermediate level) pianists showing sophisticated finger dexterity.
 Well, my son also shows that to some extent.
 
 But is that valuable to me, in the grand scheme of things?
 
 Remember the 610 rugs experience? That level of meticulous organization is unneeded. It can be a pure recreation or very low ROTI endeavor.
-
---new: piano practice as a pastime
-piano (and other music) skill is not at the same level as gaming, or sight-seeing.
-
-More than singing, Musical skills require absorbency. Like jogging, it strengths self-efficacy, raises self-esteem, 
-
-Musical journey is a struggle, between the level of recreational workout and benchmarked workout. 
-There's some form of penalty if you don't put in a miminum amount of practice .. you end up achieving nothing and you waste your effort.
-As such it demands a minimum commitment.
-
-If I make very slow progress with a tough piece, I can feel disappointed and frustrated.
-
-I need to select reasonable songs. what if I make very slow progress (stuck) with one song?
-How do I motivate myself?
-
-.. sink, buffer, slack resources
-Piano practice is an excellent energy sink. If 3H/week, then it becomes a good reserve of slack resource, a buffer of extra time. See blogpost on buffers and alternatives.
 
 --fuxi: paying^self-learn^procrastination
 For python camp, WP hosting, yoga and piano, I tend to compare paying vs self-teach
