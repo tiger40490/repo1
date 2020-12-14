@@ -19,22 +19,22 @@ What's the likelihood that I get into SG finDev without the U.S. trip? Questiona
 Perhaps my disposition translates to strength in the web2.0 space? 
 Well, financial dnlg(math++), multi-threading, language-details, latency knowledge are my strong games that are non-critical to web2.0 interviews.
 
---new: implement hash table or vector:
+--new: CIV: implement hash_table/vector:
 eg: Broadway Tech
-eg: GS
+eg: GS-sg
 eg: AshS GrassHopper: no-code
 eg: SIG onsite: vector push_back
 eg: GS-London: deque: no-code
 
-Why web2.0 seldom ask this? Not much algo involved. 
-
 Why WallSt often ask this? Reveals efficiency in implementation
+
+Why web2.0 seldom ask this? Not much algo involved. 
 
 --new: scalability^latency
 web2.0 shops don't care about latency engineering including multi-threading, language/compiler features
 
-WallSt doesn't care about scalability per se. For them, scalability is achieved with hardware and architecture.
+Many WallSt architects doesn't care about scalability per se. For other architects, scalability is achieved with hardware and architecture.
 
-Both camps care about data structures as they are fundamental to scalability and latency.
+Both camps care about data structures, which are fundamental to scalability and latency.
 
 OPRA feed handler requires scalability. Similarly, my NYSE XDP feed handlers can cope with 370 KMPS per thread. Somehow web2.0 shops are not impressed.
