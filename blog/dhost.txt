@@ -1,6 +1,2 @@
---fuxi: keep the victan6.dreamhost.com as it shows a default wpress install
--- fuxi: my dreamhosters.com subdomains are treated (by the panel system) as my domains
 --fuxi: 
 panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
-
---fuxi: 2 days after sign-up, I can feel the 97D deadline! 30D would be much worse
