@@ -1,5 +1,5 @@
 --new: scalability^latency
-web2.0 shops don't care about micro latency engineering including multi-threading, language/compiler features. However, web2.0 shops are not always impressed with WallSt scalability. OPRA feed handler requires scalability. Similarly, my NYSE XDP feed handlers can cope with 370 KMPS per thread. 
+web2.0 shops don't care about micro latency engineering including multi-threading, language/compiler features. However, web2.0 shops are not always impressed with WallSt scalability. OPRA feed handler requires scalability. Similarly, my NYSE XDP feed handlers can cope with 370 KMPS per thread. These systems are operated by a dotcom!
 
 Many WallSt architects don't care about scalability per se. For other architects, scalability is achieved with hardware and architecture.
 
