@@ -1,3 +1,10 @@
+--new: scalability^latency
+web2.0 shops don't care about micro latency engineering including multi-threading, language/compiler features. However, web2.0 shops are not always impressed with WallSt scalability. OPRA feed handler requires scalability. Similarly, my NYSE XDP feed handlers can cope with 370 KMPS per thread. 
+
+Many WallSt architects don't care about scalability per se. For other architects, scalability is achieved with hardware and architecture.
+
+Both camps care about data structures, which are fundamental to scalability and latency.
+
 --new: bring tempting foods to office
 Nowadays I bring the tempting foods to office.
 
@@ -22,3 +29,13 @@ How do I motivate myself?
 .. sink, buffer, slack resources
 Piano practice is an excellent energy sink. If 3H/week, then it becomes a good reserve of slack resource, a buffer of extra time. See blogpost on buffers and alternatives.
 
+--new: CIV: implement hash_table/vector:
+eg: Broadway Tech
+eg: GS-sg
+eg: AshS GrassHopper: no-code
+eg: SIG onsite: vector push_back
+eg: GS-London: deque: no-code
+
+Why WallSt often ask this? Reveals efficiency in detailed implementation
+
+Why web2.0 seldom ask this? Not much algo involved. 
