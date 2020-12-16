@@ -1,8 +1,8 @@
--- jolt: At my income level,
+-- jolt: At my current income level,
+* the running cost of dhost is negligible but I hate any negligent waste of money.
+* DIY projects don't show significant cost saving but DIY is a life-enhancing, deeply satisfying experience
 
-the running cost of dhost is negligible but I hate any negligent waste of money.
-
-DIY projects don't show significant cost saving but DIY is a life-enhancing, deeply satisfying experience
+Besides, current income level is not yet enough assurance for financial livelihood. Therefore, I still feel the need to control burn rate. 
 
 --SIA vs gold?
 SIA is more likely to rise, but over long term, gold has proven its enduring value
