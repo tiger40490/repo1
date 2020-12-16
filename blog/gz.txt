@@ -1,3 +1,13 @@
+--informal feedbacks during year-end party
+"You are process oriented, which is missing in the local team. We are not used to so many questions so we ignored some of your questions. We assume each team member has maturity and needs only a pointer and can figure out the rest."
+
+* Sachine -- "overambitious". Took on more work than given to him, but sometimes misses his own work (eg Junit) ... took it the negative way.
+* Kevin -- "needs some guidance"
+* Gary -- needs to speak out. Not taking initiative to show leadership.
+* Anurag -- very sharp guy
+
+IT PMET ... hard to receive PR approval. In contrast, lower skill levels are more welcome, becasue few locals are interested in those professions.
+
 --fuxi
 Henry Luo, Sunil, Anil .. with limited experience can become highly-paid or senior java developers. This is testament to low entry barrier, market depth of java job market.
 
