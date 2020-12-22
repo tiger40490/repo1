@@ -70,12 +70,19 @@ How do I motivate myself?
 .. sink, buffer, slack resources
 Piano practice is an excellent energy sink. If 3H/week, then it becomes a good reserve of slack resource, a buffer of extra time. See blogpost on buffers and alternatives.
 
---new: CIV: implement hash_table/vector:
+--new: CIV implement hash_table/vector
 eg: Broadway Tech
 eg: GS-sg
-eg: AshS GrassHopper: interviewer didn't come to the coding stage.
+eg: AshS GrassHopper .. (shallow implement) interviewer didn't come to the coding stage.
 eg: SIG onsite: vector push_back
 eg: GS-London: deque: no-code
+
+WallSt interviewers have a broader tradition of onsite implmentation of other standard components
+eg: auto_ptr in eSpeed
+eg: shared_ptr
+eg: lockfree stack
+
+I think many fellow candidates in my circle would fail at these question which are designed to reveal detailed understanding of the nitty-gritty. I am probably 50% shallow, but these other guys are ... 10% shallow?
 
 Why WallSt often ask this? Reveals efficiency in detailed implementation
 
