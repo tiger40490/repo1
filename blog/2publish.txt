@@ -73,7 +73,7 @@ Piano practice is an excellent energy sink. If 3H/week, then it becomes a good r
 --new: CIV: implement hash_table/vector:
 eg: Broadway Tech
 eg: GS-sg
-eg: AshS GrassHopper: no-code
+eg: AshS GrassHopper: interviewer didn't come to the coding stage.
 eg: SIG onsite: vector push_back
 eg: GS-London: deque: no-code
 
