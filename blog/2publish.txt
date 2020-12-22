@@ -1,3 +1,8 @@
+--update blogpost: after the 3000 shares finish settlement, I will look at the full deduction $DD and transfer $DD from wife.
+Upon liquidation, if the actual incoming amount (net of fees) is $II, then i will transfer $II to wife.
+
+The prices don't matter as much as the actual $DD and $II. All fees are charged to SRS and borne by wife.
+
 --new: smashing"safe"objects=slippery slope
 I have damaged a toy monkey.
 I have smashed a red-bean bakery.
