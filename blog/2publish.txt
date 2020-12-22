@@ -82,8 +82,8 @@ eg: auto_ptr in eSpeed
 eg: shared_ptr
 eg: lockfree stack
 
-I think many fellow candidates in my circle would fail at these question which are designed to reveal detailed understanding of the nitty-gritty. I am probably 50% shallow, but these other guys are ... 10% shallow?
+I think many fellow candidates in my circle would fail at these question which are designed to reveal detailed understanding of the nitty-gritty. If I consider myself 50% shallow, then those guys are ... 10% shallow?
 
-Why WallSt often ask this? Reveals efficiency in detailed implementation
+Why is WallSt obsessed with it? It reveals efficiency in detailed implementation
 
 Why web2.0 seldom ask this? Not much algo involved. 
