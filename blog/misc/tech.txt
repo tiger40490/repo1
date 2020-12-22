@@ -1,3 +1,6 @@
+-- update blogpost:
+factorial is usually the worst time complexity in any problems.
+2^(N!) is worse but don't show up in any problem I know.
 
 --fuxi
 signals in windows?
