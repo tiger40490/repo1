@@ -1,4 +1,4 @@
--- chat with Sachin
+--fuxi chat with Sachin
 Am process oriented?
 Asked too many questions?
 I now have a reputation for being detailed and reliable. A reputation hard to protect. It can backfire on me
@@ -6,14 +6,11 @@ I now have a reputation for being detailed and reliable. A reputation hard to pr
 --informal feedbacks during year-end party
 "You are process oriented, which is missing in the local team. We are not used to so many questions so we ignored some of your questions. We assume each team member has maturity and needs only a pointer and can figure out the rest." In zed I used to feel the same about asking questions, but in GS it all changed. 
 
-* Sachine -- "overambitious". Took on more work than given to him, but sometimes misses his own work (eg Junit) ... took it the negative way.
 * Kevin -- "needs some guidance"
 * Gary -- needs to speak out. Not taking initiative to show leadership.
 * Anurag -- very sharp guy, but i think he is fast at the expense of quality. Nevertheless, he is probably very sharp.
 
-IT PMET ... hard to receive PR approval. In contrast, lower skill levels are more welcome, becasue rather few locals are interested in those professions.
-
-It's really dangerous to openly talk about each other and other team members in front of other people who we may not know so well.
+It's really dangerous to openly talk about other team members in front of other people whom we may not know so well.
 These 2 guys are sophisticated but I think their habit is quite reckless. 
 However, if we don't take this opportunity now, then we may not know how we think of each other.
 
