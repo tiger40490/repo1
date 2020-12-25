@@ -1,9 +1,9 @@
 -- 
-in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, reliability.
+in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, instrumentation.
 
-latency is not really a correct focus.
+latency is not really a practical focus.
 
--- infrastructure technologies are not reliable and fooolproof 
+-- These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
 eg(big): wordpress block editor
 eg: show-stopper: oversensitive touchpad 
 eg: show-stopper: home wifi issues
