@@ -1,3 +1,20 @@
+-- 
+in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, reliability.
+
+latency is not really a correct focus.
+
+-- infrastructure technologies are not reliable and fooolproof 
+eg(big): wordpress block editor
+eg: show-stopper: oversensitive touchpad 
+eg: show-stopper: home wifi issues
+eg: github new policies
+eg: wechat issues
+eg: wordpress take-down notice
+eg: windows license expiry
+eg: windows update kick-in at the wrong time
+eg: Citrix issues
+eg: M1 and starhub blackout
+
 -- update blogpost:
 factorial is usually the worst time complexity in any problems.
 2^(N!) is worse but don't show up in any problem I know.
