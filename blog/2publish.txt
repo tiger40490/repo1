@@ -34,36 +34,10 @@ In either merit-based or wealth-based systems, you are always performance-ranked
 
 I happen to have a UChicago and NUS under my belt.
 
---new: scalability^latency
-web2.0 shops don't care about micro latency engineering including multi-threading, language/compiler features. However, web2.0 shops are not always impressed with WallSt scalability. OPRA feed handler requires scalability. Similarly, my NYSE XDP feed handlers can cope with 370 KMPS per thread. These systems are operated by a dotcom!
-
-Many WallSt architects don't care about scalability per se. For other architects, scalability is achieved with hardware and architecture.
-
-Both camps care about data structures, which are fundamental to scalability and latency.
-
 --new: bring tempting foods to office
 Nowadays I bring the tempting foods to office.
 
 The worst wrong-* temptation is night time at home. Even when I eat no starch, I still feel a loss-of-control. 
 
 When I eat the same food the next morning or in office, I feel (much) more in-control.
---new: ## important not urgent
-bone density
 
---new: CIV implement hash_table/vector
-eg: Broadway Tech
-eg: GS-sg
-eg: AshS GrassHopper .. (shallow implement) interviewer didn't come to the coding stage.
-eg: SIG onsite: vector push_back
-eg: GS-London: deque: no-code
-
-WallSt interviewers have a broader tradition of onsite implmentation of other standard components
-eg: auto_ptr in eSpeed
-eg: shared_ptr
-eg: lockfree stack
-
-I think many fellow candidates in my circle would fail at these question which are designed to reveal detailed understanding of the nitty-gritty. If I consider myself 50% shallow, then those guys are ... 10% shallow?
-
-Why is WallSt obsessed with it? It reveals efficiency in detailed implementation
-
-Why web2.0 seldom ask this? Not much algo involved. 
