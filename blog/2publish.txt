@@ -1,15 +1,3 @@
---update blogpost on glamorous women
-My first look at the world of pretty women, like my wife's
-
-I think respect is really precious, esp. for pretty women without professional or business capabilities. These personal capabilities provide respect + livelihood.
-
-Without those, a reputable college degree would also bestow some respect + status.
-
-For some of these women, fitness and body shape also provide respect.
-
-Note healthy longevity is not a priority.
-
-For my wife, bearing 2 kids gave her a solid, irreplacable, central position in the family.
 --new: self-care in the face of parenting challenges
 category: anxiety
 the conflict with my son draining my energy. 
@@ -23,11 +11,6 @@ I feel lucky to have short commute + the office as my sancturary.
 
 eg of cognitive self-care: Many neighbors' kids are less academic than ah-boy, some are more academic. I don't compare with them, not excessively. 
 Where I do get mad is when I see my son's laziness or poor organization. However, if his benchmark result is close to the top (perhaps in a U.S. school) then I might say he is just like CSY's son.
-
---update blogpost: after all 3000 shares finish settlement, I will look at the full deduction $DD and transfer $DD from 153, and record in this blogpost.
-Upon liquidation, if the actual incoming amount (net of fees) is $II, then i will transfer $II to wife.
-
-The prices don't matter as much as the actual $DD and $II. All fees are charged to SRS and borne by wife.
 
 --new: smashing"safe"objects = slippery slope
 I have damaged a toy monkey.
@@ -66,23 +49,6 @@ The worst wrong-* temptation is night time at home. Even when I eat no starch, I
 When I eat the same food the next morning or in office, I feel (much) more in-control.
 --new: ## important not urgent
 bone density
-
---new: piano practice as a pastime
-piano (and other music) skill is not at the same level as gaming, or sight-seeing.
-
-More than singing, Musical skills require absorbency. Like jogging, it strengths self-efficacy, raises self-esteem, 
-
-Musical journey is a struggle, between the level of recreational workout and benchmarked workout. 
-There's some form of penalty if you don't put in a miminum amount of practice .. you end up achieving nothing and you waste your effort.
-As such it demands a minimum commitment.
-
-If I make very slow progress with a tough piece, I can feel disappointed and frustrated.
-
-I need to select reasonable songs. what if I make very slow progress (stuck) with one song?
-How do I motivate myself?
-
-.. sink, buffer, slack resources
-Piano practice is an excellent energy sink. If 3H/week, then it becomes a good reserve of slack resource, a buffer of extra time. See blogpost on buffers and alternatives.
 
 --new: CIV implement hash_table/vector
 eg: Broadway Tech
