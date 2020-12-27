@@ -1,3 +1,5 @@
+--need to take away the phone for 3d lock-up
+--2H work proj on Sun
 -- update blogpost on comm 
 a writer may not be good at communications skills in a tech role
 The type of writing required is explanatory and showcasing
