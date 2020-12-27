@@ -1,0 +1,3 @@
+-- update blogpost on comm 
+a writer may not be good at communications skills in a tech role
+The type of writing required is explanatory and showcasing
