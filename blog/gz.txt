@@ -1,15 +1,6 @@
 -- web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism
 
 
---new: tech IV: communication appraisal 
-In the U.S. competitive landscape, communication skill often means English speaking, listening and esp. explaning complex technical issues. This is due to the talent pool dominated by immigrants from East Europe and Asia.
-
-On the job, communication skills often include email writing. At a higher level, it also includes empathy/rapport, persuasion and relationship-building.
-
-Some interviews, exp. the leadership interviews do try to assess the relationship skills, but it's highly inaccurate and highly subjective.
-
-Some new hires show very different ratings on these two fronts. my interview with the Japanese NumTech failed partly due to lack of humor.
-
 --fuxi chat with Sachin
 Am process oriented?
 Asked too many questions?
