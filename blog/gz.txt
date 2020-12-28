@@ -1,3 +1,23 @@
+--new: fast-finisher^slow-finisher
+Many of my peers were very efficient. They can focus and get a lot done in a short while. I tend to feel inferior (which is the main problem addressed in this blogpost).
+
+Problem (for students + coding drill): they don’t refresh the learning so they tend to forget more. Since I learn slowly, I tend to have better retention.
+
+Problem: they don’t investigate further so they don’t gain further insights that I gain.
+
+Problem (for developers): Sometimes they don’t pay enough attention to details, or they don’t add enough documentation; or they don’t test thoroughly;
+
+Problem: they tend to waste their time after they finish early.  In contrast, some slow-finishers get to enjoy the process longer and in depth. Think of fine food, love-making, binge-watching multiple movies.
+
+Taking exams, I never hand in early. There no benefit, except to impress/intimidate other exam takers.
+
+Problem: They tend to get bored a bit more. That boredom may or may not turn into creativity (as suggested on BBC). As a slow-finisher, I tend to enjoy the process a bit more.
+
+.. Q: what do these guys do After their early finish?
+A: ... waste their time
+
+On a similar note, many of my college friends are able to function with 6H of daily sleep (making me feel weaker and inferior) but what do they do with the extra time? Entertainment, Loafing, eating and drinking,,, It's human nature to indulge, when given extra time and money.
+
 --fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism
 
 --fuxi chat with Sachin
