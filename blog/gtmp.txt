@@ -1,3 +1,6 @@
+-- fuxi
+don't spend on a new win10 license as Acer299 may break down soon.
+
 -- no blog: smartTV box
 It has special apps preinstalled to download internet content and play on TV.
 
@@ -36,50 +39,9 @@ This happens regardless of his financial status
 
 This is a jolt to me, because I feel the rich parents deserve no help.
 
---new: human nature: satisfied for good@@
-The Bhuddist observes that human desires are satisfied only temporarily.
-
-I don't desire eternal youth. I do want healthy longevity. Limitless desire? Yes if scentifically achievable.
-
-I don't have endless lust or craving for novelty in sex life.
-
-Financially, since 2018 I have felt satisfied with my current cashflow high ground. I do long for even more assurance of family livelihood, in terms of career longevity, inflation protection, healthcare assurance ... 
-
-I am more and more aware that "financial livelihood" (including healthcare resources) is easier to control than personal health. So my current level of livelihood protections are adequate and I don't long for ever higher assurance.
-
-So what imaginary role model do I envy most? Not a big manager with his work/life balance and stress level. I guess cash flow higher ground is enviable, but I'm not that bad.
-
-Basically, the only unlimited desire in me is healthy longevity.
--- new untitled
-dating agency, dating website can work better than "existing network". I actually told a newpaper reporter that tcost is the dominant factor. With dating agency, in a month you can reveiw many profile and meet more than 5 candidates. 
-
-Mind you, We are talking about life partners. 
-
-Klook experience using LinkedIn is similar. https://www.cnbc.com/2018/12/14/klook-entrepreneur-says-linkedin-helped-him-find-start-up-co-founder.html
-
-I have long questioned the conventional wisdom of relying solely on existing network
-
---new untitled:
-In my high school, there were a few focused self-practices that failed to create a visible lead over my peers
-* fwd bend
-* basketball? I improved my drible and shooting significantly but not enough for a competitive game.
-
-How did I react?
-
-How can my son learn from it?
-
-I would say I have reaped dividend for years.. I was able to enjoy basketball much more, and take part in many non-competitive games. My fwd bend is a good part of my rather tight mid-section.
 
 --fuxi
 when you see a boxer using only one hand, probably he has a weakness in the other hand, or he is keeping his stronger arm as reserve.
 
 There are many examples of each.
-
---new: windows scheduled script to clean up Download folders.
-Use bat file, or bash or perl (strawberry)
-check in the script
-maintain individual scripts for each machine. 
-
-tbudget 5-10H. Patience needed. Most people seem to be the uncommitted hare rather than the slow but committed tortoise. MengZi compared crabs vs earthworms
-
-a lot of effort is on dealing with windows permissions.
+* java vs c++
