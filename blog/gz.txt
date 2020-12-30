@@ -2,15 +2,25 @@
 At our age, we have our own inherent worth, and it doens't depend on that one man's assessment.
 
 -- typical bonus amount:
-Tanko said AWS + 1M bonus. Very good in my view.
+Tanko said AWS + 1M bonus. Very good if on a high base.
+
+For a base salary 5-10k then this is more commonplace.
 
 -- update https://1330152open.wordpress.com/wp-admin/post.php?post=272&action=edit&classic-editor
-I said the perfect job/mgr is one who accepts me as a greying, low-energy, unambitious techie.
+I said the perfect job/mgr is one who accepts me as a greying, low-energy, unambitious techie, who does get things done.
 
-Tanko said many older managers are tolerant. Many team members are probably similar in productivity.
+Tanko said some older managers are tolerant. Many team members are probably similar in productivity.
+
+Tanko said he is older/slower than colleagues but more attentative to details.
 
 --new: fast-finisher^slow-finisher
 Many of my peers were very efficient. They can focus and get a lot done in a short while. I tend to feel inferior (which is the main problem addressed in this blogpost).
+
+Problem: they tend to waste their time after they finish early.  In contrast, some slow-finishers get to enjoy the process longer and in depth. Think of fine food, love-making, binge-watching multiple movies.
+
+Dining (and intercourse) is a good place for slow-finishers. You enjoy more.
+
+Exam vs self-practice: in MCQ exams, fast-finisher is a huge advantage provided accuracy is not sacrificed. fast-n-accurate. In self-practice, some people learn best in slow motion.
 
 Problem (for students + coding drill): they don’t refresh the learning so they tend to forget more. Since I learn slowly, I tend to have better retention.
 
@@ -18,11 +28,9 @@ Problem: they don’t investigate further so they don’t gain further insights 
 
 Problem (for developers): Sometimes they don’t pay enough attention to details, or they don’t add enough documentation; or they don’t test thoroughly;
 
-Problem: they tend to waste their time after they finish early.  In contrast, some slow-finishers get to enjoy the process longer and in depth. Think of fine food, love-making, binge-watching multiple movies.
+When taking exams, I never hand in early. There no benefit, except to impress/intimidate other exam takers.
 
-Taking exams, I never hand in early. There no benefit, except to impress/intimidate other exam takers.
-
-Problem: They tend to get bored a bit more. That boredom may or may not turn into creativity (as suggested on BBC). As a slow-finisher, I tend to enjoy the process a bit more.
+Problem: They tend to get bored a bit more. That boredom may or may not turn into creativity (as BBC suggested). As a slow-finisher, I tend to enjoy the process a bit more.
 
 .. Q: what do these guys do After their early finish?
 A: ... waste their time

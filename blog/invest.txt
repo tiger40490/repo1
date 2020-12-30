@@ -1,13 +1,23 @@
---new: why so few people follow my investment principles:
-1) focus on current income rate
-2) decent principal preservation over a 20Y horizon
+--terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
+Also terminate RSP, to keep my life simpler
+
+--new: Y few peers adopt my investment principles #Tanko
+I told Tanko about my principles:
+
+1) focus on cash payout rate around 6% as current income 
+2) decent prospect of principal preservation over a 10Y horizon, worst case 20Y to recover 
 3) Resist the temptation of windfall. Maintain a healthy detachment.
 
-I asked Tanko why so few people (in my age group) follow these principles. He said many don't have a 500k free cash. 
-He said many investors prefer to see their 500k (if they have) staying safe in a bank account, rather than fluctuating in an investment statement.
+Note #2 is a conviction, because most of the assets I consider are illiquid without real time mark-to-market.
 
-I said a fundamental reason is that dividend yield is widely seen as boring compared to windfall.
+I asked Tanko why so few people in my age group follow similar principles. He said many don't have 500k free cash. 
 
+He said many investors prefer to see their 500k (if they have) staying safe in a bank account, rather than fluctuating in an investment account.
+
+I said a fundamental reason is that dividend yield is widely seen as insignificant compared to windfall.
+
+-- update blogpost on 3k crbr
+tanko pointed out $3k/M is sufficient as long as there's no cashflow events. He feels real life is more unpredictable, so for many retired couples the uneventful phase will not last long.
 
 -- new: t-spend on burn rate Control
 need4reflect?
