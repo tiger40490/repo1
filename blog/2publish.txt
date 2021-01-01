@@ -1,5 +1,3 @@
---climb to Floor 30
-
 --Hi Wenqiang,
 I think a few years ago you were a java developer in a government-linked company. 
 
