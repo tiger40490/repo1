@@ -1,19 +1,22 @@
---terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
+--fuxi: terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
+also transfer most of the fund to FSM, but keep the multipler account as just another bank account.
 
 -- tanko vs HF.Sun
-I can tell both feel the pressure of livelihood. Both complained about workload, work stress, work life balance.
+I can tell both feel the pressure of livelihood (with/out kids). Both suffer from workload, work stress, work life balance.
 
-Tanko also felt that cash flow can *become* a stressor esp. for his low-income brothers, even though they seem to be as frugal as Tanko. 
+-- new: avoid big mistakes #Tanko
+Tanko felt that cash flow can *become* a stressor esp. for his low-income brothers, even though they both seem to be as frugal as Tanko. 
 Tanko said they really need to be careful and avoid big mistakes.
 
 Q: what big mistakes have I experienced or seen in my family?
-A: 1997 commodity trading
+A: 1997 trading loss
 A: Majestic Village
+A: sister's high personal debt 
 
 --new: Y few peers adopt my investment principles #Tanko
 I told Tanko about my principles:
 
-1) focus on cash payout rate around 6% as current income 
+1) focus on cash payout rate around 6% as current income. I have a blogpost on 6% being the highest realistic return for long-term.
 2) decent prospect of principal preservation over a 10Y horizon, worst case 20Y to recover 
 3) Resist the temptation of windfall. Maintain a healthy detachment.
 
@@ -24,7 +27,7 @@ A(Tanko): many don't have enough free cash like 500k.
 A(Tanio): many investors prefer to see their 500k (if available) staying safe in a bank account, rather than fluctuating in an investment account.
 A: I said a fundamental reason is that dividend yield is widely seen as insignificant compared to windfall.
 
--- new: many people try to sell you things you don't need.
+-- new: many people try to sell you things you don't really need.
 
 -- new: t-spend on burn rate Control
 or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
@@ -37,9 +40,11 @@ I think most oridnary folks don't have my level of patience, interest, determina
 Remember that burn rate is among my top 5 unique strengths, my top 3 long-term livelihood shields, my top 5 cancer-stress relieves.. The huge value come at a high tCost.
 
 -- financial health of wq.l
-bought a 120sqm home for 750k. 30Y mtg, serviced entirely by CPF. When there's surplus CPF blaance, they would pay down the mtg.
+bought a 120sqm home for 750k. 30Y mtg, serviced entirely by CPF. When there's surplus CPF balance, they would pay down the mtg.
 
-school costs are very low (until college). Kids' clothing cost is low accoring to him. The burden of parenting is mostly energy/time, not financial. This is stark contrast to the mainstream perception "raising one more kid in Singapore possibly costs more than a $1million."
+School costs are very low (until college). Kids' clothing cost is low accoring to him. The burden of parenting is mostly energy/time, not financial. This is stark contrast to the mainstream perception "raising one more kid in Singapore possibly costs more than a $1million."
+
+Tanko may say that unplanned events could derail their low-cost plan. 
 
 I think they are a frugal family. I think the mother has to go out and earn a salary.
 
