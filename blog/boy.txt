@@ -4,6 +4,9 @@ benchmark exam is an artificial world. very few surprises, compared to the natur
 -- shall we restrict joltParenting to .. 55?
 -- US GPA system combines 4 years of exams vs a one-time exam for PSLE, gaokao or A-levels.
 
+--update blogpost on roblox spend
+ROI -- reward for good behavior
+
 -- fuxi: Raymond's boys are in a lower position
 The older boy has now failed to pass 3 subjects and can only pass science at end of P5. Geometry is one weakness.
 
