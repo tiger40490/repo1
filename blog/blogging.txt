@@ -1,0 +1,2 @@
+--fuxi:
+wpress plugin is safer to use than mysql update or php code change
