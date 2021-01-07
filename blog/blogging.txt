@@ -1,2 +1,7 @@
+--fuxi: accept that many blogpost would be essentially w1r0
+The writing process is beneficial, even without a revisit.
+
+I usually try to revisit each blog at least once but it's a huge tcost!
+
 --fuxi:
 wpress plugin is safer to use than mysql update or php code change
