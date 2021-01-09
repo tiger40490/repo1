@@ -1,17 +1,18 @@
---new or update blogpost on exp recon (https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit)
+--update blogpost on exp recon (https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit)
 
 .. annual budgets? I have two alternatives.
-1) I tend to have an annual savings target i.e. how much of salary (eg 100k) is saved to banks or invested. Not exactly a savings target, I have a spreadsheet tracking couple's NAV.
+1) I tend to have a long-term savings target i.e. what share of my salary (eg 100k) is saved to banks or invested. Not exactly a savings target, I have a spreadsheet tracking couple's NAV.
 
 2) I tend to rely on my expense recon. One practical value is setting an expectation for the "outlays over next 3M". As such, expense recon largely displaces annual budget.
 
-In theory, it's useful to set a simple, single number as the annual budget excluding investments, but in reality, it's time consuming to separate out investments, transfers.
+In theory, it's useful to set a simple, single number as the annual budget excluding investments, but in reality, it's time consuming to separate out investments, transfers etc.
 
---
-BGC is good hedge against Cambodia because:
-* easier to sell, as one independent unit, rather than an undivided part of a big floor
+-- new: BGC=hedge against Cambodia
+easier to sell, as one independent unit, rather than an undivided part of a big floor
 
-* more tenants.
+more tenants.
+
+more mature CBD, with more proven real estate demand
 --no blog Q: shall I increase number of FSM holdings but keep each amount low?
 I used to have that but then I sold most of them to simplify my life. They do become a distraction.
 
