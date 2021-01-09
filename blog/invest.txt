@@ -1,7 +1,9 @@
 --new or update blogpost on exp recon (https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit)
-I would devise a budget for big tickets (home, vacation,,,) but how about annual budgets?
 
-I tend to rely on my expense recon. One benefit is setting an expectation for the "outlays over next 3M". As such, expense recon largely dispplaces annual budget.
+.. annual budgets? I have two alternatives.
+1) I tend to have an annual savings target i.e. how much of salary (eg 100k) is saved to banks or invested. Not exactly a savings target, I have a spreadsheet tracking couple's NAV.
+
+2) I tend to rely on my expense recon. One practical value is setting an expectation for the "outlays over next 3M". As such, expense recon largely displaces annual budget.
 
 In theory, it's useful to set a simple, single number as the annual budget excluding investments, but in reality, it's time consuming to separate out investments, transfers.
 
