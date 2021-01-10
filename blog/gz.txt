@@ -1,3 +1,15 @@
+-- typical bonus size in Vanguard in ...
+$11k, roughly one month salary
+
+-- update blogpost on why contract jobs so unpopular for young developers
+CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
+Mgr promised to try and find other funded projects, but it's unlikely to keep all 3 contractors.
+CSY felt so much luckier because as perm he would have a job in other projects.
+
+Therefore, he felt he would consider contract only if salary is 50% higher.
+
+The job insecurity is a major "smell" of the contract career.
+
 -- noblog: looking back at the (stressful) days at Stirt, what are important?
 * boss approval ? still important
 * bonus amount? LG2
