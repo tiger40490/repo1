@@ -1,6 +1,14 @@
 -- typical bonus size in Vanguard in ...
 $11k, roughly one month salary
 
+-- new or update
+Why as contractor the expectation on me is lower?
+ 
+A common reason is localSys. For first year on any job, I'm not always expected to gain localSys knowledge. As contractor, I often stay for only 1-2 years.
+
+In several contract jobs, I take on green field projects, with limited localSys responsibilities.
+
+The underlying pattern -- localSys is my relative weakness. However, sometimes localSys became my strength, like RTS, Guardian, 
 -- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
 
 CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
