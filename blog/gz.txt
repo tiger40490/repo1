@@ -1,7 +1,8 @@
 -- typical bonus size in Vanguard in ...
 $11k, roughly one month salary
 
--- update blogpost on why contract jobs so unpopular for young developers
+-- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
+
 CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
 Mgr promised to try and find other funded projects, but it's unlikely to keep all 3 contractors.
 CSY felt so much luckier because as perm he would have a job in other projects.
