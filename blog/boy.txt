@@ -1,3 +1,4 @@
+-- math practice: offer boy random rewards like "spend $10 on a data package"
 --update blogpost on becoming lifestyle
 Most people accept that they would 1) want to stop working sometime in their 60's 2) not be accepted by employers at that age, unless they are doctors or professors.
 
