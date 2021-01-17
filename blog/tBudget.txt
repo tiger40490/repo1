@@ -1,3 +1,6 @@
+-- update blogpost on friend meet-up
+more efficient to review my thoughts AFTER the chat
+
 -- fuxi:
 which  framework best captures the itchy items?
 quadrant + itchy
