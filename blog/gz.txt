@@ -41,10 +41,10 @@ At our age, we have our own inherent worth, and it doens't depend on that one ma
 
 Another self-help SMS: "accumulate asset" -- AshS
 
--- fuxi or new: 
+-- update one of the blogposts on appraisal
 as employee, when I have family issues, kids issues, investment foes, I would fear an appraisal. Even a bonus disappointment would add a heavy blow.
 
-As contract, no such fear. When I'm let go, I would easily attribute it to budget and go job hunting again.
+As contractor, no such fear. When I'm let go, I would easily attribute it to budget and go job hunting again.
 
 -- typical bonus amount:
 Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare up.
@@ -52,9 +52,9 @@ Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare 
 For a base salary 5-10k then this is more commonplace, but still good.
 
 -- update https://1330152open.wordpress.com/wp-admin/post.php?post=272&action=edit&classic-editor
-I told Tanko .. the perfect job/mgr is one who accepts me as a greying, low-energy, unambitious techie, who does get things done.
+I told Tanko .. the perfect job/mgr is one who accepts me as a greying, low-energy, unambitious techie, who does get things done at a reasonable quality but slower pace.
 
-Tanko said some older managers are tolerant. Many team members are probably similar in productivity.
+Tanko said some older managers are tolerant. Many team members are probably similar in productivity. Those fast workers are not necessarily more productive considering quality (rework, support issues...)
 
 Tanko said he is older/slower than colleagues but more attentative to details.
 
@@ -82,7 +82,7 @@ A: ... waste their time
 
 On a similar note, many of my college friends are able to function with 6H of daily sleep (making me feel weaker and inferior) but what do they do with the extra time? Entertainment, Loafing, eating and drinking,,, It's human nature to indulge, when given extra time and money.
 
---fuxi: wq.l felt gov tech is not a technology laggard. He is attracted by that and the job stability. Work load is not lighter than elsewhere.
+--fuxi: wq.l felt govtech is not a technology laggard. He is attracted by that and the job stability. Work load is not lighter than elsewhere.
 
 Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my age group" tend to be devastating, even destructive. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
 
