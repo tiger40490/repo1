@@ -1,4 +1,4 @@
--- new: UChicago^NUS benchmark performane
+-- new: UChicago^NUS benchmark performance
 20 years after graduating, one thing I remember about my NUS performance (relative to other schools) was the 2nd-class honors. I think a big factor is the final year project, or perhaps having two D's automatically disqualifies me from first-class honors.
 
 There's no point analyzing it, since we have no inside knowledge.
@@ -9,13 +9,17 @@ Therefore, I fared better in math than engineering.
 
 -- fuxi or update on recreational
 my analysis of a stock often hits dismal ROTI because I only buy up to $100.
+I feel the tension between two forces
+* self-hate due to low ROTI, low commitment amount... tolerable for recreational
+* if I bet bigger, I hit high tcost (due diligence + holding tcost) and much higher risk.
 
-Tolerable for recreation
+Diversifying is not that effective due to high correlation.
 
-Over 2020 I invested about 2k
+The most promising solution is bigger buy-n-forget, buy-n-hold for dividend.
 
+I can also stick to recreational investing, and keep my portfolio NAV below $20k.
 -- new: BGC=hedge against Cambodia
-easier to sell, as one independent unit, rather than an undivided part of a big floor
+easier to sell, as one independent unit, rather a tiny part of a bigger unit.
 
 far more tenants.
 
@@ -58,10 +62,9 @@ I'm no perfect child. If I have a son like me, is there something I can't accept
 My son has no aggression, no cruelty, no dishonesty,,,, that's why I find his laziness unacceptable.
 
 -- new: socially awkward 
-BillGates and Mark Z were described as socially awkward in school.
+BillGates and Mark Z were described as socially awkward in school. 
 
-I was very awkward in primary and secondary schools. Slowly found my confidence in high school.
+I was very awkward in middle school. Slowly found my confidence in high school. 
+Humor (and wit) is something I lack in most group settings. In Shiyan I had a bit of wit, but not humor.
 
-Humor (and wit) is something I lack in most teams. In Shiyan I had a bit of wit, but not humor.
-
-Watching the Mr.Bean episode "Exam", I recall that most western men strike me as comtemporary and polished. But I beat most of them in studies (bigO), in self-discipline, in wellness, in brbr/FullerWealth, even in analytical writing.
+Watching the Mr.Bean episode "Exam", I recall that most western men strike me as comtemporary and polished. But I beat most of them in studies (bigO), in self-discipline (Gary.G), in wellness, in brbr/FullerWealth, even in analytical writing.
