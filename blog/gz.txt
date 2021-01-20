@@ -1,6 +1,8 @@
 -- Yinghui now 20k/M down from 50k+/M
 mtg 17k/M
 
+-- paradox: many old-timres struggle to get decent increments, while some move up the ladder.
+
 -- fuxi: typical bonus size in Vanguard PA campus
 $11k, roughly one month salary. 
 
@@ -86,7 +88,7 @@ On a similar note, many of my college friends are able to function with 6H of da
 
 Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my age group" tend to be devastating, even destructive. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
 
---fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism
+--fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism and has stood the test of time
 
 --fuxi chat with Sachin
 Am process oriented?
@@ -114,20 +116,25 @@ I was rather bold when talking about Anurag in public. I think that might be the
 Henry Luo, Sunil, Anil .. with limited experience can become highly-paid or senior java developers. This is testament to low entry barrier, market depth of java job market.
 
 --fuxi
-Some managers are just good at managing a lot of projects, but they may have some limitations elsewhere
+Some (support?) managers are just good at managing a lot of projects, but they may have some limitations elsewhere
 
--- if I benchmark myself on piano, fitness, BMI, even math ... i will see my biggest strenghs in dev IV.
+-- new untitled
+if I benchmark myself on piano, fitness, BMI, even math ... i will find my biggest strenghs in dev IV.
 Luckily, this domain has superior market depth
 
 In school, my biggest strength is theoretical physics, but now I believe math and computing has higher market value.
 
+Look at BoRong, or grandpa..
+
 --new: if I had not entered finDev
 Some (casual) observers may say that without the 2007 WalSt journey I would have gone to web2.0 shops. 
 Well, majority of non-finDev guys in my age group have not gone there. 
+Look at XA.Shen, wq.luo
 Look at all of my ex-colleagues. 
 Those who go into some web2.0 shops in SG are not earning 200k. Also, they must manage teams, in which I'm uninterested/unsuitable.
 
-What's the likelihood that I get into SG finDev without the U.S. trip? Questionable, because of entry barrier not only in IV. I would need to try 10-30 interviews but SG market doesn't let me keep trying
+Q: What's the likelihood that I get into SG finDev without the U.S. trip? 
+A: Questionable, because of entry barrier not only in IV. I would need to try 10-30 interviews but SG market doesn't let me keep trying
 
-Perhaps my disposition translates to strength in the web2.0 space? 
-Well, financial dnlg(math++), multi-threading, language-details, latency knowledge are my strong games that are non-critical to web2.0 interviews.
+Q: Perhaps my disposition translates to strength in the web2.0 space? 
+A: Well, financial dnlg(math++), multi-threading, language-details, latency knowledge are my strong games that are non-critical to web2.0 interviews.
