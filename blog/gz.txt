@@ -1,6 +1,14 @@
 -- Yinghui now 20k/M down from 50k+/M
 mtg 17k/M
 
+-- what firms pay sgd 5k+ to fresher?
+Mostly U.S. web2.0 and HFT shops. I think they benchmark with U.S. wage levels.
+
+Chinese web2.0 shops (bytedance > tencent > shopee) can pay $7k/M to freshers before you negotiate for even higher.
+
+game dev is fairly hardcore, mathematical and ground-up, but gave dev pay is below average. I gues Ubisoft is one employer
+
+
 -- paradox: many old-timres struggle to get decent increments, while some move up the ladder.
 
 -- fuxi: typical bonus size in Vanguard PA campus
