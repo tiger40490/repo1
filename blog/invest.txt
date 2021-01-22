@@ -46,32 +46,6 @@ div amount can change (dramatically) next quarter due to profit and management
 
 Instead I would focus more on DYOC, dividend stability.
 
--- new deliverymen's brbr
-t_fomo^livelihood
-(This blogpost is mostly about finance..)
-looking at the deliverymen and Uber drivers (or cashiers) I think laborers have to work relatively long hours.
-
-What if he only needs to work a minimum of 0-4 hours a day, as extra hours become leisure? 
-
-(As with Tanko's brothers) Let's further assume "basic" healthcare, housing and education are provided by government. 
-
-Q: Is this (comparable to my) carefree ezlife, based on excellent brbr? 
-
-His burn rate would be much lower than his cohort, as he ignores FOMO such as
-* top schools
-* big cars
-* vacations
-
-Q: How is his lifestyle different from FIRE?
-A: nonwork income like investment payout is instrumental to FIRE
-A: FIRE is about removing depdnency on salary. The deliveryman still needs salary to make ends meet.
-
-Q: How does his lifestyle compare to the Khmer villagers?
-A: healthcare, edu, housing provisions are not great in today's Cambodia.
-
-Q: with his spare time, does he lead a healthier life?
-A: I think most adults have just enough leisure time to lead a healthier life, so time is a factor but not a limiting factor. Motivation is the limiting factor.
-
 -- fuxi: Cambodia and BGC rEstate mkt: both driven by Chinese hot money
 --fuxi: terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
 also transfer most of the fund to FSM, but keep the multipler account as just another bank account.
@@ -156,6 +130,33 @@ Can we strike a balance? I think we may need to be confident.
 .. case: SIA: due to the commission, I think we should commit 7k+ from SRS
 .. case: divAdv fund. Thanks to my prev xp I think we can commit 5k, perhaps from SRS
 .. case: gold: thanks to my extensive analysis and due to the large bid/ask spread, i think we can commit bigger amounts like 3K+
+
+
+-- new deliverymen's brbr
+t_fomo^livelihood
+(This blogpost is mostly about finance..)
+looking at the deliverymen and Uber drivers (or cashiers) I think laborers have to work relatively long hours.
+
+What if he only needs to work a minimum of 0-4 hours a day, as extra hours become leisure? 
+
+(As with Tanko's brothers) Let's further assume "basic" healthcare, housing and education are provided by government. 
+
+Q: Is this (comparable to my) carefree ezlife, based on excellent brbr? 
+
+His burn rate would be much lower than his cohort, as he ignores FOMO such as
+* top schools
+* big cars
+* vacations
+
+Q: How is his lifestyle different from FIRE?
+A: nonwork income like investment payout is instrumental to FIRE
+A: FIRE is about removing depdnency on salary. The deliveryman still needs salary to make ends meet.
+
+Q: How does his lifestyle compare to the Khmer villagers?
+A: healthcare, edu, housing provisions are not great in today's Cambodia.
+
+Q: with his spare time, does he lead a healthier life?
+A: I think most adults have just enough leisure time to lead a healthier life, so time is a factor but not a limiting factor. Motivation is the limiting factor.
 
 --update blogpost on brbr
 barber's 压力 is presumably brbr. If they earn 2k and spend only $500, then no ground for complaint.
