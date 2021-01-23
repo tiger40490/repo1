@@ -131,10 +131,12 @@ Can we strike a balance? I think we may need to be confident.
 .. case: divAdv fund. Thanks to my prev xp I think we can commit 5k, perhaps from SRS
 .. case: gold: thanks to my extensive analysis and due to the large bid/ask spread, i think we can commit bigger amounts like 3K+
 
-
 -- new deliverymen's brbr
-t_fomo^livelihood
+t_fomo^livelihood t_jolt
 (This blogpost is mostly about finance..)
+
+[a=at or above my idea of barebones livelihood, something of a luxury]
+
 looking at the deliverymen and Uber drivers I think these free agents have to work relatively long hours in reality.
 
 What if he only needs to work a minimum of 0-4 hours a day, as extra hours become leisure? 
@@ -144,26 +146,27 @@ What if he only needs to work a minimum of 0-4 hours a day, as extra hours becom
 Q: Is this (comparable to my) carefree ezlife, based on excellent brbr? 
 
 His burn rate would be much lower than his cohort, as he rejects FOMO such as
-* top schools
-* big cars
-* vacations
-* restaurants
+* [a] top schools
+* [a] big car, or any car
+* [a] overseas vacations. The low-income, big families tend to prefer staycation
+* [a] restaurants
+
+[a] I would say these are luxury items unnecessary for a happy fulfilling life on earth. 
 
 Q: How is his lifestyle different from FIRE?
 A: nonwork income like investment payout is instrumental to FIRE. Note long-horizon windfall profit doesn't help.
 A: FIRE is about removing depednency on salary. The deliveryman still needs salary to make ends meet.
 
 Q: How does his lifestyle compare to the Khmer villagers?
-A: healthcare, edu, housing provisions, even food security is not great in today's Cambodia.
-
+A: [!a] healthcare, [!a] edu, [!a] housing provisions, even [!a] food security is not great in today's Cambodia.
 
 Q: how is XH.Fu's life different with 2 kids and lots of free time?
-A: I think XH's income is comparable to (not lower than) his cohort. XH trades job security for abundance of free time.
+A: I think XH's income is comparable to (not lower than) his cohort. XH trades [a] job security for abundance of free time.
 
 Actually the free agents enjoy limited job security, and worry about sudden job loss, sick leave, medical bills etc.
 
-Q: with his spare time, does he lead a healthier life than his cohort?
-A: I think most adults have just enough leisure time to lead a healthier life, so time is a factor but not a limiting factor. Motivation is the limiting factor.
+Q (side question): with his spare time, does he adopt a healthier lifestyle than his cohort?
+A: I think most adults have just enough leisure time to lead a healthier life, so time is a factor but not a limiting factor. Motivation is the real limiting factor.
 
 --update blogpost on brbr
 barber's 压力 is presumably brbr. If they earn 2k and spend only $500, then no ground for complaint.
