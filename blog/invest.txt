@@ -50,28 +50,6 @@ Instead I would focus more on DYOC, dividend stability.
 --fuxi: terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
 also transfer most of the fund to FSM, but keep the multipler account as just another bank account.
 
--- tanko vs HF.Sun
-I can tell both feel the pressure of livelihood (with/out kids). Both are suffering from workload, work stress, work life balance.
-
-i feel tanko doesn't want to but feels pressured to work into old age, until he feels he has saved enough.
-He doesn't believe in cpf-life providing sufficient cash payout for his golden years. I won't bother to ask him why.
-
-In contrast, I feel confident to stop working any time but I choose to work full time till my 70's and possibly part-time till my 80's.
-
---new: Y few peers adopt my investment principles #Tanko
-I told Tanko about my principles:
-
-1) focus on cash payout rate around 6% as current income. I have a blogpost on 6% being the highest realistic return for long-term, but that's a return rate. A payout rate of 6% is much harder.
-2) decent prospect of principal preservation over a 10Y horizon, worst case 20Y to recover 
-3) Resist the temptation of windfall. Maintain a healthy detachment.
-
-Note #2 is a personal conviction, because most of my chosen assets are actually illiquid without real time mark-to-market.
-
-Q: why so few people in my cohort follow similar principles. 
-A(Tanko): many don't have enough free cash like 500k (Tanko's figure). I guess many have oversized property assets paying out very little (or negative) DYOC -- i.e. non-productive assets
-A(Tanko): many investors prefer to see their 500k (if available) staying safe in a bank account, rather than fluctuating in an investment account.
-A(I told Tanko): a fundamental reason is that dividend yield is widely seen as insignificant compared to windfall.
-
 -- correlation of psf and d2mrt is not so clear. 
 I think the count of interested buyers for each unit is very small, unlike gold.
 We rarely have 2 identical units only different in terms of d2mrt, unlike commodities.
