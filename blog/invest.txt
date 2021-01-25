@@ -1,3 +1,11 @@
+-- For 10k of my OA money parked outside cpf (parked in some bank acct..), every year it may generate a return of, say, 1.1%. 
+
+This 10k must accrue 2.5% either in or outside CPF.
+* if growing inside CPF, then the government pays me 2.5%. In fact, it can be 4% if you transfer that 10k to SA.
+* if parked outside CPF, then I am paying myself that 2.5%
+* so 30 years later when I sell the HDB, after the dust settles exactly the same compounded amount (10k * 1.025^30) would end up in OA.
+
+Q: by parking the 10k outside cpf, you get to use the money (liquidity) but can you generate 2.5% to beat the government accrual rate of 4%?
 
 --CSY said most private colleges publish an annual fee amount at least 60k
 If you don't prepare in advance, can you cope with ths burn rate?
