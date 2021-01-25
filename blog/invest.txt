@@ -72,7 +72,9 @@ A(Tanko): many don't have enough free cash like 500k (Tanko's figure). I guess m
 A(Tanko): many investors prefer to see their 500k (if available) staying safe in a bank account, rather than fluctuating in an investment account.
 A(I told Tanko): a fundamental reason is that dividend yield is widely seen as insignificant compared to windfall.
 
--- fuxi: many people try to sell you things you don't really need.
+-- correlation of psf and d2mrt is not so clear. 
+I think the count of interested buyers for each unit is very small, unlike gold.
+We rarely have 2 identical units only different in terms of d2mrt, unlike commodities.
 
 -- financial health of wq.l
 bought a 120sqm home for 750k. 30Y mtg, serviced entirely by CPF. When there's surplus CPF balance, they would pay down the mtg.
@@ -84,7 +86,6 @@ A telltale sign of his strain -- WQ.l feels college cost would be much higher, e
 I think they are a frugal family. I think the mother has to go out and earn a salary.
 
 No property investment. No tuition.
-
 
 -- new deliverymen's brbr #free agent
 t_fomo^livelihood t_jolt
