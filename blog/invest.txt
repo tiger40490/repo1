@@ -1,18 +1,12 @@
--- For 10k of my OA money parked outside cpf (parked in some bank acct..), every year it may generate a return of, say, 1.1%. 
+--new: 
+For 10k of my OA money parked outside cpf (parked in some bank acct..), every year it may generate a return of, say, 1.1%. 
 
-This 10k must accrue 2.5% either in or outside CPF.
-* if growing inside CPF, then the government pays me 2.5%. In fact, it can be 4% if you transfer that 10k to SA.
-* if parked outside CPF, then I am paying myself that 2.5%
-* so 30 years later when I sell the HDB, after the dust settles exactly the same compounded amount (10k * 1.025^30) would end up in OA.
+However, this 10k must accrue 2.5% either in or outside CPF.
+* if growing inside CPF, then the government pays me 2.5%. Even 4% is available if you transfer that 10k to SA.
+* if parked outside CPF, then I am paying myself that 2.5%, paying from investment return (if invested) or liquid cash (if parked in banks)
+* so 30 years later when I sell the HDB flat, after the dust settles exactly the same compounded amount (10k * 1.025^30) would end up in OA.
 
-Q: by parking the 10k outside cpf, you get to use the money (liquidity) but can you generate 2.5% to beat the government accrual rate of 4%?
-
---CSY said most private colleges publish an annual fee amount at least 60k
-If you don't prepare in advance, can you cope with ths burn rate?
-
-It would require a savings rate of 60k+/Y. If you receive 30k nonwork income, then it would help.
-
-When I told him that I would try to think less of the bonus amount, he pointed out his 30k+ annual burn rate. Clearly this amount is quite heavy for him.
+Q: by parking the 10k outside cpf, you get to USE the money (liquidity) for housing, education, investment etc but can you generate 2.5% to beat the government accrual rate of 4%?
 
 -- fuxi or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
 t-spend on burn rate Control
