@@ -2,6 +2,20 @@
 -- fuxi: typical bonus size in Vanguard PA campus
 $11k, roughly one month salary. 
 
+-- noblog: looking back at the (stressful) days at Stirt, what are important?
+* boss approval ? still important
+* bonus amount? LG2
+* commute? LG2
+* Y-junction neglect due to work stress? LG2
+* good sleep? important
+* career longevity? important
+** dnlg-math? important only for job IV moat over the long term
+** in contrast, salary now is secondary
+* opportunity to collaborate with US/EU? important
+* opportunity to work on weekends? important
+
+The spectacular office building and view, and the jogging path nearby generates stress rather than relief.
+
 --new or fuxi? outlier salary can seem commonplace
 eg: my reply to XR on 250k fresher salary
 eg: IC designer salary in China, according to Zhang Jiong
