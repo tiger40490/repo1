@@ -2,12 +2,11 @@
 mtg 17k/M
 
 -- what firms pay sgd 5k+ to fresher?
-Mostly U.S. web2.0 and HFT shops. I think they benchmark with U.S. wage levels.
+Mostly U.S. firms. Web2.0 and HFT. I think they benchmark with U.S. wage levels.
 
-Chinese web2.0 shops (bytedance > tencent > shopee) can pay $7k/M to freshers before you negotiate for even higher.
+Chinese web2.0 shops (bytedance > tencent > shopee) can pay $7k/M to .. new (or recent) graduates before you negotiate for even higher.
 
-game dev is fairly hardcore, mathematical and ground-up, but gave dev pay is below average. I gues Ubisoft is one employer
-
+game dev is fairly hardcore, mathematical and ground-up, but game dev pay is below average. I gues Ubisoft is one employer
 
 -- paradox: many old-timres struggle to get decent increments, while some move up the ladder.
 
