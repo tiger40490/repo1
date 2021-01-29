@@ -8,23 +8,22 @@ Chinese web2.0 shops (bytedance > tencent > shopee) can pay $7k/M to .. new (or 
 
 game dev is fairly hardcore, mathematical and ground-up, but game dev pay is below average. I gues Ubisoft is one employer
 
--- paradox: many old-timres struggle to get decent increments, while some move up the ladder.
+-- paradox: many old-timers struggle to get decent increments, while some old timers move up the ladder.
 
--- new or update
+-- fuxi
 Why as contractor the expectation on me is lower?
  
 A common reason is localSys. For first year on any job, I'm not always expected to gain localSys knowledge. As contractor, I often stay for only 1-2 years.
 
 In several contract jobs, I take on green field projects, with limited localSys responsibilities.
 
-The underlying pattern -- localSys is my relative weakness. However, sometimes localSys became my strength, like RTS, Guardian, 
+The underlying pattern -- localSys is my relative weakness. However, sometimes localSys became my strength, like RTS, , 
 -- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
-
 CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
-Mgr promised to try and find other teams, but it's unlikely to keep all 3 contractors.
+Mgr promised to try and find other teams, but it's unlikely to have all 3 contractors retained.
 CSY felt so much luckier because as perm he would have a job in other projects in the same team.
 
-Therefore, he felt he would consider contract only if salary is 50% higher.
+Therefore, he felt he would consider contract only if salary is 50% higher. Underlying reason -- his age and job search challenges are real. Dev-till-70 is not so easy.
 
 This type of observation/experience reinforces the job insecurity "smell" of the contract career.
 
