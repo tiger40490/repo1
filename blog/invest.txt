@@ -1,3 +1,30 @@
+-- China gov clamp down ... usually on individual companies not an entire sector
+-- fuxi or new: barbell portfolio strategy
+AA) capture superior returns from long-term irreversible growth
+BB) generate stable income to cover short-term mkt volatilities
+
+China eq .. considered AA
+millennial wave(?) is also AA
+
+REIT .. considered BB, but I think there are Reits and Reits
+
+By and large I think the AA assets are low-div, and the BB assets are low-growth.
+
+-- why U.S. stocks show better trough i.e. faster recovery? Vance believes the index component is one issue. He said STI has mostly sunset-sector stocks.
+
+-- update blogpost on bluechips vs mufu
+if a mufu like divAdvantage can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
+A: I doubt a mufu can generate 4% DYOC consistently. I don't think I have seen any.
+A: an ETF will probably beat the mufu in terms of annual fees
+A: MOETF will beat ETF on a few fronts. Financially, I could liquidate individual constituent stocks.
+
+However, I do agree that dividend tax is a disadvantage of MOETF. Luckily, as U.S. tax payer, my annual income would be so low that my marginal tax rate would be far below 20%.
+
+Tcost is another disadvantage but as an recreational investor I treat it as recreation and learning.
+
+-- SRS .. can buy annuity .. less tax :)
+But I don't know any annuity to buy.
+
 --new: 
 For 10k of my OA money parked outside cpf (parked in some bank acct..), every year it may generate a return of, say, 1.1%. 
 
