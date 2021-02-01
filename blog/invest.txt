@@ -10,8 +10,6 @@ REIT .. considered BB, but I think there are Reits and Reits
 
 By and large I think the AA assets are low-div, and the BB assets are low-growth.
 
--- why U.S. stocks show better trough i.e. faster recovery? Vance believes the index component is one issue. He said STI has mostly sunset-sector stocks.
-
 -- update blogpost on bluechips vs mufu
 if a mufu like divAdvantage can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
 A: I doubt a mufu can generate 4% DYOC consistently. I don't think I have seen any.
