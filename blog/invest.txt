@@ -24,14 +24,16 @@ Tcost is another disadvantage but as an recreational investor I treat it as recr
 But I don't know any annuity to buy.
 
 --new: 
-For 10k of my OA money parked outside cpf (parked in some bank acct..), every year it may generate a return of, say, 1.1%. 
+For 10k (up to 150k) of my OA money parked outside cpf (parked in some bank acct or FSM ..), every year it may generate a return of, say, 1.1%. 
 
-However, this 10k must accrue 2.5% either in or outside CPF.
+However, until you sell your flat, this 10k must accrue 2.5% a year either in or outside CPF.
 * if growing inside CPF, then the government pays me 2.5%. Even 4% is available if you transfer that 10k to SA.
 * if parked outside CPF, then I am paying myself that 2.5%, paying from investment return (if invested) or liquid cash (if parked in banks)
-* so 30 years later when I sell the HDB flat, after the dust settles exactly the same compounded amount (10k * 1.025^30) would end up in OA.
+* so 30 years later when I sell the HDB flat, after the dust settles exactly the same compounded amount (10k * 1.025^30) would end up in OA. OA end balance after flat sale is an invariant.
 
-Q: by parking the 10k outside cpf, you get to USE the money (liquidity) for housing, education, investment etc but can you generate 2.5% to beat the government accrual rate of 4%?
+Q: by parking the 10k outside cpf, you get to USE the money (liquidity) for housing, investment etc but can you generate 2.5% to beat the government accrual rate of 4%?
+
+Note you can't really "park" the 10k in the HDB flat as the flat appreciates by itself, regardless of your 10k. The flat is not an account you can top up incrementally.
 
 -- fuxi or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
 t-spend on burn rate Control
