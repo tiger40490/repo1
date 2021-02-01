@@ -1,4 +1,3 @@
--- China gov clamp down ... usually on individual companies not an entire sector
 -- fuxi or new: barbell portfolio strategy
 AA) capture superior returns from long-term irreversible growth
 BB) generate stable income to cover short-term mkt volatilities
@@ -11,7 +10,7 @@ REIT .. considered BB, but I think there are Reits and Reits
 By and large I think the AA assets are low-div, and the BB assets are low-growth.
 
 -- update blogpost on bluechips vs mufu
-if a mufu like divAdvantage can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
+if a mufu like DIVA can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
 A: I doubt a mufu can generate 4% DYOC consistently. I don't think I have seen any.
 A: an ETF will probably beat the mufu in terms of annual fees
 A: MOETF will beat ETF on a few fronts. Financially, I could liquidate individual constituent stocks.
@@ -20,6 +19,7 @@ However, I do agree that dividend tax is a disadvantage of MOETF. Luckily, as U.
 
 Tcost is another disadvantage but as an recreational investor I treat it as recreation and learning.
 
+-- China gov clamp down ... usually on individual companies not an entire sector
 -- SRS .. can buy annuity .. less tax :)
 But I don't know any annuity to buy.
 
