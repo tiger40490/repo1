@@ -1,4 +1,4 @@
--- kenneth's story
+-- kenneth See's inspirational story
 HCI -> St Andrew's JC -> NTU Sociology acceptance, but went to NorthEastern "business" degree -> UPenn special Master's for non-IT graduates.
 
 Among the UPen program graduates, about 1/3 become sw-engineers, about 1/3 found jobs combining IT with their previous professions. A small minority chose theoretical PhD programs.
