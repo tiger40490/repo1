@@ -1,13 +1,11 @@
 
 -- new: UChicago^NUS benchmark performance
-20 years after graduating, one thing I remember about my NUS performance (relative to other schools) was the 2nd-class honors. I think a big factor is the final year project, or perhaps having two D's automatically disqualifies me from first-class honors.
-
+20 years after graduating, one thing I remember about my NUS performance (relative to other schools attended) was the 2nd-class honors. I think a big factor is the final year project, or perhaps having two D's automatically disqualifies me for first-class honors. 
 There's no point analyzing it, since we have no inside knowledge.
 
-In contrast, my UChicago grades are much better -- mostly A's and one or two B's
+My primary schools, Shiyan, HJC, Uchicago all gave me better grades than NUS. UChicago grades are much better -- mostly A's and one or two B's
 
-Therefore, I fared better in math than engineering.
-
+Therefore, I fared better in math than engineering!
 -- new: super-strength^super-longevity
 As boys, we dreamed of super strengths like in legends .. childish
 A more realistic dream is super longevity. It requires
@@ -23,17 +21,6 @@ even though my shoulder joint is unable to extend up to 180 degrees, it's not pr
 
 In contrast, my Y-junction inflexibility does render some yoga poses unattainable.
 
--- fuxi or update on recreational
-my analysis of a stock often hits dismal ROTI because I only buy up to $100.
-I feel the tension between two forces
-* self-hate due to low ROTI, low commitment amount... tolerable for recreational
-* if I bet bigger, I hit high tcost (due diligence + holding tcost) and much higher risk.
-
-Diversifying is not that effective due to high correlation.
-
-The most promising solution is bigger buy-n-forget, buy-n-hold for dividend.
-
-I can also stick to recreational investing, and keep my portfolio NAV below $20k.
 --new: longevity=elusive,finHealth can be strengthened
 longevity health is elusive but financial health, in contrast, can be strengthened. Key drivers are 1) higher nonwork income and 2) burn rate control 3) maintain salary (a topic for another blog)
 

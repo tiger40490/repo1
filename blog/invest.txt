@@ -1,3 +1,15 @@
+-- fuxi or update on recreational investing
+my analysis of a stock often hits dismal ROTI because I only buy up to $100.
+I feel the tension between two forces
+* self-hate due to low ROTI, low commitment amount... tolerable for recreational
+* if I bet bigger, I hit high tcost (due diligence + holding tcost) and much higher risk.
+
+Diversifying is not that effective due to high correlation.
+
+The most promising solution is bigger buy-n-forget, buy-n-hold for dividend.
+
+I can also stick to recreational investing, and keep my portfolio NAV below $20k.
+
 -- fuxi or new: barbell portfolio strategy
 AA) capture superior returns from long-term irreversible growth
 BB) generate stable income to cover short-term mkt volatilities
