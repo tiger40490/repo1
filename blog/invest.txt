@@ -10,19 +10,8 @@ The most promising solution is bigger buy-n-forget, buy-n-hold for dividend.
 
 I can also stick to recreational investing, and keep my portfolio NAV below $20k.
 
--- fuxi or new: barbell portfolio strategy
-AA) capture superior returns from long-term irreversible growth
-BB) generate stable income to cover short-term mkt volatilities
-
-China eq .. considered AA
-millennial wave(?) is also AA
-
-REIT .. considered BB, but I think there are Reits and Reits
-
-By and large I think the AA assets are low-div, and the BB assets are low-growth.
-
 -- update blogpost on bluechips vs mufu
-if a mufu like DIVA can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
+Q: if a mufu like DIVA can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
 A: I doubt a mufu can generate 4% DYOC consistently. I don't think I have seen any.
 A: an ETF will probably beat the mufu in terms of annual fees
 A: MOETF will beat ETF on a few fronts. Financially, I could liquidate individual constituent stocks.
