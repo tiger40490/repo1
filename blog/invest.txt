@@ -1,6 +1,6 @@
 -- update blogpost on bluechips vs mufu
 Q: if a mufu like DIVA can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
-A: I doubt a mufu can generate 4% DYOC consistently. I don't think I have seen any.
+A: I doubt a mufu can generate 4% DYOC consistently without eroding NAV. I don't think I have seen any. Let's check out DIVA
 A: an ETF will probably beat the mufu in terms of annual fees
 A: MOETF will beat ETF on a few fronts. Financially, I could liquidate individual constituent stocks.
 
@@ -36,11 +36,13 @@ How much is reasonable?
 Park where? DBM multipler? No
 FSM? 
 
--- fuxi: CDY is not a valuable criteria because
+-- fuxi: stock CDY is not a valuable criteria because
 price can change fast, invalidating the CDY figure, due to SnD
 div amount can change (dramatically) next quarter due to profit and management 
 
 Instead I would focus more on DYOC, dividend stability.
+
+As to mufu, NAV is not driven by SnD.
 
 -- fuxi: Cambodia and BGC rEstate mkt: both driven by Chinese hot money
 --fuxi: terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
@@ -62,7 +64,8 @@ I think they are a frugal family. I think the mother has to go out and earn a sa
 No property investment. No tuition.
 
 -- new deliverymen's brbr #free agent
-t_fomo^livelihood t_jolt
+t_fomo^livelihood 
+t_jolt
 (This blogpost is mostly about finance..)
 
 [a=at or above my idea of barebones livelihood, something of a luxury]
