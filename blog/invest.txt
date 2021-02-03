@@ -12,7 +12,7 @@ Tcost is another disadvantage but as an recreational investor I treat it as recr
 -- SRS .. can buy annuity .. less tax :)
 But I don't know any annuity to buy.
 
---new: 
+--new: cash -> SA via housing refund
 For 10k (up to 150k) of my OA money parked outside cpf (parked in some bank acct or FSM ..), every year it may generate a return of, say, 1.1%. 
 
 However, until you sell your flat, this 10k must accrue a nominal 2.5% a year either in or outside CPF.
@@ -20,11 +20,15 @@ However, until you sell your flat, this 10k must accrue a nominal 2.5% a year ei
 * if parked outside CPF, then I am paying myself that nominal 2.5%, paying from investment return (if invested) or liquid cash (if parked in banks)
 * so 30 years later when I sell the HDB flat, after the dust settles exactly the same compounded amount (10k * 1.025^30) would end up in OA. OA end balance after flat sale is an invariant.
 
-Q: by parking the 10k outside cpf, you get to USE the money (liquidity) for investment, vacation etc but can you generate 2.5% to beat the government accrual rate of 4%?
+Q: by parking the 10k outside cpf, you get to USE the money (liquidity) for investment, vacation etc but can you generate enough profit to beat the guaranteed compound rate of 4%?
 
 Note you can't really "park" the 10k in the HDB flat as the flat appreciates by itself, regardless of your 10k. The flat is not an account you can top up incrementally.
 
-Q: perhaps I should transfer 10k (or more) from bank acct to OA then OA -> SA since I have no use for my spare cash.
+Q: perhaps I should transfer 10k (up to 150k) from bank acct to OA then OA -> SA since I have no use for my spare cash?
+
+What if (10% probability) we want to upgrade HDB home before 55? As discussed with Felicia, 
+* sales proceeds + wife's CPF-OA can be deployed to reduce the mtg to $200k
+* By the time we take up the mortgage, I would have some CPF-OA balance. I have the option to deploy it.
 
 -- fuxi or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
 t-spend on burn rate Control
