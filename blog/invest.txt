@@ -1,3 +1,12 @@
+-- risk@100% loss in stock pickig
+I guess this is one justification/marketing for equity mufu.
+
+For any stock to receive $200 of my money, it has to be rather solid, reputable, with a convincing trec.
+
+If such a stock pick still goes bankrupt, then I will accept the result and accept responsibility. The initil amount was risk capital anyway.
+
+I think the probability for hitting a bankruptcy in 10Y is 10%. My loss would be ... 3% of my portfolio. But Expense Ratio of a mufu easily adds up to 20% of my portfolio value.
+
 -- update blogpost on bluechips vs mufu
 Q: if a mufu like DIVA can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
 A: I doubt a mufu can generate 4% DYOC consistently without eroding NAV. I don't think I have seen any. Let's check out DIVA
