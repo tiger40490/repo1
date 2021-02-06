@@ -7,22 +7,25 @@ I think Colacola is trying to keep the customer hooked...
 
 Most cusomers would buy the sugar-free version once a while, and buy the sugary version most of the time. The sugar-free version makes the customer less likely to detract.
 
--- more healthy than average
-When we say "I'm far more healthy than average" we are assigning some composite rating to our individual health. 
-It's vague composite. Here I want to highlight a few points relevant to myself
+-- new: more healthy than average
+When I say "I'm far more healthy than average" we are assigning some composite numeric rating to our individual health condition. 
+It's a vague composite. Here I want to highlight a few elements relevant to myself
 
-dental .. my siliva has a more cleasing effect 
+dental .. my siliva has a more cleasing effect
 bone density .. my bones are denser and more resistant to wear-n-tear
 flexibility .. reduces injuries
 skin .. some individuals' skin is less prone to radiation damage. Mine is more vulnerable
 sleep .. My mom can easily use sleep to recharge and recover from depletion
-heart (+ lung) .. some hearts can last longer
-diet and exercise habits .. are a crucial lifestyle defense 
-BMI deep-green
+diet and exercise habits .. are a crucial lifestyle defense. They make an individual "healthy" in terms of lifestyle.
 cold .. Many of my colleagues easily catch the cold.
 overall immune system .. some immune systems are more resilient. In the U.S. I had only a few minor breakdowns (ear infection, fever)
+heart (+ lung) .. some hearts can last longer
+BMI deep-green
 coping devices .. contribute to a healthier system. They include meditation, sleep, workout, comfort foods, expressive writing, 
-psychological defenses .. support network etc
+psychological defenses .. 
+
+Note I exclude external factors such as healthcare infrastructure, support network etc
+
 athletic capabilities have limited value. Atheletes have stronger hearts and lungs, bones and muscles.
 
 In my list, common keywords are defense, robust/resilience,,, Each person's system is under endless and countless attacks. The healthier system is basically more fortified.
@@ -35,7 +38,7 @@ I think the amount of meat, starch and fat might be underestimated.
  
 -- update blogpost: yellowish skin: another doctor also felt confident it is due to food. He reassured me it's harmless.
 
--- learn (on video) the basics of air-boxing to add fun to jogging. 
+-- fuxi: learn (on video) the basics of air-boxing to add fun to jogging. 
 
 -- new or fuxi: many women are married to husbands who don't pay enough attention to flexibility.
 Men are natually tighter.
