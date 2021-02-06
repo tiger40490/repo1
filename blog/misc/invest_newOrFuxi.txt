@@ -1,3 +1,7 @@
+
+-- SRS .. can buy annuity .. less tax :)
+But I don't know any annuity to buy.
+
 -- fuxi: SgFinDex - SG financial data exchange
 DBS nav planner is based on that.
 
