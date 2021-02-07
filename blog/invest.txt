@@ -1,3 +1,8 @@
+--update blogpost on MOETF
+with ETF or mufu, I can't exclude a stock when I buy the fund. That stock could be too expensive, or low-yield or speculative.
+
+If I were in charge of a fund, I might exclude 88% of theose stocks. Therefore, most of my money invested in the fund is not aligned to my personal needs, risk appetite and selection criteria.
+
 -- fuxi or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
 t-spend on burn rate Control
 jolt
