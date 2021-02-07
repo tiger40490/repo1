@@ -1,9 +1,10 @@
--- new: Leverage
+-- new: Leverage: slow-n-steady
 t_tectonic
+vague
 
 My definition of Leverage:  maintain a steadfast focus on continuous improvement at strategic leverage points, based on personal convictions, and you are likely to pull ahead in 10Y
 
-Applicable to any of marathon.
+Applicable to any of marathons.
 
 eg: I spend lots of time refreshing the English vocab I learnt in the past. Other students tend to focus on new words.
 eg: I spend lots of time reviewing past coding problems, while other job seekers mostly focus on new problems.
@@ -35,24 +36,6 @@ Note I exclude external factors such as healthcare infrastructure, support netwo
 athletic capabilities have limited value. Atheletes have stronger hearts and lungs, bones and muscles.
 
 In my list, common keywords are defense, robust/resilience,,, Each person's system is under endless and countless attacks. The healthier system is basically more fortified.
-
--- new: too well-off
-In 2021 I described myself as too well-off to feel the hunger for more earning power.
-growing fat and happy.
-
-Well-off is less than rich or wealthy.
-
-Context was my tech learning and localSys learning energy.
-
--- update blogpost on bluechips vs mufu
-Q: if a mufu like DIVA can pay 4% dividend, what's the advantage of MOETF hitting DYOC 4% after tax?
-A: I doubt a mufu can generate 4% DYOC consistently without eroding NAV. I don't think I have seen any. Let's check out DIVA
-A: an ETF will probably beat the mufu in terms of annual fees
-A: MOETF will beat ETF on a few fronts. Financially, I could liquidate individual constituent stocks.
-
-However, I do agree that dividend tax is a disadvantage of MOETF. Luckily, as U.S. tax payer, my annual income would be so low that my marginal tax rate would be far below 20%.
-
-Tcost is another disadvantage but as an recreational investor I treat it as recreation and learning. Anti-aging.
 
 -- new: risk@100% loss in stock pickig
 I guess this is one justification (marketing?) for equity mufu.
