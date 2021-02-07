@@ -1,11 +1,3 @@
--- new or fuxi
-Cocacola and other beverage vendors have worked for decades to improve the appeal of sugar-free products.
-
-I think most people still find those drinks inferior and not much better than water.
-
-I think Colacola is trying to keep the customer hooked...
-
-Most cusomers would buy the sugar-free version once a while, and buy the sugary version most of the time. The sugar-free version makes the customer less likely to detract.
 
 -- new: more healthy than average
 When I say "I'm far more healthy than average" we are assigning some composite numeric rating to our individual health condition. 
@@ -35,7 +27,16 @@ Q: is it possible to put on weight by eating lots of carrots, and other raw veg 
 A: I don't think so.
 
 I think the amount of meat, starch and fat might be underestimated.
- 
+
+-- new or fuxi
+Cocacola and other beverage vendors have worked for decades to improve the appeal of sugar-free products.
+
+I think most people still find those drinks inferior and not much better than water.
+
+I think Colacola is trying to keep the customer hooked...
+
+Most cusomers would buy the sugar-free version once a while, and buy the sugary version most of the time. The sugar-free version makes the customer less likely to detract.
+
 -- update blogpost: yellowish skin: another doctor also felt confident it is due to food. He reassured me it's harmless.
 
 -- fuxi: learn (on video) the basics of air-boxing to add fun to jogging. 
