@@ -1,3 +1,7 @@
+--new too much SGD?
+cpf transfer?
+convert to usd?
+
 --update blogpost on MOETF
 with ETF or mufu, I can't exclude a stock when I buy the fund. That stock could be too expensive, or low-yield or speculative.
 
