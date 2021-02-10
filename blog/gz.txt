@@ -1,14 +1,13 @@
 
--- paradox: many old-timers struggle to get decent increments, while some old timers move up the ladder.
+-- new: old dvelopers are not always expensive.
+paradox: many old-timers struggle to get decent increments, while some old timers move up the ladder.
+Move up or move out.
 
--- fuxi
-Why as contractor the expectation on me is lower?
+Those move-up guys are seen as leaders with a wealth of valuable experience and leadership trec. 
+
+Those move-out guys are seen as uncompetitive, not in-demand, but they are NOT expensive.
+
  
-A common reason is localSys. For first year on any job, I'm not always expected to gain localSys knowledge. As contractor, I often stay for only 1-2 years.
-
-In several contract jobs, I take on green field projects, with limited localSys responsibilities.
-
-The underlying pattern -- localSys is my relative weakness. However, sometimes localSys became my strength, like RTS, , 
 -- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
 CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
 Mgr promised to try and find other teams, but it's unlikely to have all 3 contractors retained.
@@ -39,6 +38,15 @@ I told Tanko .. the perfect job/mgr is one who accepts me as a greying, low-ener
 Tanko said some older managers are tolerant. Many team members are probably similar in productivity. Those fast workers are not necessarily more productive considering quality (rework, support issues...)
 
 Tanko said he is older/slower than colleagues but more attentative to details.
+
+-- fuxi or update blogpost on...
+Why as contractor the expectation on me is lower?
+ 
+A common reason is localSys. For first year on any job, I'm not always expected to gain localSys knowledge. As contractor, I often stay for only 1-2 years.
+
+In several contract jobs, I take on green field projects, with limited localSys responsibilities.
+
+The underlying pattern -- localSys is my relative weakness. However, sometimes localSys became my strength, like RTS, ,
 
 --new: fast-finisher^slow-finisher
 Many of my peers were very efficient. They can focus and get a lot done in a short while. I tend to feel inferior (which is the main problem addressed in this blogpost).
