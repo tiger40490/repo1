@@ -1,14 +1,13 @@
--- update blogpost on friend meet-up
-more efficient to review my thoughts AFTER the chat
+-- current sinks 
+nowadyas, a lot of time goes into
+* per finance
+* friend dialog -- more efficient than meet-up
 
--- fuxi:
-which  framework best captures the itchy items?
-quadrant + itchy
-sunshine?
+Not enough go into
+* workout
+* localSys
+* piano
 
---new: goal setting
-goal: migrate drive blog
-goal: DMV
 --new untitled
 what's in common between:
 * comparison-shopping for tiny savings
