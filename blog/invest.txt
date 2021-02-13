@@ -1,3 +1,14 @@
+--new: small transaction costs add up
+
+Upfront commission and expense ratio are the two well-known transaction costs.
+
+Many people belittle these costs esp. commissions. My MOETF "system" and HFT systems rely heavily on low commission.
+
+Other small transaction costs:
+* FX exchange costs
+* fund transfer costs between institutions.
+* tax on profits .. not small and never belittled.
+
 -- update ..
 There are many very strong and convincing blue-chips paying low CDY or unstable dividend amount. I hestitate as buy-n-forget is hard .. If price climbs then starts falling, I may be forced to babysit my position.
 
