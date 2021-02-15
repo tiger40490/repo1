@@ -1,13 +1,3 @@
---new: small transaction costs add up
-
-Upfront commission and expense ratio are the two well-known transaction costs.
-
-Many people belittle these costs esp. commissions. My MOETF "system" and HFT systems rely heavily on low commission.
-
-Other small transaction costs:
-* FX exchange costs
-* fund transfer costs between institutions.
-* tax on profits .. not small and never belittled.
 
 -- update ..
 There are many very strong and convincing blue-chips paying low CDY or unstable dividend amount. I hestitate as buy-n-forget is hard .. If price climbs then starts falling, I may be forced to babysit my position.
@@ -16,8 +6,6 @@ There are many very strong and convincing blue-chips paying low CDY or unstable 
 
 -- LZ.Yu said he has only one salary + some small investment income. He emphasized the reliance on his savings. 
 His wife can, if so desired, find a job.
-
--- LZ.Yu's wife said many times at least SGD 300k to complete NYU. But she said the  published figure by the university may not be enough.
 
 --update blogpost ... answer to Genn
 my ffree is still barebones.
@@ -45,6 +33,16 @@ GBP 50k-100k is needed to buy an "average" home in London. Presumably, the down 
 with ETF or mufu, I can't exclude a stock when I buy the fund. That stock could be too expensive, or low-yield or speculative.
 
 If I were in charge of a fund, I might exclude 88% of theose stocks. Therefore, most of my money invested in the fund is not aligned to my personal needs, risk appetite and selection criteria.
+
+--new: small transaction costs add up
+Upfront commission and expense ratio are the two well-known transaction costs.
+
+Many people belittle these costs esp. commissions. My MOETF "system" and HFT systems rely heavily on the commission advantage. Some HFTs even earn a rebate from exchange for providing liquidity.
+
+Other small transaction costs:
+* FX exchange costs
+* fund transfer costs between institutions.
+* tax on profits .. not small and never belittled.
 
 -- fuxi or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
 t-spend on burn rate Control
