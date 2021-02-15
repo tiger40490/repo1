@@ -1,3 +1,6 @@
+-- update blogpost
+Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. 
+
 --new
 Q (for every equity investor): if there's a new 5Y-bond offered at par, what coupon rate would be as attractive as your favorite growth stock?
 
