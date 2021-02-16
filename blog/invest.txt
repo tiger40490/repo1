@@ -1,24 +1,5 @@
 -- 
-Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, SA limit is typically up to FRS. After 55, the RA limit is up to the ERS watermark.
-
--- the cpf-life max-out plan
-At 55, your RA will be created with up to FRS. If you have extra balance in OA or cash, then you can immediately top up (striaght to RA) to the ERS watermark. Each year thereafter, ERS watermark would rise (about 5k), so you need to top up to the new ERS watermark.
-
-As an alternative, my late-top-up plan only hits the ERS watermark right before 65. By then, the max-out guy would hit a higher balance, because the interest he earned is not used to limit his top-up. So the difference between his RA balance and my ERS watermark is the total interested he earned over the last 10Y.
-
--- cpf-sa investment
-If you liquidate at a profit, the entire amount goes back to SA.
-
-If you liquidate at a loss, the sales proceeds go bck to SA. No accured interest to compute.
-
-However, it's hard to beat SA's 4% compound interest, so I probably won't invest SA balance.
-
-Note no investing of RA balance
-
--- using RA as a savings account
-Rule: top-up amounts are locked into a hidden account and never free for withdrawal. You can only withdraw from the at-55 initial balance.
-
-Suppose your at-55 initial RA balance is 160k. By pledging your HDB, you could withdraw the "free" portion above BRS. Supose free portion is 67k. Suppose you withdraw 30k, and subsequently top up 35k. The free portion is now 37k.
+Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, SA limit is typically up to FRS watermark. After 55, the RA limit is up to the ERS watermark.
 
 -- update blogpost
 Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. 
