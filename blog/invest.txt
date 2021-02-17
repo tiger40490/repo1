@@ -1,18 +1,13 @@
--- 
+-- fuxi:
 Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, SA limit is typically up to FRS watermark. After 55, the RA limit is up to the ERS watermark.
 
 --update blogpost on Kun.HFT
-
 Kun.H likes to use backtest to validate his trading signal.  There's definitely some value in back testing.
+Perhaps automatic generation of trading signal.
 
 For my recreational investing, I think it takes a lot of time and may not produce better results. 
 -- update blogpost
 Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. 
-
---new
-Q (for every equity investor): if there's a new 5Y-bond offered at par, what coupon rate would be as attractive as your favorite growth stock?
-
-A: 6% for me
 
 -- update ..
 There are many very strong and convincing blue-chips paying low CDY or unstable dividend amount. I hestitate as buy-n-forget is hard .. If price climbs then starts falling, I may be forced to babysit my position.
@@ -40,9 +35,6 @@ A: perhaps I was never so ambitious so hungry for windfall, after I become an in
 --new too much SGD?
 cpf transfer?
 convert to usd?
-
---fuxi: London home price
-GBP 50k-100k is needed to buy an "average" home in London. Presumably, the down payment. I think this is higher than Singapore.
 
 --update blogpost on MOETF
 with ETF or mufu, I can't exclude a stock when I buy the fund. That stock could be too expensive, or low-yield or speculative.
