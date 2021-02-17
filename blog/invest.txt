@@ -1,6 +1,11 @@
 -- 
 Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, SA limit is typically up to FRS watermark. After 55, the RA limit is up to the ERS watermark.
 
+--update blogpost on Kun.HFT
+
+Kun.H likes to use backtest to validate his trading signal.  There's definitely some value in back testing.
+
+For my recreational investing, I think it takes a lot of time and may not produce better results. 
 -- update blogpost
 Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. 
 
