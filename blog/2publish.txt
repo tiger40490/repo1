@@ -11,11 +11,6 @@ I don't want to overthink this question, since it affects only them, not me.
 Q: Did I ever try that and how did I decide to stop?
 A: perhaps I was never so ambitious so hungry for windfall, after I become an investor. 
 
---update blogpost on Kun.HFT
-Kun.H likes to use backtest to validate his trading signal.  There's definitely some value in back testing.
-Perhaps automatic generation of trading signal.
-
-For my recreational investing, I think it takes a lot of time and may not produce better results. 
 -- update:
 Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, the SA limit is typically up to FRS watermark. After 55, the RA limit is up to the ERS watermark.
 
