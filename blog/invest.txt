@@ -1,31 +1,9 @@
--- fuxi:
-Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, SA limit is typically up to FRS watermark. After 55, the RA limit is up to the ERS watermark.
-
---update blogpost on Kun.HFT
-Kun.H likes to use backtest to validate his trading signal.  There's definitely some value in back testing.
-Perhaps automatic generation of trading signal.
-
-For my recreational investing, I think it takes a lot of time and may not produce better results. 
--- update blogpost
+-- fuxi
 Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. 
 
 -- update ..
 There are many very strong and convincing blue-chips paying low CDY or unstable dividend amount. I hestitate as buy-n-forget is hard .. If price climbs then starts falling, I may be forced to babysit my position.
 
---update blogpost ... answer to Genn
-my ffree is still barebones.
--- update strategic missteps:
-cash -> OA -> SA prevents people from wasting their hard-earned savings on wrong investments, including top schools.
---update blogpost on windfall
-I asked only a few peer investors. I feel most of them are not only dreaming but aiming at a $500k windfall (often much higher), over 5-10Y. My wife might be one of them.
-
-Q: So how much risk capital are they committing? 100k? 200k?
-
-Q: is that level of return realistic? I guess only tech stocks can deliver 30%/Y compound return
-I don't want to overthink this question, since it affects only them, not me.
-
-Q: Did I ever try that and how did I decide to stop?
-A: perhaps I was never so ambitious so hungry for windfall, after I become an investor. 
 
 -- fuxi or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=13923&action=edit
 t-spend on burn rate Control
