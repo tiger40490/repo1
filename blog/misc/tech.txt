@@ -1,3 +1,8 @@
+-- value of real work experience
+This value is lowest in concurrency design (and implementation).
+Probability of observing a bad race is extremely low, so real world experience of "millions of tests" or "decades of successful operation" often gives a false sense of reassurance.
+
+Correct design depends on peer review, which is based on the guarantee provided by the underlying infrastructure. When one of the underlying specifications changes, the correctness may be compromised without us knowing. 
 -- 
 in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, instrumentation.
 
