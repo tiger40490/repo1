@@ -1,4 +1,4 @@
-
+-- collect past phone numbers in a blogpost, so help myself recognize them.
 
 -- u.s. not in decline :
 * movie businss + pop music

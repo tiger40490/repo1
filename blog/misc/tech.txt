@@ -1,14 +1,14 @@
--- value of real work experience
+-- new or .. value of real work experience
 This value is lowest in concurrency design (and implementation).
 Probability of observing a bad race is extremely low, so real world experience of "millions of tests" or "decades of successful operation" often gives a false sense of reassurance.
 
 Correct design depends on peer review, which is based on the guarantee provided by the underlying infrastructure. When one of the underlying specifications changes, the correctness may be compromised without us knowing. 
--- 
+-- fuxi
 in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, instrumentation.
 
 latency is not really a practical focus.
 
--- These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
+-- fuxi: These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
 eg(big): wordpress block editor
 eg: show-stopper: oversensitive touchpad 
 eg: show-stopper: home wifi issues
