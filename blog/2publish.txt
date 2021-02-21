@@ -1,7 +1,4 @@
--- update which blogpost under t_cpf
-Max amount you can "add" into SA or RA is computed and presented in MyMessages. Before you turn 55, the SA limit is typically up to FRS watermark. After 55, the RA limit is up to the ERS watermark.
 
-However, after you add to the limit, it could grow further due to contributions and interests.
 --new: worst unacceptable outcome@boy
 .. is not benchmark disappointments including career progression
 .. is not wellness condition
