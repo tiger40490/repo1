@@ -1,97 +1,8 @@
--- new: Vishal discussion
-I thought Vishal would be wise to move out of PMW to a more lucrative domain. 
-
-I thought Vishal has the soft skills and political skills to move up. In the end he chose move-out rather than move-up.
-
-I thought Vishal would be one of the key individuals to get well-compensated by GS (to keep him loyal). He said he was in a few years but overall paid below the market.
-
-Vishal described some geopolitics which affected the compensation, promotion, workload...
-
-I feel shaming was a big whiplash used in PWM. ( Now I feel Stirt tech used some shame, as I was unable to meet the VP benchmark.) Beware: Shame is usually a ping-pong -- If manager sends a signal but I refused to respond, then shaming is less effective.
-
-peer benchmarking is shaming if too explicit....
-
-For contractors, manager is less likely to use motivation techniques including shaming. Emotionally tiring... If she does, the contractor is more free [1] to quit, more so than H1b employees.
-
-[1] In his home country, Vishal also has more freedom. )
-
-Many GS techies simply quit after seeing the workload, the compensation, the expectation, the motivation/whiplash. As Vishal described, most of them has found happiness since they left.
-
-mutual responsibility .. Both employer and employee have some responsibilities over the bad outcome, be it shame, burn-out or health issues. As in the "homeless" discussion, it's unfair to blame the system only, and never look inside the self.
-
--- update blogpost
-I asked Vishal -- do you get used to the high stress of VP? 
-Josh seemed to be very cool.
-
-Vishal said that even though he became better at handling the work, it was still too much. The demands and expectations were probably increasing on him. Move up or move out. I think he was benchmarked with other VP's 
-
-As to urgency, I now feel Josh is confident to cope with virtually all the incoming issues. Unconsciously he assigns a urgency level to each so he is never overwhelmed 
-
--- most PWM tech guys become VP eventually. 30% of the employees are VP's.
-
--- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
-CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
-Mgr promised to try and find other teams, but it's unlikely to have all 3 contractors retained.
-CSY felt so much luckier because as perm he would have a job in other projects in the same team.
-
-Therefore, he felt he would consider contract only if salary is 50% higher. Underlying reason -- his age and job search challenges are real. Dev-till-70 is not so easy.
-
-This type of observation/experience reinforces the job insecurity "smell" of the contract career.
-
--- tanko on manager's neg appraisal
-At our age, we have our own inherent worth, and it doens't depend on that one man's assessment.
-
-Another self-help SMS: "accumulate asset" -- AshS
 
 -- update one of the blogposts on appraisal
 as employee, when I have family issues, kids issues, investment foes, I would fear an appraisal. Even a bonus disappointment would add a heavy blow.
 
 As contractor, no such fear. When I'm let go, I would easily attribute it to budget and go job hunting again.
-
--- typical bonus amount:
-Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare up.
-
-For a base salary 5-10k then this is more commonplace, but still good.
-
--- update https://1330152open.wordpress.com/wp-admin/post.php?post=272&action=edit&classic-editor
-I told Tanko .. the perfect job/mgr is one who accepts me as a greying, low-energy, unambitious techie, who does get things done at a reasonable quality but slower pace.
-
-Tanko said some older managers are tolerant. Many team members are probably similar in productivity. Those fast workers are not necessarily more productive considering quality (rework, support issues...)
-
-Tanko said he is older/slower than colleagues but more attentative to details.
-
--- fuxi or update blogpost on...
-Why as contractor the expectation on me is lower?
- 
-A common reason is localSys. For first year on any job, I'm not always expected to gain localSys knowledge. As contractor, I often stay for only 1-2 years.
-
-In several contract jobs, I take on green field projects, with limited localSys responsibilities.
-
-The underlying pattern -- localSys is my relative weakness. However, sometimes localSys became my strength, like RTS, ,
-
---new: fast-finisher^slow-finisher
-Many of my peers were very efficient. They can focus and get a lot done in a short while. I tend to feel inferior (which is the main problem addressed in this blogpost).
-
-Problem: they tend to waste their time after they finish early.  In contrast, some slow-finishers get to enjoy the process longer and in depth. Think of fine food, love-making, binge-watching multiple movies.
-
-Dining (and intercourse) is a good place for slow-finishers. You enjoy more.
-
-Exam vs self-practice: in MCQ exams, fast-finisher is a huge advantage provided accuracy is not sacrificed. fast-n-accurate. In self-practice, some people learn best in slow motion.
-
-Problem (for students + coding drill): they don’t refresh the learning so they tend to forget more. Since I learn slowly, I tend to have better retention.
-
-Problem: they don’t investigate further so they don’t gain further insights that I gain.
-
-Problem (for developers): Sometimes they don’t pay enough attention to details, or they don’t add enough documentation; or they don’t test thoroughly;
-
-When taking exams, I never hand in early. There no benefit, except to impress/intimidate other exam takers.
-
-Problem: They tend to get bored a bit more. That boredom may or may not turn into creativity (as BBC suggested). As a slow-finisher, I tend to enjoy the process a bit more.
-
-.. Q: what do these guys do After their early finish?
-A: ... waste their time
-
-On a similar note, many of my college friends are able to function with 6H of daily sleep (making me feel weaker and inferior) but what do they do with the extra time? Entertainment, Loafing, eating and drinking,,, It's human nature to indulge, when given extra time and money.
 
 --fuxi: wq.l felt govtech is not a technology laggard. He is attracted by that and the job stability. 
 Work load is not lighter than elsewhere in his experience. However, I would say many private employers are more aggressive more pushing more ruthless.
@@ -99,11 +10,6 @@ Work load is not lighter than elsewhere in his experience. However, I would say 
 Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my cohort" tend to be devastating. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
 
 --fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism and has stood the test of time
-
---fuxi chat with Sachin
-Am process oriented?
-Asked too many questions?
-I now have a reputation for being detailed and reliable. A reputation hard to protect. It can backfire on me
 
 --informal feedbacks during year-end party
 "You are process oriented, which is missing in the local team. We are not used to so many questions so we ignored some of your questions. We assume each team member has maturity and needs only a pointer and can figure out the rest." In zed I used to feel the same about asking questions, but in GS it all changed. 
@@ -121,30 +27,3 @@ I was rather bold when talking about Anurag in public. I think that might be the
 --fuxi: smart guys like Kun.h couldn't crack the quant IV cos
 * too selective, comparable to HFT
 * poor market depth. I guess Kun ended in a risk quant role.
-
---fuxi
-Henry Luo, Sunil, Anil .. with limited experience can become highly-paid or senior java developers. This is testament to low entry barrier, market depth of java job market.
-
---fuxi
-Some (support?) managers are just good at managing a lot of projects, but they may have some limitations elsewhere
-
--- new untitled
-if I benchmark myself on piano, fitness, BMI, even math ... i will find my biggest strenghs in dev IV.
-Luckily, this domain has superior market depth
-
-In school, my biggest strength is theoretical physics, but now I believe math and computing has higher market value.
-
-Look at BoRong, or grandpa..
-
---new: if I had not entered finDev
-Some (casual) observers may say that without the 2007 WalSt journey I would have gone to web2.0 shops. 
-Well, majority of non-finDev guys in my age group have not gone there. 
-Look at XA.Shen, wq.luo
-Look at all of my ex-colleagues. 
-Those who go into some web2.0 shops in SG are not earning 200k. Also, they must manage teams, in which I'm uninterested/unsuitable.
-
-Q: What's the likelihood that I get into SG finDev without the U.S. trip? 
-A: Questionable, because of entry barrier not only in IV. I would need to try 10-30 interviews but SG market doesn't let me keep trying
-
-Q: Perhaps my disposition translates to strength in the web2.0 space? 
-A: Well, financial dnlg(math++), multi-threading, language-details, latency knowledge are my strong games that are non-critical to web2.0 interviews.
