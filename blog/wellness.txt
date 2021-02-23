@@ -1,3 +1,17 @@
+-- new: satiation efficacy vs weight gain coefficient
+SE (not a number) is the marginal gain in satiation for every gram (or oz) of a food consumed
+WGC = body weight gain / every gram (or oz) of a food consumed
+
+We want high SE low WGC
+eg: smoothie with lots of ice... The ice improves SE. Zero WGC.
+eg: ice cream... Again, the ice content improves SE.
+eg: peanuts esp. unshelled .. 
+eg: chocolates.. bad WGC, but surprisingly, good SE.
+eg (heaviest): cakes .. poor SE as I tend to keep eating and eating.
+eg: potatos + yams .. the fiber is supposed to enhance SE, but I tend to eat more and more, often due to the killer combo of starch+sugar+fat
+
+Exercise unfortunately brings down SE of all foods indirectly, as it increases your appetite. 
+
 -- all my life the biggest calory contributor is starch not fat or protein. 100% of my binges invole high starch, until recently when I started to cut down starch
 
 -- the MLP monitor in Room2 can become a hindrance to the more-standing initiative. Detach it at times.
