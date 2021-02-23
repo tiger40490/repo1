@@ -1,3 +1,9 @@
+-- which friends have a similiar ezlife ?
+AshS? yes in cash flow and wellness, but how about career longevity?
+H.Y? yes in easy job
+WQ.L? yes in easy job
+XH.Fu? Yes in easy job and free time
+
 -- update post on "opportunity cost"
 If you quit your job and stay home, the previous salary (eg 9k) is an opportunity cost
 
