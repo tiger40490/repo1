@@ -1,8 +1,3 @@
--- fuxi: typical bonus amount:
-Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare up.
-
-For a base salary 5-10k then this is more commonplace, but still good.
-
 -- fuxi: most PWM tech guys become VP eventually. 30% of the employees are VP's.
 
 --fuxi
@@ -26,9 +21,6 @@ Mostly U.S. firms. Web2.0 and HFT. I think they benchmark with U.S. wage levels.
 Chinese web2.0 shops (bytedance > tencent > shopee) can pay $7k/M to .. new (or recent) graduates before you negotiate for even higher.
 
 game dev is fairly hardcore, mathematical and ground-up, but game dev pay is below average. I gues Ubisoft is one employer
-
--- fuxi: typical bonus size in Vanguard PA campus
-$11k, roughly one month salary. 
 
 -- noblog: looking back at the (stressful) days at Stirt, what are important?
 * boss approval ? still important
