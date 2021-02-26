@@ -1,5 +1,11 @@
--- ETFs mostly invest in popular stocks. As ETFs become increasingly popular vis-a-vis stock-picking, the popular stocks probably receive even more mindshare and volume than before. 
-These hot stocks probably become more volatile.
+-- Now is the 2nd or 3rd period of "active research"
+t_xxAsRecreation
+Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
+
+-- I guess ETFs mostly invest in popular stocks. 
+The steady increase in ETF participation probably leads to more concentration more gravitation to the big index-component stocks. 
+As ETFs become increasingly popular vis-a-vis stock-picking, the popular stocks probably receive even more mindshare and volume than before. 
+These hot stocks probably become more volatile due to retail hot money.
 
 -- fuxi: new: %% favorate assets=seldom very-mainstream
 I shun SG condos. I favor SEA emerging market rEstate.
