@@ -1,7 +1,7 @@
 -- ETFs mostly invest in popular stocks. As ETFs become increasingly popular vis-a-vis stock-picking, the popular stocks probably receive even more mindshare and volume than before. 
 These hot stocks probably become more volatile.
 
--- new: %% favorate assets=never very-mainstream
+-- fuxi: new: %% favorate assets=seldom very-mainstream
 I shun SG condos. I favor SEA emerging market rEstate.
 I shun growth stocks. My dividend stocks are supposed to be mainstream among retirees, but my cohort are not retirees and I don't know anyone interested in my low-growth dividend stocks.
 I favor a large number of often unknown stocks.
@@ -23,6 +23,6 @@ I think most oridnary folks don't have my level of patience, interest, determina
 
 Remember that burn rate is among my top 5 unique strengths, my top 3 long-term livelihood shields, my top 5 cancer-stress relieves.. The huge value come at a high tCost.
 
--- correlation of psf and d2mrt is not so clear. 
+-- jolt: correlation of psf and d2mrt is not so clear. 
 I think the count of interested buyers for each unit is very small, unlike gold.
 We rarely have 2 identical units only different in terms of d2mrt, unlike commodities.
