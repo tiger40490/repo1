@@ -1,3 +1,6 @@
+-- ETFs mostly invest in popular stocks. As ETFs become increasingly popular vis-a-vis stock-picking, the popular stocks probably receive even more mindshare and volume than before. 
+These hot stocks probably become more volatile.
+
 -- new: %% favorate assets=never very-mainstream
 I shun SG condos. I favor SEA emerging market rEstate.
 I shun growth stocks. My dividend stocks are supposed to be mainstream among retirees, but my cohort are not retirees and I don't know anyone interested in my low-growth dividend stocks.
