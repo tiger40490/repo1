@@ -1,3 +1,7 @@
+
+-- update post on "opportunity cost"
+If you quit your job and stay home, the previous salary (eg 7k) is an opportunity cost
+
 -- fuxi: typical bonus amount:
 Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare up.
 

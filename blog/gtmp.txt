@@ -1,30 +1,6 @@
--- fuxi: which friends have a similiar ezlife ?
-AshS? yes in cash flow and sunshine on wellness, but how about career longevity?
-H.Y? yes in easy job
-WQ.L? yes in easy job
-XH.Fu? Yes in easy job and free time
-
--- update post on "opportunity cost"
-If you quit your job and stay home, the previous salary (eg 9k) is an opportunity cost
 
 -- collect past phone numbers in a blogpost, to help myself recognize them?
 
--- u.s. not in decline :
-* movie businss + pop music
-* tech companies
-* stock market
-* university brands
-* nobel prize winners
-* publishing industry
-* cross-culture entrepreneurship, private enterprises
-* print news media -- influential newspapers, news weekly, journalism, 
-* broadcasting news media, 
-* medical research
-* globalization, outsourcing
-* management consulting business
-* marketing, branding
-
-I wonder why. LKY might say "talent" 
 
 -- new blogpost (pointing to old): my grades: ending on a high
 NUS -> UChicago: better  grades at last.
@@ -146,3 +122,26 @@ when you see a boxer using only one hand, probably he has a weakness in the othe
 
 There are many examples of each.
 * java vs c++
+
+-- u.s. not in decline :
+* movie businss + pop music
+* tech companies
+* stock market
+* university brands
+* nobel prize winners
+* publishing industry
+* cross-culture entrepreneurship, private enterprises
+* print news media -- influential newspapers, news weekly, journalism, 
+* broadcasting news media, 
+* medical research
+* globalization, outsourcing
+* management consulting business
+* marketing, branding
+
+I wonder why. LKY might say "talent" 
+
+-- fuxi: which friends have a similiar ezlife ?
+AshS? yes in cash flow and sunshine on wellness, but how about career longevity?
+H.Yi? yes in easy job
+WQ.L? yes in easy job
+XH.Fu? Yes in easy job and free time
