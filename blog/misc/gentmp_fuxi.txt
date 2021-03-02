@@ -1,3 +1,33 @@
+-- fuxi: u.s. not in decline :
+* movie businss + pop music
+* tech companies
+* stock market
+* university brands
+* nobel prize winners
+* publishing industry
+* cross-culture entrepreneurship, private enterprises
+* print news media -- influential newspapers, news weekly, journalism, 
+* broadcasting news media, 
+* medical research
+* globalization, outsourcing
+* management consulting business
+* marketing, branding
+
+I wonder why. LKY might say "talent" 
+
+-- no blog: smartTV box
+It has special apps preinstalled to download internet content and play on TV.
+
+The internet content could be youtube.. Probably not a streaming service.
+
+Wife's windows apps serve a similar purpose.
+
+Netflix is another app but requires subscription.
+
+One-time $79 investment and you can watch many movies on your TV unlimited for life. No subscription. 
+
+Unlimted movies will make you feel fed up sooner or later. Unconstrained indulgence would dillute the enjoyment. I'd rather buy a movie ticket each time.
+
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
 
