@@ -1,4 +1,10 @@
 
+-- new blogpost (pointing to old): my grades: ending on a high
+NUS -> UChicago: better  grades at last.
+This result is much better than the alternative scenario: NUS [1st-class honors, Dean's list] -> UChicago [medicore grades]
+
+I would feel that I'm only good in the Singapore competitive landscape, not strong enough on the world stage.
+
 -- update post on "opportunity cost"
 If you quit your job and stay home, the previous salary (eg 7k) is an opportunity cost
 
