@@ -1,3 +1,8 @@
+-- new: volatility in MOETF can add to stressor profile
+Re the stressor profiles
+
+Once a few months I hit an all-at-once situation 
+
 --new or update
 MOETF return is likely lower than Buffett, which is likely no better than sp500
 Do I envy those with higher annual returns? Typically we are seeing BTC or growth stock investors.
@@ -12,9 +17,9 @@ Is Singapore condo a sure-win? I think many investors use maximum leverage  to i
 gold as insurance against inflation (currency depreciation)
 Few people expect to make money when buying insurance. If you by gold, don't keep looking at its market value. Put it aside just as you would do with an insurance policy. 
 
---fuxi or update
+--update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=11836&action=edit
 Now I feel limit order placed outside trading hours is better than night-time active trading. 
-Better tcost and firewall.
+Save time and energy.
 
 Position a few fishing poles and check the status once a while.
 
