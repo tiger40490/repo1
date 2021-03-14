@@ -1,3 +1,14 @@
+-- update...
+buffett: better risk-adjsted return than sp500
+
+-- no blog: pay off all IRAS taxes in advance to reduce monthly burn rate
+when?
+
+-- new: U.S.#3largest eq exchange
+I think very few single-name stocks have a primary listing outside the big4: NYSE, NSDQ, Amex, OTC*
+
+In terms of volume, Bats might be the #3, but the number of names listed there is probably 300 only, and mostly ETFs
+
 -- new: volatility in MOETF can add to stressor profile
 Re the stressor profiles
 
