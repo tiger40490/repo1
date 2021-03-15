@@ -1,32 +1,38 @@
-citi survey
-if nothing to do at home, then go to stadium and run again.. or go to Ikea or office and seek refuge
-
-check the blue multi-purpose charging cable. check price of iphone earphone
-
-try to sleep early for tomorrow morning e-registration
-
--- tomorrow bring a299 to John Tan
 
 --bring to office
-socks
-cable tie
-
 --buy
+-- priorities
+Binance: CV update chip-away
+stock picking: LG2
+Use job-search as motivation for learning java/c++ etc, (esp. c++ critical mass maintenance if possible) but no zsms please
+
+-- open-house   # see also https://1330152open.wordpress.com/wp-admin/post.php?post=11950&action=edit
+starhub bill
+A95 browser out of memory? Increase swap? Google search first.
+bring out Dell and use it for a few days? LGlp
+toilet seat? LGlp
+reorganize storeroom before it gets too messy
+
 --no hurry
 chip-away: clean up contact_large.txt, imp docs
-open-house   # see also https://1330152open.wordpress.com/wp-admin/post.php?post=11950&action=edit
 
---more or less
-more standing
+--more or less #see also blogpost
+more frenDialog as follow-up on meet-up
+less on FSM parking 
+less/more on stock trading
+more workout frequency, but less total tcost
+more localSys
+more blogging on parenting
+
 --tww
+leave Dell in office in case a299 is not there.
+leave more free space in a95 but it will be eaten up by win updates.
+landline phone is hardly usable
+foot massager -> corridor to help wife, or below my table?
+
 jot down random ideas on
 * 0.txt but only in one SD card
-* smemo in pouch
-* paper at desk
 * gmail
-* git-blog but only in one laptop :(
 
-cushion: Long piece is hard to use. Prefer piecewise unless a bumper is clearly ineffective.
-existing bumpers are proven stable.
 --fx: ⇒≠→
 notepad++ zoom: screen pinch or Ctrl and "+" key on far-right
