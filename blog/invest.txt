@@ -1,6 +1,17 @@
 -- update...
 buffett: better risk-adjsted return than sp500
 
+-- new or update
+For decades, I never perceived equity as a suitable investment for me. Too volatile. A long trough could last 10Y+, so I couldn't invest more than $1k.
+
+Even now, when I look at the 100 well-known stocks across my familiar countries, I see the same unstable trend.
+
+My eqMufu journey was long and wide. It confirmed the "theories". Instinctively, I always cash out at some small profit, because I knew that the profit is fleeting. Now I think the expRatio is forever erosive. 2% over 5Y means 10% erosion.
+
+Then in 2013 that I realized US stocks have much better long-term trend than other regional markets. I still don't know why.
+
+Only in 2020 did I find my "system" based on DYOC
+
 -- no blog: pay off all IRAS taxes in advance to reduce monthly burn rate
 when?
 
