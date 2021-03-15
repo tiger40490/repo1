@@ -1,24 +1,16 @@
--- update...
-buffett: better risk-adjsted return than sp500
-
 -- new or update
-For decades, I never perceived equity as a suitable investment for me. Too volatile. A long trough could last 10Y+, so I couldn't invest more than $1k.
+For decades, I never perceived equity as a suitable investment for myself. Too volatile. A long trough could last 10Y+, so I never had the courage and conviction to invest more than $1k.
 
-Even now, when I look at the 100 well-known stocks across my familiar countries, I see the same unstable trend.
+Even now, when I look at the 100 well-known stocks across my familiar countries [US, Japan, EU, China, Korea, SG], I see the same unstable trend.
 
-My eqMufu journey was long and wide. It confirmed the "theories". Instinctively, I always cash out at some small profit, because I knew that the profit is fleeting. Now I think the expRatio is forever erosive. 2% over 5Y means 10% erosion.
+My eqMufu journey since 1997 has been long and wide. It confirmed the "theories" above. Instinctively, I always cash out my mufu at some small leve of profit, because I felt that the profit is impermanent. Now I tend to blame the expRatio -- forever erosive. 2% over 5Y means 10% erosion.
 
-Then in 2013 that I realized US stocks have much better long-term trend than other regional markets. I still don't know why.
+Then in 2013 it occured to me (unknown to the lay public) that US large-caps exhibit much better long-term trend than other regional markets. See my blogpost on [19]y U.S.beats other markets over3Y+
 
-Only in 2020 did I find my "system" based on DYOC
+Only in 2020 did I create my "system" based on DYOC/firewall/buy-n-forget.
 
 -- no blog: pay off all IRAS taxes in advance to reduce monthly burn rate
 when?
-
--- new: U.S.#3largest eq exchange
-I think very few single-name stocks have a primary listing outside the big4: NYSE, NSDQ, Amex, OTC*
-
-In terms of volume, Bats might be the #3, but the number of names listed there is probably 300 only, and mostly ETFs
 
 -- new: volatility in MOETF can add to stressor profile
 Re the stressor profiles
@@ -28,6 +20,8 @@ Once a few months I hit an all-at-once situation
 --new or update
 MOETF return is likely lower than Buffett, which is likely no better than sp500
 Do I envy those with higher annual returns? Typically we are seeing BTC or growth stock investors.
+
+buffett: better risk-adjsted return than sp500
 
 --new: sure-win investment schemes@@
 Is DIVA an arbitrage, sure-win?
