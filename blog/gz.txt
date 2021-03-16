@@ -1,3 +1,17 @@
+-- java is better...
+the core lang is more stable than c#, and also c++ in terms of IV topics
+
+Even though jee job market is volatile, the coreJava job market enjoys robust demand.
+
+My strength in low-level details is far more valuable in java than py, perl, SQL etc.
+
+compared to c++, cdd/job ratio is not very different, but the java cdd pool is low-quality. In coreJava, I can easily stand out.
+
+-- c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js and py.
+
+losing to py in data-centric systems.
+losing to js in web apps. Many features are moving from server side to client side. 
+
 --QQ learning: books beat websites
 books support much easier refresh, annotation.
 Most of my peers don't prefer books, but I find my learning pace significantly better with books, so this is my competitive advantage.
