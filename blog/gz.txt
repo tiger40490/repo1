@@ -1,3 +1,5 @@
+-- top 2 features of blockchain: 1) immutability 2)consensus among descentralized participants
+
 -- java is better...
 the core lang is more stable than c#, and also c++ in terms of IV topics
 
