@@ -7,6 +7,11 @@ eg: more money than I can spend
 eg: 100+ stocks
 eg: 6+ properties
 
+-- new or update:
+Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
+
+Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
+
 -- new: volatility in MOETF can add to stressor profile
 Re the stressor profiles
 
