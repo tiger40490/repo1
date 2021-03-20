@@ -1,3 +1,10 @@
+-- fuxi: precedence: NOT > AND > OR
+Proposition 1: Dinosaur existed
+Proposition 2: speed kills
+
+Not P1 AND Not P2 means (Not P1) and (Not P2), with or without the parentheses.
+
+Same in any language.
 -- new or .. value of real work experience
 This value is lowest in concurrency design (and implementation).
 Probability of observing a bad race is extremely low, so real world experience of "millions of tests" or "decades of successful operation" often gives a false sense of reassurance.
