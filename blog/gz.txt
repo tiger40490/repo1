@@ -1,3 +1,12 @@
+-- With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors (only web2.0 techies are higher)
+Evidence? Not GTD, not even zbs, but mostly the interview-visible expertise. 
+
+This expertise is about the only criteria IMO. Anyone "strong" on this front is considered a veteran, regardless of his GTD, localSys....  Anyone weak on this front .. can still be a veteran, but with limited mobility.
+
+A veteran developer doesn't need to be an above-average developer or expert developer but need to possess some demonstrable experience in the field. Therefore, a long stay in one team (Jack Z?) is less valuable than many one-year projects.
+
+Can you acquire this expertise with only 3Y experience? You would need to attend many interviews.
+
 -- top 2 features of blockchain: 1) immutability 2)consensus among descentralized participants
 
 -- java is better...
