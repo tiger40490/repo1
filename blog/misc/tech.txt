@@ -1,3 +1,7 @@
+--new or update
+PECS
+For a consumer, I thought we should accept (T extends U)
+
 -- fuxi: precedence: NOT > AND > OR
 Proposition 1: Dinosaur existed
 Proposition 2: speed kills
