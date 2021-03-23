@@ -1,3 +1,10 @@
+-- new or fuxi:
+listComp, lambda, interactive shell ... have something in common: the Expression part is the centerpiece. It creates a return value.
+
+-- new: set in python
+set is a builtin data type, but I seldom use it, becasue dictionary is always more useful.
+Similarly, list is always more useful than tuple.
+
 -- java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt to cancel a running thread.
 
 If the boolean arg is false, then the thread is not interrupted and would continue running.
