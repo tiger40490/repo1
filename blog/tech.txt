@@ -7,6 +7,11 @@ set is a builtin data type, but I seldom use it, becasue dictionary is always mo
 
 One advantage of set over dict or list -- set-comprehension to create a hashset
 
+-- update blogpost on java functors
+Only in java is the rule very simple and clean -- FCC functions passed into a HOF must be objects.
+
+c++, c# and py are more flexible and less simple
+
 -- new: java Future::cancel(boolean mayInterruptIfRunning)
 java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt to cancel a running thread.
 
