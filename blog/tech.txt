@@ -3,7 +3,7 @@ How about java6/7/9? They introduce rather few visible changes.
 
 In fact, beside generics, java5's other changes are hardly visible. There are many additions in concurrency library but invisible/irrelevant to most developers.
 
--- new
+-- new: java democrotizing concurrency
 concurrency is tricky. Java advertized itself as democrotizing concurrency. It did simplify many things such as mutex usage, thread creation,,, but I would say it's superficial simplification.
 
 It reduce complexity level from 9 to 8.
