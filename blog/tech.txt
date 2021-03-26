@@ -170,8 +170,6 @@ Aha -- if CC is already an immutable class then things are simpler. We probably 
 
 Warning: CC could be the root of an object graph such as a tree. When we clone CC and CC contains a field of type DD, then a mutable DD would be part of CC's object state, and also ImmComp's object state. Any change to DD would break immutability of ImmComp :(
 
-
-
 --fuxi: python: hasSameContent(dict1, dict2): return dict1 == dict2 
 
 --fuxi
@@ -186,7 +184,9 @@ is malloc a kernel service, syscall or a userland function offered in a regular 
 
 Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
 
-Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack? 
+Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack? Yes the CPU cares about the stack.
+whilst the stack data is managed via the CPU, the heap is not managed automatically. The size of the heap can also be considerably larger than the stack and the allocation of memory must be performed manually within a program. Memory also has to be freed manually, again unlike the stack.
+
 Can check my linux book or google on brk()
 
 --fuxi:Martin's low-latency java talk
