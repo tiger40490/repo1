@@ -1,3 +1,11 @@
+-- new: stop/suspend/resume/destroy in java threading
+Occassional IV question, but relatively low market value. Nevertheless I consider this essential knowledge for an self-respecting ...
+
+These four methods are still part of the API, and stop/suspend/resume are implemented and available, whereas destroy() is never implemented. They are all unsafe mostly for two reasons
+
+1) suspend() forces the thread to suspend without releasing locks if any. Susceptible to deadlock. The resume() method is used with suspend().
+2) stop() forces the thread to die and release all locks. No deadlock risk AFAIK. If the thread is forced to release a lock, then there is a proboem. The lock was likely needed to protect some state (consider fund transfer). Force-Release of the lock would expose some invalidate state.
+
 -- update: 
 both these words are 20-char longer
 

@@ -170,13 +170,7 @@ Aha -- if CC is already an immutable class then things are simpler. We probably 
 
 Warning: CC could be the root of an object graph such as a tree. When we clone CC and CC contains a field of type DD, then a mutable DD would be part of CC's object state, and also ImmComp's object state. Any change to DD would break immutability of ImmComp :(
 
--- new: stop/suspend/resume/destroy in java
-Occassional IV question, but relatively low market value
 
-These four methods are still part of the API, and stop/suspend/resume are implemented and available. (destroy() is never implemented.) They are all unsafe mostly for two reasons
-
-1) suspend() forces the thread to suspend without releasing locks if any. Susceptible to deadlock. The resume() method is used with suspend().
-2) stop() forces the thread to die and release all locks. No deadlock risk AFAIK, but if the thread was forced to release a lock, then the lock is likely needed to protect some object state (such as fund transfer). Force-Release of the lock would expose those object's invalidate state.
 
 --fuxi: python: hasSameContent(dict1, dict2): return dict1 == dict2 
 
