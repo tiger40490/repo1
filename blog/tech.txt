@@ -1,3 +1,15 @@
+-- java 5 and java 8 are the two release most quizzed in interviews.
+How about java6/7/9? They introduce rather few visible changes. 
+
+In fact, beside generics, java5's other changes are hardly visible. There are many additions in concurrency library but invisible/irrelevant to most developers.
+
+-- new
+concurrency is tricky. Java advertized itself as democrotizing concurrency. It did simplify many things such as mutex usage, thread creation,,, but I would say it's superficial simplification.
+
+It reduce complexity level from 9 to 8.
+
+Note java concurrency is OO-concurrency. Across all languages, OO-concurrency is usually a wrapper. Core concurrency libraries, concurrency constructs.. are always written in C , at a lower level, not OO at all.
+
 -- new or fuxi:
 listComp, lambda, interactive shell ... have something in common: the Expression part is the centerpiece. It creates a return value.
 
