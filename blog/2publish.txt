@@ -13,6 +13,21 @@ Aha -- if CC is already an immutable class then things are simpler. We probably 
 
 Warning: CC could be the root of an object graph. When we clone CC and CC contains a field of type DD, then a mutable DD would be part of CC's object state, and also ImmComp's object state. Any change to DD would break immutability of ImmComp :(
 
+--new: mirrored delegate method
+In the json loader project, when I refactored an overgrown method, I often extracted part of it into a helper method a.k.a. delete-method.
+
+This delegate method is invoked from nowhere but the original method. It can have the same method name (possibly belonging to different classes), same signatures, sometimes in the same or another file. 
+
+The identical name between both methods is a tell-tale sign of their symbiotic relationship.
+
+If the original method thus becomes very simple, then we refer to it as a wrapper. 
+
+If the original method is non-static, then the delegate method could be static and stateless... best practice.
+
+It is possible to have original methA calling delegate methB which calls another delegate methoC, if methodC is reusable
+
+A more common extraction procedure creates a reusable routine that’s invoked from multiple places -- DRY
+
 -- new: stop/suspend/resume/destroy in java threading
 Occassional IV question, but relatively low market value. Nevertheless I consider this essential knowledge for an self-respecting ...
 

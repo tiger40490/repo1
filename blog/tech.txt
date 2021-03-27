@@ -117,20 +117,6 @@ Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
 
 Also there was one daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
 
---new: mirrored delegate method
-In the json loader project, when I refactored an overgrown method, I often extracted part of it into a “delegate” method or a helper method.
-
-This delegate method is invoked from nowhere but the original method. It can have the same method name (but belonging to different classes), same signatures, sometimes in the same or another file. 
-
-The identical name between both methods is a tell-tale sign of their relationship.
-
-If the original method thus becomes very simple, then we refer to it as a wrapper. 
-
-If the original method is non-static, then the delegate method could be static and stateless... best practice.
-
-It is possible to have original methA calling delegate methB which calls another delegate methoC, if methodC is reusable
-
-A more common extraction procedure creates a reusable routine that’s invoked from multiple places -- DRY
 --fuxi:
 Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropping very low.
 
