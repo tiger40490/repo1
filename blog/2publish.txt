@@ -1,3 +1,14 @@
+--new: java clone() usage
+java clone() is needed mostly in one context -- immutable composite class
+This topic is relevant in IV.
+
+If you design a composite class (ImmComp) to be immutable, where some field is of type CC, then you need to clone each CC object received or returned from ImmComp. Remember the 2010 Citi muni interview.
+
+Aha -- if ImmComp can be refactored to hold primitve/string contents of CC rather than a CC field, then things are simpler. CC needs no clone() method.
+Aha -- if CC is already an immutable class then things are simpler. We probably don't need clone a CC object.
+
+Warning: CC could be the root of an object graph. When we clone CC and CC contains a field of type DD, then a mutable DD would be part of CC's object state, and also ImmComp's object state. Any change to DD would break immutability of ImmComp :(
+
 -- new: stop/suspend/resume/destroy in java threading
 Occassional IV question, but relatively low market value. Nevertheless I consider this essential knowledge for an self-respecting ...
 
