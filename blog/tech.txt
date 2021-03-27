@@ -115,7 +115,7 @@ Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
 95G offer service used tibrv to send updates to GUI. Robust and fast. 
 (MLP also uses messages to update GUI)
 
-Also there was one daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
+Also there was one dedicated daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
 
 --fuxi:
 Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropping very low.
