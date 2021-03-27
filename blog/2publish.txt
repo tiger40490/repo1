@@ -29,6 +29,20 @@ Becasue of the in-out usage, optLen is a pointer. If only as ouput, it can be a 
 
 Note the buffer can be on stack.
 
+
+--new: web2.0 for sure if I had!!entered finDev@@
+Some (casual) observers may say that without the 2007 WalSt journey I would have gone to web2.0 shops. 
+Well, majority of non-finDev guys in my age group have not gone there. 
+Look at XA.Shen, wq.luo, Tanko
+Look at all of my ex-colleagues. 
+Those who go into some web2.0 shops in SG are not earning 200k. Also, they must manage teams, in which I'm uninterested/unsuitable.
+
+Q: What's the likelihood that I get into SG finDev without the U.S. detour? 
+A: Questionable, because of entry barrier not only in IV. I would need to try 10-30 interviews but SG market doesn't let me keep trying
+
+Q: Perhaps my disposition translates to strength in the web2.0 space? 
+A: Well, financial dnlg(math++), multi-threading, language-details, latency knowledge are my strong games that are low-impact on web2.0 interviews.
+
 --new: mirrored delegate method
 In the json loader project, when I refactored an overgrown method, I often extracted part of it into a helper method a.k.a. delete-method.
 
@@ -63,19 +77,6 @@ internationalization
 Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare up.
 
 For a base salary 5-10k then this is more commonplace, but still good.
-
---new: web2.0 for sure if I had!!entered finDev@@
-Some (casual) observers may say that without the 2007 WalSt journey I would have gone to web2.0 shops. 
-Well, majority of non-finDev guys in my age group have not gone there. 
-Look at XA.Shen, wq.luo, Tanko
-Look at all of my ex-colleagues. 
-Those who go into some web2.0 shops in SG are not earning 200k. Also, they must manage teams, in which I'm uninterested/unsuitable.
-
-Q: What's the likelihood that I get into SG finDev without the U.S. detour? 
-A: Questionable, because of entry barrier not only in IV. I would need to try 10-30 interviews but SG market doesn't let me keep trying
-
-Q: Perhaps my disposition translates to strength in the web2.0 space? 
-A: Well, financial dnlg(math++), multi-threading, language-details, latency knowledge are my strong games that are low-impact on web2.0 interviews.
 
 -- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
 CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
