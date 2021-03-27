@@ -31,7 +31,7 @@ If the boolean arg is false, then the thread is not interrupted and would contin
 
 I think pthreads define cancellation points, similar to java's interrupt points.
 
--- new: precedence: NOT > AND > OR
+-- fuxi: precedence: NOT > AND > OR
 Proposition 1: Dinosaur existed
 Proposition 2: speed kills
 
@@ -60,20 +60,12 @@ eg: windows update kick-in at the wrong time
 eg: Citrix issues
 eg: M1 and starhub blackout
 
--- update blogpost:
-factorial is usually the worst time complexity in any problems.
-2^(N!) is worse but don't show up in any problem I know.
-
 --fuxi
 signals in windows?
 
 real time signals are a new Posix concept... not really low-latency.
 
 Most signals are self-sent from the same process. I think timer alarm is one. Sockets is another example. However, keyboard signals like Ctrl-C are not self-sent.
-
--- update blogpost on wpch
-installation fear of risks is much lower when installing wordpress upon a working XAMPP.
-The more low-level, the more uncertainties.
 
 --update on placement new
 I think placement new has two distinct usages
@@ -82,19 +74,6 @@ I think placement new has two distinct usages
 2) for primitive types like int, it informs the compiler to treat the raw memory as "int", without malloc.
 
 2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
-
-
---new: getsockopt() optLen: api design technique
-Based on P44 [[tcp/ip sockets in C]]
-getsockopt() last parameter is optlen. This is an in-out pointer parameter.
-
-* As input, it indicates the size of a buffer that would receive the output. "Hey Holywood, here my optLen is a size describing how many bytes you can write into my buffer."
-
-* As output, it indicates the size of a buffer containing the output. "Hey caller, here optLen is a size describing how many bytes I have written into your buffer."
-
-Becasue of the in-out usage, optLen is a pointer. If only as ouput, it can be a return value. If only an input it should be a nonref, or in some cases a ptr-to-const.
-
-Note the buffer can be on stack.
 
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
 --fuxi but no point publishing:

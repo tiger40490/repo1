@@ -1,3 +1,7 @@
+-- update blogpost:
+factorial is usually the worst time complexity in any problems.
+2^(N!) is worse but don't show up in any problem I know.
+
 --new: java clone() usage
 clone() is needed for immutable composite class design, a hot topic for core java IV. 
 However, clone() is not well known or well quizzed. 
@@ -12,6 +16,18 @@ Aha -- if ImmComp can be refactored to hold primitve/string contents of CC rathe
 Aha -- if CC is already an immutable class then things are simpler. We probably never need to clone a CC object.
 
 Warning: CC could be the root of an object graph. When we clone CC and CC contains a field of type DD, then a mutable DD would be part of CC's object state, and also ImmComp's object state. Any change to DD would break immutability of ImmComp :(
+
+--new: getsockopt() optLen: api design technique
+Based on P44 [[tcp/ip sockets in C]]
+getsockopt() last parameter is optlen. This is an in-out pointer parameter.
+
+* As input, it indicates the size of a buffer that would receive the output. "Hey Holywood, here my optLen is a size describing how many bytes you can write into my buffer."
+
+* As output, it indicates the size of a buffer containing the output. "Hey caller, here optLen is a size describing how many bytes I have written into your buffer."
+
+Becasue of the in-out usage, optLen is a pointer. If only as ouput, it can be a return value. If only an input it should be a nonref, or in some cases a ptr-to-const.
+
+Note the buffer can be on stack.
 
 --new: mirrored delegate method
 In the json loader project, when I refactored an overgrown method, I often extracted part of it into a helper method a.k.a. delete-method.
