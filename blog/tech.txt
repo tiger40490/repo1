@@ -1,3 +1,6 @@
+-- update
+source .bashrc # executes each command in the rc, all within the current shell.
+exec bash # starts a new shell, with an empty command history 
 -- AI predicting security price
 Decades ago, XML was touted as a miracle technology that can treat cancer.
 
