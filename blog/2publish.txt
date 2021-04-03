@@ -1,6 +1,9 @@
 -- update :
 github is more stable than google drive for spreadsheet 
 
+--update 
+betterSearchReplace requires the HideNotices plugin disabled.
+
 -- update: 
 both these words are 20-char longer
 
