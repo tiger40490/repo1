@@ -1,21 +1,4 @@
---update blogpost on wechat vs mail
 
-.. Wechat voice mail
-email is Much better than wechat voice mail for me... can archive, search, can respond a few days later at my own pace. 
-
-I'm not sure but I guess some people might be using wechat voice mail too much for their own good. Voice mail can add stress to one's life because it is harder to manage compared to paper mail, email, online chats, mobile text message or in-person chat. (Note I do use voice mail myself, and I think they are valuable in some contexts.)
-
-With a voice mail, if you don't respond, it just piles up in a tiny screen with 20 other voice mails (among 100 text messages), without any textual clue about their contents. It's unmanageable IMO. Therefore, the recipient is forced to respond right away. Unnecessary urgency, unnecessary stress. 
-
-Maybe young people use wechat voice mail in a different way. (I won't speculate how or why.) I always prefer to receive messages with subjects and have the option to warehouse it until free to deal with it. Voice mail is unmanageable in my system.
-
--- new: w1r0 reality in my blogs
-accept that many non-tech blogpost would be essentially w1r0
-The writing process is beneficial, even without a revisit.
-
-I usually try to revisit each blog at least once but it's a huge tcost!
-
-For a tech blogpost, i don't feel bad about zero revisits.
 
 -- take more half-day leaves. aim at 80 times this year. More than once a week.
 -- fuxi: accept these imperfections in self-mgmt
