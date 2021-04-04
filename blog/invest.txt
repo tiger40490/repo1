@@ -9,6 +9,8 @@ if a bond is safe with, eg 4% coupon rate, then I would say a 3% DYOC stock woul
 
 In all cases, the stock has chance of appreciation/depreciation.
 
+A 4% CDY aristocrat beats most of the bonds out there.
+
 --update blogpost on growth prt + prognosis
 aggregate dyoc doesn't make sense.
 
