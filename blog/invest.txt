@@ -36,10 +36,6 @@ buffett: better risk-adjusted return than sp500
 Is SP500 ETF a sure-win?
 Is DIVA an arbitrage, sure-win?
 Is Singapore condo a sure-win? I think many investors use maximum leverage  to invest in Singapore condos. Sure-win due to Ponzi nature. 
-    
--- new or fuxi: Now is the 2nd or 3rd period of "active research"
-t_xxAsRecreation
-Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
 
 -- update: I guess ETFs mostly invest in popular stocks. 
 The steady increase in ETF participation probably leads to more concentration more gravitation to the big index-component stocks. 
@@ -50,6 +46,10 @@ These hot stocks probably become more volatile due to retail hot money.
 Re the stressor profiles
 
 Once a few months I hit an all-at-once situation 
+    
+-- fuxi: Now is the 2nd or 3rd period of "active research"
+t_xxAsRecreation
+Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
 
 -- fuxi:
 Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
