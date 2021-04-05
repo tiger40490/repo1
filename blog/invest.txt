@@ -26,25 +26,6 @@ A 4% CDY aristocrat beats most of the bonds out there.
 -- update blogpost on stock investing with loan (sp500?)
 The most experienced stock investor I know, Kun.H, actually paid off his mortgage early !
 
--- new: downplay personal high-ground
-Honglin said USD 1M he surely has, after saving for years. His habit is downplay.
-
-My habit is similar to YW.Chen -- exaggerate.
-eg: ffree. No need to work anymore
-eg: more money than I can spend
-eg: 100+ stocks
-eg: 6+ properties
-
--- new or update:
-Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
-
-Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
-
--- new: volatility in MOETF can add to stressor profile
-Re the stressor profiles
-
-Once a few months I hit an all-at-once situation 
-
 --update https://tanbinvest.dreamhosters.com/2021/02/08/ez-to-hit-quick-profit-ez-to-lose/
 MOETF return is likely lower than Buffett, which is likely no better than sp500
 Do I envy those with higher annual returns? Typically we are seeing BTC or growth stock investors.
@@ -52,28 +33,10 @@ Do I envy those with higher annual returns? Typically we are seeing BTC or growt
 buffett: better risk-adjusted return than sp500
 
 --new: sure-win investment schemes@@
+Is SP500 ETF a sure-win?
 Is DIVA an arbitrage, sure-win?
 Is Singapore condo a sure-win? I think many investors use maximum leverage  to invest in Singapore condos. Sure-win due to Ponzi nature. 
-
--- the base of my portfolio is HDB + rental properties. Insurance can't be the base because it is nonproductive. I liken insurance premium to option premium
-
--- new or update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=15591&action=edit
-gold as insurance against inflation (currency depreciation)
-Few people expect to make money when buying insurance. If you by gold, don't keep looking at its market value. Put it aside just as you would do with an insurance policy. 
-
---update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=11836&action=edit
-Now I feel limit order placed outside trading hours is better than night-time active trading. 
-Save time and energy.
-
-Position a few fishing poles and check the status once a while.
-
--- update blog post on splurge tendency:
- hearing the taobao discussion in the C-epa team.. I feel spare-cash-rich people have a tendency to splurge on small fancy goods of acceptable quality.
-
-Imagine you bring home 10k/M and saves 90%. Would you feel an urge to spend a bit more on those small "fancy" items like accessories?
-
-An honest review may show that those small spends add up to, say $2k - $8k a month. Over 250M (20Y), it adds up to $500k to $2000k
-
+    
 -- new or fuxi: Now is the 2nd or 3rd period of "active research"
 t_xxAsRecreation
 Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
@@ -82,6 +45,16 @@ Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not a
 The steady increase in ETF participation probably leads to more concentration more gravitation to the big index-component stocks. 
 As ETFs become increasingly popular vis-a-vis stock-picking, the popular stocks probably receive even more mindshare and volume than before. 
 These hot stocks probably become more volatile due to retail hot money.
+
+-- fuxi: volatility in MOETF can add to stressor profile
+Re the stressor profiles
+
+Once a few months I hit an all-at-once situation 
+
+-- fuxi:
+Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
+
+Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
 
 -- fuxi or new: %% favorate assets=seldom very-mainstream
 I shun SG condos. I favor SEA emerging market rEstate.
