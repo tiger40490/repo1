@@ -1,3 +1,5 @@
+--new: raii for array-new
+std::vector ! see [[safeC++]] chapter on safer array
 -- update
 source .bashrc # executes each command in the rc, all within the current shell.
 exec bash # starts a new shell, with an empty command history 
