@@ -1,3 +1,14 @@
+-- new data^information in bigData
+Data needs processing before it becomes information.
+
+I feel for high volume, high reliability, integrated, low-level "data" handling, java (and C++) are more suitable. See also https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
+
+For high-level "information" analysis, python and R are more suitable. 
+
+However, in reality my /feel/ might be wrong. Python might have big frameworks comparable to java’s.
+
+ML Models and techniques are applied on information not raw data.
+
 --new: accept risks, not wholesale shutdown
 eg: bedbugs. spraying and washing everything fabric, replacing all furniture.. doesn't buy you waterproof protection.
 eg: covid19 lockdown. Even with full lock down, there's no such thing as riskfree.

@@ -24,16 +24,6 @@ std::vector ! see [[safeC++]] chapter on safer array
 source .bashrc # executes each command from the rc, all within the current shell.
 exec bash # starts a new shell, with an empty command history 
 
--- new data^information in bigData
-Data needs processing before it becomes information.
-
-I feel for high volume, high reliability, integrated, low-level "data" handling, java (and C++) are more suitable. See also https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
-
-For high-level "information" analysis, python and R are more suitable. 
-
-However, in reality my /feel/ might be wrong. Python might have big frameworks comparable to java’s.
-
-ML Models and techniques are applied on information not raw data.
 
 -- java 5 and java 8 are the two releases most quizzed in interviews.
 How about java6/7/9? They introduce rather few visible changes. 
