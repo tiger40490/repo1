@@ -11,6 +11,11 @@ disaster recovery process in RTS and in EPA
 
 retransmission, gap management
 
+..c++ questions
+nm .. what if complains about a missing shared lib, but the file is in your local file system?
+What are the underlying differences between static and shared lib?
+What TMP techniques did you use? I mentioned CRTP
+What's enable_if
 -- top 2 features of blockchain: 1) immutability 2)consensus among descentralized participants
 
 -- new: uniqPtr MktVal imt sharedPtr
