@@ -13,12 +13,12 @@ retransmission, gap management
 
 -- top 2 features of blockchain: 1) immutability 2)consensus among descentralized participants
 
--- new: uniqPtr MV imt sharedPtr
+-- new: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 --new: raii for array-new
 std::vector ! see [[safeC++]] chapter on safer array
 -- update
-source .bashrc # executes each command in the rc, all within the current shell.
+source .bashrc # executes each command from the rc, all within the current shell.
 exec bash # starts a new shell, with an empty command history 
 -- AI predicting security price
 Decades ago, XML was touted as a miracle technology that can treat cancer.
