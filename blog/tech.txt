@@ -24,12 +24,6 @@ std::vector ! see [[safeC++]] chapter on safer array
 source .bashrc # executes each command from the rc, all within the current shell.
 exec bash # starts a new shell, with an empty command history 
 
-
--- java 5 and java 8 are the two releases most quizzed in interviews.
-How about java6/7/9? They introduce rather few visible changes. 
-
-In fact, beside generics, java5's other changes are hardly visible. There are many additions in concurrency library but invisible/irrelevant to most developers.
-
 -- new: java simplifying concurrency
 concurrency is tricky. Java tries to simplify concurrency. It did simplify many things such as mutex usage, thread creation,,, but I would say it's superficial simplification.
 
@@ -105,6 +99,11 @@ eg: windows license expiry
 eg: windows update kick-in at the wrong time
 eg: Citrix issues
 eg: M1 and starhub blackout
+
+-- fuxi: java 5 and java 8 are the two releases most quizzed in interviews.
+How about java6/7/9? They introduce rather few visible changes. 
+
+In fact, beside generics, java5's other changes are hardly visible. There are many additions in concurrency library but invisible/irrelevant to most developers.
 
 --fuxi
 signals in windows?
