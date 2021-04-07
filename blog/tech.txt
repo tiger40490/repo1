@@ -11,11 +11,15 @@ disaster recovery process in RTS and in EPA
 
 retransmission, gap management
 
+How do you benchmark your app? I gave a fairly detailed real answer :)
+
+Why such small memory footprint?
+
 ..c++ questions
-nm .. what if complains about a missing shared lib, but the file is in your local file system?
+nm .. what if nm complains about a missing shared lib, but the file is in your local file system?
 What are the underlying differences between static and shared lib?
-What TMP techniques did you use? I mentioned CRTP
-What's enable_if
+What TMP techniques did you use? I mentioned CRTP. I was frank. I believe if you aren't writing library, then no need to incur the complexity cost of TMP. If I do write a library with complex usage requirements, then I will google to find out when to use which TMP technique.
+What's enable_if. I correctly associated it with sfinae
 -- top 2 features of blockchain: 1) immutability 2)consensus among descentralized participants
 
 --new: raii for array-new
