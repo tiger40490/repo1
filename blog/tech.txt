@@ -1,3 +1,15 @@
+-- GST IV: some topics 
+byte-level parsing. WebAssembly encoding scheme supporting variable length strings... I mentioned protobuf
+
+IPC.. I mentioned file; DB; distributedCache; sharedMem. He mentioned local sockets
+
+What' the matching engine throughput you achieved? I said 10 TPS with database .. Without database perhaps 1000.
+
+persistence of order state on the critical path? If async write-behind, then what if you lose power after sending the order, but before persistence? I said there's always tradeoff. Even with RDBMS level of ACID support, you may still need redundant writes which adds even more latency.
+
+disaster recovery process in RTS and in EPA
+
+retransmission, gap management
 
 -- top 2 features of blockchain: 1) immutability 2)consensus among descentralized participants
 
