@@ -1,3 +1,11 @@
+-- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
+NoSql is bigData, not DS/ML. 
+
+BigDataAnalytics includes BigData stack. 
+
+Data Science probably favors python or R. ML is even less suitable for java.
+ML includes classification, recommendation, ,, NeuralNetwork is part of ML
+
 -- IT consulting service offered by mgmt consulting firms ... is facing competition from the original vendors providing similar consulting services.
 
 -- With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors (only web2.0 techies are higher)
