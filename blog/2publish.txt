@@ -9,6 +9,15 @@ However, in reality my /feel/ might be wrong. Python might have big frameworks c
 
 ML Models and techniques are applied on information not raw data.
 
+--new q[==]/is/equals()
+python: hasSameContent(dict1, dict2): return dict1 == dict2. Java would use equals()
+object identity equality : python uses "is". Java uses ==
+
+--new: lowLatency@multicore: mostly STM
+Low latency on a multi-core machine would probably use a lot of threads in STM
+
+Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
+
 --new: accept risks, not wholesale shutdown
 eg: bedbugs. spraying and washing everything fabric, replacing all furniture.. doesn't buy you waterproof protection.
 eg: covid19 lockdown. Even with full lock down, there's no such thing as riskfree.

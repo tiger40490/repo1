@@ -158,16 +158,7 @@ bandwidth favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. Microwave did hit me.
 
---fuxi: python: hasSameContent(dict1, dict2): return dict1 == dict2 
-
---fuxi
-Low latency on a multi-core machine would probably use a lot of threads in STM
-
-Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
-
-See Doug Lea for a broader perspective
-
---new: untitled
+--new: malloc != syscall
 is malloc a kernel service, syscall or a userland function offered in a regular library?
 
 Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
