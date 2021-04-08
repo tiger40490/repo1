@@ -1,4 +1,4 @@
--- new data^information in bigData
+-- new: data^information in bigData
 Data needs processing before it becomes information.
 
 I feel for high volume, high reliability, integrated, low-level "data" handling, java (and C++) are more suitable. See also https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
@@ -12,11 +12,12 @@ ML Models and techniques are applied on information not raw data.
 --new q[==]/is/equals()
 python: hasSameContent(dict1, dict2): return dict1 == dict2. Java would use equals()
 object identity equality : python uses "is". Java uses ==
+c# is more complex
 
 --new: lowLatency@multicore: mostly STM
 Low latency on a multi-core machine would probably use a lot of threads in STM
 
-Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency avoids shared mutables.
+Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency frowns upon shared mutables.
 
 --new: accept risks, not wholesale shutdown
 eg: bedbugs. spraying and washing everything fabric, replacing all furniture.. doesn't buy you waterproof protection.
@@ -69,7 +70,7 @@ Vishal said that even though he became better at handling the work, it was still
 
 As to urgency, I now feel Josh is confident to cope with virtually all the incoming issues. Unconsciously he assigns a urgency level to each so he is never overwhelmed 
 
--- new: enjoy my nice food without the BMI impact as in NY
+-- new: enjoy tasty food without BMI impact as in NY
 I wish I could enjoy my nice food without the BMI impact.
 
 In 750/7 MS office I achieved it. So now I’m following the same techniques
@@ -81,9 +82,10 @@ I guess what’s missing is the home meal control. My grip is loose. The wrong-t
 When I see the nice food at home, it’s a struggle to resist. No such temptation or struggle in Bayonne home.
 
 -- update or new: tempting foods
-Stash-away creates a temptation at home, but it is effectively a delay tactic. buy-n-store is still better than eating rightaway
+Stash-away creates an unwanted, almost hazardous temptation at home, but it is effectively a delay tactic. buy-n-store is still better than eating rightaway
 
 --new good appetite could be a bad thing
+t_jolt
 In my twilight years (80+?), I wish to have a good appetite to enjoy healthy food. At my current age, a lower appetite is life-enhancing.
 At any age, appetite for unhealthy food is a sign of bad genes. 
 In reality, most foods fall into the grey area between healthy and unhealthy.
@@ -104,8 +106,6 @@ My decade-long inferiority is now put into question.
 In terms of brbr, I have reason to believe I'm in much better "shape". The same evening, I discussed the same topic with the LZ.Yu family. For some individuals, excess cash balance is like desserts left in a fridge... will disappear sooner or later.
 
 --update blogpost on wechat vs mail
-
-.. Wechat voice mail
 email is Much better than wechat voice mail for me... can archive, search, can respond a few days later at my own pace. 
 
 I'm not sure but I guess some people might be using wechat voice mail too much for their own good. Voice mail can add stress to one's life because it is harder to manage compared to paper mail, email, online chats, mobile text message or in-person chat. (Note I do use voice mail myself, and I think they are valuable in some contexts.)
