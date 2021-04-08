@@ -55,22 +55,6 @@ java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt 
 If the boolean arg is false, then the thread is not interrupted and would continue running.
 
 I think pthreads define cancellation points, similar to java's interrupt points.
---new: AI predicting security price
-Decades ago, XML was touted as a miracle technology that can treat cancer.
-
-Decades ago, options, swaps and other derivatives were touted as risk control products. 
-
-How can AI predict stock price when the price depends on a few traders' decisions?
-
-It's safe to define "price" as the LastTradePrice reported by recognized exchanges (excluding private, unregulated venues). we can pick any major stock symbol (or ETF , or a major FX pair)
-
-In a simplest yet realistic scenario, there's a single $50M block trade executing on a $2B mid-cap stock, over a period of time. This buy order would drive up the price, but Cody the trader is careful to reduce market impact, by suspending execution once a while. Meanwhile there are other events such as market index movements, company news, sector news, economic events,,, to muddy the water and conceal the effect of the main driver.
-
-An observing AI robot is unaware of Cody, but Cody knows there are AI robots and sharks out there. So Cody would try to confuse them. Cody also sends visible sell orders (executed or cancelled).
-
-In a more realistic scenario, a stock is removed from Russell 2000. Many index-tracking ETFs would sell the stock. Let's assume our AI robot is unaware of this minor news item, which is likely the #1 driver for this stock price.
-
-How meaningful, how scentific, how smart/stupid would be the prediction by our AI ? The mathematics have almost nothing to do with the reality. If you throw in 22 factors such as weather, GDP, unemployment, birth rate, Wechat usage stats, earthquake likelihood, twitter sentiment... a deep-learning robot may pick up some random factor as a driver, when the real driver is absent in the dataset.
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
