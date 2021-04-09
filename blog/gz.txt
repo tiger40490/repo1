@@ -1,3 +1,21 @@
+-- update the blogpost on 5 tsn domains
+Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
+
+Now I think this domain is still relatively well-paid, but doesn't generate high profit as before.
+
+The complexity has not reduced. The field still needs people, but I feel it is losing the talent game against the newer domains like web2.0, DS/ML, crypto
+
+-- new or update: my algo trading experiences
+Citi Muni Auto-reoffer, inventory update.
+Baml muti matching engine, offer adjustment/resend, position update (against venues) and inventory update (for reoffers)..
+OC Quest robot responding to client RFQ
+Quest also has a FXO quote update feature, sending to multiple conduits
+Mvea sending exchange orders based on client orders. Order state management
+
+Closely related to algo trading is the risk engines in my experience
+* Stirt risk engine responding to new trades, position changes, and mkt data 
+* Barcap real time risk engine
+
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
 NoSql is bigData, not DS/ML. 
 
