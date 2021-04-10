@@ -1,3 +1,7 @@
+-- new:
+t_jolt
+if an employer permits some reasonable amount of blogging in office, then I'm willing to accept $10k less salary.
+
 -- update the blogpost on 5 tsn domains
 Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
 
