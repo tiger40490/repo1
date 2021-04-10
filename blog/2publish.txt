@@ -1,3 +1,30 @@
+
+====new: stress@adjustment
+t_stress
+I have always said adjustment is stressful.
+
+adj can be long drawn-out
+
+All-at-once can make us feel overwhelmed. I tend to relax or suspend some of my adjustments such as diet.
+
+-- adj: diet restrictions like starch, sugar.. Even salt reduction can add to stress
+-- adj: burn rate reduction for big spenders. My key advantage over the average Americans.
+-- adj: reduce A/C reliance. Rely on more natural solutions
+-- adj: small screen, single monitor
+-- adj: restriction on blogging in GS office
+-- adj: babysit lots of investments, esp. active management of properties
+-- adj: U.S. style DIY home repair
+-- adj: wfh during covid19 localSys
+-- adj: long commute
+-- adj: early sleep .. mild stress, but hard to achieve.
+
+-- some common /lubricants/ and assistance during adjustment:
+cash reserve .. $50k adjustment fund after family migrating to U.S.
+plenty of paid leaves .. see my le2Gerald
+med bx
+counselling support .. eg: covid19 lockdown. Local Chinese support group in the U.S.
+
+====
 -- new: battle-tested concurrency design
 This value is lowest in concurrency design (and implementation).
 Probability of observing a bad race is extremely low, so real world experience of "millions of tests" or "decades of successful operation in production" often gives a false sense of reassurance.
