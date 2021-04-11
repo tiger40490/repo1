@@ -1,45 +1,13 @@
 --update: gains of UChicago
 I told Sophia that one tangible gain from UChicago is the insider insight, that would help me save a huge amount on college fees
 
--- new: q[source]
-source .bashrc # executes each command from the rc, all within the current shell.
-exec bash # starts a new shell, with an empty command history 
+end on a high note
 
 -- new: set in python
 set is the least used builtin container. I seldom use it, becasue dictionary is more useful.
 ( Similarly, list is always more useful than tuple, except when used as dict keys. )
 
 One advantage of set over dict or list -- set-comprehension to create a hashset
-
--- new: q[return] omitted: common pattern]py
-listComp, lambda, interactive shell ... have something in common: the Expression part is the centerpiece. It creates a return value.
-
---update blogpost on placement new + reCast
-I think placement new has two distinct usages
-1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
-
-2) for primitive types like int, it informs the compiler to treat the raw memory as "int", without malloc.
-
-2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
---update: top 2 features of any blockchain: 1) immutability 2)consensus among descentralized participants
-
---new: raii for array-new
-std::vector ! see [[safeC++]] chapter on safer array
-For op-new use a smart ptr
-
--- new: java simplifying concurrency
-concurrency is tricky. Java tries to simplify concurrency. It did simplify many things such as mutex usage, thread creation,,, but I would say it's superficial simplification.
-
-It reduce complexity level from 9 to 8.5.
-
-Note java concurrency is OO-concurrency. Across all languages, OO-concurrency is usually a wrapper, because core concurrency libraries, concurrency constructs.. are invariably written in C , at a lower level, not OO at all.
-
--- new: java Future::cancel(boolean mayInterruptIfRunning)
-java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt to cancel a running thread.
-
-If the boolean arg is false, then the thread is not interrupted and would continue running.
-
-I think pthreads define cancellation points, similar to java's interrupt points.
 
 ====new: stress@adjustment
 t_stress
@@ -69,51 +37,6 @@ med bx
 counselling support .. eg: covid19 lockdown. Local Chinese support group in the U.S.
 
 ====
--- new: battle-tested concurrency design
-This value is lowest in concurrency design (and implementation).
-Probability of observing a bad race is extremely low, so real world experience of "millions of tests" or "decades of successful operation in production" often gives a false sense of reassurance.
-
-Correct design depends on peer review, which is based on the guarantee provided by the underlying infrastructure. When one of the underlying specifications changes, the correctness may be compromised without us knowing. 
-
--- new: data^information in bigData
-Data needs processing before it becomes information.
-
-I feel for high volume, high reliability, integrated, low-level "data" handling, java (and C++) are more suitable. See also https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
-
-For high-level "information" analysis, python and R are more suitable. 
-
-However, in reality my /feel/ might be wrong. Python might have big frameworks comparable to java’s.
-
-ML Models and techniques are applied on information not raw data.
-
---new: AI predicting security price
-Decades ago, XML was touted as a miracle technology that can treat cancer.
-
-Decades ago, options, swaps and other derivatives were touted as risk-control, risk-reduction, risk-protection products. 
-
-.. Now we knwo better. 
-
-How can AI predict stock price if the price depends on a few traders' decisions?
-
-It's safe to define "price" as the LastTradePrice reported by recognized exchanges. we can pick any major stock symbol (or ETF , or a major FX pair)
-
-In a simplest yet realistic scenario, there's a single $50M block trade executing on a $2B mid-cap stock, over a period of time. This buy order would drive up the price, but Cody the original trader is careful to reduce market impact, by suspending execution once a while. Meanwhile there are intervening events such as index movements, company news, sector news, economic events,,, to muddy the water and conceal the effect of the main driver.
-
-An observing AI robot is unaware of Cody, but Cody knows there are AI robots and sharks out there. So Cody would try to confuse them. Cody also sends visible sell orders (executed or cancelled).
-
-In a more realistic scenario, a stock is removed from Russell 2000. Many index-tracking ETFs would sell the stock. Let's assume our AI robot is unaware of this minor news item, which is likely the #1 driver for this stock price.
-
-In these contexts, how meaningful, how scientific, how smart would be the prediction by our AI ? The mathematics have almost nothing to do with the reality. If you throw in 22 factors such as weather, GDP, unemployment, birth rate, Wechat usage stats, earthquake likelihood, twitter sentiment... a deep-learning robot may pick up some random factor as a driver, when the real driver is absent in the dataset.
-
---new q[==]/is/equals()
-python: hasSameContent(dict1, dict2): return dict1 == dict2. Java would use equals()
-object identity equality : python uses "is". Java uses ==
-c# is more complex
-
---new: lowLatency@multicore: mostly STM
-Low latency on a multi-core machine would probably use a lot of threads in STM
-
-Synchronization is the bread-n-butter of multi-threading. as a skill it is all about shared mutable -- improving performance in the presence of shared mutables. However, low latency frowns upon shared mutables.
 
 --new: accept risks, not wholesale shutdown
 eg: bedbugs. spraying and washing everything fabric, replacing all furniture.. doesn't buy you waterproof protection.

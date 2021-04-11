@@ -22,11 +22,6 @@ What are the underlying differences between static and shared lib?
 What TMP techniques did you use? I mentioned CRTP. I was frank. I believe if you aren't writing library, then no need to incur the complexity cost of TMP. If I do write a library with complex usage requirements, then I will google to find out when to use which TMP technique.
 What's enable_if. I correctly associated it with sfinae
 
--- update blogpost on java functors
-Only in java is the rule very simple and clean -- FCC functions passed into a HOF must be objects.
-
-c++, c# and py are more flexible and less simple
-
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
