@@ -50,13 +50,6 @@ Only in java is the rule very simple and clean -- FCC functions passed into a HO
 
 c++, c# and py are more flexible and less simple
 
--- new: java Future::cancel(boolean mayInterruptIfRunning)
-java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt to cancel a running thread.
-
-If the boolean arg is false, then the thread is not interrupted and would continue running.
-
-I think pthreads define cancellation points, similar to java's interrupt points.
-
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
@@ -95,14 +88,6 @@ signals in windows?
 real time signals are a new Posix concept... not really low-latency.
 
 Most signals are self-sent from the same process. I think timer alarm is one. Sockets is another example. However, keyboard signals like Ctrl-C are not self-sent.
-
---update on placement new
-I think placement new has two distinct usages
-1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
-
-2) for primitive types like int, it informs the compiler to treat the raw memory as "int", without malloc.
-
-2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
 
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
 --fuxi but no point publishing:

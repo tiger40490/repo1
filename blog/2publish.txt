@@ -1,5 +1,19 @@
 --update: gains of UChicago
 I told Sophia that one tangible gain from UChicago is the insider insight, that would help me save a huge amount on college fees
+--update blogpost on placement new + reCast
+I think placement new has two distinct usages
+1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
+
+2) for primitive types like int, it informs the compiler to treat the raw memory as "int", without malloc.
+
+2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
+
+-- new: java Future::cancel(boolean mayInterruptIfRunning)
+java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt to cancel a running thread.
+
+If the boolean arg is false, then the thread is not interrupted and would continue running.
+
+I think pthreads define cancellation points, similar to java's interrupt points.
 
 ====new: stress@adjustment
 t_stress
