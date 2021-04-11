@@ -20,7 +20,7 @@ how is template implemented in c++
 nm .. what if nm complains about a missing shared lib, but the file is in your local file system?
 What are the underlying differences between static and shared lib?
 What TMP techniques did you use? I mentioned CRTP. I was frank. I believe if you aren't writing library, then no need to incur the complexity cost of TMP. If I do write a library with complex usage requirements, then I will google to find out when to use which TMP technique.
-What's enable_if. I correctly associated it with sfinae
+What's enable_if. I correctly associated it with SFINAE
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
@@ -62,16 +62,6 @@ real time signals are a new Posix concept... not really low-latency.
 Most signals are self-sent from the same process. I think timer alarm is one. Sockets is another example. However, keyboard signals like Ctrl-C are not self-sent.
 
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
---fuxi but no point publishing:
-To find a windows service name
-
-  sc query > some.log
-
-To fine the pid of the service name
-
-  sc queryex WinDefend
-
-  taskkill /F /PID 4168
   
 --fuxi
 Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
@@ -79,8 +69,6 @@ Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
 --new untitled
 95G offer service used tibrv to send updates to GUI. Robust and fast. 
 (MLP also uses messages to update GUI)
-
-Also there was one dedicated daemon instance for each trading account. Sounds inefficient but actually acceptable scalability.
 
 --fuxi:
 Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropping very low.
@@ -108,6 +96,12 @@ Is there a cpu instruction for heap allocation? Does cpu care about heap vs stac
 whilst the stack data is managed via the CPU, the heap is not managed automatically. The size of the heap can also be considerably larger than the stack and the allocation of memory must be performed manually within a program. Memory also has to be freed manually, again unlike the stack.
 
 Can check my linux book or google on brk()
+
+-- new or fuxi: set in python
+set is the least used builtin container. I seldom use it, becasue dictionary is more useful.
+( Similarly, list is always more useful than tuple, except when used as dict keys. )
+
+One advantage of set over dict or list -- set-comprehension to create a hashset
 
 --fuxi:Martin's low-latency java talk
 My Questions

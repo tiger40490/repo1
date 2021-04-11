@@ -1,13 +1,3 @@
---update: gains of UChicago
-I told Sophia that one tangible gain from UChicago is the insider insight, that would help me save a huge amount on college fees
-
-end on a high note
-
--- new: set in python
-set is the least used builtin container. I seldom use it, becasue dictionary is more useful.
-( Similarly, list is always more useful than tuple, except when used as dict keys. )
-
-One advantage of set over dict or list -- set-comprehension to create a hashset
 
 ====new: stress@adjustment
 t_stress
