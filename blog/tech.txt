@@ -22,13 +22,6 @@ What are the underlying differences between static and shared lib?
 What TMP techniques did you use? I mentioned CRTP. I was frank. I believe if you aren't writing library, then no need to incur the complexity cost of TMP. If I do write a library with complex usage requirements, then I will google to find out when to use which TMP technique.
 What's enable_if. I correctly associated it with sfinae
 
--- update
-source .bashrc # executes each command from the rc, all within the current shell.
-exec bash # starts a new shell, with an empty command history 
-
--- new or fuxi:
-listComp, lambda, interactive shell ... have something in common: the Expression part is the centerpiece. It creates a return value.
-
 -- new: set in python
 set is the least used builtin container. I seldom use it, becasue dictionary is more useful.
 ( Similarly, list is always more useful than tuple, except when used as dict keys. )

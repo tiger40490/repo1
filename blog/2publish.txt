@@ -1,5 +1,13 @@
 --update: gains of UChicago
 I told Sophia that one tangible gain from UChicago is the insider insight, that would help me save a huge amount on college fees
+
+-- new: q[source]
+source .bashrc # executes each command from the rc, all within the current shell.
+exec bash # starts a new shell, with an empty command history 
+
+-- new: q[return] omitted: common pattern]py
+listComp, lambda, interactive shell ... have something in common: the Expression part is the centerpiece. It creates a return value.
+
 --update blogpost on placement new + reCast
 I think placement new has two distinct usages
 1) for data types with a ctor, it lets you construct those objects (or arrays thereof) at a given heap location without malloc
