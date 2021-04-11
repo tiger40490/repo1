@@ -5,6 +5,12 @@ I told Sophia that one tangible gain from UChicago is the insider insight, that 
 source .bashrc # executes each command from the rc, all within the current shell.
 exec bash # starts a new shell, with an empty command history 
 
+-- new: set in python
+set is the least used builtin container. I seldom use it, becasue dictionary is more useful.
+( Similarly, list is always more useful than tuple, except when used as dict keys. )
+
+One advantage of set over dict or list -- set-comprehension to create a hashset
+
 -- new: q[return] omitted: common pattern]py
 listComp, lambda, interactive shell ... have something in common: the Expression part is the centerpiece. It creates a return value.
 
