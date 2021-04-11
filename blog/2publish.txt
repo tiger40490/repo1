@@ -7,6 +7,18 @@ I think placement new has two distinct usages
 2) for primitive types like int, it informs the compiler to treat the raw memory as "int", without malloc.
 
 2b) If you call placmeent new with an initializer then it also performs initialization at a heap location without malloc
+--update: top 2 features of any blockchain: 1) immutability 2)consensus among descentralized participants
+
+--new: raii for array-new
+std::vector ! see [[safeC++]] chapter on safer array
+For op-new use a smart ptr
+
+-- new: java simplifying concurrency
+concurrency is tricky. Java tries to simplify concurrency. It did simplify many things such as mutex usage, thread creation,,, but I would say it's superficial simplification.
+
+It reduce complexity level from 9 to 8.5.
+
+Note java concurrency is OO-concurrency. Across all languages, OO-concurrency is usually a wrapper, because core concurrency libraries, concurrency constructs.. are invariably written in C , at a lower level, not OO at all.
 
 -- new: java Future::cancel(boolean mayInterruptIfRunning)
 java Future::cancel(boolean mayInterruptIfRunning) would probably use interrupt to cancel a running thread.
