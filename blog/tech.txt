@@ -1,17 +1,20 @@
 -- GST IV: some topics 
 byte-level parsing. WebAssembly encoding scheme supporting variable length strings... I mentioned protobuf
 
-IPC.. I mentioned file; DB; distributedCache; sharedMem. He mentioned local sockets
+IPC.. I mentioned flat file (faster than RDBMS); distributedCache; sharedMem. He mentioned local sockets, but presumably less used.
 
-What' the matching engine throughput you achieved? I said 10 TPS with database .. Without database perhaps 1000.
+What' the matching engine throughput you achieved? I said 10 TPS with database. Very modest and realistic.. Without database perhaps 1000.
 
-persistence of order state on the critical path? If async write-behind, then what if you lose power after sending the order, but before persistence? I said there's always tradeoff. Even with RDBMS level of ACID support, you may still need redundant writes which adds even more latency.
+persistence of order state on the critical path? If async write-behind, then what if you lose power after sending the order, but before persistence? 
+I said there's always tradeoff and limits to the ACID guarantee. 
+Even with RDBMS level of ACID support, you may still have a need for redundant writes. If you worry about site power failure, then you need UPS. If you worry about bombing, then you need offline backup, which adds even more latency. 
+I guess this answer shows my big-picture wisdom.
 
 disaster recovery process in RTS and in EPA
 
 retransmission, gap management
 
-How do you benchmark your app? I gave a fairly detailed real answer :)
+How do you benchmark your app? I gave a fairly detailed desciption of RTS in terms of mem + throughput:)
 
 Why such small memory footprint?
 
