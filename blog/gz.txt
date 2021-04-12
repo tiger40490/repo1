@@ -3,13 +3,14 @@ t_jolt
 if an employer permits some reasonable amount of blogging in office, then I'm willing to accept $10k less salary.
 
 -- update or new
-now in my late 40's, which technial domain have I maintained my competitive high ground?
+Through my late 40's to 50, in which technial domain will I maintain my competitive high ground?
 
-core Java language?
+core Java language? Remarkably stable
 xLang concurrency
 xLang dStruct
-perl? Unfortunately the perl6 has moved
+perl? Unfortunately perl6 has moved
 drv pricing + bond math? Yes because programmers don't study it
+byte-level parsing
 
 -- update the blogpost on 5 tsn domains
 Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
@@ -48,14 +49,6 @@ A veteran developer doesn't need to be an above-average developer or expert deve
 
 Can you acquire this expertise with only 3Y experience? You would need to attend many interviews.
 
--- java is better...
-the core lang is more stable than c#, and also c++ in terms of IV topics
-
-Even though jee job market is volatile, the coreJava job market enjoys robust demand.
-
-My strength in low-level details is far more valuable in java than py, perl, SQL etc.
-
-compared to c++, cdd/job ratio is not very different, but the java cdd pool is low-quality. In coreJava, I can easily stand out.
 
 -- c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js and py.
 
@@ -77,6 +70,15 @@ Work load is not lighter than elsewhere in his experience. However, I would say 
 Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my cohort" tend to be devastating. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
 
 --fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism and has stood the test of time
+
+-- fuxi: java is better...
+the core lang is more stable than c++ in terms of IV topics
+
+Even though jxee job market is volatile, the coreJava niche job market enjoys robust demand.
+
+My strength in low-level details is far more valuable in java than py, perl, SQL etc.
+
+compared to c++, cdd/job ratio is not very different, but the java cdd pool is low-quality. In coreJava, I can easily stand out.
 
 --informal feedbacks during year-end party
 "You are process oriented, which is missing in the local team. We are not used to so many questions so we ignored some of your questions. We assume each team member has maturity and needs only a pointer and can figure out the rest." In zed I used to feel the same about asking questions, but in GS it all changed. 
