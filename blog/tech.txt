@@ -3,7 +3,7 @@ byte-level parsing. WebAssembly encoding scheme supporting variable length strin
 
 IPC.. I mentioned flat file (faster than RDBMS); distributedCache; sharedMem. He mentioned local sockets, but presumably less used.
 
-What' the matching engine throughput you achieved? I said 10 TPS with database. Very modest and realistic.. Without database perhaps 1000.
+What' the matching engine throughput you achieved? I said 10 TPS with database. Very modest and realistic. Without database I said perhaps 1000.
 
 persistence of order state on the critical path? If async write-behind, then what if you lose power after sending the order, but before persistence? 
 I said there's always tradeoff and limits to the ACID guarantee. 
@@ -35,7 +35,7 @@ FIX models a huge file. Any gap in seq# is unacceptable, and must be addressed b
 
 -- fuxi: precedence: NOT > AND > OR
 Proposition 1: Dinosaur existed
-Proposition 2: speed kills
+Proposition 2: speed kills or "Children lie"
 
 Not P1 AND Not P2 means (Not P1) and (Not P2), with or without the parentheses.
 
