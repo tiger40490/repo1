@@ -9,8 +9,9 @@ core Java language? Remarkably stable
 xLang concurrency
 xLang dStruct
 perl? Unfortunately perl6 has moved
-drv pricing + bond math? Yes because programmers don't study it
+drv pricing + bond math [Type1 dnlg] ? Yes because programmers don't study it
 byte-level parsing
+WallSt architecture [Type3 dnlg]
 
 -- update the blogpost on 5 tsn domains
 Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
@@ -38,8 +39,6 @@ BigDataAnalytics includes BigData stack.
 Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
--- IT consulting service offered by mgmt consulting firms ... is facing competition from the original vendors providing similar consulting services.
-
 -- With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors (only web2.0 techies are higher)
 Evidence for "veteran"? Not GTD, not even zbs, but mostly the interview-visible expertise. 
 
@@ -48,16 +47,6 @@ This expertise is about the only criteria IMO. Anyone "strong" on this front is 
 A veteran developer doesn't need to be an above-average developer or expert developer but need to possess some demonstrable experience in the field. Therefore, a long stay in one team (Jack Z?) is less valuable than many one-year projects.
 
 Can you acquire this expertise with only 3Y experience? You would need to attend many interviews.
-
-
--- c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js and py.
-
-losing to py in data-centric systems.
-losing to js in web apps. Many features are moving from server side to client side. 
-
---QQ learning: books beat websites
-books support much easier refresh, annotation.
-Most of my peers don't prefer books, but I find my learning pace significantly better with books, so this is my competitive advantage.
 
 -- update one of the blogposts on appraisal
 as employee, when I have family issues, kids issues, investment foes, I would fear an appraisal. Even a bonus disappointment would add a heavy blow.
@@ -69,7 +58,13 @@ Work load is not lighter than elsewhere in his experience. However, I would say 
 
 Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my cohort" tend to be devastating. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
 
+-- fuxi: IT consulting service offered by mgmt consulting firms ... is facing competition from the original vendors providing similar consulting services.
+
 --fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism and has stood the test of time
+
+-- fuxi: c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js and py.
+losing to py in data-centric systems.
+losing to js in web apps. Many features are moving from server side to client side. 
 
 -- fuxi: java is better...
 the core lang is more stable than c++ in terms of IV topics
