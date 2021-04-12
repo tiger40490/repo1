@@ -1,47 +1,3 @@
-
-====new: stress@adjustment
-t_stress
-I have always said adjustment is stressful.
-
-adj can be long drawn-out
-
-All-at-once can make us feel overwhelmed. I tend to relax or suspend some of my adjustments such as diet.
-
-[f=financial]
-[w=wellness]
--- adj: [f] burn rate reduction for big spenders. My key advantage over the average Americans.
--- adj: [w] diet restrictions like starch, sugar.. Even salt reduction can add to stress
--- adj: [w] practice daily stretches to slow down loss of flexibility due to aging
--- adj: reduce A/C reliance. Rely on more natural solutions
--- adj: small screen, single monitor
--- adj: restriction on blogging in GS office
--- adj: [f] babysit lots of investments, esp. active management of properties
--- adj: [f] U.S. style DIY home repair
--- adj: wfh during covid19 localSys
--- adj: long commute
--- adj: [w] early sleep .. mild stress, but the adjustment is hard to achieve.
--- some common /lubricants/ and assistance during adjustment:
-cash reserve .. $50k adjustment fund after family migrating to U.S.
-plenty of paid leaves .. see my le2Gerald
-med bx
-counselling support .. eg: covid19 lockdown. Local Chinese support group in the U.S.
-
-====
-
---new: accept risks, not wholesale shutdown
-eg: bedbugs. spraying and washing everything fabric, replacing all furniture.. doesn't buy you waterproof protection.
-eg: covid19 lockdown. Even with full lock down, there's no such thing as riskfree.
-eg: iPhone8 lock up
-eg: overseas rental properties... I accept the risks rather than a blanket rejection. In any rEstate market, there's nothing riskfree.
-eg: some stock investors only buy known names, but that doesn't protect them from capital loss. In this context, there's nothing riskfree.
-
--- update: 
-both these words are 20-char longer
-
-compartmentalization
-12345678901234567890
-internationalization
-
 -- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
 CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
 Mgr promised to try and find other teams, but it's unlikely to have all 3 contractors retained.
@@ -51,69 +7,6 @@ Therefore, he felt he would consider contract only if salary is 50% higher. Unde
 
 This type of observation/experience reinforces the job insecurity "smell" of the contract career.
 
--- new: Vishal discussion
-I thought Vishal would be wise to move earlier out of PMW to a more lucrative domain. 
-
-I thought Vishal has the soft skills and political skills to move up. In the end he chose move-out rather than move-up.
-
-I thought Vishal would be one of the key individuals to get well-compensated by GS (to keep him loyal). He said he was in a few years but overall paid below the market.
-
-Vishal described some geopolitics which affected the compensation, promotion, workload...
-
-I feel shaming was a big whiplash used in PWM. ( Now I feel Stirt tech used some shame, as I was unable to meet the VP benchmark.) Beware: Shame is usually a ping-pong -- If manager sends a signal but I refused to respond, then shaming is less effective.
-
-peer benchmarking is shaming if too explicit....
-
-For contractors, manager is less likely to use motivation techniques including shaming. Emotionally tiring... If she does, the contractor is more free [1] to quit, more so than H1b employees.
-
-[1] In his home country, Vishal also has more freedom. )
-
-Many GS techies simply quit after seeing the workload, the compensation, the expectation, the motivation/whiplash. As Vishal described, most of them has found happiness since they left.
-
-mutual responsibility .. Both employer and employee have some responsibilities over the bad outcome, be it shame, burn-out or health issues. As in the "homeless" discussion, it's unfair to blame the system only, and never look inside the self.
-
-I asked Vishal -- do you get used to the high stress of VP? 
-Josh seemed to be very cool.
-
-Vishal said that even though he became better at handling the work, it was still too much. The demands and expectations were probably increasing on him. Move up or move out. I think he was benchmarked with other VP's 
-
-As to urgency, I now feel Josh is confident to cope with virtually all the incoming issues. Unconsciously he assigns a urgency level to each so he is never overwhelmed 
-
--- new: enjoy tasty food without BMI impact as in NY
-I wish I could enjoy my nice food without the BMI impact.
-
-In 750/7 MS office I achieved it. So now I’m following the same techniques
-* low starch ... almost same as in 750/7
-* high fruits + raw veg … almost same as in 750/7
-
-I guess what’s missing is the home meal control. My grip is loose. The wrong-time temptation is way too powerful at home.
-
-When I see the nice food at home, it’s a struggle to resist. No such temptation or struggle in Bayonne home.
-
--- update or new: tempting foods
-Stash-away creates an unwanted, almost hazardous temptation at home, but it is effectively a delay tactic. buy-n-store is still better than eating rightaway
-
---new good appetite could be a bad thing
-t_jolt
-In my twilight years (80+?), I wish to have a good appetite to enjoy healthy food. At my current age, a lower appetite is life-enhancing.
-At any age, appetite for unhealthy food is a sign of bad genes. 
-In reality, most foods fall into the grey area between healthy and unhealthy.
-
--- new: delay first+last meals
-I have realized one of the top 3 simple rules of fasting is to delay the first and last meal of the day as much as possible.
-
-As soon as I break the fast (breakfast:), the floodgate is usually hard to close.
-
---new: western men overrated
-at Shangrila, I saw many white men (also some Asian men), mostly fathers in my age group.
-Mostly affluent families, based on my guestimate and intuition.
-
-However, they don't seem to have the highest level of wellness that I used to associate with white men.
-
-My decade-long inferiority is now put into question.
-
-In terms of brbr, I have reason to believe I'm in much better "shape". The same evening, I discussed the same topic with the LZ.Yu family. For some individuals, excess cash balance is like desserts left in a fridge... will disappear sooner or later.
-
 --update blogpost on wechat vs mail
 email is Much better than wechat voice mail for me... can archive, search, can respond a few days later at my own pace. 
 
@@ -122,10 +15,6 @@ I'm not sure but I guess some people might be using wechat voice mail too much f
 With a voice mail, if you don't respond, it just piles up in a tiny screen with 20 other voice mails (among 100 text messages), without any textual clue about their contents. It's unmanageable IMO. Therefore, the recipient is forced to respond right away. Unnecessary urgency, unnecessary stress. 
 
 Maybe young people use wechat voice mail in a different way. (I won't speculate how or why.) I always prefer to receive messages with subjects and have the option to warehouse it until free to deal with it. Voice mail is unmanageable in my system.
-
--- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=16183&action=edit
-Q: whole^skim milk: which is more slimming 
-All my life till now (47), skim milk always tastes much worse than whole milk, so I often compensate that taste with comfort food, add up to higher cCost overall.
 
 --update blogpost
 Q: Can protein powder replace a meal?
