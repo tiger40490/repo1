@@ -48,23 +48,16 @@ latency is not really a practical focus.
 eg(big): wordpress block editor
 eg: show-stopper: oversensitive touchpad 
 eg: show-stopper: home wifi issues
-eg: github new policies
 eg: wechat issues
-eg: wordpress take-down notice
 eg: windows license expiry
 eg: windows update kick-in at the wrong time
-eg: Citrix issues
 eg: M1 and starhub blackout
-
--- fuxi: java 5 and java 8 are the two releases most quizzed in interviews.
-How about java6/7/9? They introduce rather few visible changes. 
-
-In fact, beside generics, java5's other changes are hardly visible. There are many additions in concurrency library but invisible/irrelevant to most developers.
 
 --fuxi
 signals in windows?
 
 real time signals are a new Posix concept... not really low-latency.
+Low latency sockets don't rely on signals for immediate action
 
 Most signals are self-sent from the same process. I think timer alarm is one. Sockets is another example. However, keyboard signals like Ctrl-C are not self-sent.
 
