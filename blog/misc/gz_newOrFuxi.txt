@@ -1,3 +1,7 @@
+-- fuxi
+in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, instrumentation.
+
+latency is not really a practical focus.
 -- fuxi: typical bonus amount:
 Tanko said AWS + 1M bonus. Very good if on a high base. I don't want to compare up.
 

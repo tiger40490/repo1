@@ -1,3 +1,12 @@
+-- fuxi: These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
+eg(big): wordpress block editor
+eg: show-stopper: oversensitive touchpad 
+eg: show-stopper: home wifi issues
+eg: wechat issues
+eg: windows license expiry
+eg: windows update kick-in at the wrong time
+eg: M1 and starhub blackout
+
 -- fuxi: I like titles with a power phrase or a sharp question. 
 These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
 

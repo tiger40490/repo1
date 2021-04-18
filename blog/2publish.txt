@@ -7,6 +7,14 @@ Therefore, he felt he would consider contract only if salary is 50% higher. Unde
 
 This type of observation/experience reinforces the job insecurity "smell" of the contract career.
 
+-- fuxi: precedence: NOT > AND > OR
+Proposition 1: Dinosaur existed
+Proposition 2: speed kills or "Children lie"
+
+Not P1 AND Not P2 means (Not P1) and (Not P2), with or without the parentheses.
+
+Same in any language.
+
 --new: gap mgmt in FIX^RTS
 Multicast is lossy. Very easy to notice a gap. Receivers like RTS should not immediately request retransmission. Instead, they should exercise discretion and patience.
 

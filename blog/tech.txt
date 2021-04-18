@@ -32,26 +32,6 @@ How is lib func name resolution performed in the SO case? I admitted ignorance. 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
--- fuxi: precedence: NOT > AND > OR
-Proposition 1: Dinosaur existed
-Proposition 2: speed kills or "Children lie"
-
-Not P1 AND Not P2 means (Not P1) and (Not P2), with or without the parentheses.
-
-Same in any language.
--- fuxi
-in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, instrumentation.
-
-latency is not really a practical focus.
-
--- fuxi: These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
-eg(big): wordpress block editor
-eg: show-stopper: oversensitive touchpad 
-eg: show-stopper: home wifi issues
-eg: wechat issues
-eg: windows license expiry
-eg: windows update kick-in at the wrong time
-eg: M1 and starhub blackout
 
 --fuxi
 signals in windows?
