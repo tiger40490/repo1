@@ -7,6 +7,18 @@ Therefore, he felt he would consider contract only if salary is 50% higher. Unde
 
 This type of observation/experience reinforces the job insecurity "smell" of the contract career.
 
+--new: gap mgmt in FIX^RTS
+Multicast is lossy. Very easy to notice a gap. Receivers like RTS should not immediately request retransmission. Instead, they should exercise discretion and patience.
+
+FIX models a continous file. Any gap in seq# is unacceptable, and must be addressed before processing any unexpected high seq#.
+
+--new: 5GHz ^ 2.4GHz wifi
+Range favors lower frequency. Bigger homes may need it.
+
+bandwidth/speed favors higher frequency. Video streaming.
+
+Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. In contrast, Microwave oven did hit me 95% of the time.
+
 -- le2shuo
 Thanks for your short and sharp question.
 As explained by the long list in my livelihood mail, Livelihood is higher than minimum survival. The Singapore government has always used some criteria to judge if a family has livelihood needs. Their criteria are higher than minimum survival. Worldwide, I guess 90% still struggle to cope with “livelihood” as defined by my long list. In rich countries, half the population still have livelihood concerns (so do I), so I wouldn't say the threshold is low. I feel your idea of livelihood is much lower than mine.

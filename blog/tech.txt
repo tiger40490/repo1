@@ -29,11 +29,6 @@ What's enable_if. I correctly associated it with SFINAE
 
 How is lib func name resolution performed in the SO case? I admitted ignorance. I think there must be an offset for each function in the SO. HostApp binary saves the offset? Is SO runtime cost higher?
 
---new: gap mgmt in FIX^RTS
-Multicast is lossy. Very easy to notice a gap. Receivers like RTS should not immediately request retransmission. Instead, they should exercise discretion and implement 
-
-FIX models a huge file. Any gap in seq# is unacceptable, and must be addressed before processing any unexpected high seq#.
-
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
@@ -92,12 +87,6 @@ We need to fully embrace the reality that live debugging is often impractical.
 
 In contrast, "echo" is the gold standard in code tracing.
 
---fuxi: 5GHz ^ 2.4GHz wifi
-Range favors lower frequency. Bigger homes may need it.
-
-bandwidth favors higher frequency. Video streaming.
-
-Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. Microwave did hit me.
 
 --new: malloc != syscall
 is malloc a kernel service, syscall or a userland function offered in a regular library?
@@ -126,4 +115,3 @@ A: heap allows sharing between threads
 
 Q: why is JIT not available to c++?
 %%A: c was not designed for JIT and ineffective 
-
