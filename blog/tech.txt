@@ -69,24 +69,6 @@ real time signals are a new Posix concept... not really low-latency.
 Most signals are self-sent from the same process. I think timer alarm is one. Sockets is another example. However, keyboard signals like Ctrl-C are not self-sent.
 
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
-  
---fuxi
-Now I realize BFT is by level i.e. visit order is root to leaf. DFT is bottom-up
-
---new untitled
-95G offer service used tibrv to send updates to GUI. Robust and fast. 
-(MLP also uses messages to update GUI)
-
---fuxi:
-Citrix became very slow when I moved to a location far from the wifi hotspot. I could see the signal strength dropping very low.
-
---fuxi: JVM remote debugging is not so foolproof.
-GDB is not so foolproof. See my blogposts.
-
-We need to fully embrace the reality that live debugging is often impractical.
-
-In contrast, "echo" is the gold standard in code tracing.
-
 
 --new: malloc != syscall
 is malloc a kernel service, syscall or a userland function offered in a regular library?
