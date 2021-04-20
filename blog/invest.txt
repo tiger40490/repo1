@@ -1,3 +1,10 @@
+-- fuxi:
+"revenue can't really be manipulated, so sales are often a truer performance indicator." according to https://finance.yahoo.com/news/china-life-lfc-great-value-165004399.html.
+
+I think book value is also less manipulated including assets and liabilities.
+
+Profits i.e. earnings, dividends are all easier to manipulate by accountants.
+
 -- fuxi 
 Overall, U.S. feels like a high-cost, moderate-tax, low-welfare country.
 
