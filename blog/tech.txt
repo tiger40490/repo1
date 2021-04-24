@@ -19,6 +19,7 @@ How do you benchmark your app? I gave a fairly detailed desciption of RTS in ter
 Why such small memory footprint?
 
 ....c++ questions
+Given a (c++) executable, how do find its runtime dependencies? (Alina)
 how is template implemented in c++
 nm .. what if nm complains about a missing shared lib, but the file is in your local file system?
 
@@ -28,6 +29,15 @@ What's enable_if. I correctly associated it with SFINAE
 .. What are the underlying differences between static and shared lib? Suppose a host app uses a SO and a .A library . When .A changes, hostApp must recompile/relink to embed the new .A lib. If SO changes, hostApp may not need to recompile.
 
 How is lib func name resolution performed in the SO case? I admitted ignorance. I think there must be an offset for each function in the SO. HostApp binary saves the offset? Is SO runtime cost higher?
+
+-- new: template compilation
+GST CTO asked me "How do you think a class template source code is used to produce a c++ class".
+
+I think this is very much a theoretical curiosity QQ question.
+
+I told him the earliest compilers probably used code generation. I think this is still relevant today. Codegen is the conceptual use case, the conceptual model in the minds of template inventor and the app developers. However, the language rules are highly advanced and imply other mechanism than codegen.
+
+https://northstar-www.dartmouth.edu/doc/solaris-forte/manuals/c++/user_guide/Templates.html and https://docs.oracle.com/cd/E19205-01/819-5267/bkage/index.html are similar and offer some technical details 
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
