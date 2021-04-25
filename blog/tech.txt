@@ -29,6 +29,14 @@ What's enable_if. I correctly associated it with SFINAE
 
 How is lib func name resolution performed in the SO case? I admitted ignorance. I think there must be an offset for each function in the SO. HostApp binary saves the offset? 
 
+--new: SO file loading
+
+Based on https://cseweb.ucsd.edu/~gbournou/CSE131/the_inside_story_on_shared_libraries_and_dynamic_loading.pdf
+
+When a program linked with shared libraries runs, program execution does not immediately start with that program’s first statement. Instead, the operating system loads and executes the dynamic linker (usually called ld.so), which then scans the list of library names embedded in the executable. These library names are never encoded with absolute pathnames.
+
+You can obtain detailed information about how the dynamic linker loads libraries by setting LD_DEBUG=libs
+
 -- update https://btv-gz.dreamhosters.com/2011/01/23/cantor-iv-onsite/
 dependcy walker?
 
