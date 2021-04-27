@@ -1,52 +1,11 @@
--- GST IV: some topics 
-byte-level parsing. WebAssembly encoding scheme supporting variable length strings... I mentioned protobuf
-
-IPC.. I mentioned flat file (faster than RDBMS); distributedCache; sharedMem. He mentioned local sockets, but presumably less used.
-
-What' the matching engine throughput you achieved? I said 10 TPS with database. Very modest and realistic. Without database I said perhaps 1000.
-
-persistence of order state on the critical path? If async write-behind, then what if you lose power after sending the order, but before persistence? 
-I said there's always tradeoff and limits to the ACID guarantee. 
-Even with RDBMS level of ACID support, you may still have a need for redundant writes. If you worry about site power failure, then you need UPS. If you worry about bombing, then you need offline backup, which adds even more latency. 
-I guess this answer shows my big-picture wisdom.
-
-disaster recovery process in RTS and in EPA
-
-retransmission, gap management. I think most interviewers have no idea of the complexities.
-
-How do you benchmark your app? I gave a fairly detailed desciption of RTS in terms of mem + throughput:)
-
-Why such small memory footprint?
-
-....c++ questions
-how is template implemented in c++
-nm .. what if nm complains about a missing shared lib, but the file is in your local file system?
-
-..What TMP techniques did you use? I mentioned CRTP. I was frank. I believe if you aren't writing library, then no need to incur the complexity cost of TMP. If I do write a library with complex usage requirements, then I will google to find out when to use which TMP technique.
-What's enable_if. I correctly associated it with SFINAE
-
-.. What are the underlying differences between static and shared lib? Suppose a host app uses a SO and a .A library . When .A changes, hostApp must recompile/relink to embed the new .A lib. If SO changes, hostApp may not need to recompile.
-
-How is lib func name resolution performed in the SO case? I admitted ignorance. I think there must be an offset for each function in the SO. HostApp binary saves the offset? 
-
 -- update https://btv-gz.dreamhosters.com/2011/01/23/cantor-iv-onsite/
 dependcy walker?
-
--- new: template compilation
-GST CTO asked me "How do you think a class template source code is used to produce a c++ class".
-
-I think this is very much a theoretical curiosity QQ question.
-
-I told him the earliest compilers probably used code generation. I think this is still relevant today. Codegen is the conceptual use case, the conceptual model in the minds of template inventor and the app developers. However, the language rules are highly advanced and imply other mechanism than codegen.
-
-https://northstar-www.dartmouth.edu/doc/solaris-forte/manuals/c++/user_guide/Templates.html and https://docs.oracle.com/cd/E19205-01/819-5267/bkage/index.html are similar and offer some technical details 
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
-
 --fuxi
-signals in windows?
+signals in windows? not popular
 
 real time signals are a new Posix concept... not really low-latency.
 Low latency sockets don't rely on signals for immediate action
@@ -70,15 +29,3 @@ set is the least used builtin container. I seldom use it, becasue dictionary is 
 ( Similarly, list is always more useful than tuple, except when used as dict keys. )
 
 One advantage of set over dict or list -- set-comprehension to create a hashset
-
---fuxi:Martin's low-latency java talk
-My Questions
-Q: for low latency should we avoid concurrency ?
-A: yes
-%%A: parallel processing in ST-Mode is good but avoid any form of synchronization 
-
-Q: If I don’t use heap, and only use stack and static memory….?
-A: heap allows sharing between threads
-
-Q: why is JIT not available to c++?
-%%A: c was not designed for JIT and ineffective 
