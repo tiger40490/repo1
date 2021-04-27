@@ -1,6 +1,3 @@
--- update https://btv-gz.dreamhosters.com/2011/01/23/cantor-iv-onsite/
-dependcy walker?
-
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
@@ -24,8 +21,8 @@ whilst the stack data is managed via the CPU, the heap is not managed automatica
 
 Can check my linux book or google on brk()
 
--- new or fuxi: set in python
-set is the least used builtin container. I seldom use it, becasue dictionary is more useful.
-( Similarly, list is always more useful than tuple, except when used as dict keys. )
+-- fuxi: set in python
+set is the least used builtin container. I seldom use it, becasue dictionary is always richer.
+( Similarly, list is always richer than tuple, except when used as dict keys. )
 
 One advantage of set over dict or list -- set-comprehension to create a hashset
