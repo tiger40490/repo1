@@ -1,12 +1,3 @@
--- update blogpost https://btv-gz.dreamhosters.com/wp-admin/post.php?post=38769&action=edit
-CSY described the reaction of his 3 India-born contractors when manager anounced in a meeting the termination of their project. Project funding would end very soon.
-Mgr promised to try and find other teams, but it's unlikely to have all 3 contractors retained.
-CSY felt so much luckier because as perm he would have a job in other projects in the same team.
-
-Therefore, he felt he would consider contract only if salary is 50% higher. Underlying reason -- his age and job search challenges are real. Dev-till-70 is not so easy.
-
-This type of observation/experience reinforces the job insecurity "smell" of the contract career.
-
 -- fuxi: precedence: NOT > AND > OR
 Proposition 1: Dinosaur existed
 Proposition 2: speed kills or "Children lie"
@@ -15,11 +6,6 @@ Not P1 AND Not P2 means (Not P1) and (Not P2), with or without the parentheses.
 
 Same in any language.
 
---new: gap mgmt in FIX^RTS
-Multicast is lossy. Very easy to notice a gap. Receivers like RTS should not immediately request retransmission. Instead, they should exercise discretion and patience.
-
-FIX models a continous file. Any gap in seq# is unacceptable, and must be addressed before processing any unexpected high seq#.
-
 --new: 5GHz ^ 2.4GHz wifi
 Range favors lower frequency. Bigger homes may need it.
 
@@ -27,5 +13,25 @@ bandwidth/speed favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. In contrast, Microwave oven did hit me 95% of the time.
 
--- le2shuo
-moved to new file
+-- new: midlife crisis #RoyalSociety
+"Now in my 40s I have not achieved much (i.e. my targets)" is a rude awakening for many middle-aged men.
+
+Those specific-n-measurable targets we were instructed to formulate are a double-edged sword. 
+They often sow the seed for the midlife crisis and self-hate.
+
+Those targets serve to focus our laser energy, but also sharpens the focus on our so-called failures. 
+
+If you write down the specific targets, there are many variations of them in career, parenting, financial etc. A measurable target like "$500k-by40" would become uninspiring when most of your peers exceed that target much earlier. So the real target in our subconscious might be exclub-related.
+
+Among the major targets, many parents would include "academic kids" but I can be a successful parent if my kids grow up to live a healthy, happy, fulfilled but mediocre life without academic or professinoal success. Actually, most parents' lives are really mediocre, including mine. Not raising academic kids is not a failure and should not contribute to midlife crisis.
+
+Achieve, Perform, Success, Pride, (self-)respect .. are all pegged to the exclub, FOLB and self-hate.
+
+"There exists a socially prescribed timetable for the ordering of major life events: a time in the life-span when men and women are expected to marry, a time to raise children, a time to retire" -- Bernice Neugarten. An individdual (me included) would often recognize in hindsight that this prescribed timetable is not suitable or ideal for herself. Individual differences are bigger than expected. We don't all fit the same mould.
+
+As I told grandpa, we tend to notice that among the "visible success stories", the biggest age group is 40-50, bigger than 50-60. This is such a statistical misperception:
+
+* many of these "visible success" individuals suffer ill-health(work-life imbalance, hazardous stress..), poor career longevity, job insecurity, financial ill-health (Brbr, debt..)
+* many of these "visible success" individuals would fall out of the leading pack later in life
+
+I think rather few professional men have wellness, stable/resilient marriage as a top 3 target... wrong priority.
