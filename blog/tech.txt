@@ -1,3 +1,7 @@
+-- new: const uniqPtr on stack
+If you don't need to transfer ownership from a uniqPtr, and need the RAII deleter, then you can use a const unique_ptr on the stack. 
+
+The const helps communicate your intent.
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
 
