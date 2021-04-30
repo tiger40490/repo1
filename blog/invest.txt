@@ -3,6 +3,13 @@ Right now, my diversification effort is not boosting aggregate DYOC
 
 Should I cut some low-yield positions and top up on some high-yield stocks?
 
+-- update Melvin3
+Melvin3 adds up to 3-4k. If you include mortgage monthly, total is 3-6k. 
+
+You can see why many American families can't afford to BUY a home. The Melvin2 would become 2-3k, compatible with a 60k/Y median burn rate in my estimate.
+
+However, rent could be 1-2k for them. They may have to lease a car. 
+
 -- new: SG: higher GDP, lower wage after tax
 t_paradox
 SG has higher GDP-per-capita but lower after-tax salary than HK or U.S.
