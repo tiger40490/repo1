@@ -1,3 +1,9 @@
+-- new: count@bad surprises/100miles 
+Surprise costs include fines, repairs and tolls that should not be incurred.
+
+Surprise events (per 100 miles) quickly increase in unfamiliar places. They include wrong turns on the highway and tolls that should not be incurred.
+
+I trust GPS data, but 100% correct usage of GPS data is nearly impossible, unless you are on local streets and can stop any time.
 --fuxi:
 some people take driving as self-care or wind-down or relaxation. 
 This hobby has relatively high cost, but it does prove useful to some.
