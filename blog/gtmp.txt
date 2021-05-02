@@ -42,6 +42,11 @@ When Jess Lin echoed and rephrased me "your forte in shoulder flexibility", she 
 Still, I felt a slight discomfort and corrected her "not so good at shoulder".
 
 My habit works fine in online chat, but it is too inefficient in SMS and unnecessary in verbal conversations like this.
+-- new: NYTimes online access
+If you hit an barrier page "You have used up your quota of free articles", then you can try
+* log out and become unregistered reader
+* use another browser
+* perhaps log in using another email address
 
 -- new but no memorable title
 simplify your life
