@@ -1,3 +1,7 @@
+-- new: audio blogging
+I need a phone app to append to existing audio clips 
+
+The app in vivo phone can only append to a paused recording, before saving it.
 --update sunshine
 Where do you give much-needed sunshine but your peers don't bother to?
 
