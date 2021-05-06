@@ -1,6 +1,6 @@
-Project description
 The NYSE integrated feed
-Bin Tan is working on the newest real time feed from the New York Stock Exchange. This brand new "integrated" feed streams every order from the matching engine, every trade, every cancel, amend, and everything else in the same sequence as the exchange matching engine sees them. This integrated feed removes the concern that a Level 2 (market depth) feed and Level 1 feed on separate connections could be received out of sync.
+As of 2017, this was the newest real time feed from the New York Stock Exchange. This brand new "integrated" feed streams every order from the matching engine, every trade, every cancel, amend, and everything else in the same sequence as the exchange matching engine sees them. This integrated feed removes the concern that a Level 2 (market depth) feed and Level 1 feed on separate connections could be received out of sync.
+
 Until recently, the exchange has always sent Level 1 feed and Level 2 feed on independent, uncoordinated channels:
 •	Level  2 feed includes all, and only, the bid and ask orders, but no trades
 •	Level 1 feed includes all executions, and the top bid and top offer for each symbol, but not the second best bids or offers.
@@ -31,6 +31,10 @@ Clients receive the processed data from feed handlers via three types of network
 •	Lease lines: Streaming data originates at several redundant data centers, and uses both managed and customer-selected carriers. In addition to our own data centers where data originates (such as New Jersey, London, Hongkong), the data is available for local distribution at several POPs around the world, including in Europe, U.S. and Asia Pacific
 •	Virtual Private Networks over the internet: provided to global customers from a set of servers hosted in New Jersey
 •	Cross-connects at colocation facilities: There are several locations in U.S. and Europe including New York City, Chicago and New Jersey.
+
+refresh channel
+periodic summary messages
+Line A vs B
 
  
 Other project information

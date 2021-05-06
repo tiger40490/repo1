@@ -12,6 +12,8 @@ eg: commission haircut rule engine
 
 This is really a test of your communication skill as an architect. It's dangerous if interviewer has domain expertise.
 
+"This is not the most recent or most familiar project, but it's easier to evaluate and appreciate."
+
 .. You can also give system stats hoping to impress interviewers, but make sure you can substantiate them
 NYSE throughput
 How many Black-Scholes eqn
