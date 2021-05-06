@@ -1,27 +1,3 @@
--- update: https://btv-gz.dreamhosters.com/wp-admin/post.php?post=7909&action=edit
-
-One of the biggest problem in an interview is the interviewer's default impression "candidate's systems are too simple". This happens when interviewer is very familiar or unfamiliar with your domain.
-
-You need to give at least one convincing illustrations. 
-eg: retrans, gap-mgmt
-eg: rebus
-eg: order state mgmt .. (unsolicited) cancels, busts, replace, 
-eg: vol surface
-eg: citi-muni reoffer, mark2mkt, real time pnl with multiple conduits
-eg: commission haircut rule engine
-
-This is really a test of your communication skill as an architect. It's dangerous if interviewer has domain expertise.
-
-"This is not the most recent or most familiar project, but it's easier to evaluate and appreciate."
-
-.. You can also give system stats hoping to impress interviewers, but make sure you can substantiate them
-NYSE throughput
-How many Black-Scholes eqn
-biggest muni desk
-biggest eq swap desk 
-biggest eq flow drv desk
-commission engine processing more than 1M trades
-
 -- new: Dram refresh: localSys^criticalMass^
 c++ > java because my java critical mass is easier more self-sustaining
 localSys?
