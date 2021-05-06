@@ -1,3 +1,6 @@
+-- update blogpost on English advantage: 
+add this link: 
+https://btv-open.dreamhosters.com/wp-admin/post.php?post=22425&action=edit
 -- fuxi: precedence: NOT > AND > OR
 Proposition 1: Dinosaur existed
 Proposition 2: speed kills or "Children lie"
