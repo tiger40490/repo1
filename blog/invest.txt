@@ -1,3 +1,5 @@
+-- update: "diversity" in a neighborhood means "some concentration of my own ethnic group"
+
 -- new: USD 100k
 t_jolt
 
