@@ -10,9 +10,6 @@ C doesn't support exceptions.
 Exceptions are a high-level langage feature. 
 Low-level langages like C use error code.
 
--- update const uniqPtr
-the uniqPtr instance is readonly during its lifetime. The only feature we use is the deleter, which is not subject to const-correctness
-
 -- new: 
 seg fault is an immediate response or async, based on signals?
 Is core-dump performed by a signal handler?
