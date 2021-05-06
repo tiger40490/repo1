@@ -10,6 +10,21 @@ C doesn't support exceptions.
 Exceptions are a high-level langage feature. 
 Low-level langages like C use error code.
 
+-- new: GPGPU: learning notes
+A GPU is a programmable processor on which thousands of specialized cores run simultaneously in massive parallelism.
+
+massive parallel computing, such as scientific computing.
+
+Designed to work with programming languages such as C/C++, CUDA is an accessible platform, requiring no advanced skills
+
+CUDA accelerates many applications, including image processing, numerical analytics, and deep learning. 
+
+Although GPUs usually operate at much lower clock speeds than CPUs, a GPU has a massive amount of cores that help with multitasking.
+
+A "stream" is a set of records that require similar computation. Streams provide data parallelism. A "Kernel" is a function applied to each element in the stream. In the GPUs, vertices and fragments are the elements in streams and vertex and fragment shaders are the kernels to be run on them. 
+
+Ideal GPGPU applications have large data sets, high parallelism, and minimal dependency between data elements.
+
 -- new: 
 seg fault is an immediate response or async, based on signals?
 Is core-dump performed by a signal handler?
