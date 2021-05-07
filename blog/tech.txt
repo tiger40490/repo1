@@ -1,3 +1,6 @@
+-- 
+Can python make use of multiple cores? python multiprocessing?
+
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
@@ -28,6 +31,12 @@ GPU computing refers to Graphics Processing tasks, using graphics jargons; GPGPU
 
 Energy efficiency -- GPUs perform much more work for every unit of energy than CPUs. That makes them key to supercomputers that would otherwise push past the limits of today’s electrical grids.
 
+x% of the blockchain mining computations can use gpgpu, but the other (100-x)% can only run on CPU.
+
+-- new:
+digital currenc, virtual currency can be unrelated to blockchain. The frequent flier miles, or ccard reward points can be transferred or traded. They can become virtual currencies.
+
+I prefer the words "blockchain currency" and "crypto-currency"
 -- new: 
 seg fault is an immediate response or async, based on signals?
 Is core-dump performed by a signal handler?
