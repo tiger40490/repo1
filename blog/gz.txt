@@ -1,3 +1,8 @@
+-- gpgpu ~ ab-initio or rule engine
+All of these vendors claim that their products are revolutionary and leave the traditional solutions in the dust.
+
+However, the use cases are extremely niche. The skill is not highly sought after.
+
 -- new: Dram refresh: localSys^criticalMass^
 c++ > java because my java critical mass is easier more self-sustaining
 localSys?
