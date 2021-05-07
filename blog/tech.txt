@@ -1,6 +1,10 @@
 -- 
 Can python make use of multiple cores? python multiprocessing?
 
+Q: in your java project, is memory an issue?
+
+You can read up Filecoin and IPFS
+
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
