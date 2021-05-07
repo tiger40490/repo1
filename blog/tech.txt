@@ -1,3 +1,6 @@
+-- NEW: get short git hash from any ref
+shortRef=$(git rev-parse --short $origRef)
+
 -- new: c++ exceptions!=as useful as in newer languages
 C++ has a tradition of UDB and USB. low level errors are often left to the hardware or the OS. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=954&action=edit
 exceptions create pitfalls in dtor, swap etc
