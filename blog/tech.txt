@@ -12,6 +12,7 @@ This module supports spawning processes using an API similar to the threading mo
 shortRef=$(git rev-parse --short $origRef)
 
 -- new: c++ excp!=as useful as in newer languages
+java errors are almost always wrapped in exceptions. 
 C++ has a tradition of UDB and USB. low level errors are often left to the hardware or the OS. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=954&action=edit
 exceptions create programming pitfalls in dtor, swap etc
 exception passing is trick and a major source of bug
