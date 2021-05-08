@@ -1,3 +1,24 @@
+-- new: memory leak: paper tiger
+t_opaque
+mem leak was presented as more elusive than NPE
+mem leak was said to require source code reading.
+mem leak in java and c# were hard in my limited experience, but c/c++ was supposed to be much harder.
+There were numerous instrumentation tools to help identify memory leaks. They reinforced the notions of "complex, opaque, OMH"
+
+I "subscribed" to this huge fear being "sold" by numerous well-meaning authors. I think the memory leak they deal with are much tougher than my memory leaks. Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive.
+
+Then in RTS, I and my team used valgrind on a routine basis to identify memory leaks, in industrial-strength, high-volume, low-latency, high-impact systems. No other tools were needed in my projects.
+
+.. How about gpgpu, FGPA, kernel bypass, shared mem
+I think all of the above are probably very simple in a real project.
+
+.. How about lockfree?
+Any design thats not very simple and clean is likely incorrect or high-maintenance.
+
+.. How about TMP?
+The complexity is not worthwhile in most projects
+
+.. How about custom memory allocator
 -- gpgpu ~ ab-initio or rule engine
 All of these vendors claim that their products are revolutionary and leave the traditional solutions in the dust.
 
