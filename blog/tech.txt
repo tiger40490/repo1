@@ -11,11 +11,11 @@ This module supports spawning processes using an API similar to the threading mo
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
--- new: c++ exceptions!=as useful as in newer languages
+-- new: c++ excp!=as useful as in newer languages
 C++ has a tradition of UDB and USB. low level errors are often left to the hardware or the OS. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=954&action=edit
-exceptions create pitfalls in dtor, swap etc
+exceptions create programming pitfalls in dtor, swap etc
 exception passing is trick and a major source of bug
-exceptions affect efficiency and performance (the j4 C/C++) and is often disabled in gcc, or avoided. Ironically, when it comes to exceptions, arguably the most useful language feature is 'noexcept'.
+exceptions affect efficiency and performance (the very j4 C/C++) and is often disabled in gcc, or avoided. Therefore, when it comes to exceptions, Ironically the most useful language feature is 'noexcept'.
 Standard library uses very few exceptions.
 
 .. C integration .. Many real world projects have substantial codebase in C, and often adopt C programming traditions.
