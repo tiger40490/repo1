@@ -1,15 +1,18 @@
--- 
+-- BitMain
 Can python make use of multiple cores? python multiprocessing?
 
 Q: in your java project, is memory an issue?
 
 You can read up Filecoin and IPFS
 
--- new: multiprocessing.pm
-This module supports spawning processes using an API similar to the threading module. The multiprocessing package effectively side-stepping the Global Interpreter Lock by using subprocesses instead of threads. Due to this, the multiprocessing module allows the programmer to leverage multiple processors on a given machine. 
+-- new: 
+seg fault is an immediate response or async, based on signals?
+Is core-dump performed by a signal handler?
 
--- NEW: get short git hash from any ref
-shortRef=$(git rev-parse --short $origRef)
+I think my linux book has some details.
+
+-- fuxi: multiprocessing.pm
+This module supports spawning processes using an API similar to the threading module. The multiprocessing package effectively side-stepping the Global Interpreter Lock by using subprocesses instead of threads. Therefore, the multiprocessing module allows the programmer to leverage multiple processors on a given machine. 
 
 -- new: c++ excp!=as useful as in newer languages
 java errors are almost always wrapped in exceptions. 
@@ -42,18 +45,11 @@ Energy efficiency -- GPUs perform much more work for every unit of energy than C
 x% of the blockchain mining computations can use gpgpu, but the other (100-x)% can only run on CPU.
 
 -- new:
-digital currenc, virtual currency can be unrelated to blockchain. The frequent flier miles, or ccard reward points can be transferred or traded. They can become virtual currencies.
-
-I prefer the words "blockchain currency" and "crypto-currency"
--- new: 
-seg fault is an immediate response or async, based on signals?
-Is core-dump performed by a signal handler?
-
-I think my linux book has some details.
+The words "digital currenc, virtual currency" can be unrelated to blockchain. For example, frequent flier miles, or ccard reward points can be transferred or traded. They can become virtual currencies.
 
 -- new: unix domain sockets vs sockets to localhost
 
--- new: 
+-- new or update blogpost on IPC
 one process can send a signal to another process. This is a simple yet well-supported, proven IPC mechanism.
 
 -- fuxi: uniqPtr MktVal imt sharedPtr

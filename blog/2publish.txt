@@ -1,3 +1,6 @@
+-- NEW: get short git hash from any ref
+shortRef=$(git rev-parse --short $origRef)
+
 -- new: grown-up child
 "Child" has two distinct meanins 1) underaged 2) son/daughter OF something
 
