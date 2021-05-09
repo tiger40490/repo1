@@ -1,21 +1,16 @@
--- new English:
-carless, car-free, 
-non-car trend
 
--- New English: Don't get me started about ...
-I do not feel that the convenience of owning a car compensated for all of the other inconveniences it provided like parking and having to maneuver it in bad weather. I live on a hill. Don’t get me started about trying to get up and down the hill in the winter.
 -- new: audio blogging
 I need a phone app to append to existing audio clips 
 
 The app in vivo phone can only append to a paused recording, before saving it.
 --update sunshine
-Where do you give much-needed sunshine but your peers don't bother to?
+In which area do you give much-needed sunshine but your peers don't bother to?
 
 The question asks me to name where I give sunshine, so it's impossible to surprise myself, but I will still try to name unsung heros.
 
 adequate sleep
 driving experience review
-tech dram refresh
+tech Dram refresh
 flexibility
 exp recon
 career longevity + healthy longevity
@@ -57,14 +52,9 @@ When Jess Lin echoed and rephrased me "your forte in shoulder flexibility", she 
 Still, I felt a slight discomfort and corrected her "not so good at shoulder".
 
 My habit works fine in online chat, but it is too inefficient in SMS and unnecessary in verbal conversations like this.
--- new: NYTimes online access
-If you hit an barrier page "You have used up your quota of free articles", then you can try
-* log out and become unregistered reader
-* use another browser
-* perhaps log in using another email address
 
--- new but no memorable title
-simplify your life
+-- new: simplify your life
+t_vague
 The choices, and temptations in modern life increases distraction and risk of missteps. Therefore, steadfast focus on protecting... really benefits from simplification.
 
 Prioritization also benefits from simplification
@@ -77,7 +67,6 @@ thick->thin is one feature of simplification esp. in theoretical learning.
 .. career planning .. focus on dev-till-70. Not so simple but I have managed to simplify a bit.
 .. eq investing .. simply focus on current income
 .. smartphone addiction .. base camp is a simple concept.
-
 
 --fuxi: i feel not doing well on a few fronts
 work proj, localSys esp. fuxi

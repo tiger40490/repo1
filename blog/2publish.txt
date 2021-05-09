@@ -32,6 +32,18 @@ bandwidth/speed favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. In contrast, Microwave oven did hit me 95% of the time.
 
+-- new English:
+carless, car-free, 
+
+-- New English: Don't get me started about ...
+I do not feel that the convenience of owning a car compensated for all of the other inconveniences it provided like parking and having to maneuver it in bad weather. I live on a hill. Don’t get me started about trying to get up and down the hill in the winter.
+
+-- new: NYTimes online access
+If you hit an barrier page "You have used up your quota of free articles", then you can try
+* log out and become unregistered reader
+* use another browser
+* perhaps log in using another email address
+
 -- new: midlife crisis #RoyalSociety
 "Now in my 40s I have not achieved much (i.e. my targets)" is a rude awakening for many middle-aged men.
 
