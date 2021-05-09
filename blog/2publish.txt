@@ -25,6 +25,9 @@ Not P1 AND Not P2 means (Not P1) and (Not P2), with or without the parentheses.
 
 Same in any language.
 
+--update blogpost on "do you prefer your friends to earn more"
+Some of my friends can help me get jobs in the future.
+
 --new: 5GHz ^ 2.4GHz wifi
 Range favors lower frequency. Bigger homes may need it.
 
