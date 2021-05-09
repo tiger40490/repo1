@@ -1,6 +1,9 @@
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
+--update blogpost on athletes
+atheletes often have stronger heart, lung and bones, and better flexibility, able to withstand a(nd recover from) wear and tear.
+
 -- new: grown-up child
 "Child" has two distinct meanins 1) underaged 2) son/daughter OF something
 
@@ -51,3 +54,21 @@ As I told grandpa, we tend to notice that among the "visible success stories", t
 * many of these "visible success" individuals would fall out of the leading pack later in life
 
 I think rather few professional men have wellness, stable/resilient marriage as a top 3 target... wrong priority.
+
+-- update blogpost on food + transport = bulk of retirement burn rate
+Roaming retirement in cheaper cities would reduce my food + transport 
+
+-- new: USD 100k warchest for rental relief
+t_jolt
+
+This amount means a lot to rental home comfort [size..]. $1k/M additional rental will exhaust this amount in 8 years !
+This amount is insignificant for branded colleges .. not worthwhile
+This amount is insignificant for a SDXQ home .. not worthwhile
+This amount is easy to squirrel away, esp. in SG
+To relieve work stress, I can realistic consider giving up $30k/Y salary over 10Y. USD 300k lost_pretax_income is no big deal. (After-tax, it would become a 200 lost income.)
+This amount as a target bonus, is brutal and unforgiving. I won't accept such a target. I will reject such a target.
+
+--update melvin3
+car cost
+
+https://www.businessinsider.com/living-without-a-car-2018-9#1-saving-money-1 says $15k/Y in the Bay Area.
