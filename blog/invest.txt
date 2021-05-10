@@ -1,6 +1,9 @@
 --fuxi:
 Reit management fee is higher than ETF, but not always disclosed.
 
+--update blogpost on carfree #Shou
+When my Indian colleagues moved from NY/NJ to SLC, many decided to take up driving. That implies that these guys didn't need to drive for all those years in NJ/NY.
+
 -- new: 5m cycling from home to rail station
 To improve my commute flexibility, am willing to accept a 5m cycling trip from home to the rail station.
 
