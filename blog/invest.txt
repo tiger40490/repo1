@@ -1,5 +1,4 @@
 
-
 -- new: USD 100k warchest for rental relief
 t_jolt
 
@@ -9,13 +8,6 @@ This amount is insignificant for a SDXQ home .. not worthwhile
 This amount is easy to squirrel away, esp. in SG
 To relieve work stress, I can realistic consider giving up $30k/Y salary over 10Y. USD 300k lost_pretax_income is no big deal. (After-tax, it would become a 200 lost income.)
 This amount as a target bonus, is brutal and unforgiving. I won't accept such a target. I will reject such a target.
-
--- update blogpost on sitting in my driveway..
-I feel the same about my foot massager, my back massager. The more you spend in terms of money and time, the heavier this pressure.
-
-prolonged disuse can cause slow damage to some mechanical parts. 
-
-Also, some spares parts may become hard to replace when they reach end of life defined by the manufacturer.
 
 -- new: 5m cycling from home to rail station
 To improve my commute flexibility, am willing to accept a 5m cycling trip from home to the rail station.
