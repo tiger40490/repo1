@@ -4,17 +4,9 @@ shortRef=$(git rev-parse --short $origRef)
 --update blogpost on athletes
 atheletes often have stronger heart, lung and bones, and better flexibility, able to withstand a(nd recover from) wear and tear.
 
--- new: grown-up child
-"Child" has two distinct meanins 1) underaged 2) son/daughter OF something
-
-What if you want to refer to 2) exactly?
-
-In conversations, you need OF/my/our/ etc to eliminate 1). If the context doesn't offer that opportunity, then you need to say "grown-up child" or "adult child"
-
-"kids" .. no good
-"offspring" .. no good
-
 -- update blogpost on English advantage: 
+English writing is required for any appeal.
+
 add this link: 
 https://btv-open.dreamhosters.com/wp-admin/post.php?post=22425&action=edit
 -- fuxi: precedence: NOT > AND > OR
@@ -37,6 +29,16 @@ Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of 
 
 -- new English:
 carless, car-free, 
+
+-- new: grown-up child
+"Child" has two distinct meanins 1) underaged 2) son/daughter OF something
+
+What if you want to refer to 2) exactly?
+
+In conversations, you need OF/my/our/ etc to eliminate 1). If the context doesn't offer that opportunity, then you need to say "grown-up child" or "adult child"
+
+"kids" .. no good
+"offspring" .. no good
 
 -- New English: Don't get me started about ...
 I do not feel that the convenience of owning a car compensated for all of the other inconveniences it provided like parking and having to maneuver it in bad weather. I live on a hill. Don’t get me started about trying to get up and down the hill in the winter.
