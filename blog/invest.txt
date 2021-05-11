@@ -22,7 +22,7 @@ Because these desires are based mostly on emotion, they can become irrational. C
 Consider investing $500 into 25 growth stocks. To support firewall and buy-n-forget, I would need to limit each position to below $20.
 Beware of the risk of temptation like tasty foods.
 
--- new HY stock^bonds
+-- fuxi: HY stock^bonds
 I now feel 4% DYOC stocks beat 6% high-yield bonds.
 
 Granted the bonds guarantee the payment rate but look at credit quality, reliability and appreciation.
@@ -34,24 +34,7 @@ if a bond is relatively safe with, eg 4% coupon rate, then I would say a 3% DYOC
 In all cases, the stock has chance of appreciation/depreciation.
 
 A 4% CDY aristocrat beats most of the bonds out there.
-
---update https://tanbinvest.dreamhosters.com/2021/02/08/ez-to-hit-quick-profit-ez-to-lose/
-MOETF return is likely lower than Buffett, which is likely no better than sp500
-Do I envy those with higher annual returns? Typically we are seeing BTC or growth stock investors.
-
-buffett: better risk-adjusted return than sp500
-
--- update: I guess ETFs mostly invest in popular stocks. 
-The steady increase in ETF participation probably leads to more concentration more gravitation to the big index-component stocks. 
-As ETFs become increasingly popular vis-a-vis stock-picking, the popular stocks probably receive even more mindshare and volume than before. 
-These hot stocks probably become more volatile due to retail hot money.
-
--- update ?
-volatility in MOETF can add to stressor profile
-Re the stressor profiles
-
-Once a few months I hit an all-at-once situation 
-    
+   
 -- fuxi: Now is the 2nd or 3rd period of "active research"
 t_xxAsRecreation
 Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
@@ -60,15 +43,6 @@ Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not a
 Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
 
 Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
-
---update 
-utility stocks including T:US need to pay high CDY as they are seen as low growth, which dampens investor demand
-
-VZ is seen as higher growth
-
--- Update https://tanbinvest.dreamhosters.com/2021/01/20/div-stock-beat-all-income-funds/
-a payout of 70–80% of FFO is the industry average, regardless of taxable income.
-
 
 -- fuxi or new: %% favorate assets=seldom very-mainstream
 I shun SG condos. I favor SEA emerging market rEstate.
