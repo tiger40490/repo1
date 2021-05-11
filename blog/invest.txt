@@ -58,11 +58,6 @@ but which post?
 
 The more "essential" commutes to office, to school, or to see family… tend to be periodic and scheduled, and… can be efficiently supported by mass transport systems like trains and buses
 
--- update: "diversity" in a neighborhood means "some concentration of my own ethnic group"
-
---fuxi:
-Reit management fee is higher than ETF, but not always disclosed.
-
 -- new: Reit as part of lease spread
 The more sunshine it gets, the faster this seed grows into a full plan.
 
@@ -81,10 +76,7 @@ benefit: legwork and emotional costs of delinquency, repairs, vacancy .. is all 
 drawback: no windfall appreciation
 drawback: NRY (net) is probably much lower than 43R
 
--- new or fuxi: boost my DYOC
-Right now, my diversification effort is not boosting aggregate DYOC
-
-Should I cut some low-yield positions and top up on some high-yield stocks?
+Reit management fee is higher than ETF, but not always disclosed. This management fee is probably comparable to your legwork in active management.
 
 -- new: SG: higher GDP, lower wage after tax
 t_paradox
@@ -93,6 +85,10 @@ SG has higher GDP-per-capita but lower after-tax salary than HK or U.S.
 In terms of economics, I think it has to do with cost of living including rental and home price. 
 
 In terms of personal experience, I feel slightly richer in Singapore than U.S. because of rental, med-bx, repairs (forecast), college cost (forecast)
+
+Overall, U.S. feels like a high-cost, moderate-tax, low-welfare country.
+
+Luckily, nutritition, bicycle, clothing, gadgets, repair tools ... are very affordable.
 
 -- fuxi:
 In recent years youtube ads show tons of Singapore trainers on investment.. all presenting investment at the center of personal fulfillment.
@@ -107,16 +103,10 @@ I think book value is also less manipulated including assets and liabilities.
 
 Profits i.e. earnings, dividends are all easier to manipulate by accountants.
 
--- fuxi 
-Overall, U.S. feels like a high-cost, moderate-tax, low-welfare country.
+-- new or fuxi: boost MOETF DYOC
+Right now, my diversification effort is not boosting aggregate DYOC
 
-Beside Melvin3, there is high repair cost. 
-
-Luckily, nutritition, bicycle, clothing, gadgets, repair tools ... are very affordable.
---update
-utility stocks including T:us need to pay high CDY as they are seen as low growth, which dampens investor demand
-
-VZ is seen as higher growth
+Should I cut some low-yield positions and top up on some high-yield stocks?
 
 -- new: stocks are always high risk high return.
 i think the stereotypical retail investors would consider stocks only for growth, not passive income. To them, a stock is either high return or nothing. They hear about dividend investors' stories, and also value-investing, but most of them decide to focus on high growth stocks.
@@ -169,6 +159,11 @@ Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV fo
 
 Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
 
+--update 
+utility stocks including T:US need to pay high CDY as they are seen as low growth, which dampens investor demand
+
+VZ is seen as higher growth
+
 -- fuxi or new: %% favorate assets=seldom very-mainstream
 I shun SG condos. I favor SEA emerging market rEstate.
 I shun growth stocks. My dividend stocks are supposed to be mainstream among retirees, but my cohort are not retirees and I don't know anyone interested in my low-growth dividend stocks.
@@ -190,6 +185,8 @@ However, this t-spend is among the most practical, fruitful and time-honored.
 I think most oridnary folks don't have my level of patience, interest, determination.
 
 Remember that burn rate is among my top 5 unique strengths, my top 3 long-term livelihood shields, my top 5 cancer-stress relieves.. The huge value come at a high tCost.
+
+-- fuxi: "diversity" in a neighborhood means "some concentration of my own ethnic group"
 
 -- jolt: correlation of psf and d2mrt is not so clear. 
 I think the count of interested buyers for each unit is very small, unlike gold.
