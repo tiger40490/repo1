@@ -1,6 +1,16 @@
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
+-- new: SG: higher GDP, lower wage after tax
+t_paradox
+SG has higher GDP-per-capita but lower after-tax salary than HK or U.S.
+
+In terms of economics, I think it has to do with cost of living including rental and home price. 
+
+In terms of personal experience, I feel slightly richer in Singapore than U.S. because of rental, med-bx, college cost (forecast),  repairs (forecasted), 
+
+Overall, U.S. feels like a high-cost, moderate-tax, low-welfare country. 
+Luckily, nutritition, bicycle, clothing, gadgets, repair tools ... are very affordable.
 --update blogpost on athletes
 atheletes often have stronger heart, lung and bones, and better flexibility, able to withstand a(nd recover from) wear and tear.
 
