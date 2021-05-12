@@ -1,3 +1,9 @@
+-- new
+The propaganda, the simplistic view favors scale-out 
+
+scale out can underperform.
+similarly, multithreaded qsort can be slower than single-threaded 
+
 -- BitMain
 Can python make use of multiple cores? python multiprocessing?
 
