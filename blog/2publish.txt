@@ -1,3 +1,6 @@
+-- new English
+jargon term A := Blabla defines A
+
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
