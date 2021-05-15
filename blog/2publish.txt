@@ -1,13 +1,13 @@
 -- new: typical return of my various portfolios #H.Y
 t_othRisk
 
-With my China real estate, return is mostly in appreciation. Annual appreciation is fluctuating. Average return is an "unknown positive".
+With my China real estate, return is mostly in appreciation. Annual appreciation is fluctuating. Average return is an unknown positive number.
 
 With my SEAsia real estate, return is mostly in renetal. Typically 3-6% net rental yield. Appreciation is hard to estimate with any confidence. I won't estimate.
 
 With my Singapore real estate, return is mostly in rental. Typically 4% net rental yield. Average annual appreciation is a small positive.
 
-With my CPF savings (Singapore's version of 401k), guaranteed non-taxable return is around 4% compound, guaranteed by the full faith of the Singapore government.
+With my CPF savings (Singapore's version of 401k), guaranteed non-taxable return is around 4% compound.
 
 With my bond funds, dividend + appreciation return (annualized, net of fees) is typically 1-3%
 
