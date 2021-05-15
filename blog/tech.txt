@@ -24,6 +24,11 @@ Is core-dump performed by a signal handler?
 
 I think my linux book has some details.
 
+-- py multiprocessing
+Py Multiprocessing is an alternative to STM parallelism. This is python's only way to make use of multiple cores.
+
+Py doesn’t support Synchronized threading, due to GIL.
+
 -- fuxi: multiprocessing.pm
 This module supports spawning processes using an API similar to the threading module. The multiprocessing package effectively side-stepping the Global Interpreter Lock by using subprocesses instead of threads. Therefore, the multiprocessing module allows the programmer to leverage multiple processors on a given machine. 
 
