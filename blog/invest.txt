@@ -11,49 +11,18 @@ Is there one middle-class aspiration that I do subscribe to?
 
 Safe, clean street? No. This is not just for middle-class
 safe, conducive school.
+--update zero sum game
+bccy and gold are zero sum games since there's no income generated
 
--- new: 5m cycling from home to rail station
-To improve my inflexibility about commute, am willing to accept up to 5m cycling trip from home to the rail station.
-This could help my wife's or kids' commutes.
+gold is natural inflation-hedge.
 
-Note my evening commute is much less stressful.
+-- update or fuxi:
+bccy is better term. digital ccy can mean airline miles or ccard reward points
 
-xp: Bayonne midtown
-
--- fuxi: boost MOETF DYOC
-Right now, my diversification effort is not boosting aggregate DYOC
-
-Should I cut some low-yield positions and top up on some high-yield stocks?
-
--- new: safe div stock: comparable to corp bonds
-I now feel 4% DYOC stocks beat 6% high-yield bonds.
-
-Granted the bonds guarantee the payment rate but look at credit quality, reliability and appreciation.
-
-if a bond has 6% coupon rate, then credit risk and dependability is questionable
-
-if a bond is relatively safe with, eg 4% coupon rate, then I would say a 3% DYOC stock would be quite possibly comparable quality.
-
-In all cases, the stock has chance of appreciation/depreciation.
-
-A 4% CDY aristocrat beats most of the bonds out there.
-   
--- fuxi: Now is the 2nd or 3rd period of "active research"
-t_xxAsRecreation
-Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
+-- new or fuxi: Why ibanks "support" bccy
+Ibank business model is facilitation for clients. Ibanks may hold an inventory of popular bccy, and may also accept service fee payment in bccy.
 
 -- fuxi:
 Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
 
 Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
-
--- update blogpost on inflation
-perhaps https://tanbinvest.dreamhosters.com/2020/08/08/inflation-discrediting-high-savings-ratebrbr/ or https://tanbinvest.dreamhosters.com/2021/02/03/dbs-seminar-on-saving4retirement/
-
-Most reputable authors from U.S., China, and other countries present inflation risk as one of the most serious risks for retirees. However, SG trec is much much better. However, my friend Tianjue disagrees...
-
--- fuxi: "diversity" in a neighborhood means "some concentration of my own ethnic group"
-
--- jolt: correlation of psf and d2mrt is not so clear. 
-I think the count of interested buyers for each unit is very small, unlike gold.
-We rarely have 2 identical units only different in terms of d2mrt, unlike commodities.

@@ -23,6 +23,36 @@ jargon term A := Blabla defines A
 -- NEW: get short git hash from any ref
 shortRef=$(git rev-parse --short $origRef)
 
+-- new: safe div stock: comparable to corp bonds
+I now feel 4% DYOC stocks beat 6% high-yield bonds.
+
+Granted the bonds guarantee the payment rate but look at credit quality, reliability and appreciation.
+
+if a bond has 6% coupon rate, then credit risk and dependability is questionable
+
+if a bond is relatively safe with, eg 4% coupon rate, then I would say a 3% DYOC stock would be quite possibly comparable quality.
+
+In all cases, the stock has chance of appreciation/depreciation.
+
+A 4% CDY aristocrat beats most of the bonds out there.
+
+-- update blogpost on inflation
+perhaps https://tanbinvest.dreamhosters.com/2020/08/08/inflation-discrediting-high-savings-ratebrbr/ or https://tanbinvest.dreamhosters.com/2021/02/03/dbs-seminar-on-saving4retirement/
+
+Most reputable authors from U.S., China, and other countries present inflation risk as one of the most serious risks for retirees. SG trec is much much better. However, my friend Tianjue disagrees...
+
+-- new jolt: correlation of psf and d2mrt is not so clear. 
+I think the count of interested buyers for each unit is very small, unlike gold.
+We rarely have 2 identical units only different in terms of d2mrt, unlike commodities.
+
+-- new: 5m cycling from home to rail station
+To improve my inflexibility about commute, am willing to accept up to 5m cycling trip from home to the rail station.
+This could help my wife's or kids' commutes.
+
+Note my evening commute is much less stressful.
+
+xp: Bayonne midtown
+
 -- new: SG: higher GDP, lower wage after tax
 t_paradox
 SG has higher GDP-per-capita but lower after-tax salary than HK or U.S.
