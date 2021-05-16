@@ -65,12 +65,6 @@ bandwidth/speed favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. In contrast, Microwave oven did hit me 95% of the time.
 
--- fuxi: NYTimes online access
-If you hit a barrier page "You have used up your quota of free articles", then you can try
-* log out and become unregistered reader
-* use another browser
-* perhaps log in using another email address
-
 -- new: midlife crisis #RoyalSociety
 "Now in my 40s I have not achieved much (i.e. my targets)" is a rude awakening for many middle-aged men.
 

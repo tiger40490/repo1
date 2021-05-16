@@ -1,3 +1,10 @@
+
+-- fuxi: NYTimes online access
+If you hit a barrier page "You have used up your quota of free articles", then you can try
+* log out and become unregistered reader
+* use another browser
+* perhaps log in using another email address
+
 -- fuxi
 philips blender jar
 Sales girl said glass is more sturdy, thicker, stronger build to withstand ice breaking.
