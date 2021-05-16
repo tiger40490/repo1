@@ -1,28 +1,3 @@
--- new: typical return of my various portfolios #H.Y
-t_othRisk
-
-With my China real estate, return is mostly in appreciation. Annual appreciation is fluctuating. Average return is an unknown positive number.
-
-With my SEAsia real estate, return is mostly in renetal. Typically 3-6% net rental yield. Appreciation is hard to estimate with any confidence. I won't estimate.
-
-With my Singapore real estate, return is mostly in rental. Typically 4% net rental yield. Average annual appreciation is a small positive.
-
-With my CPF savings (Singapore's version of 401k), guaranteed non-taxable return is around 4% compound.
-
-With my bond funds, dividend + appreciation return (annualized, net of fees) is typically 1-3%
-
-With my small but growing equity portfolio, usually there's no management fee. Return is a mix of dividend and appreciation. Probably 4-8% pre-tax. I can refine my estimate, but it would take too much analysis. 
-
-With my tiny portfolio of private equities, there's no appreciation. Return is strictly in coupons, but I have hit some capital losses. Overall return is around zero.
-
-It's invalid and misleading to compare with a hot asset portfolio (cryptos or growth stocks), for various reasons.
-
--- new English
-jargon term A := Blabla defines A
-
--- NEW: get short git hash from any ref
-shortRef=$(git rev-parse --short $origRef)
-
 -- new: safe div stock: comparable to corp bonds
 I now feel 4% DYOC stocks beat 6% high-yield bonds.
 
@@ -63,6 +38,7 @@ In terms of personal experience, I feel slightly richer in Singapore than U.S. b
 
 Overall, U.S. feels like a high-cost, moderate-tax, low-welfare country. 
 Luckily, nutritition, bicycle, clothing, gadgets, repair tools ... are very affordable.
+
 --update blogpost on athletes
 atheletes often have stronger heart, lung and bones, and better flexibility, able to withstand a(nd recover from) wear and tear.
 
@@ -89,8 +65,8 @@ bandwidth/speed favors higher frequency. Video streaming.
 
 Overcrowding in 2.4 can cause intermittent connectivity issues, but is it 5% of the time or 0.05% of the time? Not sure. In contrast, Microwave oven did hit me 95% of the time.
 
--- new: NYTimes online access
-If you hit an barrier page "You have used up your quota of free articles", then you can try
+-- fuxi: NYTimes online access
+If you hit a barrier page "You have used up your quota of free articles", then you can try
 * log out and become unregistered reader
 * use another browser
 * perhaps log in using another email address
