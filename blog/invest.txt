@@ -1,5 +1,5 @@
 -- new: which aspiration is not LG2
-So far, all the blogposts on this broad topic () have named aspirations that I consider non-consequential.
+So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential.
 
 Branded college
 SDXQ
@@ -9,8 +9,9 @@ Car ownership
 
 Is there one middle-class aspiration that I do subscribe to?
 
+safe, conducive school? 
 Safe, clean street? No. This is not just for middle-class
-safe, conducive school.
+
 --update zero sum game
 bccy and gold are zero sum games since there's no income generated
 
