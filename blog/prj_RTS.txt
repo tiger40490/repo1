@@ -1,12 +1,16 @@
 The NYSE integrated feed
-As of 2017, this was the newest real time feed from the New York Stock Exchange. This brand new "integrated" feed streams every order from the matching engine, every trade, every cancel, amend, and everything else in the same sequence as the exchange matching engine sees them. This integrated feed removes the concern that a Level 2 (market depth) feed and Level 1 feed on separate connections could be received out of sync.
+As of 2017, this was the newest real time feed from the New York Stock Exchange. This brand new "integrated" feed streams every order from the matching engine, every trade, every cancel, amend, and everything else in the same sequence as the exchange matching engines process them. This integrated feed removes the widespread risk that a Level 2 (market depth) feed and Level 1 feed on separate connections could be delivered out of sync.
 
 Until recently, the exchange has always sent Level 1 feed and Level 2 feed on independent, uncoordinated channels:
-•	Level  2 feed includes all, and only, the bid and ask orders, but no trades
+•	Level 2 feed includes all, and only, the bid and ask orders, but no trades
 •	Level 1 feed includes all executions, and the top bid and top offer for each symbol, but not the second best bids or offers.
+
 At peak trading hours, these two feeds are not always sent and received exactly in sync. There can be various latencies at the exchange site, at the subscriber site or at some network nodes in between. A subscriber of both feeds could receive (on Level 1) an order execution before he even gets to see the original order on the delayed Level 2 feed. In another bad scenario, he could receive (on the delayed Level 1) a new top bid too late, long after he receives the modification of that top bid. All of these and other scenarios have cause real confusions in the downstream systems in the past.
+
 (There are hundreds of downstream systems for the feed handler Bin Tan is working on.)
+
 The integrated feed is the most effective solution to the out-of-sync scenario, but it does require a technology upgrade. To cope with the high data volume and data speed, NYSE provides identical data feeds for failover, each having 8 subsets of the symbol universe. Therefore, at least 16 streams of data could be processed in parallel at any time. Maximum throughput is at least 370,000 messages per second per thread. This level of throughput requires advanced latency and memory management.
+
 Bin Tan’s feed handler also generates symbol data for a downstream dedicated reference data system, which supports exchange symbol mapping on every ticker, and reference data intra-day updates, such as dividends/splits, corporate actions and new symbols due to IPO.
 The feed handler also supports exchange daily opening and closing auction "imbalance" data. The feed handler must anticipate the timing of market open, market close, auction open and auction closing phase (a few minutes before market open/close), symbol update starting, end of symbol update etc. It has to disconnect from exchange at the right time, to avoid picking up exchange test data sent in the afterhours. A dedicated timer and scheduled jobs are used to control the timing.
 
