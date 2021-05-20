@@ -1,6 +1,17 @@
 -- update blogpost on fine print
 no-arg ctor call be the entry point of 99% of the logic. It looks trivial
 
+-- new: string pbref^pbclone
+In java and c#, string objects are always passed by reference. 
+
+An extreme example is useful like a huge string object with 999 trillion characters. In java and c# this object is passed around without cloning the content. A cloning process takes hours at least.
+
+In C, a cStr is an array, either on heap or elsewhere. It is often passed by pointer (pbref). Pbclone is common when the length is small. In C, string length is usually known in advance. 
+
+In C++, std::string is often pbclone but it can be pbref. Overall, Passing std::string is more complicated than the other languages. 
+
+Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that length to be a compile-time constant, to support sizeof()
+
 -- new
 The propaganda, the simplistic view favors scale-out. 
 
