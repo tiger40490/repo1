@@ -1,8 +1,3 @@
--- update ..
-A few ways to inline a virtual function
-[[more effC++]] P118 points out that calling a virtual function through a nonref would bypass late binding and can be inlined.
-ARM shows ptr->B::vfunc1() can be inlined.
-
 -- update blogpost on fine print
 no-arg ctor call be the entry point of 99% of the logic. It looks trivial
 
