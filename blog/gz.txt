@@ -1,3 +1,14 @@
+-- new?
+Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder.
+
+I felt slightly ashamed.
+
+German also said "it's hard to find a tech lead or app owner".
+
+However, now I'm mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
+
+The risks of old-timer is easily underestimated.
+
 -- new: memory leak: paper tiger
 t_opaque
 mem leak was presented as more elusive than NPE
