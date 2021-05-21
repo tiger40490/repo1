@@ -1,3 +1,6 @@
+-- new Eng: avoid^aim-to-avoid
+the scheme should avoid ... # sounds like eliminate
+
 --update blogpost on athletes
 atheletes often have stronger heart, lung and bones, and better flexibility, able to withstand a(nd recover from) wear and tear.
 
