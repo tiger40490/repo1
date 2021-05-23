@@ -20,13 +20,16 @@ Safe, clean street? No. This is not just for middle-class
 --update zero sum game
 bccy and gold are zero sum games since there's no income generated
 
-gold is natural inflation-hedge.
+gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is probably better than a zero-sum game. 
 
 -- update or fuxi:
 bccy is better term. digital ccy can mean airline miles or ccard reward points
 
 -- new or fuxi: Why ibanks "support" bccy
-Ibank business model is facilitation for clients. Ibanks may hold an inventory of popular bccy, and may also accept service fee payment in bccy.
+Ibank business model is client facilitation. 
+Ibanks may hold an inventory of popular bccy, and may also accept service fee payment in bccy. In such a scenario, the ibank would trade bccy for its own position, even though the claim to trade bccy only for hedging. 
+
+In other words, ibanks are dealers rather than pure-play brokers.
 
 -- fuxi:
 Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
