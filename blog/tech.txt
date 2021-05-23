@@ -1,3 +1,6 @@
+-- update eviction.py
+instead of FILLED, we can delete the key/value pair.  This is clearer, but would not be O(1) space.
+
 -- update blogpost on fine print
 no-arg ctor call be the entry point of 99% of the logic. It looks trivial
 
