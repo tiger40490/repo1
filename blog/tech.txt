@@ -1,6 +1,8 @@
 -- update eviction.py
 instead of FILLED, we can delete the key/value pair.  This is clearer, but would not be O(1) space.
 
+I should convert the dict back to array, and have a single continuous fwd scan, to replace the outer while loop
+
 -- update blogpost on fine print
 no-arg ctor call be the entry point of 99% of the logic. It looks trivial
 
