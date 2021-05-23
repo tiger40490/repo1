@@ -1,3 +1,8 @@
+--new: index investing relies on the index admin as stock pickers
+I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
+
+The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
+
 -- new: which aspiration is not LG2
 So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential.
 
