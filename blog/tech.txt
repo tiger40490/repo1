@@ -30,19 +30,21 @@ The problem with a pointer field is ... a can of worm. Whoever reading the code 
 
 The iterator solution can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit
 
--- new: string pbref^pbclone
+-- new: string pbref^pbclone: cpp++
 In java and c#, string objects are always passed by reference. 
 
-An extreme example is useful like a huge string object with 999 trillion characters. In java and c# this object is passed around without cloning the content. A cloning process takes hours at least.
+An extreme example is instructional ... like a huge string object with 999 trillion characters. In java and c# this object is passed around without cloning the content. A cloning process takes forever.
 
 In C, a cStr is an array, either on heap or elsewhere. It is often passed by pointer (pbref). Pbclone is common when the length is small. In C, string length is usually known in advance. 
 
 In C++, std::string is often pbclone but it can be pbref. Overall, Passing std::string is more complicated than the other languages. 
 
-Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that length to be a compile-time constant, to support sizeof()
+Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that length to be a compile-time constant, to support sizeof(). I think this design is industrial strength. It is based on a widespread "KnowYourData" principle... the string lengths should be fairly consistent and the max length known in advance.
 
--- update blogpost on fine print
-no-arg ctor call can be the entry point of 99% of the logic. It looks trivial
+An alternative design would use a std::string field. This is feasible, but not popular. There are many subtle complexities
+* copying would clone the string
+* dtor would destroy the string along with the char-array on heap
+* someone will try to get the address of this string field and pass it around. No such complexity exists in the earlier design.
 
 -- new
 The propaganda, the simplistic view favors scale-out. 
