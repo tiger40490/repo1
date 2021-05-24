@@ -46,8 +46,6 @@ An alternative design would use a std::string field. This is feasible, but not p
 * dtor would destroy the string along with the char-array on heap
 * someone will try to get the address of this string field and pass it around. No such complexity exists in the earlier design.
 
-
-
 -- BitMain
 Can python make use of multiple cores? python multiprocessing?
 
@@ -60,14 +58,6 @@ seg fault is an immediate response or async, based on signals?
 Is core-dump performed by a signal handler?
 
 I think my linux book has some details.
-
--- py multiprocessing
-Py Multiprocessing is an alternative to STM parallelism. This is python's only way to make use of multiple cores.
-
-Py doesn’t support Synchronized threading, due to GIL.
-
--- fuxi: multiprocessing.pm
-This module supports spawning processes using an API similar to the threading module. The multiprocessing package effectively side-stepping the Global Interpreter Lock by using subprocesses instead of threads. Therefore, the multiprocessing module allows the programmer to leverage multiple processors on a given machine. 
 
 -- new: c++ excp!=as useful as in newer languages
 java errors are almost always wrapped in exceptions. 
@@ -82,22 +72,6 @@ C doesn't support exceptions.
 Exceptions are a high-level langage feature. 
 Low-level langages like C use error code.
 
--- new: GPGPU: learning notes
-A GPU is a programmable processor on which thousands of specialized cores (thread count is 10x higher) run simultaneously in massive parallelism. Although GPUs usually operate at much lower clock speeds than CPUs, a GPU has a massive amount of cores that help with multitasking.
-
-Designed to work with programming languages such as C/C++, CUDA is an accessible platform, requiring no advanced skills.
-
-CUDA accelerates many applications, including numerical analytics, scentific computing, and deep learning, encryption, . 
-
-A "stream" is a set of records that require similar computation. Streams provide data parallelism. A "Kernel" is a function applied to each element in the stream. In the GPUs, vertices and fragments are the elements in streams and vertex and fragment shaders are the kernels to be run on them. 
-
-Ideal GPGPU applications have large data sets, high parallelism, and minimal dependency between data elements.
-
-GPU computing refers to Graphics Processing tasks, using graphics jargons; GPGPU refers to non-graphic computing.
-
-Energy efficiency -- GPUs perform much more work for every unit of energy than CPUs. That makes them key to supercomputers that would otherwise push past the limits of today’s electrical grids.
-
-x% of the blockchain mining computations can use gpgpu, but the other (100-x)% can only run on CPU.
 
 -- new:
 The words "digital currenc, virtual currency" can be unrelated to blockchain. For example, frequent flier miles, or ccard reward points can be transferred or traded. They can become virtual currencies.
