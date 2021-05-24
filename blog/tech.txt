@@ -46,18 +46,7 @@ An alternative design would use a std::string field. This is feasible, but not p
 * dtor would destroy the string along with the char-array on heap
 * someone will try to get the address of this string field and pass it around. No such complexity exists in the earlier design.
 
--- new
-The propaganda, the simplistic view favors scale-out. 
 
-scale out can underperform.
-similarly, multithreaded qsort can be slower than single-threaded 
-
-The paper on COST (Configuration that Outperforms a Single Thread) asserts that 
-The unoptimized implementation "scales" far better, despite (or rather, because of) its inferior performance. 
-
-The COST of a given platform for a given problem is the count of cpu cores required before the platform outperforms an optimized single-threaded implementation.
-
-The COST can be hundreds of cores. A given scale-out platform may require that many cores to beat a single-threaded implmenetation. If you grow an army of shrimps against a whale in a tug-of-war, you need an army of millions.
 
 -- BitMain
 Can python make use of multiple cores? python multiprocessing?
