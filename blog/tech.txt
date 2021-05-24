@@ -30,9 +30,6 @@ The problem with a pointer field is ... a can of worm. Whoever reading the code 
 
 The iterator solution can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit
 
--- update blogpost on fine print
-no-arg ctor call can be the entry point of 99% of the logic. It looks trivial
-
 -- new: string pbref^pbclone
 In java and c#, string objects are always passed by reference. 
 
@@ -43,6 +40,9 @@ In C, a cStr is an array, either on heap or elsewhere. It is often passed by poi
 In C++, std::string is often pbclone but it can be pbref. Overall, Passing std::string is more complicated than the other languages. 
 
 Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that length to be a compile-time constant, to support sizeof()
+
+-- update blogpost on fine print
+no-arg ctor call can be the entry point of 99% of the logic. It looks trivial
 
 -- new
 The propaganda, the simplistic view favors scale-out. 
