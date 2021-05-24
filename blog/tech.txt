@@ -59,27 +59,7 @@ Is core-dump performed by a signal handler?
 
 I think my linux book has some details.
 
--- new: c++ excp!=as useful as in newer languages
-java errors are almost always wrapped in exceptions. 
-C++ has a tradition of UDB and USB. low level errors are often left to the hardware or the OS. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=954&action=edit
-exceptions create programming pitfalls in dtor, swap etc
-exception passing is trick and a major source of bug
-exceptions affect efficiency and performance (the very j4 C/C++) and is often disabled in gcc, or avoided. Therefore, when it comes to exceptions, Ironically the most useful language feature is 'noexcept'.
-Standard library uses very few exceptions.
-
-.. C integration .. Many real world projects have substantial codebase in C, and often adopt C programming traditions.
-C doesn't support exceptions. 
-Exceptions are a high-level langage feature. 
-Low-level langages like C use error code.
-
-
--- new:
-The words "digital currenc, virtual currency" can be unrelated to blockchain. For example, frequent flier miles, or ccard reward points can be transferred or traded. They can become virtual currencies.
-
 -- new: unix domain sockets vs sockets to localhost
-
--- new or update blogpost on IPC
-one process can send a signal to another process. This is a simple yet well-supported, proven IPC mechanism.
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
