@@ -10,20 +10,23 @@ So the memory layout is similar to vector{vector} !
 
 Let's assume a capacity of 90 in a 64-bit machine.
 
-Does the vector hold pointers to string? No. An array of 90 pointers require 720 bytes, but an array of 90 strings take xxxxxxx bytes.
+Does the vector hold pointers to string? No. An array of 90 pointers require 720 bytes, but an array of 90 strings take 32*90 bytes.
 
-So the memory layout is an array of 90 "shells". Each shell holds a pointer to a char-array on heap.
+So the memory layout is an dynamic array of 90 "shells". Each shell holds a pointer to a char-array on heap.
 
 [1] or malloc]
 
--- new: wrapper struct over container payload
-Do you want to hold pointers to the payload?
+-- new: wrapper struct over container elements
+Sometimes I need to construct a wrapper instance holding some kind of readonly reference to an element in a container.
+
+Do you want to hold raw pointers to the element?
+Do you want to hold smart pointer? No!
 Do you want to hold subscript into the container?
 Do you want to hold iterators into the container?
 
-If subscript is stable, then I think this is the cleanest design. This is the case for array-like containres without deletions.
+If subscript is stable, then I think it is the cleanest design. This would be the case for array-like containres without deletion or reallocation.
 
-The problem with a wrapper struct having a pointer field is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation.
+The problem with a pointer field is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation...
 
 The iterator solution can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit
 
