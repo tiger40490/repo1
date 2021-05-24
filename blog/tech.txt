@@ -1,6 +1,32 @@
 -- update eviction.py
 I should convert the dict back to array, and have a single continuous fwd scan, to replace the outer while loop
 
+-- new: memory layout: vector{string}
+observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
+
+observation: the string's char-array can grow (unlike String.java), so this array must be allocated via array-new.
+
+So the memory layout is similar to vector{vector} !
+
+Let's assume a capacity of 90 in a 64-bit machine.
+
+Does the vector hold pointers to string? No. An array of 90 pointers require 720 bytes, but an array of 90 strings take xxxxxxx bytes.
+
+So the memory layout is an array of 90 "shells". Each shell holds a pointer to a char-array on heap.
+
+[1] or malloc]
+
+-- new: wrapper struct over container payload
+Do you want to hold pointers to the payload?
+Do you want to hold subscript into the container?
+Do you want to hold iterators into the container?
+
+If subscript is stable, then I think this is the cleanest design. This is the case for array-like containres without deletions.
+
+The problem with a wrapper struct having a pointer field is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation.
+
+The iterator solution can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit
+
 -- update blogpost on fine print
 no-arg ctor call can be the entry point of 99% of the logic. It looks trivial
 
