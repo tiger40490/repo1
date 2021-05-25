@@ -65,7 +65,7 @@ Signal is always asynch, never immediate, though the scheduler may preempt whate
 
 One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
 
--- research: unix domain sockets vs sockets to localhost
+-- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
