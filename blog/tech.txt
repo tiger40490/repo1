@@ -1,6 +1,17 @@
 -- update eviction.py
 I should convert the dict back to array, and have a single continuous fwd scan, to replace the outer while loop
 
+-- new: multiset, multimap
+In multimap, one key maps to a bag of payloads. The payloads can be duplicates, same as in "anyMap" containers.
+
+I think a reasonable implementation is {keyObject -> list of payloads}
+
+In multiset, multiple distinct elements can appear equivalent. They could differ by non-essential attributes like creationTime. 
+
+Some people assume multiset can be represented as {keyObject -> count}, but such a container can't contain two equivalent-yet-distinct keyObjects.
+
+I think a reasonable implementation is treeSet{list{payloads}}.
+
 -- new: memory layout: vector{string}
 observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
 
@@ -14,7 +25,7 @@ Does the vector hold pointers to string? No. An array of 90 pointers require 720
 
 So the memory layout is an dynamic array of 90 "shells". Each shell holds a pointer to a char-array on heap.
 
-[1] or malloc]
+[1] or malloc
 
 -- new: wrapper struct over container elements
 Sometimes I need to construct a wrapper instance holding some kind of readonly reference to an element in a container.
@@ -47,19 +58,15 @@ An alternative design would use a std::string field. This is feasible, but not p
 * someone will try to get the address of this string field and pass it around. No such complexity exists in the earlier design.
 
 -- BitMain
-Can python make use of multiple cores? python multiprocessing?
-
 Q: in your java project, is memory an issue?
 
-You can read up Filecoin and IPFS
-
--- new: 
+-- research:
 seg fault is an immediate response or async, based on signals?
 Is core-dump performed by a signal handler?
 
 I think my linux book has some details.
 
--- new: unix domain sockets vs sockets to localhost
+-- research: unix domain sockets vs sockets to localhost
 
 -- fuxi: uniqPtr MktVal imt sharedPtr
 .. due to move-semantics, which is a hot favorite IV QQ topic
@@ -74,7 +81,7 @@ Most signals are self-sent from the same process. I think timer alarm is one. So
 
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
 
---new: malloc != syscall
+--research: malloc != syscall
 is malloc a kernel service, syscall or a userland function offered in a regular library?
 
 Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
