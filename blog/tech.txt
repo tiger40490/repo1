@@ -80,16 +80,6 @@ Most signals are self-sent from the same process. I think timer alarm is one. So
 
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
 
---research: malloc != syscall
-is malloc a kernel service, syscall or a userland function offered in a regular library?
-
-Can I implement my own DAM without involving the kernel? I would say some kernel sys call is needed.
-
-Is there a cpu instruction for heap allocation? Does cpu care about heap vs stack? Yes the CPU cares about the stack. There are dedicated stack-registers in the CPU
-whilst the stack space is managed via the CPU, the heap is not managed automatically. The size of the heap can also be considerably larger than the stack and the allocation of memory must be performed manually within a program. Memory also has to be freed manually, again unlike the stack.
-
-Can check my linux book or google on brk()
-
 -- fuxi: set in python
 set is the least used builtin container. I seldom use it, becasue dictionary is always richer.
 ( Similarly, list is always richer than tuple, except when used as dict keys. )
