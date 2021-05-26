@@ -1,3 +1,8 @@
+--fuxi:
+With git blogging, I often switch between two windows -- the gitBash and the MSWE.
+
+If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
+
 --fuxi or new: G9 SMS to break away from mainstream brainwash
 t_breakaway
 * My wife always feels I look too thin for my health and appearance. I remind myself "I trust my BMI analysis -- Based on years of self-monitoring, My BMI goal is well-founded. Many in my cohort would probably get better healthy longevity if they adopt similar BIM goals."
