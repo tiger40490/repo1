@@ -1,3 +1,6 @@
+-- new or fuxi or update ...
+Canada is an attractive emigration destination due to healthcare. However, the Singapore integrated shield basically provides a comparable healthcare. 
+
 --new: index investing relies on the index admin as stock pickers
 I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
 
@@ -17,18 +20,10 @@ Is there one middle-class aspiration that I do subscribe to?
 safe, conducive school? 
 Safe, clean street? No. This is not just for middle-class
 
---update zero sum game
-bccy and gold are zero sum games since there's no income generated
-
-gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is probably better than a zero-sum game. 
-
 -- new or fuxi: Why ibanks "support" bccy
-Ibank business model is client facilitation. 
+Ibank's advertized business model is client facilitation. 
 Ibanks may hold an inventory of popular bccy, and may also accept service fee payment in bccy. In such a scenario, the ibank would trade bccy for its own position, even though the claim to trade bccy only for hedging. 
 
 In other words, ibanks are dealers rather than pure-play brokers.
 
--- fuxi:
-Canadian stocks are not the only ones with withholding tax. Year-end 1099-DIV form has the most reliable data
-
-Luckily, some (or all) the withholding taxes are recoverable if you file a US tax return.
+Prop trading is a secret business model of ibanks.
