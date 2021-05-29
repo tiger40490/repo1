@@ -1,12 +1,21 @@
--- new: 1D sofa passive resistance
+-- new: .5-1D sofa passive resistance
 on 29 May, mom was mopping the floor and need to move a sofa. Boy was sitting on it and refused to stand up. Dad politely asked and offered to help pull him up, but boy slapped on the helping hand. Mom then gave him 3 seconds to stand up but boy refused to stand up.
 
 -- new: .5-1D wast`time go`2ff2retrieve iPhone8@17May
 I don't know what boy did during the 30min sitting outside the glass door.
 
-If boy didn't do anything as promised, then this is a waste of dad's time and will be punishable.
+If boy didn't do anything as promised, then this is a waste of dad's time and company staff's time, a punishable offense.
 
--- new: archive/hide threads on wechat/whatsapp
+-- new: 
+For kids and also adults, when we act aggressively, we need to bear in mind the different aggressive actions.
+
+Worst category is physical (and verbal) aggression, including a small push. In Chinese schools, teachers often ask "who was the first kid to hit the other side?"
+
+Similar to physical aggression, if a kid is angry against someone, the kid can refuse to help that someone. Depending on the context, a helping hand is often considered basic courtesy, so a refusal to help is clearly personal and a passive aggression.
+
+Smashing and angry yelling are not in that category. These are displays of indignation, protest. These can also cross a line in the sand and become aggression, but we usually can see the transition. I feel most of the time, smashing and yelling are not aggressive.  I'm not condoing these actions, but it's important to notice the level damage -- Smashing something expensive is still less damaging than a push or various forms of verbal aggressions.
+
+-- fuxi or new: archive/hide threads on wechat/whatsapp
 The list of wechat contacts, the list of linkedin contacts are filled with people I seldom NEED to contact. I dare not delete them because I have no other way to recover their contacts!
 
 The high cost -- With wechat (linkedin much better), these people receive too much sunshine simply because they appear on this wechat list. 
@@ -19,15 +28,10 @@ The wechat/whatsapp/linkedin lifestyle is for people whose personal time and pri
 
 I do have a need to connect with a small circle of "friends and family". I much prefer 1) meet-up 2) email. Phone call is a distant third choice. Chat is the worst choice for me.
 
--- new or update private: WuPeng struck me as a very shrewed, calculating 
+-- new or update .. private: WuPeng struck me as a very shrewed, calculating 
 Buy Hey, I don't need more money, more brank, more recognition, more status, more clout, more power.
 
 His son lives in a broken family.
-
---fuxi:
-With git blogging, I often switch between two windows -- the gitBash and the MSWE.
-
-If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
 
 --fuxi or new: G9 SMS to break away from mainstream brainwash
 t_breakaway
@@ -42,8 +46,8 @@ Most of the other SMS messages are related to middle-class aspirations
 * career longevity is more important than salary; healthy longevity is more important than financial security
 
 -- update blogpost https://btv-open.dreamhosters.com/wp-admin/post.php?post=39578&action=edit
-This guy has 6 properties
-This guy has 5+ workouts a week and runs marathons, has good BMI, sleep and appetite, without any health condition.
+This middle-aged professional has 6 properties
+This middle-aged professional has 5+ workouts a week and runs marathons, has good BMI, sleep and appetite, without any health condition.
 
 Who do we envy more and why?
 
@@ -51,15 +55,6 @@ Who do we envy more and why?
 my kids' overusage of toilet roll is a minor waste compared to
 * electricity/water waste
 * printing overusage
-
--- new: 
-For kids and also adults, when we act aggressively, we need to bear in mind the different aggressive actions.
-
-Worst category is physical (and verbal) aggression, including a small push. In Chinese schools, teachers often ask "who was the first kid to touch the other side?"
-
-Similar to physical aggression, if a kid is angry against someone, the kid can refuse to help that someone. Depending on the context, a helping hand is often considered basic courtesy, so a refusal to help is clearly personal and a passive aggression.
-
-Smashing and angry yelling are not in that category. These are displays of indignation, protest. These can also cross a line in the sand and become aggression, but we usually can see the transition. I feel most of the time, smashing and yelling are not aggressive.  I'm not condoing these actions, but it's important to notice the level damage -- Smashing something expensive is still less damaging than a push or various forms of verbal aggressions.
 
 -- fuxi: dentist tips:
 more flossing please
