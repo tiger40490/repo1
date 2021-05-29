@@ -1,6 +1,3 @@
--- update eviction.py
-I should convert the dict back to array, and have a single continuous fwd scan, to replace the outer while loop
-
 -- new: multiset, multimap
 In multimap, one key maps to a bag of payloads. The payloads can be duplicates, same as in "anyMap" containers.
 
