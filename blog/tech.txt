@@ -14,7 +14,7 @@ I think a reasonable implementation is treeSet{list{payloads}}.
 
 -- new: whenever you notice "private" keyword, think of "friend". Private/friend are an inseparable pair of keywords.
 
-Similarly, every time you see "cosnt", think of const/mutable pair.
+Similarly, every time you see "cosnt", think of const/mutable pair. Inside classes, private is more useful than const.
 -- new: memory layout: vector{string}
 observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
 
