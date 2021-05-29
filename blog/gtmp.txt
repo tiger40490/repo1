@@ -6,6 +6,13 @@ I don't know what boy did during the 30min sitting outside the glass door.
 
 If boy didn't do anything as promised, then this is a waste of dad's time and company staff's time, a punishable offense.
 
+--new:
+With git blogging, I often switch between two windows -- the gitBash and the MSWE.
+
+If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
+
+You can also run q[start path/to/a/file] to launch the default application for that file extension.
+
 -- new: 
 For kids and also adults, when we act aggressively, we need to bear in mind the different aggressive actions.
 
