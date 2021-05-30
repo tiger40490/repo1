@@ -29,12 +29,10 @@ Ideal GPGPU applications have large data sets, high parallelism, and minimal dep
 
 GPU computing refers to Graphics Processing tasks, using graphics jargons; GPGPU refers to non-graphic computing.
 
-Energy efficiency -- GPUs perform much more work for every unit of energy than CPUs. That makes them key to supercomputers that would otherwise push past the limits of today’s electrical grids.
+Energy efficiency -- GPUs perform much more work per unit of energy than CPUs. That makes them key to supercomputers that would otherwise push past the limits of today’s power grids.
 
 x% of the blockchain mining computations can use gpgpu, but the other (100-x)% can only run on CPU.
 
-
 --update zero sum game
-bccy and gold are zero sum games by definition since there's no income generated
-
-gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is probably better than a zero-sum game. 
+bccy and gold are zero sum games by definition since there's no income generated. 
+However, gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is hopefully better than a zero-sum game, only over the long-term.
