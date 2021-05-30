@@ -16,23 +16,6 @@ The COST of a given platform for a given problem is the count of cpu cores requi
 
 The COST can be hundreds of cores. A given scale-out platform may require that many cores to beat a single-threaded implmenetation. If you grow an army of shrimps against a whale in a tug-of-war, you need an army of millions.
 
--- new: GPGPU: learning notes
-A GPU is a programmable processor on which thousands of specialized cores (thread count is 10x higher) run simultaneously in massive parallelism. Although GPUs usually operate at much lower clock speeds than CPUs, a GPU has a massive amount of cores that help with multitasking.
-
-Designed to work with programming languages such as C/C++, CUDA is an accessible platform, requiring no advanced skills.
-
-CUDA accelerates many applications, including numerical analytics, scentific computing, and deep learning, encryption, . 
-
-A "stream" is a set of records that require similar computation. Streams provide data parallelism. A "Kernel" is a function applied to each element in the stream. In the GPUs, vertices and fragments are the elements in streams and vertex and fragment shaders are the kernels to be run on them. 
-
-Ideal GPGPU applications have large data sets, high parallelism, and minimal dependency between data elements.
-
-GPU computing refers to Graphics Processing tasks, using graphics jargons; GPGPU refers to non-graphic computing.
-
-Energy efficiency -- GPUs perform much more work per unit of energy than CPUs. That makes them key to supercomputers that would otherwise push past the limits of today’s power grids.
-
-x% of the blockchain mining computations can use gpgpu, but the other (100-x)% can only run on CPU.
-
 --update zero sum game
 bccy and gold are zero sum games by definition since there's no income generated. 
 However, gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is hopefully better than a zero-sum game, only over the long-term.
