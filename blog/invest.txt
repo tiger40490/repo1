@@ -7,9 +7,6 @@ Medical cost inflation fear was driven by my own parents...
 
 Therefore, I felt perhaps $3M would be needed. Those around me who gave up on ffree were seen as _quitters_.
 
--- update blogpost on SG retirement location
-I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important
-
 -- update "ffree is a state of mind"
 What's the real difference between me and my cohort in terms of ffree ?
 
@@ -32,9 +29,6 @@ buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_E
 buy-n-forget eqMufu has exp ratio and seldom beats sp500
 
 Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
-
--- new or fuxi or update https://btv-open.dreamhosters.com/wpgi-admin/post.php?post=19515&action=edit
-Canada is an attractive emigration destination due to healthcare. However, the Singapore integrated shield basically provides a comparable healthcare. 
 
 --new: index investing relies on the index-admin as stock-picker
 I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
@@ -61,3 +55,9 @@ Ibanks may hold an inventory of popular bccy, and may also accept service fee pa
 In other words, ibanks are dealers rather than pure-play brokers.
 
 Prop trading is a secret business model of ibanks.
+
+-- new or fuxi or update https://btv-open.dreamhosters.com/wpgi-admin/post.php?post=19515&action=edit
+Canada is an attractive emigration destination due to healthcare. However, the Singapore integrated shield basically provides a comparable healthcare. 
+
+-- update blogpost on SG retirement location
+I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important
