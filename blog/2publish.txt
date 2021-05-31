@@ -1,3 +1,11 @@
+-- new or fuxi: Why ibanks "support" bccy
+Ibank's advertized business model is client facilitation. 
+Ibanks may hold an inventory of popular bccy, and may also accept service fee payment in bccy. In such a scenario, the ibank would trade bccy for its own position, even though the claim to trade bccy only for hedging. 
+
+In other words, ibanks are dealers rather than pure-play brokers.
+
+Prop trading is a secret business model of ibanks.
+
 -- new: 20 shouts: sofa passive resistance
 on 29 May, mom was mopping the floor and need to move a sofa. Boy was sitting on it and refused to stand up. Dad politely asked and offered to help pull him up, but boy slapped on dad's helping hand. Mom then gave him 3 seconds to stand up but boy refused to stand up.
 
