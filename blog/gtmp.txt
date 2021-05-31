@@ -1,12 +1,12 @@
 
---new:
+--fuxi:
 With git blogging, I often switch between two windows -- the gitBash and the MSWE.
 
 If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
 
 You can also run q[start path/to/a/file] to launch the default application for that file extension.
 
--- new: 
+-- fuxi: 
 For kids and also adults, when we act aggressively, we need to bear in mind the different aggressive actions.
 
 Worst category is physical (and verbal) aggression, including a small push. In Chinese schools, teachers often ask "who was the first kid to hit the other side?"
@@ -28,10 +28,10 @@ The wechat/whatsapp/linkedin lifestyle is for people whose personal time and pri
 
 I do have a need to connect with a small circle of "friends and family". I much prefer 1) meet-up 2) email. Phone call is a distant third choice. Chat is the worst choice for me.
 
--- new or update .. private: WuPeng struck me as a very shrewed, calculating 
+-- new or update .. private: WuPeng struck me as very shrewed, calculating 
 Buy Hey, I don't need more money, more brank, more recognition, more status, more clout, more power.
 
-His son lives in a broken family.
+His son lives in a broken family. That's a real pain.
 
 --fuxi or new: G9 SMS to break away from mainstream brainwash
 t_breakaway
