@@ -1,3 +1,13 @@
+-- new: CBDC=sovereign bccy
+not "pegged" but identical to the fiat currency
+centralized
+not anonymous
+speeds up cross-border payments including remittance. No middleman except the issuing central bank
+can be used without internet
+can be used without a bank account ?
+unliked most bccy, a CBDC is legal tender, controlled by a central bank
+On the ground, a CBDC is mostly stored on a smartphone, but can reside on one a card (no connectivity required)
+
 --update Tianjue.Lin blogpost
 In my younger days, I had to work hard over decades to improve my status for the mating competition.  When I first had kids, I didn't believe the likes of WQ.Luo. I was driven to improve housing, education resources... for my kids, engaging in the arms race with millions of other parents.
 
