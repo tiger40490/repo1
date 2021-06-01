@@ -141,6 +141,9 @@ thick->thin is one feature of simplification esp. in theoretical learning.
 .. eq investing .. simply focus on current income
 .. smartphone addiction .. base camp is a simple concept.
 
+-- fuxi: tag proliferation ^ too many on a post: which is worse
+I feel tag proliferation is worse. Some tags would lose sunshine and lose relevance.
+
 --fuxi: i feel not doing well on a few fronts
 work proj, localSys esp. fuxi
 QQ refresh, coding drill

@@ -17,9 +17,6 @@ If boy didn't do anything as promised, then this is a waste of dad's time and co
 -- new Eng: avoid^aim-to-avoid
 the scheme should avoid ... # sounds like eliminate
 
--- new: tag proliferation ^ too many on a post: which is worse
-I feel tag proliferation is worse. Some tags would lose sunshine and lose relevance.
-
 -- new: scale-out favored by the propaganda
 The propaganda, the simplistic view favors scale-out. However, scale-out can underperform.
 
