@@ -1,3 +1,7 @@
+-- update ...
+wpress + github simplifies laptop backup process
+
+I can move between laptops more easily, less dependent on one laptop.
 
 --fuxi:
 With git blogging, I often switch between two windows -- the gitBash and the MSWE.
