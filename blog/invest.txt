@@ -1,3 +1,8 @@
+-- Singapore HDB locations
+Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city. I guess Tampines, JurongEast are similar.
+
+Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
+
 -- new: CBDC=sovereign bccy
 More than "pegged" it's identical to the fiat currency, issued by the same entity as the fiat currency
 centralized

@@ -1,3 +1,17 @@
+-- update: pure virtual dtor
+Pure virtual dtor is one standard idiom to make the host class B abstract. To use this class you must instantiate a subclass D.
+[[moving from c to c++]] P404
+A body of this dtor is still required at runtime, when a D instance is destructed, so you must provide a definition for ~B() but keep it pure virtual. 
+
+-- update post on [[from c to c++]]
+P591 mechanism and overhead of RTTI. Seldom quizzed
+P256 static object init order
+
+--update the 7 requirements of late binding in c++
+the virtual function is called NOT inside a ctor/dtor
+
+-- fuxi: tech books beat online browsing in some situations like learning a new language. The book is more comprehensive than multiple sites combined.
+
 -- new: multiset, multimap
 In multimap, one key maps to a bag of payloads. The payloads can be duplicates, same as in "anyMap" containers.
 
