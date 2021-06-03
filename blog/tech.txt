@@ -7,7 +7,7 @@ Q: How is such a concrete pure virtual different from a concrete virtual?
 A: subclass D inherits a pure virtual dtor and must concretize it to become a concrete class.
 
 --update the 7 requirements of late binding in c++
-the virtual function is called NOT inside a ctor/dtor
+the virtual function's call site is NOT inside a ctor/dtor
 
 -- fuxi: tech books beat online browsing in some situations like learning a new language. The book is more comprehensive than multiple sites combined.
 
