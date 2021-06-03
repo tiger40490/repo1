@@ -3,25 +3,16 @@ Yishun central HDB estate has nearly everything, but lower valuation mostly due 
 
 Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
 
--- new: CBDC=sovereign bccy
-More than "pegged" it's identical to the fiat currency, issued by the same entity as the fiat currency
-centralized
-Unlike anonymous transactions as on public blockchains, transactions are tracked
-speeds up cross-border payments including remittance. No middleman except the issuing central bank
-can be used without internet
-can be used without a bank account... I think the wallet is identified by the mobile number. I think mobile numbers are registered under a national ID. Note all such IDs are at the national level
-unliked most bccy, a CBDC is legal tender, fully controlled by a central bank
-For a particular consumer wallet, a CBDC balance is mostly stored on a smartphone, but can reside on a card (no connectivity required)
-CBDC can use blockchain in a limited way. It may use its own private blockchain + distributed ledger. I feel such a blockchain is 10% similar to the BTC blockchain, and 90% similar to a traditional database
-
 -- MOETF rebalance
 Many high-yield bluechips should get higher allocation
 concentration risk -- increase allocation on low concentration sectors
 * consumer
+* telco
+* mining, usually international
 
-Some sectors are interest-rate sensitive. Need to avoid topping up.
+Increase international stocks without heavy U.S. presence
 
-Increase international diversification
+Some sectors are interest-rate sensitive. Need to avoid topping up, but they have DYOC
 
 --update Tianjue.Lin blogpost
 In my younger days, I had to work hard over decades to improve my status for the mating competition.  When I first had kids, I didn't believe the likes of WQ.Luo. I was driven to improve housing, education resources... for my kids, engaging in the arms race with millions of other parents.
@@ -76,6 +67,17 @@ Safe, clean street? No. This is not just for middle-class
 
 -- new or fuxi or update https://btv-open.dreamhosters.com/wpgi-admin/post.php?post=19515&action=edit
 Canada is an attractive emigration destination due to healthcare. However, the Singapore integrated shield basically provides a comparable healthcare. 
+
+-- new: CBDC=sovereign bccy
+More than "pegged" it's identical to the fiat currency, issued by the same entity as the fiat currency
+centralized
+Unlike anonymous transactions as on public blockchains, transactions are tracked
+speeds up cross-border payments including remittance. No middleman except the issuing central bank
+can be used without internet
+can be used without a bank account... I think the wallet is identified by the mobile number. I think mobile numbers are registered under a national ID. Note all such IDs are at the national level
+unliked most bccy, a CBDC is legal tender, fully controlled by a central bank
+For a particular consumer wallet, a CBDC balance is mostly stored on a smartphone, but can reside on a card (no connectivity required)
+CBDC can use blockchain in a limited way. It may use its own private blockchain + distributed ledger. I feel such a blockchain is 10% similar to the BTC blockchain, and 90% similar to a traditional database
 
 -- update blogpost on SG retirement location
 I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important
