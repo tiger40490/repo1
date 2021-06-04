@@ -1,3 +1,10 @@
+-- new or fuxi
+new languages claim to displace perl, java, c/c++ etc, but time will tell a different story. 
+C# didn't dethrone java; python didn't completely eliminate perl; c is still widely used.
+
+noSql claims to displace RDBMS, but time will tell a different story.
+
+When linux was challenged by other free variants of unix, we thought linux would be forgotten.
 -- update blogpost 
 GS Hong Kong interviewer said array-based order book can achieve 1000 kmps.
 It's easy to whip up a POC showing 1000 kmps, but how about all the real-world requirements in rebus? Your design and implementation will be imperfect and will impact the performance. In the end, will you maintain 1000 kmps?
