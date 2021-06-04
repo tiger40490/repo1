@@ -1,5 +1,6 @@
 --update blogpost on stealth https://btv-open.dreamhosters.com/wp-admin/post.php?post=22049&action=edit
-In my early 20s, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals, ... 
+.. library
+In my early 20s, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals in high-value domains like rEstate, insurance, car,, ... 
 In SG, the blue-collar engineer has a low status compared to in the U.S. 
 I felt like an ugly duckling, esp. in the dating game. None of the role models in the media or in the community was a programmer.
 
@@ -8,6 +9,11 @@ In the library, I would read tech books all day long, and those young men don't 
 Some of them read about rEstate or stocks, as they have an early start on personal finance. I could only watch on the sideline.
 
 I think my 5-10 years of self-study was charging my batteries, or building my infrstructure.
+
+technology industry, esp. software dev profession has grown more important, more valuable in the national economies not only in the U.S. but notably in China. 
+U.S. tech profession offers excellent market depth, better than many of those professions.
+I underestimated the $value of my QQ capacity, absorbency,,,
+I overestimated the value of their professional skills and people skills.
 
 Q: When did I overtake the bulk of them? (Clearly, some are still ahead but at my age I don't strive to close the gap.)
 A: perhaps during q3sg
