@@ -1,3 +1,6 @@
+-- look at nobel laureats counting by alma mater
+I think the top colleges have a lower dominance
+
 --update blogpost on stealth https://btv-open.dreamhosters.com/wp-admin/post.php?post=22049&action=edit
 .. library
 In my early 20s, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals in high-value domains like rEstate, insurance, car,, ... 
