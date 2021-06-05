@@ -23,14 +23,10 @@ I overestimated the value of their professional skills and people skills.
 Q: When did I overtake the bulk of them? (Clearly, some are still ahead but at my age I don't strive to close the gap.)
 A: perhaps during q3sg
 
--- new
-When I started at UChicago, what's the probability of drop-out like Shou.Liu, Henry.Yang and Chris.Ma? More than 30%
-
-So the long journey demanded a lot of effort, commitment, perseverance ..
-
--- new:
+-- new: bmark aspiration is similar to..
 category: anxiety
 boy's bmark: this aspiration is somewhat similar to brank, OC-effective, exclub, SDXQ/Orchard mansion
+
 -- new or update
 Schopenhauer : "The capacity to be alone is one of the most distinctive marks of a high intellectual being."
 
@@ -49,13 +45,6 @@ wpress + github simplifies laptop backup process
 
 I can move between laptops more easily, less dependent on one laptop.
 
---fuxi:
-With git blogging, I often switch between two windows -- the gitBash and the MSWE.
-
-If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
-
-You can also run q[start path/to/a/file] to launch the default application for that file extension.
-
 -- fuxi: 
 For kids and also adults, when we act aggressively, we need to bear in mind the different aggressive actions.
 
@@ -65,56 +54,11 @@ Similar to physical aggression, if a kid is angry against someone, the kid can r
 
 Smashing and angry yelling are not in that category. These are displays of indignation, protest. These can also cross a line in the sand and become aggression, but we usually can see the transition. I feel most of the time, smashing and yelling are not aggressive.  I'm not condoing these actions, but it's important to notice the level damage -- Smashing something expensive is still less damaging than a push or various forms of verbal aggressions.
 
--- fuxi: archive/hide threads on wechat/whatsapp
-The list of wechat contacts, the list of linkedin contacts are filled with people I seldom NEED to contact. I dare not delete them because I have no other way to recover their contacts!
-
-The high cost -- With wechat (linkedin much better), these people receive too much sunshine simply because they appear on this wechat list. 
-
-1) It's better to remove them from wechat contact if I have other ways to find them, such email or through other friends.
-2) For some other contacts, it's better to archive/hide the conversation thread. This feature is similar to Archive on gmail.
-3) ^^^^ In the end, my wechat front page should show only 9 worthwhile contacts.
-
-The wechat/whatsapp/linkedin lifestyle is for people whose personal time and priorities fall within their (large) circle of friends. This lifestyle is a very poor match for my needs. 
-
-I do have a need to connect with a small circle of "friends and family". I much prefer 1) meet-up 2) email. Phone call is a distant third choice. Chat is the worst choice for me.
-
--- new or update .. private: WuPeng struck me as very shrewed, calculating 
-Buy Hey, I don't need more money, more brank, more recognition, more status, more clout, more power.
-
-His son lives in a broken family. That's a real pain.
-
---fuxi or new: G9 SMS to break away from mainstream brainwash
-t_breakaway
-* My wife always feels I look too thin for my health and appearance. I remind myself "I trust my BMI analysis -- Based on years of self-monitoring, My BMI goal is well-founded. Many in my cohort would probably get better healthy longevity if they adopt similar BIM goals."
-
-Most of the other SMS messages are related to middle-class aspirations
-
-* Many of my peers seem to suggest my family deserves higher BR. I focus on livelihood and believe a BR equal to 80% of local median income is reasonable and adequate. By that standard, many of my peers spend way too much. 
-* branded college .. Can I accept if my kids only get into community college or polytechnic? This mainstream brainwash is still hitting me hard 
-* home size
-* car ownership .. In the U.S., and even in SG, my peers take up car ownership for convenience, not livelihood. 
-* career longevity is more important than salary; healthy longevity is more important than financial security
-
--- update blogpost https://btv-open.dreamhosters.com/wp-admin/post.php?post=39578&action=edit
-This middle-aged professional has 6 properties
-This middle-aged professional has 5+ workouts a week and runs marathons, has good BMI, sleep and appetite, without any health condition.
-
-Who do we envy more and why?
-
--- fuxi:
-my kids' overusage of toilet roll is a minor waste compared to
-* electricity/water waste
-* printing overusage
-
--- fuxi: dentist tips:
-more flossing please
-clean the retainer
-x-ray every 2Y
-
 -- new: audio blogging
 I need a phone app to append to existing audio clips 
 
 The app in vivo phone can only append to a paused recording, before saving it.
+
 --update sunshine
 In which area do you give much-needed sunshine but your peers don't bother to?
 
@@ -127,41 +71,6 @@ flexibility
 exp recon
 career longevity + healthy longevity
 current income? Not really "much-needed"
-
--- fuxi: accept these imperfections in self-mgmt
-guilt is counterproductive in many of these cases...
-
-In each case, I often have a j4 or excuse..
-[p=risk of powerless guilt]
-[a=absorbency is a scarce resource]
-[a] workout fewer than 5 times a week
-[ap] no yoga for months .. but am able to do more self-practice
-[ap] weight slowly edging up from 61 to 66 .. but am able to maintain starch intake, raw veg..
-[a] not standing enough .. but I still do some in office and at home
-cockpit 1 not used a lot
-[p] not spending enough time with kids
-[ap] pull-up not maintained, largely due to lack of absorbency
-[ap] c++ critical mass? 
-[a] localSys fuxi
-not sleeping early as planned... but kinda low priority
-[a] piano not continued .. largely due to high tcost
-
-
--- new: simplify your life
-t_vague
-The choices, and temptations in modern life increases distraction and risk of missteps. Therefore, steadfast focus on protecting... really benefits from simplification.
-
-Prioritization also benefits from simplification
-
-thick->thin is one feature of simplification esp. in theoretical learning.
-
-.. diet .. simply focus on delaying and portion-reduction. Use a few tried-n-tested techniques like raw veg
-.. exercise .. simply focus on 5 times a week. fancy equipment not needed. Variety can be good, but I don't want to depend on it.
-.. top schools? simply say no.
-.. career planning .. focus on dev-till-70. Not so simple but I have managed to simplify a bit.
-.. eq investing .. simply focus on current income
-.. smartphone addiction .. base camp is a simple concept.
-
 
 -- fuxi: which friends have a similiar ezlife ?
 AshS? yes in cash flow and sunshine on wellness, but how about career longevity?

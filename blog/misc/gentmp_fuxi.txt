@@ -1,5 +1,64 @@
+
+-- fuxi: dentist tips:
+more flossing please
+clean the retainer
+x-ray every 2Y
+
 -- fuxi: tag proliferation ^ too many on a post: which is worse
 I feel tag proliferation is worse. Some tags would lose sunshine and lose relevance.
+
+-- fuxi: accept these imperfections in self-mgmt
+guilt is counterproductive in many of these cases...
+
+In each case, I often have a j4 or excuse..
+[p=risk of powerless guilt]
+[a=absorbency is a scarce resource]
+[a] workout fewer than 5 times a week
+[ap] no yoga for months .. but am able to do more self-practice
+[ap] weight slowly edging up from 61 to 66 .. but am able to maintain starch intake, raw veg..
+[a] not standing enough .. but I still do some in office and at home
+cockpit 1 not used a lot
+[p] not spending enough time with kids
+[ap] pull-up not maintained, largely due to lack of absorbency
+[ap] c++ critical mass? 
+[a] localSys fuxi
+not sleeping early as planned... but kinda low priority
+[a] piano not continued .. largely due to high tcost
+
+-- fuxi: archive/hide threads on wechat/whatsapp
+The list of wechat contacts, the list of linkedin contacts are filled with people I seldom NEED to contact. I dare not delete them because I have no other way to recover their contacts!
+
+The high cost -- With wechat (linkedin much better), these people receive too much sunshine simply because they appear on this wechat list. 
+
+1) It's better to remove them from wechat contact if I have other ways to find them, such email or through other friends.
+2) For some other contacts, it's better to archive/hide the conversation thread. This feature is similar to Archive on gmail.
+3) ^^^^ In the end, my wechat front page should show only 9 worthwhile contacts.
+
+The wechat/whatsapp/linkedin lifestyle is for people whose personal time and priorities fall within their (large) circle of friends. This lifestyle is a very poor match for my needs. 
+
+I do have a need to connect with a small circle of "friends and family". I much prefer 1) meet-up 2) email. Phone call is a distant third choice. Chat is the worst choice for me.
+
+--fuxi:
+With git blogging, I often switch between two windows -- the gitBash and the MSWE.
+
+If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
+
+You can also run q[start path/to/a/file] to launch the default application for that file extension.
+
+-- new: simplify your life
+t_vague
+The choices, and temptations in modern life increases distraction and risk of missteps. Therefore, steadfast focus on protecting... really benefits from simplification.
+
+Prioritization also benefits from simplification
+
+thick->thin is one feature of simplification esp. in theoretical learning.
+
+.. diet .. simply focus on delaying and portion-reduction. Use a few tried-n-tested techniques like raw veg
+.. exercise .. simply focus on 5 times a week. fancy equipment not needed. Variety can be good, but I don't want to depend on it.
+.. top schools? simply say no.
+.. career planning .. focus on dev-till-70. Not so simple but I have managed to simplify a bit.
+.. eq investing .. simply focus on current income
+.. smartphone addiction .. base camp is a simple concept.
 
 --fuxi:
 When Jess Lin echoed and rephrased me "your forte in shoulder flexibility", she kinda exaggerated a bit, but there's no real misrepresentation. As yoga instructor, she knew jolly well my shoulder !
@@ -7,6 +66,11 @@ When Jess Lin echoed and rephrased me "your forte in shoulder flexibility", she 
 Still, I felt a slight discomfort and corrected her "not so good at shoulder".
 
 My habit works fine in online chat, but it is too inefficient in SMS and unnecessary in verbal conversations like this.
+
+-- fuxi:
+my kids' overusage of toilet roll is a minor waste compared to
+* electricity/water waste
+* printing overusage
 
 --fuxi: i feel not doing well on a few fronts
 work proj, localSys esp. fuxi
