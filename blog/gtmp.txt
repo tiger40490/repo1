@@ -162,21 +162,6 @@ thick->thin is one feature of simplification esp. in theoretical learning.
 .. eq investing .. simply focus on current income
 .. smartphone addiction .. base camp is a simple concept.
 
--- fuxi (no good title):
-人就是这样，装得久了，就装得像了；装得太像、太久，不管事实怎样，自己倒是先信了。而这当然会影响之后的决定和行为。
-examples in n around me:
-
-My kindness
-My dedication to work and professionalistm
-my quality mindset
-
---fuxi
-when you see a boxer using only one hand, probably he has a weakness in the other hand, or he is keeping his stronger arm as reserve or as secret weapen
-
-There are many examples of each.
-* java vs c++
-* me trying bccy jobs
-* me preparing python interviews
 
 -- fuxi: which friends have a similiar ezlife ?
 AshS? yes in cash flow and sunshine on wellness, but how about career longevity?

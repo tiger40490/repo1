@@ -6,6 +6,24 @@ In other words, ibanks are dealers rather than pure-play brokers.
 
 Prop trading is a secret business model of ibanks.
 
+-- new: faking->conviction->choices
+人就是这样，装得久了，就装得像了；装得太像、太久，不管事实怎样，自己倒是先信了。而这当然会影响之后的决定和行为。
+examples in n around me:
+
+My kindness
+My dedication to work and professionalistm
+my quality mindset
+my decision to rent in JC or other average school districts
+my decision on dev-till-70 and healthy longevity till 95
+
+--fuxi
+when you see a boxer using only one hand, probably he has a weakness in the other hand, or he is keeping his stronger arm as reserve or as secret weapen
+
+There are many examples of each.
+* java vs c++
+* me trying bccy jobs
+* me preparing python interviews
+
 -- new: 20 shouts: sofa passive resistance
 on 29 May, mom was mopping the floor and need to move a sofa. Boy was sitting on it and refused to stand up. Dad politely asked and offered to help pull him up, but boy slapped on dad's helping hand. Mom then gave him 3 seconds to stand up but boy refused to stand up.
 
