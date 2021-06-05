@@ -1,9 +1,11 @@
 -- look at nobel laureats counting by alma mater
 I think the top colleges have a lower dominance
 
+Stony Brooks .. not a branded college, but produced many Field medalists etc
+
 --update blogpost on stealth https://btv-open.dreamhosters.com/wp-admin/post.php?post=22049&action=edit
 .. library
-In my early 20s, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals in high-value domains like rEstate, insurance, car,, ... 
+From my early 20s till early 30's, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals in high-value domains like rEstate, insurance, car,, ... 
 In SG, the blue-collar engineer has a low status compared to in the U.S. 
 I felt like an ugly duckling, esp. in the dating game. None of the role models in the media or in the community was a programmer.
 
@@ -24,7 +26,7 @@ A: perhaps during q3sg
 -- new
 When I started at UChicago, what's the probability of drop-out like Shou.Liu, Henry.Yang and Chris.Ma? More than 30%
 
-So the journey demanded a lot of effort, commitment, perseverance ..
+So the long journey demanded a lot of effort, commitment, perseverance ..
 
 -- new:
 category: anxiety
@@ -34,17 +36,13 @@ Schopenhauer : "The capacity to be alone is one of the most distinctive marks of
 
 Many depend on other people or service providers to keep them /entaintained/ and engaged.
 
-writing, painting, sculpture, music-making, reading, some singing (in my experience) .. is solitary. Social media apps are not.
+writing, painting, sculpture, music-making, reading, some singing (in my experience) .. is solitary. My long emails are semi-solitary. Social media apps are not.
 
 retirement .. solitude is valuable. Physical self-reliance is probably the foundation.
 
 Stay Connected in bad times like covid19
 
 Many Buddhists advocate detachment, self-reliance and the impermanence of close relationships.
-
--- new Eng term: war chest
-SG past reserve is a classic war chest
-my "batteries" are also war chests
 
 -- update ...
 wpress + github simplifies laptop backup process
@@ -67,7 +65,7 @@ Similar to physical aggression, if a kid is angry against someone, the kid can r
 
 Smashing and angry yelling are not in that category. These are displays of indignation, protest. These can also cross a line in the sand and become aggression, but we usually can see the transition. I feel most of the time, smashing and yelling are not aggressive.  I'm not condoing these actions, but it's important to notice the level damage -- Smashing something expensive is still less damaging than a push or various forms of verbal aggressions.
 
--- fuxi or new: archive/hide threads on wechat/whatsapp
+-- fuxi: archive/hide threads on wechat/whatsapp
 The list of wechat contacts, the list of linkedin contacts are filled with people I seldom NEED to contact. I dare not delete them because I have no other way to recover their contacts!
 
 The high cost -- With wechat (linkedin much better), these people receive too much sunshine simply because they appear on this wechat list. 
@@ -113,9 +111,6 @@ more flossing please
 clean the retainer
 x-ray every 2Y
 
--- new:
-Stony Brooks .. not a branded college, but produced many Field medalists etc
-
 -- new: audio blogging
 I need a phone app to append to existing audio clips 
 
@@ -132,11 +127,6 @@ flexibility
 exp recon
 career longevity + healthy longevity
 current income? Not really "much-needed"
-
--- A95 have many "saving graces"
-* speaker with easy volumne control
-* figerprint reader
-* big touch screen
 
 -- fuxi: accept these imperfections in self-mgmt
 guilt is counterproductive in many of these cases...
@@ -156,19 +146,6 @@ cockpit 1 not used a lot
 not sleeping early as planned... but kinda low priority
 [a] piano not continued .. largely due to high tcost
 
--- fuxi: (too vague to get a title) life chances in each country.
-Now I feel those in Taiwan get fewer life chances due to the stagnant economy. After finishing education, many go to mainland for more life chances. In Taiwan, even if you are reasonably smart and hardworking, the chance of earning a U.S. level salary is quite small. Actually, I used an arbitrary criteria.
-
-Since 2019, the Hongkong residents are also experiencing a decline in life chances.
-
-For many years, I have felt varioius SEAsia nationals have better life chances when thy emmigrate to SG, HK, White English-speaking countries.
-
---fuxi:
-When Jess Lin echoed and rephrased me "your forte in shoulder flexibility", she kinda exaggerated a bit, but there's no real misrepresentation. As yoga instructor, she knew jolly well my shoulder !
-
-Still, I felt a slight discomfort and corrected her "not so good at shoulder".
-
-My habit works fine in online chat, but it is too inefficient in SMS and unnecessary in verbal conversations like this.
 
 -- new: simplify your life
 t_vague
@@ -184,9 +161,6 @@ thick->thin is one feature of simplification esp. in theoretical learning.
 .. career planning .. focus on dev-till-70. Not so simple but I have managed to simplify a bit.
 .. eq investing .. simply focus on current income
 .. smartphone addiction .. base camp is a simple concept.
-
--- fuxi: tag proliferation ^ too many on a post: which is worse
-I feel tag proliferation is worse. Some tags would lose sunshine and lose relevance.
 
 --fuxi: i feel not doing well on a few fronts
 work proj, localSys esp. fuxi
