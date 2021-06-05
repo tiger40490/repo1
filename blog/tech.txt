@@ -1,3 +1,17 @@
+-- new or udpate
+c++ exception specification is removed in c++17. Remember that any exception unlisted triggers "unexpected". Those features [set_unexpected(), unexpected_handler] are also removed.
+
+std library removed bind1st etc, binary_function etc in c++17
+
+See https://mariusbancila.ro/blog/2018/07/05/c17-removed-and-deprecated-features/
+
+-- new: closest ancestors of c/c++
+For c++
+#1 is C
+#2 is Simula
+
+For C #1 is the B language
+
 -- update: https://btv-gz.dreamhosters.com/2009/12/11/pureconcrete-virtual-functions/
 Pure virtual dtor is one standard idiom to make the host class B abstract. To use this class you must instantiate a subclass D.
 [[moving from c to c++]] P404
