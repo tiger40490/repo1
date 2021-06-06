@@ -48,42 +48,26 @@ my quality mindset
 my decision to rent in JC or other average school districts
 my decision on dev-till-70 and healthy longevity till 95
 
---fuxi
-when you see a boxer using only one hand, probably he has a weakness in the other hand, or he is keeping his stronger arm as reserve or as secret weapen
-
-There are many examples of each.
-* java vs c++
-* me trying bccy jobs
-* me preparing python interviews
-
--- new: 20 shouts: sofa passive resistance
-on 29 May, mom was mopping the floor and need to move a sofa. Boy was sitting on it and refused to stand up. Dad politely asked and offered to help pull him up, but boy slapped on dad's helping hand. Mom then gave him 3 seconds to stand up but boy refused to stand up.
-
--- new: .5D wast`time go`2ff2retrieve iPhone8@17May
-I don't know what boy did during the 30min sitting outside the glass door.
-
-If boy didn't do anything as promised, then this is a waste of dad's time and company staff's time, a punishable offense.
-
 -- new Eng: avoid^aim-to-avoid
 the scheme should avoid ... # sounds like eliminate
 
--- new: scale-out favored by the propaganda
-The propaganda, the simplistic view favors scale-out. However, scale-out can underperform.
+-- new: scale-out favored by tech propaganda
+The propaganda and the simplistic view favors scale-out. However, scale-out can underperform.
 
 similarly, multithreaded qsort can be slower than single-threaded. 
 
-The paper on COST (Configuration that Outperforms a Single Thread) asserts that 
-The unoptimized implementation "scales" far better, despite (or rather, because of) its inferior performance. 
+The original paper on COST (Configuration that Outperforms a Single Thread) asserts that 
+The unoptimized implementation "scales" far better, despite (or rather, because of) its inferior instance performance. 
 
 The COST of a given platform for a given problem is the count of cpu cores required before the platform outperforms an optimized single-threaded implementation.
 
-The COST can be hundreds of cores. A given scale-out platform may require that many cores to beat a single-threaded implmenetation. If you grow an army of shrimps against a whale in a tug-of-war, you need an army of millions.
+The COST can be hundreds of cores. That many cores may be required by a given scale-out platform to beat a single-threaded implmenetation. If you grow an army of tadpoles against a whale in a tug-of-war, you need an army of millions.
 
 --update zero sum game
 bccy and gold are zero sum games by definition since there's no income generated. 
 However, gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is hopefully better than a zero-sum game, only over the long-term.
 
--- new Eng term: war chest
+-- update blogpost on war chest
 SG past reserve is a classic war chest
 my "batteries" are also war chests
 
