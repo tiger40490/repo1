@@ -3,6 +3,13 @@ I think the top colleges have a lower dominance
 
 Stony Brooks .. not a branded college, but produced many Field medalists etc
 
+-- new: equal sign usually follows the decorating symbol:
+:=
+!=
++= 
+
+One exception is perl regex binding operator =~
+
 --update blogpost on stealth https://btv-open.dreamhosters.com/wp-admin/post.php?post=22049&action=edit
 .. library
 From my early 20s till early 30's, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals in high-value domains like rEstate, insurance, car,, ... 
