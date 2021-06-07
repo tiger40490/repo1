@@ -1,3 +1,8 @@
+-- c++ range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
+However, c++ range, as a STL extention, seems to rely on an underlying container.
+
+The infinite range doesn't rely on a container but seems to be a secondary feature
+
 -- new or udpate
 c++ exception specification is removed in c++17. Remember that any exception unlisted triggers "unexpected". Those features [set_unexpected(), unexpected_handler] are also removed.
 
