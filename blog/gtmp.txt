@@ -17,24 +17,12 @@ If I can recall and name 50 "superiors", 95% of them would have some serious inf
 
 Many of them (or their kids) grew up in an incomplete (if not broken) family. Many of them lost a parent fairly early.
 More than half of them are overweight.
-Many of them have more health issues than I have 
+Many of them have more health issues than I have.
 Many of them have non-trivial but hidden issues in mental well-being, including sleep, relationships, stress, aggression
 Most of those occupying higher positions have work stress and career risks far more than I have as a contractor.
 Most of those high-fliers don't have my career longevity. This is another "battery" I have built over decades but I tend to dismiss, esp. when I meet someone without it, but ... superior ?! 
 Most of them have long-term financial concerns like medical + inflation, retirement income.
 Some of them have no kids. 
-
--- look at nobel laureats counting by alma mater
-I think the top colleges have a lower dominance
-
-Stony Brooks .. not a branded college, but produced many Field medalists etc
-
--- new: equal sign usually follows the decorating symbol:
-:=
-!=
-+= 
-
-One exception is perl regex binding operator =~
 
 --update blogpost on stealth https://btv-open.dreamhosters.com/wp-admin/post.php?post=22049&action=edit
 .. library
@@ -86,6 +74,19 @@ Worst category is physical (and verbal) aggression, including a small push. In C
 Similar to physical aggression, if a kid is angry against someone, the kid can refuse to help that someone. Depending on the context, a helping hand is often considered basic courtesy, so a refusal to help is clearly personal and a passive aggression.
 
 Smashing and angry yelling are not in that category. These are displays of indignation, protest. These can also cross a line in the sand and become aggression, but we usually can see the transition. I feel most of the time, smashing and yelling are not aggressive.  I'm not condoing these actions, but it's important to notice the level of damage -- Smashing something expensive is still less damaging than a push or various forms of verbal aggressions.
+
+
+-- look at nobel laureats counting by alma mater
+I think the top colleges have a lower dominance
+
+Stony Brooks .. not a branded college, but produced many Field medalists etc
+
+-- new: equal sign usually follows the decorating symbol:
+:=
+!=
++= 
+
+One exception is perl regex binding operator =~
 
 -- new: audio blogging
 I need a phone app to append to existing audio clips 
