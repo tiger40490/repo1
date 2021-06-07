@@ -1,8 +1,8 @@
 
 -- update: https://btv-gz.dreamhosters.com/2009/12/11/pureconcrete-virtual-functions/
-Pure virtual dtor is one standard idiom to make the host class B abstract. To use this class you must instantiate a subclass D.
+Pure virtual dtor is one standard idiom to ensure the host class B is abstract. To use this class you must instantiate a subclass D.
 [[moving from c to c++]] P404
-A body of this dtor is still required at runtime when a D instance is destructed, so you must provide a definition for ~B() but keep it pure virtual. 
+A body of this dtor is still required at runtime when a D instance is destructed, so you must provide a definition for ~B() but keep this dtor pure virtual. 
 
 Q: How is such a concrete pure virtual different from a concrete virtual? 
 A: subclass D inherits a pure virtual dtor and must concretize it to become a concrete class.
@@ -34,18 +34,19 @@ For c++
 For C #1 is the B language
 
 -- new: multiset, multimap
-In multimap, one key maps to a bag of payloads. The payloads can be duplicates, same as in "anyMap" containers.
+In multimap, one key maps to a bag of payloads. As in any map containers, the payloads can be duplicates. In the multimap context, the payloads for key1 can also be duplicates.
 
 I think a reasonable implementation is {keyObject -> list of payloads}
 
-In multiset, multiple distinct elements can appear equivalent. They could differ by non-essential attributes like creationTime. 
+In multiset, multiple distinct payload objects can appear equivalent. They could differ by non-essential attributes like creationTime. 
 
-Some people assume multiset can be represented as {keyObject -> count}, but such a container can't contain two equivalent-yet-distinct keyObjects.
+Some people assume multiset can be represented as {keyObject -> count}, but such a container can't hold two equivalent-yet-distinct keyObjects. When I iterate the multiset, I want to see the distinct creationTime values, so all the indivisual payload objects must be saved.
 
 I think a reasonable implementation is treeSet{list{payloads}}.
 
 -- new: whenever you notice "private" keyword, think of "friend". Private/friend are an inseparable pair of keywords.
 Similarly, every time you see "cosnt", think of const/mutable pair. Inside classes, private is more useful than const.
+
 -- new: memory layout: vector{string}
 observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
 
@@ -78,13 +79,13 @@ The iterator solution is more advanced, can be viable iFF the iterator is guaran
 -- new: string pbref^pbclone: cpp++
 In java and c#, string objects are always passed by reference. 
 
-An extreme example is instructional ... like a huge string object with 999 trillion characters. In java and c# this object is passed around without cloning the content. A cloning process takes forever.
+An extreme example is instructional ... consider a huge string object with 999 trillion characters. In java and c# this object is passed around without cloning the content. A cloning process is expensive.
 
 In C, a cStr is an array, either on heap or elsewhere. It is often passed by pointer (pbref). Pbclone is common when the length is small. In C, string length is usually known in advance. 
 
-In C++, std::string is often pbclone but it can be pbref. Overall, Passing std::string is more complicated than the other languages. 
+In C++, std::string is often pbclone but it can be pbref. Overall, Passing std::string is more complicated than in other languages. 
 
-Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that length to be a compile-time constant, to support sizeof(). I think this design is industrial strength. It is based on a widespread "KnowYourData" principle... the string lengths should be fairly consistent and the max length known in advance.
+Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that fixed length to be a compile-time constant, to support sizeof(). I think this design is industrial strength. It is based on a widespread "KnowYourData" principle... the string lengths should be fairly consistent and the max length known in advance.
 
 An alternative design would use a std::string field. This is feasible, but not popular. There are many subtle complexities
 * copying would clone the string
@@ -99,10 +100,8 @@ Signal is always asynch, never immediate, though the scheduler may preempt whate
 
 One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
 
--- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
-
 -- fuxi: uniqPtr MktVal imt sharedPtr
-.. due to move-semantics, which is a hot favorite IV QQ topic
+.. due to move-semantics, which is a IV-hot topic
 
 --fuxi
 signals in windows? not popular

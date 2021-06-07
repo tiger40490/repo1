@@ -1,3 +1,4 @@
+-- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
 
 -- new: UChicago drop-out risk 
 When I started at UChicago, what's the probability of drop-out like Shou.Liu, Henry.Yang and Chris.Ma? More than 30%
