@@ -1,5 +1,13 @@
 -- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
 
+-- update blogpost on college ranking https://btv-open.dreamhosters.com/2020/09/21/university-rankings-hkindia/
+Many familiar college names have an informal reputation among a small circle of my friends, sometimes just one guy.
+The published ranking often challenges those informal and vague, often biased impressions. One concrete example is Princeton. A close friend wrote that "Princeton 本科是第一（USNews)，进入非常困难." I replied 
+
+QS ranking -- https://www.topuniversities.com/universities/princeton-university is latest ranking, showing Princeton at #20
+THE ranking -- https://www.timeshighereducation.com/world-university-rankings/princeton-university shows Princeton  at #9
+Good to recognize that not everyone thinks Princeton is the #1 best college. 
+
 -- new: UChicago drop-out risk 
 When I started at UChicago, what's the probability of drop-out like Shou.Liu, Henry.Yang and Chris.Ma? More than 30%
 
