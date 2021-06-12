@@ -1,3 +1,5 @@
+-- fuxi: most countries only authorize a small number of covid vaccines.
+I guess it's unnecessary risk to authorize a lage variety.
 
 -- fuxi: for this week, each kick = 1D lock up
 push penalty.. reduce
@@ -6,8 +8,13 @@ push penalty.. reduce
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
 
 -- fuxi: somehow I don't mind boy spending 5H/day on computers.
+He already spends too much on phones.
+phones are more addictive than computers.
+phones need data 
+phone screen too small
 
 -- new: alcohol
+t_ska
 Alcohol is much more than nutrition or health. 
 Alcohol is social. We are judged. Your alcohol attitude is comparable to your attire or your transportation choices. As a more remote analog, golf is much more than a sport. As such alcohol is highly commercial.
 Therefore there's a lot of sponsored research in the health effects of alcohol. These findings tend to dominate the discussions about alcohol.
@@ -79,11 +86,6 @@ Stay Connected in bad times like covid19
 
 Many Buddhists advocate detachment, self-reliance and the impermanence of close relationships.
 
--- update ...
-wpress + github simplifies laptop backup process
-
-I can move between laptops more easily, less dependent on one laptop.
-
 -- fuxi: 
 For kids and also adults, when we act aggressively, we need to bear in mind the different aggressive actions.
 
@@ -93,18 +95,10 @@ Similar to physical aggression, if a kid is angry against someone, the kid can r
 
 Smashing and angry yelling are not in that category. These are displays of indignation, protest. These can also cross a line in the sand and become aggression, but we usually can see the transition. I feel most of the time, smashing and yelling are not aggressive.  I'm not condoing these actions, but it's important to notice the level of damage -- Smashing something expensive is still less damaging than a push or various forms of verbal aggressions.
 
-
 -- look at nobel laureats counting by alma mater
 I think the top colleges have a lower dominance
 
 Stony Brooks .. not a branded college, but produced many Field medalists etc
-
--- new: equal sign usually follows the decorating symbol:
-:=
-!=
-+= 
-
-One exception is perl regex binding operator =~
 
 -- new: audio blogging
 I need a phone app to append to existing audio clips 
