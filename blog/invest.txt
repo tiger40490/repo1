@@ -1,7 +1,7 @@
 -- update livelihood blogs (S.Liu or Maslow)
-[[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations. For them, my financial ezlife is .. dream. 
+[[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations by global standard. (For example, most Singaporeans would feel some livelihood pressure.) For them, my ezlife on the cash flow high ground is .. dream. 
 
-I like mathematical criteria for that "ezlife", such as brbr, Fuller Wealth. By these criteria, my ezlife is realistic for some of them, but they lack something.
+I like mathematical criteria for that high ground, such as brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack something to achieve the same.
 
 -- new or update gold^U.S.eq^rEstate: long-term strength
 gold offers inflation hedge only over the long term. 
@@ -10,9 +10,9 @@ https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-othe
 
 "If you look at the very long term, gold should hold its value against inflation. But in any shorter period, it may or may not be a good hedge,"
 
-Am there there are multiple analyses on the limitation of gold as an inflation hedge.
+Am sure there are multiple analyses on the limitation of gold as an inflation hedge.
 
--- new or update
+-- new or update SG inflation: 30Y personal xp #basket
 Even U.S. inflation is not so bad in the short term. 
 
 https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html says (The Federal Reserve tries to keep inflation around 2% per year.)
