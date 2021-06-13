@@ -1,3 +1,9 @@
+--update 20 punch cards:
+If we count only investment decisions, then all of mine are rEstate decisions
+
+-- new or fuxi or update https://btv-open.dreamhosters.com/wpgi-admin/post.php?post=19515&action=edit
+Canada is an attractive emigration destination due to healthcare. However, the Singapore integrated shield basically provides a comparable healthcare. 
+
 -- new: alcohol
 t_ska
 Alcohol is much more than nutrition or health. 
@@ -69,6 +75,17 @@ When I started at UChicago, what's the probability of drop-out like Shou.Liu, He
 So the long journey demanded a lot of effort, commitment, perseverance ..
 
 I needed a reason to continue. In hindsight, the branding is now fairly valuable in terms of self-image. 
+
+-- new: CBDC=sovereign bccy
+More than "pegged" it's identical to the fiat currency, issued by the same entity as the fiat currency
+centralized
+Unlike anonymous transactions as on public blockchains, transactions are tracked
+speeds up cross-border payments including remittance. No middleman except the issuing central bank
+can be used without internet
+can be used without a bank account... I think the wallet is identified by the mobile number. I think mobile numbers are registered under a national ID. Note all such IDs are at the national level
+unliked most bccy, a CBDC is legal tender, fully controlled by a central bank
+For a particular consumer wallet, a CBDC balance is mostly stored on a smartphone, but can reside on a card (no connectivity required)
+CBDC can use blockchain in a limited way. It may use its own private blockchain + distributed ledger. I feel such a blockchain is 10% similar to the BTC blockchain, and 90% similar to a traditional database
 
 -- new or fuxi: Why ibanks "support" bccy
 Ibank's advertized business model is client facilitation. 
