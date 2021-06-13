@@ -1,4 +1,3 @@
-
 -- update: https://btv-gz.dreamhosters.com/2009/12/11/pureconcrete-virtual-functions/
 Pure virtual dtor is one standard idiom to ensure the host class B is abstract. To use this class you must instantiate a subclass D.
 [[moving from c to c++]] P404
@@ -15,9 +14,12 @@ the virtual function's call site is NOT inside a ctor/dtor
 --new or fuxi: c++ range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
 However, c++ range, as a STL extention, seems to rely on an underlying container.
 
+ranges are based on iterators/containers. 
+
 The infinite range doesn't rely on a container but seems to be a secondary feature.
 
 Will C++ range become IV-hot? If it does then I will study.
+
 
 -- new or udpate
 c++ exception specification is removed in c++17. Remember that any exception unlisted triggers "unexpected". Those features [set_unexpected(), unexpected_handler] are also removed.
