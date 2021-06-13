@@ -10,6 +10,20 @@ There's too much misinformation and propaganda about alcohol. I have little band
 
 alcohol lifestyle might be important for some salemen but not me. Many of those OC-effective types tend to "advise" me to embrace alcohol. I used to feel weak and ineffective in my stubborn, "old-fashioned" attitude on alcohol. Well, now I like my attitude.
 
+--update sunshine
+Q: In which area do you give much-needed sunshine but your peers don't bother to?
+
+The question asks me to name where I give sufficient sunshine, so it's impossible to surprise myself, but I will still try to name unsung heros.
+
+driving experience review
+adequate sleep
+exp recon
+tax-like expenses
+tech Dram refresh
+career longevity + healthy longevity
+flexibility
+current income? Not really "much-needed"
+
 -- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
 
 --update the 7 requirements of late binding in c++
