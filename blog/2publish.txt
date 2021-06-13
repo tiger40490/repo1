@@ -1,5 +1,27 @@
 -- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
 
+--update the 7 requirements of late binding in c++
+the virtual function's call site is NOT inside a ctor/dtor
+
+-- new: multiset, multimap
+In multimap, one key maps to a bag of payloads. As in any map containers, the payloads can be duplicates. In the multimap context, the group of payloads for key1 can also be duplicates.
+
+I think a reasonable implementation is {keyObject -> list of payloads}
+
+In multiset, multiple distinct payload objects can appear equivalent. They could differ by non-essential attributes like creationTime. 
+
+Some people assume multiset can be represented as {keyObject -> count}, but such a container can't hold two equivalent-yet-distinct keyObjects. When I iterate the multiset, I want to see the distinct creationTime values, so all the indivisual payload objects must be saved.
+
+I think a reasonable implementation is treeSet{list{payloads}}.
+
+-- update: https://btv-gz.dreamhosters.com/2009/12/11/pureconcrete-virtual-functions/
+Pure virtual dtor is one standard idiom to ensure the host class B is abstract. To use this class you must instantiate a subclass D.
+[[moving from c to c++]] P404
+A body of this dtor is still required at runtime when a D instance is destructed, so you must provide a definition for ~B() but keep this dtor pure virtual. 
+
+Q: How is such a concrete pure virtual different from a concrete virtual? 
+A: subclass D inherits a pure virtual dtor and must concretize it to become a concrete class.
+
 -- new: equal sign usually follows the decorating symbol:
 :=
 !=

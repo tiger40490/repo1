@@ -1,14 +1,3 @@
--- update: https://btv-gz.dreamhosters.com/2009/12/11/pureconcrete-virtual-functions/
-Pure virtual dtor is one standard idiom to ensure the host class B is abstract. To use this class you must instantiate a subclass D.
-[[moving from c to c++]] P404
-A body of this dtor is still required at runtime when a D instance is destructed, so you must provide a definition for ~B() but keep this dtor pure virtual. 
-
-Q: How is such a concrete pure virtual different from a concrete virtual? 
-A: subclass D inherits a pure virtual dtor and must concretize it to become a concrete class.
-
---update the 7 requirements of late binding in c++
-the virtual function's call site is NOT inside a ctor/dtor
-
 -- fuxi: tech books beat online browsing in some situations like learning a new language. The book is more comprehensive than multiple sites combined.
 
 --new or fuxi: c++ range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
@@ -20,8 +9,7 @@ The infinite range doesn't rely on a container but seems to be a secondary featu
 
 Will C++ range become IV-hot? If it does then I will study.
 
-
--- new or udpate
+-- new or udpate "unexpected"
 c++ exception specification is removed in c++17. Remember that any exception unlisted triggers "unexpected". Those features [set_unexpected(), unexpected_handler] are also removed.
 
 std library removed bind1st etc, binary_function etc in c++17
@@ -34,17 +22,6 @@ For c++
 #2 is Simula
 
 For C #1 is the B language
-
--- new: multiset, multimap
-In multimap, one key maps to a bag of payloads. As in any map containers, the payloads can be duplicates. In the multimap context, the payloads for key1 can also be duplicates.
-
-I think a reasonable implementation is {keyObject -> list of payloads}
-
-In multiset, multiple distinct payload objects can appear equivalent. They could differ by non-essential attributes like creationTime. 
-
-Some people assume multiset can be represented as {keyObject -> count}, but such a container can't hold two equivalent-yet-distinct keyObjects. When I iterate the multiset, I want to see the distinct creationTime values, so all the indivisual payload objects must be saved.
-
-I think a reasonable implementation is treeSet{list{payloads}}.
 
 -- new: whenever you notice "private" keyword, think of "friend". Private/friend are an inseparable pair of keywords.
 Similarly, every time you see "cosnt", think of const/mutable pair. Inside classes, private is more useful than const.
@@ -101,9 +78,6 @@ Q: in your java project, is memory an issue?
 Signal is always asynch, never immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.
 
 One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
-
--- fuxi: uniqPtr MktVal imt sharedPtr
-.. due to move-semantics, which is a IV-hot topic
 
 --fuxi
 signals in windows? not popular
