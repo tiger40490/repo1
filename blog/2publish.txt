@@ -1,3 +1,15 @@
+-- new: alcohol
+t_ska
+Alcohol is much more than nutrition or health. 
+Alcohol is social. We are judged. Your alcohol attitude is comparable to your attire or your transportation choices. As a more remote analog, golf is much more than a sport. As such alcohol is highly commercial.
+Therefore there's a lot of sponsored research in the health effects of alcohol. These findings tend to dominate the discussions about alcohol.
+
+There's too much misinformation and propaganda about alcohol. I have little bandwidth for that noise. Instead, I prefer simple, verified facts about alcohol:
+* In human history, alcohol hae never been necessary for health or happiness. The health benefits have not become substantial.
+* alcohol presents many risks not only to health
+
+alcohol lifestyle might be important for some salemen but not me. Many of those OC-effective types tend to "advise" me to embrace alcohol. I used to feel weak and ineffective in my stubborn, "old-fashioned" attitude on alcohol. Well, now I like my attitude.
+
 -- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
 
 --update the 7 requirements of late binding in c++

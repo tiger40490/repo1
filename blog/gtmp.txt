@@ -15,19 +15,7 @@ phones are more addictive than computers.
 phones need data 
 phone screen too small
 
--- new: alcohol
-t_ska
-Alcohol is much more than nutrition or health. 
-Alcohol is social. We are judged. Your alcohol attitude is comparable to your attire or your transportation choices. As a more remote analog, golf is much more than a sport. As such alcohol is highly commercial.
-Therefore there's a lot of sponsored research in the health effects of alcohol. These findings tend to dominate the discussions about alcohol.
-
-There's too much misinformation and propaganda about alcohol. I have little bandwidth for that noise. Instead, I prefer simple, verified facts about alcohol:
-* In human history, alcohol hae never been necessary for health or happiness. The health benefits have not become substantial.
-* alcohol presents many risks not only to health
-
-alcohol lifestyle might be important for some salemen but not me. Many of those OC-effective types tend to "advise" me to embrace alcohol. I used to feel weak and ineffective in my stubborn, "old-fashioned" attitude on alcohol. Well, now I like my attitude.
-
--- new: y so few of my peers have a top college degree.
+-- fuxi: y so few of my peers have a top college degree.
 In their 20's, very few could get a scholarship to a branded college, so they have to settle for a lower-tier.
 After a certain age, a very low single-digit percentage would see enough justification for the high cost of a branded degree. 
 
@@ -53,13 +41,13 @@ Some of them have no kids.
 
 --update blogpost on stealth https://btv-open.dreamhosters.com/wp-admin/post.php?post=22049&action=edit
 .. library
-From my early 20s till early 30's, probably after NUS, I often felt inferior to the 20-something technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, the mainstreet sales/trading professionals in high-value domains like rEstate, insurance, car,, ... 
+From my early 20s till early 30's, probably after NUS, I often felt inferior to some in my cohort -- technopreneurs, the OC-effective young managers, the young MBAs, CFAs/CPAs, the finance professionals, sales/trading professionals in rEstate, insurance, car,, ... 
 In SG, the blue-collar engineer has a low status compared to in the U.S. 
 I felt like an ugly duckling, esp. in the dating game. None of the role models in the media or in the community was a programmer.
 
-In the library, I would read tech books all day long, and those young men don't need to read that much. They would read business or magazines, even newspapers. They can also learn on youtube, but I find tech learning a bit supercial on youtube.
+In the library, I would read tech books all day long, and those young men don't need to read that much. They would read business or magazines, even newspapers. 
 
-Some of them read about rEstate or stocks, as they have an early start on personal finance. I could only watch on the sideline.
+Some of them read about rEstate or stocks, as they have an early start on personal finance. I could only watch on the sideline. (Now I am ahead of my cohort on personal finance.)
 
 I think my 5-10 years of self-study was charging my batteries, or building my infrstructure.
 
