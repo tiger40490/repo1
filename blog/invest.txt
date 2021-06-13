@@ -28,7 +28,7 @@ We can look at actual inflation. One of the biggest complaints of Chinese citize
 Q: is SGD 3k CRBR realistic? 
 A: I still feel confident. 
 
--- Singapore HDB locations
+-- fuxi: Singapore HDB locations
 Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city (how about Holland Village?). I guess Tampines, JurongEast are similar.
 
 Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
@@ -81,9 +81,9 @@ I think US index funds show far better returns than other regional indices. When
 
 The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
 
--- new: which aspiration ≠ LG2
+-- new: which middle-class aspiration ≠ LG2
 t_cmcUS
-So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential.
+So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential:
 
 Branded college
 SDXQ
@@ -96,4 +96,4 @@ safe, conducive school?
 Safe, clean street? No. This is not just for middle-class
 
 -- update blogpost on SG retirement location
-I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important
+I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important. Remote parts of SG is best.
