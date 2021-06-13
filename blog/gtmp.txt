@@ -1,13 +1,10 @@
--- pronounce
+-- new: pronounce
 cloth
 clothes
 clothing
 
 -- fuxi: most countries only authorize a small number of covid vaccines.
 I guess it's unnecessary risk to authorize a lage variety.
-
--- fuxi: for this week, each kick = 1D lock up
-push penalty.. reduce
 
 --update blogpost ... steadfast focus
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
