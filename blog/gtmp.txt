@@ -3,6 +3,9 @@ cloth
 clothes
 clothing
 
+-- new:
+Among the U.S. immigrants, probably 90% come from less wealthy countries. Probably below 1% come from wealthier (always small) nations like Switzerland, Luxembourg, and Singapore
+
 -- fuxi: most countries only authorize a small number of covid vaccines.
 I guess it's unnecessary risk to authorize a lage variety.
 
