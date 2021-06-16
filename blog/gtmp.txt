@@ -5,35 +5,38 @@ brank, OC-effectiveness
 
 Focus on the room4improvement is painful. We need more realistic targets like I had with daily yoga.
 
--- slowing personal progress? 
-As we age, some earlier domains of (personal) growth would be replaced by new domain of growth.
+-- progressive growth: slowing 
+This blogpost describes a type of personal goal in terms of 1) burn and 2) measurable progress and "battery". 
+
+As we age, some earlier domains of (personal) growth would be replaced by new domain of growth. Crucially, the progress we make may not last very long. Imperfect batteries.. See https://btv-open.dreamhosters.com/2021/01/12/accumulate-across-domains/
 
 The "burn" defining features [materialistic gain + self-discipline ] are fundamental. Note my absorbency is a scarce resource.
 
 [m=measurable]
+[b=battery, progress]
 [a=absorbency]
 
-[am] BMI is the best type of tough goal -- measurable, easy to monitor, strategic leverage. BMI is my #1 goal.
-[E am] chin-up .. kinda measurable. 
+[  abm] BMI is the best type of tough goal -- measurable, easy to monitor, strategic leverage. BMI is my #1 goal.
+[E am] chin-up .. kinda measurable but short-lived
 [D a] stretching .. less measurable. But I can target 1 minute/day
-[C=decent] [a] weekly workout frq .. improving. Targets are well-chosen.
-[a] coding drill[E] and [C]QQ-xx is now a LGlp.
-[F a] localSys xx
+[C=decent m] [a] weekly workout frq .. improving. Targets are well-chosen.
+[  ab] coding drill[E] and [C]QQ-xx is now a LGlp.
+[F ab] localSys xx
 
 I tend to focus on the room4improvement, subconscioussly motivating myself. Sometimes I want to highlight the positive
 
-[B] IV competitiveness .. well-maintained
-[B+] (long-term) career and (current) job security 
-[A- m] salary .. well-maintained, much better than feared. I now care less about exclub. By livelihood target, my salary is A++++.
+[B b] IV competitiveness .. well-maintained
+[B+b] (long-term) career and (current) job security 
+[A-bm] salary .. well-maintained, much better than feared. I now care less about exclub. By livelihood target, my salary is A++++.
 [A+] work/life balance, commute ... much better than before.
 memory aging .. better than feared
 sexual health
-[C m] BGC rental mgmt .. improving
-[A- m] NAV is growing at a steady pace, hitting my targets
-[A m] brbr ... well-maintained.
-[C m] stock picking .. enjoyable, not tough burn. Targets are LGlp. 
-[A-] brbr recon .. improving
-[B] preparation for U.S. relocation .. (financial++) improving fundamentally
+[C bm] BGC rental mgmt .. improving
+[A-bm] NAV is growing at a steady pace, hitting my targets
+[A  m] brbr ... well-maintained.
+[C bm] stock picking .. enjoyable, not tough burn. Targets are LGlp. 
+[A-b] brbr recon .. improving
+[B b] preparation for U.S. relocation .. (financial++) improving fundamentally
 
 -- challenge of chin-up target
 A realistic goal would be one a day, but such a goal doens't generate positive feedback. 
