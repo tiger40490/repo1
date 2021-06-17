@@ -1,6 +1,6 @@
 -- fuxi: The CoreData presentation introduced many new technologies in data management , including elastic cloud, data warehouse, ETL, MOM, noSQL ..  
 
-These domains suffer high churn. Luckily, I didn't join Ab-initio.
+These domains suffer high churn. Luckily, I didn't join Ab-initio. I think in these job interviews, there's no coding or low-level QQ quizzes, but probably lots of tool knowlege required. I recall the spring/hibernate interviews. If you acquire lots of tool knowledge, you will still lose the coding or QQ interviews.
 
 java is relevant to all of them.
 python is relevant to many of them.
