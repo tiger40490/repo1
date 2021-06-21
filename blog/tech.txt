@@ -1,4 +1,10 @@
 -- fuxi: tech books beat online browsing in some situations like learning a new language. The book is more comprehensive than multiple sites combined.
+-- fuxi blogpost on VLA
+Both alloca() and VLA allocate in the stackframe of current function (or a block).
+
+malloc() is an older alternative to VLA but key difference is deallocation. Like alloca(), VLA has automatic storage so deallocation happens automatically at end of block. 
+
+sizeof on VLA executes at runtime. 
 
 -- new: free() and footprint@process
 If malloc() allocates 16M, then free() would (use the bookkeeping info to) returns the same amount of memory, usually to the free list. The free list is managed by the DMA library and private to the current process, not shared with another process. 
