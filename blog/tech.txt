@@ -6,19 +6,18 @@ malloc() is an older alternative to VLA but key difference is deallocation. Like
 
 sizeof on VLA executes at runtime. 
 
--- new: free() and footprint@process
-If malloc() allocates 16M, then free() would (use the bookkeeping info to) returns the same amount of memory, usually to the free list. The free list is managed by the DMA library and private to the current process, not shared with another process. 
+-- new: free() and footprint@pid
+If malloc() allocates 16M, then free() would (use the bookkeeping info to) return the same amount of memory, usually to the free list. The free list is managed by the DMA library and private to the current process, not shared with another process. 
 
 [[Understanding and using C pointers]] points out that this 16M is not returned to the host OS and available to other processes. Therefore, the memory footprint of the current process doesn't reduce due to free().
 
 -- new
-iterator comparison make sense only when the 2 values point into a sequence container.
-The comparison is modelled after pointer comparison in an array.
+iterator comparison makes sense only when the 2 values point into a sequence container.
+The comparison is modelled after "pointer comparison" which is meaningful in an array.
 
 You can subtract itr1 from itr2. The result is a difference_type. See https://www.cplusplus.com/reference/iterator/iterator_traits/ This is modelled after ptrdiff_t for pointer 
 
 --fuxi: pointer to function is a C concept. You can use method reference in python. In all cases, there is a unique address to each named function. That address is in the text segment
-
 
 --new or fuxi: c++ range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
 However, c++ range, as a STL extention, seems to rely on an underlying container.
