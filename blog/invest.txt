@@ -1,3 +1,13 @@
+-- ocbc mtg:
+you can request HDB for valuation, but ocbc will concurrently do their own valuation. That can be fast. 
+
+as soon as you sign otp, you can send otp + myInfo (salary slip may not be needed) to ocbc. LOOffer is available within a week "definitely", perhaps before the hdb valuation is available.
+
+bridging loan interest is higher than mtg rate.
+
+SORA mtg rate is likely lower than SIBOR rate. 
+
+Board rate, SORA .. all need you to keep outstanding amount above 50% (of original) within first 2 years. However, given how low the mtg rate is, you could invest to earn higher rate.
 -- Jun.Z on SG condo
 t_misperception
 appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
