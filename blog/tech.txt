@@ -1,3 +1,23 @@
+-- new java stack
+Stack.java is not deprecated but Deque.java inerface is a recommended replacement. However, I think Stack has a cleaner interface with fewer unwanted API methods.
+
+.. Here is an advice from a Comp science professor to students in [[ThinkDataStructure]]
+
+LinkedList.java implements both the Deque.java and List.java interfaces. 
+
+If you declare a lnked list as a Deque<Str> variable, you can't use the List methods.
+
+If you declare a lnked list as a List<Str> variable, you can't use the Deque methods.
+
+If you declare a lnked list as a LinkedList<Str> variable, you can use all methods but your code can become confusing and error-prone. 
+
+-- iterative DFS
+Implementing iterative DFS on an CIV sounds daunting but can happen because ... becasue it is not too lengthy or too hard and therefore competency is expected.
+
+Similarly, writing a lockfree stack or wait/notify solution is daunting to some candidates but not to others.
+
+Fair-game :( I'm nervous about my ECT speed. Can improve.
+
 -- fuxi: tech books beat online browsing in some situations like learning a new language. The book is more comprehensive than multiple sites combined.
 -- fuxi blogpost on VLA
 Both alloca() and VLA allocate in the stackframe of current function (or a block).
