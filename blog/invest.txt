@@ -1,13 +1,21 @@
--- ocbc mtg:
-you can request HDB for valuation, but ocbc will concurrently do their own valuation. That can be fast. 
+-- update blogpost https://tanbinvest.dreamhosters.com/2017/01/20/semi-conscious-luxury-spend/
+On vacations (even at home) my family sometimes feel "why must we be so careful spending money?".
 
-as soon as you sign otp, you can send otp + myInfo (salary slip may not be needed) to ocbc. LOOffer is available within a week "definitely", perhaps before the hdb valuation is available.
+People want "freedom" to spend.  Similarly, people want freedom to eat whatever they want, and the freedom not to exercise or brush teeth, the freedom to sleep any time they want and get up only when they want to. All of these freedoms are detrimental to the body (not to mention the mind)
+
+Note careful != frugal. I do spend quite a bit on education, reunion flights, piano courses, wpress hosting, laptops, books, taxi to beach outing... Not so stingy, but conscious spending, not mindless spending.
+
+-- ocbc mtg:
+you can request HDB for valuation, but ocbc will concurrently do their own valuation, which can be faster.
+
+as soon as you sign otp, you can send otp + myInfo (salary slip unneeded) to ocbc. L@Offer is available within a week "definitely", perhaps before the hdb valuation is available.
 
 bridging loan interest is higher than mtg rate.
 
 SORA mtg rate is likely lower than SIBOR rate. 
 
 Board rate, SORA .. all need you to keep outstanding amount above 50% (of original) within first 2 years. However, given how low the mtg rate is, you could invest to earn higher rate.
+
 -- Jun.Z on SG condo
 t_misperception
 appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
