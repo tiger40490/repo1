@@ -1,3 +1,8 @@
+-- pointer usage in threading
+In a C++ thread, a pointer could point to heap, to static memory region, to another call stack (another thread) or another stackframe on the same call stack
+
+In java, pointers always points to heap.
+
 -- new: iterators in c++^py^java
 Iterator is one of the best examples of abstraction. Java uses interface to support such abstractions. Python uses protocols. C++ is more complex.
 
@@ -23,7 +28,6 @@ If you declare a lnked list as a List<Str> variable, you can't use the Deque met
 
 If you declare a lnked list as a LinkedList<Str> variable, you can use all methods but your code can become confusing and error-prone. 
 
--- fuxi: tech books beat online browsing in some situations like learning a new language. The book is more comprehensive than multiple sites combined.
 -- fuxi blogpost on VLA
 Both alloca() and VLA allocate in the stackframe of current function (or a block).
 
