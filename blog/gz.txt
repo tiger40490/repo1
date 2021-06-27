@@ -1,3 +1,18 @@
+--new: architects needs: breadth imt depth
+t_expertise, t_churn
+[[Fundamentals of software architecture]]
+
+Developers need technical depth (and need to maintain that depth)... expertise. The book didn't mention the importance of interviews. Interview is the real arena for expertise, because after the interview, on the job, the candidate won't need a lot of expertise.
+
+Archtects need breadth more than technical depth. So the authors advocates/suggests selectively giving up accumulated tech depth in some domains.
+
+But in my experience interviewers seldom value breadth nearly as much as depth. 
+by definition, breadth is not-deep ... too shallow to impress in most interviews.
+
+Shallow knowledge is also more subject to churn.
+
+mkt depth .. If 50 out of 100 software engineering jobs out there require some level of depth, then perhaps 5 require some breadth. Therefore, in terms of market depth, breadth is inferior to depth.
+
 -- update blogpost on mkt depth
 runners, painters .. have the worst mkt depth. Only the national top runners can earn endorsement fees or receive government support.
 
