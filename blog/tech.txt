@@ -2,7 +2,7 @@
 Some compilers (Microsoft etc) even save file name and line number details in the bookkeeping for each malloc chunk.
 
 -- new: void pointer in C: primitive generic container
-[[Understanding and Using C pointers]] P191 has use case of a void pointer. Void pointers are rarely needed, so this is one interesting example in a reputable book. The use case is a generic linked list. 
+[[Understanding and Using C pointers]] P191 has a use case of a void pointer. Void pointers are rarely needed, so this is one interesting example in a reputable book. The use case is a generic linked list. 
 
 The payload is a (presumably heap) pointer. So a sizeof(Node) doesn't include sizeof(payload on heap). This way, the sizeof(Node) is known to compiler. I think java linked list is similar in memory layout.
 

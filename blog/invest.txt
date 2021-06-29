@@ -1,3 +1,6 @@
+-- inflation (beyond CPI) is partly driven by consumer demand.
+food, clothing, residential property
+
 -- new: personal system4stock-picking 
 if you want to gradually develop a personal stock-picking "system", then you need to make a large number of small but real decision, over different times. A few big trades won't grow your confidence fast enough.
 
