@@ -1,6 +1,17 @@
 -- update bookkeeping data for malloc
 Some compilers (Microsoft etc) even save file name and line number details in the bookkeeping for each malloc chunk.
 
+-- new: void pointer in C: primitive generic container
+[[Understanding and Using C pointers]] P191 has use case of a void pointer. Void pointers are rarely needed, so this is one interesting example in a reputable book. The use case is a generic linked list. 
+
+The payload is a (presumably heap) pointer. So a sizeof(Node) doesn't include sizeof(payload on heap). This way, the sizeof(Node) is known to compiler. I think java linked list is similar in memory layout.
+
+There are "methods" associated with the LinkedList struct... a basic class.
+
+Encapsulation .. achieved with fwd declaration of Node struct and LinkedList struct in a shared header
+
+To use this linked list, ApplicationA could pass Account pointers as the payload. ApplicationB could pass a Teacher pointer as payload. Both would match the void pointer in Node declaration. 
+
 -- new
 [[understanding and using C pointers]] P194 had a sidebar warning that Understanding how memory is allocated for a class instance is key to understanding inheritance and apolymorphism in OO. 
 
