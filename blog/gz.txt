@@ -1,4 +1,4 @@
---new: architects needs: breadth imt depth
+--new: architect career needs: breadth imt depth
 t_expertise, t_churn
 [[Fundamentals of software architecture]]
 
