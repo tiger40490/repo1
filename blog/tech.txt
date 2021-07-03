@@ -3,6 +3,19 @@ The equivalence is strongest in argument passing. An array ptr degenerates to a 
 
 However, passing vector (or std::string) is very different. 
 
+-- new: 
+many authors esp. in C/C++ warn readers "non-standard, platform dependent feature .. not guaranteed to work. Testing required."
+
+Venkat of OC said "If this feature is not in the c++ standard then you can't rely on it." I disagree. Compiler vendors don't remove or modify any feature for no reason. 
+
+In general, software makers are not bound by any industry standard. Many of the world's most reliable softwares have 99.9% compliance with published standards. That includes operating systems, compilers, RDBMS, network gears, CPUs. China often invents its own standards.
+
+In reality, if you stick to a fixed version of compiler, on a fixed OS version, then any platform-dependent feature will continue to work. 
+
+A "bug" in a non-standard portion of a library, a compiler or a host application sometimes remain for decades, esp. when generations of develoeprs have grown used to it.
+
+How about upgrading your local version? Those features can break. Well, such upgrades always requires regression-testing even if you use only standard-compliant features. Those features may not be 100% fully supported by the vendor. That support may shift from version to version. The feature itself may undergo changes in the standardar documents. 
+
 -- new fixed-sized std::vector
 First we had fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is the upgrade from malloc array.
 
