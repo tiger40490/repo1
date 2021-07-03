@@ -3,18 +3,39 @@ The equivalence is strongest in argument passing. An array ptr degenerates to a 
 
 However, passing vector (or std::string) is very different. 
 
+-- new: RAII: vector of ptrToStruct
+The pattern: RAII is meaningful only for a class with a custom dtor. The dtor should clean up some resources, usually via a resource handle implemented as a heap ptr. 
+
+Consider a simple struct B with fields and a synthesized dtor.
+
+Q1: Is ther a meaningful RAII in a std::vector of B?
+A: Yes vector's internal array is on heap. Destructing the vector would deallocate the array. The B dtor is not really part of RAII.
+
+Q2: Is ther a meaningful RAII in a std::vector of B pointers (DMA)?
+A: memory leak ! the vector dtor would destruct each element, but the dtor for a ptr is noop, not operator-delete :( 
+A: to prevent memory leak, you need vector of smart pointers.
+
+Q3: what if B has a pointer to some heapy thingy?
+A: then B dtor should be customized for RAII. A1 / A2 still apply
+
+-- new
+malloc array is essential to jagged arrays. 
+rectangular array is usually declared as fixed, not using malloc
+
 -- new: 
 many authors esp. in C/C++ warn readers "non-standard, platform dependent feature .. not guaranteed to work. Testing required."
 
 Venkat of OC said "If this feature is not in the c++ standard then you can't rely on it." I disagree. Compiler vendors don't remove or modify any feature for no reason. 
 
-In general, software makers are not bound by any industry standard. Many of the world's most reliable softwares have 99.9% compliance with published standards. That includes operating systems, compilers, RDBMS, network gears, CPUs. China often invents its own standards.
+In general, software makers are not bound by any industry standard. Many of the world's most reliable softwares reach less than 99.99% compliance with published standards. That includes operating systems, compilers, RDBMS, CPU instruciton sets, communication protocols.
+
+(In telecommunications, China often invents its own standards).
 
 In reality, if you stick to a fixed version of compiler, on a fixed OS version, then any platform-dependent feature will continue to work. 
 
-A "bug" in a non-standard portion of a library, a compiler or a host application sometimes remain for decades, esp. when generations of develoeprs have grown used to it.
+A "bug" in a non-standard portion of a library, a compiler or a host application are sometimes retained for decades, esp. when generations of develoeprs have grown used to it.
 
-How about upgrading your local version? Those features can break. Well, such upgrades always requires regression-testing even if you use only standard-compliant features. Those features may not be 100% fully supported by the vendor. That support may shift from version to version. The feature itself may undergo changes in the standardar documents. 
+How about upgrading your local installation? Those features can break. Well, such upgrades always require regression-testing even if you keep within standard features. Those features may not be 100% fully supported by a vendor. That support may change from release to release. The feature itself may undergo changes in the standardar documents. 
 
 -- new pre-sized std::vector
 First we had fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is the upgrade from malloc array.
