@@ -16,12 +16,12 @@ A "bug" in a non-standard portion of a library, a compiler or a host application
 
 How about upgrading your local version? Those features can break. Well, such upgrades always requires regression-testing even if you use only standard-compliant features. Those features may not be 100% fully supported by the vendor. That support may shift from version to version. The feature itself may undergo changes in the standardar documents. 
 
--- new fixed-sized std::vector
+-- new pre-sized std::vector
 First we had fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is the upgrade from malloc array.
 
 It offers RAII clean-up.
 
-It offers copy and move support.
+It offers copy and move support, so you can pass it into/out of function.
 
 -- new
 during my college year and CharteredSemi years, I invested myself wholeheartedly in C programming. One of the most enjoyable topics was cStr/array processing, 
