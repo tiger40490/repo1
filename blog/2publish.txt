@@ -144,18 +144,6 @@ my decision on dev-till-70 and healthy longevity till 95
 -- new Eng: avoid^aim-to-avoid
 the scheme should avoid ... # sounds like eliminate
 
--- new: scale-out favored by tech propaganda
-The propaganda and the simplistic view favors scale-out. However, scale-out can underperform.
-
-similarly, multithreaded qsort can be slower than single-threaded. 
-
-The original paper on COST (Configuration that Outperforms a Single Thread) asserts that 
-The unoptimized implementation "scales" far better, despite (or rather, because of) its inferior instance performance. 
-
-The COST of a given platform for a given problem is the count of cpu cores required before the platform outperforms an optimized single-threaded implementation.
-
-The COST can be hundreds of cores. That many cores may be required by a given scale-out platform to beat a single-threaded implmenetation. If you grow an army of tadpoles against a whale in a tug-of-war, you need an army of millions.
-
 --update zero sum game
 bccy and gold are zero sum games by definition since there's no income generated. 
 However, gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is hopefully better than a zero-sum game, only over the long-term.
