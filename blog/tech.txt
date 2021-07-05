@@ -36,9 +36,6 @@ So the memory layout is an dynamic array of 90 "shells" (not 90 pointers). Each 
 
 [1] or malloc
 
--- update bookkeeping data for malloc
-Some compilers (Microsoft etc) even save file name and line number details in the bookkeeping for each malloc chunk.
-
 -- new: void pointer in C: primitive generic container
 [[Understanding and Using C pointers]] P191 has a use case of a void pointer. Void pointers are rarely needed, so this is one interesting example in a reputable book. The use case is a generic linked list. 
 
@@ -50,14 +47,14 @@ Encapsulation .. achieved with fwd declaration of Node struct and LinkedList str
 
 To use this linked list, ApplicationA could pass Account pointers as the payload. ApplicationB could pass a Teacher pointer as payload. Both would match the void pointer in Node declaration. 
 
--- new
+-- fuxi
 [[understanding and using C pointers]] P194 had a sidebar warning that Understanding how memory is allocated for a class instance is key to understanding inheritance and apolymorphism in OO. 
 
 Well, java OO, python OO, php/javascript OO do not require this low-level allocation knowledge at all. Java OO requires this knowledge only for QQ interviews.
 
-The book author is has a low-level C/c++ perspective.
+The book author has a low-level C/c++ perspective.
 
--- pointer usage in threading
+-- fuxi: pointer usage in threading
 In a C++ thread, a pointer could point to heap, to static memory region, to another call stack (another thread) or another stackframe on the same call stack
 
 In java, pointers always points to heap.
@@ -73,7 +70,6 @@ Iterator invalidation .. unique to c++
 fail-fast iterator .. unique to java
 infinite-series iterator .. is easy for python's yield, and also supported in std::ranges 
 C# also has some special features, but I won't cover them.
-
 
 -- new: 
 many authors esp. in C/C++ warn readers "non-standard, platform dependent feature .. not guaranteed to work. Testing required."
@@ -91,7 +87,7 @@ A "bug" in a non-standard portion of a library, a compiler or a host application
 How about upgrading your local installation? Those features can break. Well, such upgrades always require regression-testing even if you keep within standard features. Those features may not be 100% fully supported by a vendor. That support may change from release to release. The feature itself may undergo changes in the standardar documents. 
 
 -- new java stack
-Stack.java is not deprecated but Deque.java inerface is a recommended replacement. However, I think Stack has a cleaner interface with fewer unwanted API methods.
+Stack.java is not deprecated but Deque.java interface is a recommended replacement. However, I think Stack has a cleaner interface with fewer unwanted API methods.
 
 .. Here is an advice from a Comp science professor to students in [[ThinkDataStructure]]
 
