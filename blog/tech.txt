@@ -18,27 +18,27 @@ A: to prevent memory leak, you need vector of RAII smart pointers.
 Q3: what if B has a pointer to some heapy thingy?
 A: then B dtor should be customized for RAII. A1 / A2 still apply
 
--- new: 
-many authors esp. in C/C++ warn readers "non-standard, platform dependent feature .. not guaranteed to work. Testing required."
-
-Venkat of OC said "If this feature is not in the c++ standard then you can't rely on it." I disagree. Compiler vendors don't remove or modify any feature for no reason. 
-
-In general, software makers are not bound by any industry standard. Many of the world's most reliable softwares reach less than 99.99% compliance with published standards. That includes operating systems, compilers, RDBMS, CPU instruciton sets, communication protocols.
-
-(In telecommunications, China often invents its own standards).
-
-In reality, if you stick to a fixed version of compiler, on a fixed OS version, then any platform-dependent feature will continue to work. 
-
-A "bug" in a non-standard portion of a library, a compiler or a host application are sometimes retained for decades, esp. when generations of develoeprs have grown used to it.
-
-How about upgrading your local installation? Those features can break. Well, such upgrades always require regression-testing even if you keep within standard features. Those features may not be 100% fully supported by a vendor. That support may change from release to release. The feature itself may undergo changes in the standardar documents. 
-
 -- new pre-sized std::vector
 First we had fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is the upgrade from malloc array.
 
 It offers RAII clean-up.
 
 It offers copy and move support, so you can pass it into/out of function.
+
+-- new: memory layout: vector{string}
+observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
+
+observation: the string's char-array can grow (unlike String.java), so this array must be allocated via array-new.
+
+So the overall memory layout is similar to vector of vector !
+
+Let's assume a capacity of 90 in a 64-bit machine.
+
+Does the vector hold pointers to string? No. An array of 90 pointers require 720 bytes, but an array of 90 strings take 32*90 bytes.
+
+So the memory layout is an dynamic array of 90 "shells" (not 90 pointers). Each shell holds a pointer to a char-array on heap.
+
+[1] or malloc
 
 -- new
 during my college year and CharteredSemi years, I invested myself wholeheartedly in C programming. One of the most enjoyable topics was cStr/array processing, 
@@ -105,6 +105,22 @@ fail-fast iterator .. unique to java
 infinite-series iterator .. is easy for python's yield, and also supported in std::ranges 
 C# also has some special features, but I won't cover them.
 
+
+-- new: 
+many authors esp. in C/C++ warn readers "non-standard, platform dependent feature .. not guaranteed to work. Testing required."
+
+Venkat of OC said "If this feature is not in the c++ standard then you can't rely on it." I disagree. Compiler vendors don't remove or modify any feature for no reason. 
+
+In general, software makers are not bound by any industry standard. Many of the world's most reliable softwares reach less than 99.99% compliance with published standards. That includes operating systems, compilers, RDBMS, CPU instruciton sets, communication protocols.
+
+(In telecommunications, China often invents its own standards).
+
+In reality, if you stick to a fixed version of compiler, on a fixed OS version, then any platform-dependent feature will continue to work. 
+
+A "bug" in a non-standard portion of a library, a compiler or a host application are sometimes retained for decades, esp. when generations of develoeprs have grown used to it.
+
+How about upgrading your local installation? Those features can break. Well, such upgrades always require regression-testing even if you keep within standard features. Those features may not be 100% fully supported by a vendor. That support may change from release to release. The feature itself may undergo changes in the standardar documents. 
+
 -- new java stack
 Stack.java is not deprecated but Deque.java inerface is a recommended replacement. However, I think Stack has a cleaner interface with fewer unwanted API methods.
 
@@ -163,21 +179,6 @@ For C #1 is the B language
 
 -- new: whenever you notice "private" keyword, think of "friend". Private/friend are an inseparable pair of keywords.
 Similarly, every time you see "cosnt", think of const/mutable pair. Inside classes, private is more useful than const.
-
--- new: memory layout: vector{string}
-observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
-
-observation: the string's char-array can grow (unlike String.java), so this array must be allocated via array-new.
-
-So the overall memory layout is similar to vector of vector !
-
-Let's assume a capacity of 90 in a 64-bit machine.
-
-Does the vector hold pointers to string? No. An array of 90 pointers require 720 bytes, but an array of 90 strings take 32*90 bytes.
-
-So the memory layout is an dynamic array of 90 "shells" (not 90 pointers). Each shell holds a pointer to a char-array on heap.
-
-[1] or malloc
 
 -- new: wrapper struct over container elements
 Sometimes I need to construct a wrapper instance holding some kind of readonly-reference-to-element-in-container.
