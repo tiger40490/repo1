@@ -110,67 +110,16 @@ malloc() is an older alternative to VLA but key difference is deallocation. Like
 
 sizeof on VLA executes at runtime. 
 
--- new: free() and footprint@pid
-If malloc() allocates 16M, then free() would (use the bookkeeping info to) return the same amount of memory, usually to the free list. The free list is managed by the DMA library and private to the current process, not shared with another process. 
-
-[[Understanding and using C pointers]] points out that this 16M is not returned to the host OS and available to other processes. Therefore, the memory footprint of the current process doesn't reduce due to free().
-
--- new
-iterator comparison makes sense only when the 2 values point into a sequence container.
+-- fuxi
+iterator comparison (beyond equality) makes sense only when the 2 values point into a sequence container.
 The comparison is modelled after "pointer comparison" which is meaningful in an array.
 
 You can subtract itr1 from itr2. The result is a difference_type. See https://www.cplusplus.com/reference/iterator/iterator_traits/ This is modelled after ptrdiff_t for pointer 
 
 --fuxi: pointer to function is a C concept. You can use method reference in python. In all cases, there is a unique address to each named function. That address is in the text segment
 
---new or fuxi: c++ range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
-However, c++ range, as a STL extention, seems to rely on an underlying container.
-
-ranges are based on iterators/containers. 
-
-The infinite range doesn't rely on a container but seems to be a secondary feature.
-
-Will C++ range become IV-hot? If it does then I will study.
-
--- new or udpate "unexpected"
-c++ exception specification is removed in c++17. Remember that any exception unlisted triggers "unexpected". Those features [set_unexpected(), unexpected_handler] are also removed.
-
-std library removed bind1st etc, binary_function etc in c++17
-
-See https://mariusbancila.ro/blog/2018/07/05/c17-removed-and-deprecated-features/
-
--- new: closest ancestors of c/c++
-For c++
-#1 is C
-#2 is Simula
-
-For C #1 is the B language
-
--- new: whenever you notice "private" keyword, think of "friend". Private/friend are an inseparable pair of keywords.
-Similarly, every time you see "cosnt", think of const/mutable pair. Inside classes, private is more useful than const.
-
--- new: wrapper struct over container elements
-Sometimes I need to construct a wrapper instance holding some kind of readonly-reference-to-element-in-container.
-
-Do you want to hold raw pointers to the element?
-Do you want to hold smart pointer? No!
-Do you want to hold subscript into the container?
-Do you want to hold iterators into the container?
-
-If subscript is stable, then I think it is the cleanest design. This would be the case for array-like containres that are somehow constrained to avoid deletion/reallocation.
-
-The problem with a pointer field is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation...
-
-The iterator solution is more advanced, can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit. I think the advantage is itr-based insertion into the host container.
-
-
 -- BitMain
 Q: in your java project, is memory an issue?
-
---update blogpost on array^ptr
-The equivalence is strongest in argument passing. An array ptr degenerates to a ptr parameter. When you pass an array as an argument, it is nothing but a pointer.
-
-However, passing vector (or std::string) is very different. 
 
 -- fuxi or new:
 Signal is always asynch, never immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.

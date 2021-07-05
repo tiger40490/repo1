@@ -37,57 +37,6 @@ career longevity + healthy longevity
 flexibility
 current income? Not really "much-needed"
 
--- new: string pbref^pbclone: cpp++
-In java and c#, string objects are always passed by reference. 
-
-An extreme example is instructional ... consider a huge string object with 999 trillion characters. In java and c# this object is passed around without an expensive cloning process.
-
-In C, a cStr is an array, either on heap or elsewhere. It is usually passed by pointer (pbref). Pbclone is fairly common when the length is small. In C, string length is usually known in advance. 
-
-In C++, std::string is usually pbclone but it can be pbref. Overall, Passing std::string is more complicated than in other languages. 
-
-Inside many c/c++ structs I have seen, small string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that fixed length to be a compile-time constant, to support sizeof(). I think this design is industrial strength. It is based on a widespread "KnowYourData" principle. The string lengths should be fairly consistent and the max length known in advance. 
-An alternative design would use a std::string field. This is feasible, but not popular. There are many subtle complexities
-* copying would clone the string
-* dtor would destroy the string along with the char-array on heap
-* someone will try to get the address of this string field and pass it around. No such complexity exists in the earlier design.
-
--- update blogpost on IPC https://stackoverflow.com/questions/14973942/tcp-loopback-connection-vs-unix-domain-socket-performance shows that UDS outperform loopback TCP sockets
-
---update the 7 requirements of late binding in c++
-the virtual function's call site is NOT inside a ctor/dtor
-
--- new: multiset, multimap
-In multimap, one key maps to a bag of payloads. As in any map containers, the payloads can be duplicates. In the multimap context, the group of payloads for key1 can also be duplicates.
-
-I think a reasonable implementation is {keyObject -> list of payloads}
-
-In multiset, multiple distinct payload objects can appear equivalent. They could differ by non-essential attributes like creationTime. 
-
-Some people assume multiset can be represented as {keyObject -> count}, but such a container can't hold two equivalent-yet-distinct keyObjects. When I iterate the multiset, I want to see the distinct creationTime values, so all the indivisual payload objects must be saved.
-
-I think a reasonable implementation is treeSet{list{payloads}}.
-
-
--- update: https://btv-gz.dreamhosters.com/2009/12/11/pureconcrete-virtual-functions/
-Pure virtual dtor is one standard idiom to ensure the host class B is abstract. To use this class you must instantiate a subclass D.
-[[moving from c to c++]] P404
-A body of this dtor is still required at runtime when a D instance is destructed, so you must provide a definition for ~B() but keep this dtor pure virtual. 
-
-Q: How is such a concrete pure virtual different from a concrete virtual? 
-A: subclass D inherits a pure virtual dtor and must concretize it to become a concrete class.
-
--- new: NIC, 4 little dragons
-The original term "Newly Industrialized Countries" referred to these 4 east Asian economies
-
-The current list is very interesting.
-
-South Africa is the only NIC in Africa.
-Mexico and Brazil are the only two NICs in Latam, probably leading economies
-Among BRIC, only Russia is not an NIC.
-
-Asian NICs are mostly in SEA except China and India. So in Asia, the rich list has Japan on top, the 4 little dragons below it, then SEA, then China and India. The rest are nowhere. My view is similar to the Flying Geese paradigm.
-
 -- update blogpost on college ranking https://btv-open.dreamhosters.com/2020/09/21/university-rankings-hkindia/
 Many familiar college names have an informal reputation among a small circle of my friends, sometimes just one guy.
 The published ranking often challenges those informal and vague, often biased impressions. One concrete example is Princeton. A close friend wrote that "Princeton 本科是第一（USNews)，进入非常困难." I replied 
