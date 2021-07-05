@@ -163,21 +163,6 @@ The problem with a pointer field is ... a can of worm. Whoever reading the code 
 
 The iterator solution is more advanced, can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit. I think the advantage is itr-based insertion into the host container.
 
--- new: string pbref^pbclone: cpp++
-In java and c#, string objects are always passed by reference. 
-
-An extreme example is instructional ... consider a huge string object with 999 trillion characters. In java and c# this object is passed around without cloning the content. A cloning process is expensive.
-
-In C, a cStr is an array, either on heap or elsewhere. It is often passed by pointer (pbref). Pbclone is common when the length is small. In C, string length is usually known in advance. 
-
-In C++, std::string is often pbclone but it can be pbref. Overall, Passing std::string is more complicated than in other languages. 
-
-Inside many c/c++ structs I have seen, string fields are often represented as a fixed-length char-arrays without terminating null char. Note compilers require that fixed length to be a compile-time constant, to support sizeof(). I think this design is industrial strength. It is based on a widespread "KnowYourData" principle... the string lengths should be fairly consistent and the max length known in advance.
-
-An alternative design would use a std::string field. This is feasible, but not popular. There are many subtle complexities
-* copying would clone the string
-* dtor would destroy the string along with the char-array on heap
-* someone will try to get the address of this string field and pass it around. No such complexity exists in the earlier design.
 
 -- BitMain
 Q: in your java project, is memory an issue?
