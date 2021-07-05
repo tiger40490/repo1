@@ -1,7 +1,3 @@
---update blogpost on array^ptr
-The equivalence is strongest in argument passing. An array ptr degenerates to a ptr parameter. When you pass an array as an argument, it is nothing but a pointer.
-
-However, passing vector (or std::string) is very different. 
 
 -- update https://btv-gz.dreamhosters.com/2021/01/29/ccomposite-arrays/
 The pattern: RAII is meaningful only for a class with a custom dtor. The dtor should clean up some resources, usually via a resource handle implemented as a heap ptr. 
@@ -185,6 +181,11 @@ An alternative design would use a std::string field. This is feasible, but not p
 
 -- BitMain
 Q: in your java project, is memory an issue?
+
+--update blogpost on array^ptr
+The equivalence is strongest in argument passing. An array ptr degenerates to a ptr parameter. When you pass an array as an argument, it is nothing but a pointer.
+
+However, passing vector (or std::string) is very different. 
 
 -- fuxi or new:
 Signal is always asynch, never immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.
