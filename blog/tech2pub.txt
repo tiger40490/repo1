@@ -8,6 +8,9 @@ If malloc() allocates 16M, then free() would (use the bookkeeping info to) retur
 
 [[Understanding and using C pointers]] points out that this 16M is not returned to the host OS and available to other processes. Therefore, the memory footprint of the current process doesn't reduce due to free().
 
+--update invalidation rules:
+[[c++coding standards]] P150 says node-based containres can minimize iterator invalidation
+
 -- new: string pbref^pbclone: cpp++
 In java and c#, string objects are always passed by reference. 
 

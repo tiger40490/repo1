@@ -1,25 +1,11 @@
-
--- update https://btv-gz.dreamhosters.com/2021/01/29/ccomposite-arrays/
-The pattern: RAII is meaningful only for a class with a custom dtor. The dtor should clean up some resources, usually via a resource handle implemented as a heap ptr. 
-
-Consider a simple struct B with fields and a synthesized dtor.
-
-Q1: Is there a meaningful RAII in a vector of B?
-A: Yes vector's internal array is on heap. Destructing the vector would deallocate the array elements i.e. individual B instances. The B dtor is not really part of RAII.
-
-Q2: Is ther a meaningful RAII in a vector of B pointers to heap?
-A: memory leak ! the vector dtor would destruct each element, but the dtor for a ptr is noop, not operator-delete :( 
-A: to prevent memory leak, you need vector of RAII smart pointers.
-
-Q3: what if B has a pointer to some heapy thingy?
-A: then B dtor should be customized for RAII. A1 / A2 still apply
-
--- new pre-sized std::vector
+-- new convenient: pre-sized std::vector
 First we had fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is the upgrade from malloc array.
 
 It offers RAII clean-up.
 
 It offers copy and move support, so you can pass it into/out of function.
+
+See also [[c++coding standards]] P76
 
 -- new: memory layout: vector{string}
 observation: the vector's backing array can grow, so this array must be allocated via array-new[1], for a pre-computed capacity.
