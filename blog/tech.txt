@@ -3,24 +3,20 @@ The equivalence is strongest in argument passing. An array ptr degenerates to a 
 
 However, passing vector (or std::string) is very different. 
 
--- new: RAII: vector of ptrToStruct
+-- update https://btv-gz.dreamhosters.com/2021/01/29/ccomposite-arrays/
 The pattern: RAII is meaningful only for a class with a custom dtor. The dtor should clean up some resources, usually via a resource handle implemented as a heap ptr. 
 
 Consider a simple struct B with fields and a synthesized dtor.
 
-Q1: Is ther a meaningful RAII in a std::vector of B?
-A: Yes vector's internal array is on heap. Destructing the vector would deallocate the array. The B dtor is not really part of RAII.
+Q1: Is there a meaningful RAII in a vector of B?
+A: Yes vector's internal array is on heap. Destructing the vector would deallocate the array elements i.e. individual B instances. The B dtor is not really part of RAII.
 
-Q2: Is ther a meaningful RAII in a std::vector of B pointers (DMA)?
+Q2: Is ther a meaningful RAII in a vector of B pointers to heap?
 A: memory leak ! the vector dtor would destruct each element, but the dtor for a ptr is noop, not operator-delete :( 
-A: to prevent memory leak, you need vector of smart pointers.
+A: to prevent memory leak, you need vector of RAII smart pointers.
 
 Q3: what if B has a pointer to some heapy thingy?
 A: then B dtor should be customized for RAII. A1 / A2 still apply
-
--- new
-malloc array is essential to jagged arrays. 
-rectangular array is usually declared as fixed, not using malloc
 
 -- new: 
 many authors esp. in C/C++ warn readers "non-standard, platform dependent feature .. not guaranteed to work. Testing required."
