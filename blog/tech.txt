@@ -23,31 +23,6 @@ In a C++ thread, a pointer could point to heap, to static memory region, to anot
 
 In java, pointers always points to heap.
 
--- new: iterators in c++^py^java
-Iterator is one of the best examples of abstraction. Java uses interface to support such abstractions. Python uses protocols. C++ is more complex.
-
-I feel the more high-level or newer languages tend to emphasize convenient iteration over efficiency.
-
-stream iterator .. unique to c++
-iterating over a text file .. easy in python. 
-Iterator invalidation .. unique to c++
-fail-fast iterator .. unique to java
-infinite-series iterator .. is easy for python's yield, and also supported in std::ranges 
-C# also has some special features, but I won't cover them.
-
--- new java stack
-Stack.java is not deprecated but Deque.java interface is a recommended replacement. However, I think Stack has a cleaner interface with fewer unwanted API methods.
-
-.. Here is an advice from a Comp science professor to students in [[ThinkDataStructure]]
-
-LinkedList.java implements both the Deque.java and List.java interfaces. 
-
-If you declare a lnked list as a Deque<Str> variable, you can't use the List methods.
-
-If you declare a lnked list as a List<Str> variable, you can't use the Deque methods.
-
-If you declare a lnked list as a LinkedList<Str> variable, you can use all methods but your code can become confusing and error-prone. 
-
 -- fuxi blogpost on VLA
 Both alloca() and VLA allocate in the stackframe of current function (or a block).
 
