@@ -11,6 +11,15 @@ If malloc() allocates 16M, then free() would (use the bookkeeping info to) retur
 --update invalidation rules:
 [[c++coding standards]] P150 says node-based containres can minimize iterator invalidation
 
+-- update blogpost on VLA
+Both the non-standard alloca() and the standardized VLA are similar -- allocate in the stackframe of current block, and automatically bulldozed.
+
+If you need an array of runtime-specified size, then malloc() is an older alternative to VLA but key difference is deallocation. Like alloca(), VLA has automatic storage so deallocation happens automatically at end of block. 
+
+sizeof on VLA executes at runtime. 
+
+Usage scenario of alloca()? You can use it in a thread-start function. 
+
 -- new: string pbref^pbclone: cpp++
 In java and c#, string objects are always passed by reference. 
 

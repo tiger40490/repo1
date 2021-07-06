@@ -23,12 +23,6 @@ In a C++ thread, a pointer could point to heap, to static memory region, to anot
 
 In java, pointers always points to heap.
 
--- fuxi blogpost on VLA
-Both alloca() and VLA allocate in the stackframe of current function (or a block).
-
-malloc() is an older alternative to VLA but key difference is deallocation. Like alloca(), VLA has automatic storage so deallocation happens automatically at end of block. 
-
-sizeof on VLA executes at runtime. 
 
 -- fuxi
 iterator comparison (beyond equality) makes sense only when the 2 values point into a sequence container.
