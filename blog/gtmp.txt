@@ -1,9 +1,11 @@
--- new
+-- fuxi
 blackswan doesn't mean "rare event". Most rare events are not blackswans.
 
--- appetizing/enticing
+-- fuxi: appetizing/enticing
 
--- update blogpost on the tpy swimming pool 
+-- best example of involtion: coding drill for CIV
+
+-- update blogpost on the tpy swimming pool or catcha/zed
 Q: 2021 Looking back, I have come a long way to ascended to a comfortable position among my cohort. There must be some things I did right back then. What are they? The more specific the better.
 
 book ownership practices 
