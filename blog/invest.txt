@@ -1,3 +1,6 @@
+-- new: inflation: econ/fin texbooks
+P71 [[Intl Fin]]
+P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
 -- new: entry/exit: stick to proven rule@@
 t_critiq
 I often hear authors advocate discipline -- "Set your own rules and follow them consistently." However, why do we need to monitor the market rather than program a computer to do so?

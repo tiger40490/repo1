@@ -1,3 +1,14 @@
+-- new: basis_risk
+Alex Tee of Stirt felt basis_risk is a basic common knowledge
+
+P53 [[fundamentals of Fut and Opt markets ]]
+
+-- update blogpost on fwd^fut https://btv-gz.dreamhosters.com/wp-admin/post.php?post=41694&action=edit
+P40 [[fundamentals of Fut and Opt markets ]]
+
+-- update one of the blogposts on IRS valuation
+P170 [[fundamentals of Fut and Opt markets ]]
+
 -- new convenient: pre-sized std::vector
 First we had fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is the upgrade from malloc array.
 
