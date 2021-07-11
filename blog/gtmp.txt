@@ -19,8 +19,6 @@ more c/c++ than java
 -- fuxi
 blackswan doesn't mean "rare event". Most rare events are not blackswans.
 
--- fuxi: appetizing/enticing
-
 -- new: solitude, sight-seeing
 Schopenhauer : "The capacity to be alone is one of the most distinctive marks of a high intellectual being."
 
