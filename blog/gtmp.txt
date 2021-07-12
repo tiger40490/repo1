@@ -10,6 +10,18 @@ more healthy lifestyle
 
 -- update post on magazine reading vacation
 Magazines offer one of the most compelling alternatives to movies. Even more appealing than magazines is library trip, but often logistically difficult.
+
+.. assessment of likely novelty
+Novelty (or expectation thereof) is an important apetizer. It is most relevant in book-selection but also relevant in vacation choice.
+
+eg: after I buy a tech book, I often leave it unopened to preserve the novelty attraction, for months. After a while, I preview the TOC and pencil-mark specific items, but refrain from reading them. This practice has mixed effect but usually (51% chance) reduces the novelty level.
+
+eg: for a book or even a mag, the novelty can be wiped out after I read some 70% or just 20%.  Readers intuitively feel the same author (editor for a mag) has the same style in the unread sections. Those sections are perceived to be "likely similar" to the visited sections.
+
+A wipe-out is significant because the entire book (or a mag edition) is now shelved indefinitely, even though it might have some hidden gems.
+
+Magazines (and newspapers) have better novelty value, due to the much wider variety. In this regard, best magazines include RD, 读者, Forbes.
+
 -- update post on recreational reading
 more parenting more health
 more finance
