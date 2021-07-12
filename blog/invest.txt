@@ -1,3 +1,9 @@
+--new: reduce(grave)compliance risk
+pre-clear large qty like $1k/name
+reduce distraction
+If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
+small (even fractional) orders are still safer than big orders.
+
 -- new: inflation: econ/fin texbooks
 P71 [[Intl Fin]]
 P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
