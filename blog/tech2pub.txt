@@ -18,6 +18,8 @@ If you need an array of runtime-specified size, then malloc() is an older altern
 
 sizeof on VLA executes at runtime. 
 
+For both VLA and traditional arrays, sizeof(theArrayName)/sizeof(elementType) == array length
+
 Usage scenario of alloca()? You can use it in a thread-start function. 
 
 -- new: string pbref^pbclone: cpp++
