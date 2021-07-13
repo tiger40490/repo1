@@ -1,3 +1,10 @@
+-- new: threading in C^java
+I don't think many people decide to write threading code in C (or Fortran). Threading is a mid-level feature, but C is low-level language.
+
+threading in C is low-level, complicated, error-prone... but paradoxically low market-value. I think it's because java (possibly c#) has cornered the market with much better threading support. C++ support is somwhere between java's and C's in terms of ease , training, developer availability.
+
+In terms of efficiency, java is suprisingly good. That's why threading is popular in java, not in python, php, ruby etc.
+
 -- new: basis_risk
 Alex Tee of Stirt felt basis_risk is a basic common knowledge
 
