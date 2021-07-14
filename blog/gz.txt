@@ -1,6 +1,6 @@
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some are better than employers. In terms of financial support, government handout is tiny compared to employers'.
 
--- new
+-- new or update "native language"
 during my college year and CharteredSemi years, I invested myself wholeheartedly in C programming. One of the most enjoyable topics was cStr/array processing, 
 
 critical mass .. was easily achieved 
@@ -26,8 +26,6 @@ In terms of current system programming project, I think C still lead the pack, f
 In terms of current application projects, C is too low-level .. unpopular. 
 
 Therefore, in terms of overall market value, my cStr knowhow (as part of  my C skillset) has suffered real churn. This churn is faster and more disruptive than I thought in the 1990s. I wish my cStr knowhow is still widely in demand.
-
--- Kun is probably a risk quant. Not as rich and glamorous as drv desk quant or buy-side stats quant.
 
 --new: architect career needs: breadth imt depth
 t_expertise, t_churn
@@ -221,3 +219,5 @@ I was rather bold when talking about Anurag in public. I think that might be the
 --fuxi: smart guys like Kun.h couldn't crack the quant IV cos
 * too selective, comparable to HFT
 * poor market depth. I guess Kun ended in a risk quant role.
+
+-- fuxi: Kun is probably a risk quant. Not as rich and glamorous as drv desk quant or buy-side stats quant.
