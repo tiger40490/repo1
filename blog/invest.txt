@@ -1,17 +1,7 @@
 --new: reduce(grave)compliance risk
 pre-clear large qty like $1k/name
-reduce distraction
 If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
 small (even fractional) orders are still safer than big orders.
-
--- fuxi: why I feel so effective, rewarding, satisfactory ... about my cash-flow, more so than wellness, work-life-balance, QQx, life-long learning...?
-
-Reason: accumulation is more effective in family finance than the other areas
-I have gravitated towards C and SQL precisely due to accumulation.
-
-Reason: less monitoring or refresh needed. I have my exp recon routine + cash pile mgmt strategies. In contrast, wellness, tech learning ... require very high on-going effort.
-
-Reason: my numerical analytical advantage is clearer in per-finance than most areas. QQ and coding drill are also similar.
 
 -- new: entry/exit: stick to proven rule@@
 t_critiq
@@ -51,11 +41,6 @@ buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_E
 
 Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
 
---new: index investing relies on the index-admin as stock-picker
-I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
-
-The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
-
 -- new: few]%%cohort have a global branded degree
 In their 20's, China was poorer than now, very few could get a scholarship to a branded college overseas, so they have to settle for a lower-tier.
 
@@ -93,6 +78,67 @@ We can look at actual inflation. One of the biggest complaints of Chinese citize
 Q: is SGD 3k CRBR realistic? 
 A: I still feel confident. 
 
+-- update blogpost on Maslow
+My T_defense collects many reflections of safety concerns
+
+-- slow-cooking update livelihood blogs (S.Liu or Maslow)
+[[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations by global standard. (For example, most Singaporeans would feel some livelihood pressure.) For them, my ezlife on the cash flow high ground is .. dream. 
+
+I like mathematical criteria for that high ground, such as brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack something to achieve the same.
+
+--slow-cooking update Tianjue.Lin blogpost
+In my younger days, I had to work hard over decades to improve my /status/ for the mating competition.  When I first had kids, I didn't believe the likes of WQ.Luo. I was driven to improve housing, education resources... for my kids, engaging in the arms race with millions of fellow parents.
+
+Simiarly, the inflation fear was a widespread brainwash.
+
+Medical cost inflation fear was driven by my own parents...
+
+All of these "struggles" are taught to every young men as part of Chinese enculuration.
+
+Therefore, I felt perhaps $3M would be needed. Those around me who gave up on ffree were seen as _quitters_.
+
+-- slow-cooking update "ffree is a state of mind"
+What's the _real_ difference between me and my cohort in terms of ffree ?
+
+I record/reconcile my burn rate over decades, and have higher confidence in my forecast.
+I have a reliable nonwork income in cpfLife and HDB rental, not counting other rental properties.
+
+I often feel free to (and actually did) choose lower jobs. I don't think many in my cohort feel that same level of freedom.
+
+I have no worries about medical, retirement income, long-term inflation. I think many of my cohort are not so care-free. These are big components of long-term ffree.
+
+I say and feel I can stop working any time .. Statement 1
+I say both parents can stop working indefinitely and my family can live a reasonable, comfortable life .. Statement 2. 
+I sometimes say that I have more money than I need for my lifetime .. Statement 3. 
+^^^ My circle of a few dozen friends never say these things. Am I serious? Yes. I didn't say what kind of family lifestyle that Statement 2/3 entail. 
+
+-- slow-cooking new: which middle-class aspiration ≠ LG2
+t_cmcUS
+t_sharpQ
+So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential:
+
+Branded college
+SDXQ
+Spacious home
+Car ownership
+..
+
+Q: Is there one middle-class aspiration that I do subscribe to?
+safe, conducive school? This is not just for middle-class
+Safe, clean street? No. This is not just for middle-class
+
+-- new or update gold^U.S.eq^rEstate: long-term strength
+gold offers inflation hedge only over the long term. 
+
+https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html
+
+"If you look at the very long term, gold should hold its value against inflation. But in any shorter period, it may or may not be a good hedge,"
+
+Am sure there are multiple analyses on the limitation of gold as an inflation hedge.
+
+-- update blogpost on SG retirement location
+I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important. Remote parts of SG is best.
+
 ==== new: Felicia discussion
 Main topics: HDB purchase; eqMufu
 
@@ -116,7 +162,8 @@ Compared to China, U.S. and S.E.Asia, I still feel far more confident about SG H
 
 Once I live through and understand U.S. rental property risks, I might conclude that SG is low maintenance but low yield.
 ====
--- ocbc mtg:
+
+-- new or update ocbc mtg:
 you can request HDB for valuation, but ocbc will concurrently do their own valuation, which can be faster.
 
 as soon as you sign otp, you can send otp + myInfo (salary slip unneeded) to ocbc. L@Offer is available within a week "definitely", perhaps before the hdb valuation is available.
@@ -126,66 +173,6 @@ bridging loan interest is higher than mtg rate.
 SORA mtg rate is likely lower than SIBOR rate. 
 
 Board rate, SORA .. all need you to keep outstanding amount above 50% (of original) within first 2 years. However, given how low the mtg rate is, you could invest to earn higher rate.
-
--- update blogpost on Maslow
-My T_defense collects many reflections of safety concerns
-
--- update livelihood blogs (S.Liu or Maslow)
-[[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations by global standard. (For example, most Singaporeans would feel some livelihood pressure.) For them, my ezlife on the cash flow high ground is .. dream. 
-
-I like mathematical criteria for that high ground, such as brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack something to achieve the same.
-
--- new or update gold^U.S.eq^rEstate: long-term strength
-gold offers inflation hedge only over the long term. 
-
-https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html
-
-"If you look at the very long term, gold should hold its value against inflation. But in any shorter period, it may or may not be a good hedge,"
-
-Am sure there are multiple analyses on the limitation of gold as an inflation hedge.
-
---update Tianjue.Lin blogpost
-In my younger days, I had to work hard over decades to improve my status for the mating competition.  When I first had kids, I didn't believe the likes of WQ.Luo. I was driven to improve housing, education resources... for my kids, engaging in the arms race with millions of other parents.
-
-Simiarly, the inflation fear was a widespread brainwash.
-
-Medical cost inflation fear was driven by my own parents...
-
-All of these "struggles" are taught to every young men as part of Chinese enculuration.
-
-Therefore, I felt perhaps $3M would be needed. Those around me who gave up on ffree were seen as _quitters_.
-
--- update "ffree is a state of mind"
-What's the _real_ difference between me and my cohort in terms of ffree ?
-
-I record/reconcile my burn rate over decades, and have high confidence in my forecast.
-I have a reliable nonwork income in cpfLife and HDB rental, not counting other rental properties.
-I say and feel I can stop working any time .. Statement 1
-I say both parents can stop working indefinitely (and my family can live a reasonable, comfortable life) .. Statement 2. 
-I sometimes say that I have more money than I need for my lifetime .. Statement 3. 
-^^^ My circle of a few dozen friends never say these things. Am I serious? Yes. I didn't say what kind of family lifestyle Statement 2/3 entail. 
-
-I often feel free to (and actually did) choose lower jobs. I don't think many in my cohort feel that same level of freedom.
-
-I have no worries about medical, retirement income, long-term inflation. I think many of my cohort are not so care-free. These are big components of long-term ffree.
-
--- new: which middle-class aspiration ≠ LG2
-t_cmcUS
-t_sharpQ
-So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential:
-
-Branded college
-SDXQ
-Spacious home
-Car ownership
-..
-
-Q: Is there one middle-class aspiration that I do subscribe to?
-safe, conducive school? This is not just for middle-class
-Safe, clean street? No. This is not just for middle-class
-
--- update blogpost on SG retirement location
-I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important. Remote parts of SG is best.
 
 -- fuxi: Singapore HDB locations
 Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city (how about Holland Village?). I guess Tampines, JurongEast are similar.
@@ -206,3 +193,17 @@ So I had the misperception that German cars are designed better, stronger.
 I think this is really a brainwash by my friends. 
 
 I suspect there's a similar brainwash against wood houses.
+
+--fuxi: index investing relies on the index-admin as stock-picker
+I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
+
+The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
+
+-- fuxi: why I feel so effective, rewarding, satisfactory ... about my cash-flow, more so than wellness, work-life-balance, QQx, life-long learning...?
+
+Reason: accumulation is more effective in family finance than the other areas
+I have gravitated towards C and SQL precisely due to accumulation.
+
+Reason: less monitoring or refresh needed. I have my exp recon routine + cash pile mgmt strategies. In contrast, wellness, tech learning ... require very high on-going effort.
+
+Reason: my numerical analytical advantage is clearer in per-finance than most areas. QQ and coding drill are also similar.
