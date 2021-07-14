@@ -13,9 +13,6 @@ Reason: less monitoring or refresh needed. I have my exp recon routine + cash pi
 
 Reason: my numerical analytical advantage is clearer in per-finance than most areas. QQ and coding drill are also similar.
 
--- new: inflation: econ/fin texbooks
-P71 [[Intl Fin]]
-P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
 -- new: entry/exit: stick to proven rule@@
 t_critiq
 I often hear authors advocate discipline -- "Set your own rules and follow them consistently." However, why do we need to monitor the market rather than program a computer to do so?
@@ -36,6 +33,29 @@ A: not about how many hours but how much traction you gain (not wheel-spinning).
 
 Quick learning is an advantage of stock vis-a-vis other investments.
 
+-- MOETF rebalance
+Many high-yield bluechips should get higher allocation
+concentration risk -- increase allocation on low concentration sectors
+* consumer
+* telco
+* mining, usually international
+
+Increase international stocks without heavy U.S. presence
+
+Some sectors are interest-rate sensitive. Need to avoid topping up, but they have DYOC
+
+-- update blogpost on (de)stressor..
+buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio
+
+buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.
+
+Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
+
+--new: index investing relies on the index-admin as stock-picker
+I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
+
+The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
+
 -- new: few]%%cohort have a global branded degree
 In their 20's, China was poorer than now, very few could get a scholarship to a branded college overseas, so they have to settle for a lower-tier.
 
@@ -44,14 +64,34 @@ Most of the Chinese peers already had a postgrad degree in their 20's. Hard to j
 
 If they were unable to earn a branded degree, then I think that's one reason why so many of them have unrealistic evaluations of a branded degree.
 
+-- new or update "branded car"
+as I age, I see more and more similarities between branded college and branded clothing. The consumer here is the parent. Parents spend very large amount of disposable income on these status items. 
+
+-- new: inflation: econ/fin texbooks
+P71 [[Intl Fin]]
+P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
+
 -- new or update 
 inflation (beyond CPI) is largely driven by exclub.
 fancy food, branded clothing, residential property, luxury car, branded college ... 
 
 As exclub demand increases, vendors increase prices. I think governments can't do much about this demand, except property cooling measures.
 
--- new or update "branded car"
-as I age, I see more and more similarities between branded college and branded clothing. The consumer here is the parent. Parents spend very large amount of disposable income on these status items. 
+-- new or update SG inflation: 30Y personal xp #basket
+Even U.S. inflation is not so bad in the short term. 
+
+https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html says (The Federal Reserve tries to keep inflation around 2% per year.)
+
+-- new: some retirees do worry about inflation eroding nest egg
+https://www.cnbc.com/2021/06/07/heres-an-option-to-protect-your-portfolio-from-inflation.html says Inflation is a top concern as investors fret about the rising cost of groceries, housing, gasoline and other living expenses.
+
+Q: Is this widespread in the U.S. or Singapore?
+A: I have limited insight. I would assume this is a top concern among some retirees in every country.
+
+We can look at actual inflation. One of the biggest complaints of Chinese citizens is inflation in everyday purchases (excluding housing). SG is not bad as discussed in several blogposts. 
+
+Q: is SGD 3k CRBR realistic? 
+A: I still feel confident. 
 
 ==== new: Felicia discussion
 Main topics: HDB purchase; eqMufu
@@ -119,38 +159,6 @@ https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-othe
 
 Am sure there are multiple analyses on the limitation of gold as an inflation hedge.
 
--- new or update SG inflation: 30Y personal xp #basket
-Even U.S. inflation is not so bad in the short term. 
-
-https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html says (The Federal Reserve tries to keep inflation around 2% per year.)
-
--- new: some retirees do worry about inflation eroding nest egg
-https://www.cnbc.com/2021/06/07/heres-an-option-to-protect-your-portfolio-from-inflation.html says Inflation is a top concern as investors fret about the rising cost of groceries, housing, gasoline and other living expenses.
-
-Q: Is this widespread in the U.S. or Singapore?
-A: I have limited insight. I would assume this is a top concern among some retirees in every country.
-
-We can look at actual inflation. One of the biggest complaints of Chinese citizens is inflation in everyday purchases (excluding housing). SG is not bad as discussed in several blogposts. 
-
-Q: is SGD 3k CRBR realistic? 
-A: I still feel confident. 
-
--- fuxi: Singapore HDB locations
-Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city (how about Holland Village?). I guess Tampines, JurongEast are similar.
-
-Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
-
--- MOETF rebalance
-Many high-yield bluechips should get higher allocation
-concentration risk -- increase allocation on low concentration sectors
-* consumer
-* telco
-* mining, usually international
-
-Increase international stocks without heavy U.S. presence
-
-Some sectors are interest-rate sensitive. Need to avoid topping up, but they have DYOC
-
 --update Tianjue.Lin blogpost
 In my younger days, I had to work hard over decades to improve my status for the mating competition.  When I first had kids, I didn't believe the likes of WQ.Luo. I was driven to improve housing, education resources... for my kids, engaging in the arms race with millions of other parents.
 
@@ -176,18 +184,6 @@ I often feel free to (and actually did) choose lower jobs. I don't think many in
 
 I have no worries about medical, retirement income, long-term inflation. I think many of my cohort are not so care-free. These are big components of long-term ffree.
 
--- update blogpost on (de)stressor..
-buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio
-
-buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.
-
-Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
-
---new: index investing relies on the index-admin as stock-picker
-I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
-
-The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
-
 -- new: which middle-class aspiration ≠ LG2
 t_cmcUS
 So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential:
@@ -204,3 +200,8 @@ Safe, clean street? No. This is not just for middle-class
 
 -- update blogpost on SG retirement location
 I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important. Remote parts of SG is best.
+
+-- fuxi: Singapore HDB locations
+Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city (how about Holland Village?). I guess Tampines, JurongEast are similar.
+
+Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
