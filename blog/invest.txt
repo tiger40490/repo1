@@ -4,6 +4,15 @@ reduce distraction
 If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
 small (even fractional) orders are still safer than big orders.
 
+-- fuxi: why I feel so effective, rewarding, satisfactory ... about my cash-flow, more so than wellness, work-life-balance, QQx, life-long learning...?
+
+Reason: accumulation is more effective in family finance than the other areas
+I have gravitated towards C and SQL precisely due to accumulation.
+
+Reason: less monitoring or refresh needed. I have my exp recon routine + cash pile mgmt strategies. In contrast, wellness, tech learning ... require very high on-going effort.
+
+Reason: my numerical analytical advantage is clearer in per-finance than most areas. QQ and coding drill are also similar.
+
 -- new: inflation: econ/fin texbooks
 P71 [[Intl Fin]]
 P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
