@@ -1,6 +1,5 @@
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some are better than employers. In terms of financial support, government handout is tiny compared to employers'.
 
-
 --new: architect career needs: breadth imt depth
 t_expertise, t_churn
 [[Fundamentals of software architecture]]
@@ -15,9 +14,6 @@ by definition, breadth is not-deep ... too shallow to impress in most interviews
 Shallow knowledge is also more subject to churn.
 
 mkt depth .. If 50 out of 100 software engineering jobs out there require some level of depth, then perhaps 5 require some breadth. Therefore, in terms of market depth, breadth is inferior to depth.
-
--- update blogpost on mkt depth
-runners, painters .. have the worst mkt depth. Only the national top runners can earn endorsement fees or receive government support.
 
 -- new or fuxi
 I actively stay away from high-churn technologies (languages) such as javascript, GO, Spark, Spring, NoSql, XML, Json
