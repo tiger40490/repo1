@@ -127,21 +127,6 @@ SORA mtg rate is likely lower than SIBOR rate.
 
 Board rate, SORA .. all need you to keep outstanding amount above 50% (of original) within first 2 years. However, given how low the mtg rate is, you could invest to earn higher rate.
 
--- Jun.Z on SG condo
-t_misperception
-appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
-
-Foreigner demand is dampened by ABSD, esp. in non-prime locations. These locations are mostly sold to local buyers.
-
--- fuxi: Jun.Z on cars
-German cars are expensive if new, but cheaper than Japanese as a used car. He felt by design Japanese cars can go for many years after first 10Y.
-
-So I had the misperception that German cars are designed better, stronger.
-
-I think this is really a brainwash by my friends. 
-
-I suspect there's a similar brainwash against wood houses.
-
 -- update blogpost on Maslow
 My T_defense collects many reflections of safety concerns
 
@@ -206,3 +191,18 @@ I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older da
 Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city (how about Holland Village?). I guess Tampines, JurongEast are similar.
 
 Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
+
+-- fuxi: Jun.Z on SG condo
+t_misperception
+appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
+
+Foreigner demand is dampened by ABSD, esp. in non-prime locations. These locations are mostly sold to local buyers.
+
+-- fuxi: Jun.Z on cars
+German cars are expensive if new, but cheaper than Japanese as a used car. He felt by design Japanese cars can go for many years after first 10Y.
+
+So I had the misperception that German cars are designed better, stronger.
+
+I think this is really a brainwash by my friends. 
+
+I suspect there's a similar brainwash against wood houses.
