@@ -78,8 +78,13 @@ We can look at actual inflation. One of the biggest complaints of Chinese citize
 Q: is SGD 3k CRBR realistic? 
 A: I still feel confident. 
 
--- update blogpost on Maslow
-My T_defense collects many reflections of safety concerns
+-- slow-cooking update: life-chances !! linear with wealth@family
+
+Now I feel those in Taiwan get fewer life chances due to the stagnant economy. After finishing education, many go to mainland for more life chances. In Taiwan, even if you are reasonably smart and hardworking, the chance of earning a U.S. level salary is quite small. Actually, in the last sentence I used an arbitrary criteria.
+
+Since 2019, the Hongkong residents are also experiencing a decline in life chances.
+
+For many years, I have felt varioius SEAsia nationals have better life chances when thy emmigrate to SG, HK, White English-speaking countries [UK, Australia].
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations by global standard. (For example, most Singaporeans would feel some livelihood pressure.) For them, my ezlife on the cash flow high ground is .. dream. 
@@ -126,58 +131,6 @@ Car ownership
 Q: Is there one middle-class aspiration that I do subscribe to?
 safe, conducive school? This is not just for middle-class
 Safe, clean street? No. This is not just for middle-class
-
--- new or update gold^U.S.eq^rEstate: long-term strength
-gold offers inflation hedge only over the long term. 
-
-https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html
-
-"If you look at the very long term, gold should hold its value against inflation. But in any shorter period, it may or may not be a good hedge,"
-
-Am sure there are multiple analyses on the limitation of gold as an inflation hedge.
-
--- update blogpost on SG retirement location
-I used to focus on d2stadium, d2lib. Now only d2mrt is important. In my older days, even d2mrt would be less important. Remote parts of SG is best.
-
-==== new: Felicia discussion
-Main topics: HDB purchase; eqMufu
-
--- I told Felicia I'm well-diversified but 
-my concentration in property is rather high.
-Bonds .. none. Bonds are a reliable, popular, useful asset class to consider. Remember the K.Hu discussion?
-China .. not a lot of geographical allocation except the Beijing property. I think eqMufu is a reasonable idea.
-
--- Felicia thinks net rental yield of 3-4% is not very high. eqMufu can be better.
-In the U.S. I should really favor MOETF. In SG, without converting my SGD, I should really consider more eqMufu.
-
-With caution against 100% into eqMufu she pointed out that Diva has generated 10% annualized return since inception. This is the fund manager's claim, not her claim. She's very confident about DIVA, based on trec.
-
-I believe SP500 would outperform most eqMufu over the next 50 years at least.
-
-I believe since inception, probably 3 years out of every 10 had negative returns.
--- Felicia cautioned me .. HDB rental demand from foreigners could fluctuate in the long run. In the U.S. rental market, half the tenants are local Americans. There is therefore more risk in my HDB rental model
-When I explained to her why I won't sell my HDB even while I'm settled in the US, I realized my deep bias and skyhigh confidence in the SG economy. Over the long term, my confidence would be put to the test.
-
-Compared to China, U.S. and S.E.Asia, I still feel far more confident about SG HDB property.
-
-Once I live through and understand U.S. rental property risks, I might conclude that SG is low maintenance but low yield.
-====
-
--- new or update ocbc mtg:
-you can request HDB for valuation, but ocbc will concurrently do their own valuation, which can be faster.
-
-as soon as you sign otp, you can send otp + myInfo (salary slip unneeded) to ocbc. L@Offer is available within a week "definitely", perhaps before the hdb valuation is available.
-
-bridging loan interest is higher than mtg rate.
-
-SORA mtg rate is likely lower than SIBOR rate. 
-
-Board rate, SORA .. all need you to keep outstanding amount above 50% (of original) within first 2 years. However, given how low the mtg rate is, you could invest to earn higher rate.
-
--- fuxi: Singapore HDB locations
-Yishun central HDB estate has nearly everything, but lower valuation mostly due to the affluent favoring d2city (how about Holland Village?). I guess Tampines, JurongEast are similar.
-
-Bishan has worse d2city than TPY, but has better connectivity, library, jogging track.. In X years, I would not care about some of these factors.
 
 -- fuxi: Jun.Z on SG condo
 t_misperception

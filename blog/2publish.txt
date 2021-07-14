@@ -52,25 +52,6 @@ So the long journey demanded a lot of effort, commitment, perseverance ..
 
 I needed a reason to continue. In hindsight, the branding is now fairly valuable in terms of self-image. 
 
--- new: CBDC=sovereign bccy
-More than "pegged" it's identical to the fiat currency, issued by the same entity as the fiat currency
-centralized
-Unlike anonymous transactions as on public blockchains, transactions are tracked
-speeds up cross-border payments including remittance. No middleman except the issuing central bank
-can be used without internet
-can be used without a bank account... I think the wallet is identified by the mobile number. I think mobile numbers are registered under a national ID. Note all such IDs are at the national level
-unliked most bccy, a CBDC is legal tender, fully controlled by a central bank
-For a particular consumer wallet, a CBDC balance is mostly stored on a smartphone, but can reside on a card (no connectivity required)
-CBDC can use blockchain in a limited way. It may use its own private blockchain + distributed ledger. I feel such a blockchain is 10% similar to the BTC blockchain, and 90% similar to a traditional database
-
--- new or fuxi: Why ibanks "support" bccy
-Ibank's advertized business model is client facilitation. 
-Ibanks may hold an inventory of popular bccy, and may also accept service fee payment in bccy. In such a scenario, the ibank would trade bccy for its own position, even though the claim to trade bccy only for hedging. 
-
-In other words, ibanks are dealers rather than pure-play brokers.
-
-Prop trading is a secret business model of ibanks.
-
 --new: G9 SMS to break away from mainstream brainwash
 t_breakaway
 * My wife always feels I look too thin for my health and appearance. I remind myself "I trust my BMI analysis -- Based on years of self-monitoring, My BMI goal is well-founded. Many in my cohort would probably get better healthy longevity if they adopt similar BIM goals."
@@ -107,50 +88,3 @@ my decision on dev-till-70 and healthy longevity till 95
 
 -- new Eng: avoid^aim-to-avoid
 the scheme should avoid ... # sounds like eliminate
-
--- update blogpost https://tanbinvest.dreamhosters.com/2017/01/20/semi-conscious-luxury-spend/
-On vacations (even at home) my family sometimes feel "why are we so careful spending money?".
-
-People want "freedom" to spend.  Similarly, people want freedom to eat whatever they want, and the freedom not to exercise or brush teeth, the freedom to sleep any time they want and get up only when they want to. All of these freedoms are detrimental to the body, not to mention the mind
-
-careful ≈ conscious ≠ frugal. I do spend quite a bit on education, reunion flights, piano courses, wpress hosting, multiple laptops, books, ... Not so frugal, but conscious spending, not mindless spending.
-
--- new: title: Megaworld^Cambodia
-My impression : Cambodia proess is many years faster than Philippines. I already received my titles from Oxley, even though the projects completed much later than Megaworld.
-
-I believe Megaworld invents countless internal steps before the documents go to the government. Initially it was, say 3 internal steps, but then one of the internal steps consist of 2 sub steps. Then one of theose 2 steps consists of 4 small steps... So the total steps keep growing, as Megaworld staff give new explanations of the detailed steps. In reality, perhaps each of the original steps should take a few months, so the smaller steps should take a few seconds, but Megaworld just drags on and on.
-
-Very poor attitude in Megaworld. Reminds me of U.S. government red tapes in DMV, tax department, immigration...
-
-Part of the delay might be Philippines government, but I don't see any evidence of that.
-
-—-new: Cambodia 20Y trend: OBOR
-Even in 2016, China was the leading infrastructure investor in the country. Long history of bigBrother/smallBrother brotherhood. Chinese companies have too much capacity and need to expand to S.E.Asia. These companies include exporters, real estate, casino, manufacturing, and retail shops targetting expat Chinese. They probably see Cambodia like a poor cousin of Guizhou. That was my impression of Cambodia even before OBOR. 
-
-After reading a a bit of political analysis of OBOR, I feel Cambodia has probably stronger dependency on China than other Asian countries.
-
-* Cambodia government has probably the longest political alliance with China, which was tested repeatedly after the US-Vietnam war, and during international sanctions. Among the ASEAN countries, China often views Cambodia as its natural confidant and uses Cambodia to sway regional policy decisions.
-* Cambodia is one of the least developed S.E.Asian nations and need infrastructure (OBOR) more than other nations.
-
-As long as Chinese investments (OBOR etc) keep flowing, I think the Cambodia economy would grow at the current fast pace. Real estate sector is esp. sensitive to Chinese hot money. In a way, I am long OBOR -and- long Sino-Cambodia brotherhood. You can say I have placed big bets.
-
-https://www.orfonline.org/research/china-relationship-asean-explainer/ says
-
-One of the ASEAN countries closest to China is Cambodia, often accused of kowtowing to China. Its economic, military, educational and cultural relations with China are robust. It has deep penetration of BRI projects. It downplays the South China Sea issue within ASEAN forums. In many ways, Cambodia represents the dilemmas of a small insecure nation with an authoritarian regime in need of the backing of a great power to survive. 
-
-All politics is local, including Cambodia's.
-
---update zero sum game
-bccy and gold are zero sum games by definition since there's no income generated. 
-However, gold is natural inflation-hedge. Since our accounting currency is a fiat currency, gold is hopefully better than a zero-sum game, only over the long-term.
-
--- update blogpost on war chest
-SG past reserve is a classic war chest
-my "batteries" are also war chests
-
--- new life chances in each country.
-Now I feel those in Taiwan get fewer life chances due to the stagnant economy. After finishing education, many go to mainland for more life chances. In Taiwan, even if you are reasonably smart and hardworking, the chance of earning a U.S. level salary is quite small. Actually, in the last sentence I used an arbitrary criteria.
-
-Since 2019, the Hongkong residents are also experiencing a decline in life chances.
-
-For many years, I have felt varioius SEAsia nationals have better life chances when thy emmigrate to SG, HK, White English-speaking countries [UK, Australia].
