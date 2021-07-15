@@ -1,5 +1,16 @@
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some are better than employers. In terms of financial support, government handout is tiny compared to employers'.
 
+--new or update blogpost on IV_skill ^ GTD
+https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
+
+Sometimes we get into a new job and find a nasty manager (Yang to Roland), or long hours (PWM), or hard, uninspiring technology stack (Qz).
+
+Some 10% just quit decisively within 6M, like Henry Fu. This route requires the key skill of IV.
+
+The rest of us try to get used to it. Sometimes this proved patient, steady and effective.
+
+Some 10%+ suffer in pain, like Sudhir (based on my limited knowledge) and my OC job.
+
 --new: architect career needs: breadth imt depth
 t_expertise, t_churn
 [[Fundamentals of software architecture]]

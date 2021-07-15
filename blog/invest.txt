@@ -3,6 +3,12 @@ pre-clear large qty like $1k/name
 If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
 small (even fractional) orders are still safer than big orders.
 
+-- update gdp ^ gni
+GDP measures economic output within the physical boundary
+GNI measures income earned by the nationals regardless of location.
+
+Those are the high-level concepts. The actual subtractions/additions are important and are sometimes imprecise.
+
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=16016&action=edit
 
 Earn/Save/Invest: avoid peer comparison. Some people would be good at all 3, but usually there's not much to learn from them.
