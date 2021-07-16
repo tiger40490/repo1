@@ -3,6 +3,19 @@ pre-clear large qty like $1k/name
 If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
 small (even fractional) orders are still safer than big orders.
 
+-- new: gov red chips
+My view on gov red chips has changed. They seem to pay good dividends to compensate for very poor long-term trend.
+
+U.S. dividend stocks offer better long-term prospect.
+
+--update: 
+https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=17015&action=edit
+best China index
+You can collect the count of tracking ETFs for each index. The most popular index is MSCI China.
+
+--update LFC stock
+The analyst high rating failed
+
 -- update gdp ^ gni
 GDP measures economic output within the physical boundary
 GNI measures income earned by the nationals regardless of location.
