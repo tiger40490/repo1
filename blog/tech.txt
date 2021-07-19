@@ -1,5 +1,5 @@
 -- new: trees as subset of graphs
-In classic graph theory, a tree is an undirected acyclic graph (connected). 
+In classic mathematical graph theory, a tree is an undirected acyclic graph (connected). 
 
 In comp science, graph edges are often directed (pointer-based). So trees are a subset of directed graphs (connected) where any two nodes are connected by one path exactly.
 
@@ -8,7 +8,7 @@ In both definitions, you won't see any closed loop. When some people present a "
 -- new: threading in C^java
 I don't think many people decide to write threading code in C (or Fortran). Threading is a mid-level feature, but C is low-level language.
 
-threading in C is low-level, complicated, error-prone... but paradoxically low market-value. I think it's because java (possibly c#) has cornered/conquered that "Market" with much better threading support. C++ support is somwhere between java's and C's in terms of ease , training, developer availability.
+threading in C is low-level, complicated, error-prone and demading ... but paradoxically low market-value. I think it's because java (possibly c#) has cornered/conquered that "Market" with superior threading support. C++ support is somwhere between java's and C's in terms of ease , training, developer availability.
 
 In terms of efficiency, java is suprisingly good. That's why threading is popular in java, not in python, php, ruby etc.
 
@@ -47,7 +47,6 @@ To use this linked list, ApplicationA could pass Account pointers as the payload
 In a C++ thread, a pointer could point to heap, to static memory region, to another call stack (another thread) or another stackframe on the same call stack
 
 In java, pointers always points to heap.
-
 
 -- fuxi
 iterator comparison (beyond equality) makes sense only when the 2 values point into a sequence container.
