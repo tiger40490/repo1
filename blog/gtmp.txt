@@ -13,28 +13,6 @@ more healthy lifestyle.
 more healthy sleep timing
 more patience with parenting
 
--- update post on magazine reading vacation
-Magazines offer one of the most compelling alternatives to movies. Even more appealing than magazines is library trip, but often logistically difficult.
-
-Any reading vacation can hit distraction. You set aside half a day with an goal of recreational learning. You browse through a few magazines but soon get distracted by attention-grabbing news with pictures. Most of the news offer low "learning" value.
-
-At the end of the reading vacation, you have wasted half the earmarked hours. WeChatRead title (XH.Fu recommendation) used this opening scene.
-
-This phenomenon is more severe online, and  rare with books.
-
-.. novelty
-Novelty (or expectation thereof) is an important apetizer esp. for a reading vacation.
-
-eg: after I buy a tech book, I often leave it unopened, or hide its title from view, in order to "preserve the fresh attraction", for months. After a while, I preview the TOC and pencil-mark specific items, but refrain from reading them. This practice has mixed effect but usually (51% chance) reduces the novelty level. I think the reduction is inevitable. What we can hope is a slow reduction, rather than wipe-out of novelty level during a first browse.
-
-eg: for a book or even a mag, the novelty can be wiped out after I read some 50% or just 10%.  Readers intuitively feel the same author ("editor" for a mag) has the same style in the unread sections. Those sections are therefore see as "likely similar" to the visited sections.
-
-A wipe-out is significant because the entire book (or a copy of a mag) would get shelved indefinitely, even though it might have some hidden gems.
-
-Magazines (and newspapers) have better novelty value, due to a much wider variety of content within a single edition. In this regard, best magazines include 读者, Forbes, ReadersDigest. Themed magazines offer slightly lower novelty such as tech, health or parenting mag.
-
-Luckily, 20Y old magazines mostly retain novelty, if the topics are slow-changing. Obviously, we need to ignore the news portions therein.
-
 -- fuxi
 blackswan doesn't mean "rare event". Most rare events are not blackswans.
 
@@ -54,28 +32,6 @@ home-based school. Worse than school holiday, which is worse than regular school
 no private space at home
 tough project - RJO
 Can't escape to library
-
---new: waste of water/energy/$ in the family
-I always feel guilty about wasting water, energy or (more frequently) hard-earned money.
-
-I still waste some, every now and then, but I don't give up and accept my wasteful acts. 99% of the people around me (mostly Chinse) don't care as much as I do. I often feel most folks simply don't care about "small" wastes. 
-
-My family members seem to do the same. That's the reality I need to accept.
-
-I still want to improve my own habits + my family members' habits in this regard, but I always overestimate my ability to change them. I'm stubborn in my refusal to accept that "reality". 
-
-This is possibly at the root of endless commmunication failures. The cost is rather high in terms of harmony, family bond, and happy marriage.
-
--- new
-ML.Jiang once told me about some classmates. A Chinese national and a Korean national living in Singapore as a couple, who spoke Japanese at home.
-
-I was impressed.
-
-Immediately I assumed that they speak mostly Japanese between them and their Japanese fluency is equal to their mother tongue.
-
-Well, DaShan the Canadian in China is one in probably 1000 foreigners who speak such fluent Chinese. So to a Japanese national, both of them probably sound non-Japanese.
-
-The less you know someone, the more you assume... Remember HY.Cai
 
 -- siberia .. sibeeria
 -- common law meaning..
@@ -106,7 +62,7 @@ Focus on the room4improvement is painful. We need more realistic targets like I 
 
 In contrast, walk, jog, cycle, basketball ... require speed to be effective workout
 
--- new:
+-- fuxi:
 Among the U.S. immigrants, probably 90% come from less wealth (mostly developing) countries. Probably below 1% come from wealthier (always small) nations like Switzerland, Luxembourg, and Singapore
 
 --update blogpost ... steadfast focus
@@ -117,26 +73,6 @@ He already spends too much on phones.
 phones are more addictive than computers.
 phones need data 
 phone screen too small
-
--- new: play`down my superiority
-(a good title is hard)
-for decades, I tend to practice a slightly excessive form of modesty, /bordering on/ self-degradation. 
-Opening example: I have worked my ass off to improve diet and BMI, but when I meet a OC-effective guy, or a humerous/witty guy, I often ignore my BMI advantage and regard him as superior.
-
-If I can recall and name 50 "superiors" [], 95% of them would have some serious inferiority such that I would hesitate to trade places with him.
-
-inferior: Many of them (or their kids) grew up in an incomplete (if not broken) family. Many of them lost a parent fairly early.
-inferior: More than half of them are overweight.
-inferior: Many of them have more health issues than I have.
-inferior: Many of them have non-trivial but hidden issues in mental well-being, including sleep, relationships, stress, aggression
-Most of those occupying higher positions have work stress and career risks far more than I have as a contractor.
-inferior: Most of those high-flyers don't have my career longevity. This is another "battery" I have built over decades but I tend to dismiss, esp. when I meet some high-flyer who is without this longevity but... superior ?! 
-inferior: Most of them have long-term financial concerns like medical + inflation, retirement income.
-Some of them have no kids. 
-
--- new: bmark aspiration is similar to..
-category: anxiety
-boy's bmark: this aspiration is somewhat similar to brank, OC-effective, exclub, SDXQ/Orchard mansion, net asset
 
 -- fuxi: median is better than mean in the presence of very large outliers.
 
