@@ -1,3 +1,14 @@
+-- new: telecom sector for c++developers
+In 2002, when I joined Zed, telecom was all the rage. Known to enjoy good margins, excellent moat, and able to pay above the market for technical talent.
+
+HL.Yang is a veteran of the industry and had a lot of positive things to share.
+
+When I went to U.S. in 2007, I still had a rose-tinted view, and chose Verizon. Then I realized WallSt had been paying higher than telecom.
+
+By 2018, I had lost my rose-tinted view, after consulting Deepak.CM and CSDoctor.
+
+However, I think c/c++ developers still have a lot of opportunities in telecom.
+
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some are better than employers. In terms of financial support, government handout is tiny compared to employers'.
 
 --new or update blogpost on IV_skill ^ GTD
