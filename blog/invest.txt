@@ -1,3 +1,4 @@
+
 --new: reduce(grave)compliance risk
 pre-clear large qty like $1k/name
 If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
@@ -10,10 +11,19 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 * when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
 * when you add those OPP, you may take on more risks.
 
--- new: gov red chips
+-- new: 
+when stock picking is an active recreation, then novelty becomes a non-trivial factor. That favors international exotic names, and new names. 
+
+However, I have bought a lot of high-yield names. The remaining names tend to be low-yield. Hard to find any suitable stocks.
+
+-- new: high-yield, low growth, blue chips
+T:US is probably a leading example.
+Singtel is another well-known example.
+
+How about the red chips? 
 My view on gov red chips has changed. They seem to pay good dividends to compensate for very poor long-term trend.
 
-U.S. dividend stocks offer better long-term prospect. The gov red chips don't qualify for my income ptf.
+U.S. dividend stocks offer better long-term prospect. The red chips don't qualify for my income ptf.
 
 --update: 
 https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=17015&action=edit

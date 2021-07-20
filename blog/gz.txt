@@ -1,13 +1,19 @@
--- new: telecom sector for c++developers
+-- new: telecom sector for aging c++developers
+In 1996 when we had to choose our specializations, communications stream was by far the most popular (followed by computer engineering, microelectronics, control engineering and power).
+ 
 In 2002, when I joined Zed, telecom was all the rage. Known to enjoy good margins, excellent moat, and able to pay above the market for technical talent.
 
 HL.Yang is a veteran of the industry and had a lot of positive things to share.
+
+Benny.Zhao was also in a telecom-specific software start-up. 
 
 When I went to U.S. in 2007, I still had a rose-tinted view, and chose Verizon. Then I realized WallSt had been paying higher than telecom.
 
 By 2018, I had lost my rose-tinted view, after consulting Deepak.CM and CSDoctor.
 
-However, I think c/c++ developers still have a lot of opportunities in telecom.
+Clearly, the telecom industry is still growing and innovating, at the most critical layer. However, the salary premium has shifted elsewhere. 
+
+I think c/c++ developers still have a lot of opportunities in telecom. There's something in common between c/c++ and telecom -- both are past the peak, still growing outside the limelight, essential to every national economy, but unglamorous among the bright young talents. As such, both represent good opportunities for aging developers.
 
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some are better than employers. In terms of financial support, government handout is tiny compared to employers'.
 
