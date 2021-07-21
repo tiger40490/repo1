@@ -17,3 +17,8 @@ Immediately I assumed that they speak mostly Japanese between them and their Jap
 Well, DaShan the Canadian in China is one in probably 1000 foreigners who speak such fluent Chinese. So to a Japanese national, both of them probably sound non-Japanese.
 
 The less you know someone, the more you assume... Remember HY.Cai
+
+--new: reduce(grave)compliance risk
+pre-clear large qty like $1k/name
+If I have many names to trade at the same time, then risk of oversight is higher. Avoid working while trading.
+small (even fractional) orders are still safer than big orders.
