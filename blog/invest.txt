@@ -1,6 +1,4 @@
-
-
---update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=20155&action=edit
+-- slow-cooking update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=20155&action=edit
 It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
 
 * when you add those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
@@ -26,95 +24,14 @@ https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=17015&action=edit
 best China index
 You can collect the count of tracking ETFs for each index. The most popular index is MSCI China.
 
---update LFC stock
-The analyst high rating failed
-
--- update gdp ^ gni
-GDP measures economic output within the physical boundary
-GNI measures income earned by the nationals regardless of location.
-
-Those are the high-level concepts. The actual subtractions/additions are important and are sometimes imprecise.
-
--- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=16016&action=edit
-
-Earn/Save/Invest: avoid peer comparison. Some people would be good at all 3, but usually there's not much to learn from them.
-
-So the peer comparison would be counterproductive.
-
--- new: entry/exit: stick to proven rule@@
-t_critiq
-I often hear authors advocate discipline -- "Set your own rules and follow them consistently." However, why do we need to monitor the market rather than program a computer to do so?
-
-More importantly, how do I know when to (turn on override and) modify my rule?
-
-I think in reality, what we can realistically do is "follow personal rules 95% of the time"
-
-What percentage of retail investors have the descipline to achieve that? One in 10? Among these millions of investors, their numeric rules are all different and therefore create millions of "free agents" that power the free market.
-
--- new or update: personal system4stock-picking 
-if you want to gradually develop a personal stock-picking "system", then you need to make a large number of small but real decision, over different times. A few big trades won't grow your confidence fast enough.
-
-To become an experienced stock investor, you also need to make many informed decisions and learn from that experience.
-
-Q: how much retrospective analysis needed?
-A: not about how many hours but how much traction you gain (not wheel-spinning). You should cut down the review when you notice dimishing return.
-
-Quick learning is an advantage of stock vis-a-vis other investments.
-
--- MOETF rebalance
-Many high-yield bluechips should get higher allocation
-concentration risk -- increase allocation on low concentration sectors
-* consumer
-* telco
-* mining, usually international
-
-Increase international stocks without heavy U.S. presence
-
-Some sectors are interest-rate sensitive. Need to avoid topping up, but they have DYOC
-
 -- update blogpost on (de)stressor..
-buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio
+buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
 
-buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.
-
-Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
-
--- new: few]%%cohort have a global branded degree
-In their 20's, China was poorer than now, very few could get a scholarship to a branded college overseas, so they have to settle for a lower-tier.
-
-After a certain age like 30, a low single-digit percentage would see enough justification for the high cost of a branded degree. 
-Most of the Chinese peers already had a postgrad degree in their 20's. Hard to justify another postgrad degree. 
-
-If they were unable to earn a branded degree, then I think that's one reason why so many of them have unrealistic evaluations of a branded degree.
-
--- update "branded car"
-as I age, I see more and more similarities between branded college and branded clothing. The consumer here is the parent. Parents spend very large amount of disposable income on these status items. 
+(buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.)
 
 -- new: inflation: econ/fin texbooks
 P71 [[Intl Fin]]
 P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
-
--- new or update 
-inflation (beyond CPI) is largely driven by exclub.
-fancy food, branded clothing, residential property, luxury car, branded college ... 
-
-As exclub demand increases, vendors increase prices. I think governments can't do much about this demand, except property cooling measures.
-
--- update SG inflation: 30Y personal xp #basket
-Even U.S. inflation is not so bad in the short term. 
-
-https://www.cnbc.com/2021/06/08/gold-as-an-inflation-hedge-history-suggests-otherwise.html says (The Federal Reserve tries to keep inflation around 2% per year.)
-
--- new: some retirees do worry about inflation eroding nest egg
-https://www.cnbc.com/2021/06/07/heres-an-option-to-protect-your-portfolio-from-inflation.html says Inflation is a top concern as investors fret about the rising cost of groceries, housing, gasoline and other living expenses.
-
-Q: Is this widespread in the U.S. or Singapore?
-A: I have limited insight. I would assume this is a top concern among some retirees in every country.
-
-We can look at actual inflation. One of the biggest complaints of Chinese citizens is inflation in everyday purchases (excluding housing). SG is not bad as discussed in several blogposts. 
-
-Q: is SGD 3k CRBR realistic? 
-A: I still feel confident. 
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
