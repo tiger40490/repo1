@@ -1,8 +1,62 @@
 --fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
 
+-- new: to disable hundreds of win10 services
+msconfig.exe lists hundreds of checkboxes.
+
+These could contribute to performance drags.
+-- new: win10 mouse pointer size
+Traditional MouseProp applet has only "ExtraLarge" and "Large".
+
+The newer "Mouse Pointer" page offers wider varieties.
 -- update or new
 TreeSizeFree
 Allocated column is more useful than SIZE column as it reflects CompressionRate
+
+--update blogpost on disk hogs
+ProgramFiles\WindowsApps: 4GB. See https://answers.microsoft.com/en-us/windows/forum/all/unnecessary-apps-in-cprogram-fileswindowsapps/43f4552a-0445-4878-9ce3-8b7a4f45fe6a 
+-- new: ##G5 progress]laptop habits #health++
+more standing .. not yet implemented
+mouse pointer .. more visible
+A95 touchpad fix
+overcharging .. lower electricity, less heat
+
+--update solitude https://btv-open.dreamhosters.com/wp-admin/post.php?post=42649&action=edit
+movies ... dependent on "other people"; reading/blogging is more solitary.
+
+== new: creating^consuming "fun art"
+trigger 1: The beginning of the google doodle tradition. There's nothing wrong in fun-loving. Done well, your creative fun art can create joy for a large audience, just like a street comedian. (Large audience .. is a rare and key ingredient of google's googles. Most of the discussion in this blogpost doesn't involve a large audience.)
+
+This topic is wide ranging. My thoughts are centered around fun, art, effort, hobby, wellness ...
+
+Suppose you love some fun art so much that you put in effort and absorbency to create something. It may not be artistic in itself, but it helps other people enjoy the sme fun art. 
+Then you have created value with that fun art. You have become a hero of some sort, a role model for others.
+As a hobby, creating fun art is mostly positive; consuming fun art... is a "harmless" recreation up to a point. 
+After that point, it becomes an obsession. 
+Many (including students and retirees) spend too much time consuming. 
+There's no effort, no creativity in consuming fun art. 
+Consuming (and even creating) fun art can become excessive and and unhealthy. Self-regulation required.
+
+eg: reading is better than screen-based "consuming". The screen often gets hijacked by marketeers. With screens, we often feel compelled to complete the "jouney" because it's not easy to stop, bookmark, and come back another day.
+
+eg: movie/anime/gaming industries are some of the biggest industries founded on a fun arts. The creative artists vs the consumers ...
+
+eg: one of my top 3 hobbies nowadays is blogging online (published). Not really fun art, but it shares many features with creating fun art.
+
+eg: consuming as a physical activity (rare) is healthier than sit-at-home consuming.
+
+eg: home decoration is my wife's creative fun art.. physical :) There's some small $cost, usually not expensive.
+
+eg: classical music playing .. not fun art to the young, but is fun art actually.
+"consuming" classic music .. is widely endorsed, but please don't sit at home and listen for hours every day. 
+
+-- How about my mag recreational xx? I always prefer recreational xx rather than just recreation.
+
+-- How about solitude? I have a growing preference for recreations that do not depend on other people. 
+Some creative fun arts meet this criteria. Consuming certain fun arts can also meet this requirement. 
+
+I think this becomes important in retirement. I feel grandpa might be suffering more than grandma.
+
+==
 
 -- update post on 5/wk
 when it's hard to hit 5/wk,

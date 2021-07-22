@@ -1,3 +1,10 @@
+-- new: self-assessment: central, high-impoact, high-value roles.
+In 95G and Barcap, my role in the team was fairly central, high-impact, high-value.
+
+Subsequent roles were somewhat peripheral. I need to get used to it.
+
+To be fair, my OC role with Quest was fairly central. My NYSE Integrated feed handler was visible, high-value. My DevOps role in Macq was central and visible to the tech teams.
+
 -- new: telecom sector for aging c++developers
 In 1996 when we had to choose our specializations, communications stream was by far the most popular (followed by computer engineering, microelectronics, control engineering and power).
  
