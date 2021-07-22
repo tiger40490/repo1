@@ -1,3 +1,5 @@
+--fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
+
 -- update post on 5/wk
 when it's hard to hit 5/wk,
 * be flexible with shorter workouts. Start early during the day. Once I complete a few rounds, it would be easy to hit 1/wk
