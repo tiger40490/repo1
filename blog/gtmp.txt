@@ -1,5 +1,6 @@
 --fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
-
+-- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=42709&action=edit
+兴趣
 -- new: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
 
