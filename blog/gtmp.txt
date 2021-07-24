@@ -1,6 +1,14 @@
+-- fuxi
+CTRL + Shift +Esc to start taskmgr
+
 --fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
 -- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=42709&action=edit
 兴趣
+
+-- new or update: ##laptops: long-service awards
+HP: many years in SG and during c++us
+Dell250: many years
+
 -- new: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
 
