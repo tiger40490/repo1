@@ -1,33 +1,37 @@
---thu
-tech2publish.txt
+-- weekend
+LG2 update git blogging
 
---food priority:
-avocado: perishable :(
---buy
-milk
-phone holder
-powerline networking gear, as back-up for the wireless router
-touchpad buttons -- visit Simlim with the laptop to ask around?
 -- open-house   # see also https://1330152open.wordpress.com/wp-admin/post.php?post=11950&action=edit
 --no hurry
 clean up U.S.gtmp x_gz0 category
-try super sound
-chip-away: clean up contact_large.txt, imp docs; reorganize storeroom before it gets too messy
+chip-away: clean up contact_large.txt, imp docs; reorganize storeroom before it gets too messyPP
 review SRS https://tanbinvest.dreamhosters.com/2020/11/02/srs/
-research how to disable iphone detection on win10
-remove spotify and roblox from A95
+
 --more or less #see also blogpost
-less frenDialog
-more recreational reading; less movies
-less blogging
+less blogging, more git-blogging
 
 --tww
+BGC insurance
+how to stand more at home. #1 roadblock is the Dell minotor.
+how to sleep earlier?
 toilet seat? screw on bumpers
 I want to be serious that grades are LGlp
 jot down random ideas on
 * gmail
+* 0.txt in SD card
+
+-- laptop changes
+5) stand (top priority) more. Leave big laptop in cockpit 1
+* don't charge 99% of the time. Actually easier life
+
+-- $450 14" touchscreen
+concern: breakdown within 12M
+cocnern: not enough usage before I put it on shelf. In other words, there's a pressure to put it to use, but this is tough.
+concern: If I put a touch screen in cockpit2, then there's less motivation to stand in cockpit1? But big touch screen is still an attraction
+perhaps wait till boy gets his device. No urgency. The HP still has useful life. Now I wish HP becomes beyond repair
 
 --fx: → ≠ ≈
+let's not check the IRS status too often. Let it be.
 use up and discard the tight underpants to live light
 more standing at home
 more flossing
