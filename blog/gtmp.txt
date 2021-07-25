@@ -1,3 +1,8 @@
+--fuxi or new: excessive blogg@@
+part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
+
+A related consequence -- as I reduce online blogging, I get a growing backlog in git-blog.
+
 -- new: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
 
