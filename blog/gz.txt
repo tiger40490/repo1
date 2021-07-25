@@ -115,7 +115,7 @@ I felt slightly ashamed. However, now I'm mellowing up. Lead role comes with hig
 
 The risks of old-timer is easily underestimated.
 
--- new: memory leak: paper tiger
+-- new: memory leak + other paper tigers
 t_opaque
 mem leak was presented as more elusive than NPE
 mem leak was supposed to require source code scrunity.
