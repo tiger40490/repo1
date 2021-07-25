@@ -193,7 +193,7 @@ BigDataAnalytics includes BigData stack.
 Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
--- With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors (only web2.0 techies are higher)
+-- fuxi: With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors (only web2.0 techies are higher)
 Evidence for "veteran"? Not GTD, not even zbs, but mostly the interview-visible expertise. 
 
 This expertise is about the only criteria IMO. Anyone "strong" on this front is considered a veteran, regardless of his GTD, localSys....  Anyone weak on this front .. can still be a veteran, but with limited mobility.
@@ -202,7 +202,7 @@ A veteran developer doesn't need to be an above-average developer or expert deve
 
 Can you acquire this expertise with only 3Y experience? You would need to attend many interviews.
 
--- new: self-assessment: central, high-impact, high-value roles.
+-- fuxi or new: self-assessment: central, high-impact, high-value roles.
 In 95G and Barcap, my role in the team was fairly central, high-impact, high-value.
 
 Subsequent roles were somewhat peripheral. I need to get used to it.
