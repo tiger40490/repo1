@@ -1,10 +1,17 @@
+
+-- fuxi: somehow I don't mind boy spending 5H/day on computers.
+He already spends too much on phones.
+phones are more addictive than computers.
+phones need data 
+phone screen too small
+
+--fuxi:
+part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
+
 -- fuxi: win10 mouse pointer size
 Traditional MouseProp applet has only "ExtraLarge" and "Large".
 
 The newer "Mouse Pointer" page offers wider varieties.
-
---fuxi:
-part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
 
 -- fuxi: Citrix: switch between 1^2fullScreen modes
 When cursor is in either screen, try 3-finger touchpad swipe-up. You can then choose a window to show on-top in that screen. The selected window could belong to the remote or home computer
@@ -17,12 +24,6 @@ I expect a lot more of her.
 
 -- fuxi:
 Among the U.S. immigrants, probably 90% come from less wealth (mostly developing) countries. Probably below 1% come from wealthier (always small) nations like Switzerland, Luxembourg, and Singapore
-
--- fuxi: somehow I don't mind boy spending 5H/day on computers.
-He already spends too much on phones.
-phones are more addictive than computers.
-phones need data 
-phone screen too small
 
 -- fuxi: median is better than mean in the presence of very large outliers.
 
