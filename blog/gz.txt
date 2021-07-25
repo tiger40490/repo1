@@ -122,7 +122,7 @@ mem leak was supposed to require source code scrunity.
 mem leak in java and c# were challenging in my limited experience, but c/c++ was supposed to be much harder.
 There were numerous instrumentation tools to help identify memory leaks. They help reinforce the notions of "complex, opaque, OMH"
 
-I "subscribed" to this huge fear, being "sold" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
+I "subscribed" to this huge fear, being "peddled" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
 I think the memory leak these authors deal with are much tougher than my memory leaks. 
 
 ( Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive. )
@@ -140,8 +140,8 @@ The complexity is not worthwhile in most projects
 
 .. How about custom memory allocator
 
--- new: Dram refresh: localSys^criticalMass^
-c++ > java because my java critical mass is easier more self-sustaining
+-- new: Dram refresh: localSys^criticalMass^CIV
+c++ > java because my java critical mass is easier, more self-sustaining
 localSys?
 coding drill? Not so fast "decay"
 
