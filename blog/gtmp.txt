@@ -1,7 +1,3 @@
--- fuxi
-CTRL + Shift +Esc to start taskmgr
-
---fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
 -- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=42709&action=edit
 兴趣
 
@@ -69,3 +65,8 @@ I think this becomes important in retirement. I feel grandpa might be suffering 
 
 -- update mag:
 sometimes I get into a low mood and carry a negative perception about many of my books, so even a big home library may be insufficient. The gen magazine is an alternative.
+
+-- fuxi
+CTRL + Shift +Esc to start taskmgr
+
+--fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
