@@ -1,4 +1,11 @@
 
+-- new: gpgpu ~ ab-initio: NOT general purpose
+rule engine is another example
+
+All of these vendors claim that their products are revolutionary and leave the traditional solutions in the dust.
+
+However, the use cases are extremely niche. The skill is not highly sought after.
+
 -- new: all-at-once: appraisal
 as employee, when I have family issues, kids issues, investment foes, I would fear an appraisal. Even a bonus disappointment would add a heavy blow.
 
