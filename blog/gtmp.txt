@@ -9,10 +9,6 @@ Dell250: many years
 msconfig.exe lists hundreds of checkboxes.
 
 These could contribute to performance drags.
--- new: win10 mouse pointer size
-Traditional MouseProp applet has only "ExtraLarge" and "Large".
-
-The newer "Mouse Pointer" page offers wider varieties.
 -- update or new
 TreeSizeFree
 Allocated column is more useful than SIZE column as it reflects CompressionRate
@@ -24,9 +20,6 @@ more standing .. not yet implemented
 mouse pointer .. more visible
 A95 touchpad fix
 overcharging .. lower electricity, less heat
-
---update solitude https://btv-open.dreamhosters.com/wp-admin/post.php?post=42649&action=edit
-movies ... dependent on "other people"; reading/blogging is more solitary.
 
 == new: creating^consuming "fun art"
 trigger 1: The beginning of the google doodle tradition. There's nothing wrong in fun-loving. Done well, your creative fun art can create joy for a large audience, just like a street comedian. (Large audience .. is a rare and key ingredient of google's googles. Most of the discussion in this blogpost doesn't involve a large audience.)
@@ -62,9 +55,6 @@ Some creative fun arts meet this criteria. Consuming certain fun arts can also m
 I think this becomes important in retirement. I feel grandpa might be suffering more than grandma.
 
 ==
-
--- update mag:
-sometimes I get into a low mood and carry a negative perception about many of my books, so even a big home library may be insufficient. The gen magazine is an alternative.
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr

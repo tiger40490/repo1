@@ -1,3 +1,7 @@
+-- fuxi: win10 mouse pointer size
+Traditional MouseProp applet has only "ExtraLarge" and "Large".
+
+The newer "Mouse Pointer" page offers wider varieties.
 
 --fuxi:
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
