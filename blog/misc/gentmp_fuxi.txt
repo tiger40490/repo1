@@ -1,4 +1,25 @@
 
+--fuxi:
+part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
+
+-- fuxi: Citrix: switch between 1^2fullScreen modes
+When cursor is in either screen, try 3-finger touchpad swipe-up. You can then choose a window to show on-top in that screen. The selected window could belong to the remote or home computer
+
+On an unrelated note, you can also try 3-finger swipe-down.. will immediately minimize all windows and reveal home computer’s desktop. At this juncture a swipe-up would restore everything.
+
+-- fuxi: when I describe my intimacy frustration, I mentioned my daughter's sleep habit and my son's habit to sleep in the living room. In my description, you could tell I'm more forgiving more tolerant of my 2 kids. In contrast, I'm more critical of wife.
+
+I expect a lot more of her. 
+
+-- fuxi:
+Among the U.S. immigrants, probably 90% come from less wealth (mostly developing) countries. Probably below 1% come from wealthier (always small) nations like Switzerland, Luxembourg, and Singapore
+
+-- fuxi: somehow I don't mind boy spending 5H/day on computers.
+He already spends too much on phones.
+phones are more addictive than computers.
+phones need data 
+phone screen too small
+
 -- fuxi: median is better than mean in the presence of very large outliers.
 
 -- fuxi: 
@@ -22,11 +43,6 @@ Stockier than leopards.
 I think the top colleges have a lower dominance
 
 Stony Brooks .. not a branded college, but produced many Field medalists etc
-
--- fuxi: dentist tips:
-more flossing please
-clean the retainer
-x-ray every 2Y
 
 -- fuxi: tag proliferation ^ too many on a post: which is worse
 I feel tag proliferation is worse. Some tags would lose sunshine and lose relevance.
@@ -75,13 +91,6 @@ The high cost -- With wechat (linkedin much better), these people receive too mu
 The wechat/whatsapp/linkedin lifestyle is for people whose personal time and priorities fall within their (large) circle of friends. This lifestyle is a very poor match for my needs. 
 
 I do have a need to connect with a small circle of "friends and family". I much prefer 1) meet-up 2) email. Phone call is a distant third choice. Chat is the worst choice for me.
-
---fuxi:
-With git blogging, I often switch between two windows -- the gitBash and the MSWE.
-
-If your gitBash is already in a particular folder, you can run q[start . ] to launch MSWE on that folder.
-
-You can also run q[start path/to/a/file] to launch the default application for that file extension.
 
 -- new: simplify your life
 t_vague
@@ -145,9 +154,6 @@ eg: windows license expiry
 eg: windows update kick-in at the wrong time
 eg: M1 and starhub blackout
 
--- fuxi: I like titles with a power phrase or a sharp question. 
-These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
-
 -- fuxi: u.s. not in decline :
 * movie businss + pop music
 * tech companies
@@ -164,22 +170,6 @@ These blogposts follow the news journalist tradition, and tries to analyze the g
 * marketing, branding
 
 I wonder why. LKY might say "talent" 
-
--- no blog: smartTV box
-It has special apps preinstalled to download internet content and play on TV.
-
-The internet content could be youtube.. Probably not a streaming service.
-
-Wife's windows apps serve a similar purpose.
-
-Netflix is another app but requires subscription.
-
-One-time $79 investment and you can watch many movies on your TV unlimited for life. No subscription. 
-
-Unlimted movies will make you feel fed up sooner or later. Unconstrained indulgence would dillute the enjoyment. I'd rather buy a movie ticket each time.
-
---fuxi: 
-dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
 
 --update  various blogopsts:
 why I have two healthy kids? Largely due to the Effective mother
