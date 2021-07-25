@@ -1,4 +1,9 @@
 
+-- new: all-at-once: appraisal
+as employee, when I have family issues, kids issues, investment foes, I would fear an appraisal. Even a bonus disappointment would add a heavy blow.
+
+As contractor, no such fear. When I'm let go, I would easily attribute it to budget and go job hunting again.
+
 -- update mag:
 sometimes I get into a low mood and carry a negative perception about many of my books, so even a big home library may be insufficient. The gen magazine is an alternative.
 
