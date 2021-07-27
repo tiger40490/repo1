@@ -1,3 +1,6 @@
+-- update blogpost on the limitations of bccy
+bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
+
 -- fuxi or update post on U.S. eq market strength
 jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available in U.S. stocks.
 
@@ -44,6 +47,8 @@ best China index
 You can collect the count of tracking ETFs for each index. The most popular index is MSCI China.
 
 Gary singled out FTSE A50.
+
+Gary believed China ADR stocks are correlated with China index much more than SP500.
 
 -- update blogpost on (de)stressor..
 buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
