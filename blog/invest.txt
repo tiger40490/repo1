@@ -43,6 +43,8 @@ https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=17015&action=edit
 best China index
 You can collect the count of tracking ETFs for each index. The most popular index is MSCI China.
 
+Gary singled out FTSE A50.
+
 -- update blogpost on (de)stressor..
 buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
 
