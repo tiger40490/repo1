@@ -1,28 +1,11 @@
 -- I told Zeng that financial planning is easy if you ignore the black swans. Black swans tend to dominante over the long-term.
 He felt many disasters can be managed with insurance 
 
--- update blogpost on the limitations of bccy
-bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
-
--- fuxi or update post on U.S. eq market strength
-jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available in U.S. stocks.
-
-SG, Germany, Australia ... also have strong, competitive economies but lack the same strengths of the U.S. stocks.
--- update ...
+-- fuxi:
 when I told Sheng.Zeng about SG healthcare/nursing cost in SG^Chn, he pointed out unqualified doctors (庸医), more of a problem in China
 -- which China bank position to downsize? BOC ?
 Agr is best performer among them
 
-== update lifestyle creep
-When a family's disposable income grows, they break traditional guidelines of simple life
-
-eg: "family car" -> 2 cars per family still not enough
-eg: "sharing a bedroom between 2 kids" -> one bed room per kid
-eg: "Aircon in bedrooms only" -> a/c in living room and kitchen
-
--- CpfLife ERS amount won't be enough.
--- which level of ffree? well above Level 5 ffree 
-==
 -- slow-cooking update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=20155&action=edit
 It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
 
@@ -30,8 +13,8 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 * when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
 * when you add those OPP, you may take on more risks.
 
--- new: 
-when stock picking is an active recreation, then novelty becomes a non-trivial factor. That favors international exotic names, and new names. 
+-- fuxi: 
+when stock picking is an active recreation, then novelty becomes a non-trivial selection criteria. That favors international exotic names, and new names. 
 
 However, I have bought a lot of high-yield names. The remaining names tend to be low-yield. Hard to find any suitable stocks.
 
@@ -52,6 +35,11 @@ You can collect the count of tracking ETFs for each index. The most popular inde
 Gary singled out FTSE A50.
 
 Gary believed China ADR stocks are correlated with China index much more than SP500.
+
+-- fuxi or update post on U.S. eq market strength
+jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available in U.S. stocks.
+
+SG, Germany, Australia ... also have strong, competitive economies but lack the same strengths of the U.S. stocks.
 
 -- update blogpost on (de)stressor..
 buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF

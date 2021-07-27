@@ -1,7 +1,20 @@
 
+-- update blogpost on the limitations of bccy
+bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
+
 -- new: inflation: econ/fin texbooks
 P71 [[Intl Fin]]
 P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
+== update lifestyle creep
+When a family's disposable income grows, family members break traditional guidelines of simple life
+
+eg: "family car" -> 2 cars per family still not enough
+eg: "sharing a bedroom between 2 kids" -> one bed room per kid
+eg: "Aircon in bedrooms only" -> a/c in living room and kitchen
+
+-- CpfLife ERS amount won't be enough.
+-- which level of ffree? well above Level 5 ffree 
+==
 
 -- new: gpgpu ~ ab-initio: NOT general purpose
 rule engine is another example
