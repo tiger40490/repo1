@@ -1,5 +1,6 @@
 -- I told Zeng that financial planning is easy if you ignore the black swans. Black swans tend to dominante over the long-term.
 He felt many disasters can be managed with insurance 
+However, many black swans are not financial in nature.
 
 -- fuxi:
 when I told Sheng.Zeng about SG healthcare/nursing cost in SG^Chn, he pointed out unqualified doctors (庸医), more of a problem in China
