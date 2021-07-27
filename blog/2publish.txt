@@ -1,4 +1,8 @@
 
+-- new: inflation: econ/fin texbooks
+P71 [[Intl Fin]]
+P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
+
 -- new: gpgpu ~ ab-initio: NOT general purpose
 rule engine is another example
 
