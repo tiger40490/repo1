@@ -1,3 +1,6 @@
+-- I told Zeng that financial planning is easy if you ignore the black swans. Black swans tend to dominante over the long-term.
+He felt many disasters can be managed with insurance 
+
 -- update blogpost on the limitations of bccy
 bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
 
@@ -49,6 +52,8 @@ You can collect the count of tracking ETFs for each index. The most popular inde
 Gary singled out FTSE A50.
 
 Gary believed China ADR stocks are correlated with China index much more than SP500.
+
+Gary felt red chips are profitable businesses, but widely perceived as low efficiency, low margin.
 
 -- update blogpost on (de)stressor..
 buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
