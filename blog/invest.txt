@@ -35,13 +35,13 @@ when stock picking is an active recreation, then novelty becomes a non-trivial f
 
 However, I have bought a lot of high-yield names. The remaining names tend to be low-yield. Hard to find any suitable stocks.
 
--- new: high-yield, low growth, blue chips
+-- slow-cooking new: high-yield, low growth, blue chips
 T:US is probably a leading example.
 Singtel is another well-known example.
 
 How about the red chips? 
 My view on gov red chips has changed. They seem to pay good dividends to compensate for very poor long-term trend.
-
+Gary felt red chips are profitable businesses, but widely perceived as low efficiency, low margin.
 U.S. dividend stocks offer better long-term prospect. The red chips don't qualify for my income ptf.
 
 --update: 
@@ -52,8 +52,6 @@ You can collect the count of tracking ETFs for each index. The most popular inde
 Gary singled out FTSE A50.
 
 Gary believed China ADR stocks are correlated with China index much more than SP500.
-
-Gary felt red chips are profitable businesses, but widely perceived as low efficiency, low margin.
 
 -- update blogpost on (de)stressor..
 buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
