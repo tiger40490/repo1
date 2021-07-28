@@ -96,12 +96,12 @@ std library removed bind1st etc, binary_function etc in c++17
 
 See https://mariusbancila.ro/blog/2018/07/05/c17-removed-and-deprecated-features/
 
---new or fuxi: c++ range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
-However, c++ range, as a STL extention, seems to rely on an underlying container.
+--new or fuxi: std::range seems to borrow from python q[yield]. (I guess c# [yield] may be similar but I don't have time to study it.)
+However, std::range, as a STL extention, seems to rely on an underlying container.
 
 ranges are based on iterators/containers. 
 
-The infinite range doesn't rely on a container but seems to be a secondary feature.
+The infinite range doesn't rely on a container but seems to be a secondary feature of c++range.
 
 Will C++ range become IV-hot? If it does then I will study.
 
