@@ -1,3 +1,7 @@
+--fuxi: 
+c:\ProgramPortables
+lines up with ProgramFilesXXX and ProgramData folders 
+
 --fuxi or new: excessive blogg@@
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
 
