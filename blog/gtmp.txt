@@ -1,3 +1,33 @@
+-- update https://btv-open.dreamhosters.com/2020/04/03/quietly-overtaking-peers-over10y/
+.. random items of stealth overtake
+beautiful kids
+5 workouts a week
+no belly fat
+satisfactory intimacy
+
+.. some of the obvious, the familiar
+UChicago .. insider advantage
+dev-till70
+U.S. and SG "dual homes"
+
+-- fuxi: my strategicStrength posts :
+each needs a more specific theme, a sharp question
+
+-- new: table lamps: batt/LED : vs bulb
+adv: low heat.. important for SG
+adv: low energy footprint
+adv: power cable required only during charging. See charging tips below.
+adv: for clamp lamp, batt model is displacing bulb models. So I better get used to this new model
+disadvantage: can't replace bulb. I think battery is less durable than bulb
+disadvatnage: less bright even for my table lamp usage.
+
+charging restrictions:
+* 24H max charge
+* every 3M of disuse, charge 8 hours, perhaps in OFF mode. Protects battery life. I think 100% depletion hurts battery.
+
+charging recommendations:
+* better recharge well before battery 100% depleted
+
 --fuxi: 
 c:\ProgramPortables
 lines up with ProgramFilesXXX and ProgramData folders 
