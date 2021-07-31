@@ -2,28 +2,6 @@
 For squat and stairs, we can incrementally build up a session.
 squat: [200<-600]
 
--- new: buying wellness: how effective@@
-There are many "research" or marketing that link fancy new products to wellness. You would think the rich would live healthier lives? Alas, the correlation is very low.
-
-I will use star-rating and dollar-rating ..
-$$$*** more free time .. commute; lower-pay jobs
-* less driving, more walking, cycling
-* simple, low-cost workout equipmenets similar to what I now keep
-$$* nearby gym/pool/basketballCourt/// as provided by an office or condo
-$** yoga (and other) classes
-$ fancy fruits
-
-Note most of the cost-effective items are low-cost.
-
-Note I consciously reject most of the supplements, fancy expensive food. 
-
-$130/M gym fee is tolerable to me, but most of us use the gym only once a week. Let's assume 8 times/M
-
-How about $16/visit flat rate? I would feel I could save the money by working out at home. 
-Jolt: but can you do that consistently?
-
-Paying the monthly fee motivates me to go there regularly.
-
 -- new: challenge of chin-up target
 A realistic goal would be one a day, but such a goal doens't generate positive feedback. 
 
@@ -36,7 +14,7 @@ with squat, stairs, chin-up etc (mostly against body weight), even the slowest w
 
 With boxing and jogging, slow means low intensity. Speed would easily tripple the intensity.
 
--- new: commercial^home cooking #quantity^quality
+-- update or new: commercial^home cooking #quantity^quality
 t_misperception
 
 Critical thinking .. home cooking is better nutrition, but why my experience proved that my BMI was always better when living alone without home cooking? I would say quantity outweighs quality. 
@@ -52,7 +30,7 @@ starch bought outside .. tend to have more fiber, and stored in a stash under co
 soymilk .. home-made is better, and I don't overeat.
 milkshake .. home-made is better. 
 
--- new: compensation when coming home
+-- fuxi: compensation when coming home
 when I come home, I look forward to (expectation of) a reward for the sacrifices, an unwinding of the strict control 
 I feel I deserve some comfort food.
 

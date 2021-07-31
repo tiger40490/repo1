@@ -1,3 +1,24 @@
+-- new: buying wellness: how effective@@
+There are many "research" or marketing that link fancy new products to wellness. You would think the rich would live healthier lives? Alas, the correlation is very low.
+
+I will use star-rating and dollar-rating ..
+$$$*** more free time .. commute; lower-pay jobs
+* less driving, more walking, cycling
+* simple, low-cost workout equipmenets similar to what I now keep
+$$* nearby gym/pool/basketballCourt/// as provided by an office or condo
+$** yoga (and other) classes
+$ fancy fruits
+
+Note most of the cost-effective items are low-cost.
+
+Note I consciously reject most of the supplements, fancy expensive food. 
+
+$130/M gym fee is tolerable to me, but most of us use the gym only once a week. Let's assume 8 times/M
+
+How about $16/visit flat rate? I would feel I could save the money by working out at home. 
+Jolt: but can you do that consistently?
+
+Paying the monthly fee motivates me to go there regularly.
 
 -- update blogpost on the limitations of bccy
 bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
