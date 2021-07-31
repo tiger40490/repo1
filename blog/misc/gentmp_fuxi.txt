@@ -12,6 +12,12 @@ There's no bridge over the Amazon. For most of its course, the river flows throu
 Named by a European, after Greek mythology.
 
 Land Transportation is hard throughout the Amazon basin, partly due to flooding. Boat is the primary transportation.
+
+-- fuxi: some "fun" facts about SG3banks
+OCBC is more diversified largely due to insurance unit. Also, OCBC has higher percentage of loans outside SG.
+
+Banking is cyclical, correlated with the relevant regional economies.
+
 -- fuxi: win10 mouse pointer size
 Traditional MouseProp applet has only "ExtraLarge" and "Large".
 
