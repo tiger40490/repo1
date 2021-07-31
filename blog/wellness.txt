@@ -1,5 +1,6 @@
 -- update 5/wk post:
 For squat and stairs, we can incrementally build up a session.
+squat: [200<-600]
 
 -- new: buying wellness: how effective@@
 There are many "research" or marketing that link fancy new products to wellness. You would think the rich would live healthier lives? Alas, the correlation is very low.
