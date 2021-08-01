@@ -1,8 +1,3 @@
--- I told Zeng that financial planning is easy if you ignore the black swans. Black swans tend to dominante over the long-term.
-He felt many disasters can be managed with insurance 
-However, many black swans are not financial in nature.
-
-cpfLife (and other annuities) basically adress the CRBR, not the black swans.
 
 -- update blogpost on exp recon tables
 If you must avoid background cohor and use font color, then light colors are more identifiable.
