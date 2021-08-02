@@ -1,3 +1,5 @@
+-- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
+
 == new 3-in-1 printers
 Moving-Cartridge type is much cheaper than laser, even if you include cartridge running cost.
 
@@ -7,8 +9,7 @@ My priorities:
 * consumable cost 
 
 -- feature: outage .. laser beats tradition, but both types hit outages including scanning.
-
-sleep mode is an outage when I need to climb up and power cycle the device !
+sleep mode is an outage when I need to access the LCD and power cycle the device !
 -- feature: initial cost... Traditional beats laser hands down. 
 The cheaper, the less baggage
 I once paid $400 for a laser printer. No regrets.
