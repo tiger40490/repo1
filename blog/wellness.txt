@@ -16,7 +16,7 @@ Ideally, you would want to enjoy a range of workouts, but few individuals are so
 
 -- update 5/wk post:
 For squat and stairs, we can incrementally build up a session.
-squat: [200<-500]
+squat: [300<-600]
 
 with squat, stairs, chin-up etc (mostly against body weight), even the slowest workout has a real intensity.
 
@@ -30,7 +30,7 @@ I remember my yoga goal was one minute a day. I managed to change my perception 
 For chin-up, I need the same change of perception.
 
 -- fuxi: compensation when coming home
-when I come home, I look forward to (expectation of) a reward for the sacrifices, an unwinding of the strict control 
+when I come home from office, I look forward to (expectation of) a reward for the sacrifices, an unwinding of the strict control 
 I feel I deserve some comfort food.
 
 It feels too harsh to deny myself of the comfort foods.
