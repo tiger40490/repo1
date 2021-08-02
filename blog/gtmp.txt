@@ -7,6 +7,8 @@ My priorities:
 * consumable cost 
 
 -- feature: outage .. laser beats tradition, but both types hit outages including scanning.
+
+sleep mode is an outage when I need to climb up and power cycle the device !
 -- feature: initial cost... Traditional beats laser hands down. 
 The cheaper, the less baggage
 I once paid $400 for a laser printer. No regrets.
