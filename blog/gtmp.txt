@@ -1,4 +1,10 @@
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
+-- new:
+To enhance absorbency for study, workout etc, I need
+* library, MRT or bus interchange .. I have tried this many times
+* open green field at dusk like 6 - 7.30. In TPY I can't find such a field. I think the jogging track by Kallang river might work. 
+
+TPY stadium is decent but not exactly that.
 
 -- update https://btv-open.dreamhosters.com/2020/04/03/quietly-overtaking-peers-over10y/
 .. random items of stealth overtake
