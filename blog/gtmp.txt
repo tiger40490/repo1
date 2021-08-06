@@ -1,3 +1,6 @@
+-- new: scanner features
+Grayscale .. between color ad b/w. Bigger files.
+
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 -- new:
 To enhance absorbency for study, workout etc, I need
