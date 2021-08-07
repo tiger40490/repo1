@@ -13,32 +13,6 @@ charging restrictions:
 charging recommendations:
 * better recharge well before battery 100% depleted
 
-== new 3-in-1 printers
-Moving-Cartridge type is much cheaper than laser, including cartridge running cost.
-
-My priorities: 
-* low-maintenance .. mostly about outages. Changing cartridge is LG2
-* initial cost
-* consumable cost 
-
--- feature: outage .. laser beats traditional, but both types hit outages including scanning.
-sleep mode is an outage when I need to access the LCD and power cycle the device ! However, if I can easily see the sleep mode, and easily wake it up, then not an outage.
--- feature: initial cost... Traditional beats laser hands down. 
-The cheaper, the less baggage
-I once paid $400 for a laser printer. No regrets.
-
-After my $100+ Brother laser model, now I must pay $250. At the same time, the traditional type is very price-competitive.
--- feature: consumable cost... laser beats traditional. This is LGlp, because I have a low "lifespan" expectation. As soon as it starts giving problem, I would want to terminate the pain and abandon it. So during the short lifespan, our  consumable cost can't escalate.
-
-A 300-page Canon cartridge (original) costs SGD30. To reduce cartridge cost, you can get a $7 refill at a Simlim shop.
-
-A laser toner costs about SGD 40 and can print 1000+ 
--- feature: weight and size... traditional beats Laser.
-Lighter models can be moved easily and mounted on a higher shelf. Easier transort for repair
--- feature: dry-up .. laser beats traditional since there's no worry about "dry-up if 3M no use".
-
-==
-
 -- update or new: commercial^home cooking #quantity^quality
 t_misperception
 
