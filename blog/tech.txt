@@ -1,3 +1,7 @@
+--fuxi
+java web server (servlet based) can be very stable. Jenkins is just one example. 
+
+Jenkins is a purely java process.
 -- new: trees as subset of graphs
 In classic mathematical graph theory, a tree is an undirected acyclic graph (connected). 
 
