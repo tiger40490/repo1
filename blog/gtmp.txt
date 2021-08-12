@@ -1,20 +1,29 @@
 == new: 9lifestyle improvements{hib19 #sustainable
+t_soulsearch44
+
+I won't bend over backward to make this blogpost memorable. Right now it simply lacks a good title to be memorable. I will hope to make at least some items memorable.
+
 MOETF with firewall
-wpress@dhost 
 free books + mag, as a strategy
-low-cost printer in both rooms
+[d] wpress@dhost 
+[d] touch-screen laptops
 workout 4-5D/week
 yoga home practice
 jogging near ff
+climbing stairs adopted as sustainable workout
 standing desk
+[d=detachment needed]
 
 -- also-rans:
 intimacy? Not sustainable :( but let's just enjoy when we are able to
+low-cost printer in both rooms? May not be needed in the long run
 
 ===
+-- update 
+PendingReview flag: letters to send out
 
 -- new: scanner features
-Grayscale .. between color ad b/w. Bigger files.
+Grayscale .. between color ad b/w. Bigger files than b/w.
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 -- new:
