@@ -10,21 +10,6 @@ The rest of us try to get used to the new job. Sometimes this proves to be patie
 
 Some 10%+ suffer in pain, like Sudhir (based on my limited knowledge) and my OC job.
 
---new: architect career needs: breadth imt depth
-t_expertise, t_churn
-[[Fundamentals of software architecture]]
-
-Developers need technical depth (and need to maintain that depth)... expertise. The book didn't mention the importance of interviews. Interview is the real arena for expertise, because after the interview, on the job, the candidate won't need a lot of expertise.
-
-Archtects need breadth more than technical depth. So the authors advocates/suggests selectively giving up accumulated tech depth in some domains.
-
-But in my experience interviewers seldom value breadth nearly as much as depth. 
-by definition, breadth is not-deep ... too shallow to impress in most interviews.
-
-Shallow knowledge is also more subject to churn.
-
-mkt depth .. If 50 out of 100 software engineering jobs out there require some level of depth, then perhaps 5 require some breadth. Therefore, in terms of market depth, breadth is inferior to depth.
-
 -- fuxi: The CoreData presentation introduced many new technologies in data management , including elastic cloud, data warehouse, ETL, MOM, noSQL ..  
 
 These domains suffer high churn. Luckily, I didn't join Ab-initio. I think in these job interviews, there's no coding or low-level QQ quizzes, but probably lots of tool knowlege required. I recall the spring/hibernate interviews. If you acquire lots of tool knowledge, you will still lose the coding or QQ interviews.
@@ -34,45 +19,15 @@ python is relevant to many of them.
 C# is less prevalent.
 C/c++ is too low-level, not associated with these high-level tools. 
 
--- new or fuxi
-I actively stay away from high-churn technologies (languages) such as javascript, GO, Spark, Spring, NoSql, XML, Json
-
-In my first 5 programming years I embraced the newest languages perl/php/javascript simply because I needed to cast my net as wide as possible. Slowly I gravitated towards mature, past-the-peak, languages/technologies like SQL, Unix, C
-
 -- where can I used this term?
 tenuous(fragile) job security
 
--- new or update
+-- new or update (which one?)
 Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to find a tech lead or app owner".
 
 I felt slightly ashamed. However, now I'm kinda mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
 
 The risks to old-timer is easily underestimated. Their job security is tenuous.
-
--- new: memory leak + other paper tigers
-t_opaque
-mem leak was presented as more elusive than NPE
-mem leak was supposed to require source code scrunity.
-mem leak in java and c# were challenging in my limited experience, but c/c++ was supposed to be much harder.
-There were numerous instrumentation tools to help identify memory leaks. They help reinforce the notions of "complex, opaque, OMH"
-
-I "subscribed" to this huge fear, being "peddled" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
-I think the memory leak these authors deal with are much tougher than my memory leaks. 
-
-( Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive. )
-
-Then in RTS, I and my team used valgrind on a routine basis to identify memory leaks, in our industrial-strength, high-volume, realtime high-impact systems. No other tools were needed in my projects.
-
-.. How about gpgpu, FGPA, kernel bypass, shared mem
-I think all of the above are probably very simple in a real project.
-
-.. How about lockfree?
-Any design thats not very simple and clean is likely incorrect or high-maintenance.
-
-.. How about TMP?
-The complexity is not worthwhile in most projects
-
-.. How about custom memory allocator
 
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
 NoSql is bigData, not DS/ML. 
@@ -138,7 +93,3 @@ These 2 guys are sophisticated but I think their habit is quite reckless.
 However, if we don't take this opportunity now, then we may not know how we think of each other.
 
 I was rather bold when talking about Anurag in public. I think that might be the first unsafe comment of the night.
-
---fuxi: smart guys like Kun.h couldn't crack the quant IV cos
-* too selective, comparable to HFT
-* poor market depth. I guess Kun ended in a risk quant role.

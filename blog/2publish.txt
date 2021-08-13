@@ -1,3 +1,43 @@
+-- new: memory leak + other paper tigers
+t_opaque
+mem leak was presented as more elusive than NPE
+mem leak was supposed to require source code scrunity.
+mem leak in java and c# were challenging in my limited experience, but c/c++ was supposed to be much harder.
+There were numerous instrumentation tools to help identify memory leaks. They help reinforce the notions of "complex, opaque, OMH"
+
+I "subscribed" to this huge fear, being "peddled" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
+I think the memory leak these authors deal with are much tougher than my memory leaks. 
+
+( Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive. )
+
+Then in RTS, I and my team used valgrind on a routine basis to identify memory leaks, in our industrial-strength, high-volume, realtime high-impact systems. No other tools were needed in my projects.
+
+.. How about gpgpu, FGPA, kernel bypass, shared mem
+I think all of the above are probably very simple in a real project.
+
+.. How about lockfree?
+Any design thats not very simple and clean is likely incorrect or high-maintenance.
+
+.. How about TMP?
+The complexity is not worthwhile in most projects
+
+.. How about custom memory allocator
+
+--new: architect career needs: breadth imt depth
+t_expertise, t_churn
+[[Fundamentals of software architecture]]
+
+Developers need technical depth (and need to maintain that depth)... expertise. The book didn't mention the importance of interviews. Interview is the real arena for expertise, because after the interview, on the job, the candidate won't need a lot of expertise.
+
+Archtects need breadth more than technical depth. So the authors advocates/suggests selectively giving up accumulated tech depth in some domains.
+
+But in my experience interviewers seldom value breadth nearly as much as depth. 
+by definition, breadth is not-deep ... too shallow to impress in most interviews.
+
+Shallow knowledge is also more subject to churn.
+
+mkt depth .. If 50 out of 100 software engineering jobs out there require some level of depth, then perhaps 5 require some breadth. Therefore, in terms of market depth, breadth is inferior to depth.
+
 -- update the blogpost on 5 tsn domains
 Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
 

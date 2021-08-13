@@ -1,3 +1,13 @@
+
+-- new or fuxi
+I actively stay away from high-churn technologies (languages) such as javascript, GO, Spark, Spring, NoSql, XML, Json
+
+In my first 5 programming years I embraced the newest languages perl/php/javascript simply because I needed to cast my net wide. Slowly I gravitated towards mature, over-the-peak technologies like SQL, Unix, C, socket.
+
+--fuxi: smart guys like Kun.h couldn't crack the quant IV cos
+* too selective, comparable to HFT
+* poor market depth. I guess Kun ended in a risk quant role.
+
 -- new or fuxi
 new languages claim to displace perl, java, c/c++ etc, but time will tell a different story. 
 C# didn't dethrone java; python didn't completely eliminate perl; c is still widely used.
