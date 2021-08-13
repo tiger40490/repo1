@@ -1,8 +1,27 @@
 
+--fuxi informal feedbacks during year-end party
+"You are process oriented, which is missing in the local team. We are not used to so many questions so we ignored some of your questions. We assume each team member has maturity and needs only a pointer and can figure out the rest." In zed I used to feel the same about asking questions, but in GS it all changed. 
+
+* Gary -- needs to speak out. Not taking initiative to show leadership.
+* Anurag -- very sharp guy, but i think he is fast at the expense of quality. Nevertheless, he is probably very sharp.
+
+It's really dangerous to openly talk about other team members in front of other people whom we may not know so well.
+These 2 guys are sophisticated but I think their habit is quite reckless. 
+However, if we don't take this opportunity now, then we may not know how we think of each other.
+
+I was rather bold when talking about Anurag in public. I think that might be the first unsafe comment of the night.
+
 -- fuxi: c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js, py, go-lang etc.
 losing to py in data-centric systems.
 losing to js in web apps. Many features are moving from server side to client side. 
+-- update: java is better...
+After java5, the core lang is now more stable than c++ in terms of IV topics
 
+Even though jxee job market is volatile, the coreJava niche job market enjoys robust demand.
+
+My strength in low-level details is far more valuable in java than py, perl, SQL etc.
+
+compared to c++, cdd/job ratio is not very different, but the java cdd pool is low-calibre. In coreJava, I can easily stand out.
 --fuxi: wq.l felt govtech is not a technology laggard. He is attracted by that and the job stability. 
 Work load is not lighter than elsewhere in his experience. However, I would say many private employers are more aggressive more pushing more ruthless.
 
