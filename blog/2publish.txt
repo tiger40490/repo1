@@ -1,4 +1,4 @@
--- pull-up 10
+-- pull-up 40
 -- new: memory leak + other paper tigers
 t_opaque
 mem leak was presented as more elusive than NPE
@@ -23,6 +23,13 @@ Any design thats not very simple and clean is likely incorrect or high-maintenan
 The complexity is not worthwhile in most projects
 
 .. How about custom memory allocator
+
+-- new: self-assessment: central, high-impact, high-value roles.
+In 95G and Barcap, my role in the team was fairly central, high-impact, high-value.
+
+Subsequent roles were somewhat peripheral. I need to get used to it.
+
+To be fair, my OC role with Quest was fairly central. My NYSE Integrated feed handler was visible, high-value. My DevOps role in Macq was central and visible to the tech teams.
 
 --new: architect career needs: breadth imt depth
 t_expertise, t_churn
@@ -261,6 +268,11 @@ Immediately I assumed that they speak mostly Japanese between them and their Jap
 Well, DaShan the Canadian in China is one in probably 1000 foreigners who speak such fluent Chinese. So to a Japanese national, both of them probably sound non-Japanese.
 
 The less you know someone, the more you assume... Remember HY.Cai
+
+-- update blogpost on (de)stressor..
+buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
+
+(buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.)
 
 --new: reduce(grave)compliance risk
 pre-clear large qty like $1k/name

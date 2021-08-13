@@ -1,4 +1,26 @@
 
+-- fuxi: c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js, py, go-lang etc.
+losing to py in data-centric systems.
+losing to js in web apps. Many features are moving from server side to client side. 
+
+--fuxi: wq.l felt govtech is not a technology laggard. He is attracted by that and the job stability. 
+Work load is not lighter than elsewhere in his experience. However, I would say many private employers are more aggressive more pushing more ruthless.
+
+Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my cohort" tend to be devastating. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
+
+-- fuxi: IT consulting service offered by mgmt consulting firms ... is facing competition from the original vendors providing similar consulting services.
+Advantage to the former: multi-product offering. 
+Once a client decides to go with a single vendor, they could let go the consulting firm. 
+
+-- fuxi: The CoreData presentation introduced many new technologies in data management , including elastic cloud, data warehouse, ETL, MOM, noSQL ..  
+
+These domains suffer high churn. Luckily, I didn't join Ab-initio. I think in these job interviews, there's no coding or low-level QQ quizzes, but probably lots of tool knowlege required. I recall the spring/hibernate interviews. If you acquire lots of tool knowledge, you will still lose the coding or QQ interviews.
+
+java is relevant to all of them.
+python is relevant to many of them.
+C# is less prevalent.
+C/c++ is too low-level, not associated with these high-level tools. 
+
 -- new or fuxi
 I actively stay away from high-churn technologies (languages) such as javascript, GO, Spark, Spring, NoSql, XML, Json
 

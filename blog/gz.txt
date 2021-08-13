@@ -10,15 +10,6 @@ The rest of us try to get used to the new job. Sometimes this proves to be patie
 
 Some 10%+ suffer in pain, like Sudhir (based on my limited knowledge) and my OC job.
 
--- fuxi: The CoreData presentation introduced many new technologies in data management , including elastic cloud, data warehouse, ETL, MOM, noSQL ..  
-
-These domains suffer high churn. Luckily, I didn't join Ab-initio. I think in these job interviews, there's no coding or low-level QQ quizzes, but probably lots of tool knowlege required. I recall the spring/hibernate interviews. If you acquire lots of tool knowledge, you will still lose the coding or QQ interviews.
-
-java is relevant to all of them.
-python is relevant to many of them.
-C# is less prevalent.
-C/c++ is too low-level, not associated with these high-level tools. 
-
 -- where can I used this term?
 tenuous(fragile) job security
 
@@ -41,36 +32,18 @@ However, In terms of financial support, government handout is tiny compared to e
 
 -- fuxi:
 t_jolt
-if an employer permits some reasonable amount of blogging in office, then I'm willing to accept $5k less salary.
+if an employer permits some reasonable amount of blogging in office, then I'm willing to accept $1k less salary.
 
--- fuxi: With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors (only web2.0 techies are higher)
+-- fuxi: With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors 
 Evidence for "veteran"? Not GTD, not even zbs, but mostly the interview-visible expertise. 
 
 This expertise is about the only criteria IMO. Anyone "strong" on this front is considered a veteran, regardless of his GTD, localSys....  Anyone weak on this front .. can still be a veteran, but with limited mobility.
 
-A veteran developer doesn't need to be an above-average developer or expert developer but need to possess some demonstrable experience in the field. Therefore, a long stay in one team (Jack Z?) is less valuable than many one-year projects.
+A veteran developer doesn't need to be an above-average developer or expert developer but need to possess some demonstrable experience in the field. Therefore, a long stay in one team (Jack.Zhang?) is less valuable than multiple one-year projects.
 
 Can you acquire this expertise with only 3Y experience? You would need to attend many interviews.
 
--- fuxi or new: self-assessment: central, high-impact, high-value roles.
-In 95G and Barcap, my role in the team was fairly central, high-impact, high-value.
-
-Subsequent roles were somewhat peripheral. I need to get used to it.
-
-To be fair, my OC role with Quest was fairly central. My NYSE Integrated feed handler was visible, high-value. My DevOps role in Macq was central and visible to the tech teams.
-
---fuxi: wq.l felt govtech is not a technology laggard. He is attracted by that and the job stability. 
-Work load is not lighter than elsewhere in his experience. However, I would say many private employers are more aggressive more pushing more ruthless.
-
-Is age a problem? wq.l felt yes because the younger developers have more flexibility in salary requirement. However, I feel the younger dev also has an expectation of rising income. Any signs any evidence that "My career may not be as promising as thought, not growing as fast as my cohort" tend to be devastating. In other words, the older dev is allowed to be slower, mediocre, more low-energy (as I told Sachin).
-
--- fuxi: IT consulting service offered by mgmt consulting firms ... is facing competition from the original vendors providing similar consulting services.
-
 --fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism and has stood the test of time
-
--- fuxi: c++ displaced [C, cobol, Delphi, VB...] before java diplaced c++. Now java market share is eroded by js and py.
-losing to py in data-centric systems.
-losing to js in web apps. Many features are moving from server side to client side. 
 
 -- fuxi: java is better...
 After java5, the core lang is now more stable than c++ in terms of IV topics

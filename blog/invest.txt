@@ -65,11 +65,6 @@ jolt: China is the growing economic superpower, rivaling U.S., but in terms of s
 
 SG, Germany, Australia ... also have strong, competitive economies but lack the same strengths of the U.S. stocks.
 
--- update blogpost on (de)stressor..
-buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
-
-(buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.)
-
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
 
@@ -97,18 +92,3 @@ t_misperception
 appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
 
 Foreigner demand is dampened by ABSD, esp. in non-prime locations. These locations are mostly sold to local buyers.
-
--- fuxi: Jun.Z on cars
-German cars are expensive if new, but cheaper than Japanese as a used car. He felt by design Japanese cars can go for many years after first 10Y.
-
-So I had the misperception that German cars are designed better, stronger.
-
-I think this is really a brainwash by my friends. 
-
-I suspect there's a similar brainwash against wood houses.
-
---fuxi: index investing relies on the index-admin as stock-picker
-I think US index funds show far better returns than other regional indices. When we say mutual funds can't beat the index, we only mean the U.S. broad indices.
-
-The admin of the indices are the real stock pickers and portfolio managers for those passive funds. 
-
