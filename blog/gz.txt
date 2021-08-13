@@ -146,21 +146,9 @@ Now I recall that for years I was attracted to algo trading, automated trading, 
 Now I think this domain is still relatively well-paid, but doesn't generate high profit as before.
 
 The complexity has not reduced. The field still needs people, but I feel it is losing the talent game against the newer domains like web2.0, DS/ML, crypto
--- new or update: my algo trading experiences
-Citi Muni Auto-reoffer, inventory update.
-Baml muti matching engine, offer adjustment/resend, position update (against venues) and inventory update (for reoffers)..
-OC Quest robot responding to client RFQ
-Quest also has a FXO quote update feature, sending to multiple conduits
-Mvea sending exchange orders based on client orders. Order state management
-
-Closely related to algo trading is the risk engines in my experience
-* Stirt risk engine responding to new trades, position changes, and mkt data 
-* Barcap real time risk engine
 
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
 NoSql is bigData, not DS/ML. 
-
-BigDataAnalytics includes BigData stack. 
 
 Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
@@ -199,7 +187,7 @@ losing to py in data-centric systems.
 losing to js in web apps. Many features are moving from server side to client side. 
 
 -- fuxi: java is better...
-the core lang is more stable than c++ in terms of IV topics
+After java5, the core lang is now more stable than c++ in terms of IV topics
 
 Even though jxee job market is volatile, the coreJava niche job market enjoys robust demand.
 
@@ -207,7 +195,7 @@ My strength in low-level details is far more valuable in java than py, perl, SQL
 
 compared to c++, cdd/job ratio is not very different, but the java cdd pool is low-quality. In coreJava, I can easily stand out.
 
---informal feedbacks during year-end party
+--fuxi informal feedbacks during year-end party
 "You are process oriented, which is missing in the local team. We are not used to so many questions so we ignored some of your questions. We assume each team member has maturity and needs only a pointer and can figure out the rest." In zed I used to feel the same about asking questions, but in GS it all changed. 
 
 * Kevin -- "needs some guidance"
@@ -223,5 +211,3 @@ I was rather bold when talking about Anurag in public. I think that might be the
 --fuxi: smart guys like Kun.h couldn't crack the quant IV cos
 * too selective, comparable to HFT
 * poor market depth. I guess Kun ended in a risk quant role.
-
--- fuxi: Kun is probably a risk quant. Not as rich and glamorous as drv desk quant or buy-side stats quant.

@@ -1,3 +1,14 @@
+-- new or update: my algo trading experiences
+Citi Muni Auto-reoffer, inventory update.
+Baml muti matching engine, offer adjustment/resend, position update (against venues) and inventory update (for reoffers)..
+OC Quest robot responding to client RFQ
+Quest also has a FXO quote update feature, sending to multiple conduits
+Mvea sending exchange orders based on client orders. Order state management
+
+Closely related to algo trading is the risk engines in my experience
+* Stirt risk engine responding to new trades, position changes, and mkt data 
+* Barcap real time risk engine
+
 -- update post on XH.Fu.
 Free agents like XH probably value the freedom very high. I once valued my freedom too, and didn't mind earning $2k/M, but when I started dating and planning for family, I realized I was left way behind by my cohort.
 
