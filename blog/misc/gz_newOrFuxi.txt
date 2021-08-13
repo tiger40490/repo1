@@ -1,3 +1,11 @@
+-- new or fuxi
+new languages claim to displace perl, java, c/c++ etc, but time will tell a different story. 
+C# didn't dethrone java; python didn't completely eliminate perl; c is still widely used.
+
+noSql claims to displace RDBMS, but time will tell a different story.
+
+When linux was challenged by other free variants of unix, we thought linux would be forgotten.
+
 -- fuxi
 in GMDS, catcha mail .. a greenfield design needs to focus on the show-stopper aspects like crashing, instrumentation.
 

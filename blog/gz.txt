@@ -39,18 +39,10 @@ I actively stay away from high-churn technologies (languages) such as javascript
 
 In my first 5 programming years I embraced the newest languages perl/php/javascript simply because I needed to cast my net as wide as possible. Slowly I gravitated towards mature, past-the-peak, languages/technologies like SQL, Unix, C
 
--- new or fuxi
-new languages claim to displace perl, java, c/c++ etc, but time will tell a different story. 
-C# didn't dethrone java; python didn't completely eliminate perl; c is still widely used.
-
-noSql claims to displace RDBMS, but time will tell a different story.
-
-When linux was challenged by other free variants of unix, we thought linux would be forgotten.
-
 -- where can I used this term?
 tenuous(fragile) job security
 
--- new?
+-- new or update
 Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to find a tech lead or app owner".
 
 I felt slightly ashamed. However, now I'm kinda mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
