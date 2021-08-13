@@ -1,6 +1,3 @@
--- fuxi: for livelihood security (food security?) many governments are not so dependable, but some governments are better than employers. 
-
-However, In terms of financial support, government handout is tiny compared to employers'.
 
 --new or update blogpost on IV_skill ^ GTD
 https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
@@ -152,6 +149,10 @@ NoSql is bigData, not DS/ML.
 
 Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
+
+-- fuxi: for livelihood security (food security?) many governments are not so dependable, but some governments are better than employers. 
+
+However, In terms of financial support, government handout is tiny compared to employers'.
 
 -- fuxi:
 t_jolt
