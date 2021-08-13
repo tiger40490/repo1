@@ -1,3 +1,11 @@
+-- update 'say no'
+At OneNorth, I visited a fitness center that only offers personal training. Minimum membership is $1800/12 PT sessions. If you work nearby and earn a decent salary, then you would probably consider this package.
+
+Now, suppose many of your colleagues have signed up. They tell you various reasons. You accept some of those reasons, but overall unconvinced. Now you assess your choices. You could try jogging on the street near office (unappealing to me). You could do some simple workout in office, or at home. You could join a regular gym somewhere for $100/M.
+
+I would say it's really important to justSayNo. Even if I earn 20k/M, this salary would decline in X years so I need to spend like ordinary locals and save. PT is unsustainable. Their business model (designed for the super rich) is unsuitable for the nearby office professionals.
+
+Similar story on yoga centers membership and U.S. SDXQ homes which resemble Orchard mansions.
 
 -- update blogpost on exp recon tables
 If you must avoid background cohor and use font color, then light colors are more identifiable.
