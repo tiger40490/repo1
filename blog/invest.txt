@@ -1,3 +1,17 @@
+-- update income vs wealth
+I used to dismiss wealth, even a USD 1M wealth.
+
+Now I think in a down turn, even a modest war chest could be more important than income. Income could stop any time. Income is less reliable than wealth overall.
+
+-- new
+Even safe bond funds on FSM involve much higher effort than my Robinhood process.
+
+* problem: the amounts are too large, tyically 10k. Sugg: reduce to 1k
+* risk/diligence: when I sell, I have to stay alert and ensure I don't sell the wrong lot i.e. from the wrong account
+* the profit has to be recorded in my exp recon s/s
+* I check the PnL for each position too often. 
+* my tolerance is too low for large cash balance. sugg: accept 30k cash balance in cash account
+
 -- update 'say no'
 cpfLife ERS provides about $2200/M, considered adequate. I think this is a reasonable, sensible assessment. 
 
