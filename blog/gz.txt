@@ -47,42 +47,6 @@ noSql claims to displace RDBMS, but time will tell a different story.
 
 When linux was challenged by other free variants of unix, we thought linux would be forgotten.
 
--- new or update "native language"
-[[understanding and using C pointers]], a library book I have borrowed twice, contains practical GTD expertise nuggets, somewhat similar to [[safeC++]] and the debugging book. NOT written exclusively for library developers.
-
-The GTD expertise are important to a self-respecting committed programmer in C.
-
-functions passing string in/out 
-void ptr usage
-uninitialized ptr
-array/ptr integration
-
-during my college year and CharteredSemi years, I invested myself wholeheartedly in C programming. One of the most enjoyable topics was cStr/array processing, 
-
-critical mass .. was easily achieved 
-* small library of routines .. easily memorable
-* reliable, well-understood .. no mystery. (Comparable to wait/notify.)
-* not abstract and theoretical .. am able to experiment to confirm my understanding. (Comparable to STL)
-* a tiny but complete toolkit capable of solving non-trivial quizes or real world problems
-
-Also
-
-* low level... Not many laywers like in Spring or STL. I could get to the bottom. Satisfaction
-
-So I had huge hope that this skill, this valuable critical mass would prove valuable for decades. 
-
-Q: what value exactly?
-
-In terms of deployment of binary, yes compiled C programs (in terms of deployment) permeat the world, probably more than any other language.  
-
-In terms of C libary being used in new development, I think many c++, java, python ... project indirectly use C libraries. Some of their extensions or low-level interfaces are possibly being written in C (like Quartz?). 
-
-In terms of current system programming project, I think C still lead the pack, followed by c++. Almost by definition, system programming uses C or assembly. Even JVM and dotnet CLR are written in C/c++.
-
-In terms of current application projects, C is too low-level .. unpopular. 
-
-Therefore, in terms of overall market value, my cStr knowhow (as part of  my C skillset) has suffered real churn. This churn is faster and more disruptive than I thought in the 1990s. I wish my cStr knowhow is still widely in demand.
-
 -- update blogpost 
 GS Hong Kong interviewer said array-based order book can achieve 1000 kmps.
 It's easy to whip up a POC showing 1000 kmps, but how about all the real-world requirements in rebus? Your design and implementation will be imperfect and will impact the performance. In the end, will you maintain 1000 kmps?
