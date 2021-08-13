@@ -122,28 +122,6 @@ The complexity is not worthwhile in most projects
 
 .. How about custom memory allocator
 
--- new: Dram refresh: localSys^criticalMass^CIV
-c++ > java because my java critical mass is easier, more self-sustaining
-localSys?
-coding drill? Not so fast "decay"
-
--- update or new
-Through my late 40's to 50, in which technial domain will I maintain my competitive high ground?
-
-core Java language? Remarkably stable
-xLang concurrency
-xLang dStruct
-perl? Unfortunately perl6 has moved
-drv pricing + bond math [Type1 dnlg] ? Yes because programmers don't study it
-byte-level parsing
-WallSt architecture [Type3 dnlg]
--- update the blogpost on 5 tsn domains
-Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
-
-Now I think this domain is still relatively well-paid, but doesn't generate high profit as before.
-
-The complexity has not reduced. The field still needs people, but I feel it is losing the talent game against the newer domains like web2.0, DS/ML, crypto
-
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
 NoSql is bigData, not DS/ML. 
 
