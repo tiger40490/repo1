@@ -47,19 +47,15 @@ noSql claims to displace RDBMS, but time will tell a different story.
 
 When linux was challenged by other free variants of unix, we thought linux would be forgotten.
 
--- update blogpost 
-GS Hong Kong interviewer said array-based order book can achieve 1000 kmps.
-It's easy to whip up a POC showing 1000 kmps, but how about all the real-world requirements in rebus? Your design and implementation will be imperfect and will impact the performance. In the end, will you maintain 1000 kmps?
-
 -- where can I used this term?
-tenuous job security
+tenuous(fragile) job security
 
 -- new?
 Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to find a tech lead or app owner".
 
-I felt slightly ashamed. However, now I'm mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
+I felt slightly ashamed. However, now I'm kinda mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
 
-The risks of old-timer is easily underestimated.
+The risks to old-timer is easily underestimated. Their job security is tenuous.
 
 -- new: memory leak + other paper tigers
 t_opaque

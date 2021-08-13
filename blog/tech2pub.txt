@@ -1,3 +1,7 @@
+-- update blogpost 
+GS Hong Kong interviewer said array-based order book can achieve 1000 kmps.
+It's easy to whip up a POC showing 1000 kmps, but how about all the real-world requirements in rebus? Your design and implementation will be imperfect and will impact the performance. In the end, will you maintain 1000 kmps?
+
 --update blogpost on array^ptr
 The equivalence is strongest in argument passing. An array ptr degenerates to a ptr parameter. When you pass an array as an argument, it is nothing but a pointer.
 
