@@ -1,4 +1,4 @@
--- new or update tuxedo post: young techie's worries
+-- new or update: young techie's worries
 "My income is not rising as much as my peers"
 not learning enough, not competent enough
 short runway .. by age 30 I am expected to be competent, independent, possibly a team lead
@@ -6,6 +6,8 @@ too many choices
 long struggle ahead, over 40Y
 "Is this domain right for me? Will I regret?"
 peer pressure on all fronts
+
+See also tuxedo post
 
 --new or update blogpost on IV_skill ^ GTD
 https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
