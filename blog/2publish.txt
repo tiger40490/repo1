@@ -1,4 +1,7 @@
--- pull-up 50
+-- update income vs wealth
+I used to dismiss wealth, even a USD 1M wealth.
+
+Now I think in a down turn, even a modest reserve could be more important than income. Income could stop any time. Income is less reliable than wealth overall.
 -- new: memory leak + other paper tigers
 t_opaque
 mem leak was presented as more elusive than NPE
