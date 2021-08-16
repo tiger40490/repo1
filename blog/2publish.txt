@@ -6,22 +6,9 @@ Subsequent roles were somewhat peripheral. I need to get used to it.
 
 To be fair, my OC role with Quest was fairly central. My NYSE Integrated feed handler was visible, high-value. My DevOps role in Macq was central and visible to the tech teams.
 
---new: architect career needs: breadth imt depth
-t_expertise, t_churn
-[[Fundamentals of software architecture]]
+-- update the blogpost on 5 tsn domains, perhaps 
+https://btv-gz.dreamhosters.com/2021/04/07/compare-4-tsn-domains/
 
-Developers need technical depth (and need to maintain that depth)... expertise. The book didn't mention the importance of interviews. Interview is the real arena for expertise, because after the interview, on the job, the candidate won't need a lot of expertise.
-
-Archtects need breadth more than technical depth. So the authors advocates/suggests selectively giving up accumulated tech depth in some domains.
-
-But in my experience interviewers seldom value breadth nearly as much as depth. 
-by definition, breadth is not-deep ... too shallow to impress in most interviews.
-
-Shallow knowledge is also more subject to churn.
-
-mkt depth .. If 50 out of 100 software engineering jobs out there require some level of depth, then perhaps 5 require some breadth. Therefore, in terms of market depth, breadth is inferior to depth.
-
--- update the blogpost on 5 tsn domains
 Now I recall that for years I was attracted to algo trading, automated trading, any trading decision using some math as it sounds cool.
 
 Now I think this domain is still relatively well-paid, but doesn't generate high profit as before.
