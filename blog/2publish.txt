@@ -15,42 +15,6 @@ Now I think this domain is still relatively well-paid, but doesn't generate high
 
 The complexity has not reduced. The field still needs people, but I feel it is losing the talent game against the newer domains like web2.0, DS/ML, crypto
 
--- new or update "native language"
-[[understanding and using C pointers]], a library book I have borrowed twice, contains practical GTD expertise nuggets, somewhat similar to [[safeC++]] and the debugging book. NOT written exclusively for library developers.
-
-The GTD expertise are important to a self-respecting committed programmer in C.
-
-functions passing string in/out 
-void ptr usage
-uninitialized ptr
-array/ptr integration
-
-during my college year and CharteredSemi years, I invested myself wholeheartedly in C programming. One of the most enjoyable topics was cStr/array processing, 
-
-critical mass .. was easily achieved 
-* small library of routines .. easily memorable
-* reliable, well-understood .. no mystery. (Comparable to wait/notify.)
-* not abstract and theoretical .. am able to experiment to confirm my understanding. (Comparable to STL)
-* a tiny but complete toolkit capable of solving non-trivial quizes or real world problems
-
-Also
-
-* low level... Not many laywers like in Spring or STL. I could get to the bottom. Satisfaction
-
-So I had huge hope that this skill, this valuable critical mass would prove valuable for decades. 
-
-Q: what value exactly?
-
-In terms of deployment of binary, yes compiled C programs (in terms of deployment) permeat the world, probably more than any other language.  
-
-In terms of C libary being used in new development, I think many c++, java, python ... project indirectly use C libraries. Some of their extensions or low-level interfaces are possibly being written in C (like Quartz?). 
-
-In terms of current system programming project, I think C still lead the pack, followed by c++. Almost by definition, system programming uses C or assembly. Even JVM and dotnet CLR are written in C/c++.
-
-In terms of current application projects, C is too low-level .. unpopular. 
-
-Therefore, in terms of overall market value, my cStr knowhow (as part of  my C skillset) has suffered real churn. This churn is faster and more disruptive than I thought in the 1990s. I wish my cStr knowhow is still widely in demand.
-
 -- update .. 
 (updating an existing blogpost will take longer)
 Through my late 40's to 50, in which technial domain will I maintain my competitive high ground?
@@ -68,104 +32,12 @@ c++ > java because my java critical mass is easier, more self-sustaining
 localSys? 
 coding drill? Not so fast "decay", but harder to refresh
 
--- new or update: my algo trading experiences
-Citi Muni Auto-reoffer, inventory update.
-Baml muti matching engine, offer adjustment/resend, position update (against venues) and inventory update (for reoffers)..
-OC Quest robot responding to client RFQ
-Quest also has a FXO quote update feature, sending to multiple conduits
-Mvea sending exchange orders based on client orders. Order state management
-
-Closely related to algo trading is the risk engines in my experience
-* Stirt risk engine responding to new trades, position changes, and mkt data 
-* Barcap real time risk engine
-
 -- slow-cooking update post on XH.Fu.
 Free agents like XH probably value the freedom very high. I once valued my freedom too, and didn't mind earning $2k/M, but when I started dating and planning for family, I realized I was left way behind by my cohort.
 
 The freedom became .. not that valuable.
 
 Nowadays, some of my recent jobs offer very high freedom, comparable to my free-agent lifestyle.
-
--- update or new: commercial^home cooking #quantity^quality
-t_misperception
-
-Critical thinking .. home cooking is better nutrition, but why my experience proved that my BMI was always better when living alone without home cooking? I would say quantity outweighs quality. 
-
-quality of comercial food .. nowadays I buy more raw foods, less affected by inferior nutritional quality of commercial cooking. 
-fast food .. is known for poor nutritional quality, but I seldom eat fast food when living alone.
-home food still involves commercial cooked foods such as bakeries, ice creams
-nuts .. as a group is never home-cooked. If I eat at home, the nuts in the home stash become unexpected and hazardous.
-fish and meat .. perhaps home cooking is better quality, but by how many percent?
-vegetables.. perhaps home cooking is better quality. Nowadays I tend to eat raw.
-starch at home .. tend to be too enticing. The home stash has lots of outside starch food
-starch bought outside .. tend to have more fiber, and stored in a stash under control
-soymilk .. home-made is better, and I don't overeat.
-milkshake .. home-made is better. 
-
--- new: buying wellness: how effective@@
-There are many "research" or marketing that link fancy new products to wellness. You would think the rich would live healthier lives? Alas, the correlation is very low.
-
-I will use star-rating and dollar-rating ..
-$$$*** more free time .. commute; lower-pay jobs
-* less driving, more walking, cycling
-* simple, low-cost workout equipmenets similar to what I now keep
-$$* nearby gym/pool/basketballCourt/// as provided by an office or condo
-$** yoga (and other) classes
-$ fancy fruits
-
-Note most of the cost-effective items are low-cost.
-
-Note I consciously reject most of the supplements, fancy expensive food. 
-
-$130/M gym fee is tolerable to me, but most of us use the gym only once a week. Let's assume 8 times/M
-
-How about $16/visit flat rate? I would feel I could save the money by working out at home. 
-Jolt: but can you do that consistently?
-
-Paying the monthly fee motivates me to go there regularly.
-
--- slow-cooking new: telecom sector for aging c++developers
-t_hist
-In 1996 when we had to choose our specializations, communications specialization was by far the most popular (followed by computer engineering, microelectronics, control engineering and power).
- 
-In 2002, when I joined Zed, telecom was all the rage. Known to enjoy good margins, excellent moat, and able to pay above the market for technical talent.
-
-HL.Yang is a veteran of the industry and had a lot of positive obsevations to share.
-
-Benny.Zhao was also in a telecom-specific software start-up. 
-
-When I went to U.S. in 2007, I still had a rose-tinted view, and chose Verizon. Then I realized WallSt had been paying higher than telecom.
-
-By 2018, I had lost my rose-tinted view, after consulting Deepak.CM and CSDoctor.
-
-Clearly, the telecom industry is still growing and innovating, at the most critical layer in the tech stack. However, the salary premium has shifted elsewhere. 
-
-I think c/c++ developers still have a lot of opportunities in telecom. There's something in common between c/c++ and telecom -- both are past the peak, still growing outside the limelight, essential to national economies, but unglamorous among the bright young talents. As such, both represent good opportunities for aging developers.
-
--- new: memory leak + other paper tigers
-t_opaque
-mem leak was presented as more elusive than NPE
-mem leak was supposed to require source code scrunity.
-mem leak in java and c# were challenging in my limited experience, but c/c++ was supposed to be much harder.
-There were numerous instrumentation tools to help identify memory leaks. They help reinforce the notions of "complex, opaque, OMH"
-
-I "subscribed" to this huge fear, being "peddled" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
-I think the memory leak these authors deal with are much tougher than my memory leaks. 
-
-( Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive. )
-
-Then in RTS, I and my team used valgrind on a routine basis to identify memory leaks, in our industrial-strength, high-volume, realtime high-impact systems. No other tools were needed in my projects.
-
-.. How about gpgpu, FGPA, kernel bypass, shared mem
-I think all of the above are probably very simple in a real project.
-
-.. How about lockfree?
-Any design thats not very simple and clean is likely incorrect or high-maintenance.
-
-.. How about TMP?
-The complexity is not worthwhile in most projects
-
-.. How about custom memory allocator
 
 -- update blogpost on the limitations of bccy
 bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
