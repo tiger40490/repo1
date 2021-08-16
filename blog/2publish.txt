@@ -92,7 +92,7 @@ Closely related to algo trading is the risk engines in my experience
 * Stirt risk engine responding to new trades, position changes, and mkt data 
 * Barcap real time risk engine
 
--- update post on XH.Fu.
+-- slow-cooking update post on XH.Fu.
 Free agents like XH probably value the freedom very high. I once valued my freedom too, and didn't mind earning $2k/M, but when I started dating and planning for family, I realized I was left way behind by my cohort.
 
 The freedom became .. not that valuable.
@@ -137,7 +137,8 @@ Jolt: but can you do that consistently?
 
 Paying the monthly fee motivates me to go there regularly.
 
--- new: telecom sector for aging c++developers
+-- slow-cooking new: telecom sector for aging c++developers
+t_hist
 In 1996 when we had to choose our specializations, communications specialization was by far the most popular (followed by computer engineering, microelectronics, control engineering and power).
  
 In 2002, when I joined Zed, telecom was all the rage. Known to enjoy good margins, excellent moat, and able to pay above the market for technical talent.
