@@ -1,11 +1,3 @@
-
--- new: self-assessment: central, high-impact, high-value roles.
-In 95G and Barcap, my role in the team was fairly central, high-impact, high-value.
-
-Subsequent roles were somewhat peripheral. I need to get used to it.
-
-To be fair, my OC role with Quest was fairly central. My NYSE Integrated feed handler was visible, high-value. My DevOps role in Macq was central and visible to the tech teams.
-
 -- update the blogpost on 5 tsn domains, perhaps 
 https://btv-gz.dreamhosters.com/2021/04/07/compare-4-tsn-domains/
 
@@ -45,45 +37,9 @@ bitcoin is supposed to remove the central authority, replaced with the consensus
 -- new: inflation: econ/fin texbooks
 P71 [[Intl Fin]]
 P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
-== update lifestyle creep
-When a family's disposable income grows, family members break traditional guidelines of simple life
-
-eg: "family car" -> 2 cars per family still not enough
-eg: "sharing a bedroom between 2 kids" -> one bed room per kid
-eg: "Aircon in bedrooms only" -> a/c in living room and kitchen
-
--- CpfLife ERS amount won't be enough.
--- which level of ffree? well above Level 5 ffree 
-==
-
--- new: gpgpu ~ ab-initio: NOT general purpose
-rule engine is another example
-
-All of these vendors claim that their products are revolutionary and leave the traditional solutions in the dust.
-
-However, the use cases are extremely niche. The skill is not highly sought after.
-
--- new: all-at-once: appraisal
-as employee, when I have family issues, kids issues, investment foes, I would fear an appraisal. Even a bonus disappointment would add a heavy blow.
-
-As contractor, no such fear. When I'm let go, I would easily attribute it to budget and go job hunting again.
 
 -- update mag:
 sometimes I get into a low mood and carry a negative perception about many of my books, so even a big home library may be insufficient. The gen magazine is an alternative.
-
--- update https://btv-open.dreamhosters.com/2020/12/02/multiple-layersbuffer⇒security/
-When I reduce my family BR, I feel my buffer growing
-UChicago brand creates a protective buffer over my self-esteem
-
--- update or new: personal system4stock-picking 
-if you want to gradually develop a personal stock-picking "system", then you need to make a large number of small but real decision, over different times. A few big trades won't grow your confidence fast enough.
-
-To become an experienced stock investor, you also need to make many informed decisions and learn from that experience.
-
-Q: how much retrospective analysis needed?
-A: not about how many hours but how much real traction you gain (not wheel-spinning). You should cut down the review when you notice dimishing return.
-
-Quick learning is an advantage of stock vis-a-vis other investments.
 
 -- update blogpost on mkt depth
 runners, painters .. have the worst mkt depth. Only the national top runners can earn endorsement fees or receive government support.
@@ -93,27 +49,3 @@ t_fake_kaimo
 Buy Hey, I don't need more money, more brank, more status, more clout.
 
 His son grows up in a broken family. That's a real pain.
-
--- new: supper floodgate
-Tip: Better end your planned supper with lots of comfort foods, rather than raw veg. I used to have lots of raw veg towards the end, hoping to fill up my stomach, but actually the stomach is impossible to fill up, and the unsatisfying raw food demanded /compensation/ in the form of comfort foods.
-
-Q: Why do I end my supper with lots of energy dense comfort foods including starch, but I didn't feel the same craving in the beginning?
-A: I guess the floodgate was opened and hard to close.
-
--- new: Chinese/Korean couple: %%assumptions=unfounded
-ML.Jiang once told me about some classmates. A Chinese national and a Korean national living in Singapore as a couple, who supposedly spoke Japanese at home! 
-I was impressed.
-Immediately I imagined that they speak mostly Japanese between them everyday, and their Japanese fluency is equal to their mother tongue.
-
-Well, DaShan the Canadian in China is one in probably 10,000 foreigners who speak such fluent Chinese. So to a Japanese national, both of them probably sound non-Japanese.
-
-The less you know someone, the more you assume... Remember HY.Cai
--- update income vs wealth
-I used to dismiss wealth, even a USD 1M wealth.
-
-Now I think in a down turn, even a modest reserve could be more important than income. Income could stop any time. Income is less reliable than wealth overall.
-
--- update blogpost on (de)stressor..
-buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
-
-(buy-n-forget a single stock doesn't involve exit-timing. Can rarely beat SP500_ETF.)
