@@ -1,31 +1,3 @@
--- update income vs wealth
-I used to dismiss wealth, even a USD 1M wealth.
-
-Now I think in a down turn, even a modest reserve could be more important than income. Income could stop any time. Income is less reliable than wealth overall.
--- new: memory leak + other paper tigers
-t_opaque
-mem leak was presented as more elusive than NPE
-mem leak was supposed to require source code scrunity.
-mem leak in java and c# were challenging in my limited experience, but c/c++ was supposed to be much harder.
-There were numerous instrumentation tools to help identify memory leaks. They help reinforce the notions of "complex, opaque, OMH"
-
-I "subscribed" to this huge fear, being "peddled" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
-I think the memory leak these authors deal with are much tougher than my memory leaks. 
-
-( Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive. )
-
-Then in RTS, I and my team used valgrind on a routine basis to identify memory leaks, in our industrial-strength, high-volume, realtime high-impact systems. No other tools were needed in my projects.
-
-.. How about gpgpu, FGPA, kernel bypass, shared mem
-I think all of the above are probably very simple in a real project.
-
-.. How about lockfree?
-Any design thats not very simple and clean is likely incorrect or high-maintenance.
-
-.. How about TMP?
-The complexity is not worthwhile in most projects
-
-.. How about custom memory allocator
 
 -- new: self-assessment: central, high-impact, high-value roles.
 In 95G and Barcap, my role in the team was fairly central, high-impact, high-value.
@@ -196,6 +168,31 @@ Jolt: but can you do that consistently?
 
 Paying the monthly fee motivates me to go there regularly.
 
+-- new: memory leak + other paper tigers
+t_opaque
+mem leak was presented as more elusive than NPE
+mem leak was supposed to require source code scrunity.
+mem leak in java and c# were challenging in my limited experience, but c/c++ was supposed to be much harder.
+There were numerous instrumentation tools to help identify memory leaks. They help reinforce the notions of "complex, opaque, OMH"
+
+I "subscribed" to this huge fear, being "peddled" by numerous well-meaning authors. I felt inferior and helpless like a new-born baby in need of adult protection and hand-holding.
+I think the memory leak these authors deal with are much tougher than my memory leaks. 
+
+( Similarly, Henry Luo said DB turning is mostly about indices (yes in practice) but the DB experts would call it simplistic and naive. )
+
+Then in RTS, I and my team used valgrind on a routine basis to identify memory leaks, in our industrial-strength, high-volume, realtime high-impact systems. No other tools were needed in my projects.
+
+.. How about gpgpu, FGPA, kernel bypass, shared mem
+I think all of the above are probably very simple in a real project.
+
+.. How about lockfree?
+Any design thats not very simple and clean is likely incorrect or high-maintenance.
+
+.. How about TMP?
+The complexity is not worthwhile in most projects
+
+.. How about custom memory allocator
+
 -- update blogpost on the limitations of bccy
 bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
 
@@ -265,6 +262,10 @@ Immediately I imagined that they speak mostly Japanese between them everyday, an
 Well, DaShan the Canadian in China is one in probably 10,000 foreigners who speak such fluent Chinese. So to a Japanese national, both of them probably sound non-Japanese.
 
 The less you know someone, the more you assume... Remember HY.Cai
+-- update income vs wealth
+I used to dismiss wealth, even a USD 1M wealth.
+
+Now I think in a down turn, even a modest reserve could be more important than income. Income could stop any time. Income is less reliable than wealth overall.
 
 -- update blogpost on (de)stressor..
 buy-n-forget SP500_ETF relies on the index admin as stock pickers to adjust the portfolio. Other ETFs, like sector ETF or other countries' ETF are usually less successful than SP500_ETF
