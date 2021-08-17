@@ -1,3 +1,7 @@
+-- new: tag names ending in __
+When browing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3__"
+
+Afterwards, I could go to the tag listing and identify these "temporary tags" and clean up.
 
 -- fuxi: I like titles with a power phrase or a sharp question. 
 These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.

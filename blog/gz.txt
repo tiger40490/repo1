@@ -1,3 +1,14 @@
+-- new: dev~=singing/acting career
+There are many differences and a few similarities.
+
+In terms of design skill, some developers peak at mid-30s to 50+. Depending on domain, accumulation and wisdom can help, but not as much as medical, sciences or teaching.
+
+In terms of learning (various sub-domains), I feel some developers peak at 20 to 40+. It depends largely on foundation, interest, habit..
+
+In terms of GTD, depending on the system and job role, some developers peak at 20 to 50+. It depends on habit, passion, dedication...
+
+In terms of dnlg, I identified 3 types [jargon^math^arch]
+
 -- new (or update): young techie's worries
 "My income is not rising as much as my peers"
 not learning enough, not competent enough
