@@ -1,4 +1,4 @@
--- new or update: young techie's worries
+-- new (or update): young techie's worries
 "My income is not rising as much as my peers"
 not learning enough, not competent enough
 short runway .. by age 30 I am expected to be competent, independent, possibly a team lead
@@ -9,7 +9,7 @@ peer pressure on all fronts
 
 See also tuxedo post
 
---new or update blogpost on IV_skill ^ GTD
+--(new or ) update blogpost on IV_skill ^ GTD
 https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
 
 Sometimes we get into a new job and find a nasty manager (Yang to Roland), or long hours (PWM), or hard, uninspiring technology stack (Qz).
