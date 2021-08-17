@@ -1,3 +1,37 @@
+-- new convenient: pre-sized std::vector
+First we had the most basic fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is an upgrade from malloc array.
+
+It offers RAII clean-up.
+
+It offers copy and move support, so you can pass it into/out of function.
+
+See also [[c++coding standards]] P150
+
+-- new: threading in C^java
+I don't think many people decide to write threading code in C (or Fortran). Threading is a mid-level feature, but C is low-level language.
+
+threading in C is low-level, complicated, error-prone and demading ... but paradoxically low market-value. I think it's because java (possibly c#) has cornered/dominated/carved out that "Market" with superior threading support. C++ support is somwhere between java's and C's in terms of ease , training, developer availability.
+
+In terms of efficiency, java is suprisingly good. That's why threading is popular in java, not in python, php, ruby etc.
+
+-- new: trees as subset of graphs
+In classic graph theory, a tree is an undirected acyclic connected graph.
+
+In comp science, graph edges are often directed (pointer-based). So trees are a subset of connected directed graphs where any two nodes are connected by one path exactly.
+
+In both definitions, you won't see any closed loop. When some people present a "deformed tree" having visual loops, it breaks both definitions.
+
+-- new: void pointer in C: primitive generic container
+[[Understanding and Using C pointers]] P191 has a use case of a void pointer. Void pointers are rarely needed, so this is one interesting example in a reputable book. The use case is a generic linked list. 
+
+In a link node, the payload is a (presumably heap) pointer. So sizeof(Node) doesn't include sizeof(allocation on heap). This way, the sizeof(Node) is known to compiler. I think java linked list is similar in memory layout.
+
+There are "methods" (actually free functions) associated with the LinkedList struct.. giving rise to a basic class.
+
+Encapsulation .. achieved with fwd declaration of Node struct and LinkedList struct in a shared header. Any user code would include the shared header and won't access the Node internals.
+
+To use this linked list, ApplicationA could pass Account pointers as the payload. An unrelated ApplicationB could pass a Teacher pointer as payload. Both pointer types would match the void pointer type in Node declaration. 
+
 -- update blogpost 
 GS Hong Kong interviewer said array-based order book can achieve 1000 kmps.
 It's easy to whip up a POC showing 1000 kmps, but how about all the real-world requirements in rebus? Your design and implementation will be imperfect and will impact the performance. In the end, will you maintain 1000 kmps?
