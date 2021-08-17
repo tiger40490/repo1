@@ -19,18 +19,6 @@ drv pricing + bond math [Type1 dnlg] ? Yes because programmers don't study the m
 byte-level parsing
 WallSt architecture [Type3 dnlg]
 
--- new: Dram refresh: localSys^criticalMass^CIV
-c++ > java because my java critical mass is easier, more self-sustaining
-localSys? 
-coding drill? Not so fast "decay", but harder to refresh
-
--- slow-cooking update post on XH.Fu.
-Free agents like XH probably value the freedom very high. I once valued my freedom too, and didn't mind earning $2k/M, but when I started dating and planning for family, I realized I was left way behind by my cohort.
-
-The freedom became .. not that valuable.
-
-Nowadays, some of my recent jobs offer very high freedom, comparable to my free-agent lifestyle.
-
 -- update blogpost on the limitations of bccy
 bitcoin is supposed to remove the central authority, replaced with the consensus mechanism. However, the software is still controlled by an elite group of programmers. There's always some governance in any open source codebase.
 
@@ -38,14 +26,5 @@ bitcoin is supposed to remove the central authority, replaced with the consensus
 P71 [[Intl Fin]]
 P637 [[[Mishkin]]] i.e. [[Economics of money, banking and fin markets]]
 
--- update mag:
-sometimes I get into a low mood and carry a negative perception about many of my books, so even a big home library may be insufficient. The gen magazine is an alternative.
-
 -- update blogpost on mkt depth
 runners, painters .. have the worst mkt depth. Only the national top runners can earn endorsement fees or receive government support.
-
--- new or update .. private: WuPeng struck me as very shrewed, calculating 
-t_fake_kaimo
-Buy Hey, I don't need more money, more brank, more status, more clout.
-
-His son grows up in a broken family. That's a real pain.
