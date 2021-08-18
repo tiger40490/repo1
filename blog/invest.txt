@@ -1,4 +1,17 @@
+== new ## eq exposures
+small amount in FSM
 
+--SRS: total SGD 15k invested
+SIA
+DIVA 
+
+-- in U.S.
+USD 2k GS shares
+USD 20k in Roth401k target date fund
+USD 2.5k in eqMufu
+USD 10k in Rbh
+
+===
 -- new
 Even safe bond funds on FSM involve much higher effort than my Robinhood process.
 
