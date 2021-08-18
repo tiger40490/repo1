@@ -1,7 +1,7 @@
 -- fuxi: many in my cohort still strive for power, position (brank), prestige, money, 
 I have moved on. Semi-retired. kinda mellowing up. fat-n-happy.
 
-Compared to them, I now allocate more t$ to wellness, career longevity
+Compared to them, I now allocate more t$ to wellness, career longevity, recreations..
 
 -- le2 wife: meimei's playground hours
 screen time is less healthy, more addicitive.
@@ -11,7 +11,7 @@ playground hour is much better than screen time.
 Once meimei completes her daily doses of piano and academic practics, she can play for hours downstairs.
 
 more time blogging/discussing on parenting
-== new: 9lifestyle improvements{2020 #sustainable
+== new: 9 lifestyle improvements{2020 #sustainable
 t_soulsearch44
 t_vague
 
@@ -19,34 +19,33 @@ See also https://btv-open.dreamhosters.com/wp-admin/post.php?post=42006&action=e
 
 I won't bend over backward to make this blogpost memorable. Right now it simply lacks a good title to be memorable. I will hope to make at least some items memorable.
 
+Most but not all items are about wellness.
+
 MOETF as recreation .. with firewall
 free books + mag, as a strategy
-[d] wpress@dhost 
+[dq] wpress@dhost 
 [d] touch-screen laptops
-[d] 2-printer
-[d] unlimited outgoing minutes
 Reduced the frequency of outing with boy, to a more realistic level. Those trips help bonding, but at extremely high tcost and not cost-effective at all. 
 workout 4-5D/week
-yoga home practice
+[q] yoga home practice, however short
 jogging near ff
 climbing stairs adopted as sustainable workout
-standing desk, with earphone
+standing desk, with headphone
 [d=detachment needed]
+[q=sustainable improvement? questionable]
 
 -- also-rans:
 intimacy? Not sustainable :( but let's just enjoy when we are able to
-low-cost printer in both rooms? May not be needed in the long run
+[dq] low-cost printer in both rooms? May not be needed in the long run
 much more time on reflective writing incl emails and blogging
+[dq] unlimited outgoing minutes
 
 ===
 -- update 
-PendingReview flag: letters to send out
-
--- new: scanner features
-Grayscale .. between color ad b/w. Bigger files than b/w.
+PendingReview flag: draft emails to go out?
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
--- new:
+-- new: places to enhance absorbency 
 To enhance absorbency for study, workout etc, I need
 * library, MRT or bus interchange .. I have tried this many times
 * open green field at dusk like 6 - 7.30. In TPY I can't find such a field. I think the jogging track by Kallang river might work. 

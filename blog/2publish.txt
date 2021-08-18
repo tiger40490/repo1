@@ -1,0 +1,2 @@
+-- new: scanner features
+Grayscale .. between color ad b/w. Bigger files than b/w.
