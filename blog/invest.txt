@@ -16,7 +16,7 @@ USD 2.5k in eqMufu
 USD 10k in Rbh
 
 ===
--- new
+-- new: Rbh process is highly efficient
 Even safe bond funds on FSM involve much higher effort than my Robinhood process.
 
 * problem: the amounts are too large, tyically 10k. Sugg: reduce to 1k
@@ -25,32 +25,9 @@ Even safe bond funds on FSM involve much higher effort than my Robinhood process
 * I check the PnL for each position too often. 
 * my tolerance is too low for large cash balance. sugg: accept 30k cash balance in cash account
 
--- update 'say no'
-cpfLife ERS provides about $2200/M, considered adequate. I think this is a reasonable, sensible assessment. 
-
-What if many of your cohort are building nest eggs to provide $10k/M of retirement income? Would you feel the pressure to match up? This pressure is comparable to the pressure to buy a SDXQ home [Orchard mansion]
-
-.. Personal Training
-At OneNorth, I visited a fitness center that only offers personal training. Minimum membership is $1800/12 PT sessions. If you work nearby and earn a decent salary, then you would probably consider this package.
-
-Now, suppose many of your colleagues have signed up. They tell you various reasons. You accept some of those reasons, but overall unconvinced. Now you assess your choices. You could try jogging on the street near office (unappealing to me). You could do some simple workout in office, or at home. You could join a regular gym somewhere for $100/M.
-
-I would say it's really important to justSayNo. Even if I earn 20k/M, this salary would decline in X years so I need to spend like ordinary locals and save. PT is unsustainable. Their business model (designed for the super rich) is unsuitable for the nearby office professionals.
-
-Similar story on yoga centers membership and U.S. SDXQ homes which resemble Orchard mansions.
-
 -- update blogpost on exp recon tables
 If you must avoid background cohor and use font color, then light colors are more identifiable.
 
--- new: y per-finance=%%top strength 
-why I feel so effective, rewarding, satisfactory ... about my cash-flow, more so than wellness, work-life-balance, QQx, life-long learning...?
-
-Reason: battery/accumulation is more effective in family finance than the other areas
-I have gravitated towards C and SQL precisely due to accumulation.
-
-Reason: less monitoring or refresh needed. I have my exp recon routine + cash pile mgmt strategies. In contrast, wellness, tech learning ... require on-going effort.
-
-Reason: my numerical analytical advantage is clearer in personal-finance than most areas. QQ and coding drill are also similar.
 
 -- fuxi:
 when I told Sheng.Zeng about SG healthcare/nursing cost in SG^Chn, he pointed out unqualified doctors (庸医), more of a problem in China
