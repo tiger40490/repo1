@@ -1,3 +1,6 @@
+-- update: to reduce git merge conflict
+delete local master branch after git-push
+
 -- fuxi: many in my cohort still strive for power, position (brank), prestige, money, 
 I have moved on. Semi-retired. kinda mellowing up. fat-n-happy.
 
@@ -31,6 +34,7 @@ workout 4-5D/week
 jogging near ff
 climbing stairs adopted as sustainable workout
 standing desk, with headphone
+0.txt sharing via SD card
 [d=detachment needed]
 [q=sustainable improvement? questionable]
 
