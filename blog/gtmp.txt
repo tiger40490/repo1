@@ -14,14 +14,6 @@ If a category must sort to bottom but lacks a good alternative name, then prefix
 -- fuxi: need an abbreviation for the wpress admin listing page.
 WPPL [wordpress post listing]
 
-
-== new RTO
-Only 8 months in this office. Let's maximize workout,,,
-still, I want to increase family time, so reach home around 9pm
-
--- lock-out .. on weekends (including Fri evening) better leave my pass outside the glass door
-
-==
 -- update 7-laptop:
 Q: now that I can work in office, how do I make more use of the HP71, and pre-empt the zsms?
 A: increase telecommuting
