@@ -1,7 +1,8 @@
-== new ## tips on tag/cat namin
-If a name ends in double-consonant and -ing, we should drop the "-ing". For example, blogg, tagg
+== new ## tips on tag/cat naming
+If a word ends in gg/tt etc and then -ing, we should drop the "-ing". For example, blogg, tagg
 -- category naming only
-Categories are hierarchical.
+Categories are hierarchical. 
+Some info can be inferred from the parent category and can be omitted.
 
 Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
 
@@ -11,24 +12,8 @@ If a category need to sort to top but lacks a good alternative name, then prefix
 If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
 ==
 -- fuxi: need an abbreviation for the wpress admin listing page.
+WPPL [wordpress post listing]
 
---update free books
-As my collection of free books grows, I may realized there are too many books at home. It proved to be a problem when moving home. Over the years, I have developed my preference for /travel-light/.
-
-Jolt: Those individuals with a large book collection didn't move home as often ! They probably own many books that they don't read. They were lucky to avoid facing the same reality I faced.
-
-Sugg: proactively give away irrelevant books. This is slightly harder with books I bought.
-Sugg: give away some titles that no longer appeal to me, perhaps after browsing through the TOC. Another reality with book ownership is -- our reading interests evolve with age.
-
--- new or update: progressive lens
-Let's try 2 cheaper brands, so as to learn the limitations/strengths of various brands. This experience would help me grow as a consumer.
-
-Another goal -- have multiple cheaper alternatives to reduce the stress of ownership.
-
-First pair -- Pantex with color change. $300+
-2nd pair -- Kodak
-
-Evershine have my data already and may offer a discount.
 
 == new RTO
 Only 8 months in this office. Let's maximize workout,,,
