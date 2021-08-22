@@ -1,3 +1,17 @@
+== new ## tips on tag/cat namin
+If a name ends in double-consonant and -ing, we should drop the "-ing". For example, blogg, tagg
+-- category naming only
+Categories are hierarchical.
+
+Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
+
+To "control" sorting, hot categories have two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
+
+If a category need to sort to top but lacks a good alternative name, then prefix 0, temporarily.
+If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
+==
+-- fuxi: need an abbreviation for the wpress admin listing page.
+
 --update free books
 As my collection of free books grows, I may realized there are too many books at home. It proved to be a problem when moving home. Over the years, I have developed my preference for /travel-light/.
 
