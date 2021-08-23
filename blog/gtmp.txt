@@ -1,8 +1,11 @@
+-- new: reduce kidnapp risk 
+Don't share financial or personal information online. If you share financial status, then highlight your limitations.
+
+It takes effort and risks for the gang to kidnap someone, so they seek high-return-low-risk-low-effort targets. 
 == new ## tips on tag/cat naming
 If a word ends in gg/tt etc and then -ing, we should drop the "-ing". For example, blogg, tagg
 -- category naming only
-Categories are hierarchical. 
-Some info can be inferred from the parent category and can be omitted.
+Categories are hierarchical. Some info can be inferred from the parent category and can be omitted.
 
 Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
 
@@ -53,25 +56,16 @@ eg: SG and many governments rely on e-gov technologies .. efficient
 
 eg: many economies have a serious dependendency on fossil fuel.
 
-
 -- fuxi: many in my cohort still strive for power, position (brank), prestige, money, 
 I have moved on. Semi-retired. kinda mellowing up. fat-n-happy.
 
 Compared to them, I now allocate more t$ to wellness, career longevity, recreations..
 
--- le2 wife: meimei's playground hours
-screen time is less healthy, more addicitive.
-
-playground hour is much better than screen time.
-
-Once meimei completes her daily doses of piano and academic practics, she can play for hours downstairs.
-
-more time blogging/discussing on parenting
 -- update 
 PendingReview flag: draft emails to go out?
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
--- new: places to enhance absorbency 
+-- new: places that enhances absorbency 
 To enhance absorbency for study, workout etc, I need
 * library, MRT or bus interchange .. I have tried this many times
 * open green field at dusk like 6 - 7.30. In TPY I can't find such a field. I think the jogging track by Kallang river might work. 
