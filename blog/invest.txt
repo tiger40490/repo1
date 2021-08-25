@@ -1,3 +1,10 @@
+-- update income vs wealth 
+(link from scorecard)
+Some people are embarrassed to talk about (not necessarily personal) income and prefer wealth instead.
+Some people are embarrassed to talk about (not necessarily personal) wealth and prefer income instead.
+
+These individuals may (subconsciously) prefer to steer the conversation. 
+
 -- new: HDB near Changi
 CBP - only for banking jobs
 
