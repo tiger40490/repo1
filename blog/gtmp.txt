@@ -13,9 +13,6 @@ If a category must sort to bottom but lacks a good alternative name, then prefix
 -- fuxi: need an abbreviation for the wpress admin listing page.
 WPPP [wordpress posts page]
 
--- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
-
-Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
 
 -- new: dependency^efficiency
 Now I think most of my efficiencies, my peers' efficiencies, organizational and government efficiencies are built on ("dependency") some technologies. Dependency and efficiency might be the two sides of a coin.
@@ -100,6 +97,9 @@ more standing .. not yet implemented
 mouse pointer .. more visible
 A95 touchpad fix
 overcharging .. lower electricity, less heat
+
+-- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
+Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr
