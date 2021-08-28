@@ -11,14 +11,7 @@ If a category need to sort to top but lacks a good alternative name, then prefix
 If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
 ==
 -- fuxi: need an abbreviation for the wpress admin listing page.
-WPPL [wordpress post listing]
-
--- update 7-laptop:
-Q: now that I can work in office, how do I make more use of the HP71, and pre-empt the zsms?
-A: increase telecommuting
-
--- update blog on 1st day back in office:
-The Recurring loss of family harmony is the most common reason I need the harbor of office. The library/stadium/MRT are also helpful.
+WPPP [wordpress posts page]
 
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 
