@@ -1,3 +1,6 @@
+-- buy-n-forget is not so easy with the bond mufu. The expRatio erodes the return. 
+I may need to babysit my positions !
+
 -- update
 reliability and DYOC of nonwork incomes
 
