@@ -111,7 +111,7 @@ Do you want to hold iterators into the container?
 
 If subscript is stable, then I think it is the cleanest design. This would be the case for array-like containres that are somehow constrained to avoid deletion/reallocation.
 
-The problem with a pointer field is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation...
+The problem with a pointer field (in wrapper struct) is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation, stray pointer, pointer reseat ...
 
 The iterator solution is more advanced, can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. (See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit ) I think the advantage is itr-based insertion into the host container.
 
