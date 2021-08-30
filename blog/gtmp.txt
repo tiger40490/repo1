@@ -1,7 +1,9 @@
 -- chat with Alina
-The CTO is a workholic, working 10am - 2am. I pointed out wrong priority, esp. at deathbed. The company, the profit, is not an achievement considered worthwhile
+The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the end.
 
-I told Alina my priorities have shifted to wellness [longevity, 5/wk] as I don't need more money
+I told Alina my priorities have shifted to wellness [longevity, 5/wk] as I don't need more money so badly. I think this is similar to MMM attitude.
+
+How much is "enough money"? Remember the latency discussion, and other blogposts
 == new ## tips on tag/cat naming
 If a word ends in gg/tt etc and then -ing, we should drop the "-ing". For example, blogg, tagg
 -- category naming only
