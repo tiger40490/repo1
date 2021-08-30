@@ -32,6 +32,8 @@ Opening eg: ..
 
 eg: The jogger backpack ehnances convenience at a small total cost. The purist can say it is an unnecessary convenience, but I disagree
 
+eg: tuition centers
+
 eg: 2-printer home set-up... does enhance my efficiency
 
 eg: printout for paper-blogging .. does enhance my efficiency. (In this example, I want to focus on printout for _blogging_.) Consider the cost and reliability of basic printers, I feel this dependency is lower than the online-blogger's dependency or the offline blogger's dependency.
