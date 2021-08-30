@@ -1,3 +1,17 @@
+-- operator overloading for a python custom class
+Possible, but not popular
+Define the __add__(self, other) method
+
+-- update blogpost on tibrv wrappers
+py, node.js, perl (my first encounter), java, c# ... can somehow operate on low-level such as sockets, shared memory...
+However, they rely on the underlying C API, which is either a system library or related to the kernel.
+
+The amount of programmer-control is much better in C. Those higher languages (including c++ class libraries) use wrappers. 
+
+The mkt val of the C knowledge is much higer and more time-honored. The API in C has a very stable evolution.
+
+Most technical discussions over the decades would also focus on the common API in C.
+
 -- fuxi: closest ancestors of c/c++
 For c++
 #1 is C
