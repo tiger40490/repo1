@@ -1,32 +1,28 @@
--- new: dependency^efficiency
+== new: dependency^efficiency
 Now I think most of my efficiencies, my peers' efficiencies, organizational and government efficiencies are built on ("dependency") some technologies. Dependency and efficiency might be the two sides of a coin.
 
-Opening eg: ..
+I propose an acid test. A dependency is _unhealthy_ if 
+- costly or 
+- not dependable [unavailable]
 
-eg: The jogger backpack ehnances convenience at a small total cost. The purist can say it is an unnecessary convenience, but I disagree
+Q2: does it matter if no one else depends on this thing?
+A: not much beyond my 2 criteria
 
-eg: tuition centers
-
-eg: 2-printer home set-up... does enhance my efficiency
-
+eg: The jogger backpack ehnances convenience at a small cost. The purist can say it is an unnecessary convenience, but I disagree. See also Q2.
+eg: 2-printer home set-up... does enhance my efficiency. See separate blogpost
 eg: printout for paper-blogging .. does enhance my efficiency. (In this example, I want to focus on printout for _blogging_.) Consider the cost and reliability of basic printers, I feel this dependency is lower than the online-blogger's dependency or the offline blogger's dependency.
-
-G9 best eg: tuition
-
-G9 best eg: yoga studio.
+eg: yoga studio. See separate blogpost
 eg: see the blogpost on $7.50 salad
-
-G9 best eg: printout for work/learning .. (in general). It does enhance my efficiency, proven over 20Y. In some cases the dependency is unwanted.
-
-eg: 5-laptop set-up .. (all active). It sounds like overdependency, but I would argue that the incremental benefit/cost is favorable at each acquisition.
-
-eg: dependency on office/McDonald/MRT as harbor .. enhances my self-care, well-being..
-
-eg: King's speech .. his dependency on his speech therapist
+eg: printout for work/learning .. (in general). It does enhance my efficiency, proven over 20Y. When availility is a non-issue, this dependency is tolerable.
+eg: 5-laptop set-up .. (all active). It sounds like overdependency, but I would argue that the incremental benefit/cost is favorable at each acquisition. Cost and dependability both acceptable.
+eg: dependency on office/McDonald/MRT as harbor .. enhances my self-care, well-being. Cost tolerable. When unavailable, I was coping.
+eg: King's speech .. his dependency on his speech therapist makes him resilient rather than weak. Costly and imperfect availability, but he has no choice.
 
 eg: SG and many governments rely on e-gov technologies .. efficient
 
 eg: many economies have a serious dependendency on fossil fuel.
+
+-- eg: tuition centers... Many say "unreliable" because sooner or later we must become self-motivated. Well, how about dependency on school?
 
 == new : G9 precious little gems we could lose unexpectedly
 
