@@ -1,3 +1,16 @@
+-- new: ## workout venues
+[1-9=absorbency required, such as self-motivation]
+
+[2] stadium: light jogging + variety of muscle training
+[1] new: stadium jogging -> swim
+[9] yoga self-practice @ACM or @playground or in office
+[0] classpass 1M (or realYoga) for yoga
+[5] workout at riverside
+
+..Some familiar ones
+basketball
+[6] skip rope @riverside or @stadium
+
 -- new troubled teacher
 Move the content from the published post
 
