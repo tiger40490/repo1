@@ -12,15 +12,6 @@ small punch
 -- buy-n-forget is not so easy with the bond mufu. The expRatio (?%) erodes the return. 
 I may need to babysit my positions !
 
--- update
-reliability and DYOC of nonwork incomes
-
-China rental income
-HDB rental income. Remember Zeng discussion
-BGC rental income? Luckily I have NCT and Aleris to help me
-UK rental property with 10Y GRR? I don't know how reliable it is. 
-Oxley rental income is so far reliable.
-
 -- update income vs wealth 
 (link from scorecard)
 Some people are embarrassed to talk about (not necessarily personal) income, and prefer wealth instead.
