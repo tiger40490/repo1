@@ -11,6 +11,10 @@ Opera portable has the same features as regular Opera, but it won't use the the 
 
 To use those bookmarks, we probably need the regular install, but please don't install it into C:\programPortable.
 
+I prefer the specific download with a version number and x64. The default download is ambiguous can could install into a misleading location.
+
+If free space insufficient, the failed installation can leave behind a litter of 200MB
+
 -- chat with Alina
 The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the end.
 
