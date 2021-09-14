@@ -1,13 +1,18 @@
-== new: trade your time for income
-H.Yi and AshS both mentioned something about ..
+== new: tradeTime4$
+H.Yi and AshS both mentioned something about trading time for money.
+The idea is to make your money work harder to provide for family livelihood [3], so you don't need to. So you could spend your time on something else.
 
-The idea is to make your money work harder to provide for family livelihood, so you don't have to.
+What's that something else? For me, it is some form of office work, rather than vacation.
 
--- babysitting still required. Very few nonwork incomes are truly passive and buy-n-forget like CPF [SA and cpfLife]. 
+[3] If we could _control_ exclub comparison, then livelihood burn rate can be taken care of already, so we don't need to work.
+
+-- babysitting still required. Very few nonwork incomes are truly passive and buy-n-forget, like CPF [SA and cpfLife]. 
 
 REIT and div-stocks require babysitting when DYOC declines.
 
 Rental properties (like mine in S.E.Asia) require some work with the local agents.
+
+If the passive income stops being passive, then you are still trading time for money. That includes rental property management and day trading.
 
 ==
 -- update ctbz?

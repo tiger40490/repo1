@@ -1,11 +1,11 @@
 == new ## tips on tag/cat naming
-If a word ends in gg/tt etc and then -ing, we should drop the "-ing". For example, blogg, tagg
+If a word ends in gg/tt/pp etc followed by -ing, we should drop the "-ing". For example, blogg, tagg
 -- category naming only
 Categories are hierarchical. Some info can be inferred from the parent category and can be omitted.
 
 Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
 
-To "control" sorting, hot categories have two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
+To "control" sorting, hot categories need two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
 
 If a category need to sort to top but lacks a good alternative name, then prefix 0, temporarily.
 If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
@@ -31,7 +31,7 @@ PendingReview flag: draft emails to go out?
 -- fuxi: my strategicStrength posts :
 each needs a more specific theme, a sharp question
 
--- new: tag names ending in __
+-- fuxi: tag names ending in __
 When browing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3__"
 
 Afterwards, I could go to the tag listing and identify these "temporary tags" and clean up.
