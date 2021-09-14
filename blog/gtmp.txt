@@ -1,13 +1,3 @@
-
--- new: Opera portable version
-I generally prefer portable versions as they are easier in restricted environments. 
-The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
-To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
-
-I prefer the specific download with a version number and x64/x86. The default download is ambiguous can could install into a misleading location.
-
-If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't know it is litter.
-
 -- chat with Alina
 The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the end.
 
@@ -42,6 +32,15 @@ satisfactory intimacy
 UChicago .. insider advantage
 dev-till70
 U.S. and SG "dual homes"
+
+-- new: Opera portable version
+I generally prefer portable versions as they are easier in restricted environments. 
+The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
+To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
+
+I prefer the specific download with a version number and x64/x86. The default download is ambiguous can could install into a misleading location.
+
+If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't know it is litter.
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
