@@ -1,8 +1,3 @@
--- fuxi
-taking note of a conversation: I tend to confuse two modes
-
-* journalist taking notes for future publication
-* taking persoal notes for my own review
 
 -- new: Opera portable version
 I generally prefer portable versions as they are easier in restricted environments. 
@@ -24,30 +19,11 @@ Alina shared her experience about renting, and said she really wanted home owner
 
 I feel U.S. culture is different. Many smart Americans (including some middle-class) stay renting long-term by choice.
 
-== new ## tips on tag/cat naming
-If a word ends in gg/tt etc and then -ing, we should drop the "-ing". For example, blogg, tagg
--- category naming only
-Categories are hierarchical. Some info can be inferred from the parent category and can be omitted.
-
-Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
-
-To "control" sorting, hot categories have two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
-
-If a category need to sort to top but lacks a good alternative name, then prefix 0, temporarily.
-If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
-==
--- fuxi: need an abbreviation for the wpress admin listing page.
-WPPP [wordpress posts page]
-
 -- fuxi: many in my cohort still strive for power, position (brank), prestige, money, 
 I have moved on. Semi-retired. kinda mellowing up. fat-n-happy.
 
 Compared to them, I now allocate more t$ to wellness, career longevity, recreations..
 
--- update 
-PendingReview flag: draft emails to go out?
-
--- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 -- new: places that enhances absorbency 
 To enhance absorbency for study, workout etc, I need
 * library, MRT or bus interchange .. I have tried this many times
@@ -67,12 +43,7 @@ UChicago .. insider advantage
 dev-till70
 U.S. and SG "dual homes"
 
--- fuxi: my strategicStrength posts :
-each needs a more specific theme, a sharp question
-
---fuxi: 
-c:\ProgramPortables
-lines up with ProgramFilesXXX and ProgramData folders 
+-- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
 -- new: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
@@ -89,11 +60,6 @@ more standing .. not yet implemented
 mouse pointer .. more visible
 A95 touchpad fix
 overcharging .. lower electricity, less heat
-
---fuxi or new: excessive blogg@@
-part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
-
-A related consequence -- as I reduce online blogg, I get a growing backlog in git-blog.
 
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
