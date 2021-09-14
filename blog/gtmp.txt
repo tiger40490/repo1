@@ -1,19 +1,17 @@
 -- fuxi
 taking note of a conversation: I tend to confuse two modes
 
-* interviewer writing for other people to read
+* journalist taking notes for future publication
 * taking persoal notes for my own review
 
 -- new: Opera portable version
 I generally prefer portable versions as they are easier in restricted environments. 
+The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
+To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
 
-Opera portable has the same features as regular Opera, but it won't use the the bookmarks previously saved.
+I prefer the specific download with a version number and x64/x86. The default download is ambiguous can could install into a misleading location.
 
-To use those bookmarks, we probably need the regular install, but please don't install it into C:\programPortable.
-
-I prefer the specific download with a version number and x64. The default download is ambiguous can could install into a misleading location.
-
-If free space insufficient, the failed installation can leave behind a litter of 200MB
+If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't know it is litter.
 
 -- chat with Alina
 The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the end.
@@ -76,26 +74,26 @@ each needs a more specific theme, a sharp question
 c:\ProgramPortables
 lines up with ProgramFilesXXX and ProgramData folders 
 
---fuxi or new: excessive blogg@@
-part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
-
-A related consequence -- as I reduce online blogging, I get a growing backlog in git-blog.
-
 -- new: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
 
 These could contribute to performance drags.
--- update or new
-TreeSizeFree
-Allocated column is more useful than SIZE column as it reflects CompressionRate
+-- new: TreeSizeFree
+Allocated column is more useful than SIZE column as it is after-Compression
 
 --update blogpost on disk hogs
 ProgramFiles\WindowsApps: 4GB. See https://answers.microsoft.com/en-us/windows/forum/all/unnecessary-apps-in-cprogram-fileswindowsapps/43f4552a-0445-4878-9ce3-8b7a4f45fe6a 
+
 -- new: ##G5 progress]laptop habits #health++
 more standing .. not yet implemented
 mouse pointer .. more visible
 A95 touchpad fix
 overcharging .. lower electricity, less heat
+
+--fuxi or new: excessive blogg@@
+part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
+
+A related consequence -- as I reduce online blogg, I get a growing backlog in git-blog.
 
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
