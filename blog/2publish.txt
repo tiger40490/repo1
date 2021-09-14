@@ -1,4 +1,13 @@
 
+-- new: Opera install
+I generally prefer portable versions as they are easier in restricted environments. 
+The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
+To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
+
+I prefer the specific download with a version number and x64/x86. The default download is ambiguous can could install into a misleading location.
+
+If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't know it is litter.
+
 -- new: NIC, 4 little dragons
 The original term "Newly Industrialized Countries" referred to these 4 east Asian economies
 

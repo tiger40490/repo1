@@ -14,13 +14,6 @@ I have moved on. Semi-retired. kinda mellowing up. fat-n-happy.
 
 Compared to them, I now allocate more t$ to wellness, career longevity, recreations..
 
--- new: places that enhances absorbency 
-To enhance absorbency for study, workout etc, I need
-* library, MRT or bus interchange .. I have tried this many times
-* open green field at dusk like 6 - 7.30. In TPY I can't find such a field. I think the jogging track by Kallang river might work. 
-
-TPY stadium is decent but not exactly that.
-
 -- update https://btv-open.dreamhosters.com/2020/04/03/quietly-overtaking-peers-over10y/
 .. random items of stealth overtake
 beautiful kids
@@ -28,19 +21,10 @@ beautiful kids
 no belly fat
 satisfactory intimacy
 
-.. some of the obvious, the familiar
+.. some of the obvious, or the familiar
 UChicago .. insider advantage
 dev-till70
 U.S. and SG "dual homes"
-
--- new: Opera install
-I generally prefer portable versions as they are easier in restricted environments. 
-The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
-To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
-
-I prefer the specific download with a version number and x64/x86. The default download is ambiguous can could install into a misleading location.
-
-If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't know it is litter.
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
