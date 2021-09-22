@@ -39,14 +39,8 @@ eg: "Skating practice should be enjoyable and rewarding, not dreadful."
 -- [1] deprivation? Food should be a joy at least some of the times. 
 eg: Availability of alcohol creates a struggle in the recovering alcoholic, possibly torture. However, ultimately, you could get over it and live with the availability, rather than get tortured by it year in year out.
 ====
--- new or update
-why the yoga instructors give such tough instructions? Because some students can do it !
 
-In contrast, cardio classes don't make me feel so bad because instructions are reasonable to me, but probably unreasonable to some.
-
-It's tough to tell yourself "If I can't follow the instruction then I just take things easy." The whole point of coming to the class is the team environment.
-
--- new: tCost@diet introspection
+-- fuxi: tCost@diet introspection
 I think this analysis is less reading more experimenting, and comparable to 
 
 coding drill
