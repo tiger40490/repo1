@@ -52,6 +52,7 @@ I was able to climb at least one flight of stairs every day when living in Blk 1
 
 -- new: Opera install
 I generally prefer portable versions as they are easier in restricted environments. 
+Therefore, the substantial effort in learning/exploration has higher ROTI.
 The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
 To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
 
