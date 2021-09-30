@@ -1,10 +1,10 @@
--- update post on success i.e. letter to wife
+-- update post on success i.e. https://btv-open.dreamhosters.com/wp-admin/post.php?post=21532&action=edit
 There are two distinct meanings of success.
 
 "Whether I like myself"
 livelihood
 
-This is the big-picture definition of success
+That is the big-picture definition of success
 
 There is also the idea of project success -- based on either a specific, objective, or measurable target. 
 
