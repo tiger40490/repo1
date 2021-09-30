@@ -8,6 +8,8 @@ This is the big-picture definition of success
 
 There is also the idea of project success -- based on either a specific, objective, or measurable target. 
 
+-- fuxi: printfriendly.com can let you remove specific pictures or paragraphs
+
 -- update solitude
 Many old men (few women) sitting in bus interchange to avoid loneliness. 
 A job would provide better connectedness, though it is a dependency
