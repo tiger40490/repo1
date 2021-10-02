@@ -19,11 +19,11 @@ Compared to them, I now allocate more t$ to wellness, career longevity, recreati
 ==
 
 -- chat with Alina
-The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the end.
+The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the END.
 
-I told Alina my priorities have shifted to wellness [longevity, 5/wk] as I don't need more money so badly. I think this is similar to MMM attitude.
+I told Alina my priorities have shifted to wellness [longevity, 5/wk] as I need more money only half-heartedly. I think this is similar to MMM attitude.
 
-How much is "enough money"? Remember the latency discussion, and other blogposts
+How much is "enough money"? Remember the latency discussion, and other blogposts.
 
 Alina shared her experience about renting, and said she really wanted home ownership. I find this sentiment very strong. Those young professionals in Beijing seem to be trapped. Residential properties are pushed high by hot money. Many people probably want to avoid this "game" but they also feel renting is not sustainable not satisfactory. 
 
@@ -38,11 +38,8 @@ These could contribute to performance drags.
 -- fuxi: TreeSizeFree
 Allocated column is more useful than SIZE column as it is after-Compression
 
-
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr
-
---fuxi: to avoid the same battery bloating problem, need to let battery drain before recharge
