@@ -2,6 +2,21 @@
 Many old men (few women) sitting in bus interchange to avoid loneliness. 
 A job would provide better connectedness, though it is a dependency
 
+-- update https://btv-open.dreamhosters.com/2020/04/03/quietly-overtaking-peers-over10y/
+.. random items of stealth overtake
+beautiful kids
+5 workouts a week
+no belly fat
+satisfactory intimacy
+
+.. some of the obvious, or the familiar
+UChicago .. insider advantage
+dev-till70
+U.S. and SG "dual homes"
+
+--update blogpost on disk hogs
+ProgramFiles\WindowsApps: 4GB. See https://answers.microsoft.com/en-us/windows/forum/all/unnecessary-apps-in-cprogram-fileswindowsapps/43f4552a-0445-4878-9ce3-8b7a4f45fe6a 
+
 -- new: desparate for healthy lifestyle
 Kenneth.Lew first told me "desperate" in the RTS gym.
 
@@ -99,6 +114,13 @@ Sugg: give away some titles that no longer appeal to me, perhaps after browsing 
 
 -- new: scanner features
 Grayscale .. between color ad b/w. Bigger files than b/w.
+
+-- new: ##G5 progress]laptop habits #health++
+more standing .. not yet implemented
+mouse pointer .. more visible
+A95 touchpad fix
+overcharging .. lower electricity, less heat
+task bar on both monitors
 
 -- le2 wife: meimei's playground hours
 screen time is less healthy, more addicitive.

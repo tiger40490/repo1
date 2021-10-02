@@ -5,6 +5,7 @@ There are several meanings of success.
 See https://btv-open.dreamhosters.com/wp-admin/post.php?post=21532&action=edit
 
 -- success can mean ezlife + wellness on a bedrock of well-protected livelihood. See https://btv-open.dreamhosters.com/wp-admin/post.php?post=21532&action=edit
+consider FIRE and Singapore's early retirees
 
 -- success can mean exclub based on conventional yardsticks .. See https://btv-open.dreamhosters.com/wp-admin/post.php?post=44977&action=edit
 
@@ -28,35 +29,15 @@ Alina shared her experience about renting, and said she really wanted home owner
 
 I feel U.S. culture is different. Many smart Americans (including some middle-class) stay renting long-term by choice.
 
--- update https://btv-open.dreamhosters.com/2020/04/03/quietly-overtaking-peers-over10y/
-.. random items of stealth overtake
-beautiful kids
-5 workouts a week
-no belly fat
-satisfactory intimacy
-
-.. some of the obvious, or the familiar
-UChicago .. insider advantage
-dev-till70
-U.S. and SG "dual homes"
-
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
--- new: to disable hundreds of win10 services
+-- fuxi: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
 
 These could contribute to performance drags.
--- new: TreeSizeFree
+-- fuxi: TreeSizeFree
 Allocated column is more useful than SIZE column as it is after-Compression
 
---update blogpost on disk hogs
-ProgramFiles\WindowsApps: 4GB. See https://answers.microsoft.com/en-us/windows/forum/all/unnecessary-apps-in-cprogram-fileswindowsapps/43f4552a-0445-4878-9ce3-8b7a4f45fe6a 
-
--- new: ##G5 progress]laptop habits #health++
-more standing .. not yet implemented
-mouse pointer .. more visible
-A95 touchpad fix
-overcharging .. lower electricity, less heat
 
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
