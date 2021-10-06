@@ -1,3 +1,6 @@
+--
+If a picture is too large when added to gmail, it would mess up gmail display.
+
 -- chat with Alina
 The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the END.
 
