@@ -1,5 +1,14 @@
 -- new
 7 Oct lotus 10m
+-- new: ##G5 progress]laptop habits #health++
+also move over items from tiny lifestyle...
+
+more standing .. not yet implemented
+mouse pointer .. more visible
+A95 touchpad fix
+overcharging .. lower electricity, less heat
+task bar on both monitors
+
 -- new: desparate for healthy lifestyle
 Kenneth.Lew is the first to mention "desperate" in the RTS gym.
 
@@ -115,13 +124,6 @@ Sugg: give away some titles that no longer appeal to me, perhaps after browsing 
 
 -- new: scanner features
 Grayscale .. between color ad b/w. Bigger files than b/w.
-
--- new: ##G5 progress]laptop habits #health++
-more standing .. not yet implemented
-mouse pointer .. more visible
-A95 touchpad fix
-overcharging .. lower electricity, less heat
-task bar on both monitors
 
 -- le2 wife: meimei's playground hours
 screen time is less healthy, more addicitive.
