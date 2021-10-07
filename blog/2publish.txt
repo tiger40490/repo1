@@ -1,3 +1,5 @@
+-- new
+7 Oct lotus 10m
 -- new: desparate for healthy lifestyle
 Kenneth.Lew is the first to mention "desperate" in the RTS gym.
 
@@ -70,13 +72,13 @@ I was able to climb at least one flight of stairs every day when living in Blk 1
 
 -- new: Opera install
 I generally prefer portable versions as they are easier in restricted environments. 
-Therefore, the substantial effort in learning/exploration has higher ROTI.
+Therefore, the substantial effort in learning/exploration generates higher ROTI.
 The regular download can create a a portable installation. It has comparable features as regular Opera, but it can't use the preserved bookmarks :(
 To use preserved bookmarks, we need the regular install, but please don't install it into C:\programPortable, please!
 
 I prefer the specific download with a version number and x64/x86. The default download is ambiguous can could install into a misleading location.
 
-If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't know it is litter.
+If free space is insufficient, the aborted installation can leave behind a litter of 200MB. If you don't clean it up manually, then in the future you won't recognize it as litter.
 
 -- new: NIC, 4 little dragons
 The original term "Newly Industrialized Countries" referred to these 4 east Asian economies
@@ -84,13 +86,13 @@ The original term "Newly Industrialized Countries" referred to these 4 east Asia
 The current list is very interesting.
 
 South Africa is the only NIC in Africa.
-Mexico and Brazil are the only two NICs in Latam, probably leading economies
+Mexico and Brazil are the only NICs in Latam, probably leading economies.
 Among BRIC, only Russia is not an NIC.
 
-Asian NICs are mostly in SEA except China and India. So in Asia, the rich list has Japan on top, the 4 little dragons below it, then SEA, then China and India. The rest are nowhere. My view is similar to the Flying Geese paradigm.
+Asian NICs are mostly in SEA except China and India. So in Asia, the "rich list" has Japan on top, the 4 little dragons below it, then SEA, then China and India. The rest are nowhere. My view is similar to the Flying Geese paradigm.
 
 -- update low profile: reduce kidnapp risk: avoid flaunt
-Don't share financial or personal information online. (If you share financial status, then highlight your limitations.)
+Don't share financial or personal information online, esp about your kids or physical locations. (If you share financial status, then highlight your limitations.)
 
 It takes effort and risks for the gang to kidnap someone, so they seek high-return-low-risk-low-effort targets. 
 
@@ -99,8 +101,7 @@ The recurring loss of family harmony is the most common reason I need the harbor
 
 -- update regular upkeep
 dental retainers
-cholesterol pills
-VitD pills
+cholesterol+VitD pills
 
 --update blog on free books
 As my collection of free books grows, I may realized there are too many books at home. It proved to be a recurring problem when moving home. Over the years, I have developed my preference for /travel-light/.
