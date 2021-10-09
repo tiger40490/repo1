@@ -12,13 +12,13 @@ If a category must sort to bottom but lacks a good alternative name, then prefix
 ==
 
 -- fuxi
-taking note of a conversation: I tend to confuse two modes
+taking note of a memorable conversation: I tend to confuse two modes
 
-* journalist taking notes for future publication
-* taking persoal notes for my own review
+* journalist taking notes for future publication use
+* taking personal notes for my own review
 
 --fuxi or new: excessive blogg@@
-part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace.
+part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace, parenting, localSys
 
 A related consequence -- as I reduce online blogg, I get a growing backlog in git-blog.
 
