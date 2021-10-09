@@ -25,21 +25,15 @@ A related consequence -- as I reduce online blogg, I get a growing backlog in gi
 -- fuxi: need an abbreviation for the wpress admin listing page.
 WPPP [wordpress posts page]
 
--- update 
-PendingReview flag: draft emails to go out?
-
--- fuxi: my strategicStrength posts :
-each needs a more specific theme, a sharp question
-
--- fuxi: tag names ending in __
-When browing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3__"
-
-Afterwards, I could go to the tag listing and identify these "temporary tags" and clean up.
-
--- new or fuxi: I like titles with a power phrase or a sharp question. 
+-- new or update: I like titles with a power phrase or a sharp(ideally short) question. 
 These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
 
-These titles are the best solution to the proliferation of blog posts.
+These titles are one solution to the proliferation of blog posts.
+
+-- fuxi: tag names ending in __
+When browsing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3_@"
+
+Afterwards, I could go to the tag listing and identify these "temporary tags" and clean up.
 
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
