@@ -1,3 +1,14 @@
+-- update blogpost on more/less?
+Fact: for some of us, we always feel insufficient allocation to this or that aspects of our life. Ocassionally, we feel some overallocation, too.
+
+Our allocation decision is dynamic, fluid and largely run by System1, therefore never perfect.
+I mean Allocation of time, System2 resources [attention, energy, absorbency...]
+
+I feel the need to constantly review our past allocation decisions over short and long histories.
+
+The higher ground I want to push toward is a situation where I find very few items constantly starved/deprived/underserved, and ideally the "starvation" is more evenly spread out to all areas.
+On this higher ground, I would remember the success stories of change. The success stories empower me to adjust my allocation strategy, rather than powerless guilt.
+
 --new: Shaw cheaper tickets
 OC debit card $1 off. Need to apply one
 Mon-Fri $9 is regular price, iFF not "new release"
@@ -8,29 +19,6 @@ https://dollarsandsense.sg/singaore-movie-ticket-price-guide/
 Some titles are Shaw exclusive.
 --fuxi
 If a picture is too large when added to gmail, it would mess up gmail display.
-
--- update blogpost on more/less?
-Fact: for some individuals, we always feel insufficient allocation to this or that aspects of our life. Ocassionally, we feel some overallocation, too.
-
-Our allocation decision is dynamic, fluid and largely run by System1, therefore never perfect.
-I mean Allocation of time, System2 resources [attention, energy, absorbency...]
-
-I feel the need to constantly review our past allocation decisions over short and long histories.
-
-The higher ground I want to push toward is a situation where I find very few items constantly starved/deprived/underserved, and ideally the "starvation" is more evenly spread out to all areas.
-On this higher ground, I would remember the success stories of change. The success stories empower me to adjust my allocation strategy, rather than powerless guilt.
-
--- chat with Alina
-The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the END.
-Those achievements are part of success only in the exclub sense.
-
-I told Alina my priorities have shifted to wellness [longevity, 5/wk] as I need more money only half-heartedly. I think this is similar to MMM attitude.
-
-How much is "enough money"? Remember the latency discussion, and other blogposts.
-
-Alina shared her experience about renting, and said she really wanted home ownership. I find this sentiment very strong. Those young professionals in Beijing seem to be trapped. Residential properties are pushed high by hot money. Many people probably want to avoid this "game" but they also feel renting is not sustainable not satisfactory. 
-
-I feel U.S. culture is different. Many smart Americans (including some middle-class) stay renting long-term by choice.
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
