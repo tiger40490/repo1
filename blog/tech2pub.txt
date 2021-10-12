@@ -1,3 +1,25 @@
+
+-- new: basis_risk
+Alex Tee of Stirt felt basis_risk is a basic common knowledge
+
+P53 [[fundamentals of Fut and Opt markets ]]
+
+-- update blogpost on fwd^fut https://btv-gz.dreamhosters.com/wp-admin/post.php?post=41694&action=edit
+P40 [[fundamentals of Fut and Opt markets ]]
+
+-- update one of the 4 blogposts on IRS valuation
+P170 [[fundamentals of Fut and Opt markets ]]
+
+-- update blogpost on tibrv wrappers
+py, node.js, perl (my first encounter), java, c# ... can somehow operate at a low level such as sockets, shared memory, semaphore, memory fence...
+However, they rely on the underlying C API, which is either a system library or related to the kernel.
+
+The amount of programmer-control is much better in C, as C is a naturally low-level language. Those higher languages (including c++ class libraries) use wrappers. 
+
+In these case as in the tibrv wrapper, the mkt val of the C knowledge is higer and more time-honored. The API in C has a very stable evolution.
+
+Most technical discussions over the decades would also focus on the common API in C.
+
 -- new convenient: pre-sized std::vector
 First we had the most basic fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is an upgrade from malloc array.
 

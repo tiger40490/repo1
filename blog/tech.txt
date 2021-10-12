@@ -1,43 +1,24 @@
 -- new or update: java: big lambdaEx^methodRef
-I think a big lambdaEx (lambda expression) is usually used as an argument to a method. 
-Q: can we convert the big lambdaEx to a method reference?
+I think a big lambdaEx (lambda expression) is usually [1] used as an argument to a method. 
 
+Q: can we convert the big lambdaEx to a method reference?
 A: not alwaysl. In Dropcopy framework, I realized that 
 
 * many times yes I can and should convert. LambdaEx is designed for small code blocks.
 * however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
 
--- operator overloading for a python custom class
+[1] There might be other usages, but in this blogpost I can put them aside.
+
+-- fuxi: operator overloading for a python custom class
 Possible, but not popular
 Define the __add__(self, other) method
-
--- update blogpost on tibrv wrappers
-py, node.js, perl (my first encounter), java, c# ... can somehow operate on low-level such as sockets, shared memory...
-However, they rely on the underlying C API, which is either a system library or related to the kernel.
-
-The amount of programmer-control is much better in C. Those higher languages (including c++ class libraries) use wrappers. 
-
-The mkt val of the C knowledge is much higer and more time-honored. The API in C has a very stable evolution.
-
-Most technical discussions over the decades would also focus on the common API in C.
 
 -- fuxi: closest ancestors of c/c++
 For c++
 #1 is C
 #2 is Simula
 
-For C #1 is the B language
-
--- new: basis_risk
-Alex Tee of Stirt felt basis_risk is a basic common knowledge
-
-P53 [[fundamentals of Fut and Opt markets ]]
-
--- update blogpost on fwd^fut https://btv-gz.dreamhosters.com/wp-admin/post.php?post=41694&action=edit
-P40 [[fundamentals of Fut and Opt markets ]]
-
--- update one of the blogposts on IRS valuation
-P170 [[fundamentals of Fut and Opt markets ]]
+For C, the #1 is the B language. It explains the naming of "C"
 
 -- BitMain
 Q: in your java project, is memory an issue?
