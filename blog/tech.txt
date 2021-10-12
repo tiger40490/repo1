@@ -1,3 +1,12 @@
+-- new or update: java: big lambdaEx^methodRef
+I think a big lambdaEx (lambda expression) is usually used as an argument to a method. 
+Q: can we convert the big lambdaEx to a method reference?
+
+A: not alwaysl. In Dropcopy framework, I realized that 
+
+* many times yes I can and should convert. LambdaEx is designed for small code blocks.
+* however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
+
 -- operator overloading for a python custom class
 Possible, but not popular
 Define the __add__(self, other) method
