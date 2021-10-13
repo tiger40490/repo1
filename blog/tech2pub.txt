@@ -20,15 +20,6 @@ In these case as in the tibrv wrapper, the mkt val of the C knowledge is higer a
 
 Most technical discussions over the decades would also focus on the common API in C.
 
--- new convenient: pre-sized std::vector
-First we had the most basic fixed arrays. Then we had VLA. Then we had malloc arrays. I think fixed-sized std::vector is an upgrade from malloc array.
-
-It offers RAII clean-up.
-
-It offers copy and move support, so you can pass it into/out of function.
-
-See also [[c++coding standards]] P150
-
 -- new: trees as subset of graphs
 In classic graph theory, a tree is an undirected acyclic connected graph.
 
