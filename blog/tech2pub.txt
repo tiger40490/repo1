@@ -1,25 +1,4 @@
 
--- new: basis_risk
-Alex Tee of Stirt felt basis_risk is a basic common knowledge
-
-P53 [[fundamentals of Fut and Opt markets ]]
-
--- update blogpost on fwd^fut https://btv-gz.dreamhosters.com/wp-admin/post.php?post=41694&action=edit
-P40 [[fundamentals of Fut and Opt markets ]]
-
--- update one of the 4 blogposts on IRS valuation
-P170 [[fundamentals of Fut and Opt markets ]]
-
--- update blogpost on tibrv wrappers
-py, node.js, perl (my first encounter), java, c# ... can somehow operate at a low level such as sockets, shared memory, semaphore, memory fence...
-However, they rely on the underlying C API, which is either a system library or related to the kernel.
-
-The amount of programmer-control is much better in C, as C is a naturally low-level language. Those higher languages (including c++ class libraries) use wrappers. 
-
-In these case as in the tibrv wrapper, the mkt val of the C knowledge is higer and more time-honored. The API in C has a very stable evolution.
-
-Most technical discussions over the decades would also focus on the common API in C.
-
 -- new: trees as subset of graphs
 In classic graph theory, a tree is an undirected acyclic connected graph.
 
@@ -76,3 +55,24 @@ If subscript is stable, then I think it is the cleanest design. This would be th
 The problem with a pointer field (in wrapper struct) is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation, stray pointer, pointer reseat ...
 
 The iterator solution is more advanced, can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. (See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit ) I think the advantage is itr-based insertion into the host container.
+
+-- new: basis_risk
+Alex Tee of Stirt felt basis_risk is a basic common knowledge
+
+P53 [[fundamentals of Fut and Opt markets ]]
+
+-- update blogpost on fwd^fut https://btv-gz.dreamhosters.com/wp-admin/post.php?post=41694&action=edit
+P40 [[fundamentals of Fut and Opt markets ]]
+
+-- update one of the 4 blogposts on IRS valuation
+P170 [[fundamentals of Fut and Opt markets ]]
+
+-- update blogpost on tibrv wrappers
+py, node.js, perl (my first encounter), java, c# ... can somehow operate at a low level such as sockets, shared memory, semaphore, memory fence...
+However, they rely on the underlying C API, which is either a system library or related to the kernel.
+
+The amount of programmer-control is much better in C, as C is a naturally low-level language. Those higher languages (including c++ class libraries) use wrappers. 
+
+In these case as in the tibrv wrapper, the mkt val of the C knowledge is higer and more time-honored. The API in C has a very stable evolution.
+
+Most technical discussions over the decades would also focus on the common API in C.
