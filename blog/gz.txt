@@ -59,17 +59,6 @@ In terms of GTD, depending on the system and job role, some developers peak at 2
 
 In terms of dnlg, I identified 3 types [lingo^math^arch]. These 3 types demand some level of interest, aptitude. Some developers peak at 30+ to 50+.
 
--- new (or update): young techie's worries
-"My income is not rising as much as my peers"
-not learning enough, not competent enough
-short runway .. by age 30 I am expected to be competent, independent, possibly a team lead
-too many choices
-long struggle ahead, over 40Y
-"Is this domain right for me? Will I regret?"
-peer pressure on all fronts
-
-See also tuxedo post
-
 --(new or ) update blogpost on IV_skill ^ GTD
 https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
 
@@ -101,10 +90,6 @@ ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
 However, In terms of financial support, government handout is tiny compared to employers'.
 
--- fuxi:
-t_jolt
-if an employer permits some reasonable amount of blogging in office, then I'm willing to accept $1k less salary.
-
 -- fuxi: With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors 
 Evidence for "veteran"? Not GTD, not even zbs, but mostly the interview-visible expertise. 
 
@@ -113,5 +98,3 @@ This expertise is about the only criteria IMO. Anyone "strong" on this front is 
 A veteran developer doesn't need to be an above-average developer or expert developer but need to possess some demonstrable experience in the field. Therefore, a long stay in one team (Jack.Zhang?) is less valuable than multiple one-year projects.
 
 Can you acquire this expertise with only 3Y experience? You would need to attend many interviews.
-
---fuxi web2.0 is a good phrase for a vague and broad category. Remarkably, It has not received any criticism and has stood the test of time
