@@ -1,15 +1,13 @@
 -- new 
 In U.S. and increasing in SG, the traditional doctor/architect professions are now comparable to SWE profession.
-
 However, a key difference is accu [including tech churn]. 
 
-Many high-earning devs must learn new tech 30 years into their career, unless they move out of SWE profession into mgmt.
-
-Some of these devs don't mind learning new tech or even enjoy learning new tech...
+Many high-earning SWE must learn new tech 30 years into their career.
+Some of these SWEs don't mind learning new tech or even enjoy learning new tech...
 
 The WallSt coreJava contractor profession is a rare exception in terms of tech churn. 
-This profession resembles the medical profession even more if you throw in cpp, shell scripting, FIX, bondMath and other evergreen tech skills.
-This view is probably biased, but I am hopeful and optmistic.
+This profession resembles the medical profession even better, if you throw in cpp, shell scripting, SQL, FIX, bondMath and other evergreen tech skills.
+This description is probably biased, but I am hopeful and optmistic.
 
 ==new or update: ##unlisted capabilities for IV
 Some of these unlisted requirements are more essential than listed ones, and disqualify many candidates, and represent my competitive advantages on a given job market.
@@ -29,7 +27,6 @@ The minimum standard is usually non-trivial, and requires practice.
 -- take on student's role .. Josh mentioned the attitude of a student (even though he meant something else). If you were a reluctant student in school and only studied to pass exams and never "looked back", then you may find the dev interview process tough and challening. It requires you to go back into student mode. Specifically you have to review your past material + weaknesses, pick some topics, form some plan, study for weeks in your spare time, without a teacher.
 
 I think this is one fundamental reason I feel stronger among my cohort.
-
 ==
 -- new: 
 A finance professional could claim that she can earn more in a year than a high-school classmate makes in 10Y, and it's not even an outlier year.
@@ -38,6 +35,7 @@ What we don't discuss is, the classmate (or accountant, engineer, RnD, nurse..) 
 
 A trading career is much shorter, according to Kun.H and also a prop trader classmate. Older traders often need to step aside and become risk managers.
 
+Career longevity provides inflation protection + meaningful engagement in old age, so I don't mind slightly lower lifetime income.
 -- fuxi or update
 Most of my past techBets and tsn ... are likely to pay lower dividends after first 10Y. 
 Strategic orgro is a holy grail.
