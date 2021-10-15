@@ -52,9 +52,7 @@ I feel frustrated and disappointed many times a day.
 
 I thought grandparents could reduce my distraction stemming from boy's studies, but I think this distractions is actually worsening. I probably have no one to blame but myself.
 
---if I continue to negelect workout, coding drill, QQ,,, for too long, zsms would likely grow,
-fuxi:
-
+-- fuxi: if I continue to negelect workout, coding drill, QQ,,, for too long, zsms would likely grow,
 even though I put in more hours into my projects
 even though I spend more time with grandparents
 even though I spend more time with kids
@@ -63,7 +61,7 @@ I feel these t-spends are more important but doesn't meet my "burn" standard -- 
 
 weekend roti is a counter-productive concept esp. in terms of family time and babysitting boy -- high tcost low visible ROTI.
 
---
+-- fuxi?
 Consider JackZ and Raymond's situations. At my age and (my economic) level, what endeavors (spaceshuttle name) are really strategic?
 1) wellness lifestyle improvements like yoga, sustainable diet habits, BMI
 2) dev-till-70 accu, plowback,,, including QQ and CIV
