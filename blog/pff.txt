@@ -5,7 +5,8 @@ If I buy $100, then tcost is too high including terminating RSP.
 
 If I buy buy $1000, then due diligence tend to take much longer.
 
-In all cases, ROTI is very poor compared to Rbh, partly due to expRatio.
+In all cases, ROTI is very poor compared to Rbh, partly due to expRatio/trailer.
+conventional wisdom of eq outperforming bonds in the long run only works in the U.S. market and only if you don't pay the expRatio to a eqMufu.
 
 -- update lifestyle creep
 mixedVegRice used to be the best value in Singapore, either in coffee shops or food courts. No more.
@@ -17,9 +18,6 @@ The only explanation I have is higher disposable income and lifestyle creep.
 
 Is if for nutrition? No. It's only for pleasure [variety]
 
--- update or new
-conventional wisdom of eq outperforming bonds in the long run only works in the U.S. market and only if you don't pay the expRatio to a eqMufu.
-
 --update post on Felicia@HDB
 Why hold on so tight even after relocation to U.S.?
 * low mainetance
@@ -30,14 +28,16 @@ Margin of error based on small sample
 
 == new: tradeTime4$
 H.Yi and AshS both mentioned something about trading time for money.
-The idea is to make your money work harder to provide for family livelihood [3], so you don't need to. So you could spend your time on something else.
+The proposed alternative is to make your money work harder to provide for family livelihood [3], so you don't need to. So you could spend your time on something else.
 
 What's that something else? For me, it is some form of office work, rather than vacation.
+Therefore, I willingly trade time for ... something to engage me.
 
 [3] If we could _control_ exclub comparison, then livelihood burn rate can be taken care of already, so we don't need to work.
 
--- babysitting still required. Very few nonwork incomes are truly passive and buy-n-forget, like CPF [SA and cpfLife]. 
+In the proposed alternative, you still need to spend time managing your portfolio!
 
+-- babysitting still required. Very few nonwork incomes are truly passive and buy-n-forget, like CPF [SA and cpfLife]. 
 REIT and div-stocks require babysitting when DYOC declines.
 
 Rental properties (like mine in S.E.Asia) require some work with the local agents.
