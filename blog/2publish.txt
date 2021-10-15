@@ -1,3 +1,15 @@
+
+--new: % allocate spare time
+See also blogpost on Luke Su and spare time accounting
+First let me present my pratical (hopefully valuable) quantification of spare time: excluding required work time (+commute), essential family-support time (+repairs), bio-time (sleep, nutrition/preparation)
+Second, let's name the G3 non-overlapping allocations excluding the hard-to-estimate unused time. Note Blogging is a "mixin" element.
+* 20% pff. Am reducing it from 40%
+* 20% parenting including seeking help. Am increasing it from 5%
+* 20% workout + wellness research; tech xx including localSys + body-building
+* 40% other blogging
+
+If I put in more than 3 items, then I tend to spend too much time fine-tuning the estimates but these estimates are not so useful in hind sight.
+
 --update public ives
 In terms of reputation, some of the public ives (Berkeley, ) are comparable to some original ives.
 Fees or acceptance rate can be much better.
