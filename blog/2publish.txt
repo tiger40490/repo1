@@ -1,4 +1,11 @@
 
+-- update post on Fenix
+Consider JackZ and Raymond's situations. At my age and (my economic) level, what endeavors (spaceshuttle name) are really strategic?
+1) wellness lifestyle improvements like yoga, sustainable diet habits, BMI
+2) dev-till-70 accu, plowback,,, including QQ and CIV
+? academic parenting? No. I prioritize motivation, bonding, coaching 
+? prepare for relocation to U.S. including car ownership, burn rate control
+
 --new: % allocate spare time
 See also blogpost on Luke Su and spare time accounting
 First let me present my pratical (hopefully valuable) quantification of spare time: excluding required work time (+commute), essential family-support time (+repairs), bio-time (sleep, nutrition/preparation)
