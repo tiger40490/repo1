@@ -83,9 +83,6 @@ UChicago .. insider advantage
 dev-till70
 U.S. and SG "dual homes"
 
---update blogpost on disk hogs
-ProgramFiles\WindowsApps: 4GB. See https://answers.microsoft.com/en-us/windows/forum/all/unnecessary-apps-in-cprogram-fileswindowsapps/43f4552a-0445-4878-9ce3-8b7a4f45fe6a 
-
 -- new: chin-up
 A realistic goal would be one a day, but such a goal doens't generate positive feedback. 
 I remember my yoga goal was one minute a day. I managed to change my perception to feel good about it.
