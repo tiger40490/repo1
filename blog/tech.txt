@@ -1,3 +1,14 @@
+-- new: deepcopy
+copy.deepcopy() is never quizzed, but is a key ECT feature in CIV. It's fairly easy to use, and seldom requires any tweaking/troubleshooting.
+
+Once a while, we can showcase our python expertise by drawing attention to deepcopy. It solves two common problems of object graph cloning, using a memo object.
+
+Deepcopy is somewhat related to serializer "pickle" module.
+
+Your class can implement def __deepcopy__(self, memo). In it, you can deep clone a component2 using deepcopy(component2, memo).
+
+Standard module doc is concise and readable.
+
 -- new or update on signal+socket
 signals in windows? not popular
 
@@ -12,7 +23,10 @@ One of the most common signals is SIGSEGV. The default signal handler function p
 
 -- fuxi: operator overloading for a python custom class
 Possible, but not popular
-Define the __add__(self, other) method
+Define __add__(self, other) method
+
+The pattern extends to non-operators:
+Define __deepcopy__(self, memo) method
 
 -- fuxi: closest ancestors of c/c++
 For c++
@@ -20,6 +34,3 @@ For c++
 #2 is Simula
 
 For C, the #1 is the B language. It explains the naming of "C"
-
--- BitMain
-Q: in your java project, is memory an issue?
