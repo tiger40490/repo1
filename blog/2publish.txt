@@ -1,3 +1,9 @@
+-- new or update post on blog titles
+I like titles with a power phrase or a sharp(ideally short) question. 
+These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
+
+These titles are one solution to the proliferation of blog posts.
+
 -- new (or update): young techie's worries
 My income is not rising as much as my cohort
 My skillset is not broad enough. I'm boxed in and have a single narrow skillset compared to my cohort.
@@ -28,6 +34,18 @@ Second, let's name the G3 non-overlapping allocations excluding the hard-to-esti
 
 If I put in more than 3 items, then I tend to spend too much time fine-tuning the estimates but these estimates are not so useful in hind sight.
 
+== new ## tips on tag/cat naming
+If a word ends in gg/tt/pp etc followed by -ing, we should drop the "-ing". For example, blogg, tagg
+-- category naming only
+Categories are hierarchical. Some info can be inferred from the parent category and can be omitted.
+
+Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
+
+To "control" sorting, hot categories need two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
+
+If a category need to sort to top but lacks a good alternative name, then prefix 0, temporarily.
+If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
+==
 -- new: [21] chat with Alina #
 The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the END.
 Those achievements are part of personal "success" only in the exclub sense.
