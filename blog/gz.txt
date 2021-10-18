@@ -62,6 +62,11 @@ In terms of dnlg, I identified 3 types [lingo^math^arch]. These 3 types demand s
 --(new or ) update blogpost on IV_skill ^ GTD
 https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
 
+Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to hire a decent tech lead or app owner".
+
+I felt slightly ashamed. However, now I'm kinda mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
+
+The risks to old-timer is easily underestimated. Their job security is tenuous.
 Sometimes we get into a new job and find a nasty manager (Yang to Roland), or long hours (PWM), or hard, uninspiring technology stack (Qz).
 
 Some 10% just quit decisively within 6M, like Henry Fu. This route requires the key skill of IV.
@@ -69,12 +74,6 @@ Some 10% just quit decisively within 6M, like Henry Fu. This route requires the 
 The rest of us try to get used to the new job. Sometimes this proves to be patient, steady and effective.
 
 Some 10%+ suffer in pain, like Sudhir (based on my limited knowledge) and my OC job.
-
-Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to hire a decent tech lead or app owner".
-
-I felt slightly ashamed. However, now I'm kinda mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
-
-The risks to old-timer is easily underestimated. Their job security is tenuous.
 
 -- where can I use this term?
 tenuous(fragile) job security
