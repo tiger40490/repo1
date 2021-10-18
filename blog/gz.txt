@@ -70,15 +70,14 @@ The rest of us try to get used to the new job. Sometimes this proves to be patie
 
 Some 10%+ suffer in pain, like Sudhir (based on my limited knowledge) and my OC job.
 
--- where can I used this term?
-tenuous(fragile) job security
-
--- new or update (which one?)
-Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to find a tech lead or app owner".
+Shi.Cheng hinted that interview prep is not his long-term mission. I think he wants to build zbs and grow on the tech ladder or the mgr ladder. German also said "it's hard to hire a decent tech lead or app owner".
 
 I felt slightly ashamed. However, now I'm kinda mellowing up. Lead role comes with higher responsibility, higher stress, higher risk. Look at YW.Chen among others. The financial reward is not worth much. 
 
 The risks to old-timer is easily underestimated. Their job security is tenuous.
+
+-- where can I use this term?
+tenuous(fragile) job security
 
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
 NoSql is bigData, not DS/ML. 
@@ -88,7 +87,7 @@ ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some governments are better than employers. 
 
-However, In terms of financial support, government handout is tiny compared to employers'.
+Jolt: However, In terms of financial support, government handout is tiny compared to employers' severance package.
 
 -- fuxi: With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors 
 Evidence for "veteran"? Not GTD, not even zbs, but mostly the interview-visible expertise. 
