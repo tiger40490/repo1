@@ -20,12 +20,6 @@ what's in common between:
 
 All of these are pleasurable and common well-accepted recreations. All entail huge cumulative tcost. 
 
--- new or update post on blog titles
-I like titles with a power phrase or a sharp(ideally short) question. 
-These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
-
-These titles are one solution to the proliferation of blog posts.
-
 -- new (or update): young techie's worries
 My income is not rising as much as my cohort
 My skillset is not broad enough. I'm boxed in and have a single narrow skillset compared to my cohort.
@@ -55,6 +49,12 @@ Second, let's name the G3 non-overlapping allocations excluding the hard-to-esti
 * 40% other blogging
 
 If I put in more than 3 items, then I tend to spend too much time fine-tuning the estimates but these estimates are not so useful in hind sight.
+
+-- new or update post on blog titles
+I like titles with a power phrase or a sharp(ideally short) question. 
+These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
+
+These titles are one solution to the proliferation of blog posts.
 
 == new ## tips on tag/cat naming
 If a word ends in gg/tt/pp etc followed by -ing, we should drop the "-ing". For example, blogg, tagg
