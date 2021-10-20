@@ -33,17 +33,6 @@ Consider JackZ and Raymond's situations. At my age and (my economic) level, what
 ? academic parenting? No. I prioritize motivation, bonding, coaching 
 ? prepare for relocation to U.S. including car ownership, burn rate control
 
--- update post on Zeng/Daryl or new: G4 %allocate spare time
-See also blogpost on Luke Su and spare time accounting
-First let me present my pratical (hopefully valuable) quantification of spare time: excluding required work time (+commute), essential family-support time (+repairs), bio-time (sleep, nutrition/preparation)
-Second, let's name the G3 non-overlapping allocations excluding the hard-to-estimate unused time. Note Blogging is a "mixin" element.
-* 20% pff. Am reducing it from 40%
-* 20% parenting including seeking help. Am increasing it from 5%
-* 20% workout + wellness research; tech xx including localSys + body-building
-* 40% other blogging
-
-If I put in more than 3 items, then I tend to spend too much time fine-tuning the estimates but these estimates are not so useful in hind sight.
-
 -- new or update post on blog titles
 I like titles with a power phrase or a sharp(ideally short) question. 
 These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
@@ -61,19 +50,6 @@ To "control" sorting, hot categories need two alternative names. For example, an
 
 If a category need to sort to top but lacks a good alternative name, then prefix 0, temporarily.
 If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
-==
--- new: [21] chat with Alina #
-The CTO is a workholic, working 10am - 1am. I see wrong priorities in that, esp. viewed at the deathbed. The company, the profit, is not an achievement considered worthwhile in the END.
-Those achievements are part of personal "success" only in the exclub sense.
-
-I told Alina my priorities have shifted to wellness [longevity, 5/wk] as I need more money only half-heartedly. I think this is similar to MMM attitude.
-
-How much is "enough money"? Remember the latency discussion, and other blogposts.
-
-Alina shared her experience about renting, and said she really wanted home ownership. I find this sentiment rather deep-rooted. Those young professionals in top China cities seem to be trapped. Residential properties are pushed (by hot money) beyond their reach. Many people probably want to avoid this "game" but they also feel renting is not sustainable not satisfactory.
-I feel U.S. culture is different. Many smart Americans (including some middle-class Americans) stay renting long-term by choice.
-
-Taking a step back, I guess my /drive/ towards ctbz/economizing, breakaway, conserver/minimalistic lifestyle, focus on livelihood(not FOFO),,, is hard for many in Alina's cohort. I guess that's why my level of carefree Fuller wealth is possibly beyond their reach(望尘莫及).
 
 -- new: desparate: healthy lifestyle
 Kenneth.Lew is the first to mention "desperate" in the RTS gym.
@@ -87,41 +63,6 @@ workout 5 days a week is the recommendation, but 90% of adults can't find the ab
 Daily flossing is recommended but I won't do it until my teeth give me big big problems.
 
 Frequent refresh is important to my son's academic studies, but he doesn't recognize it.
-
--- update post on college ranking
-Within the U.S. the most important ranking is the U.S.News. I think it gives an idea of the acceptance rate of each college
-
-Academic reputation of a college is correlated to the size. A large, less exclusive college can produce many award winners and renowned experts. Example:
-Berkeley?
-Connell?
-UCLA?
-U London
-
--- update https://btv-open.dreamhosters.com/2020/04/03/quietly-overtaking-peers-over10y/
-.. random items of stealth overtake
-beautiful kids
-5 workouts a week
-no belly fat
-satisfactory intimacy
-
-.. some of the obvious, or the familiar
-UChicago .. insider advantage
-dev-till70
-U.S. and SG "dual homes"
-
--- update tuxedo post or new: young techie's worries
-othRisk
-
-My income is not rising as much as my cohort
-My skillset is not broad enough. I'm boxed in and have a single narrow skillset compared to my cohort.
-not learning enough, not competent enough
-short runway .. by age 30 I am expected to be competent, independent, possibly a team lead
-too many choices
-long struggle ahead, over 40Y
-"Is this domain right for me? Will I regret?"
-peer pressure on all fronts
-
-See also tuxedo post
 
 -- new: chin-up
 A realistic goal would be one a day, but such a goal doens't generate positive feedback. 
