@@ -28,14 +28,14 @@ what's in common between:
 All of these are pleasurable, leisurely, and common well-accepted recreations. 
 All entail huge cumulative tcost, luxuries in terms of tcost.
 
--- update post on Fenix
+-- slow-cooking update post on Fenix CTO
 Consider JackZ and Raymond's situations. At my age and (my economic) level, what endeavors (spaceshuttle name) are really strategic?
 1) wellness lifestyle improvements like yoga, sustainable diet habits, BMI
 2) dev-till-70 accu, plowback,,, including QQ and CIV
 ? academic parenting? No. I prioritize motivation, bonding, coaching 
 ? prepare for relocation to U.S. including car ownership, burn rate control
 
---new: % allocate spare time
+-- update post on Zeng/Daryl or new: G4 %allocate spare time
 See also blogpost on Luke Su and spare time accounting
 First let me present my pratical (hopefully valuable) quantification of spare time: excluding required work time (+commute), essential family-support time (+repairs), bio-time (sleep, nutrition/preparation)
 Second, let's name the G3 non-overlapping allocations excluding the hard-to-estimate unused time. Note Blogging is a "mixin" element.
@@ -112,6 +112,8 @@ dev-till70
 U.S. and SG "dual homes"
 
 -- update tuxedo post or new: young techie's worries
+othRisk
+
 My income is not rising as much as my cohort
 My skillset is not broad enough. I'm boxed in and have a single narrow skillset compared to my cohort.
 not learning enough, not competent enough
@@ -138,4 +140,4 @@ I guess my target for chin-up is too high. I typically aim at 10 chin-up or 40 p
 I think the start-up is harder for chin-up. 5 chin-up = 20 push-up.
 
 -- new: scanner features
-Grayscale .. between color ad b/w. Bigger files than b/w.
+Grayscale .. between color and b/w. Bigger files than b/w.
