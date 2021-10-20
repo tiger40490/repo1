@@ -1,3 +1,15 @@
+-- a few ways of linking content in my blog
+* a big blogpost with multiple sections referring to each other, often with memorable alias posts pointing to it
+
+* categories and tags .. proliferation breeds confusion, artificial complexities..
+
+* links of various forms
+** opaque URL
+** "see also the blogpost on xxx"
+** underlined phrase
+
+When I feel the need for two-way linking, I often merge the posts into one big post.
+
 -- fuxi
 taking note of a memorable conversation: I tend to confuse two modes
 
