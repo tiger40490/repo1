@@ -1,5 +1,5 @@
 -- a few ways of linking content in my blog
-* a big blogpost with multiple sections referring to each other, often with memorable alias posts pointing to it
+* a big blogpost with multiple sections cross-referencing. There are often memorable alias posts pointing to such a big blogpost.
 
 * categories and tags .. proliferation breeds confusion, artificial complexities..
 
