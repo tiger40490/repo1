@@ -15,16 +15,15 @@ When I feel the need for two-way linking, I often merge the posts into one big p
 * a big blogpost with multiple sections cross-referencing. I think it's OK to have two separate big sections, possibly overlapping. No need to consolidate.
 ** There are often memorable alias posts pointing to such a big blogpost.
 
--- fuxi
-taking note of a memorable conversation: I tend to confuse two modes
-
-* journalist taking notes for potential publication use. This mode often provides active recreation, and keeps my vocab and my mind active, even improving.
-* taking personal notes for my own review
-
 --fuxi: excessive blogg@@
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace, parenting, localSys
 
 A related consequence -- as I reduce online blogg, I get a growing backlog in git-blog.
+
+taking note of a memorable conversation: I tend to confuse two modes
+
+* journalist taking notes for potential publication use. This mode often provides active recreation, and keeps my vocab and my mind active, even improving.
+* taking personal notes for my own review
 
 -- fuxi: need an abbreviation for the wpress admin listing page.
 WPPP [wordpress posts page]
