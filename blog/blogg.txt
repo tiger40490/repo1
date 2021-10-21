@@ -1,5 +1,7 @@
--- a few ways of linking content in my blog
-* a big blogpost with multiple sections cross-referencing. There are often memorable alias posts pointing to such a big blogpost.
+-- new: ##ways@link`blogposts
+Linking is essential in web content. 
+
+Linking in my blog is high value and high tcost. We need to keep improving on the process. There are currently 3 ways to link 2 "related" blogposts.
 
 * categories and tags .. proliferation breeds confusion, artificial complexities..
 
@@ -9,6 +11,9 @@
 ** underlined phrase
 
 When I feel the need for two-way linking, I often merge the posts into one big post.
+I think it's OK to have two separate big sections, possibly overlapping. No need to consolidate.
+
+* a big blogpost with multiple sections cross-referencing. There are often memorable alias posts pointing to such a big blogpost.
 
 -- fuxi
 taking note of a memorable conversation: I tend to confuse two modes
