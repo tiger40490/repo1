@@ -1,3 +1,5 @@
+-- update 
+2-printer set-up proved to be surprisingly effective and worthwhile, even though it entails lots of shelf space, wiring, power socket..
 
 -- new: Cigna counsellor #I-statement
 I told boy to analyze past mistakes. The analysis is not fun. It takes lots of absorbency. 
@@ -20,22 +22,17 @@ A: plenty of quiet time and personal space. Wife needs it too. Perhaps I can fre
 A: blogging on many topics
 A: I feel the hunger for more meaningful conversations, with a real listener
 
-Q: hypothetically, what would it look like if father-son relationship had improved sufficiently?
+Q: hypothetically, what would it be like if father-son relationship had improved sufficiently?
 A: more outing trips [shopping, workout,,,]
 A: more chats, like the general knowledge chats
 A: If I want more physical touch but he doesn't like it, then I want him to explain it in more words. So I can learn and adjust my gestures.
 
 --new: Shaw cheaper tickets
 OC debit card $1 off.
-Mon-Fri $9 is regular price, iFF not "new release"
+Mon-Thu $9 is regular price, iFF not "new release"
 Net price can be $8, but there are exceptions, so better be prepared for higher price
 
-https://dollarsandsense.sg/singaore-movie-ticket-price-guide/
-
-Some titles are Shaw exclusive.
-
---fuxi
-If a picture is too large when added to gmail, it would mess up gmail display.
+https://shawsg.freshdesk.com/support/solutions/articles/28000016189-what-are-the-current-ticket-prices-
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
