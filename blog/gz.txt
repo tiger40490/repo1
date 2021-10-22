@@ -1,3 +1,11 @@
+-- update blogpost on NBA
+doctors, programmers, ... are among the few professions with excellent depth@mkt.
+Once you are qualified, there are many "ordinary" jobs that pay much higher than the median salary.
+
+Doctors enjoy career longevity; programmers enjoy international mobility.
+
+NBA, performance artists .. lack d@m
+
 -- new 
 In U.S. and increasing in SG, the traditional doctor/architect professions are now comparable to SWE profession.
 However, a key difference is accu [including tech churn]. 
