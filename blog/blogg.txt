@@ -1,3 +1,10 @@
+-- fuxi: recent topics of blogging by tcost
+
+parenting
+pff
+career
+wellness
+
 -- new: ##ways@link`blogposts
 Linking is essential in web content. 
 
