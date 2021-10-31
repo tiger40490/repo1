@@ -1,3 +1,17 @@
+--new
+Today I put in many hours 
+* to add visualization
+* to add more tests
+
+Why did I? What's the motivation, j4 and ROTI? I asked the same question about MSFM, C#, Swing, quant self-study, python... I still don't have a good framework. 
+
+Key observation -- time won't stand still. It keeps flowing at a constant rate. Time can't be warehoused. If I don't spend my time on this coding practice, I would easily "waste" it on one of the energy sinks.
+
+This coding drill has multiple benefits in hindsight
+•the visualization helps me engage Deepak, Josh Lim, even my son. The "engagement" further enhances my * learning" .. various aspects
+•my visualization is now barely usable for the "engagement", but if it is unusable, then my effort would still be a worthwhile effort. It reminds me of my pre-sales effort, my self-employment days... 
+•I had a blogpost about  weekends otherwise wasted: G3 ROI@UChicago. Even if the code doesn't work, this is still zqbx. Without this zqbx, my ezlife feels decadent, wasteful and an incomplete success. 
+
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=42469&action=edit
 In 2002 I spent 6 months working as a presales consultant in the system integration team of SG Comp Systems.
 Now I recognize it as the worst mismatch in my career.
