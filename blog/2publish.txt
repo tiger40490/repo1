@@ -1,3 +1,7 @@
+-- Sun workout
+stretch 5m
+chin-up 30+25x3
+jogging 400m
 -- rename blogpost from "hobbies" to "sinks"
 -- slow cooking update 4 def@success or new: quiet idle time
 Let's give shortcodes to the 4 definitions
