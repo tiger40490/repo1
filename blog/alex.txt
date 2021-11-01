@@ -1,0 +1,37 @@
+Hi Alex,
+
+You impressed me in our first encounter and impressed me again. A long and thoughtful reply, appreciated. I'm long-winded and techncial, so I have reduced the audience.
+
+1) correctness -- I consider my code 100% correct as far as I can see. All corner cases are tested as far as I can see. My Assumptions section mentiones input validations that I left out.
+
+2) coding to spec -- I have already admitted my mistake to forget filename handling. That's the only attention-to-detail issue I know.
+
+As to extraneous output, no code clean-up needed. Just follow readme and run ./a.out 1>/dev/null. 
+
+3) design and readability depends on complexity. A solution written against lower complexity will have a cleaner design and better readability than my solution. So why is my program more complex?
+
+My algorithm (described in readme and move1step()) is simple. It may not be efficient, but it is simple and correct (correct as I see it). Complexity lies in the scenarios and mirror hit-count logic. If you look at the list of Scenarios in readme, you probably see why my program is more complex than some accepted solutions out there. 
+
+dumper.h is a template-based generic container dumper. Admittedly, it is complex and overkill for this small project. However, your team don't really need to dig into this code to understand my logic.
+
+Another complexity lies in header hierarchy and header circular dependency. In my design, 1)dumper.h 2)util.h 3)Grid.h 4)Photon.h form four layers, where higher layer depends on lower layer but never the other way round. To avoid circular dependency, I had to structure code in unnatrual ways. If you want cleaner code, you can use forward-declaration or you can make two headers include each other. That's code smell, but a casual reader won't notice. I feel that given the amount of time you allocate to each candidate, your reviewers will be casual readers.
+
+If you look at my latest solution, it is even more complex, less understandable, due to ASCII visualization. 
+
+4) readability
+
+There's another readability issue -- I use custom data types to model the problem domain. So I have 
+* Coordinate_t for a coordinate value, 
+* RowId, ColId for the X-coordinate and Y-coordiate, 
+* Cell for cell in the grid
+* Photon for a snapshot of the ray
+
+These custom types are mostly typedefs of simple c++ types, so they can reduce readability, because until you spend enough time, you will be confused by these type names. In the long run, a FenixBox source code would benefit from custom types. It's a best practice I learned years ago. In c++ standard library, there are tonns of typedef.
+
+I suspect your developers are used to seeing constructors. Constructors can improve readability, but I used the quick-n-dirty uniform initialization.
+
+File parsing was quick-n-dirty, not a clean design. In the readme, I explaiend why.
+
+Another readability issue -- assertions are uncommon among c++ developers. So if your developers are unfamiliar with them, then assertions will only damage readability.
+
+I have been defensive so far. Well, my solution is not the cleanest, most readable. As I said, correctness is an overriding priority, so I allocated most of my effort on validating program logic. Given more time, my solution can become cleaner. 
