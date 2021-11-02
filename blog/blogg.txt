@@ -1,14 +1,13 @@
 -- fuxi: recent topics of blogging by tcost
-
 parenting
 pff
 career
 wellness
 
 -- new: ##ways@link`blogposts
-Linking is essential in web content. 
+Linking is essential in web publishing. 
 
-Linking in my blog is high value and high tcost. We need to keep improving on the process. There are currently 3 ways to link 2 "related" blogposts.
+Linking in my blog is high-value and high-tcost. We need to keep improving on the process. There are currently 3 ways to link 2 "related" blogposts.
 
 * categories and tags .. proliferation breeds confusion, artificial complexities..
 
@@ -31,9 +30,6 @@ taking note of a memorable conversation: I tend to confuse two modes
 
 * journalist taking notes for potential publication use. This mode often provides active recreation, and keeps my vocab and my mind active, even improving.
 * taking personal notes for my own review
-
--- fuxi: need an abbreviation for the wpress admin listing page.
-WPPP [wordpress posts page]
 
 -- fuxi: tag names ending in __
 When browsing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3_@"

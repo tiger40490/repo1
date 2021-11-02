@@ -1,4 +1,5 @@
--- rename blogpost from "hobbies" to "sinks"
+-- ear hook on $820 Zeiss:
+add rubberband
 -- slow cooking update 4 def@success or new: quiet idle time
 Let's give shortcodes to the 4 definitions
 successE: ezlife...
@@ -32,23 +33,27 @@ Consider JackZ and Raymond's situations. At my age and (my economic) level, what
 ? academic parenting? No. I prioritize motivation, bonding, coaching 
 ? prepare for relocation to U.S. including car ownership, burn rate control
 
-Jiang.Zhu is an unknown CTO/LeadEngineer figure that I last met in 1991. Both him and the Fenix CTO are mostly unknown personalities, so my mental picture of them are imagined and fabricated content fitted onto a half-skeleton i.e. a handful of bones
+Jiang.Zhu is an unknown LeadEngineer figure that I last met in 1991. Both him and the Fenix CTO are largely unknown personalities, so my mental picture of them are imagined and fabricated content fitted onto a half-skeleton.
+I guess for both of them, there is still a lot of untapped potential, a lot of drive, ambition. Compared to them, I probably look lazy. 
+Well, at my age whenever I look out towards the deathbed I feel those "things" are unimportant.
 
-I guess for both of them, there is still a lot of untapped potential, a lot of drive, ambition. Compared to them, I probably look lazy. Well, at my age I look out towards the deathbed and I feel those "things" are unimportant.
+Similarly to my "laziness", my son may look lazy. In contrast at age 13 I was more motivated, more ambitious than him. 
 
-Similarly, my son may look lazy. In contrast at age 13 I was more motivated, more ambitious than him.
-
+-- rename some blogpost from "hobbies" to "sinks"
 -- new or update post on blog titles
 I like titles with a power phrase or a sharp(ideally short) question. 
 These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
 
-These titles are one solution to the proliferation of blog posts.
+These titles are one solution to the proliferation of forgettable blog posts.
+
+-- new: abbreviation for the wpress admin post listing
+WAPP [wordpress admin posts page]
 
 == new ## tips on tag/cat naming
 -- category naming only
 Categories are hierarchical. Some info can be inferred from the parent category and can be omitted.
 
-Category sorting matters, esp. in the listing page, when I pick a category from the dropdown to display.
+Category sorting matters, esp. in the WAPP, when I pick a category from the dropdown to display.
 
 To "control" sorting, hot categories need two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
 
