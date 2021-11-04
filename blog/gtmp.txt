@@ -1,18 +1,16 @@
 -- topics to discuss with XA.S
 job opening in my team. Company internal referral fee is private, but I can offer to pay you $1k.
 learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc
-implicit age discrimination in tech interviews
-%%Q: what's your coding interview experience
-%%Q: what do you say about continuous coding drill
+%%Q (minor): implicit age discrimination in tech interviews
+%%Q: what's your coding interview experience. If really he has time, can share the Fennix experience
+%%Q (minor): what do you say about continuous coding drill
 %%Q: screen time control?
-%%Q (minor): how is online affiliate marketing as a recreation esp. when I grow old
+%%Q: how is online affiliate marketing as a recreation esp. when I grow old
 %%Q (minor): outsourcing in SG tech .. still your concern? web2.0 is bucking the trend
 (minor): NTUC membership
 
-avoid: covid topic .. carefully divert
-avoid: family outing 
+avoid: covid .. carefully divert
 Avoid: pff topics since I don't need any advice .. 
-
 --new: Shaw cheaper tickets
 OC debit card $1 off.
 Mon-Thu $9 is regular price, iFF not "new release"
