@@ -2,11 +2,11 @@ Draft 2
 ----
 Hi Alex,
 
-You impressed me in our first encounter and impressed me again. A long and thoughtful reply, appreciated. I'm long-winded and technical, so I have reduced the audience.
+You impressed me in our first encounter and impressed me again. A detailed and thoughtful reply, appreciated. I'm too long-winded and technical, so I will narrow down the recipient list.
 
 1) correctness -- I consider my code 100% correct. All corner cases are tested as far as I can see. My Assumptions section mentions input validations that I left out.
 
-2) coding to spec -- I have already admitted my mistake to forget filename handling. That's the only attention-to-detail issue I see.
+2) coding to spec -- I already admitted my mistake to forget filename handling. That's the only attention-to-detail issue I see.
 
 As to extraneous output, no code clean-up is needed. Just follow readme and run ./a.out 1>/dev/null.
 
@@ -35,9 +35,9 @@ In my case, your developers didn't bother to read the readme, didn't run the sol
 If your developers follow the readme
 * they would see some correct output
 * they would see clues to the algorithm + all scenarios
-* they would start to understand the debug output
-* they would start to understand the design
-* they would give a more in-depth evaluation of code quality and design.
+* they could start to understand the debug output
+* they could start to understand the design
+* they could give a more in-depth evaluation of code quality and design.
 
 3b) other readability issues:
 
@@ -61,6 +61,6 @@ My input parsing was quick-n-dirty, not a clean design. In the readme, I explain
 
 Based on second-guessing, I hope to have addressed all the complaints on design and code quality. I'm a deliberate developer. My boss once said, "Every line you wrote, you had a reason, huh?" That's why I probably won't change my design/style without someone explaining why. I don't want to second-guess "Maybe Fenix wants more constructors or fewer assertions".
 
-So far, I have been defensive. Okay, my solution is not the cleanest, most readable, not even close. As I reiterated, correctness is THE overriding priority for me, so I allocated most of my effort to validating program logic.
+Some may say I'm defensive. Okay, my solution is not the cleanest, most readable. As I reiterated, correctness is THE overriding priority for me, so I allocated most of my effort to that.
 
 I appreciate your gesture. I will consider whether to re-submit.

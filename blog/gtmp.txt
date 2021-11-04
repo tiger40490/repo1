@@ -1,16 +1,30 @@
 -- topics to discuss with XA.S
-job opening in my team. Company internal referral fee is private, but I can offer to pay you $1k.
-learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc
-%%Q (minor): implicit age discrimination in tech interviews
-%%Q: what's your coding interview experience. If really he has time, can share the Fennix experience
-%%Q (minor): what do you say about continuous coding drill
-%%Q: screen time control?
-%%Q: how is online affiliate marketing as a recreation esp. when I grow old
-%%Q (minor): outsourcing in SG tech .. still your concern? web2.0 is bucking the trend
-(minor): NTUC membership
+me: In the U.S. I was told that many people go back to college in their 30s, when they decide what they want to study. I feel that's more natural for many individuals.
+XA feels it's not easy in SG. If a guy doesn't attend college, he is likely to marry early. After marriage, he would get a flat and take on a loan. (Many would take a car loan.) The loan create a financial burden that rules out full-time study in his 30s.
 
-avoid: covid .. carefully divert
-Avoid: pff topics since I don't need any advice .. 
+XA moved into people mgmt in recent months. The team is like post-sales professional service, including Oracle and Mysql DBA. Relaxed job? No. Too many expectations including revenue 
+
+me: learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc
+XA took some Coursera certificates on some AI topics. XA thinks javascript frameworks market value is usually rather low.
+
+XA feels some niche tech skills can be in demand for decades such as cobol. Young developers won't be interested or get the experience.
+
+%%Q: what's your coding interview experience. 
+A: only once a few years ago. XA has moved out of dev roles. He was a tuning expert for Weblogic, JVM etc.
+
+%%Q (minor): what do you say about continuous coding drill
+A: yes needed. On-the-job practice is too light too easy.
+
+%%Q: screen time control?
+A: be more lenient. Screen restriction could lead to mental breakdown.
+
+%%Q: how is online affiliate marketing as a recreation esp. when I grow old
+A: yes can reduce loneliness. Online shopping is growing indeed.
+
+%%Q (minor): outsourcing in SG tech .. still your concern? web2.0 is bucking the trend
+A: finance sector is more niche. SG is an outsourcing destination for American banks.
+A: Pandemic has reduced the oursourcing concern among Singaporeans.
+
 --new: Shaw cheaper tickets
 OC debit card $1 off.
 Mon-Thu $9 is regular price, iFF not "new release"
