@@ -2,7 +2,12 @@
 me: In the U.S. I was told that many people get a bachelor's degree in their 30s, when they have figured out what they want to study. I feel that's more natural for many individuals.
 XA feels it's not easy in SG. If a guy doesn't attend university, he is likely to marry early. After marriage, as a citizen could get a flat and take on a loan within a few years. (Many would take a car loan, too.) The loan create a financial burden that rules out full-time study in his 30s. XA likened it to enslavement. I think it's something of a trap. 
 
-XA moved into people mgmt in recent months. The team is like post-sales professional service, including Oracle and Mysql DBA. Relaxed job? No. Too many expectations including revenue 
+in recent months (or years), after a decade as a tech guy, XA moved into "people mgmt" (his own words). The team is like post-sales professional consulting, including Oracle DB and Mysql DB. 
+Relaxed job? Not at all. XA considers himself not a people-person, but in a people-mgmt role. I said many managers were not people-persons but could hold their jobs for years. XA said Oracle is more demanding (not his words). Too many expectations including revenue -- his team need to go on sales meetings.
+
+This "expectation" remindes me of my Macq role expectation and the GS culture. I think Jenny of MS also said something similar.
+
+So my career has plateaued in salary, energy, responsibilities. 
 
 me: learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc
 XA took some Coursera certificates on some AI topics. XA thinks javascript frameworks market value is usually rather low except in the top employers where all tech skills are paid very high. I think XA is sharp. Javascript/Kotlin/golang has poor market depth compared to coreJava.
