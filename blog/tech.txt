@@ -1,3 +1,8 @@
+-- update kwargs
+q[ *mylist ] reads like 'flatten mylist'
+
+This expression can be RHS or LHS
+
 -- new: deepcopy
 copy.deepcopy() is never quizzed, but is a key ECT feature in CIV. It's fairly easy to use, and seldom requires any tweaking/troubleshooting.
 
