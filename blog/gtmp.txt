@@ -9,7 +9,7 @@ This "expectation" remindes me of my Macq role expectation and the GS culture. I
 
 So my career has plateaued in salary, responsibilities, energy [stress],, In contrast, my peers have (almost) plateaued in salary only. I feel luckier.
 
-me: learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc
+me: learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc. Maintenance of c++ critical mass requires dedication and takes up bandwidth.
 XA took some Coursera certificates on some AI topics. XA thinks javascript frameworks market value is usually rather low except in the top employers where all tech skills are paid very high. I think XA is sharp. Javascript/Kotlin/golang has poor market depth compared to coreJava.
 
 XA feels some niche tech skills can enjoy robust demand for decades. Examples include cobol and sockets. Young developers won't be interested or won't get the experience.

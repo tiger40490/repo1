@@ -1,45 +1,44 @@
-Draft 2
-----
 Hi Alex,
 
-You impressed me in our first encounter and impressed me again. A detailed and thoughtful reply, appreciated. I never expected such a honest and insightful email dialog after code submission. Some would say this should happen before code submission. Another submitter in my shoes would not get a chance to challenge the feedback. Most rejected candidates never know what went wrong.
+I appreciate such a detailed and thoughtful reply, appreciated. I never expected such an honest and insightful email dialog after code submission. 
 
-I'm too long-winded and technical, so I will narrow down the recipient list.
+This mail is too long-winded and too technical, so I will reduce the audience.
 
-1) correctness -- I consider my code 100% correct so far. All corner cases are tested as far as I can see. My Assumptions section mentions input validations that I left out.
+1) correctness -- instead of only "basic test cases", I consider my code 100% correct so far. I walked through my visual output with multiple friends who challenged me at various points. They didn't find any untested corner case. My Assumptions section mentions input validations that I left out. 
 
-2) coding to spec -- I already admitted my mistake to forget filename handling. That's the only attention-to-detail issue I see. Thanks for clarifying your criteria.
+2) coding to spec -- I admit my mistake of forgetting filename handling. That's the only attention-to-detail issue I see. Thanks for clarifying your criteria.
 
-As to extraneous output, no code clean-up is needed. Just follow readme and run ./a.out 1>/dev/null.
+As to extraneous output, no clean-up is needed. Just follow readme and run ./a.out 1>/dev/null.
 
 3) complexity -- design and readability depend on complexity.
 
-A solution written against lower complexity will enjoy readability + cleaner design. So why is my solution more complex? My algorithm, described in readme and move1step(), is simple. Its complexity lies in the scenarios (described in readme) and mirror hit-count logic. My algorithm is step by step, as shown in move1step(). I *think* it's simple but in reality, it could be more complex than alternative algorithms. Nevertheless, I am proud of my step-by-step algorithm. It enabled the visual output I sent on 1 Nov. Admittedly, my code logic is hard to follow. I believe there is a simpler design but I don't know if that design covers all my scenarios.
+A solution written against lower complexity will enjoy readability + cleaner design. Why is my solution more complex? Here's my view. My algorithm, described in readme and move1step(), is simple. Its complexities lie in the scenarios (described in readme) and mirror hit-count logic. My algorithm is step by step, as shown in move1step(). I *think* it's simple but in reality, it could be more complex than alternative algorithms. Nevertheless, I am proud of my step-by-step algorithm. It enabled the visual output I sent on 1 Nov. Admittedly, my code logic is hard to follow. I believe there is a simpler design but I don't know if that design covers all my scenarios.
 
-Another complexity lies in header hierarchy and header circular dependency. In my design, 1)dumper.h 2)util.h 3)Grid.h 4)Photon.h form four layers. Higher layer depends on lower layer, never vice versa. To avoid circular dependency, I had to bend over backward and structure things in unnatural ways. If you want more structured code, you can be lazy and use forward-declaration or you can make two headers include each other. That's a code smell, but unnoticeable by casual readers.
+Another complexity lies in header hierarchy and header circular dependency. In my design, 1)dumper.h 2)util.h 3)Grid.h 4)Photon.h form four layers. The higher layer depends on the lower layer, never vice versa. To avoid circular dependency, I had to bend over backward and structure things in unnatural ways. If we want more structured code, we can be lazy and use forward-declaration or we can make two headers include each other. That's a code smell, but unnoticeable by casual readers.
 
-Another complexity -- dumper.h is a reusable template-based generic container dumper. I wrote it in 2020. Admittedly, it is complex and overkill for this small project. But put yourself in my shoes. If you have a reusable, generic and complex utility, would you avoid it for fear of alienating code reviewers?
+Another complexity -- dumper.h is a reusable template-based generic container dumper. I wrote it in 2020. Admittedly, it is complex and overkill for this small project. But put yourself in my shoes. If you have a reusable, generic, and complex utility, would you avoid it for fear of alienating code reviewers?
 
-My current version (as of today) is even more complex, less understandable, due to ASCII visualization. Once again, it demonstrates that ambitious, advanced design goals lead to "overcomplicated" designs. Since your developers don't know my design goals, they consider the design overcomplicated. Admitted.
+My current version (as of today) is even more complex, less understandable, due to ASCII visualization. Once again, it demonstrates that ambitious, advanced design goals lead to "over-complicated" designs. Since your developers don't know my design goals, they consider the design overcomplicated. Admitted.
 
 Question 1: if we ask a professional developer to evaluate a source code similar in design and style to std::vector, what would the guy say?
-My Answer: he may say "overcomplicated, hard to understand, too many typedefs, why use weird iterators everywhere, why is this or that construct needed in a small thing like a vector...."
+My Answer: he may say "overcomplicated, hard to understand, too many typedefs, why weird iterators everywhere, why is this or that construct needed in a simple container like a vector...."
 
-The guy says these things because he is not used to the style. STL was designed for efficiency, flexibility, versatility, using new techniques for generic templates. These priorities are very different from commonplace priorities like simplicity and readability.  STL's code style was unconventional and therefore difficult for many of us. I consider that a drawback. In the same vein, my solution was written for a slightly more complex problem, so it became "overcomplicated" by some standards. Admitted.
+Well, the STL vector was written against higher complexity. This guy is not used to the style. STL was designed for efficiency, flexibility, versatility, using new techniques for generic templates. These priorities are very different from commonplace priorities like simplicity and readability.  STL's code style was unconventional and therefore difficult for many of us. I consider that a drawback. In the same vein, my solution was written for a slightly more complex problem, so it became "over-complicated" by some standards. Admitted.
 
 Question 2: if we ask a professional developer to evaluate the codebase above, but the guy thinks the code is broken, what do you expect him to tell you about code quality and design?
-My answer: the guy would not bother to understand this difficulty code. He will say it is poorly structured, breaking common design principles. Well STL was unconventional in style indeed. It took a few years for the style to be understood.
+My answer: the guy would not bother to understand this difficult code. He will say it is poorly structured, breaking common design principles. Well STL was unconventional in style indeed. It took a few years for the style to be understood.
 
 ( In contrast, if the guy knows the code works Correctly, he would study it more seriously and make out the design and the algorithm. )
 
-In my case, your developers presumably didn't read the readme, didn't run the solution as instructed, and didn't believe my solution was valid. Do you think they would bother to understand the design with its unique complexities? Those complexities may still be non-trivial to some, even if they follow readme and follow debug output. The debug output was there to help them trace the code, but because they didn't read the readme, the debug output failed my solution.
+In my case, the Fenix reviewers presumably didn't read the readme, didn't run the solution as instructed and didn't believe my solution was valid. Do you think they would try to decipher the design with its unconventional constructs? Those complexities may remain non-trivial even if they follow readme and follow debug output. The debug output was there to help code reviewers trace the code, but because they didn't read the readme, the debug output failed my solution.
 
-If your developers follow the readme
-* they would see some correct output
-* they would see clues to the algorithm + all scenarios
-* they could start to understand the debug output
+If Fenix reviewrs have more respect for the solution, then the design would be less difficult (similar to the case of STL):
+* following the readme, they would see some correct output. Hopefully, they see it as 100% correct, earning much-deserved respect.
+* if they uncomment all debug logging, they would see clues to the algorithm. 
+* by running all my builtin tests, and reading the readme, they would understand all scenarios
+* Once they are able to trace and follow the algorithm with all the creative constructs, for all the scenarios, then hopefully the pieces start to fall into place.
 * they could start to understand the design
-* they could give a more in-depth evaluation of code quality and design.
+* they could give a more in-depth evaluation of code quality
 
 3b) other readability issues:
 
@@ -51,9 +50,9 @@ Another readability issue -- I use custom data types and invent special nouns to
 * Photon for the advancing tip of a ray
 * ttl (time-to-live) of a mirror -- ttl is cleaner than a hit-counter, but I guess a casual reviewer will likely consider my "ttl" a readability issue. 
 
-Those custom types are mostly typedefs of simple c++ types, so they can _reduce_ readability. Until you spend enough time with these new nouns, they will confuse you rather than guide you. In the long run, I suppose a codebase would benefit from custom types. It's a best practice I learned years ago. In c++ standard library, there are tonnes of typedefs.
+Those custom types are mostly typedefs of simple c++ types, so they can _reduce_ readability. Until you spend enough time with these new nouns, they will confuse you rather than guide you. In the long run, I suppose a codebase would benefit from custom types. It's a best practice I learned years ago. In the c++ standard library, there are tonnes of typedefs.
 
-Another readability issue -- many code reviewers prefer to see only class declaration in headers. I follow the template coding style, where everything is in headers.
+Another readability issue -- many code reviewers prefer to see only class declarations in headers. I follow the template coding style, where everything is in headers.
 
 Another readability issue -- I suspect your developers are used to seeing constructors. Constructors can improve readability, but I used uniform initialization and default constructors.
 
@@ -61,7 +60,7 @@ Another readability issue -- assertions are uncommon among c++ developers. So if
 
 My input parsing was quick-n-dirty, not a clean design. In the readme, I explained why.
 
-Based on second-guessing, hopefully I have addressed all the complaints on design and code quality. I'm a deliberate developer. My boss once said, "Every line you wrote, you had a reason, huh?" That's why I probably won't change my design/style without someone explaining why it needs change. I don't want to second-guess "Maybe Fenix wants more constructors or fewer typedefs".
+Based on second-guessing, hopefully, I have addressed all the complaints on design and code quality. I'm a deliberate developer. My boss once said, "Every line you wrote, you had a reason, huh?" That's why I probably won't change my design/style without someone explaining why it needs change. I don't want to second-guess "Maybe Fenix wants more constructors or fewer typedefs".
 
 Some may say I'm defensive. Okay, my solution is not the cleanest, most readable. Correctness is THE overriding priority for me, so I allocated most of my effort to that.
 
