@@ -1,5 +1,4 @@
--- ear hook on $820 Zeiss:
-add rubberband
+
 -- slow cooking update 4 def@success or new: quiet idle time
 Let's give shortcodes to the 4 definitions
 successE: ezlife...
@@ -39,53 +38,5 @@ Well, at my age whenever I look out towards the deathbed I feel those "things" a
 
 Similarly to my "laziness", my son may look lazy. In contrast at age 13 I was more motivated, more ambitious than him. 
 
--- rename some blogpost from "hobbies" to "sinks"
--- new or update post on blog titles
-I like titles with a power phrase or a sharp(ideally short) question. 
-These blogposts follow the news journalist tradition, and tries to analyze the given topic from various angles.
-
-These titles are one solution to the proliferation of forgettable blog posts.
-
 -- new: abbreviation for the wpress admin post listing
 WAPP [wordpress admin posts page]
-
-== new ## tips on tag/cat naming
--- category naming only
-Categories are hierarchical. Some info can be inferred from the parent category and can be omitted.
-
-Category sorting matters, esp. in the WAPP, when I pick a category from the dropdown to display.
-
-To "control" sorting, hot categories need two alternative names. For example, an1kang1/wellness would sort to top, while wellness/an1kang1 would sort to bottom.
-
-If a category need to sort to top but lacks a good alternative name, then prefix 0, temporarily.
-If a category must sort to bottom but lacks a good alternative name, then prefix x_, permanently.
-
--- new: desparate: healthy lifestyle
-Kenneth.Lew is the first to mention "desperate" in the RTS gym.
-
-Daily stretch is supposed to be essential, but evidence is too weak to change people's behavior. 
-I wonder what convincing evidence would provide sufficient absorbency for daily 1m practice.
-I wonder what convincing evidence would provide sufficient absorbency for daily 30m practice.
-
-workout 5 days a week is the recommendation, but 90% of adults can't find the absorbency/time.
-
-Daily flossing is recommended but I won't do it until my teeth give me big big problems.
-
-Frequent refresh is important to my son's academic studies, but he doesn't recognize it.
-
--- new: chin-up
-A realistic goal would be one a day, but such a goal doens't generate positive feedback. 
-I remember my yoga goal was one minute a day. I managed to change my perception to feel good about it.
-
-For chin-up, I need the same change of perception.
-
-retraining chin-up (and stretch) is dreadful but not push-up or cardio
-
-My self-talk matters. My self-talk reflects my perception of reality. This perception affects my actions.
-
-I guess my target for chin-up is too high. I typically aim at 10 chin-up or 40 push-up in a session. 
-
-I think the start-up is harder for chin-up. 5 chin-up = 20 push-up.
-
--- new: scanner features
-Grayscale .. between color and b/w. Bigger files than b/w.
