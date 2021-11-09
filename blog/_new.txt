@@ -1,3 +1,6 @@
+-- prepare GEX 
+take leave 
+
 -- update AMB j4:
 see also hidden barrier
 

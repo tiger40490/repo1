@@ -1,3 +1,25 @@
+== new: PLIP [prulifetime income plus]
+prem financing .. 72k collaterized loan. int rate = SORA+0.6% (around 0.75 all in)
+0.6% is a fixed spread when you sign up. Subsequent customers could get a different spread.
+
+Better compare to Aaron Lee's proposal.
+
+Non-guaranteed 3.55% p.a. cash payout from Pru after 36M of wait. 
+Monthly payout :) till age 110
+
+surrender value starts at 80k (guaranteed) + 2k (non-guaranteed) and rises. 
+
+I may want to start earlier so as to finish the 36M earlier. Given the long wait, I want to hold forever. However, I doubt I can hold for 50Y because
+* SORA will go up within a few years
+* non-guaranteed payout is not fixed forever.
+
+-- four promotions
+* 0.6% spread and $300 sign-on bonus for the PLIP
+* $2k bonus paid out in May
+* 1% IR for 12M
+
+====
+
 -- new: boring stock
 To various commentators, a boring stock can fit any of these descriptions.
 
