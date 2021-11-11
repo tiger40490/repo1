@@ -4,4 +4,20 @@
 * suppport .. 24/7 chatbot
 * one-click WP install.
 
+-- widget config is generic
+theme config would overwrites widget config
+
+-- plugins:
+wordfence: security plugin
+elementor: post editor
+anti-spam: to prevent bot comments
+updraftPlus: for backup. Can rollback to an earlier snapshot2
+all-in-one WP migration
+
+Beware versin conflict between theme, plugins and wordpress software.
 -- new: gravatar.com to create an avatar
+-- new:
+"astra" theme (free) is recommended. 
+Quick customizing -- templates. There are 180 choices.
+
+-- privacy policy page is required if you want your site to be indexed.
