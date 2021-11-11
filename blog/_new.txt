@@ -1,0 +1,7 @@
+-- fuxi: hostgator is comparable to dreamhost in 
+* pricing, 
+* uptime .. usually "99%" 
+* suppport .. 24/7 chatbot
+* one-click WP install.
+
+-- new: gravatar.com to create an avatar
