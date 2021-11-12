@@ -1,11 +1,35 @@
--- update more/less
-more time with boy on math; less on new tech
-more time reading bccy; less research on existing stocks
-more time on wpress landing page; less on affliate
 
--- topics to discuss with XA.S
+-- new: astra theme and its templates
+"astra" theme (free) is recommended. 
+Quick customizing -- templates. There are 180 templates. However, templates are highly restrictive and can be complicated, hard to change.
+
+-- fuxi: 
+widget config is generic. theme config would overwrites widget config
+
+wpress site-health.. can't check plugin version conflict.
+
+ConvertKit.com free tool to create a landing page.
+
+When things don't work, need to learn to pick your battle, let go, or allocate enough time
+
+privacy policy page is required if you want your site to be indexed.
+
+vooju.com sells *.com.sg domain names 
+
+-- plugins:
+wordfence: security plugin
+elementor: post editor
+anti-spam: to prevent bot comments
+updraftPlus: for backup. Can rollback to an earlier snapshot2
+all-in-one WP migration
+
+always check the 1-star reviews
+
+Beware version conflict between theme, plugins and wordpress software.
+
+-- topics discussed with XA.S
 me: In the U.S. I was told that many people get a bachelor's degree in their 30s, when they have figured out what they want to study. I feel that's more natural for many individuals.
-XA feels it's not easy in SG. If a guy doesn't attend university, he is likely to marry early. After marriage, as a citizen could get a flat and take on a loan within a few years. (Many would take a car loan, too.) The loan create a financial burden that rules out full-time study in his 30s. XA likened it to enslavement. I think it's something of a trap. 
+XA feels it's not easy in SG. If a guy doesn't attend university, he is likely to marry early. After marriage, as a SG citizen he could get a flat and take on a loan within a few years. (Many would take a car loan, too.) The loan create a financial burden that rules out full-time study in his 30s. XA likened it to enslavement. I think it's something of a trap. 
 
 in recent months (or years), after a decade as a tech guy, XA moved into "people mgmt" (his own words). The team is like post-sales professional consulting, including Oracle DB and Mysql DB. 
 Relaxed job? Not at all. XA considers himself not a people-person, but in a people-mgmt role. I said many managers were not people-persons but could hold their jobs for years. XA said Oracle is more demanding (not his words). Too many expectations including revenue targets -- his team need to go on sales meetings.
