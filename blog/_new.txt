@@ -1,16 +1,4 @@
--- update post on AMB course j4
-The wpress course is heavy on page look-n-feel customization.
-I hate this aspect and would not make good progress without this help.
 
--- update https://btv-open.dreamhosters.com/vpswp-vendors/
-bluehost is well-regarded. hostgator is comparable to dreamhost in 
-* pricing, 
-* uptime .. usually "99%" 
-* suppport .. 24/7 chat
-* one-click WP install.
-
--- new: wpform is required if you want to build mailing list
-Can add it to my existing blogs.
 -- new: astra theme and its templates
 -- fuxi: 
 widget config is generic. theme config would overwrites widget config

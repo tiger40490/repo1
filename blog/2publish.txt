@@ -1,3 +1,27 @@
+== update post on AMB course j4
+need lots of sunshine (time and mental energy) and absorbency to overcome the initial learning curve. 
+I think this is similar to CSY's attitude on coding drill.
+It is also similar to my yoga practice. Now I share my yoga story with so many friends, as inspiration, even though I'm not highly successful.
+
+-- j4 wpress course
+The wpress course is heavy on page look-n-feel customization.
+I hate this aspect and would not make good progress without this course.
+I already spent real money on dhost. This is one way to leverage on that. I can set up multiple subdomains each for a landing page. My advantage over other newbies.
+I already spent huge effort learning wpress. this is one way to leverage on that.
+wpress has many books in library. Am good at learning from books.
+==
+-- new: wpform 
+a contact form is required if you want to build mailing list
+Can add it to my existing blogs.
+Need to remember the product, so I can name the forms like f185/f872 for prodA/prodB
+This design is my advantage, even though visual design is not.
+
+-- update https://btv-open.dreamhosters.com/vpswp-vendors/
+bluehost is well-regarded. hostgator is comparable to dreamhost in terms of
+* pricing, 
+* uptime .. usually "99%" 
+* suppport .. 24/7 chat+email
+* one-click WP install.
 
 -- slow cooking update 4 def@success or new: quiet idle time
 Let's give shortcodes to the 4 definitions
