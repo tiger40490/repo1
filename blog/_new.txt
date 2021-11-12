@@ -1,11 +1,12 @@
--- fuxi: hostgator is comparable to dreamhost in 
+-- fuxi: 
+
+hostgator is comparable to dreamhost in 
 * pricing, 
 * uptime .. usually "99%" 
-* suppport .. 24/7 chatbot
+* suppport .. 24/7 chat
 * one-click WP install.
 
--- widget config is generic
-theme config would overwrites widget config
+widget config is generic. theme config would overwrites widget config
 
 -- plugins:
 wordfence: security plugin
@@ -14,7 +15,7 @@ anti-spam: to prevent bot comments
 updraftPlus: for backup. Can rollback to an earlier snapshot2
 all-in-one WP migration
 
-Beware versin conflict between theme, plugins and wordpress software.
+Beware version conflict between theme, plugins and wordpress software.
 -- new: gravatar.com to create an avatar
 -- new:
 "astra" theme (free) is recommended. 
