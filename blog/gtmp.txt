@@ -1,7 +1,38 @@
+-- ask grandpa
+perhaps it would be more effective to develop some deep hobbies early in life, such as writing, playing music,,,
+However, your milage will vary.
+
+-- mail to boy
+Today we had several "accidents":
+
+* we lost a nut on the kite "harness"
+* I forgot to park a SG bike and incurred $5. 
+* I lost my dental retainer by negligence
+
+Among these accidents, the harness is the most forgivable. In fact I don't blame anyone. It's due to wear-n-tear. Every hardware design has a weak link that would be break before other components. We have used this harness many times so it has long exceeded my expectation.
+
+My dental retainer is about 2Y old, and it costs 3 digits. So I feel more pain.
+
+Both the retainer and the parking accidents are good lessons for me. God is teaching me lessons and they are not so simple. 
+
+Lesson: when we are out together and make many decisions, our attention will be a scarce resource. We lose focus on many small details. It's useful to slow down at times. 
+
+Today I was focused on the phones, my laptop (avoid damange), my pouch, my sweaty T-shirt, my calorie intake... I also focused on road safety, either on the bike or on my foot. So my attention was spread out. Luckily I didn't have any accidents about any of those.
+
+-- new or update:
+t_w4j4
+given my recent memory accidents, i really need to avoid carrying expensive items when going out such as
+* extra cash
+* expensive watch, ring
+* expensive phone or two phones
+* expensive glasses
+
+There will be more accidents going forward. I won't surrender passively, but I won't hold on too tight.
+I think grandma has many such memory accidents. Grandpa also has some. 
 
 -- new: astra theme and its templates
 "astra" theme (free) is recommended. 
-Quick customizing -- templates. There are 180 templates. However, templates are highly restrictive and can be complicated, hard to change.
+Quick customizing .. templates. There are 180 templates. However, templates are highly restrictive and can be complicated, hard to change.
 
 -- fuxi: 
 widget config is generic. theme config would overwrites widget config
