@@ -1,3 +1,10 @@
+-- new: return policies in U.S. store
+Many store owners have a fine-grained control over return policy.
+
+I remember ctown@Bayonne. I think the owner has a policy that any returned merchandize must be absolutely good enough for resale. If an icecream is opened but apparently untouched, then he needs to judge the customer's integrity. He once put my returned icecream back on the shelf, right in front of me, as a silent but /startk_reminder/ to me "Hey, if you are dishonest then another buyer will eat your leftovers."
+
+In contrast, many shops esp. big shops like Walmart accept returns without hesitation, but some returned items would be discarded. I think these shops have a bigger profit margin to absorb this kinda "marketing cost". The generous return i.e. try-buy is a marketing policy.
+
 == update post on AMB course j4
 need lots of sunshine (time and mental energy) and absorbency to overcome the initial learning curve. 
 I think this is similar to CSY's attitude on coding drill.
