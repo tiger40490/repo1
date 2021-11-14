@@ -2,50 +2,6 @@
 perhaps it would be more effective to develop some deep hobbies early in life, such as writing, playing music,,,
 However, your milage will vary.
 
--- new: memory accidents when going out
-t_w4j4
-given my recent memory accidents, i really need to avoid carrying expensive items when going out such as
-* extra cash
-* expensive watch, ring
-* expensive phone or two phones
-* expensive glasses
-
-There will be more accidents going forward. I won't surrender passively, but I won't hold on too tight.
-I think grandma has many such memory accidents. Grandpa also has some. 
-
--- topics discussed with XA.S
-me: In the U.S. I was told that many people get a bachelor's degree in their 30s, when they have figured out what they want to study. I feel that's more natural for many individuals.
-XA feels it's not easy in SG. If a guy doesn't attend university, he is likely to marry early. After marriage, as a SG citizen he could get a flat and take on a loan within a few years. (Many would take a car loan, too.) The loan create a financial burden that rules out full-time study in his 30s. XA likened it to enslavement. I think it's something of a trap. 
-
-in recent months (or years), after a decade as a tech guy, XA moved into "people mgmt" (his own words). The team is like post-sales professional consulting, including Oracle DB and Mysql DB. 
-Relaxed job? Not at all. XA considers himself not a people-person, but in a people-mgmt role. I said many managers were not people-persons but could hold their jobs for years. XA said Oracle is more demanding (not his words). Too many expectations including revenue targets -- his team need to go on sales meetings.
-
-This "expectation" remindes me of my Macq role expectation and the GS culture. I think Jenny of MS also said something similar about responsibilities and benchmarking.
-
-So my career has plateaued in salary, responsibilities, energy [stress],, In contrast, my peers have (almost) plateaued in salary only. I feel luckier.
-
-me: learning new tech, beyond java/c++ .. I have refused to take up new languages, or javascript etc. Maintenance of c++ critical mass requires dedication and takes up bandwidth.
-XA took some Coursera certificates on some AI topics. XA thinks javascript frameworks market value is usually rather low except in the top employers where all tech skills are paid very high. I think XA is sharp. Javascript/Kotlin/golang has poor market depth compared to coreJava.
-
-XA feels some niche tech skills can enjoy robust demand for decades. Examples include cobol and sockets. Young developers won't be interested or won't get the experience.
-
-%%Q: what's your coding interview experience. 
-A: only once several years ago. XA has moved out of dev roles. He was a tuning expert for Weblogic, JVM etc, less of a developer
-
-%%Q (minor): what do you say about continuous coding drill
-A: yes needed. On-the-job practice is too light too easy.
-
-%%Q: screen time control?
-A: be more lenient esp. after the exams. Screen restriction could lead to mental breakdown, but dabao is coping well.
-
-%%Q: how is online affiliate marketing as a recreation esp. when I grow old
-A: yes can reduce loneliness. Online shopping is growing.
-
-%%Q (minor): outsourcing in SG tech .. still your concern? web2.0 is bucking the trend
-A: fin-IT is different. SG is an outsourcing destination for American fin-IT.
-A: Pandemic has reduced the oursourcing concern among Singaporeans.
-
-
 -- new: astra theme and its templates
 "astra" theme (free) is recommended. 
 Quick customizing .. templates. There are 180 templates. However, templates are highly restrictive and can be complicated, hard to change.
@@ -62,24 +18,6 @@ When things don't work, need to learn to pick your battle, let go, or allocate e
 privacy policy page is required if you want your site to be indexed.
 
 vooju.com sells *.com.sg domain names 
-
--- plugins:
-wordfence: security plugin
-elementor: post editor
-anti-spam: to prevent bot comments
-updraftPlus: for backup. Can rollback to an earlier snapshot2
-all-in-one WP migration
-
-always check the 1-star reviews
-
-Beware version conflict between theme, plugins and wordpress software.
-
---new: Shaw cheaper tickets
-OC debit card $1 off.
-Mon-Thu $9 is regular price, iFF not "new release"
-Net price can be $8, but there are exceptions, so better be prepared for higher price
-
-https://shawsg.freshdesk.com/support/solutions/articles/28000016189-what-are-the-current-ticket-prices-
 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 
