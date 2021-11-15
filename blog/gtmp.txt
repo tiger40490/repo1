@@ -2,10 +2,11 @@
 perhaps it would be more effective to develop some deep hobbies early in life, such as writing, playing music,,,
 However, your milage will vary.
 
--- new: astra theme and its templates
+-- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
 Quick customizing .. templates. There are 180 templates. However, templates are highly restrictive and can be complicated, hard to change.
 
+if you want precise control (me), then prefer non-template, and classic editor.
 -- fuxi: 
 widget config is generic. theme config would overwrites widget config
 
@@ -19,8 +20,8 @@ privacy policy page is required if you want your site to be indexed.
 
 vooju.com sells *.com.sg domain names 
 
+-- fuxi: for orthodontics, NTUC denticare is unlikely to be high-end 
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
-
 -- fuxi: to disable hundreds of win10 services
 msconfig.exe lists hundreds of checkboxes.
 
