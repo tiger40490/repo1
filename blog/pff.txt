@@ -120,14 +120,14 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 
 * when you add those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
 * when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
-* when you add those OPP, you may take on more risks.
+* when you add those OPP, you may inadvertently take on more risks.
 
 -- fuxi: 
 when stock picking is an active recreation, then novelty becomes a non-trivial selection criteria. That favors international exotic names, and new names. 
 
 However, I have bought a lot of high-yield names. The remaining names tend to be low-yield. Hard to find any suitable stocks.
 
--- slow-cooking new: high-yield, low growth, blue chips
+-- slow-cooking new: high-yield, low growth blue chips
 T:US is probably a leading example.
 Singtel is another well-known example.
 
@@ -136,17 +136,8 @@ My view on gov red chips has changed. They seem to pay good dividends to compens
 Gary felt red chips are profitable businesses, but widely perceived as low efficiency, low margin.
 U.S. dividend stocks offer better long-term prospect. The red chips don't qualify for my income ptf.
 
---update: 
-https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=17015&action=edit
-best China index
-You can collect the count of tracking ETFs for each index. The most popular index is MSCI China.
-
-Gary singled out FTSE A50.
-
-Gary believed China ADR stocks are correlated with China index much more than SP500.
-
 -- fuxi or update post on U.S. eq market strength
-jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available in U.S. stocks.
+jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available to U.S. stocks.
 
 SG, Germany, Australia ... also have strong, competitive economies but lack the same strengths of the U.S. stocks.
 
@@ -156,21 +147,6 @@ SG, Germany, Australia ... also have strong, competitive economies but lack the 
 For these individuals, my ezlife on the cash flow high ground is .. dream. 
 
 I like mathematical criteria for that high ground, such as brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack something to achieve the same.
-
--- slow-cooking new: which middle-class aspiration ≠ LG2
-t_cmcUS
-t_sharpQ
-So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential:
-
-Branded college
-SDXQ
-Spacious home
-Car ownership
-..
-
-Q: Is there one middle-class aspiration that I do subscribe to?
-safe, conducive school? This is not just for middle-class
-Safe, clean street? No. This is not just for middle-class
 
 -- fuxi: Jun.Z on SG condo
 t_misperception
