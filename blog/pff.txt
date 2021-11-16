@@ -15,9 +15,9 @@ I said I could pay off the 72k loan and just earn the 3.55% payout. 3.55% is not
 Edmund said a cusotmer could deploy the 72k in a riskfree investment and earn the now-higher interest to offset the increased financing cost on the 72k loan. If the interest income can exceed the interest cost, then this is better than paying off the loan.
 
 ==
--- new or update post on 5k/M
+-- new or update post on 5k/M historical record
 current burn rate is probably around 5k (excluding transfers, cigna prem) if we include IRAS tax
-When my burn rate was recorded at 5k (excluding transfers, mtg, MSFM) I had higher travel costs
+When my burn rate was recorded at 5k (excluding transfers, mtg, MSFM) I had higher travel costs but lower piano costs
 
 -- new: ##low-cost pain relieves
 see also lifestyle improvements since 2020
@@ -29,7 +29,7 @@ eg: powerline networking .. relieving pain of wifi dead zone
 eg: small laptop with git-blogg .. without it I couldn't work on my active ideas
 eg: dhost.. relieving pains of the free wordpress.com site
 
--- new: boring stock
+-- fuxi or new: boring stock
 To various commentators, a boring stock can fit any of these descriptions.
 
 non-volatile .. lower beta, lower chance of quick profit or big loss. Good thing for many investors including perhaps R.Xia
@@ -40,6 +40,8 @@ limited research coverage? Actually, many boring stocks are well-researched.
 
 -- fuxi
 conventional wisdom of eq outperforming bonds in the long run only works in the U.S. market and only if you don't pay the expRatio to a eqMufu.
+
+U.S. eq annualized return is about 6% in recent years, vs 3% for long bonds. With 2% exp ratio the gap is much much smaller.
 
 -- update lifestyle creep
 mixedVegRice used to be the best value in Singapore, either in coffee shops or food courts. No more.
