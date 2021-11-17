@@ -1,20 +1,3 @@
-== update post on PLIP
-%%Q: non-guaranteed return smells bad
-A: Prudential has always declared 4.25%. After consecutive years of double-digit returns, Prudential once declared a bonus in the form of surrender value. 
-
-If they declare below 4.25% perhaps it would hurt their reputation. I think this is similar to OC reluctance to make a mass layoff.
-
-I don't want to see 28k stuck for years in a low-return asset. Most of my (rEstate or eq) assets are low-payout, but they have potential for appreciation.
-
-It is unrealistic to make every dollar work hard for me. 
-Perfectionist. For decades, I have lots of cash sitting in bank accounts earning below 0.5% interest. I didn't complain. I usually complain only when I lose liquidity or lose capital.
-
--- biggest concern is IR hike
-I said I could pay off the 72k loan and just earn the 3.55% payout. 3.55% is not bad after all and won't be a pain. That's the default plan.
-
-Edmund said a cusotmer could deploy the 72k in a riskfree investment and earn the now-higher interest to offset the increased financing cost on the 72k loan. If the interest income can exceed the interest cost, then this is better than paying off the loan.
-
-==
 -- new or update post on 5k/M historical record
 current burn rate is probably around 5k (excluding transfers, cigna prem) if we include IRAS tax
 When my burn rate was recorded at 5k (excluding transfers, mtg, MSFM) I had higher travel costs but lower piano costs
