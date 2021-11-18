@@ -9,28 +9,11 @@ Gary believed China ADR stocks are correlated with China index much more than SP
 
 -- update blogpost on exp recon tables
 If you must avoid background color and use font color, then light colors are more identifiable.
--- new: Rbh process is highly efficient
-Even safe bond funds on FSM involve much higher effort than my Robinhood process.
-
-* problem: the amounts are too large, tyically 10k. Sugg: reduce to 1k
-* risk/diligence: when I sell, I have to stay alert and ensure I don't sell the wrong lot i.e. from the wrong account
-* the profit has to be recorded in my exp recon s/s
-* I check the PnL for each position too often. 
-* my tolerance is too low for large cash balance. sugg: accept 30k cash balance in cash account
 
 --update post on Felicia@HDB
 Why hold on so tight even after relocation to U.S.?
 * low mainetance
 * valuatino volatility managed by PAP
--- new: ##low-cost pain relieves
-see also lifestyle improvements since 2020
-
-"low-cost" is subjective. No debate please.
-
-eg: 2-printer lifestyle, with plenty of paper + spare cartridge
-eg: powerline networking .. relieving pain of wifi dead zone
-eg: small laptop with git-blogg .. without it I couldn't work on my active ideas
-eg: dhost.. relieving pains of the free wordpress.com site
 
 == new: tradeTime4$
 H.Yi and AshS both mentioned something about trading time for money.
