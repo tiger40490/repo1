@@ -9,9 +9,6 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 cRisk
 mRisk
 
--- update my annualized return in eq
-See also blogpost on "problem@judging by return alone"
-
 -- update lifestyle creep
 mixedVegRice used to be the best value in Singapore, either in coffee shops or food courts. No more.
 I used to pick 2 veg or 1 veg 1 meat, for below $3.
