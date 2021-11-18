@@ -5,6 +5,10 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 * when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
 * when you add those OPP, you may inadvertently take on more risks.
 
+-- consider using new abbreviations : 
+cRisk
+mRisk
+
 -- update my annualized return in eq
 See also blogpost on "problem@judging by return alone"
 
@@ -87,7 +91,7 @@ small punch
 -- buy-n-forget is not so easy with the bond mufu. The expRatio (?%) erodes the return. 
 I may need to babysit my positions !
 
--- update income vs wealth 
+-- slow-cooking update income vs wealth 
 (link from scorecard)
 Some people are embarrassed to talk about (not necessarily personal) income, and prefer wealth instead.
 Some people are embarrassed to talk about (not necessarily personal) wealth and prefer income instead.
