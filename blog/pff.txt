@@ -12,34 +12,6 @@ mRisk
 -- update my annualized return in eq
 See also blogpost on "problem@judging by return alone"
 
--- new or update post on 5k/M historical record
-current burn rate is probably around 5k (excluding transfers, cigna prem) if we include IRAS tax
-When my burn rate was recorded at 5k (excluding transfers, mtg, MSFM) I had higher travel costs but lower piano costs
-
--- new: ##low-cost pain relieves
-see also lifestyle improvements since 2020
-
-"low-cost" is subjective. No debate please.
-
-eg: 2-printer lifestyle, with plenty of paper + spare cartridge
-eg: powerline networking .. relieving pain of wifi dead zone
-eg: small laptop with git-blogg .. without it I couldn't work on my active ideas
-eg: dhost.. relieving pains of the free wordpress.com site
-
--- fuxi or new: boring stock
-To various commentators, a boring stock can fit any of these descriptions.
-
-non-volatile .. lower beta, lower chance of quick profit or big loss. Good thing for many investors including perhaps R.Xia
-
-less news coverage, less glamour, less to talk about with friends.
-
-limited research coverage? Actually, many boring stocks are well-researched.
-
--- fuxi
-conventional wisdom of eq outperforming bonds in the long run only works in the U.S. market and only if you don't pay the expRatio to a eqMufu.
-
-U.S. eq annualized return is about 6% in recent years, vs 3% for long bonds. With 2% exp ratio the gap is much much smaller.
-
 -- update lifestyle creep
 mixedVegRice used to be the best value in Singapore, either in coffee shops or food courts. No more.
 I used to pick 2 veg or 1 veg 1 meat, for below $3.
@@ -50,53 +22,9 @@ The only explanation I have is higher disposable income and lifestyle creep.
 
 Is if for nutrition? No. It's only for pleasure [variety]
 
---update post on Felicia@HDB
-Why hold on so tight even after relocation to U.S.?
-* low mainetance
-* valuatino volatility managed by PAP
-
--- update OC survey during 2020
-Margin of error based on small sample
-
-== new: tradeTime4$
-H.Yi and AshS both mentioned something about trading time for money.
-The proposed alternative is to make your money work harder to provide for family livelihood [3], so you don't need to. So you could spend your time on something else.
-
-What's that something else? For me, it is some form of office work, rather than vacation.
-Therefore, I willingly trade time for ... something to engage me.
-
-[3] If we could _control_ exclub comparison, then livelihood burn rate can be taken care of already, so we don't need to work.
-
-In the proposed alternative, you still need to spend time managing your portfolio!
-
--- babysitting still required. Very few nonwork incomes are truly passive and buy-n-forget, like CPF [SA and cpfLife]. 
-REIT and div-stocks require babysitting when DYOC declines.
-
-Rental properties (like mine in S.E.Asia) require some work with the local agents.
-
-If the passive income stops being passive, then you are still trading time for money. That includes rental property management and day trading.
-
-==
--- update ctbz?
-t_creep
-$2 wasted spend in Daiso .. is to be tolerated, given my nonwork incomes.
-These spends won't accumulate beyond $1000/Y
-ctbz in this case can be ineffective.
-
-My due diligence (System 2) is sometimes too slow before spending such small amounts.  Let's record the small wasted spends so as to calibrate System 1.
-
-bicycle seat
-small punch
-
--- buy-n-forget is not so easy with the bond mufu. The expRatio (?%) erodes the return. 
+-- update post on rbh or...
+buy-n-forget is not so easy with the bond mufu. The expRatio (?%) erodes the return. 
 I may need to babysit my positions !
-
--- slow-cooking update income vs wealth 
-(link from scorecard)
-Some people are embarrassed to talk about (not necessarily personal) income, and prefer wealth instead.
-Some people are embarrassed to talk about (not necessarily personal) wealth and prefer income instead.
-
-These individuals may (subconsciously) prefer to steer the conversation. 
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
