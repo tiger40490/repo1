@@ -18,8 +18,16 @@ Gary believed China ADR stocks are correlated with China index much more than SP
 
 -- update blogpost on exp recon tables
 If you must avoid background color and use font color, then light colors are more identifiable.
+-- new: Rbh process is highly efficient
+Even safe bond funds on FSM involve much higher effort than my Robinhood process.
 
--- slow-cooking new: which middle-class aspiration ≠ LG2
+* problem: the amounts are too large, tyically 10k. Sugg: reduce to 1k
+* risk/diligence: when I sell, I have to stay alert and ensure I don't sell the wrong lot i.e. from the wrong account
+* the profit has to be recorded in my exp recon s/s
+* I check the PnL for each position too often. 
+* my tolerance is too low for large cash balance. sugg: accept 30k cash balance in cash account
+
+-- slow-cooking new: ##which middle-class aspiration ≠ LG2
 t_cmcUS
 t_sharpQ
 So far, all the blogposts on this broad topic (..) have singled out aspirations that are non-consequential:
