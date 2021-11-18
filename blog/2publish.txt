@@ -7,9 +7,6 @@ Gary singled out FTSE A50.
 
 Gary believed China ADR stocks are correlated with China index much more than SP500.
 
--- update blogpost on exp recon tables
-If you must avoid background color and use font color, then light colors are more identifiable.
-
 --update post on Felicia@HDB
 Why hold on so tight even after relocation to U.S.?
 * low mainetance
