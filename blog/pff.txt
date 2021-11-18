@@ -1,3 +1,6 @@
+-- update my annualized return in eq
+See also blogpost on "problem@judging by return alone"
+
 -- new or update post on 5k/M historical record
 current burn rate is probably around 5k (excluding transfers, cigna prem) if we include IRAS tax
 When my burn rate was recorded at 5k (excluding transfers, mtg, MSFM) I had higher travel costs but lower piano costs
@@ -153,8 +156,3 @@ For these individuals, my ezlife on the cash flow high ground is .. dream.
 
 I like mathematical criteria for that high ground, such as brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack something to achieve the same.
 
--- fuxi: Jun.Z on SG condo
-t_misperception
-appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
-
-Foreigner demand is dampened by ABSD, esp. in non-prime locations. These locations are mostly sold to local buyers.
