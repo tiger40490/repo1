@@ -3,7 +3,7 @@ spare time not really enough:
 piano
 AMB
 yoga classes
-daily time with kids
+daily sessions with kids
 
 -- ask grandpa
 perhaps it would be more effective to develop some deep hobbies early in life, such as writing, playing music,,,
@@ -35,9 +35,6 @@ msconfig.exe lists hundreds of checkboxes.
 These could contribute to performance drags.
 -- fuxi: TreeSizeFree
 Allocated column is more useful than SIZE column as it is after-Compression
-
--- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
-Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr

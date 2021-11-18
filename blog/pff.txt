@@ -114,10 +114,6 @@ Even safe bond funds on FSM involve much higher effort than my Robinhood process
 * I check the PnL for each position too often. 
 * my tolerance is too low for large cash balance. sugg: accept 30k cash balance in cash account
 
--- update blogpost on exp recon tables
-If you must avoid background cohor and use font color, then light colors are more identifiable.
-
-
 -- fuxi:
 when I told Sheng.Zeng about SG healthcare/nursing cost in SG^Chn, he pointed out unqualified doctors (庸医), more of a problem in China
 -- which China bank position to downsize? BOC ?
@@ -134,20 +130,6 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 when stock picking is an active recreation, then novelty becomes a non-trivial selection criteria. That favors international exotic names, and new names. 
 
 However, I have bought a lot of high-yield names. The remaining names tend to be low-yield. Hard to find any suitable stocks.
-
--- slow-cooking new: high-yield, low growth blue chips
-T:US is probably a leading example.
-Singtel is another well-known example.
-
-How about the red chips? 
-My view on gov red chips has changed. They seem to pay good dividends to compensate for very poor long-term trend.
-Gary felt red chips are profitable businesses, but widely perceived as low efficiency, low margin.
-U.S. dividend stocks offer better long-term prospect. The red chips don't qualify for my income ptf.
-
--- fuxi or update post on U.S. eq market strength
-jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available to U.S. stocks.
-
-SG, Germany, Australia ... also have strong, competitive economies but lack the same strengths of the U.S. stocks.
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 

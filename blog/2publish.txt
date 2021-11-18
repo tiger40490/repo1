@@ -1,4 +1,4 @@
--- update blogpost on error rate
+-- update blogpost on memory error rate
 t_w4j4
 don't wear everyday n night. Let the gum rest.
 don't ever leave it on the table, even at home. Develop a strong habit of always keeping it in pocket or a container.
@@ -11,6 +11,15 @@ I remember ctown@Bayonne. I think the owner has a policy that any returned merch
 
 In contrast, many shops esp. big shops like Walmart accept returns without hesitation, but some returned items would be discarded. I think these shops have a bigger profit margin to absorb this kinda "marketing cost". The generous return i.e. try-buy is a marketing policy.
 
+-- new: high-yield, low growth blue chips
+T:US is probably a leading example.
+Singtel is another well-known example.
+
+How about the red chips? 
+My view on gov red chips has changed. They seem to pay good dividends to compensate for very poor long-term trend.
+Gary felt red chips are profitable businesses, but widely perceived as low efficiency, low margin.
+U.S. dividend stocks offer better long-term prospect. The red chips don't qualify for my income ptf.
+
 --update: 
 https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=17015&action=edit
 best China index
@@ -19,6 +28,9 @@ You can collect the count of tracking ETFs for each index. The most popular inde
 Gary singled out FTSE A50.
 
 Gary believed China ADR stocks are correlated with China index much more than SP500.
+
+-- update blogpost on exp recon tables
+If you must avoid background color and use font color, then light colors are more identifiable.
 
 -- slow-cooking new: which middle-class aspiration ≠ LG2
 t_cmcUS
