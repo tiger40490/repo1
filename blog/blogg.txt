@@ -8,13 +8,7 @@ Nowadays I worry less about opening hours because I could sit in bus interchange
 
 I fee lucky to have the library, the free wifi in various locations, the laptop, git-blogg infrastructure. Nowadays I mostly use therapeutic blogging to recover, restore, calm down. 
 
-Maybe I should start using study material for zqbx
-
--- fuxi: recent topics of blogging by tcost
-parenting
-pff
-career
-wellness
+Maybe I should start using more study materials for zqbx, for burn. Get on the offensive?
 
 -- new: ##ways@link`blogposts
 Linking is essential in web publishing. 
@@ -47,6 +41,12 @@ taking note of a memorable conversation: I tend to confuse two modes
 When browsing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3_@"
 
 Afterwards, I could go to the tag listing and identify these "temporary tags" and clean up.
+
+-- fuxi: recent topics of blogging by tcost
+parenting
+pff
+career
+wellness
 
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
