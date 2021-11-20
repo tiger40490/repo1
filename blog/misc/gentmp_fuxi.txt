@@ -1,3 +1,4 @@
+-- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
 -- fuxi: printfriendly.com can let you remove specific pictures or paragraphs

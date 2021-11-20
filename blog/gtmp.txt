@@ -1,18 +1,3 @@
-== update post on AMB course j4
-need lots of sunshine (time and mental energy) and absorbency to overcome the initial learning curve. 
-I think this is similar to CSY's attitude on coding drill.
-It is also similar to my yoga practice. Now I share my yoga story with so many friends, as inspiration, even though I'm not highly successful.
-
-How did I overcame the inertia on tax filing, ..
-
--- j4 wpress course
-The wpress course is heavy on page look-n-feel customization.
-I hate this aspect and would not make good progress without this course.
-I already spent real money on dhost. This is one way to leverage on that. I can set up multiple subdomains each for a landing page. My advantage over other newbies.
-I already spent huge effort learning wpress. this is one way to leverage on that.
-wpress has many books in library. Am good at learning from books.
-==
-
 -- ask grandpa
 perhaps it would be more effective to develop some deep hobbies early in life, such as writing, playing music,,,
 However, your milage will vary.
@@ -23,7 +8,7 @@ Quick customizing .. templates. There are 180 templates. However, templates are 
 
 if you want precise control (me), then prefer non-template, and classic editor.
 -- fuxi: 
-widget config is generic. theme config would overwrites widget config
+widget config is generic. theme config would overwrite widget config
 
 wpress site-health.. can't check plugin version conflict.
 
@@ -35,12 +20,6 @@ privacy policy page is required if you want your site to be indexed.
 
 vooju.com sells *.com.sg domain names 
 
--- fuxi: for orthodontics, NTUC denticare is unlikely to be high-end 
--- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
--- fuxi: to disable hundreds of win10 services
-msconfig.exe lists hundreds of checkboxes.
-
-These could contribute to performance drags.
 -- fuxi: TreeSizeFree
 Allocated column is more useful than SIZE column as it is after-Compression
 
