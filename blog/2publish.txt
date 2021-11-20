@@ -1,3 +1,7 @@
+-- new: Dahlan's gaming experience
+Dalan was 70h/wk in 2016. Now he plays once every few months
+Started coding only in uni. In poly, he majored in biology.
+
 == update post on AMB course j4
 need lots of sunshine (time and mental energy) and absorbency to overcome the initial learning curve. 
 I think this is similar to CSY's attitude on coding drill.
@@ -12,19 +16,6 @@ I already spent real money on dhost. This is one way to leverage on that. I can 
 I already spent huge effort learning wpress. this is one way to leverage on that.
 wpress has many books in library. Am good at learning from books.
 ==
-
--- slow-cooking update post on Jiang.Zhu
-Consider JackZ and Raymond's situations. At my age and economic level, what endeavors are really strategic?
-1) wellness lifestyle improvements like yoga, sustainable diet habits, BMI
-2) dev-till-70 accu, plowback,,, including QQ and CIV
-? academic parenting? No. I prioritize motivation, bonding, coaching 
-? prepare for relocation to U.S. including car ownership, burn rate control
-
-Jiang.Zhu is an unknown LeadEngineer figure that I last met in 1991. Both him and the Fenix CTO are largely unknown personalities, so my mental picture of them are imagined and fabricated content fitted onto a half-skeleton.
-I guess for both of them, there is still a lot of untapped potential, a lot of drive, ambition. Compared to them, I probably look lazy. 
-Well, at my age whenever I look out towards the deathbed I feel those "things" are unimportant.
-
-Similarly to my "laziness", my son may look lazy. In contrast at age 13 I was more motivated, more ambitious than him. 
 
 -- new: abbreviation for the wpress admin post listing
 WAPP [wordpress admin posts page]
