@@ -1,3 +1,7 @@
+-- fuxi: need to repeat to boy:
+Some people play games but somehow score higher in exams.
+Some people smoke, drink alcohol, take drugs, but live longer than us who don't. Reality remains -- those substances are harmful to their health.
+
 -- new: criteria@chen2mi2
 I tend to use (daily) gaming hours; wife tend to use total screen time.
 The 2 criteria may or may not cause confusion, but it's better to clarify and be explicit.
