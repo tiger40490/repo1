@@ -1,13 +1,3 @@
--- new CHAS
-When we are retired or have lower income, and if we downgrade our HDB home, we can enjoy better CHAS subsidies including
-* chronic conditions
-* common dental services 
-* common illnesses
-* health screening
-
-When we are still earning high income, then CHAS subsidy can help stretch the insurance quota.
-
-We can also consider suspending your Cigna coverage and save $60/M. We will enroll you again when needed.
 
 -- fuxi: Susan's input
 I repeated my rental yield reservations. 
@@ -26,6 +16,10 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 * when you add those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
 * when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
 * when you add those OPP, you may inadvertently take on more risks.
+
+-- update ..
+primary goal of exp recon is .. expense analysis
+A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. The expense recon provides exactly that quality assurance.
 
 -- consider using new abbreviations : 
 cRisk
