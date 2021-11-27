@@ -1,22 +1,21 @@
--- new: Dahlan's gaming experience
+-- new: gaming experience: Dahlan + CNA guy
 Dahlan was 70h/wk in 2016. Now he plays once every few months
 Started coding only in uni. In poly, he majored in biology.
 
--- polish -> new: ##ways@link`blogposts
-Linking is essential in all web content, including blogs. 
+-- new: ##ways@link`blogposts
+Linking in my blog is high-value and high-tcost. We need Continuous Process Improvement. There are currently 3 ways to link 2 "related" blogposts.
 
-Linking in my blog is high-value and high-tcost. We need continuous process improvement. There are currently 3 ways to link 2 "related" blogposts.
-
-* categories and tags .. proliferation breeds confusion, artificial complexities..
+* categories and tags .. their proliferation breeds confusion, artificial complexities..
 
 * links of various forms
 ** opaque URL
+** slug URL
 ** "see also the blogpost on xxx"
 ** underlined phrase
 
-When I feel the need for two-way linking, I often merge the posts into one big post.
+When I feel the need for two-way linking, I often merge the two posts into one big post.
 
-* a big blogpost with multiple sections cross-referencing. I think it's OK to have two separate big sections, possibly overlapping. No need to consolidate.
+* a big blogpost with multiple sections cross-referencing. I think it's OK to have two big separate sections, possibly overlapping. No need to consolidate.
 ** There are often memorable alias posts pointing to such a big blogpost.
 
 -- update  https://btv-open.dreamhosters.com/library-immersion/
