@@ -1,11 +1,3 @@
--- drawing board
-No choice elsewhere, as far as we know.
-
-The only product we know:
-* Mala board + Mala markers, to be tested
-* low-dust chalk at TPY shops. Single color. Likely to be light usage before disuse.
-
-Should have called ikea to ask about marker. We didn't have the foresight to know that some special marker exists for this surface.
 
 -- update g5 shields 
 new alias: precarious pillar
@@ -33,6 +25,15 @@ Consider JackZ and Raymond's situations. At my age and economic level, what ende
 2) dev-till-70 accu, plowback,,, including QQ and CIV
 ? academic parenting? No. I prioritize motivation, bonding, coaching, self-discipline
 ? prepare for relocation to U.S. including car ownership, burn rate control
+
+-- fuxi: drawing board
+No choice elsewhere, as far as we know.
+
+The only choice we know:
+* Mala board + Mala markers
+* low-dust chalk at TPY shops. Single color. Likely to be light usage before disuse.
+
+Should have called ikea to ask about marker. We didn't have the foresight to know that some special marker exists for this surface.
 
 -- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
