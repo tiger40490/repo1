@@ -19,28 +19,32 @@ When I feel the need for two-way linking, I often merge the two posts into one b
 ** There are often memorable alias posts pointing to such a big blogpost.
 
 -- update  https://btv-open.dreamhosters.com/library-immersion/
-During NUS years, my harbor was once the fast-food restaurants in shopping malls such as Ginza plaza. I used to stay until mall closing time.
-for many years after I left NUS, my #1 favorite harbor was the library. I also used fast-food restaurants and MRT trains.
+During NUS years, one valuable harbor was the fast-food restaurants in shopping malls such as Ginza plaza. I used to stay until mall closing time.
+for many years after NUS, my #1 favorite harbor was the library. I also used fast-food restaurants and MRT trains.
 
-I always brought study material + other reading material.
+I always brought study material + other reading materials.
 
-Nowadays I worry less about opening hours because I could sit in bus interchange with A/C + free wifi. This is a form of adaptation (see the blogpost) and resilience.
+Nowadays I worry less about opening hours because I could sit in bus interchange with A/C + free wifi. 
+I fee lucky to have the library, the free wifi in various locations, the laptop, git-blogg infrastructure. 
+Adaptation (see the blogpost) and resilience.
 
-I fee lucky to have the library, the free wifi in various locations, the laptop, git-blogg infrastructure. Nowadays I mostly use therapeutic blogging to recover, restore, calm down. 
-
+Nowadays I mostly use therapeutic blogging to recover, restore, calm down, regain focus. 
 Maybe I should start using more study materials for zqbx, for burn. Get on the offensive?
 == update post on AMB course j4
 need lots of sunshine (time and mental energy) and absorbency to overcome the initial learning curve. 
 I think this is similar to CSY's attitude on coding drill.
-It is also similar to my yoga practice. Now I share my yoga story with so many friends, as inspiration, even though I'm not highly successful.
+It is also similar to my yoga practice. Now I share my yoga story with so many friends, as inspiration
 
 How did I overcame the inertia on tax filing, ..
 
 -- j4 wpress course
 The wpress course is heavy on page look-n-feel customization.
 I hate this aspect and would not make good progress without this course.
+
 I already spent real money on dhost. This is one way to leverage on that. I can set up multiple subdomains each for a landing page. My advantage over other newbies.
+
 I already spent huge effort learning wpress. this is one way to leverage on that.
+
 wpress has many books in library. Am good at learning from books.
 ==
 
