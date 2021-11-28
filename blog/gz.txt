@@ -5,8 +5,8 @@ I guess in 2009 I also put in lots of effort after Janet said "prepare for VP pr
 
 Kun and Vishal both mentioned "politics". I think financial (and promotion) decisions is always political . I choose not to put in extra effort.
 
---new
-The last weekend of Oct, I put in many hours 
+--new or fuxi
+The last weekend of Oct 2021, I put in many hours 
 * to add visualization
 * to add more tests
 
@@ -20,14 +20,6 @@ This coding drill has multiple benefits in hindsight
 * I had a blogpost about  weekends otherwise wasted: G3 ROI@UChicago. Even if the code doesn't work, this is still zqbx. Without this zqbx, my ezlife feels decadent, wasteful and an incomplete success. 
 
 My friends' effort and my own effort were not in vein. It restored my self-confidence as a c++ developer. The self-confidence is priceless.
-
--- update CIV skills https://btv-gz.dreamhosters.com/2018/07/02/ect-bp-drill-has-lasting-value-to-family-well-being/ 
-All the skills required for CIV [BP, syntax..] are just like QQ -- never required at work.
-
-So 10Y professional project experience won't improve your CIV performance. An undergrad can outperform you given enough practice.
-
--- Grateful to employer [upper mgmt], but should that translate to loyalty to immediate boss?
-The two things are not aligned. 
 
 -- update blogpost on NBA
 doctors, programmers, ... are among the few professions with excellent depth@mkt.
@@ -128,6 +120,10 @@ ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some governments are better than employers. 
 
 Jolt: However, In terms of financial support, government handout is tiny compared to employers' severance package.
+
+--fuxi:
+jolt: Grateful to employer [upper mgmt], but should that translate to loyalty to immediate boss?
+The two things are not aligned. 
 
 -- fuxi: With 92S27 ex-classmates, I now can call myself a WallSt veteran techie, one of the most upstream sectors 
 Evidence for "veteran"? Not GTD, not even zbs, but mostly the interview-visible expertise. 
