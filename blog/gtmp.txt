@@ -43,8 +43,5 @@ privacy policy page is required if you want your site to be indexed.
 
 vooju.com sells *.com.sg domain names 
 
--- fuxi: TreeSizeFree
-Allocated column is more useful than SIZE column as it is after-Compression
-
 -- fuxi
 CTRL + Shift +Esc to start taskmgr
