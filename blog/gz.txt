@@ -5,22 +5,6 @@ I guess in 2009 I also put in lots of effort after Janet said "prepare for VP pr
 
 Kun and Vishal both mentioned "politics". I think financial (and promotion) decisions is always political . I choose not to put in extra effort.
 
---new or fuxi
-The last weekend of Oct 2021, I put in many hours 
-* to add visualization
-* to add more tests
-
-Why? What's the motivation, j4 and ROTI? I asked the same question about MSFM, C#, Swing, quant self-study, python... I still don't have a good analytical framework. 
-
-Key observation -- time won't stand still. It keeps flowing at a constant rate. Time can't be warehoused. If I don't spend my time on this coding practice, I would easily "waste" it on one of the energy sinks.
-
-This coding drill has multiple benefits in hindsight
-* the visualization emboldened me to engage Deepak, Daryl, Josh Lim, even my son. The "engagement" further enhances my "learning" .. various aspects
-* my visualization is now barely usable for the "engagement", but if it is unusable, then my effort would still be a worthwhile effort. It reminds me of my pre-sales effort, my self-employment days... 
-* I had a blogpost about  weekends otherwise wasted: G3 ROI@UChicago. Even if the code doesn't work, this is still zqbx. Without this zqbx, my ezlife feels decadent, wasteful and an incomplete success. 
-
-My friends' effort and my own effort were not in vein. It restored my self-confidence as a c++ developer. The self-confidence is priceless.
-
 -- update blogpost on NBA
 doctors, programmers, ... are among the few professions with excellent depth@mkt.
 Once you are qualified, there are many "ordinary" jobs that pay much higher than the median salary.
@@ -116,6 +100,22 @@ NoSql is bigData, not DS/ML.
 
 Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
+
+--new or fuxi
+The last weekend of Oct 2021, I put in many hours 
+* to add visualization
+* to add more tests
+
+Why? What's the motivation, j4 and ROTI? I asked the same question about MSFM, C#, Swing, quant self-study, python... I still don't have a good analytical framework. 
+
+Key observation -- time won't stand still. It keeps flowing at a constant rate. Time can't be warehoused. If I don't spend my time on this coding practice, I would easily "waste" it on one of the energy sinks.
+
+This coding drill has multiple benefits in hindsight
+* the visualization emboldened me to engage Deepak, Daryl, Josh Lim, even my son. The "engagement" further enhances my "learning" .. various aspects
+* my visualization is now barely usable for the "engagement", but if it is unusable, then my effort would still be a worthwhile effort. It reminds me of my pre-sales effort, my self-employment days... 
+* I had a blogpost about  weekends otherwise wasted: G3 ROI@UChicago. Even if the code doesn't work, this is still zqbx. Without this zqbx, my ezlife feels decadent, wasteful and an incomplete success. 
+
+My friends' effort and my own effort were not in vein. It restored my self-confidence as a c++ developer. The self-confidence is priceless.
 
 -- fuxi: for livelihood security (food security?) many governments are not so dependable, but some governments are better than employers. 
 
