@@ -1,16 +1,11 @@
 -- update traction/vision
 AMB looks so daunting but someday I will find the traction/vision
 Re my mail to Edmund, most retail investors have not found the vision.
-boy's math coaching... My new vision secret is .. put aside benchmarks and try to build his intrinsic motivation.
-muscle-up looks so daunting.
-
--- update post on AMB "action"
-blogg, reviewing, discussing with friends ... is also action.
+boy's math coaching... My new vision secret is .. put aside benchmarks and try to increase his intrinsic motivation by 1%. Possibly insignificant, but better than nothing.
+muscle-up looks so daunting but remember chin-up 100/D was daunting too
 
 -- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
-Quick customizing .. templates. There are 180 templates. However, templates are highly restrictive and can be complicated, hard to change.
-
 if you want precise control (me), then prefer non-template, and classic editor.
 -- fuxi: 
 widget config is generic. theme config would overwrite widget config
@@ -22,17 +17,14 @@ ConvertKit.com free tool to create a landing page.
 When things don't work, need to learn to pick your battle, let go, or allocate enough time
 
 privacy policy page is required if you want your site to be indexed.
-
-vooju.com sells *.com.sg domain names 
-
 -- fuxi: drawing board
 No choice elsewhere, as far as we know.
-
 The only choice we know:
 * Mala board + Mala markers
 
 How I decided to return it on Sat? 夜长梦多. 
 Should have called ikea to ask about marker. We didn't have the foresight to know that some special marker exists for this surface.
+On Sat, it was an easy and safe option to carry the board back and refund. Greedy algorithm.
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr
