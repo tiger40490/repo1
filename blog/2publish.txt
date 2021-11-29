@@ -1,5 +1,7 @@
--- take over the magic sponge
-also send docs to ocbc
+--update forgetful trips
+avoid unnecessary checking on phone, wallet, laptop etc when outside home/office. Probability of "accident" is slight worse when outside due to distraction, but cost of accident is significantly worse.
+
+For 0.txt printout, accident is less likely as it is in a low-risk pocket.
 
 -- update CIV skills https://btv-gz.dreamhosters.com/2018/07/02/ect-bp-drill-has-lasting-value-to-family-well-being/ 
 All the skills required for CIV [BP, syntax..] are just like QQ -- never required at work.
