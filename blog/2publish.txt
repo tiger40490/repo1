@@ -3,6 +3,16 @@ avoid unnecessary checking on phone, wallet, laptop etc when outside home/office
 
 For 0.txt printout, accident is less likely as it is in a low-risk pocket.
 
+-- update SWE https://btv-gz.dreamhosters.com/wp-admin/post.php?post=42441&action=edit
+In U.S. and increasing in SG, the traditional doctor/architect professions are now comparable to SWE profession.
+However, a key difference is accu [including tech churn]. 
+
+Many high-earning SWE must learn new tech 30 years into their career.
+Some of these SWEs don't mind learning new tech or even enjoy learning new tech...
+
+The WallSt coreJava contractor profession is a rare exception in terms of tech churn. 
+This profession resembles the medical profession even better, if you throw in cpp, shell scripting, SQL, FIX, bondMath and other evergreen tech skills.
+This description is probably biased, but I am hopeful and optmistic.
 
 -- update post on AMB "action"
 blogg, reviewing, discussing with friends ... is also action.
