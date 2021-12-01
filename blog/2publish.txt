@@ -3,13 +3,5 @@ avoid unnecessary checking on phone, wallet, laptop etc when outside home/office
 
 For 0.txt printout, accident is less likely as it is in a low-risk pocket.
 
--- update post on AMB "action"
-blogg, reviewing, discussing with friends ... is also action.
-
--- update CIV skills https://btv-gz.dreamhosters.com/2018/07/02/ect-bp-drill-has-lasting-value-to-family-well-being/ 
-All the skills required for CIV [BP, syntax..] are just like QQ -- never required at work.
-
-So 10Y professional project experience won't improve your CIV performance. An undergrad can outperform you given enough practice.
-
 -- new: abbreviation for the wpress admin post listing
 WAPP [wordpress admin posts page]
