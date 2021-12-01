@@ -1,3 +1,20 @@
+-- fuxi or new: not all my employers were loss-making
+Let's score a +1 if one past employer was making profit during my stay. Score a -1 if it was making a loss.
+
+Here are some the positive examples
+* SCS
+* polaris
+* NBC
+* Verizon
+* GS
+* Citi muni
+* Baml muni
+* barc flow vol
+* OCBC
+* Macq
+* nyse and RTS
+* MS eq swap desk
+* MLP
 -- update post on Vishal
 Kun.H shared a similar story. He was eligible for VP promotion. He did lots of work in a key project, along with his team members, but at 2020 year-end they didn't get the credit or recognition. Token bonus and no increment. Within a few months 4 team members resigned.
 
