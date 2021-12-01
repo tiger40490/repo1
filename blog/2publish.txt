@@ -1,4 +1,3 @@
--- stairs x 2
 --update forgetful trips
 when hsbc movie card balance = 2, buy a new card
 
