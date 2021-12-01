@@ -1,4 +1,7 @@
+
 --update forgetful trips
+when hsbc movie card balance = 2, buy a new card
+
 avoid unnecessary checking on phone, wallet, laptop etc when outside home/office. Probability of "accident" is slight worse when outside due to distraction, but cost of accident is significantly worse.
 
 For 0.txt printout, accident is less likely as it is in a low-risk pocket.
