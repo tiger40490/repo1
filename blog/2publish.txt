@@ -1,3 +1,9 @@
+-- workout
+chin-up x 10
+otherwise light workout 5min
+-- check receipt
+-- call C K Tan clinic
+
 --update forgetful trips
 when hsbc movie card balance = 2, buy a new card
 
