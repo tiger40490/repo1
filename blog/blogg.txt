@@ -14,16 +14,5 @@ taking note of a memorable conversation: I tend to confuse two modes
 * journalist taking notes for potential publication use. This mode often provides active recreation, and keeps my vocab and my mind active, even improving.
 * taking personal notes for my own review
 
--- fuxi: tag names ending in __
-When browsing my blog in the admin interface, sometimes I have to quickly tag a blog as "perhaps belonging to tag3". I tried "tag3@@" and "tag3?" and realized I must use "tag3_@"
-
-Afterwards, I could go to the tag listing and identify these "temporary tags" and clean up.
-
--- fuxi: recent topics of blogging by tcost
-parenting
-pff
-career
-wellness
-
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
