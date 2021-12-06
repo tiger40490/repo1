@@ -1,3 +1,20 @@
+-- fuxi or new: not all my employers were loss-making
+Let's score a +1 if one past employer was making profit during my stay. Score a -1 if it was making a loss.
+
+Here are some the positive examples
+* SCS
+* polaris
+* NBC
+* Verizon
+* GS
+* Citi muni
+* Baml muni
+* barc flow vol
+* OCBC
+* Macq
+* nyse and RTS
+* MS eq swap desk
+* MLP
 -- fuxi or update CIV skills https://btv-gz.dreamhosters.com/2018/07/02/ect-bp-drill-has-lasting-value-to-family-well-being/ 
 All the skills required for CIV [BP, syntax..] are just like QQ -- never required at work.
 

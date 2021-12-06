@@ -1,28 +1,18 @@
--- fuxi or new: not all my employers were loss-making
-Let's score a +1 if one past employer was making profit during my stay. Score a -1 if it was making a loss.
-
-Here are some the positive examples
-* SCS
-* polaris
-* NBC
-* Verizon
-* GS
-* Citi muni
-* Baml muni
-* barc flow vol
-* OCBC
-* Macq
-* nyse and RTS
-* MS eq swap desk
-* MLP
 
 -- update blogpost on NBA
 doctors, programmers, ... are among the few professions with excellent depth@mkt.
-Once you are qualified, there are many "ordinary" jobs that pay much higher than the median salary.
+Once you are qualified, there are many "ordinary" jobs that pay much higher than the local median wage.
 
 Doctors enjoy career longevity; programmers enjoy international mobility.
 
-NBA, performance artists .. lack d@m
+NBA, artists, film professionals .. lack d@m
+
+look at the SG film festival brochure. Those film makers don't make lots of money. They are small-budget or indie films. It's like an expensive modern art form, supported by advertizers, corporate sponsors and governments. 
+
+I guess like NBA, 5% of the players make 95% of the money.
+Perhaps game development is similar.
+
+What if my kids get into that domain? 
 
 ==new or update: ##unlisted capabilities for IV
 Some of these unlisted requirements are more essential than listed ones, and disqualify many candidates, and represent my competitive advantages on a given job market.
