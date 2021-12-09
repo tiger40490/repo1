@@ -1,4 +1,4 @@
--- new:
+-- new: adult evaluating consequences
 If you ask a game show contestant "Double or quits .. Are you sure .. Do you know the consequences like how much money you are putting on the table? OK you are an adult and under no coersion so let's double."
 
 If you ask a slightly drunk driver "Am sure you can but are you sure you want to drive. Do you know the consequences? Ok you are an adult and under no coersion so I will let you decide ..."

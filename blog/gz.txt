@@ -1,3 +1,5 @@
+-- When Aaron asked me about my experience so far during covid19, I mentioned 1) income 2) SWE demand skyrocketing.
+I then pointed out the biggest career risk to me is competition (supply-n-demand), esp. from younger SWE. If they are drawn to internet companies, then my competitive position would improve.
 
 -- update blogpost on NBA
 doctors, programmers, ... are among the few professions with excellent depth@mkt.
