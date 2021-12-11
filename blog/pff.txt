@@ -9,7 +9,18 @@ This "inflation" makes rental yield decline basically inevitable whenever we upg
 
 What units face risk of price drop? Wife said older flats. I say on-the-run. The better question is "will the price gap widen or narrow, over our holding window?"
 
--- update blogpost on my eq returns
+-- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/ or https://tanbinvest.dreamhosters.com/?p=24246&preview=true
+
+It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
+
+* when you add those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
+* when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
+* when you add those OPP, you may inadvertently take on more risks.
+
+Matching SP500 return ... is a bad OPP
+Investing 80% of my assets, and minimizing idle cash ... is an OPP
+
+-- update blogpost on my eq returns or the https://tanbinvest.dreamhosters.com/18525/prognosismy-stock-picking-trec/
 I told Aaron/Claris that I "always make money whenever I invest in stocks". Then I explained my eqMufu experience, revealing the key drawback of expRatio. Then I explained my stock picking track record. Most of my picks have made money.
 
 A "Success" meaning the stock didn't drop too badly. It could be underwater now, but not permanently. It once had and will again have a chance to show a profit.
@@ -26,13 +37,6 @@ gold and oil ... supposed to be scarce commodities with increasing demand, but t
 
 bccy
 zero-coupon bond? Its value approaches par.
-
--- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/
-It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
-
-* when you add those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
-* when you add those OPP, your priority list would see some of your true priorities pushed down. Analog: carry-on luggage vs checked luggage.
-* when you add those OPP, you may inadvertently take on more risks.
 
 -- update ..
 primary goal of exp recon is .. expense analysis
