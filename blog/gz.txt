@@ -1,5 +1,5 @@
--- When Aaron asked me about my experience so far during covid19, I gave a good answer about 1) income 2) SWE demand skyrocketing.
-I then pointed out the biggest career risk to me is competition (supply-n-demand), esp. from younger SWE. If they are drawn to internet companies, then my competitive position would improve.
+-- fuxi: When Aaron asked me about my experience so far during covid19, I gave a good answer about 1) rising income 2) SWE demand skyrocketing.
+I then pointed out the biggest career risk to me is competition (supply-n-demand), esp. from younger SWE. If all of them are drawn to internet companies, then my competitive position would improve.
 
 -- update blogpost on NBA
 doctors, programmers, ... are among the few professions with excellent depth@mkt.
@@ -21,7 +21,7 @@ Some of these unlisted requirements are more essential than listed ones, and dis
 
 -- capability: oral English skill .. some interviewers require a certian level of fluency, but that level is never listed explicitly.
 -- capability: QQ .. [basic OO, basic algo, basic language nlg, basic number theory, ,] Actually, these are not basic, not used on the job for 20Y
-
+-- capability: number theory
 -- capability: whiteboard
 Most candidates are unused to whiteboard coding while explaining. 
 
@@ -31,9 +31,9 @@ We are often rejected for ECT speed, or communication, or poor use of whiteboard
 -- capability: ECT, BP
 The minimum standard is usually non-trivial, and requires practice.
 
--- take on student's role .. Josh mentioned the attitude of a student (even though he meant something else). If you were a reluctant student in school and only studied to pass exams and never "looked back", then you may find the dev interview process tough and challening. It requires you to go back into student mode. Specifically you have to review your past material + weaknesses, pick some topics, form some plan, study for weeks in your spare time, without a teacher.
+-- take on student's role .. Josh mentioned the attitude of a student (even though he meant something else). If you were a reluctant student in school and only studied to pass exams and have never since "looked back", then you may find the dev interview process tough and challening. It requires you to go back into student mode. Specifically you have to review your past material + weaknesses, pick some topics, form some plan, study for weeks in your spare time, without a teacher.
 
-I think this is one fundamental reason I feel stronger among my cohort.
+I think this is one fundamental reason I feel strong among my cohort.
 =====
 -- new: 
 A finance professional could claim that she can earn more in a year than a high-school classmate makes in 10Y, and it's not even an outlier year.
