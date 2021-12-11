@@ -10,9 +10,12 @@ This brief summary is based on the blogpost on my eq returns.
 A SBH will set us back by 100k+
 and derail many numerical projections
 and cost my cashflow high ground
--- which asset classes are no-growth economically
+-- new: economically 0-growth assets
+which asset classes are no-growth economically
 gold and oil ... supposed to be scarce commodities with increasing demand, but the market may take decades to reflect that.
+
 bccy
+zero-coupon bond? Its value approaches par.
 
 -- update post on CPI^prop inflation
 I repeated my rental yield reservations to Susan
