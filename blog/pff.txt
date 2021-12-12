@@ -12,13 +12,6 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 Matching SP500 return ... is a bad OPP
 Investing 80% of my assets, and minimizing idle cash ... is an OPP
 
--- slow-cooking new: economically 0-growth assets
-which asset classes are no-growth economically
-gold and oil ... supposed to be scarce commodities with increasing demand, but the market may take decades to reflect that.
-
-bccy
-zero-coupon bond? Its value approaches par.
-
 -- update ..
 primary goal of exp recon is .. expense analysis
 A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. The expense recon provides exactly that quality assurance.
