@@ -1,4 +1,10 @@
+-- update 
+Use cpfSA for housing? Impossible
+-- update 
+to see calculation of cpf contribution on bonus, use the contribution calculator.
 -- new: notes on my s/sheet
+to estimate housing refund, just use 2.5%pa accrual rate on 123k balance. The 123k wil not change much throughout 2022 and 2023.
+
 [r=reasoanble estimate]
 [r] idle cash before completionB .. the more I delay, the higher this is, and the lower my orig mtg amount.
 
