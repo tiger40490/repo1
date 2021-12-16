@@ -1,16 +1,25 @@
+-- new: most upgrading home buyers would max out their borrowing capacity
+Delphia of oc is a mortgage specialist. She said majority of Singapore borrowers (probably including foreigners) would max out their loan quantum. One of the most important limits is TDSR. No more than 55% (was 60) of income (including CPF) is allowed to be used for installments. Lender and borrower would be caught in violation.
+
+55% of total income spent on debt servicing .. sounds like low ground. 
+
+I asked her why "majority" has such a motivation. Delphia said many want to maximize investment. (Delphia herself felt buying at the current price level doesn't sound like investment.) It's leveraged investment at a very low borrowing cost.
+
+Now I recall Wallace Xu said something similar about American home buyers... they are highly sensitive to rate hike.
 -- update 
 Use cpfSA for housing? Impossible
--- update 
-to see calculation of cpf contribution on bonus, use the contribution calculator.
--- Let Jason be the broker, after I decide to use OC or Maybank
 -- new or fuxi: SG credit report
 www.creditbureau.com.sg can give a free report.
-Better terminate citi credit card to clean up the report.
+Better terminate citi credit card to clean up the report. But reapplying would take time.
 
 When you apply for a loan, if you show income without credit card, you will appear risky as a borrower. Lender would hesitate to lend to you since there's no track record. It's better to get a credit card, use it a few times, then apply for loans.
 
 The number that affects your max loan amount is the total of "unsecured" column, in the AggregateMonthlyInstalment table. In my case, I happened to have $50 minimum payment for HSBC card. This $50 went into my total.
-
+-- update post on creep.
+merge in post on splurge.
+splurge and creep are comparable. Splurge is faster; Creep is seldome big-ticket items.
+-- fuxi
+to see calculation of cpf contribution on bonus, use the contribution calculator.
 -- new: notes on my s/sheet
 to estimate housing refund, just use 2.5%pa accrual rate on 123k balance. The 123k wil not change much throughout 2022 and 2023.
 

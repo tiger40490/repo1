@@ -1,4 +1,10 @@
--- new: adult evaluating consequences
+-- fuxi
+t_paradox
+why do we feel more delighted, more satisfied with a bonus than a clean health check-up? 
+
+I guess the former is associated with Effort while the latter associated with luck.
+
+-- new: adults evaluating consequences of their choices
 If you ask a game show contestant "Double or quits .. Are you sure .. Do you know the consequences like how much money you are putting on the table? OK you are an adult and under no coersion so let's double."
 
 If you ask a slightly drunk driver "Am sure you can but are you sure you want to drive. Do you know the consequences? Ok you are an adult and under no coersion so I will let you decide ..."
