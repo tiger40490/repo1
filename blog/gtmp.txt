@@ -1,28 +1,8 @@
--- fuxi: too many tasks
-math sessions with boy
-mtg: oc
-mtg: maybank
-blog on bonus
-LG: clear leave
-5/wk
-diet 
-earlier sleep.. give up quiet evening time
 -- fuxi
 t_paradox
 why do we feel more delighted, more satisfied with a bonus than a clean health check-up? 
 
 I guess the former is associated with Effort while the latter associated with luck.
-
--- new: specialist foreign talent.. or update post on EP holders
-SG has limited natural resources.. must maximize and compete on human capital, but the local population human capital is also limited.
-
-Fin-IT is one HVA [high value-add] sector. Most of the qualified individuals are foreigners including Indians and Chinese. Citizens like me are perhaps 5% of the talent pool.
-
-The HVA sectors often need talents that are lacking in the local population. Therefore, SG needs to import foreign talents to jump start those growth engines, and hope to get more locals trained in those HVA sectors.
-
-Many of my Fin-IT foreign colleagues like SG and want to stay here forever. If one of the foreign talens have kids growing up in SG, government hopes these kids mingle with local kids and become naturalized Singaporeans.
-
-These same individuals often migrate to U.S., Australia, Canada, or return to home countries. Therefore, SG is engaged in a global competition for talents and their genes. 
 
 -- update post on deathbed
 GexAcademy Chairman Patrick, Lee Hom... all show high net worth in the millions. H.Yi mentioned a fellow developer friend having 3M net assets. Well I don't feel envious.
@@ -55,6 +35,18 @@ In most legal systems (except some Muslim laws) Divorce procedure takes months, 
 
 In SG property transaction, buyer has 21D to think it over. Now I think they should not rush to 20D.
 
+-- new: specialist foreign talent.. or update post on EP holders
+SG has limited natural resources.. must maximize and compete on human capital, but the local population human capital is also limited.
+
+Fin-IT is one HVA [high value-add] sector. Most of the qualified individuals are foreigners including Indians and Chinese. Citizens like me are perhaps 5% of the talent pool.
+
+The HVA sectors often need talents that are lacking in the local population. Therefore, SG needs to import foreign talents to jump start those growth engines, and hope to get more locals trained in those HVA sectors.
+
+Many of my Fin-IT foreign colleagues really like SG and want to stay here forever. If one of the foreign talens have kids growing up in SG, government hopes these kids mingle with local kids and become naturalized Singaporeans.
+
+These same individuals often migrate to U.S., Australia, Canada, or return to home countries. Therefore, SG is engaged in a global competition for talents and their genes. 
+
+I am one of the well-naturalized foreign talents.
 
 -- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
