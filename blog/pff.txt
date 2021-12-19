@@ -20,20 +20,6 @@ Better terminate citi credit card to clean up the report. But reapplying would t
 When you apply for a loan, if you show income without credit card, you will appear risky as a borrower. Lender would hesitate to lend to you since there's no track record. It's better to get a credit card, use it a few times, then apply for loans.
 
 The number that affects your max loan amount is the total of "unsecured" column, in the AggregateMonthlyInstalment table. In my case, I happened to have $50 minimum payment for HSBC card. This $50 went into my total.
--- new: notes on my s/sheet
-to estimate housing refund, just use 2.5%pa accrual rate on 123k balance. The 123k wil not change much throughout 2022 and 2023.
-
-[r=reasoanble estimate]
-[r] idle cash before completionB .. the more I delay, the higher this is, and the lower my orig mtg amount.
-
-[r] idle cash after renovation .. OC advisors felt 20k should be sufficient, as there are no predictible big ticket items, and I have good savings rate. Let's not worry too much about unknown items.
-.. sugg: reduce orig mtg amount to 520 or 500k?
-
-misc. fees .. "likeky" more than 5k. Can ask James Lee, but not urgent
-
-borrow at 100k whatever-low-mtg-rate, to invest? I discussed again with OC advisor. Now I think I can convert to USD and buy SP500 ETF
-.. There are various short-term, small-sum promotions of 2%pa.
-
 -- fuxi:
 What units face risk of price drop? Wife said older flats. I say on-the-run. The better question is "will the price gap widen or narrow, over our holding window?"
 
