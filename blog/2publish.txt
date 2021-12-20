@@ -1,3 +1,16 @@
+-- update post on creep.
+absorb the splurge content.
+splurge and creep are comparable. Splurge is faster; Creep is seldome big-ticket items.
+
+-- update 
+Use cpfSA for housing? Impossible
+-- new or fuxi: SG credit report
+www.creditbureau.com.sg can give a free report.
+Better terminate citi credit card to clean up the report. But reapplying would take time.
+
+When you apply for a loan, if you show income without credit card, you will appear risky as a borrower. Lender would hesitate to lend to you since there's no track record. It's better to get a credit card, use it a few times, then apply for loans.
+
+The number that affects your max loan amount is the total of "unsecured" column, in the AggregateMonthlyInstalment table. In my case, I happened to have $50 minimum payment for HSBC card. This $50 went into my total.
 ==new: revesable decline
 I think most wellness declines are irreversable due to aging, but in this blogpost I want to focus exclusively on the exception
 
