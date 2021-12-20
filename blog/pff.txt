@@ -1,11 +1,4 @@
--- new: most upgrading home buyers would max out their borrowing capacity
-Delphia of oc is a mortgage specialist. She said majority of Singapore borrowers (probably including foreigners) would max out their loan quantum. One of the most important limits is TDSR. No more than 55% (was 60) of income (including CPF) is allowed to be used for installments. Lender and borrower would be caught in violation.
 
-55% of total income spent on debt servicing .. sounds like low ground. 
-
-I asked her why "majority" has such a motivation. Delphia said many want to maximize investment. (Delphia herself felt buying at the current price level doesn't sound like investment.) It's leveraged investment at a very low borrowing cost.
-
-Now I recall Wallace Xu said something similar about American home buyers... they are highly sensitive to rate hike.
 -- update 
 Use cpfSA for housing? Impossible
 -- update post on creep.
@@ -38,6 +31,12 @@ Investing 80% of my assets, and minimizing idle cash ... is an OPP
 primary goal of exp recon is .. expense analysis
 A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. The expense recon provides exactly that quality assurance.
 
+-- fuxi or new: most upgrading home buyers would max out their borrowing capacity
+Delphia of oc is a mortgage specialist. She said majority of Singapore borrowers (probably including foreigners) would max out their loan quantum. One of the most important limits is TDSR. No more than 55% (was 60) of income (including CPF) is allowed to be used for installment. 55% of total income spent on debt servicing .. sounds like low ground. 
+
+I asked her why "majority" has such a motivation. Delphia said many want to maximize their investment. (Delphia herself felt buying at the current price level doesn't sound like good investment.) It's leveraged investment at a very low borrowing cost.
+
+Now I recall Wallace Xu said something similar about American home buyers... they are highly sensitive to rate hike.
 -- consider using new abbreviations : 
 cRisk
 mRisk
