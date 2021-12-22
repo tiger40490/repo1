@@ -8,13 +8,21 @@ Renting in JC is the default choice. flexibility
 
 --
 How did I get Tilray stock for free?
-
+Probably a conversion due to M&A.
+I assume it is a data error
 -- update
-any time after 55, I can choose 
-* either to withdraw most of my cpf to invest/spend
-* or let it grow at 2.5% until I withdraw
+After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than bank deposits in return and liquidity.
 
-Don't withdraw and deposit to savings account. No liquidity advantage!
+any time after 55, I can incrementally withdraw most of my cpfOA to invest or spend.
+
+-- new: first cash pile to invest: SRS^cpfOA^cash
+Q: If I have extra cash to invest into stocks, should I invest cpfOA, or SRS or idle cash ?
+
+SRS is the first fund to be invested.
+
+idle cash is ranked in the middle.
+
+cpfOA has 2.5% interest by default, so the opportunity cost_OF_investing is too high. cpfOA is the last fund to be invested.
 
 -- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/ or https://tanbinvest.dreamhosters.com/?p=24246&preview=true
 It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
