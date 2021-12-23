@@ -22,7 +22,7 @@ SRS is the first fund to be invested.
 
 idle cash is ranked in the middle.
 
-cpfOA has 2.5% interest by default, so the opportunity cost_OF_investing is too high. cpfOA is the last fund to be invested.
+cpfSA has 4% interest by default, so the opportunity cost_OF_investing is too high. cpfSA is the last fund to be invested.
 
 -- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/ or https://tanbinvest.dreamhosters.com/?p=24246&preview=true
 It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
