@@ -7,32 +7,12 @@ Doctors enjoy career longevity; programmers enjoy international mobility.
 
 NBA, artists, film professionals .. lack d@m
 
-look at the SG film festival brochure. Those film makers don't make lots of money. They are small-budget or indie films. It's like an expensive modern art form, supported by advertizers, corporate sponsors and governments. 
+look at the SG film festival brochure. Those film makers don't make nearly as much money as the blockbusters. They are small-budget or indie films. It's like an expensive modern art form, supported by advertizers, corporate sponsors and governments. 
 
 I guess like NBA, 5% of the players make 95% of the money.
-Perhaps game development is similar.
+Perhaps game development is somewhat similar, based on brief chats with Dahlan. I feel the best career prospect for an ordinary game developer is pivot to c++ findev.
 
 What if my kids get into that domain? 
-
-==new or update: ##unlisted capabilities for IV
-Some of these unlisted requirements are more essential than listed ones, and disqualify many candidates, and represent my competitive advantages on a given job market.
-
--- capability: oral English skill .. some interviewers require a certian level of fluency, but that level is never listed explicitly.
--- capability: QQ .. [basic OO, basic algo, basic language nlg, basic number theory, ,] Actually, these are not basic, not used on the job for 20Y
--- capability: number theory
--- capability: whiteboard
-Most candidates are unused to whiteboard coding while explaining. 
-
-Even harder when stuck and following hints from interviewer.
-
-We are often rejected for ECT speed, or communication, or poor use of whiteboard real estate
--- capability: ECT, BP
-The minimum standard is usually non-trivial, and requires practice.
-
--- take on student's role .. Josh mentioned the attitude of a student (even though he meant something else). If you were a reluctant student in school and only studied to pass exams and have never since "looked back", then you may find the dev interview process tough and challening. It requires you to go back into student mode. Specifically you have to review your past material + weaknesses, pick some topics, form some plan, study for weeks in your spare time, without a teacher.
-
-I think this is one fundamental reason I feel strong among my cohort.
-=====
 -- new: 
 A finance professional could claim that she can earn more in a year than a high-school classmate makes in 10Y, and it's not even an outlier year.
 
