@@ -14,7 +14,10 @@ In reality, personal diary/blog + some email discussion is the only reasonable c
 
 Note all of these activities can (and did) take up sooo much spare time, that they often become the primary energy-sink of the year
 
+Writing vs reading.. Scope here is non-fiction, including current affairs,,, I always feel most people, across education levels, don't read as much as is good for them (due to different priority or available leisure time). Among those "lifelong" readers, I believe most don't write nearly as much as I do. Nothing wrong, but I feel if you are seriously reading some topics, then you must have your personal observations. Writing (later reviewing) them is an excellent practice to enhance understanding. That includes clarifying, deepening, correlating, comparison, pattern-finding, correcting mistakes, finding appropriate phrasing... So I always feel if you are serious about some reading topic, then you had better work on improving your understanding. If you don't use writing, then what can you use? 
+
 --fuxi: excessive blogg@@
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace, parenting, localSys
+
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
