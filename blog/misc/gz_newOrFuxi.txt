@@ -1,3 +1,6 @@
+-- fuxi: Dec 2021 when Aaron asked me about my experience so far during covid19, I gave a good answer about 1) rising income 2) SWE demand skyrocketing. Hongzhi later said similar things about (2)
+I then pointed out the biggest career risk to me is competition (supply-n-demand), esp. from younger SWE. If all of them are drawn to internet companies, then my competitive position would improve.
+
 -- fuxi or new: not all my employers were loss-making
 Let's score a +1 if one past employer was making profit during my stay. Score a -1 if it was making a loss.
 
