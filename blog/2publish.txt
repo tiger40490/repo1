@@ -1,3 +1,7 @@
+-- new: what makes a good category:
+not too many or too few posts. Note a tag is allowed to have a lot of posts
+distinct .. not overlapping with another category
+specific, memorable, short names. Note a tag is allowed to have more verbose names
 
 ==new or update: ##unlisted capabilities for IV
 Some of these unlisted requirements are more essential than listed ones, effectively filter out many candidates, and represent my competitive advantages on a given job market.
