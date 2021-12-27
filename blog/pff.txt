@@ -1,3 +1,9 @@
+-- fuxi: rbh recreational stock picking. my goal was to grow from 10k to 20k soon. Now my trading frequency is lower and must speed up the incremental pace.
+
+I can top up on existing names and buy bigger chunks of new names.
+
+I can also allocate most of my new money to ETFs
+
 -- fuxi: nowadays our family trips cost more due to fancy meals, tickets...
 I  hope to control tCost and cCost
 This trend is more like creep than splurge
@@ -8,7 +14,6 @@ With a growing reserve, I can opt for a lower-paying job in JC, but there could 
 Best choice for family is still living in JC and commuting to JC or NYC. 
 
 Renting in JC is the default choice. flexibility
-
 --
 How did I get Tilray stock for free?
 Probably a conversion due to M&A.
