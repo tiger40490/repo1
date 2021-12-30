@@ -1,6 +1,7 @@
 -- fuxi: rbh recreational stock picking. my goal was to grow from 10k to 20k soon. Now my trading frequency is lower and must speed up the incremental pace.
 
-I can top up on existing names and buy bigger chunks of new names.
+I can top up on existing names or buy bigger chunks of new names. 
+However, new names are usually less established, less proven
 
 I can also allocate most of my new money to ETFs
 
