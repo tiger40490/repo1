@@ -3,7 +3,11 @@
 I can top up on existing names or buy bigger chunks of new names. 
 However, new names are usually less established, less proven
 
-I can also allocate most of my new money to ETFs
+I can also allocate most of my new money to ETFs.
+
+I can use limit orders on low-notional ETFs.
+
+If I invest too much (like 9k) into ETFs, then I can pick a time. When I'm ready to buy a stock, I could liquidate some ETF.
 
 -- fuxi: nowadays our family trips cost more due to fancy meals, tickets...
 I  hope to control tCost and cCost
