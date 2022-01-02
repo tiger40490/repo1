@@ -13,7 +13,16 @@ I guess like NBA, 5% of the players make 95% of the money.
 Perhaps game development is somewhat similar, based on brief chats with Dahlan. I feel the best career prospect for an ordinary game developer is pivot to c++ findev.
 
 What if my kids get into that domain? 
--- new: 
+-- career longevity: finDev
+sales career.. quite tiring when you are older and less energetic
+trading career .. young energy needed
+mgmt career .. young managers can become a challenger.
+SWE career .. possibly shares some of the longevity advantages of research career
+finDev .. has domain nlg, but 
+* the math dnlg is rarely needed in any job.
+* the jargons are easily acquired
+* the tech best practices are less portable, less widely applicable
+
 A finance professional could claim that she can earn more in a year than a Grade-1 classmate makes in 10Y, and it's not even an outlier year.
 
 What we don't discuss is, the classmate (accountant, engineer, RnD, nurse..) can grow her career, and more or less maintain a salary for decades, often until retirement.

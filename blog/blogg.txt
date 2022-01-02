@@ -1,7 +1,7 @@
 -- new or fuxi: A299 where
-Needed in ff mostly for gmail, calendar.
+Needed in ff? mostly for gmail, calendar.
 
-Needed on the go mostly for git-blogging
+Needed on the go? mostly for git-blogging
 
 -- new blogg vs writing4publication
 taking note of a memorable conversation: I tend to confuse two modes
