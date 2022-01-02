@@ -4,18 +4,6 @@ why is office superior to .. bus interchange or even library?
 * i can safely leave my belongings behind 
 * printout
 * possibility of work, workout
--- new: top xx experts of US/Japan/Germany
-Depending on the field, each of us tends to assume U.S. top experts are world-class in that field.
-
-I think only 2 other countries, Japan and Germany, are universally considered leaders in virtually all fields.
-
-Britain could be a #4.
-
-Russia and China are perceived as less integrated into the international community
-France? Not perceived as a scientific nation
-Most European countries are too small in terms of population.
-
-All other countries' experts are less trusted.
 
 -- new: ##improve on a already decent lifestyle
 or update 4 success
@@ -52,7 +40,18 @@ Many of my Fin-IT foreign colleagues really like SG and want to stay here foreve
 These same individuals often migrate to U.S., Australia, Canada, or return to home countries. Therefore, SG is engaged in a global competition for talents and their genes. 
 
 I am one of the well-naturalized foreign talents.
+-- new: top xx experts of US/Japan/Germany
+Depending on the field, each of us tends to assume U.S. top experts are world-class in that field.
 
+I think only 2 other countries, Japan and Germany, are universally considered leaders in virtually all fields.
+
+Britain could be a #4.
+
+Russia and China are perceived as less integrated into the international community
+France? Not perceived as a scientific nation
+Most European countries are too small in terms of population.
+
+All other countries' experts are less trusted.
 -- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
 if you want precise control (me), then prefer non-template, and classic editor.
