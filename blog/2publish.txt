@@ -26,4 +26,4 @@ The minimum standard is usually non-trivial, and requires practice.
 I think this is one fundamental reason I feel strong among my cohort.
 =====
 -- new: abbreviation for the wpress admin post listing
-WAPP [wordpress admin posts page]
+WPAPP [wordpress admin posts page]
