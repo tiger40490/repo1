@@ -9,17 +9,6 @@ When I read books on REITs, I remember the AMB effort.. the differences in terms
 I recall that when I was told stock picking requires reading financial statements, I balked. Then in 2020 I learned my 3-min due diligence. 
 
 It turned out that zero commission and fractional investing removed the bulk of the burden/reluctance/drudgery of due diligence.
--- fuxi: rbh recreational stock picking. my goal was to grow from 10k to 20k soon. Now my trading frequency is lower so I want to speed up the incremental pace.
-
-I can top up on existing names or buy bigger chunks of new names. 
-However, new names are usually less established, less proven
-
-I can also allocate most of my new money to ETFs.
-
-I can use limit orders on low-notional ETFs.
-
-If I invest too much (like 9k) into ETFs, then I can pick a time. When I'm ready to buy a stock, I could liquidate some ETF.
-
 -- fuxi: nowadays our family trips cost more due to fancy meals, tickets...
 I  hope to control tCost and cCost
 This trend is more like creep than splurge
