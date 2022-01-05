@@ -1,16 +1,3 @@
--- new: ##improve on an already decent lifestyle
-othRisk
-Link into "plowback" post? Or insert therein
-
-intimacy .. more frequent
-workout.. 5/wk
-raw veg, smoothie, delay meals
-recreational AMB .. recreation is an improvement on lifestyle
-recreational piano
-
-Frequently, we hit resistance in these improvement journeys. Sometimes, it calls for zqbx.
-
-pff and gz are not part of lifestyle, and officially out of scope
 
 -- update traction/vision
 AMB looks so daunting but someday I will find the traction/vision
@@ -46,6 +33,19 @@ All other countries' experts are less trusted.
 -- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
 if you want precise control (me), then prefer non-template, and classic editor.
+-- new: ##improve on an already decent lifestyle
+othRisk
+Link into "plowback" post? Or insert therein
+
+intimacy .. more frequent
+workout.. 5/wk
+raw veg, smoothie, delay meals
+recreational AMB .. recreation is an improvement on lifestyle
+recreational piano
+
+Frequently, we hit resistance in these improvement journeys. Sometimes, it calls for zqbx.
+
+pff and gz are not part of lifestyle, and officially out of scope
 -- fuxi: 
 widget config is generic. theme config would overwrite widget config
 
