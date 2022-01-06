@@ -27,15 +27,6 @@ After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than 
 
 any time after 55, I can incrementally withdraw most of my cpfOA to invest or spend.
 
--- new: first cash pile to invest: SRS^cpfOA^cash
-Q: If I have extra cash to invest into stocks, should I invest cpfOA, or SRS or idle cash ?
-
-SRS is the first fund to be invested.
-
-idle cash is ranked in the middle.
-
-cpfSA has 4% interest by default, so the opportunity cost_OF_investing is too high. cpfSA is the last fund to be invested.
-
 -- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/ or https://tanbinvest.dreamhosters.com/?p=24246&preview=true
 It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
 
@@ -45,10 +36,6 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 
 Matching SP500 return ... is a bad OPP
 Investing 80% of my assets, and minimizing idle cash (make every dollar work hard) ... is an OPP
-
--- update ..
-primary goal of exp recon is .. expense analysis
-A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. The expense recon provides exactly that quality assurance.
 
 -- fuxi:
 SG and China rEstate can't keep rising at the last-10Y pace.
@@ -72,6 +59,3 @@ For these individuals, my ezlife on the cash flow high ground is .. but a dream.
 I like mathematical criteria for that high ground, criteria like brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack key incredients.
 
 In my GEX course, I could see the livelihood pressure of many Singapore /nationals/ in their 40s, 50s and 60s
-
--- fuxi:
-What units face risk of price drop? Wife said older flats. I say on-the-run. The better question is "will the price gap widen or narrow, over our holding window?"

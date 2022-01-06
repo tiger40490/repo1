@@ -1,3 +1,7 @@
+-- update ..
+primary goal of exp recon is .. expense analysis
+A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. 
+
 -- update week1 rto
 why is office superior to .. bus interchange, and even library?
 * stay for 1-9 hour
