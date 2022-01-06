@@ -1,16 +1,3 @@
--- update ..
-primary goal of exp recon is .. expense analysis
-A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. 
-
--- update week1 rto
-why is office superior to .. bus interchange, and even library?
-* stay for 1-9 hour
-* safely leave belongings behind 
-* printer
-* possibility of work, workout
-* big screens, big table
-* many workout equipment in office
-
 -- update traction/vision
 AMB looks so daunting but someday I Will find a traction/vision secret
 
@@ -19,32 +6,6 @@ Re my mail to Edmund, most retail investors have not found any vision.
 boy's math coaching... My new vision secret is .. put aside benchmarks and try to increase his intrinsic motivation by 1%. Possibly insignificant, but better than nothing.
 
 chin-up 100/D was daunting.. my traction secret is ...
--- new: what makes a good category:
-not too many or too few posts. Note a tag is allowed to have a lot of posts
-distinct .. not overlapping with another category
-specific, memorable, short names. Note a tag is allowed to have more verbose names
--- update post on deathbed
-GexAcademy Chairman Patrick, Lee Hom... all show high net worth in the millions. H.Yi mentioned a fellow developer friend having 3M net assets. Well I don't feel envious.
-After ffree, or at our deathbed, marginal benefit of one more million is not that important. More important are family harmony, successE (carefree ezlife with wellness), succcessZ.
 
-==new or update: ##unlisted capabilities for IV
-Some of these unlisted requirements are more essential than listed ones, effectively filter out many candidates, and represent my competitive advantages on a given job market.
-
--- capability: oral English skill .. some interviewers require a certian level of fluency, but that level is never listed explicitly.
--- capability: QQ .. [basic OO, basic algo, basic language nlg, basic number theory, ,] Actually, these are not basic, not used on the job for 20Y
--- capability: number theory
--- capability: whiteboard
-Most candidates are unused to whiteboard coding while explaining. 
-
-Even harder when stuck and following hints from interviewer.
-
-We are often rejected for ECT speed, or communication, or poor use of whiteboard real estate
--- capability: ECT, BP
-The minimum standard is usually non-trivial, and requires practice.
-
--- take on student's role .. Josh mentioned the attitude of a student (even though he meant something else). If you were a reluctant student in school and only studied to pass exams and have never since "looked back", then you may find the dev interview process tough and challening. It requires you to go back into student mode. Specifically you have to review your past material + weaknesses, pick some topics, form some plan, study for weeks in your spare time, without a teacher.
-
-I think this is one fundamental reason I feel strong among my cohort.
-=====
 -- new: abbreviation for the wpress admin post listing
 WPAPP [wordpress admin posts page]
