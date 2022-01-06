@@ -1,9 +1,8 @@
 
--- fuxi:
-SG and China rEstate can't keep rising at the last-10Y speed.
-However, U.S. stocks can keep rising at the last-10Y pace. There's enough hot money to support the growth stocks. As to value stocks, U.S. dividend stocks consistently generate CDY.
+-- update post on rbh or...
+buy-n-forget is not so easy with the bond mufu. The expRatio (0.5%?) erodes the low return. 
+I may need to babysit my positions !
 
--- update post on rbh
 When I read books on REITs, I remember the AMB effort.. the differences in terms of reluctance.
 
 I recall that when I was told stock picking requires reading financial statements, I balked. Then in 2020 I learned my 3-min due diligence. 
@@ -51,6 +50,10 @@ Investing 80% of my assets, and minimizing idle cash (make every dollar work har
 primary goal of exp recon is .. expense analysis
 A minor goal is liquid NAV tracking. This goal doesn't require complicated system. Accuracy and reliability is extremely valuable. The expense recon provides exactly that quality assurance.
 
+-- fuxi:
+SG and China rEstate can't keep rising at the last-10Y pace.
+However, U.S. stocks can keep rising at the last-10Y pace. There's enough hot money to support the growth stocks. As to value stocks, U.S. dividend stocks consistently generate CDY that's superior to non-US stocks.
+
 -- fuxi or new: most upgrading home buyers would max out their borrowing capacity
 Delphia of oc is a mortgage specialist. She said majority of Singapore borrowers (probably including foreigners) would max out their loan quantum. One of the most important limits is TDSR. No more than 55% (was 60) of income (including CPF) is allowed to be used for installment. 55% of total income spent on debt servicing .. sounds like low ground. 
 
@@ -60,10 +63,6 @@ Now I recall Wallace Xu said something similar about American home buyers... the
 -- consider using new abbreviations : 
 cRisk
 mRisk
-
--- update post on rbh or...
-buy-n-forget is not so easy with the bond mufu. The expRatio (0.5%?) erodes the low return. 
-I may need to babysit my positions !
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
