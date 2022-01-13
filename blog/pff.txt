@@ -1,3 +1,9 @@
+-- update or new
+With zero-div stocks and commission costs, entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. Longer due diligence is required. I often become paralyzed.
+
+The dividend payout is a huge psychological and economic cushion against NAV drop. 
+
+Similarly, rEstate investment without rental yield is more risky.
 
 -- update post on rbh or...
 buy-n-forget is not so easy with the bond mufu. The expRatio (0.5%?) erodes the low return. 
