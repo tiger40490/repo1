@@ -1,11 +1,30 @@
+-- new: y parents buy expensive gears 4 your new hobby
+t_creep
+I always laugh at the middle-class Singapore parents who buy high-end equipment whenever their kids start learning a new skill
+* musical instruments
+* art equipment
+* sports gears
+* multimedia gadgets
+
+Now I ask myself Q: what's the priority of a middle-class parent? 
+I guess answer is motivation, commitment. Some of these parents are not mindless -- they are mindful of the psychological effect on the child.
+
+-- update: 
+t_creep
+Monthly spend for a family of 4, excluding IRAS or mortgage: Philip Che said 5k (see blogpost)
+Now Claris said 10k.
+
+Is it inflation? My basket cost grew 15-30% over 20Y
+
 -- update blogpost on rescue handout
 Some American families received handout equivalent to 20% of annual income. This is a very high percentage.
 
-Most handouts are a smaller percentage.
+In general, handouts are a much smaller percentage.
 -- update or new
-With zero-div stocks and commission costs, entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. Longer due diligence is required. I often become paralyzed.
+With zero-div stocks and commission costs, entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. 
+I often become paralyzed by the due diligence.
 
-The dividend payout is a huge psychological and economic cushion against NAV drop. 
+The dividend payout is a huge psychological and economic cushion against NAV drop or regretable entry-price.
 
 Similarly, rEstate investment without rental yield is more risky.
 
