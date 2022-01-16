@@ -1,6 +1,6 @@
 
 -- update post on array^ptr
-a ptr object can be reseated to point to an array.
+a ptr Object can be reseated to point to an array.
 An arrayName (is not an object) can't be reseated. It's a compile-time constant.
 
 -- update or new: 2D-array ptr type
@@ -9,7 +9,7 @@ If via malloc then we get an int ptr
 if declared as static 2D-array, then we get a ptr-to-int-ptr i.e. double ptr
 How about a jagged 2D-array? Same double-ptr
 
-how about a shared ptr to a 2D-array? I think it's same as shared_ptr to a 1D array. Note this features is unavailable before c++17. If you initialized a shred_prr with a heap array, the shared_ptr dtor will call delete rather than delete[] on the original ptr :(
+how about a shared ptr to a 2D-array? I think it's same as shared_ptr to a 1D array, both allocated via array-new. Note this features is unavailable before c++17. If you have initialized a shred_prr with a "malloc" array, the shared_ptr dtor will call delete rather than delete[]. The deallocation is leaky.
 
 -- new: languages with entry barriers to impatient young programmers
 In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
