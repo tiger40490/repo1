@@ -1,11 +1,3 @@
-
---new: best use of ETF against due-diligence
-Keep small positions in a number of specific ETFs.
-If specific sector is down but I have no specific stock pre-cleared and checked out, then just buy sector-specific ETFs.
-After I use single stocks to gain exposure, reduce those ETFs to free up cash.
-
-Reduce (or exit) the broad ETFs.
-
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=22750&action=edit
 in the late 2000s, my mom said CNY 400k was a good-enough medical reserve for each retiree, on top of health insurance (reimbursement-based). Such insurance has coinsurance, and many exclusions including elective treatments [imported medication, supplements,,]. 
 
