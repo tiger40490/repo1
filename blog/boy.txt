@@ -4,8 +4,8 @@ Look at math. I believe East Asian students have an edge, but sometime during th
 
 In the big picture, the math advantage is rather short-lived
 
--- Aaron and Claris said overseas educated graduates tend to stand out
-I said I feel local university grads have impressed me.
+-- fuxi: Aaron and Claris said overseas educated graduates tend to stand out. Their benchmark was local grads.
+I said I feel local university grads have impressed me. I was using some undefined benchmark
 -- fuxi: how can we give boy a sense of ownership of his SGD account?
 After that, we can use it as reward/penalty
 
