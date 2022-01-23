@@ -1,3 +1,10 @@
+-- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=22750&action=edit
+in the late 2000s, my mom said CNY 400k was a good-enough medical reserve for each retiree, on top of public health insurance (reimbursement-based). Such insurance has coinsurance, and numerous exclusions including elective treatments [imported medication, supplements,,]. 
+
+In 2022 my dad recalled the consensus figure among retirees of that time -- regardless of the medical condition, if CNY 500k is spent over and on top of insurance and still the life can't be saved, then it's reasonable to give up. As such CNY 500k was a reasonable personal medical reserve, for millions of well-educated Chinese retirees.
+
+Fast forward to 2022, CNY 500k-1000k of family savings is common according to my dad, living in Beijing. I think this improvement in savings reflects (medical++) inflation, rising income, rising wealth esp. in rEstate.
+
 -- update blackholes: 
 if I continue to negelect workout, coding drill, QQ,,, for too long, __zsms__ would likely grow (dissatisfaction blackholes)
 even though I put in more hours into my projects
