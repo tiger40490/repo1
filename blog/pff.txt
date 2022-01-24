@@ -1,6 +1,6 @@
 
--- update or new
-With zero-div stocks and commission costs, entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. 
+-- update one of the blogposts on div stock
+With zero-div stocks or commission costs, the entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. 
 I often become paralyzed by the due diligence.
 
 The dividend payout is a huge psychological and economic cushion against NAV drop or regretable entry-price.
@@ -13,7 +13,7 @@ I may need to babysit my positions !
 
 When I read books on REITs, I remember the AMB effort.. the differences in terms of reluctance.
 
-I recall that when I was told stock picking requires reading financial statements, I balked. Then in 2020 I learned my 3-min due diligence. 
+I recall that when I was told stock picking requires reading financial statements, I balked. Then in 2020 I developed my 3-min due diligence. 
 
 It turned out that zero commission and fractional investing removed the bulk of the burden/reluctance/drudgery of due diligence.
 
