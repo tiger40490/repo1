@@ -1,3 +1,12 @@
+-- new U.S.eq=more reliable than moneyMkt mufu
+In 2021, I have come to understand some truths about SDB mufu. I consider money-market mufu a similar animal, indistinguishable from SDB mufu. 
+
+These funds have less than 2% annual growth rate in normal years, much lower than U.S.eq.
+
+The expRatio is usually more than 0.3%, much worse than U.S. ETF or Rbh (0% upfront+trailer) 
+
+In a down turn, the trough can last months (12M is conveivable), exacerbated by the expRatio.
+
 -- new: hotlines in U.S.
 cat: retire where
 
