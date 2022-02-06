@@ -3,9 +3,6 @@ There are many many web sites discussing the same. I have no time to read them.
 
 I think it's prudent to reduce exposure to rate-sensitive sectors such as mReit. I don't like selling but I can reduce buying pace.
 
--- new: if I lose the MLP job and can't find a equivalent job in SG
-Instead of leaving SG, I could get a pay cut and work for a year or so, and apply for for a BTO flat.
-
 -- new or update one of the blogposts on ccbr
 in my old age, I still want (not "need") a salary.
 
@@ -24,23 +21,6 @@ These funds generate less than 2% pa in normal years, much lower than U.S.eq.
 The expRatio is usually more than 0.3%, much worse than U.S. ETF or Rbh (0% upfront+trailer) 
 
 In a down turn, the trough can last months (12M is conveivable), exacerbated by the expRatio.
-
--- new: hotlines in U.S.
-cat: retire where
-
-Rude awakening in early 2007: Government services were often very poor. Hit numerous immigration problems. ID issuance was slow. DMV had huge lines. Post office had shorter lines but inadequate hotlines.
-
-Government Hotlines are overloaded...
-
-Many government services are self-service, either online or by write-in [still common as of 2007]. Many complicated procedures with pages of instructions to read. Often you must ask friends + self-teach. Still you can hit roadblocks that require commercial, professional assistance. Sometimes there was a visible effort to simplify (or explain) the process for new users. I would say far from effective. In contrast, Singapore goverment services come with plenty of hotline staff (occasionally community centers too) .. adequate staffing !
-
-Semi-government, non-profit services are similar. Hospitals, utilities, schools, credit bureaus, airports, transport authorities, police, legal systems, IRS,,,
-
-Some big private [i.e. for-profit] service providers have adequate customer support, often tiered based on your account tier! I noticed it in GS, Verizon, ... So if you don't have enough in-house expertise, then you need to pay a premium.
-
-In 2007, I couldn't afford to pay the premium :(
-
-Alternatively, smaller service providers offer better customer support.
 
 -- update one of the blogposts on div stock
 With zero-div stocks or commission costs, the entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. 
