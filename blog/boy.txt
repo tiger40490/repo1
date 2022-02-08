@@ -1,3 +1,7 @@
+-- digital tech is used mostly for 1) entertainent 2) productive use.
+(Some usages are a mix of the two. For eg, news)
+
+Kids can learn to differentiate and learn to move towards productive uses.
 -- update blogpost on ... China student math
 Look at programming course. East Asian students don't seem to have an edge over Americans. 
 Look at math. I believe East Asian students have an edge, but sometime during the 4Y in college (possibly starting in high school), in STEM courses American students somehow catch up to close the gap.
