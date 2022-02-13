@@ -1,5 +1,6 @@
+-- update ..
+for shorter titles, use Chinese wording, even though they are less valuable for sharing.
 -- fuxi: unordered list can use greek alphabets
-
 -- We grow via adversities and reflections [including expressive writing] Without reflections, the growth is slower. We may even forget the details of the adversities and fail to grow.
 
 -- new or fuxi: A299 where
