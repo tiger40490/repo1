@@ -1,3 +1,8 @@
+-- wp super cache
+too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
+
+i think caching is designed for large user base. I have a user base of 1.
+
 -- new underrated j4 blogg
 https://www.huffpost.com/entry/benefits-of-journaling-_b_6648884 lists 10 benefits. I generally agree.
 
