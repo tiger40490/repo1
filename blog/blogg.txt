@@ -1,12 +1,7 @@
--- wp super cache
-too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
-
-i think caching is designed for large user base. I have a user base of 1.
-
 -- new underrated j4 blogg
-https://www.huffpost.com/entry/benefits-of-journaling-_b_6648884 lists 10 benefits. I generally agree.
+We grow wiser via adversities and reflections [including expressive writing]. Without reflections, the growth is slower. We may even forget the details of the adversities and fail to grow.
 
-The greatest weapon against stress is our ability to choose one thought over another.
+https://www.huffpost.com/entry/benefits-of-journaling-_b_6648884 lists 10 benefits. I generally agree.
 
 [d = true, but often neglected, discounted, dismissed]
 blogg can stretch your child's IQ. One of the best single measures of overall intelligence as measured by intelligence tests is vocabulary.
@@ -16,15 +11,8 @@ Writing has critical connections to speaking. I need more improvement in speakin
 [d] Blogg can spark your creativity, esp. when facing a tough challenge that requires creative problem solving.
 [d] Blogg can enhance self-esteem and self-confidence. Reflections on positive experiences can build a catalog of personal achievements that you continue to go back to. Indeed I revisit my positive experiences via blogg. I also blog about negative experience for learning and coping.
 
--- update ..
-for shorter titles, use Chinese wording, even though they are less valuable for sharing.
--- fuxi: unordered list can use greek alphabets
--- We grow via adversities and reflections [including expressive writing] Without reflections, the growth is slower. We may even forget the details of the adversities and fail to grow.
-
--- new or fuxi: A299 where
-Needed in ff? mostly for gmail, calendar.
-
-Needed on the go? mostly for git-blogging
+-- update blogpost on sms but which one?
+The greatest weapon against stress is our ability to choose one thought over another.
 
 -- new blogg vs writing4publication
 taking note of a memorable conversation: I tend to confuse two modes
@@ -32,7 +20,7 @@ taking note of a memorable conversation: I tend to confuse two modes
 * journalist taking notes for potential publication use. This mode often provides active recreation, and keeps my vocab and my mind active, even improving.
 * taking personal notes for my own review
 
-In my 30's, I would look down on my friends (like Chonglei.Qi) who had unique, sometims incisive, observations on many topics. I often say "commit to writing down your observations and get them published." That would lead to more meaningful discussions and create more value-add.
+In my 30's, I would take a critical view on my friends (like Chonglei.Qi) who had unique, sometims incisive, observations on many topics. I often say "commit to writing down your observations and get them published." That would lead to more meaningful discussions and create more value-add.
 
 For some years, I also had a dim view on private diary (in contrast to public blog). I would insist that it was important to review the content with other people. But now I wonder how important.
 
@@ -43,6 +31,11 @@ In reality, personal diary/blog + some email discussion is the only reasonable c
 Note all of these activities can (and did) take up sooo much spare time, that they often become the primary energy-sink of the year
 
 Writing vs reading.. Scope here is non-fiction, including current affairs,,, I always feel most people, across education levels, don't read as much as is good for them (due to different priority or available leisure time). Among those "lifelong" readers, I believe most don't write nearly as much as I do. Nothing wrong, but I feel if you are seriously reading some topics, then you must have your personal observations. Writing (later reviewing) them is an excellent practice to enhance understanding. That includes clarifying, deepening, correlating, comparison, pattern-finding, correcting mistakes, finding appropriate phrasing... So I always feel if you are serious about some reading topic, then you had better work on improving your understanding. If you don't use writing, then what can you use? 
+
+--fuxi wp super cache
+too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
+
+i think caching is designed for large user base. I have a user base of 1.
 
 --fuxi: excessive blogg@@
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace, parenting, localSys
