@@ -1,3 +1,12 @@
+-- new or fuxi
+rEstate is a growth asset based on FOLB. People's desire for better living is insatiable mostly due to FOLB
+
+value stocks are still growth assets, theoretically based on earning growth. Utility stocks.
+
+bonds are not growth assets at all. They are suitable for insurers, foreign reserves, 
+
+Gold and oil are inflation-based growth assets.
+
 -- fuxi
 Perhaps use up combined cpfOA first. Then slowly "refund" after we know we don't need the extra cash for rEstate investment. 
 Wife's FSM is a better buffer than cpfOA balance, so leave 0 in her cpfOA 
