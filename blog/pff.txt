@@ -1,11 +1,15 @@
 -- new or fuxi
-rEstate is a growth asset based on FOLB. People's desire for better living is insatiable mostly due to FOLB
+rEstate is a growth asset based on FOLB. People's desire for better home is insatiable mostly due to FOLB.
 
-value stocks are still growth assets, theoretically based on earning growth. Utility stocks.
+tech stocks are growth assets based on FOMO
 
-bonds are not growth assets at all. They are suitable for insurers, foreign reserves, 
+Value stocks are still growth assets, (in theory) based on earnings growth. Utility stocks, oil stocks, tobacco stocks, eReit.
+
+bonds are not growth assets. They are suitable for insurers, foreign reserves, 
 
 Gold and oil are inflation-based growth assets.
+
+bccy is a growth asset, related to inflation and FOMO.
 
 -- fuxi
 Perhaps use up combined cpfOA first. Then slowly "refund" after we know we don't need the extra cash for rEstate investment. 
