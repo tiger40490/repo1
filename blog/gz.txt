@@ -1,3 +1,6 @@
+-- new (post to be linked into multiple posts): primary lang@FT_job has good demand
+https://btv-gz.dreamhosters.com/wp-admin/post.php?post=42801&action=edit
+
 -- update meaningful job.
 in Parliament Q&A
 Chan Chun Sing said that gov sector IT jobs are often more meaningful than a private sector job. I can say the same about nonprofit sector such as (non-commercial) schools. 

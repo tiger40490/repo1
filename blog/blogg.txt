@@ -1,4 +1,5 @@
-
+-- fuxi: 
+nowadays post title, tag/category are more impotant than post content
 
 -- fuxi: A299 where
 Needed on the go? mostly for git-blogging
