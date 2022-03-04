@@ -83,18 +83,6 @@ My stocks could be overvalued, but I don't bother to babysit them. The tcost and
 
 I do need to reduce my positions in low-yield and unproven stocks. They are at higher risk of getting overvalued.
 
--- fuxi:
-night trading is now competing for priority with my family time, household chores.. I think it's not worthwhile.
-
--- new U.S.eq=more reliable than SDB mufu
-In 2021, I have come to understand some truths about SDB mufu.
-
-These funds generate less than 2% pa in normal years, much lower than U.S.eq.
-
-The expRatio is usually more than 0.3%, much worse than U.S. ETF or Rbh (0% upfront+trailer) 
-
-In a down turn, the trough can last months (12M is conveivable), exacerbated by the expRatio.
-
 -- update one of the blogposts on div stock
 With zero-div stocks or commission costs, the entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. 
 I often become paralyzed by the due diligence.
@@ -132,20 +120,6 @@ I always laugh at the middle-class Singapore parents who buy high-end equipment 
 Now I ask myself Q: what's the priority of a middle-class parent? 
 I guess answer is motivation, commitment. Some of these parents are not mindless -- they are mindful of the psychological effect on the child.
 
--- fuxi: nowadays our family trips cost more due to fancy meals, tickets...
-I  hope to control tCost and cCost
-This trend is more like creep than splurge
--- fuxi
-My long stay in Bayonne reassured myself that Bayonne is an acceptable location, esp. if I work in JC.
-With a growing reserve, I can opt for a lower-paying job in JC, but there could be very good jobs in NYC.
-
-Best choice for family is still living in JC and commuting to JC or NYC. 
-
-Renting in JC is the default choice. flexibility
---
-How did I get Tilray stock for free?
-Probably a conversion due to M&A.
-I assume it is a data error
 -- update
 After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than bank deposits in return and liquidity.
 
@@ -160,20 +134,6 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 
 Matching SP500 return ... is a bad OPP
 Investing 80% of my assets, and minimizing idle cash (make every dollar work hard) ... is an OPP
-
--- fuxi:
-SG and China rEstate can't keep rising at the last-10Y pace.
-However, U.S. stocks can keep rising at the last-10Y pace. There's enough hot money to support the growth stocks. As to value stocks, U.S. dividend stocks consistently generate CDY that's superior to non-US stocks.
-
--- fuxi or new: most upgrading home buyers would max out their borrowing capacity
-Delphia of oc is a mortgage specialist. She said majority of Singapore borrowers (probably including foreigners) would max out their loan quantum. One of the most important limits is TDSR. No more than 55% (was 60) of income (including CPF) is allowed to be used for installment. 55% of total income spent on debt servicing .. sounds like low ground. 
-
-I asked her why "majority" has such a motivation. Delphia said many want to maximize their investment. (Delphia herself felt buying at the current price level doesn't sound like good investment.) It's leveraged investment at a very low borrowing cost.
-
-Now I recall Wallace Xu said something similar about American home buyers... they are highly sensitive to rate hike.
--- consider using new abbreviations : 
-cRisk
-mRisk
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
