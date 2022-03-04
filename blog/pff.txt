@@ -1,3 +1,4 @@
+
 -- update
 some of the dissatisfacitons. Many are optimization issues [pushing from acceptable to more optimal]
 
@@ -111,6 +112,14 @@ When I read books on REITs, I remember the AMB effort.. the differences in terms
 I recall that when I was told stock picking requires reading financial statements, I balked. Then in 2020 I developed my 3-min due diligence. 
 
 It turned out that zero commission and fractional investing removed the bulk of the burden/reluctance/drudgery of due diligence.
+
+-- new artificial complexities
+where2retire
+US personal income tax and US medical billing systems are too complicated for most people. That's why there are fulltime professionals to help folks understand and navigate the artificial complexities.
+
+The poor can't afford any of these professional help, so they become poorer. 
+
+Therefore, this is a knowledge gap between the rich and poor.
 
 -- new: y your parents buy expensive gears 4 your new hobby
 t_creep
