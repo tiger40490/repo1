@@ -1,5 +1,5 @@
 
--- new: the rarity of millionaire
+-- new: rarity of millionaire
 Before I came to SG, I always felt a CNY-millionaire was like one in a few hundred in China.
 
 After I came to SG, I felt a SGD-millionaire was very different from ordinary people.
@@ -16,14 +16,6 @@ NAV Definition 3: NAV excluding your primary residence, including retirement acc
 In SG (and other cities), Definition 2 could cut the millionaire count by half or more.
 
 The millionair renter family is an interesting case. They often own investment properties. 
-
--- new: rate hike risks
-There are many many web sites discussing the same. I have no time to read them.
-
-I think it's prudent to reduce exposure to rate-sensitive sectors such as mReit. I don't like selling but I can reduce buying pace.
-
--- new: "move"%%rEstate portfolio to SG in my twilight years
-I have always agreed to the prudent advice that as we age, our risk appetite drops and we should rationalize/adjust our rEstate portfolio to less risky countries. Every country has risk factors, but SG remains the least risky.
 
 -- Hi Sok Ling,
 I appreciate your time, your questions, your comments based on your experience with other companies' products and other customers. I like documenting my thoughts and reactions to such discussions -- these discussions have high "density", and I need chew them over.
@@ -47,25 +39,6 @@ Re PrimeCare,
 I have probably never bought a NRB (non-reimbursement-based) medical insurance. I think one headache is the responsibility to remember what "benfits" there are available to me, in the middle of a medical event. If I don't remember, then I will fail to claim. (No such complexity with reimbursement-based.) So I think I need to keep a short summary of the benefits and periodically review them.
 
 Another issue is, within a few years I am likely to relocate to the U.S. and will terminate PrimeCare. In the interim, I will have my company insurance that covers 100%, rather than the 95% coverage of integrated shield. So In a claim event, the NRB cash payout is additional income for me, but not so badly needed. 
-
--- fuxi or update
-P.L listed some potential hotspots:
-student housing
-data centers
-MNC
-
-I have seen usReits in these sectors, but not yet in these:
-
-upmarket elderly care meditels
-properties rented to governments .. I didn't realize this is a "hotspot".
-
-As to "serviced apartments by 5-star operators", MIH is one prime example.
-
--- fuxi
-average Singaporean spends $1k/Y on travel. I think this is higher than other nationals because
-* higher disposible income 
-* limited domestic tourism market
-* domestic attractions are lower value than SEAsia destinations
 
 -- update which blogpost?
 Compared to my peers, my net asset is not so remarkable. What's remarkable is my Fuller Wealth based on my target quality of life.
@@ -153,6 +126,17 @@ For these individuals, my ezlife on the cash flow high ground is .. but a dream.
 I like mathematical criteria for that high ground, criteria like brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack key incredients.
 
 In my GEX course, I could see the livelihood pressure of many Singapore /nationals/ in their 40s, 50s and 60s
+
+-- fuxi: rate hike risks
+There are many many web sites discussing the same. I have no time to read them.
+
+I think it's prudent to reduce exposure to rate-sensitive sectors such as mReit. I don't like selling but I can reduce buying pace.
+
+-- fuxi
+average Singaporean spends $1k/Y on travel. I think this is higher than other nationals because
+* higher disposible income 
+* limited domestic tourism market
+* domestic attractions are lower value than SEAsia destinations
 
 -- fuxi: Some Aus lenders use Sg credit report, and use disposible income. They consider any loan that's 100% serviced by CPF as ... not a loan(?)
 Preferrential treatment to Singaporeans. Slightly.
