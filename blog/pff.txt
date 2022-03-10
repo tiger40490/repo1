@@ -1,22 +1,4 @@
 
--- new: rarity of millionaire
-Before I came to SG, I always felt a CNY-millionaire was like one in a few hundred in China.
-
-After I came to SG, I felt a SGD-millionaire was very different from ordinary people.
-
-In the U.S. media, "millionaire" still refers to the super-rich.
-
-I think SG is a rich country with relatively "even distribution", giving rise to more millionaires (per 1000 population) than other cities including NY, HK etc. 
-
-All the discussions so far include home value as part of NAV. By this definition, many paper-millionaires are cash poor and paper-rich, with huge portions of personal wealth locked away in illiquid assets.
-
-NAV Definition 2: NAV excluding your primary residence, including all retirement accounts that belong to you. 
-NAV Definition 3: NAV excluding your primary residence, including retirement accounts that you can use within 3Y.
-
-In SG (and other cities), Definition 2 could cut the millionaire count by half or more.
-
-The millionair renter family is an interesting case. They often own investment properties. 
-
 -- update which blogpost?
 Compared to my peers, my net asset is not so remarkable. What's remarkable is my Fuller Wealth based on my target quality of life.
 
@@ -83,6 +65,25 @@ It's crucial to be clear what exactly we want out of stock trading. Many valid p
 
 Matching SP500 return ... is a bad OPP
 Investing 80% of my assets, and minimizing idle cash (make every dollar work hard) ... is an OPP
+
+
+-- slow-cooking new: rarity of millionaire
+Before I came to SG, I always felt a CNY-millionaire was like one in a few hundred in China.
+
+After I came to SG, I felt a SGD-millionaire was very different from ordinary people.
+
+In the U.S. media, "millionaire" still refers to the super-rich.
+
+I think SG is a rich country with relatively "even distribution", giving rise to more millionaires (per 1000 population) than other cities including NY, HK etc. 
+
+All the discussions so far include home value as part of NAV. By this definition, many paper-millionaires are cash poor and paper-rich, with huge portions of personal wealth locked away in illiquid assets.
+
+NAV Definition 2: NAV excluding your primary residence, including all retirement accounts that belong to you. 
+NAV Definition 3: NAV excluding your primary residence, including retirement accounts that you can use within 3Y.
+
+In SG (and other cities), Definition 2 could cut the millionaire count by half or more.
+
+The millionair renter family is an interesting case. They often own investment properties. 
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
