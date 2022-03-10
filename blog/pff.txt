@@ -1,16 +1,14 @@
--- fuxi: Some Aus lenders use Sg credit report, and use disposible income. They consider any loan being 100% serviced by CPF as ... not a loan(?)
-Preferrential treatment to Singaporeans. Slightly.
 
 -- new: the rarity of millionaire
-Before I came to SG, I always felt a millionaire (in CNY) was like one in a few hundred in China.
+Before I came to SG, I always felt a CNY-millionaire was like one in a few hundred in China.
 
-After I came to SG, I felt a millionaire (In SGD) was very different from ordinary people.
+After I came to SG, I felt a SGD-millionaire was very different from ordinary people.
 
 In the U.S. media, "millionaire" still refers to the super-rich.
 
-I think SG is a rare rich country with relatively "even distribution", giving rise to more millionaires (per 1000 population) than other cities including NY, HK etc. 
+I think SG is a rich country with relatively "even distribution", giving rise to more millionaires (per 1000 population) than other cities including NY, HK etc. 
 
-All the discussions so far include home value as part of NAV. By this definition, many paper-millionaires are cash poor and paper-rich.
+All the discussions so far include home value as part of NAV. By this definition, many paper-millionaires are cash poor and paper-rich, with huge portions of personal wealth locked away in illiquid assets.
 
 NAV Definition 2: NAV excluding your primary residence, including all retirement accounts that belong to you. 
 NAV Definition 3: NAV excluding your primary residence, including retirement accounts that you can use within 3Y.
@@ -155,3 +153,6 @@ For these individuals, my ezlife on the cash flow high ground is .. but a dream.
 I like mathematical criteria for that high ground, criteria like brbr, Fuller Wealth. By these criteria, my ezlife and my high ground are realistic for some of them, but they lack key incredients.
 
 In my GEX course, I could see the livelihood pressure of many Singapore /nationals/ in their 40s, 50s and 60s
+
+-- fuxi: Some Aus lenders use Sg credit report, and use disposible income. They consider any loan that's 100% serviced by CPF as ... not a loan(?)
+Preferrential treatment to Singaporeans. Slightly.
