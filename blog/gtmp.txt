@@ -1,45 +1,23 @@
 -- fuxi
-Without wireless@sgx I feel inconvenient, but it's important to not become dependent on it. Fault-tolerance and resilience
+Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
 
 -- fuxi or update post on blogg]Chinese
 [[off the rail]] characters, Brithsh/American ladies in their 50s, are supposed to display an accumulation of wealth, wisdom, wellness[1], grace/dignity... but I think the most prominent superiority of the group is the English language.
 
 [1] the truly wise and affluent Brits/Americans (or any nationality) would prioritize wellness over material wealth.
 --update or new: English writing
-I looked at the "official" writing of Singapore police officers and the tech professionals in SG and the U.S. Just about everyone (except the Americans) writes with plenty of grammar mistakes.
+I looked at the "official" writing of Singapore police officers and the tech professionals in SG and the U.S. Just about everyone (except the native speakers) writes with plenty of grammar mistakes.
 
-I too write with grammar mistakes when I check with Grammarly, but hopefully fewer.
+I too write with grammar mistakes when I check with Grammarly, but hopefully fewer than them.
 
 -- update dissatisfaction blackholes
-some of the dissatisfacitons. Many are optimization issues [improving from merely "acceptable" to more optimal]
+Many items are optimization issues [improving from merely "acceptable" to more optimal]
 
 BMI
 sleep timing not improving
 risk capital increment still too slow? Not a dissatisfaction
 too many movies? Not a dissatisfaction. This is much better than that "home movie" situation
 not standing enough? Still 1-2H a day though my intuition tells me "insufficient".
-
-
--- new: discussion on HK with German
-Parents face way too much pressure from schools. Even primary schools conduct admission interviews on kids and parents. I tend to dismiss this factor but it is important to some (well-qualified, internationally mobile) individuals. 
-
-Immigrants who originally came from impoverished background probably won't complain. but their 2nd/3rd generations experience decline in livelihood (esp. housing), and complain. I told German that HK is still a wealthy city, but 
-the complaint could be more than 无病呻吟.
-
-HK Government is seen as 无能(wu2neng2)/incapable. Used to be an effective middleman negotiating with central gov and with the HK residents, but the current gov is bending towards one side only.
-
-Driven by central gov, the HK gov introduced many changes (filling gaps in legal system). They were implmeneted too fast, not well-thought-out. The authorities don't seem to learn from mistakes.
-
-HK is traditionally a place people came to make money. If the residents lose some freedoms but still experience improving livelihood, then protests would not gain support. I doubt democrasy is that important to HK residents.
-
-LKY said international competition is talent competition. HK is slowly becoming just another Chinese city, and losing non-Chinese talents. At the same time, it is attracting more mainland Chinese talent but I think this is not good enough as a compensating factor. In the long run, it would lose to Shanghai.
-
-I guess the property boom is fueled by mainland hot money, similar to Shanghai?
--- new or update
-Imagine you have been struggling against a serious personal disadvantage in a new place, you then notice another personal disadvantage. It would look worse than it is. Your self-esteem (self-image) is already compromised and vulnerable.
-
-eg: when I first came to SG. I struggled with English. Then I notice my age is older than my classmates.
-eg: when I first came to U.S. I struggled with "status" and (mostly tech) interview. Then I notice my wife's lack of education and English skills.
 
 -- wife doesn't have time for one-on-one? accompany her to shopping trips.
 -- no blog
@@ -148,6 +126,22 @@ Many of my Fin-IT foreign colleagues really like SG and want to stay here foreve
 These same individuals often migrate to U.S., Australia, Canada, or return to home countries. Therefore, SG is engaged in a global competition for talents and their genes. 
 
 I am one of the well-naturalized foreign talents.
+-- new: discussion on HK with German
+Parents face way too much pressure from schools. Even primary schools conduct admission interviews on kids and parents. I tend to dismiss this factor but it is important to some (well-qualified, internationally mobile) individuals. 
+
+Immigrants who originally came from impoverished background probably won't complain. but their 2nd/3rd generations experience decline in livelihood (esp. housing), and complain. I told German that HK is still a wealthy city, but 
+the complaint could be more than 无病呻吟.
+
+HK Government is seen as 无能(wu2neng2)/incapable. Used to be an effective middleman negotiating with central gov and with the HK residents, but the current gov is bending towards one side only.
+
+Driven by central gov, the HK gov introduced many changes (filling gaps in legal system). They were implmeneted too fast, not well-thought-out. The authorities don't seem to learn from mistakes.
+
+HK is traditionally a place people came to make money. If the residents lose some freedoms but still experience improving livelihood, then protests would not gain support. I doubt democrasy is that important to HK residents.
+
+LKY said international competition is talent competition. HK is slowly becoming just another Chinese city, and losing non-Chinese talents. At the same time, it is attracting more mainland Chinese talent but I think this is not good enough as a compensating factor. In the long run, it would lose to Shanghai.
+
+I guess the property boom is fueled by mainland hot money, similar to Shanghai?
+
 -- new: top xx experts of US/Japan/Germany
 Link into "broad strokes" blogpost
 Depending on the field, each of us tends to assume U.S. top experts are world-class in that field.
@@ -161,6 +155,13 @@ France? Not perceived as a scientific nation
 Most European countries are too small in terms of population.
 
 All other countries' experts are less trusted.
+
+-- slow-cooking new: 2nd big problem
+Imagine you have been struggling against a serious personal disadvantage in a new place, you then notice another personal disadvantage. It would look worse than it is. Your self-esteem (self-image) is already compromised and vulnerable.
+
+eg: when I first came to SG. I struggled with English. Then I notice my age is older than my classmates.
+eg: when I first came to U.S. I struggled with "status" and (mostly tech) interview. Then I notice my wife's lack of education and English skills.
+
 -- new or fuxi: astra theme and its templates
 "astra" theme (free) is recommended. 
 if you want precise control (me), then prefer non-template, and classic editor.
