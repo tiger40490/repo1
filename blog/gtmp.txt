@@ -1,8 +1,25 @@
--- fuxi
-[[off the rail]] characters, Brithsh/American ladies in their 50s, are supposed to display an accumulation of wealth, wisdom, grace, wellness, respect/dignity... but I think the most prominent feature of them is English language.
+-- priorities 
+* release to QA
+* S27? low
+* pre-clear one stock
+* go home and spend time with meimei
+* more sleep
+* wrap up ems .. weekend
 
--- update
-some of the dissatisfacitons. Many are optimization issues [pushing from acceptable to more optimal]
+-- fuxi
+Without wireless@sgx I feel inconvenient, but it's important to not become dependent on it. Fault-tolerance and resilience
+
+-- fuxi or update post on blogg]Chinese
+[[off the rail]] characters, Brithsh/American ladies in their 50s, are supposed to display an accumulation of wealth, wisdom, wellness[1], grace/dignity... but I think the most prominent superiority of the group is the English language.
+
+[1] the truly wise and affluent Brits/Americans (or any nationality) would prioritize wellness over material wealth.
+--update or new: English writing
+I looked at the "official" writing of Singapore police officers and the tech professionals in SG and the U.S. Just about everyone (except the Americans) writes with plenty of grammar mistakes.
+
+I too write with grammar mistakes when I check with Grammarly, but hopefully fewer.
+
+-- update dissatisfaction blackholes
+some of the dissatisfacitons. Many are optimization issues [improving from merely "acceptable" to more optimal]
 
 BMI
 sleep timing not improving
@@ -10,10 +27,6 @@ risk capital increment still too slow? Not a dissatisfaction
 too many movies? Not a dissatisfaction. This is much better than that "home movie" situation
 not standing enough? Still 1-2H a day though my intuition tells me "insufficient".
 
---update or new: English writing
-I looked at the "official" writing of Singapore police officers and the tech professionals in SG and the U.S. Just about everyone (except the Americans) writes with plenty of grammar mistakes.
-
-I too write with grammar mistakes when I check with Grammarly, but hopefully fewer.
 
 -- new: discussion on HK with German
 Parents face way too much pressure from schools. Even primary schools conduct admission interviews on kids and parents. I tend to dismiss this factor but it is important to some (well-qualified, internationally mobile) individuals. 
