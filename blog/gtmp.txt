@@ -1,11 +1,3 @@
--- priorities 
-* release to QA
-* S27? low
-* pre-clear one stock
-* go home and spend time with meimei
-* more sleep
-* wrap up ems .. weekend
-
 -- fuxi
 Without wireless@sgx I feel inconvenient, but it's important to not become dependent on it. Fault-tolerance and resilience
 
