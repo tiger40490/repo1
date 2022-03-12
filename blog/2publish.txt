@@ -1,5 +1,11 @@
 -- update ..
 stand 30m in office
+
+-- update
+After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than bank deposits in return and liquidity.
+
+any time after 55, I can incrementally withdraw most of my cpfOA ... to invest or spend.
+
 -- update: buy-n-forget.
 My stocks could be overvalued, but I don't bother to babysit them. The tcost and stress of babysitt is too high. My firewall would break, and the volatility would boil over.
 
