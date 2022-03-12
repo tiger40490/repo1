@@ -1,3 +1,18 @@
+-- new: excess mortality
+I used to question PAP government's mid-2021 decision to open up during Delta wave. I questioned the human cost in terms of deaths.
+
+The Aha moment came when I realized excess mortality in SG was zero. 
+
+The livelihood cost of zero-covid is not easily measurable. This cost includes hardship, long-term damage to SG economy, mental health.. But for the same argument, let's say it is comparable to 987 deaths a year.
+
+What if SG maintains zero-covid and avoids those deaths, but the total death count over a year remains the same as before covid (around 24,000)?
+
+It means those 987 covid deaths avoided were offset by about the same number of deaths by other causes, dealths that inevitably occur even in an airtight bubble city with zero covid. 
+
+It means the, in the grand scheme of things, the heavy price we pay in terms of livelihood buy us some but not all that much.
+
+Note in a hospital overrun, then excess mortality would be significant.
+
 -- fuxi
 Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
 
