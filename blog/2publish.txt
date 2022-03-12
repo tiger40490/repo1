@@ -1,6 +1,3 @@
--- update ..
-stand 30m in office
-
 -- update
 After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than bank deposits in return and liquidity.
 
