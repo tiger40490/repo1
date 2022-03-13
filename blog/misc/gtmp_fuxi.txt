@@ -1,4 +1,23 @@
 -- fuxi
+Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
+
+-- fuxi
+CTRL + Shift +Esc to start taskmgr
+
+-- fuxi: astra theme and its templates
+"astra" theme (free) is recommended. 
+if you want precise control (me), then prefer non-template, and classic editor.
+widget config is generic. theme config would overwrite widget config
+
+wpress site-health.. can't check plugin version conflict.
+
+ConvertKit.com free tool to create a landing page.
+
+When things don't work, need to learn to pick your battle, let go, or allocate enough time
+
+privacy policy page is required if you want your site to be indexed.
+
+-- fuxi
 t_paradox
 why do we feel more delighted, more satisfied with a bonus than a clean health check-up? 
 

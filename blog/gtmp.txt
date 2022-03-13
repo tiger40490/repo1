@@ -59,62 +59,8 @@ LKY said international competition is talent competition. HK is slowly becoming 
 
 I guess the property boom is fueled by mainland hot money, similar to Shanghai?
 
--- new: top xx experts of US/Japan/Germany
-Link into "broad strokes" blogpost
-Depending on the field, each of us tends to assume U.S. top experts are world-class in that field.
-
-I think only 2 other countries, Japan and Germany, are universally considered leaders in virtually all fields.
-
-Britain could be a #4.
-
-Russia and China are perceived as less integrated into the international community
-France? Not perceived as a scientific nation
-Most European countries are too small in terms of population.
-
-All other countries' experts are less trusted.
-
 -- slow-cooking new: 2nd big problem
 Imagine you have been struggling against a serious personal disadvantage in a new place, you then notice another personal disadvantage. It would look worse than it is. Your self-esteem (self-image) is already compromised and vulnerable.
 
 eg: when I first came to SG. I struggled with English. Then I notice my age is older than my classmates.
 eg: when I first came to U.S. I struggled with "status" and (mostly tech) interview. Then I notice my wife's lack of education and English skills.
-
--- new or fuxi: astra theme and its templates
-"astra" theme (free) is recommended. 
-if you want precise control (me), then prefer non-template, and classic editor.
--- new: ##improve on an already decent lifestyle
-othRisk
-Link into "plowback" post? Or insert therein
-
-intimacy .. more frequent
-workout.. 5/wk
-raw veg, smoothie, delay meals
-recreational AMB .. recreation is an improvement on lifestyle
-recreational piano
-
-Frequently, we hit resistance in these improvement journeys. Sometimes, it calls for zqbx.
-
-pff and gz are not part of lifestyle, and officially out of scope
--- fuxi: 
-widget config is generic. theme config would overwrite widget config
-
-wpress site-health.. can't check plugin version conflict.
-
-ConvertKit.com free tool to create a landing page.
-
-When things don't work, need to learn to pick your battle, let go, or allocate enough time
-
-privacy policy page is required if you want your site to be indexed.
--- fuxi: drawing board
-No choice elsewhere, as far as we know.
-The only choice we know:
-* Mala board + Mala markers
-
-How I decided to return it on Sat? 夜长梦多. 
-Should have called ikea to ask about marker. We didn't have the foresight to know that some special marker exists for this surface.
-On Sat, it was an easy and safe option to carry the board back and refund. Greedy algorithm.
--- fuxi
-Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
-
--- fuxi
-CTRL + Shift +Esc to start taskmgr
