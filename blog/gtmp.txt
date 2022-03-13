@@ -1,15 +1,7 @@
-
--- fuxi
-Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
-
--- fuxi or update post on blogg]Chinese
-[[off the rail]] characters, Brithsh/American ladies in their 50s, are supposed to display an accumulation of wealth, wisdom, wellness[1], grace/dignity... but I think the most prominent superiority of the group is the English language.
+-- new: [[off the rail]] 
+characters, Brithsh/American ladies in their 50s, are supposed to display an accumulation of wealth, wisdom, wellness[1], grace/dignity... but I think the most prominent superiority of the group is the English language.
 
 [1] the truly wise and affluent Brits/Americans (or any nationality) would prioritize wellness over material wealth.
---update or new: English writing
-I looked at the "official" writing of Singapore police officers and the tech professionals in SG and the U.S. Just about everyone (except the native speakers) writes with plenty of grammar mistakes.
-
-I too write with grammar mistakes when I check with Grammarly, but hopefully fewer than them.
 
 -- update dissatisfaction blackholes
 Many items are optimization issues [improving from merely "acceptable" to more optimal]
@@ -197,6 +189,8 @@ The only choice we know:
 How I decided to return it on Sat? 夜长梦多. 
 Should have called ikea to ask about marker. We didn't have the foresight to know that some special marker exists for this surface.
 On Sat, it was an easy and safe option to carry the board back and refund. Greedy algorithm.
+-- fuxi
+Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr
