@@ -1,15 +1,3 @@
--- update
-After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than bank deposits in return and liquidity.
-
-any time after 55, I can incrementally withdraw most of my cpfOA ... to invest or spend.
-
--- update: buy-n-forget.
-My stocks could be overvalued, but I don't bother to babysit them. The tcost and stress of babysitt is too high. My firewall would break, and the volatility would boil over.
-
-I do need to reduce my positions in low-yield and unproven stocks. They are at higher risk of getting overvalued.
--- update post on next laptop (6-laptop)
-plan a trip to Simlim? Repair budget $100 .. BDYK
-
 -- new: "move"%%rEstate portfolio to SG in my twilight years
 I have always agreed to the prudent advice that as we age, our risk appetite drops and we should rationalize/adjust our rEstate portfolio to less risky countries. Every country has risk factors, but SG remains the least risky.
 
@@ -21,9 +9,6 @@ HDL: raw oats to boost HDL
 Zumba, CC classes for variety
 wife: beside cardio + yoga, maintain muscles as we age, 
 
--- update blogpost on sms but which one?
-The greatest weapon against stress is our ability to choose one thought over another.
-cognitive self-help psychology. 
 
 -- new underrated j4 blogg
 We grow wiser via adversities + reflections [including expressive writing]. Without reflections, the growth is slower. We may even forget the details of the adversity and fail to learn from it.
@@ -125,3 +110,16 @@ In reality, personal diary/blog + some email discussion is the only reasonable c
 Note all of these activities can (and did) take up sooo much spare time, that they often become the primary energy-sink of the year
 
 Writing vs reading.. Scope here is non-fiction, including current affairs,,, I always feel most people, across education levels, don't read as much as is good for them (due to different priority or available leisure time). Among those "lifelong" readers, I believe most don't write nearly as much as I do. Nothing wrong, but I feel if you are seriously reading some topics, then you must have your personal observations. Writing (later reviewing) them is an excellent practice to enhance understanding. That includes clarifying, deepening, correlating, comparison, pattern-finding, correcting mistakes, finding appropriate phrasing... So I always feel if you are serious about some reading topic, then you had better work on improving your understanding. If you don't use writing, then what can you use? 
+-- update which post?
+After 55, we should leave cpf oa balance as is. It grows at 2.5%pa, better than bank deposits in liquidity or return.
+
+any time after 55, I can incrementally withdraw most of my cpfOA ... to invest or spend.
+
+-- update: buy-n-forget or new: my overvalued stock
+My stocks could be overvalued, but I don't bother to babysit them. The tcost and stress of babysitt is too high. My firewall would break, and the volatility would /boil over/.
+
+I do need to reduce my positions in low-yield and unproven stocks. They are at higher risk of getting overvalued.
+-- 
+-- update blogpost on sms but which one?
+The greatest weapon against stress is our ability to choose one thought over another.
+cognitive self-help psychology. 
