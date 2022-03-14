@@ -1,16 +1,9 @@
 -- new or update
-Singaporeans have a romanticized perception of a landed property. Relying on it for wealth-preservation is relying on the local economy over the long horizon. over 100 years, how confident are you about a local economy in, say, Victoria?
+Singaporeans have a romanticized perception of a landed property or free-hold. Relying on it for wealth-preservation is relying on the local economy over the long horizon. over 100 years, how confident are you about a local economy in, say, Victoria?
 
 rEstate is overrated among the Chinese. Remember Bryan of RTS?
 
 Chinese investors have a romanticized perception of gold. 
-
--- update which blogpost?
-advantages of SEAsia rEsate
-Legal cost is much lower than rich countries, though legal process is often less efficient.
-local agency remuneration is lower.
-If I have to travel there for sight seeing or problem resolution, total trip cost is lower.
-taxes are lower
 
 -- new or update one of the blogposts on ccbr
 in my old age, I still want (not "need") a salary.
@@ -19,79 +12,31 @@ Working full time in my 70s for a competitive salary to support aging parents an
 
 My NNIA is sufficient for cbbr, but not sufficient to support my aging parents. I think this type of "support" is a luxury comparable to branded degree for my kids. There is one difference -- my aging parents have their pension income and nest egg.
 
--- new: 
-Pre-clear one stock a day has many advantages
-
-:) not too many stocks to juggle at night
-:) lower pressure to "do something tonight after so many stocks pre-cleared"
-:) spread out the effort/attention over many days
--- update one of the blogposts on div stock
-With zero-div stocks or commission costs, the entry-price/timing decision is more risky, more error-prone, more intimidating, less fun. 
-I often become paralyzed by the due diligence.
-
-The dividend payout is a huge psychological and economic cushion against NAV drop or regretable entry-price.
-
-Similarly, rEstate investment without rental yield is more risky.
-
 -- update post on rbh or...
 buy-n-forget is not so easy with the bond mufu. The expRatio (1%?) erodes the low return. 
 I may need to babysit my positions !
 
-When I read books on REITs, I remember the AMB effort.. the differences in terms of reluctance.
+When I read books on sREIT, I remember the AMB effort.. the differences in terms of reluctance.
 
 I recall that when I was told stock picking requires reading financial statements, I balked. Then in 2020 I developed my 3-min due diligence. 
 
 It turned out that zero commission and fractional investing removed the bulk of the burden/reluctance/drudgery of due diligence.
 
--- new artificial complexities
-where2retire
-US personal income tax and US medical billing systems are too complicated for most people. That's why there are fulltime professionals to help folks understand and navigate the artificial complexities.
-
-The poor can't afford any of these professional help, so they become poorer. 
-
-Therefore, this is a knowledge gap between the rich and poor.
-
--- new: y your parents buy expensive gears 4 your new hobby
-t_creep
-I always laugh at the middle-class Singapore parents who buy high-end equipment whenever their kids start learning a new skill
-* musical instruments
-* art equipment
-* sports gears
-* multimedia gadgets
-
-Now I ask myself Q: what's the priority of a middle-class parent? 
-I guess answer is motivation, commitment. Some of these parents are not mindless -- they are mindful of the psychological effect on the child.
-
--- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/ or https://tanbinvest.dreamhosters.com/?p=24246&preview=true
+-- slow-cooking update https://tanbinvest.dreamhosters.com/20155/beatiindexabsreturndyoclearning-choose-your-goals/ or 
 It's crucial to be clear what exactly we want out of stock trading. Many valid priorities of other investors are not important to us. In fact, these OPPs (other people's priorities) may get in our way. 
 
-* when you add those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
-* when you add those OPP, they could displace some of your true priorities. Analog: carry-on luggage vs checked luggage.
-* when you add those OPP, you may inadvertently take on more risks.
+* when you take on those OPP, your life becomes more complicated, when it can be simpler like mine. You may have to babysit your positions. Your firewall is strained.
+* when you take on those OPP, they could displace some of your true priorities. Analog: carry-on luggage vs checked luggage.
+* when you take on those OPP, you may inadvertently take on more risks.
 
 Matching SP500 return ... is a bad OPP
 Investing 80% of my assets, and minimizing idle cash (make every dollar work hard) ... is an OPP
 
 -- update which blogpost?
+https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=15097&action=edit
+https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=10138&action=edit
+
 Compared to my peers, my net asset is not so remarkable. What's remarkable is my Fuller Wealth based on my target quality of life.
-
--- slow-cooking new: rarity of millionaire
-Before I came to SG, I always felt a CNY-millionaire was like one in a few hundred in China.
-
-After I came to SG, I felt a SGD-millionaire was very different from ordinary people.
-
-In the U.S. media, "millionaire" still refers to the super-rich.
-
-I think SG is a rich country with relatively "even distribution", giving rise to more millionaires (per 1000 population) than other cities including NY, HK etc. 
-
-All the discussions so far include home value as part of NAV. By this definition, many paper-millionaires are cash poor and paper-rich, with huge portions of personal wealth locked away in illiquid assets.
-
-NAV Definition 2: NAV excluding your primary residence, including all retirement accounts that belong to you. 
-NAV Definition 3: NAV excluding your primary residence, including retirement accounts that you can use within 3Y.
-
-In SG (and other cities), Definition 2 could cut the millionaire count by half or more.
-
-The millionair renter family is an interesting case. They often own investment properties. 
 
 -- slow-cooking update livelihood blogs (S.Liu or Maslow)
 [[Nomadland]] and many other movies and songs portray the livelihood pressures (even hardships) of ordinary people in relatively affluent locations (affluent as defined by global standard). For example, most Singaporeans would feel some livelihood pressure. 
@@ -126,15 +71,4 @@ I have probably never bought a NRB (non-reimbursement-based) medical insurance. 
 Another issue is, within a few years I am likely to relocate to the U.S. and will terminate PrimeCare. In the interim, I will have my company insurance that covers 100%, rather than the 95% coverage of integrated shield. So In a claim event, the NRB cash payout is additional income for me, but not so badly needed. 
 
 -- fuxi: rate hike risks
-There are many many web sites discussing the same. I have no time to read them.
-
 I think it's prudent to reduce exposure to rate-sensitive sectors such as mReit. I don't like selling but I can reduce buying pace.
-
--- fuxi
-average Singaporean spends $1k/Y on travel. I think this is higher than other nationals because
-* higher disposible income 
-* limited domestic tourism market
-* domestic attractions are lower value than SEAsia destinations
-
--- fuxi: Some Aus lenders use Sg credit report, and use disposible income. They consider any loan that's 100% serviced by CPF as ... not a loan(?)
-Preferrential treatment to Singaporeans. Slightly.
