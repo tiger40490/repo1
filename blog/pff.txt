@@ -1,3 +1,12 @@
+-- update SgCP
+Buy with an existing lease
+In SG, most strata shops take a long time to find tenants. I guess the mall could be usable, but some units could be empty for a long time.
+
+Industrial -- 30Y, 60Y are common. 
+Shops -- 30Y, 99Y, freehold are available.
+
+A common type is "shophouse on Floor1 of residential". The 2nd floor is considered the living quarters for the shop, so entire unit is sold as a whole. It's usually easy to have a separate entrance to 2nd floor, and therefore rent it as a independent unit. Foreigners can buy this type. MOP rule classifies it as resential.
+
 -- new or update
 Singaporeans have a romanticized perception of a landed property or free-hold. Relying on it for wealth-preservation is relying on the local economy over the long horizon. over 100 years, how confident are you about a local economy in, say, Victoria?
 
