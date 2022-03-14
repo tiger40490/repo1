@@ -1,3 +1,8 @@
+-- new: header text for power-list blogposts
+I want this blogpost (title) to be identifiable and unique
+I want to avoid yet another forgettable blogpost
+I want the list items to be highly specific, selective/discriminatory. Need to avoid the familiar, high-level or vague items.
+
 -- new untitled (no good title) CIV hands-down win/loss: unbalanced reactions
 today I helped Sachin on Q2 of a python CIV by a crypto shop, where he and another Mr Mysterious couldn't pass all tests. I immediately dismissed my success as my luck rather than skill.
 
