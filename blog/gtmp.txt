@@ -1,4 +1,4 @@
--- new untitled (no good title) CIV hands-down win/loss: unbalanced reactions
+-- new: CIV hands-down win/loss: unbalanced reactions
 today I helped Sachin on Q2 of a python CIV by a crypto shop, where he and another Mr Mysterious couldn't pass all tests. I immediately dismissed my success as my luck rather than skill.
 
 In reality, the test criteria is completely fair and clearly documented, so my code is actually better and and my coding skill (by definition) stronger.
@@ -7,6 +7,8 @@ My quick automatic self-dismissal, self-devaluation, self-brush-aside is blatant
 
 * when I win hands-down (about 30% of the head-to-head contests) I always dismiss it.
 * when I lose hands-down (about 30% of the head-to-head contests) I label myself with many labels -- poisonous labels.
+
+Perhaps the other team (Alina and her friend) doesn't understand the question. Perhaps the other team didn't design correct. It was not an easy careless mistake since they looked very hard for an explanation.
 
 -- slow-cooking new: 2nd big problem
 Imagine you have been struggling against a serious personal disadvantage in a new place, you then notice another personal disadvantage. It would look worse than it is. Your self-esteem (self-image) is already compromised and vulnerable.
