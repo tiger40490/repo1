@@ -1,3 +1,21 @@
+-- new: CIV hands-down win/loss: unbalanced reactions
+today I helped Sachin on Q2 of a python CIV by a crypto shop, where he and another Mr Mysterious couldn't pass all tests. I immediately dismissed my success as my luck rather than skill.
+
+In reality, the test criteria is completely fair and clearly documented, so my code is actually better and and my coding skill (by definition) stronger.
+
+My quick automatic self-dismissal, self-devaluation, self-brush-aside is blatant and completely unbalanced:
+
+* when I win hands-down (about 30% of the head-to-head contests) I always dismiss it.
+* when I lose hands-down (about 30% of the head-to-head contests) I label myself with many labels -- poisonous labels.
+
+Perhaps the other team (Alina and her friend) doesn't understand the question. Perhaps the other team didn't design correct. It was not an easy careless mistake since they looked very hard for an explanation.
+
+-- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
+NoSql is bigData, not DS/ML. 
+
+Data Science probably favors python or R. ML is even less suitable for java.
+ML includes classification, recommendation, ,, NeuralNetwork is part of ML
+
 -- update which post? 
 https://tanbinvest.dreamhosters.com/19534/using-cpfra-as-savings-acct-4-compound/?
 https://tanbinvest.dreamhosters.com/15294/cpf-target-balance55/ ?
