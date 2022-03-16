@@ -44,67 +44,6 @@ Public sector IT jobs also has more impact (on people's lives). Some jobs are es
 Combined, these sectors account for a sizable portion of the IT jobs in Singapore.
 
 I hope these sectors are less competitive on salary and more age-friendly. Workload is not lower though.
--- new or ..
-My current GTD speed would be frowned upon in Stirt, GS or Barcap.
-
-As Alan Shi pointed out, most of the effort actually went to waste in those ibank tech departments.
-
-Mvea, RTS, OC teams .. are somewhat better.
--- update blogpost on NBA
-doctors, programmers, ... are among the few professions with excellent depth@mkt.
-Once you are qualified, there are many "ordinary" jobs that pay much higher than the local median wage.
-
-Doctors enjoy career longevity; programmers enjoy international mobility.
-
-NBA, artists, film professionals .. lack d@m
-
-look at the SG film festival brochure. Those film makers don't make nearly as much money as the blockbusters. They are small-budget or indie films. It's like an expensive modern art form, supported by advertizers, corporate sponsors and governments. 
-
-I guess like NBA, 5% of the players make 95% of the money.
-Perhaps game development is somewhat similar, based on brief chats with Dahlan. I feel the best career prospect for an ordinary game developer is pivot to c++ findev.
-
-What if my kids get into that domain? 
--- new or ... career longevity: finDev
-sales career.. quite tiring when you are older and less energetic
-trading career .. young energy needed
-mgmt career .. young managers can become a challenger.
-SWE career .. possibly shares some of the longevity advantages of research career
-finDev .. has domain nlg, but 
-* the math dnlg is rarely needed in any job.
-* the jargons are easily acquired
-* the tech best practices are less portable, less widely applicable
-
-A finance professional could claim that she can earn more in a year than a Grade-1 classmate makes in 10Y, and it's not even an outlier year.
-
-What we don't discuss is, the classmate (accountant, engineer, RnD, nurse..) can grow her career, and more or less maintain a salary for decades, often until retirement.
-
-A trading career is much shorter, according to Kun.H and also a prop trader classmate. Older traders often need to step aside and become risk managers.
-
-Career longevity provides inflation protection + meaningful engagement in old age, so I don't mind slightly lower lifetime income.
--- fuxi or update
-Most of my past techBets and tsn ... are likely to pay lower dividends after first 10Y. 
-Strategic orgro is a holy grail.
-I will receive the dividend when I change job  back to .. bondMath, mkt data, sockets, SQL or Perl, 
-
-We all have to be discretionary, cautious in our positioning.
-I spend lots of time blgg about this.
-Despite the underwhelming results of my techBets and tsn, we must not give up.
-Applicable to Singapore government too. 
-We need to decide what tech to take up and what to put off.
-
-For the last 15Y, finDev IV is my chose game.
-The 3 types of dnlg are still relevant.
-
--- fuxi or new: dev~=singing/acting career
-There are many differences and a few similarities.
-
-In terms of design skill, developers peak at mid-30s to 50+. Depending on domain, accumulation and wisdom can help, but not as much as medical, sciences or teaching.
-
-In terms of learning (various sub-domains), I feel developers peak at 20 to 40+. It depends largely on foundation, interest, habit..
-
-In terms of GTD, depending on the system and job role, developers peak at 20 to 50+. It depends on habit, passion, dedication...
-
-In terms of dnlg, I identified 3 types [lingo^math^arch]. These 3 types demand some level of interest, aptitude. Some developers peak at 30+ to 50+.
 
 --(new or ) update blogpost on IV_skill ^ GTD
 https://btv-gz.dreamhosters.com/wp-admin/post.php?post=36560&action=edit
@@ -124,7 +63,6 @@ Some 10%+ suffer in pain, like Sudhir (based on my limited knowledge) and my OC 
 
 -- where can I use this term?
 tenuous(fragile) job security
-
 
 --new or fuxi
 The last weekend of Oct 2021, I put in many hours 
