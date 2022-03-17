@@ -1,3 +1,6 @@
+-- update blogpost on DavidWei on Canada:
+Chinese immigrants in Canada probably want to work in U.S. just as U.S. tech students want to work in WsC
+
 -- update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
 or https://btv-gz.dreamhosters.com/42358/iv-with-alex-a-small-prop-trading-shop-cto/
 or another in https://btv-gz.dreamhosters.com/wp-admin/edit.php?category_name=t_gzsalaryparadox
@@ -12,9 +15,6 @@ At my age, I don't salary-benchmark as much as in my 30s -- I don't care so much
 
 It's bad if I am chronically underpaid (20% below market) like J.Zhang.
 It's good if my employer and my manager is generous and keen to retain older devs like me.
-
--- new (post to be linked into multiple posts): primary lang@FT_job has good demand
-https://btv-gz.dreamhosters.com/wp-admin/post.php?post=42801&action=edit
 
 -- where can I use this term?
 tenuous(fragile) job security
