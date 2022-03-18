@@ -1,3 +1,9 @@
+-- update too many(tag^category)
+single-category doctrine?
+
+why I can have 5 times more tags than categories?
+Tags are not presented in a super-long list of checkboxes. Tags are selected by autocomplete
+
 -- fuxi: 
 nowadays post title, tag/category are more impotant than post content
 
