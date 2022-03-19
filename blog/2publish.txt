@@ -96,12 +96,12 @@ Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
 -- new: 2022 review: techBets, TSN
-Most of my past techBets and tsn ... are likely to pay lower dividends after first 10Y. 
+Most of my techBets and tsn ... are likely to pay lower dividends after first 10Y. 
 Strategic orgro is a holy grail.
-I will receive the dividend when I change job  back to .. bondMath, mkt data, sockets, SQL or Perl, 
+I will receive the dividend when I change job  back to the target domain, be it bondMath, mkt data, sockets, SQL or Perl,,,
 
 We all have to be discretionary, cautious in our positioning.
-I spend lots of time blgg about this.
+I spend lots of time blogg about this.
 Despite the underwhelming results of my techBets and tsn, we must not give up.
 Applicable to Singapore government too. 
 We need to decide what tech to take up and what to put off.
