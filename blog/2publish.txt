@@ -1,17 +1,3 @@
--- new: Dr Wee [gastro specialist] said
-Liver cancer always comes with (verifiable) liver symptoms. If tests show no symptom, then basically no chance of liver cancer.
-
-Regular ultrasound enough for annual screening. AFP could remain elevated. Rising AFP could be a cause of concern.
-
-Sleep deprivation (not late sleep per se) can increase dementia risk, but not liver or other organs
-
-I asked moderna vs Sinovac. Sinovac less effective -- antibody level is lower. better use Pfizer booster.
-
-.. fatty liver
-Always due to diet+workout
-Many people have fatty livers but clean blood test -- not to worry.
-
-Need to get knowledgeable and get used to fatty liver.
 
 -- update "yoga4life"
 at twice a week, the total hours would be 3 to 5 /wk, based on my Bayonne experience. This is much more than the hours I can allocate to all other workouts combined. Therefore, the tcost is unsustainable.
@@ -30,7 +16,7 @@ Some women do mostly yoga including some limited strength training, so they lack
 
 Ideally, you would want to enjoy a range of workouts, but few individuals are so lucky. For every adult and child, consistent workout is repetitive and requires a lot of effort and absorbency. Team sports and golf are more fun but requires a lot of external help.
 
---new: j4 fitness classes or update https://btv-open.dreamhosters.com/wp-admin/post.php?post=5023&action=edit
+--update https://btv-open.dreamhosters.com/wp-admin/post.php?post=5023&action=edit
 t_intro
 Why is fitness class easier than self-practice?
 Self-practice requires constant SMS, constant motivating (like dRam refresh), constant push beyond the comfort zone. Lots of system2 work.
@@ -54,13 +40,6 @@ biggest time-consuming procedures that require focus focus
 .. worry: wasting.. Sugg discard more of the avocado
 .. worry: contamination
 
--- new: unnecessary urgency
-My current GTD speed would be frowned upon in Stirt, GS or Barcap.
-
-As Alan Shi pointed out, most of the effort actually went to waste in those ibank tech departments.
-
-Mvea, RTS, OC teams .. are somewhat better. MLP is generally more relaxed.
-
 --new time won't stand still
 The last weekend of Oct 2021, I put in many hours 
 * to add visualization
@@ -77,18 +56,6 @@ This coding drill has multiple benefits in hindsight
 
 My friends' effort and my own effort were not in vein. It restored my self-confidence as a c++ developer. The self-confidence is priceless.
 
--- new: CIV hands-down win/loss: unbalanced reactions
-today I helped Sachin on Q2 of a python CIV by a crypto shop, where he and another Mr Mysterious couldn't pass all tests. I immediately dismissed my success as my luck rather than skill.
-
-In reality, the test criteria is completely fair and clearly documented, so my code is actually better and and my coding skill (by definition) stronger.
-
-My quick automatic self-dismissal, self-devaluation, self-brush-aside is blatant and completely unbalanced:
-
-* when I win hands-down (about 30% of the head-to-head contests) I always dismiss it.
-* when I lose hands-down (about 30% of the head-to-head contests) I label myself with many labels -- poisonous labels.
-
-Perhaps the other team (Alina and her friend) doesn't understand the question. Perhaps the other team didn't design correct. It was not an easy careless mistake since they looked very hard for an explanation.
-
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
 NoSql is bigData, not DS/ML. 
 
@@ -97,8 +64,9 @@ ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
 -- new: 2022 review: techBets, TSN
 Most of my techBets and tsn ... are likely to pay lower dividends after first 10Y. 
-Strategic orgro is a holy grail.
 I will receive the dividend when I change job  back to the target domain, be it bondMath, mkt data, sockets, SQL or Perl,,,
+
+Strategic orgro is a holy grail.
 
 We all have to be discretionary, cautious in our positioning.
 I spend lots of time blogg about this.
