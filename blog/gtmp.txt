@@ -1,3 +1,11 @@
+-- update 6 color hats
+why not frequently used in practice?
+Too many colors. I think 2 colors are good. 3 is max
+Also, there are too many overlaps and inaccurate simplifications of each hat.
+
+Most ordinary users can only remember one simple meaning for each hat
+
+Black is NOT pessimistic
 -- new: Prof Lee Loo Hay
 I create this blogpost because 1) we know him 2) wife and I will have many discussions
 short but meaningful life
