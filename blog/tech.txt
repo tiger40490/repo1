@@ -39,3 +39,10 @@ For c++
 #2 is Simula
 
 For C, the #1 is the B language. It explains the naming of "C"
+
+-- new: a few minor criticisms of c++
+An obscure but simple shortcoming of c++ lies in the iostream. There is a shared mutable global state in the global variables cout (and cerr). Every call to setXXX would permanently update the global state until updated again.
+
+iterator invalidation .. a common gotcha
+
+private methods are exposed in class header files.
