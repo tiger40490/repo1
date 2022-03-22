@@ -1,14 +1,23 @@
+
+-- update which blogpost?
+https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=15097&action=edit
+https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=10138&action=edit
+
+Compared to my peers, my net asset is not so remarkable. What's remarkable is my Fuller Wealth based on my target quality of life.
+
+-- update ..which blogpost
+sg^us?
+
+In SG, there's free and high-quality telemedicine and online counselling by chat. In U.S. such a free service would see over-demand and create long queues.
+
+-- update or new: U.S. CPI impact@the lower-income
+Lower-income population spend bigger portion on food + energy [gas, heating,,] Confirmed with Hai.Yi
+
 -- fuxi
 average Singaporean spends $1k/Y on travel. I think this is higher than other nationals because
 * higher disposible income 
 * limited domestic tourism market
 * domestic attractions are lower value than SEAsia destinations
-
--- fuxi: Some Aus lenders use Sg credit report, and use disposible income. They consider any loan that's 100% serviced by CPF as ... not a loan(?)
-Preferrential treatment to Singaporeans. Slightly.
-
--- fuxi:
-night trading is now competing for priority with my family time, household chores.. I think it's not worthwhile.
 
 -- fuxi: nowadays our family trips cost more due to fancy meals, tickets...
 I  hope to control tCost and cCost
@@ -22,37 +31,6 @@ Best choice for family is still living in JC and commuting to JC or NYC.
 
 Renting in JC is the default choice. flexibility
 
--- fuxi: U.S.eq=more reliable than SDB mufu
-In 2021, I have come to understand some truths about SDB mufu.
-
-These funds generate less than 2% pa in normal years, much lower than U.S.eq.
-
-The expRatio is usually more than 0.3%, much worse than U.S. ETF or Rbh (0% upfront+trailer) 
-
-In a down turn, the trough can last months (12M is conveivable), exacerbated by the expRatio.
-
--- fuxi or new: most upgrading home buyers would max out their borrowing capacity
-Delphia of oc is a mortgage specialist. She said majority of Singapore borrowers (probably including foreigners) would max out their loan quantum. One of the most important limits is TDSR. No more than 55% (was 60) of income (including CPF) is allowed to be used for installment. 55% of total income spent on debt servicing .. sounds like low ground. 
-
-I asked her why "majority" has such a motivation. Delphia said many want to maximize their investment. (Delphia herself felt buying at the current price level doesn't sound like good investment.) It's leveraged investment at a very low borrowing cost.
-
-Now I recall Wallace Xu said something similar about American home buyers... they are highly sensitive to rate hike.
-
--- fuxi: y U.S.stock investors are typically 80% concentrated in U.S.
-Perhaps update an existing blogpost (https://tanbinvest.dreamhosters.com/10065/conviction-us-market-beats-other-regional-markets-over-short-long-term/), and create an alias
-
-All non-US eq investors hold a substantial U.S. exposure, but not conversely.
-I think diversification ideas were popular among U.S. investors too, like buying more Asia stocks. I think results speak louder than theory.
-
-Many successful American companies already derive bulk of the profit from overseas.
-
-There are also many ADRs available in the U.S.
-
--- fuxi or update post on U.S. eq market strength
-jolt: China is the growing economic superpower, rivaling U.S., but in terms of stocks potential, it lacks all of the power, trec, market support that's available to U.S. stocks.
-
-SG, Germany, Australia ... also have strong, competitive economies but lack the same strengths of the U.S. stock market.
-
 -- fuxi:
 when I told Sheng.Zeng about SG healthcare/nursing cost in SG^Chn, he pointed out unqualified doctors (庸医), more of a problem in China
 -- fuxi or new: boring stock
@@ -63,16 +41,6 @@ non-volatile .. lower beta, lower chance of quick profit or big loss. Good thing
 less news coverage, less glamour, less to talk about with friends.
 
 limited research coverage? Actually, many boring stocks are well-researched.
-
--- fuxi
-conventional wisdom of eq outperforming bonds in the long run only works in the U.S. market and only if you don't pay the expRatio to a eqMufu.
-
-U.S. eq annualized return is about 6% in recent years, vs 3% for long bonds. With 2% exp ratio, the gap is much much smaller.
--- fuxi: Jun.Z on SG condo
-t_misperception
-appreciation is slow in most locations. Don't believe agents who boast their appreciation potential.
-
-Foreigner demand is dampened by ABSD, esp. in non-prime locations. such locations are mostly sold to local buyers.
 
 -- fuxi: Jun.Z on cars
 German cars are expensive if new, but less valuable than Japanese as a used car. He felt by design Japanese cars can go for many years after first 10Y.
@@ -96,17 +64,6 @@ Financial health is more affected by brbr than income or asset.
 
 Financial health is far less important than health.
 
--- fuxi:
-"revenue can't really be manipulated, so it is often a truer performance indicator." according to https://finance.yahoo.com/news/china-life-lfc-great-value-165004399.html.
-
-I think book value is also less manipulated including assets and liabilities.
-
-Profits i.e. earnings, dividends are all easier to manipulate by accountants.
-
--- fuxi: Now is the 2nd or 3rd period of "active research"
-t_xxAsRecreation
-Last time was eq mufu. In hindsight, I didn't learn a lot. Actually, I was not able to. The mufu funds are almost opaque and rigid. I couldn't follow my views on individual companies. 
-
 -- fuxi: financial health of LZ.Yu
 mortgage outsanding is about 50% of the purchase price. I didn't ask the purchase price.
 
@@ -125,14 +82,6 @@ A telltale sign of his strain -- WQ.l feels college cost would be much higher, e
 I think they are a frugal family. I think the mother has to go out and earn a salary.
 
 No property investment. No tuition.
-
--- fuxi
-Shareholders usually want a steady stream of increasing dividends from the company. And one of the goals of company executives is to maximize shareholder wealth. 
-
---fuxi:
-Q (for every equity investor): if there's a new 5Y-bond offered at par, what coupon rate would be as attractive as your favorite growth stock?
-
-A: 6% for me
 
 --fuxi: terminate dbs ccard 3M after confirming the end of multiplier bonus? Terminate to keep my life simpler.
 
