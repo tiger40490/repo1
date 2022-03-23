@@ -1,7 +1,5 @@
--- update kwargs
-q[ *mylist ] reads like 'flatten mylist'
-
-This expression can be RHS or LHS
+-- fuxi:
+if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
 
 -- new: deepcopy
 copy.deepcopy() is never quizzed, but is a key ECT feature in CIV. It's fairly easy to use, and seldom requires any tweaking/troubleshooting.
@@ -25,13 +23,6 @@ Many signals are self-sent from the same process. I think timer alarm is one exa
 Signal is designed to be asynch, seldom immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.
 
 One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
-
--- fuxi: operator overloading for a python custom class
-Possible, but not popular
-Define __add__(self, other) method
-
-The pattern extends to non-operators:
-Define __deepcopy__(self, memo) method
 
 -- fuxi: closest ancestors of c/c++
 For c++
