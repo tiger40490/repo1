@@ -1,3 +1,8 @@
+-- fuxi or update post on income/wealth
+There are two important quadrants: LowWealthHighIncome, and LowIncomeHighWealth
+
+The traditional Chinese tend to save and invest (Earn/Save/Invest) and become fairly wealthy.
+
 -- slow update sReit
 I feel sReit is more transparent than usReit, largely due to the higher regulation.
 
