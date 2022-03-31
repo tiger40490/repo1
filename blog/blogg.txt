@@ -1,16 +1,19 @@
--- update too many(tag^category)
+-- update too many(tag^category) https://btv-open.dreamhosters.com/wp-admin/post.php?post=19805&action=edit
 single-category doctrine?
 
-why I can have 5 times more tags than categories?
+Q: how many tags would be too many in a blog?
+A 500?
+
+why I can have up to 5 times more tags than categories?
 Tags are not presented in a super-long list of checkboxes. Tags are selected by autocomplete
+
+Overlapping tags is a bigger problem than an excessive number of distinct tags
 
 -- fuxi: 
 nowadays post title, tag/category are more impotant than post content
 
 -- fuxi: A299 where
 Needed on the go? mostly for git-blogging
-
-Needed in ff? mostly for gmail, calendar, but Dell250 is sufficient :)
 
 -- fuxi: at Mapic, some would spend the precious break time networking or asking questions.
 I learn a lot from my reflective blogg afterwards, mostly at home.
