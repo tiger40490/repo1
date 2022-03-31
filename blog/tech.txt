@@ -1,3 +1,12 @@
+-- new: check a commit is already in master
+The problem: when a branch is merged into master, a brand new hash would be generated. 
+
+So we can't look for the hash of the original commit. Instead, we can use a combination of {commit msg, timestamp, committer}. These items are preserved by the merge engine.
+
+If these things match between 2 commits, then there's basically no chance they are actually different.
+
+git log | grep -B3 'the needle commit msg'
+
 -- fuxi:
 if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
 
