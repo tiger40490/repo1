@@ -1,4 +1,7 @@
 --todo:
+QCP1/2 files seem like not pushed to github
+rename dummy to main
+Later rename master to blog
 rename HP71 to H71
 put 'dummy' br into each laptop
 update append.bashrc_win in each
