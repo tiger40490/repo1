@@ -1,8 +1,8 @@
 --todo:
 QCP1/2 files seem like not pushed to github
-optionally rename master to blog, but it requires append.bashrc change in all hosts and in bash branch
 rename HP71 to H71
-put 'main' br into each laptop
+optionally rename master to blog, but it requires append.bashrc change in all hosts and in bash branch
+put dummy 'main' br into each laptop's repo1
 update append.bashrc_win in each
 
 -- update bpost on feel`satisfied more than peers
