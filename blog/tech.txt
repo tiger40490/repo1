@@ -1,3 +1,6 @@
+-- update bpost on defaultdict
+(lambda:...) is always more flexible, more explicit
+
 -- new: check a commit is already in master
 The problem: when a branch is merged into master, a brand new hash would be generated. 
 
