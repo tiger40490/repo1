@@ -1,10 +1,7 @@
 --todo:
-rename HP71 
+rename HP71 to H71
 put 'dummy' br into each laptop
 update append.bashrc_win in each
-
--- update bpost on notepad++ https://btv-gz.dreamhosters.com/wp-admin/post.php?post=1484&action=edit
-After assigning hotkey F2 to SaveAll, we need to identify hotkey conflicts. This is better done using the search bar at bottom of the pop-up.
 
 -- update
 bpost on caution habits or enviable lifestyle or blackholes
