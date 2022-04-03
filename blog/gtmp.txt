@@ -3,14 +3,8 @@ rename HP71 to H71
 put 'dummy' br into each laptop
 update append.bashrc_win in each
 
--- update
-bpost on caution habits or enviable lifestyle or blackholes
-
-more flossing
-more standing
-sleep earlier
 -- update bpost on feel`satisfied more than peers
-in the dream, I was dismissed once again by Macq. 
+in the nightmare, I was dismissed once again by Macq. 
 I did my best but again was the weakest in the team.
 
 In hind sight, the job requirement was simply too high.
@@ -25,6 +19,8 @@ At my age, I have an implicit self-conviction that most of the higher-paying pos
 What I'm unsure is the salary spread. What additional income is possible? After tax, 100k/Y additional? Not worth it.
 
 I told grandpa that my successE [carefree ezlife + harmony, based on wellness and comfortable livelihood] is rare among my cohort, not because I'm better off than them, but because I don't focus on the wrong goals.
+
+The nightmare scenario is much more severe than CB2022
 
 -- update on energy sinks
 review QQ, CIV
