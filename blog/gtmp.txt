@@ -1,8 +1,4 @@
--- update bpost on CB2022
-need to update git hooks on L36, both repos
-After all checks clear, then git push
-
--- update bpost on notepad++
+-- update bpost on notepad++ https://btv-gz.dreamhosters.com/wp-admin/post.php?post=1484&action=edit
 After assigning hotkey F2 to SaveAll, we need to identify hotkey conflicts. This is better done using the search bar at bottom of the pop-up.
 
 -- update
