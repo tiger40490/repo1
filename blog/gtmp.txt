@@ -1,5 +1,6 @@
 -- update bpost on CB2022
-need to update git hooks on L36, both repos, then git push
+need to update git hooks on L36, both repos
+After all checks clear, then git push
 
 -- update bpost on notepad++
 After assigning hotkey F2 to SaveAll, we need to identify hotkey conflicts. This is better done using the search bar at bottom of the pop-up.
