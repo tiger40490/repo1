@@ -1,3 +1,8 @@
+-- update bpost
+BigBrother was a system monitoring tool I used in 2001-2003. I remember it says if any system component has an issue, you will see some red or amber. If you find yourself in a sea of green then you are very lucky, but it probably won’t last forever. 
+-- In [[ambulance]], why is Will so determined to save the Jake's live but didn't bother with the lives of dozens of other cops?
+I think it's because he took responsibilty. He shot Jake. If he leaves him bleeding to death, then he has a guilt
+Those other cops were wounded while fighting.
 -- update stress protection, reduction...
 stress buffering is a well-defined term, graphical, like protection and reduction?
 
