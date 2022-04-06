@@ -7,6 +7,9 @@ A recoll is data storage. We don't display a recoll file forever because there i
 
 A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags
 
+-- update L36 post
+Ask how to move ram from my A299
+ask how to go into Bios
 -- update bpost
 BigBrother was a system monitoring tool I used in 2001-2003. I remember it says if any system component has an issue, you will see some red or amber. If you find yourself in a sea of green then you are very lucky, but it probably won’t last forever. 
 -- In [[ambulance]], why is Will so determined to save the Jake's live but didn't bother with the lives of dozens of other cops?
