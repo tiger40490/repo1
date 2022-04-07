@@ -1,3 +1,8 @@
+-- update bpos on notepad++
+.. default font .. menu -> settings -> styleConfig
+I prefer a constant-width font. Easier to line up indent across multiple lines
+I prefer font size 12
+
 -- new wiki^recoll
 Active scratchpads can be implemented as a wiki or a file in a recoll directory tree.
 
