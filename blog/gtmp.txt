@@ -1,8 +1,17 @@
+-- new wiki^recoll
+Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
+
+A wiki (including my blog) is first and foremost an info display system, so you can keep a page open forever, as one of 20 open browser tabs. You can start an hour-long edit session, but eventually, you will save and publish. Most of the time the document is in Published mode, not Edit mode.
+
+A recoll is data storage. The Edit GUI and Display GUI are the same thing, not separate. Therefore, we don't display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
+
+A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags
 
 -- fuxi
 I have played down the importance of interpersonal, and communication skills, and emphasized self-mastery.
 
-However, a company, a government, a non-profit ... needs strong leadership. It is often a make-or-break factor.
+However, a company, a government, a non-profit ... needs strong leadership. It is often a make-or-break factor for the organization.
+
 --fuxi
 In any domain, the U.S. tends to produce large numbers of influential figures (considering the U.S. population), much higher than BRIC countries.
 
@@ -18,14 +27,6 @@ U.S. is good if you have aspirations and want to make a name for yourself
 
 Image, reputation, credibility, competitive strength is dominated by influential figures, therefore the U.S. ranks top in most domains. That helps the U.S. attract global talents, and stay on top.
 
--- new wiki^recoll
-Active scratchpads can be implemented as a wiki or a file in a recoll directory tree.
-
-A wiki (including my blog) is first and foremost an info display system, so you can keep a oage open forever, as one of 20 open browser tabs. You can start a long edit session, but eventually, you will save and publish.
-
-A recoll is data storage. We don't display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
-
-A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags
 -- update L36 post
 Ask how to move ram from my A299
 ask how to go into Bios
