@@ -1,3 +1,13 @@
+-- update git-bash
+intuitive copy-paste is more important than I thought
+right-click to paste. Can be non-intuitive, but easy to discover, and easy to adapt
+shift-insert is a built-in hotkey for paste. Worth learning.
+
+git-diff red_text_on_black is horrible default .. I am trying Dracula 
+
+blinking cursor .. block cursor is nicer on my eyes than a thin bar
+
+default text size .. too small. Prefer size 10
 -- fuxi
 I have played down the importance of interpersonal, and communication skills, and emphasized self-mastery.
 
@@ -16,10 +26,6 @@ Singapore is very different. The poor are far outnumbered by the not-poor. There
 U.S. is good if you have aspirations and want to make a name for yourself
 
 Image, reputation, credibility, competitive strength is dominated by influential figures, therefore the U.S. ranks top in most domains. That helps the U.S. attract global talents, and stay on top.
--- update bpos on notepad++
-.. default font .. menu -> settings -> styleConfig
-I prefer a constant-width font. Easier to line up indent across multiple lines
-I prefer font size 12
 
 -- new wiki^recoll
 Active scratchpads can be implemented as a wiki or a file in a recoll directory tree.
@@ -29,14 +35,11 @@ A wiki (including my blog) is first and foremost an info display system, so you 
 A recoll is data storage. We don't display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
 
 A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags
-
 -- update L36 post
 Ask how to move ram from my A299
 ask how to go into Bios
 Ask what background processes I can disable, and how to keep them disabled
 
--- update bpost
-BigBrother was a system monitoring tool I used in 2001-2003. I remember it says if any system component has an issue, you will see some red or amber. If you find yourself in a sea of green then you are very lucky, but it probably won’t last forever. 
 -- In [[ambulance]], why is Will so determined to save the Jake's live but didn't bother with the lives of dozens of other cops?
 I think it's because he took responsibilty. He shot Jake. If he leaves him bleeding to death, then he has a guilt
 Those other cops were wounded while fighting.
