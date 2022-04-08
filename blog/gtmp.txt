@@ -1,13 +1,4 @@
--- update git-bash
-intuitive copy-paste is more important than I thought
-right-click to paste. Can be non-intuitive, but easy to discover, and easy to adapt
-shift-insert is a built-in hotkey for paste. Worth learning.
 
-git-diff red_text_on_black is horrible default .. I am trying Dracula 
-
-blinking cursor .. block cursor is nicer on my eyes than a thin bar
-
-default text size .. too small. Prefer size 10
 -- fuxi
 I have played down the importance of interpersonal, and communication skills, and emphasized self-mastery.
 

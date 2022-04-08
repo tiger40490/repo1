@@ -1,3 +1,14 @@
+-- update git-bash
+intuitive copy-paste is more important than I thought
+right-click to paste. Can be non-intuitive, but easy to discover, and easy to adapt
+shift-insert is a built-in hotkey for paste. Worth learning.
+
+git-diff red_text_on_black is horrible default .. I am trying Dracula. Large text size also helps.
+
+blinking cursor .. block cursor is nicer on my eyes than a thin bar
+
+default text size .. too small. Prefer size 10
+
 -- update bpost
 BigBrother was a system monitoring tool I used in 2001-2003. I remember it says if any system component has an issue, you will see some red or amber. If you find yourself in a sea of green then you are very lucky, but it probably won’t last forever. 
 
