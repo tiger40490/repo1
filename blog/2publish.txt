@@ -9,9 +9,6 @@ blinking cursor .. block cursor is nicer on my eyes than a thin bar
 
 default text size .. too small. Prefer size 10
 
--- update bpost
-BigBrother was a system monitoring tool I used in 2001-2003. I remember it says if any system component has an issue, you will see some red or amber. If you find yourself in a sea of green then you are very lucky, but it probably won’t last forever. 
-
 -- update bpost on notepad++ https://btv-gz.dreamhosters.com/wp-admin/post.php?post=1484&action=edit
 After assigning hotkey F2 to SaveAll, we need to identify hotkey conflicts. This is better done using the search bar at bottom of the pop-up.
 Without this tool, it used to adds to the legwork.... fearful
