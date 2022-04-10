@@ -1,5 +1,3 @@
---update bpost on git-bash customize
-block cursor is a more visual indicator of the window of focus
 -- new wiki^recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
 

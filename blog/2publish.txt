@@ -1,17 +1,17 @@
 -- update git-bash
 intuitive copy-paste is more important than I thought
-right-click to paste. Can be non-intuitive, but easy to discover, and easy to adapt
+right-click to paste. Can be non-intuitive to some, but easy to discover, and easy to learn
 shift-insert is a built-in hotkey for paste. Worth learning.
 
 git-diff red_text_on_black is horrible default .. I am trying Dracula. Large text size also helps.
 
-blinking cursor .. block cursor is nicer on my eyes than a thin bar
+blinking cursor .. block cursor is nicer on my eyes than a thin bar, and a more visual indicator of the window of focus.
 
-default text size .. too small. Prefer size 10
-
+-- update bpost on dark background
+set default text size to 10
 -- update bpost on notepad++ https://btv-gz.dreamhosters.com/wp-admin/post.php?post=1484&action=edit
 After assigning hotkey F2 to SaveAll, we need to identify hotkey conflicts. This is better done using the search bar at bottom of the pop-up.
-Without this tool, it used to adds to the legwork.... fearful
+Without this tool, the conflict used to add to the legwork and pschological stress.
 
 .. default font .. menu -> settings -> styleConfig
 I prefer a constant-width font. Easier to line up indent across multiple lines
