@@ -1,4 +1,14 @@
 -- fuxi
+I have played down the importance of interpersonal, and communication skills, and emphasized self-mastery.
+
+However, a company, a government, a non-profit ... needs strong leadership. It is often a make-or-break factor for the organization.
+
+-- In [[ambulance]], why is Will so determined to save Jake's live but didn't bother with the lives of dozens of other cops?
+I think it's because he took responsibilty. He shot Jake. If he leaves him bleeding to death, then he has a guilt, similar to hit-n-run.
+
+In contrast, those other cops were wounded while fighting.
+
+-- fuxi
 Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
 
 -- fuxi
