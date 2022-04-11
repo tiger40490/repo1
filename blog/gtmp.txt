@@ -1,3 +1,6 @@
+-- new or update
+j4 using multiple browser brands .. If I learn to use multiple browser brands rather than a single brand (say, Chrome), then the impact of Chrome usability issue would be lessened.
+
 -- new wiki^recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
 
