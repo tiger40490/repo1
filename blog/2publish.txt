@@ -27,10 +27,6 @@ git-diff red_text_on_black is horrible default .. I am trying Dracula. Large tex
 
 blinking cursor .. block cursor is nicer on my eyes than a thin bar, and a more visual indicator of the window of focus.
 
--- update L36 post
-Ask how to move ram from my A299
-Ask what background processes I can disable, and how to keep them disabled
-
 -- update bpost on dark background
 set default text size to 10
 -- update bpost on notepad++ https://btv-gz.dreamhosters.com/wp-admin/post.php?post=1484&action=edit
