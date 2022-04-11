@@ -1,5 +1,5 @@
--- update commercial rental yield in China vs SG
-TPY central shophouse $12k/M rental for a $3.8M (offer) price
+
+-- fuxi: CapitaLand is probably less successful less in-control in overseas projects. Don't assign the same value to CapitaLand when the country is not Sg !
 
 -- fuxi: Some Aus lenders use Sg credit report, and use disposible income. They consider any loan that's 100% serviced by CPF as ... not a loan(?)
 Preferrential treatment to Singaporeans. Slightly.

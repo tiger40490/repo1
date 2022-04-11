@@ -1,3 +1,21 @@
+-- update 1 preclear a day
+if I preclear a lot for a day, but later find myself in a power surge for math session or something else, then the pressure to do something about the pre-cleared stock is an unwanted distraction.
+
+-- update commercial rental yield in China vs SG
+TPY central shophouse $12k/M rental for a $3.8M (offer) price
+
+-- slow update sReit
+I feel sReit is more transparent than usReit, largely due to the nanny state regulation.
+
+The sReit operators are all well-known. Many of them are government-linked. As such, they are very low-risk in terms of govenance.
+
+There are relatively few variations (a form of cognitive complexity) among the sReits. Very similar business models.
+
+-- fuxi or update post on income/wealth
+There are two important quadrants:  HighIncome_LowWealth, and LowIncome_HighWealth
+
+The traditional Chinese tend to save and invest (Earn/Save/Invest) and become fairly wealthy.
+
 -- update git-bash
 intuitive copy-paste is more important than I thought
 right-click to paste. Can be non-intuitive to some, but easy to discover, and easy to learn
