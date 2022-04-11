@@ -1,3 +1,5 @@
+-- update post on alternatives and buffers
+j4 using multiple browser brands .. if you are comfortable with a single browser brand (say, Chrome) rather than multiple browser brands, then the impact of Chrome issue is more scary, more stressful, requires more painful adjustments.
 -- update 1 preclear a day
 if I preclear a lot for a day, but later find myself in a power surge for math session or something else, then the pressure to do something about the pre-cleared stock is an unwanted distraction.
 
@@ -123,3 +125,12 @@ https://btv-open.dreamhosters.com/57/sentence-completion-works-for-me/?
 
 The greatest weapon against stress is our ability to choose one thought over another.
 cognitive self-help psychology. 
+
+-- slow-cooking new wiki^recoll
+Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
+
+A wiki (including my blog) is first and foremost an info display system, so you can keep a page open forever, as one of 20 open browser tabs. You can start an hour-long edit session, but eventually, you will save and publish. Most of the time the document is in Published mode, not Edit mode.
+
+A recoll is data storage. The Edit GUI and Display GUI are the same thing, not separate. Therefore, we don't display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
+
+A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags
