@@ -18,6 +18,9 @@ There are two important quadrants:  HighIncome_LowWealth, and LowIncome_HighWeal
 
 The traditional Chinese tend to save and invest (Earn/Save/Invest) and become fairly wealthy.
 
+-- update stress protection, reduction...
+stress buffering is a well-defined term, graphical. It is related to protection and reduction.
+
 -- update git-bash
 intuitive copy-paste is more important than I thought
 right-click to paste. Can be non-intuitive to some, but easy to discover, and easy to learn
@@ -26,6 +29,27 @@ shift-insert is a built-in hotkey for paste. Worth learning.
 git-diff red_text_on_black is horrible default .. I am trying Dracula. Large text size also helps.
 
 blinking cursor .. block cursor is nicer on my eyes than a thin bar, and a more visual indicator of the window of focus.
+-- update on energy sinks
+review QQ, CIV
+piano, AMB
+^ stock research online
+^ academic coaching
+^ call Bj
+v blogg, emailing
+recreational reading
+
+-- update bubble blogpost
+When my bubble ball is rolling on cashflow high ground, it is protected against one type of storm, and one type of blackhole
+
+-- new: Prof Lee Loo Hay
+I create this blogpost because 1) we know him 2) wife and I will have many discussions
+short but meaningful life
+ending on a high note.
+his kids are grown-up already.
+No health issues. Hard to prevent.
+No negative lesson for me to learn.
+
+However, his kids would still need him. His wife too.
 
 -- update bpost on dark background
 set default text size to 10
@@ -121,6 +145,12 @@ https://btv-open.dreamhosters.com/57/sentence-completion-works-for-me/?
 
 The greatest weapon against stress is our ability to choose one thought over another.
 cognitive self-help psychology. 
+
+-- new: wellbeing: the concept
+cat: wellbe`
+the concept of wellbeing is very vague and academic. It's a target of research funding in public policy, healthcare, psychology, sociology, economics, organizational behavior.
+
+It's realted to lifetime satisfaction, life chances...
 
 -- slow-cooking new wiki^recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
