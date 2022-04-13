@@ -1,4 +1,4 @@
--- slow-cooking new wiki^recoll
+-- slow-cooking new blog/wiki^recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
 
 A wiki (including my blog) is first and foremost an info display system, so you can keep a page open forever, as one of 20 open browser tabs. If needed, you could start an hour-long edit session, but eventually, you must save and publish. Most of the time the document is in Published mode, not Edit mode.
@@ -8,10 +8,11 @@ A recoll is data storage. The Edit GUI and Display GUI are the same thing, not s
 A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags.
 
 --new: fuxi entries in git-blogg
-the "fuxi" entries in git blogg is crucial. Before this change, I had to decide how to handle such content. 
-The content is not worthless, to be deleted, but publishing it would require either too many low-value bposts, or too much legwork updating existing bposts.
+the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
+The content is not worthless to be deleted, but publishing it would require either too many low-value bposts, or too much legwork updating existing bposts. 
+There's already too much content and insufficient consolidation.
 
-Therefore, the growing "fuxi" content is a necessary evil, and something of an asset
+Therefore, the growing "fuxi" content is a necessary evil, and something of an asset.
 
 -- update too many(tag^category) https://btv-open.dreamhosters.com/wp-admin/post.php?post=19805&action=edit
 single-category doctrine?
@@ -25,13 +26,7 @@ Tags are not presented in a super-long list of checkboxes. Tags are selected by 
 Overlapping tags is a bigger problem than a proliferation of distinct tags
 
 -- fuxi: 
-In some cases, post title, tag/category are more impotant than post content
-
--- update 5-laptop
-A299 where
-Needed on the go? mostly for git-blogging.
-
-The more I bring out the L36, the faster its wear-n-tear.
+In some cases, post title, tag/category are more impotant than the (brief) post content
 
 --fuxi wp super cache
 too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
