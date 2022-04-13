@@ -1,3 +1,12 @@
+-- slow-cooking new wiki^recoll
+Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
+
+A wiki (including my blog) is first and foremost an info display system, so you can keep a page open forever, as one of 20 open browser tabs. If needed, you could start an hour-long edit session, but eventually, you must save and publish. Most of the time the document is in Published mode, not Edit mode.
+
+A recoll is data storage. The Edit GUI and Display GUI are the same thing, not separate as on a web browser. Therefore, we don't display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
+
+A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags.
+
 --fuxi
 the "fuxi" entries in git blogg is crucial. Before this change, I had to decide how to handle such content. 
 The content is not worthless, to be deleted, but publishing it would require either too many low-value bposts, or too much legwork updating existing bposts.
