@@ -1,3 +1,7 @@
+
+--fuxi: 
+dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
+
 -- fuxi: at Mapic, some would spend the precious break time networking or asking questions.
 I learn a lot from my reflective blogg afterwards, mostly at home.
 

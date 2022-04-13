@@ -22,9 +22,3 @@ The more I bring out the L36, the faster its wear-n-tear.
 too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
 
 i think caching is designed for large user base. I have a user base of 1.
-
---fuxi: excessive blogg@@
-part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace, parenting, localSys
-
---fuxi: 
-dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
