@@ -1,3 +1,9 @@
+--fuxi
+the "fuxi" entries in git blogg is crucial. Before this change, I had to decide how to handle such content. 
+The content is not worthless, to be deleted, but publishing it would require either too many low-value bposts, or too much legwork updating existing bposts.
+
+Therefore, the growing "fuxi" content is a necessary evil, and something of an asset
+
 -- update too many(tag^category) https://btv-open.dreamhosters.com/wp-admin/post.php?post=19805&action=edit
 single-category doctrine?
 
