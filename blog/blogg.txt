@@ -7,18 +7,16 @@ A 500?
 why I can have up to 5 times more tags than categories?
 Tags are not presented in a super-long list of checkboxes. Tags are selected by autocomplete
 
-Overlapping tags is a bigger problem than an excessive number of distinct tags
+Overlapping tags is a bigger problem than a proliferation of distinct tags
 
 -- fuxi: 
-nowadays post title, tag/category are more impotant than post content
+In some cases, post title, tag/category are more impotant than post content
 
--- fuxi: A299 where
-Needed on the go? mostly for git-blogging
+-- update 5-laptop
+A299 where
+Needed on the go? mostly for git-blogging.
 
--- fuxi: at Mapic, some would spend the precious break time networking or asking questions.
-I learn a lot from my reflective blogg afterwards, mostly at home.
-
-One keyword or one key question often starts a new train of thought.
+The more I bring out the L36, the faster its wear-n-tear.
 
 --fuxi wp super cache
 too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
