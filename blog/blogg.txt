@@ -7,7 +7,7 @@ A recoll is data storage. The Edit GUI and Display GUI are the same thing, not s
 
 A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags.
 
---fuxi
+--new: fuxi entries in git-blogg
 the "fuxi" entries in git blogg is crucial. Before this change, I had to decide how to handle such content. 
 The content is not worthless, to be deleted, but publishing it would require either too many low-value bposts, or too much legwork updating existing bposts.
 
