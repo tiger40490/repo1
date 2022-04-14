@@ -18,10 +18,3 @@ Now am inundated, I realized the maintenance effort of investment assets:
 * Local agent does add some value... Am willing to pay a decent fee
 * recreational MOETF is good in terms of zero obligation (to invest more)
 * babysitt on existing positions would be unsustainable
-
---new or update paypal
-An email address (rather than phone num) is the primary login for a paypal account.
-
-If an email address is linked to a paypal US account, then you aren't allowed to link it to a Sg account. You must use another email address.
-
-It's considered unsafe to keep paypal accounts inactive (breeding ground for financial crime). Therefore, Paypal would email periiodic reminders to inactive account owners. If you don't like those reminders, then better close the account. It's easy to reopen paypal accounts. 
