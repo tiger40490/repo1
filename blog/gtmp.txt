@@ -1,3 +1,8 @@
+-- fuxi or update: for the tiny laptop, touch-screen is less valuable
+usage is usually short-duration (below 1 hour 90% of the time).
+
+However, when using the tiny laptop in office, the touch-screen convenience would help me avoid sending emails out of MLP
+
 -- update 5-laptop
 A299 where
 Needed on the go? mostly for git-blogging.
