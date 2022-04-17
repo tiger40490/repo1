@@ -132,12 +132,6 @@ This coding drill has multiple benefits in hindsight
 
 My friends' effort and my own effort were not in vein. It restored my self-confidence as a c++ developer. The self-confidence is priceless.
 
--- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
-NoSql is bigData, not DS/ML. 
-
-Data Science probably favors python or R. ML is even less suitable for java.
-ML includes classification, recommendation, ,, NeuralNetwork is part of ML
-
 -- slow cooking new: 2022 review: techBets, TSN
 Most of my techBets and tsn ... are likely to pay drastically lower dividends after first 10Y. 
 (Exceptions include coreJava, c++, unix commands, shell script)
@@ -188,3 +182,10 @@ How would you feel receiving a doughnut bonus (Andy.Zh** ?), but you get to know
 How would you feel if your (only yours) BTO application is rejected 6 times in a row over 2 years?
 
 These are extremely unpleasant, almost intolerable mistreatments, but it becomes tolerable when it is a known hardship shared by millions. Fairness is key to harmony.
+
+-- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
+NoSql is bigData, not DS/ML. 
+
+Data Science probably favors python or R. ML is even less suitable for java.
+ML includes classification, recommendation, ,, NeuralNetwork is part of ML
+
