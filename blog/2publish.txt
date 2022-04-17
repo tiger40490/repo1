@@ -147,6 +147,10 @@ Strategic orgro is a holy grail.
 
 We all have to be discretionary, cautious in our positioning.
 I spend lots of time blogg about this.
+
+I was betting on the growing importance of low-level engineering. It is a common foundation of c++/coreJava/c#, but the demand declined.
+I was betting on SQL and sproc but the demand declined.
+
 Despite the underwhelming results of my techBets and tsn, we must not give up.
 Applicable to Singapore government too. 
 We need to decide what tech to take up and what to put off.
