@@ -1,3 +1,13 @@
+-- git alias
+based on https://opensource.com/article/20/11/git-aliases
+replace my bash aliases with 
+git shown
+git diffn
+git commmit
+git config --global alias.alias 'config --get-regexp alias'
+
+Put these commands in a bash script customizeGit.sh and check it in. First time you run it, it would update the global ~/.gitconfig. This is safer than ovewriting the entire config file!
+
 -- slow-cooking new blog/wiki^recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
 
