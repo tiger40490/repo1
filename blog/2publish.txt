@@ -1,3 +1,6 @@
+-- sun
+fast jogg 2.4k
+chin-up 10; dip 20; slanted sit-up 20
 -- update 5-laptop
 A299 where
 Needed on the go? mostly for git-blogging.
