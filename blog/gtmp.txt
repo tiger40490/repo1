@@ -1,17 +1,14 @@
+-- fuxi: I have adapted to my living environment
+No longer dependent on library
+no longer dependent on stadium
+Compared to 2018, I have increased yoga self-practice
+I can now jog in many simple shoes, or barefoot
+I can now use stairs, lunges, skip rope
+I now use more of thin bar, yoga block, exercise mat
 -- fuxi or update: for the tiny laptop, touch-screen is less valuable
 usage is usually short-duration (below 1 hour 90% of the time).
 
-However, when using the tiny laptop in office, the touch-screen convenience would help me avoid sending emails out of MLP
-
--- update 5-laptop
-A299 where
-Needed on the go? mostly for git-blogging.
-The more I bring out the L36, the faster its wear-n-tear.
-
-If a299 is not practical for git-blogging, then useless?
-I tend to (over)spend too much time trying to recover some value
-
-Dell250 is reliable in office, just not so usable.
+However, when using the tiny laptop in office, the touch-screen convenience might help me avoid sending emails out of MLP
 
 -- fuxi (no good bpost name): 2nd big problem
 Imagine you have been struggling against a serious personal disadvantage in a new place, you then notice another personal disadvantage. It would look worse than it actually is. Your self-esteem (self-image) is already compromised and vulnerable before this second blow.
@@ -20,3 +17,4 @@ A few powerful examples:
 
 eg: when I first came to SG. I struggled with English. Then I notice my age is older than my classmates.
 eg: when I first came to U.S. I struggled with "status" and (mostly tech) interview. Then I notice my wife's lack of education and English skills.
+eg: When Satya (MSFT CEO) and wife had their first child with a problem, he took it in his stride. Then his second child also needed a lot of help, as he said in an interview.
