@@ -156,9 +156,9 @@ https://btv-open.dreamhosters.com/57/sentence-completion-works-for-me/?
 The greatest weapon against stress is our ability to choose one thought over another.
 cognitive self-help psychology. 
 
--- new: wellbeing: the concept
-cat: wellbe`
-the concept of wellbeing is very vague and academic. It's a target of research funding in public policy, healthcare, psychology, sociology, economics, organizational behavior.
+-- new English bpost: wellbeing
+the concept of wellbeing is academic, and very vague to the layman. 
+It's a target of research funding in public policy, healthcare, psychology, sociology, economics, organizational behavior.
 
 It's realted to lifetime satisfaction, life chances...
 
