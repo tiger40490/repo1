@@ -1,3 +1,16 @@
+-- le2K.Hu: some of the "important" py features IMHO
+I don't know if interviewers perceive them as important and worth asking.
+
+* large scale multiprocessing
+* compute farm
+* hack into the import mechanism
+* decorators
+* immutable types
+* serialization
+* various introspection techniques
+
+Every time I resolve to invest in python self-study beyond what's required at work, my enthusiasm usually dies down rather quickly. Why? I always felt the return on investment was quite unproven. Interviewers may not care about my favorite topics, and work projects are unlikely to need these skills.
+
 -- fuxi
 QH.Dong mentioned passion and personal interest outside work.
 I had some passion and spent lots of personal time on py, sockets, shell scripting, swing,,,
