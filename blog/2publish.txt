@@ -1,12 +1,3 @@
--- update 5-laptop
-A299 where
-Needed on the go? mostly for git-blogging.
-The more I bring out the L36, the faster its wear-n-tear.
-
-If a299 is not practical for git-blogging, then useless?
-I tend to (over)spend too much time trying to recover some value
-
-Dell250 is reliable in office, just not so usable.
 
 -- update post on alternatives and buffers
 j4 using multiple browser brands .. if you are comfortable with a single browser brand (say, Chrome) rather than multiple browser brands, then the impact of Chrome issue is more scary, more stressful, requires more painful adjustments.
