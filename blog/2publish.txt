@@ -1,3 +1,34 @@
+-- le2K.Hu: some of the "important" py features IMHO
+I don't know if interviewers perceive them as important and worth testing.
+
+* large scale multiprocessing
+* compute farm
+* decorators
+* protocols
+* serialization
+* hack into the import mechanism
+* various introspection techniques
+
+Every time I resolve to invest in python self-study beyond what's required at work, my enthusiasm would die down rather quickly. Why? I always felt the return on investment was unproven. Interviewers may not care about my favorite topics, and work projects are unlikely to need these skills.
+
+-- update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
+or https://btv-gz.dreamhosters.com/42358/iv-with-alex-a-small-prop-trading-shop-cto/
+or another blog in https://btv-gz.dreamhosters.com/wp-admin/edit.php?category_name=t_gzsalaryparadox
+
+I heard a departing colleague's truthful reflections including the reasons for the departure. One of the reasons is related to comp benchmark. I guess (with good level of confidence) that he feels that given his value-add and effort, he should receive $XX more (whatever XX is).
+
+The more one dwells on it, the more one would feel unfair -- Someone else in the same team has the same level of value-add but was rewarded much more.
+
+It's a valuable protection that I don't put in extra effort and sacrifice for the manager. It protects me from the hazard of harmful comparision. If you don't compare, you feel satisfied. If you do, your bubble bursts and derails.
+
+At my age, I don't salary-benchmark as much as in my 30s -- I don't care so much about wasting my potential, my spare capacity. It's good and bad. 
+
+It's bad if I am chronically underpaid (20% below market) like J.Zhang.
+It's good if my employer and my manager is generous and keen to retain older SWEs like me.
+
+-- update blogpost -- DavidWei on Canada:
+Chinese immigrants in Canada probably want to work in U.S. just as U.S. tech students want to work in WCBA
+
 -- update: https://btv-open.dreamhosters.com/wp-admin/post.php?post=11001&action=edit
 read letters or other compulsory reads
 read parenting magazines or books
