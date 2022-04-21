@@ -51,9 +51,10 @@ j4 using multiple browser brands .. if you are comfortable with a single browser
 if I preclear a lot for a day, but later find myself in a power surge for math session or something else, then the pressure to do something about the pre-cleared stock is an unwanted distraction.
 
 -- update commercial rental yield in China vs SG
-TPY central shophouse $12k/M rental for a $3.8M (offer) price
+TPY central shophouse $12k/M rental for a $3.8M (asking) price, about 4%. 
+Very good but probably short lease remaining.
 
--- slow update sReit
+-- update sReit
 I feel sReit is more transparent than usReit, largely due to the nanny state regulation.
 
 The sReit operators are all well-known. Many of them are government-linked. As such, they are very low-risk in terms of govenance.
@@ -77,6 +78,7 @@ shift-insert is a built-in hotkey for paste. Worth learning.
 git-diff red_text_on_black is horrible default .. I am trying Dracula. Large text size also helps.
 
 blinking cursor .. block cursor is nicer on my eyes than a thin bar, and a more visual indicator of the window of focus.
+
 -- update on energy sinks
 review QQ, CIV
 piano, AMB
@@ -150,7 +152,7 @@ biggest time-consuming procedures that require focus focus
 .. worry: wasting.. Sugg discard more of the avocado
 .. worry: contamination
 
---new time won't stand still
+--slow cooking new time won't stand still
 The last weekend of Oct 2021, I put in many hours 
 * to add visualization
 * to add more tests
