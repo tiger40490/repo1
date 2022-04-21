@@ -1,3 +1,6 @@
+-- update portable install
+TreeSizeFree portable can't install a ShellEx but it's not really necessary.
+
 -- le2K.Hu: some of the "important" py features IMHO
 I don't know if interviewers perceive them as important and worth testing.
 
