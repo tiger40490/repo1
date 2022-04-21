@@ -11,23 +11,21 @@ I don't know if interviewers perceive them as important and worth testing.
 
 Every time I resolve to invest in python self-study beyond what's required at work, my enthusiasm would die down rather quickly. Why? I always felt the return on investment was unproven. Interviewers may not care about my favorite topics, and work projects are unlikely to need these skills.
 
--- update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
-or https://btv-gz.dreamhosters.com/42358/iv-with-alex-a-small-prop-trading-shop-cto/
-or another blog in https://btv-gz.dreamhosters.com/wp-admin/edit.php?category_name=t_gzsalaryparadox
+-- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
+NoSql is bigData, not DS/ML. 
 
-I heard a departing colleague's truthful reflections including the reasons for the departure. One of the reasons is related to comp benchmark. I guess (with good level of confidence) that he feels that given his value-add and effort, he should receive $XX more (whatever XX is).
-
-The more one dwells on it, the more one would feel unfair -- Someone else in the same team has the same level of value-add but was rewarded much more.
-
-It's a valuable protection that I don't put in extra effort and sacrifice for the manager. It protects me from the hazard of harmful comparision. If you don't compare, you feel satisfied. If you do, your bubble bursts and derails.
-
-At my age, I don't salary-benchmark as much as in my 30s -- I don't care so much about wasting my potential, my spare capacity. It's good and bad. 
-
-It's bad if I am chronically underpaid (20% below market) like J.Zhang.
-It's good if my employer and my manager is generous and keen to retain older SWEs like me.
+Data Science probably favors python or R. ML is even less suitable for java.
+ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
 -- update blogpost -- DavidWei on Canada:
 Chinese immigrants in Canada probably want to work in U.S. just as U.S. tech students want to work in WCBA
+
+-- new English bpost: wellbeing
+(Become a referent from the category description)
+the concept of wellbeing is academic, and very vague to the layman. 
+It's a target of research funding in public policy, healthcare, psychology, sociology, economics, organizational behavior.
+
+It's realted to lifetime satisfaction, life chances...
 
 -- update: https://btv-open.dreamhosters.com/wp-admin/post.php?post=11001&action=edit
 read letters or other compulsory reads
@@ -195,12 +193,6 @@ https://btv-open.dreamhosters.com/57/sentence-completion-works-for-me/?
 The greatest weapon against stress is our ability to choose one thought over another.
 cognitive self-help psychology. 
 
--- new English bpost: wellbeing
-the concept of wellbeing is academic, and very vague to the layman. 
-It's a target of research funding in public policy, healthcare, psychology, sociology, economics, organizational behavior.
-
-It's realted to lifetime satisfaction, life chances...
-
 -- slow cooking new: collective suffering ^ targetted victimization
 I need a shorter phrase
 How would you feel if you receive no bonus as AVP for many years in a row?
@@ -219,9 +211,17 @@ How would you feel if your (only yours) BTO application is rejected 6 times in a
 
 These are extremely unpleasant, almost intolerable mistreatments, but it becomes tolerable when it is a known hardship shared by millions. Fairness is key to harmony.
 
--- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=25175&action=edit
-NoSql is bigData, not DS/ML. 
+-- update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
+or https://btv-gz.dreamhosters.com/42358/iv-with-alex-a-small-prop-trading-shop-cto/
+or another blog in https://btv-gz.dreamhosters.com/wp-admin/edit.php?category_name=t_gzsalaryparadox
 
-Data Science probably favors python or R. ML is even less suitable for java.
-ML includes classification, recommendation, ,, NeuralNetwork is part of ML
+I heard a departing colleague's truthful reflections including the reasons for the departure. One of the reasons is related to comp benchmark. I guess (with good level of confidence) that he feels that given his value-add and effort, he should receive $XX more (whatever XX is).
 
+The more one dwells on it, the more one would feel unfair -- Someone else in the same team has the same level of value-add but was rewarded much more.
+
+It's a valuable protection that I don't put in extra effort and sacrifice for the manager. It protects me from the hazard of harmful comparision. If you don't compare, you feel satisfied. If you do, your bubble bursts and derails.
+
+At my age, I don't salary-benchmark as much as in my 30s -- I don't care so much about wasting my potential, my spare capacity. It's good and bad. 
+
+It's bad if I am chronically underpaid (20% below market) like J.Zhang.
+It's good if my employer and my manager is generous and keen to retain older SWEs like me.
