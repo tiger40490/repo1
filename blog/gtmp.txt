@@ -1,16 +1,3 @@
--- Rjo: test a quick fix soon... either over weekend or after releasing Weeden
-
-PMA server is not urgent at all. I can run a quick test and get Umesh to look into it.
--- new untitled
-when we see new foreign products advertized in Singapore, we often see "top-selling in <countryABC>". For food, fashion products, immediately I wonder "would it be a hit or a flop in the local market of this country?"
-
-It depends on the cultural affinity between the home country and the target country.
-
-Good affinity between Japan and Sgp, between U.S. and Europe, between U.S. and Latam thanks to the large Latino population in U.S.
-
-China's food innovations often sell well in Sgp.
-
-Which country has the best track record and best chance of bridging the most culture gaps? I feel U.S. is above the rest, followed by Japan. 
 -- update public ivies
 Larry has higher income than me. He really likes OhioState for both his kids. Ken (manager of the RTS client-side dev team) .. also sent his kids to a state university, citing cost as one factor.
 
@@ -68,3 +55,11 @@ A few powerful examples:
 eg: when I first came to SG. I struggled with English. Then I notice my age is older than my classmates.
 eg: when I first came to U.S. I struggled with "status" and (mostly tech) interview. Then I notice my wife's lack of education and English skills.
 eg: When Satya (MSFT CEO) and wife had their first child with a problem, he took it in his stride. Then his second child also needed a lot of help, as he said in an interview.
+-- fuxi
+when we see new foreign products advertized in Singapore, we often see "top-selling in <countryABC>". For food, fashion products, immediately I wonder "would it be a hit or a flop in this local market?"
+
+It depends on the cultural affinity between the originating country and the target country.
+
+I see good affinity between Japan and Sgp, between China and Sgp for food innovation only, between U.S. and Europe, between U.S. and Latam thanks to the large Latino population in U.S.
+
+Which country has the best track record and best chance of bridging the most culture gaps? I feel U.S. is above the rest, followed by Europe, and then Japan.
