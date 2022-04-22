@@ -1,3 +1,16 @@
+-- Rjo: test a quick fix soon... either over weekend or after releasing Weeden
+
+PMA server is not urgent at all. I can run a quick test and get Umesh to look into it.
+-- new untitled
+when we see new foreign products advertized in Singapore, we often see "top-selling in <countryABC>". For food, fashion products, immediately I wonder "would it be a hit or a flop in the local market of this country?"
+
+It depends on the cultural affinity between the home country and the target country.
+
+Good affinity between Japan and Sgp, between U.S. and Europe, between U.S. and Latam thanks to the large Latino population in U.S.
+
+China's food innovations often sell well in Sgp.
+
+Which country has the best track record and best chance of bridging the most culture gaps? I feel U.S. is above the rest, followed by Japan. 
 -- update public ivies
 Larry has higher income than me. He really likes OhioState for both his kids. Ken (manager of the RTS client-side dev team) .. also sent his kids to a state university, citing cost as one factor.
 
