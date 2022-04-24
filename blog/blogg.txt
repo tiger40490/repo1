@@ -1,9 +1,10 @@
 -- git alias
 based on https://opensource.com/article/20/11/git-aliases
 replace my bash aliases with 
+git commmit
 git shown
 git diffn
-git commmit
+git update ? keep as alias
 git config --global alias.alias 'config --get-regexp alias'
 
 Put these commands in a bash script customizeGit.sh and check it in. First time you run it, it would update the global ~/.gitconfig. This is safer than ovewriting the entire config file!
