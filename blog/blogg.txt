@@ -8,6 +8,7 @@ git config --global alias.alias 'config --get-regexp alias'
 
 Put these commands in a bash script customizeGit.sh and check it in. First time you run it, it would update the global ~/.gitconfig. This is safer than ovewriting the entire config file!
 
+Check it in, test it out in one machine (not office !) then roll out to other machines.
 -- slow-cooking new blog/wiki^recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
 
