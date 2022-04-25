@@ -1,6 +1,12 @@
 -- update bpost on defaultdict
 (lambda:...) is always more flexible, more explicit
 
+-- new or update: detect stuck thread in a pool
+weblogic marks a pooled thread as stuck if it is busy for 10min (configurable). Weblogic is designed for a large patient queue, so each patient should not take 10min.
+
+For a custom application, this doesn't work. A thread can be busy and productive for any amount of time.
+
+Purpose of detection is not per-patient intervention. Purpose is hospital mgmt such as thread pool config, memory increase, or load balancing.
 -- new: patient Q
 good metaphor for thread pool and producer/consumer. The patient queue can be 60,000 in a reasonable design (Weblogic)
 
