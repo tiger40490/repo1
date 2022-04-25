@@ -1,6 +1,9 @@
 -- update bpost on defaultdict
 (lambda:...) is always more flexible, more explicit
 
+-- new: patient Q
+good metaphor for thread pool and producer/consumer. The patient queue can be 60,000 in a reasonable design (Weblogic)
+
 -- new: check a commit is already in master
 The problem: when a branch is merged into master, a brand new hash would be generated. 
 
