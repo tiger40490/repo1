@@ -1,3 +1,11 @@
+-- new 
+when speaking to someone new
+when speaking on the phone rather than face to face
+when spaking about something sensitive or important
+
+.. no one speaks too slowly. Most peopel including me speak too fast.
+
+-- call DBS to cancel grandpa's card, for safety
 -- new: longRest->tempRecovery
 More than one laptop has shown "longRest->recovery".
 I had to power down for many days to get a few hours or longer recovery from a defect.
