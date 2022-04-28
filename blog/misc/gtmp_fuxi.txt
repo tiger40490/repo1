@@ -1,3 +1,11 @@
+-- fuxi
+when we see new foreign products advertized in Singapore, we often see "top-selling in <countryABC>". For food, fashion products, immediately I wonder "would it be a hit or a flop in this local market?"
+
+It depends on the cultural affinity between the originating country and the target country.
+
+I see good affinity between Japan and Sgp, between China and Sgp for food innovation only, between U.S. and Europe, between U.S. and Latam thanks to the large Latino population in U.S.
+
+Which country has the best track record and best chance of bridging the most culture gaps? I feel U.S. is above the rest, followed by Europe, and then Japan.
 
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
