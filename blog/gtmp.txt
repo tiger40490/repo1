@@ -1,3 +1,37 @@
+-- new: longRest->tempRecovery
+More than one laptop has shown "longRest->recovery".
+I had to power down for many days to get a few hours or longer recovery from a defect.
+
+This pattern has many implications.
+
+Periodically, we had better bring out each laptop to use for a while. This sentence is vague until I point out 1) oxidation and 2) longRest->recovery.
+
+A slighly defective laptop (eg: A299) can be used in place of a new laptop to prolong the latter's shelf life.
+-- update: each time I feel luck cf my peers, it's usually 
+* workload
+* comp + benefits
+* investment gains
+* welfare
+* edu credentials .. ascent of NUS
+
+-- fuxi or update bpost on feel`satisfied more than peers
+in a 2022 nightmare, I rejoined Macq and was dismissed again. 
+I did my best but again was the weakest in the team.
+
+In hind sight, the job requirement was simply too high.
+How about AshS in his CTO job? CSDoctor's job? S.Liu's job? YY.Tao's job?
+
+If I were to benchmark myself with so-called peers, try to increase my brank, and join the exclub, I would get derailed, lose my carefree ezlife, take on lots of stress. 
+If I try, could I become an architect? Not my strength.
+If I try, could I become a lead developer like Ash.S? Not sure. Ash.S seems to take on too much.
+
+At my age, I have an implicit self-conviction that most of the higher-paying positions are too stressful, with exorbitant expectation.
+What I'm unsure is the salary spread. What additional income is possible? After tax, 100k/Y additional? Not worth it.
+
+I told grandpa that my successE [carefree ezlife + harmony, based on wellness and comfortable livelihood] is rare among my cohort, not because I'm better off than them, but because I don't focus on the wrong goals.
+
+The nightmare scenario is much more severe than CB2022
+
 -- update public ivies
 Larry has higher income than me. He really likes OhioState for both his kids. Ken (manager of the RTS client-side dev team) .. also sent his kids to a state university, citing cost as one factor.
 
