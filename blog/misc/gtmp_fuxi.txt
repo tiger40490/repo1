@@ -7,6 +7,11 @@ I see good affinity between Japan and Sgp, between China and Sgp for food innova
 
 Which country has the best track record and best chance of bridging the most culture gaps? I feel U.S. is above the rest, followed by Europe, and then Japan.
 
+-- fuxi (too vague to become a bpost): I have adapted to my living environment
+No longer dependent on library
+no longer dependent on stadium
+Compared to 2018, I have increased yoga self-practice
+
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
 
