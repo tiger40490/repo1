@@ -12,6 +12,24 @@ No longer dependent on library
 no longer dependent on stadium
 Compared to 2018, I have increased yoga self-practice
 
+-- fuxi or new: collective suffering ^ targetted victimization
+I need a shorter phrase
+How would you feel if you receive no bonus as AVP for many years in a row?
+
+How would you feel if you (alone) experience a pay freeze for 2 years?
+
+How would you feel if you work overseas, and for 2 years you (only you) are restricted (by someone in your organization) from returning to home country and reuniting with loved ones? Compare that with covid
+
+How would you feel if your citizenship application (and only yours) is refused 3 times without explanation?
+
+How would you feel if your GreenCard application is delayed by your employer for 5 years, but you realized it is across the board?
+
+How would you feel receiving a doughnut bonus (Andy.Zh** ?), but you get to know it's across the board for all AVPs?
+
+How would you feel if your (only yours) BTO application is rejected 6 times in a row over 2 years?
+
+These are extremely unpleasant, almost intolerable mistreatments, but it becomes tolerable when it is a known hardship shared by millions. Fairness is key to harmony.
+
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
 
