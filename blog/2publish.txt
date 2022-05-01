@@ -52,60 +52,12 @@ each time I feel lucky cf my peers (same or different age), the trigger is usual
 
 Jolt: There are more important tectonic plates, but no peer-comparison -- wellness, family harmony [marriage], long-living parents, successZ, recreations, engaging job,,,
 
--- new: Y insist on touchscreen for next laptop
-Touchscreen is a proven productivity feature. 
-
-Q: Since I don't want to pay for cpu, memory etc, what harewre feature am I willing to pay for? 
-A: Touchscreen + screen size! 
-
-for the tiny laptop, touch-screen is less valuable
-usage is usually short-duration (below an hour in myst instances).
-
-However, when using the tiny laptop in office, the touch-screen convenience might help me avoid sending emails out of MLP
-
--- new: killer talent, or update bpost on personal adv
-More than once I imagine that an individual is really mediocre except in one thing, and on that one thing he/she makes a comfortable living, possibly supporting a family. 
-By "mediore" I mean this person is below average on many important things and barely above average on others.
-
-celebrities are the most visible example -- commercially very successful based on one killer talent, but I have to exclude them for this characterization to be relevant to me.
-
-Leaders [most managers] are by definition multi-talented.
-
-I'm good at JIV, but it is simplistic (and unfair) to say I'm barely above average in my studies, wellness, pff, marriage, bonding with my kids,,
-
-I think speed coding could be a killer talent... useful in CIV, irrelevant on the job.
-
-How about piano teaching? Note piano skill can't provide a livelihood, but piano teaching can.
-How about math tution?
-
--- update tiny Lifestyle 升?
-My lotus@mrt practice is improving.
-I now sit on a plastic bag, so my pants are well-protected and my worry and suspicion about invisible dirt is significantly reduced.
-I stitched my pockets to be handphone-friendly
-I can now jog in many simple shoes, or barefoot
-I can now use stairs, lunges, skip rope
-I now use more of thin bar, yoga block, exercise mat
-
 -- update public ivies
 Larry has higher income than me. He really likes OhioState for both his kids. Ken (manager of the RTS client-side dev team) .. also sent his kids to a state university, citing cost as one factor.
 
 So why would an immigrant insist on the ivy league?
 
 Larry can afford private colleges, but I feel he didn't see the justification for the higher cost.
-
--- new English post
-Many things are not-absolutely-necessary rather than "unnecessary".
-
--- new: scientific claim: TCM, yoga 
-Science theories are always refutable; non-scientific theories are often non-refutable.
-I always believed TCM is proven over centuries but how about lianhua qingwen? 
-It is probably proven effective at treating symptoms but there is a different acid test on the effectiveness at treating covid infection.
-
-yoga has proven benefits but how it helps me is very hard to prove.
-The meditation part is even harder to prove.
-
--- update portable install
-TreeSizeFree portable can't install a ShellEx but it's not really necessary.
 
 -- le2K.Hu: some of the "important" py features IMHO
 I don't know if interviewers perceive them as important and worth testing.
@@ -128,26 +80,6 @@ ML includes classification, recommendation, ,, NeuralNetwork is part of ML
 
 -- update blogpost -- DavidWei on Canada:
 Chinese immigrants in Canada probably want to work in U.S. just as U.S. tech students want to work in WCBA
-
--- new English bpost: wellbeing
-(Become a referent from the category description)
-the concept of wellbeing is academic, and very vague to the layman. 
-It's a target of research funding in public policy, healthcare, psychology, sociology, economics, organizational behavior.
-
-It's realted to lifetime satisfaction, life chances...
-
--- new: weekend office trip=worthwhile even if no work done
-even if I don't actually work for more than 2 minutes on a weekend trip to office, it is still a good habit, because the trip creates the oppportunity to work.
-
-Similarly, Parents often buy gears to create the opportunity for their kids to discover a personal interest.
-
-Similarly, I told many friends that I often go to stadium without a target of how much workout I must complete. Instead, I go there to create the opportunity for myself.
-
-Beside work, 
-* I get better diet control in office
-* I get superior blogg infrastricture
-* I could work out in office or outside
-* I could call beijing more easily
 
 -- update post on alternatives and buffers
 j4 using multiple browser brands .. if you are comfortable with a single browser brand (say, Chrome) rather than multiple browser brands, then the impact of Chrome issue is more scary, more stressful, requires more painful adjustments.
@@ -173,16 +105,6 @@ The traditional Chinese tend to save and invest (Earn/Save/Invest) and become fa
 -- update stress protection, reduction...
 stress buffering is a well-defined term, graphical. It is related to protection and reduction.
 
--- update git-bash
-transparency .. useful even on large screens 
-intuitive copy-paste is more important than I thought
-right-click to paste. Can be non-intuitive to some, but easy to discover, and easy to learn
-shift-insert is a built-in hotkey for paste. Worth learning.
-
-git-diff red_text_on_black is horrible default .. I am trying Dracula. Large text size also helps.
-
-blinking cursor .. block cursor is nicer on my eyes than a thin bar, and a more visual indicator of the window of focus.
-
 -- update on energy sinks
 review QQ, CIV
 piano, AMB
@@ -194,26 +116,6 @@ recreational reading
 
 -- update bubble blogpost
 When my bubble ball is rolling on cashflow high ground, it is protected against one type of storm, and one type of blackhole
-
--- new: Prof Lee Loo Hay
-I create this blogpost because 1) we know him 2) wife and I will have many discussions
-short but meaningful life
-ending on a high note.
-his kids are grown-up already.
-No health issues. Hard to prevent.
-No negative lesson for me to learn.
-
-However, his kids would still need him. His wife too.
-
--- update bpost on dark background
-set default text size to 10
--- update bpost on notepad++ https://btv-gz.dreamhosters.com/wp-admin/post.php?post=1484&action=edit
-After assigning hotkey F2 to SaveAll, we need to identify hotkey conflicts. This is better done using the search bar at bottom of the pop-up.
-Without this tool, the conflict used to add to the legwork and pschological stress.
-
-.. default font .. menu -> settings -> styleConfig
-I prefer a constant-width font. Easier to line up indent across multiple lines
-I prefer font size 12
 
 -- update "yoga4life"
 at twice a week, the total hours would be 3 to 5 /wk, based on my Bayonne experience. This is much more than the hours I can allocate to all other workouts combined. Therefore, the tcost is unsustainable.
@@ -293,14 +195,7 @@ We need to decide what tech to take up and what to put off.
 For the last 15Y, finDev IV is my chose game.
 The 3 types of dnlg are still relevant.
 
--- update blogpost on sms but which one? How about the R.Teo post?
-https://btv-open.dreamhosters.com/15615/self-coachoneg5-coping-strategies/?
-https://btv-open.dreamhosters.com/57/sentence-completion-works-for-me/?
-
-The greatest weapon against stress is our ability to choose one thought over another.
-cognitive self-help psychology. 
-
--- update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
+-- slow cooking update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
 or https://btv-gz.dreamhosters.com/42358/iv-with-alex-a-small-prop-trading-shop-cto/
 or another blog in https://btv-gz.dreamhosters.com/wp-admin/edit.php?category_name=t_gzsalaryparadox
 
