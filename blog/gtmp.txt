@@ -23,7 +23,7 @@ I think key is visibility to the onlookers.
 Some gyms put workout equipments right beside a big window, so gym users are easily visible from the busy street outside. Visibility can serve as a potent motivation.
 -- new: longRest->tempRecovery
 More than one laptop has shown "longRest->recovery".
-I had to power down for many days to get a few hours or longer recovery from a defect.
+I had to power down for many days to get a few hours (or longer) recovery from a defect.
 
 This pattern has many implications.
 
