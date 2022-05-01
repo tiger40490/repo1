@@ -25,16 +25,6 @@ A lower-class stable couple (earning 100k/Y) look at the higher-class the Yi's w
 
 Now 100k/Y is well above the median household income, so why would this couple still envy the Yi's. Would a $400k couple envy someone still higher? It's endless like the low-latency arms race.
 
--- new: Beijing population #ring roads
-Beijing population: 22Mil
-Slightly over half the population live outside 5th ring road.
-
-As of 2015, 
-the belt between 3rd and 6th road has 12Mil residents.
-the belt between 4th and 6th road has 9Mil+ residents.
-
-resources are concentrated in the more mature estates (more central) so the rEstate value should remain.
-
 -- update: def@success? 
 each time I feel lucky cf my peers (same or different age), the trigger is usually 
 * comp + benefits
@@ -51,13 +41,6 @@ each time I feel lucky cf my peers (same or different age), the trigger is usual
 .. Basicaly the successC components. Similarly, each sinking exprience has a trigger event in pff, brank, double-income, academic kids, WCBA,,,
 
 Jolt: There are more important tectonic plates, but no peer-comparison -- wellness, family harmony [marriage], long-living parents, successZ, recreations, engaging job,,,
-
--- update public ivies
-Larry has higher income than me. He really likes OhioState for both his kids. Ken (manager of the RTS client-side dev team) .. also sent his kids to a state university, citing cost as one factor.
-
-So why would an immigrant insist on the ivy league?
-
-Larry can afford private colleges, but I feel he didn't see the justification for the higher cost.
 
 -- le2K.Hu: some of the "important" py features IMHO
 I don't know if interviewers perceive them as important and worth testing.
@@ -77,45 +60,6 @@ NoSql is bigData, not DS/ML.
 
 Data Science probably favors python or R. ML is even less suitable for java.
 ML includes classification, recommendation, ,, NeuralNetwork is part of ML
-
--- update blogpost -- DavidWei on Canada:
-Chinese immigrants in Canada probably want to work in U.S. just as U.S. tech students want to work in WCBA
-
--- update post on alternatives and buffers
-j4 using multiple browser brands .. if you are comfortable with a single browser brand (say, Chrome) rather than multiple browser brands, then the impact of Chrome issue is more scary, more stressful, requires more painful adjustments.
--- update 1 preclear a day
-if I preclear a lot for a day, but later find myself in a power surge for math session or something else, then the pressure to do something about the pre-cleared stock is an unwanted distraction.
-
--- update commercial rental yield in China vs SG
-TPY central shophouse $12k/M rental for a $3.8M (asking) price, about 4%. 
-Very good but probably short lease remaining.
-
--- update sReit
-I feel sReit is more transparent than usReit, largely due to the nanny state regulation.
-
-The sReit operators are all well-known. Many of them are government-linked. As such, they are very low-risk in terms of govenance.
-
-There are relatively few variations (a form of cognitive complexity) among the sReits. Very similar business models.
-
--- fuxi or update post on income/wealth
-There are two important quadrants:  HighIncome_LowWealth, and LowIncome_HighWealth
-
-The traditional Chinese tend to save and invest (Earn/Save/Invest) and become fairly wealthy.
-
--- update stress protection, reduction...
-stress buffering is a well-defined term, graphical. It is related to protection and reduction.
-
--- update on energy sinks
-review QQ, CIV
-piano, AMB
-^ stock research online
-^ academic coaching
-^ call Bj
-v blogg, emailing
-recreational reading
-
--- update bubble blogpost
-When my bubble ball is rolling on cashflow high ground, it is protected against one type of storm, and one type of blackhole
 
 -- update "yoga4life"
 at twice a week, the total hours would be 3 to 5 /wk, based on my Bayonne experience. This is much more than the hours I can allocate to all other workouts combined. Therefore, the tcost is unsustainable.
