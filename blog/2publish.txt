@@ -235,9 +235,9 @@ This coding drill has multiple benefits in hindsight
 
 My friends' effort and my own effort were not in vein. It restored my self-confidence as a c++ developer. The self-confidence is priceless.
 
--- slow cooking new: 2022 review: techBets, TSN
+-- slow cooking new: 2022 review on techBets, tsn
 Most of my techBets and tsn ... are likely to pay drastically lower dividends after first 10Y. 
-(Exceptions include coreJava, c++, unix commands, shell script)
+(Exceptions are important and include coreJava, c++, unix[power tools, shell scripting])
 I will receive the dividend when I change job back to the target domain, be it bondMath, mkt data, sockets, SQL or Perl,,,
 
 Strategic orgro is a holy grail.
@@ -245,7 +245,8 @@ Strategic orgro is a holy grail.
 We all have to be discretionary, cautious in our positioning.
 I spend lots of time blogg about this.
 
-I was betting on the growing importance of low-level engineering. It is a common foundation of c++/coreJava/c#, but the demand declined.
+Since 2010s, I have been betting on the growing importance of low-level engineering. It is a common foundation of c++/coreJava/c#. Growing importance yes but didn't translate to growing demand. I guess market depth was underwhelming.
+
 I was betting on SQL and sproc but the demand declined.
 
 Despite the underwhelming results of my techBets and tsn, we must not give up.
