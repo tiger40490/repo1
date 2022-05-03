@@ -1,6 +1,3 @@
--- update bpost on lockout
-risk of forgetting badge in office is much higher than risk of mechanical failure en-route and losing mrt+badge
-
 -- update on L36 in office, and synch to office PC: "pub" has no suffix
 
 -- le2K.Hu: some of the "important" py features IMHO
