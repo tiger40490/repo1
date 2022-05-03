@@ -1,3 +1,14 @@
+-- new 
+see also https://tanbinvest.dreamhosters.com/549/inflation-in-singapore-personal-xp/
+
+Many economic theories assume that for a particular household, high inflation can be offset by higher wages. This assumption has many weaknesses
+
+* many households have no working member .. unemployed, retired,,,
+* Many (more than we think) sectors do not experience higher profit in a high inflation phase, and are unable to increase wages
+* many wage earners have no bargaining power at all.
+
+How about intRate? Does it grow with inflation? I have lived through many eras to question this broad assumption.
+
 -- update bpost on low-latency?
 I envy the LkP early investor who made perhaps a million paper profit, but hey, he also envies me for
 * my high annual salary. Total salary would exceed his paper profit in a few years
