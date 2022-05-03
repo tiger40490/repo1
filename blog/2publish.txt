@@ -1,3 +1,8 @@
+-- update bpost on lockout
+risk of forgetting badge in office is much higher than risk of mechanical failure en-route and losing mrt+badge
+
+-- update on L36 in office, and synch to office PC: "pub" has no suffix
+
 -- le2K.Hu: some of the "important" py features IMHO
 I don't know if interviewers perceive them as important and worth testing.
 
@@ -6,10 +11,9 @@ I don't know if interviewers perceive them as important and worth testing.
 * decorators
 * protocols
 * serialization
-* hack into the import mechanism
 * various introspection techniques
 
-Every time I resolve to invest in python self-study beyond what's required at work, my enthusiasm would die down rather quickly. Why? I always felt the return on investment was unproven. Interviewers may not care about my favorite topics, and work projects are unlikely to need these skills.
+Every time I resolve to invest in python self-study beyond what's required at work, my enthusiasm would die down rather quickly (within days). Why? I always felt the return on my "investment" was unproven. Interviewers may not care about my favorite topics, and work projects are unlikely to need these skills.
 
 -- slow cooking update https://btv-gz.dreamhosters.com/23335/self-hate-about-300k-salary-xr/
 or another blog in https://btv-gz.dreamhosters.com/wp-admin/edit.php?category_name=t_gzsalaryparadox
