@@ -1,18 +1,26 @@
--- check why "pub" has no suffix
+-- update on L36 in office, and synch to office PC: "pub" has no suffix
 -- fuxi or new:
-Why BMI challenge is so tough in SG vs U.S... could be homeostatic hunger
+Why BMI challenge is so tough in SG vs U.S... could be homeostatic hunger in the SG climate
 With the same food intake, in the U.S. I tend to feel less hungry.
 
--- new: 
-English as a common working language in SG (also U.S. + presumably other countries)
+-- update bpost on commute
+Need to balance 2 priorities (3 would be max)
+logistical efficiency .. printed material far more efficient than laptop esp. for short trips or with transfers
+productivity zsms .. laptop with coding or tech QQ, or tech books 
+
+When is best time for git-blogg? Looks like an unwanted child. Commute is a good choice, even if not the very best.
+When is best time for my growing recreational books? In office 
+
+-- new: English as a common working language]SG 
+English is needed as a common working language in Singapore (also U.S.)
 There's a need to balance two needs
 
-* All these governments recognize immigrants' right to speak their original language when living in Singapore. 
-* The requirement for basic English skill at the workplace + schools. The pressure to learn English may push some of these immigrants to reduce original language usage, as a strategy to speed up English learning
+* All of these governments recognize immigrants' right to speak their original language when living in Singapore. Original language is well-recognized as more effective esp. as the immigrant copes with numerous challenges in a new place. Singapore is not the easiest new country for an immigrant.
+* The requirement for basic English skill at the workplace + schools. The pressure to learn English may push some of these immigrants to reduce original language usage, as a strategy to speed up English learning.
 
 So at the minimum, SG immigration (and job interviewers) require each immigrant to be "effective" in listening and reading, and also expressing themselves clearly in the common language. 
 
-In reality, many China immigrants (my younger self) clearly struggle and experience a disadvantage/handicap in English-dominant places of Singapore. 
+In reality, many China immigrants (my younger self) struggle and experience some level of disadvantage/handicap in English-dominant places of Singapore.
 
 -- update bpost on lockout
 risk of forgetting badge in office is much higher than risk of mechanical failure en-route and losing mrt+badge
