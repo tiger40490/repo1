@@ -1,12 +1,10 @@
 Hi Liu Shuo,
 
-Hope your parents are safe in Beijing and also your in-laws (in Shanghai?)
+Hope your parents are safe in Beijing and also your older in-laws (in Shanghai?). They are the most volnerable.
 
-Today something reminded me of a suggestion/recommendation you gave me some years ago, when you said a teaching career might be best for my later career. You didn't say but I will assume you meant "after 55". 
+Today something reminded me of a suggestion/recommendation you gave me some years ago, when you said a teaching career might be best for my later career. I will assume you meant "after 55". I think at that time I was completing my master's program in math, so i assume you meant teaching math or CSci (Computer Science).
 
-I think the context was my master's program in math, so i assume you meant teaching math or CSci (Computer Science).
-
-Many things have changed since, and I don't see a high probability (like 5%) to take up a full time teaching career by 55. 
+Many things have changed over the last few short years, so much so that I don't see a high probability (like 10%) to take up a full time teaching career by 55. 
 
 Q: looking at the last few years, why would I want or don't want a full-time teaching career? Below are some Yes/No factors.
 
@@ -14,10 +12,10 @@ Q: looking at the last few years, why would I want or don't want a full-time tea
 
 [yes factor] interest .. I have a bit of interest in teaching Chinese, math or programming. I like it better than cleaner job, driver job, retail sales, full-time volunteering,,,
 
-[no-factor] workload .. workload, intensity, mental stress level ... have improved over 5Y for the_SWE_jobs_I_focus_on. In some SWE jobs, I only work less than half the time in a year. I often get close to no work for a month. Crucially, I always can get my job done, on time, with quality. For this reason, I have less motivation to change career.
+[no-factor] workload .. workload, intensity, mental stress level ... have (improved)changed beyond recognition over 5Y for the_SWE_jobs_I_focus_on. In some SWE jobs, I only work less than 1/3 the time in a year (but getting paid 12M). I often get close to no work for a month. Nowadays I get up any time before noon. Sometimes I come to office like a resort, without any pressure to work. Crucially, I always can get my job done, on time. No real quality issue in my work for 15Y. For this main reason, I have less motivation to change career now than years ago.
 
-[no-factor] interviews .. are still within my range for the_SWE_jobs_I_focus_on. (Obviously many SWE interviews are beyond my abilities such as architect, team lead, or bay area $300k SWE jobs.) By 55, I think I can keep up.
+[no-factor] interviews .. are still within my range for the_SWE_jobs_I_focus_on. (Obviously many SWE interviews are beyond my abilities such as architect, team lead, or bay area $300k SWE jobs.) If my workload becomes unberable like in GS, I would change job rather than switch career. By 55, I think I can keep up with the competition.
 
-[no-factor] tech churn .. has improved significantly over 20Y for the_SWE_jobs_I_focus_on. Churn was a slow-n-steady killer in the interview game and on the job. We were brainwashed that "If you don't upgrade to new technology (and lose your heavy investment in older technology), then you couldn't survive". Well, I still use the technologies I have studied 15Y ago.
+[no-factor] tech churn .. has improved significantly over 20Y for the_SWE_jobs_I_focus_on. Churn was a slow-n-steady killer in the interview game and also on the job. We were brainwashed that "If you don't upgrade to new technology (and lose your heavy investment in older technology), then you couldn't survive". Well, I still use the technology stack I have studied 15Y ago. The old stack doesn't pay so well, but I am fat-n-happy.
 
-[no-factor] salary .. has increased significantly (over 5Y) for the_SWE_jobs_I_focus_on. I'm hearing USD 200k without bonus for many of my peers on WallSt.
+[no-factor] salary .. has increased (over 5Y) for the_SWE_jobs_I_focus_on. I'm hearing USD 200k without bonus for many of my peers on WallSt.
