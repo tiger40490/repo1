@@ -1,3 +1,7 @@
+-- update bpost
+strict burn rate .. excludes tax and mortgage-P.
+brbrx .. includes tax, mortgage-P
+
 -- new 
 see also https://tanbinvest.dreamhosters.com/549/inflation-in-singapore-personal-xp/
 
