@@ -1,3 +1,21 @@
+-- update too many(tag^category) https://btv-open.dreamhosters.com/wp-admin/post.php?post=19805&action=edit
+single-category doctrine?
+
+Q: how many tags would be too many in a big blog?
+A 500?
+
+why I can have up to 5 times more tags than categories?
+Tags are not presented in a super-long list of checkboxes. Tags are selected by autocomplete
+
+Overlapping tags is a bigger problem than a proliferation of distinct tags
+
+--new: fuxi entries in git-blogg
+the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
+The content is not worthless to be deleted, but publishing it would lead to either too many low-value bposts, or too much legwork updating existing bposts. 
+There's already too much content and insufficient consolidation.
+
+Therefore, the growing "fuxi" content is a necessary evil, and something of an asset.
+
 -- new: longRest->tempRecovery in laptops
 Periodically, we had better bring out each laptop to use for a while. This sentence is vague until I point out 1) oxidation and 2) longRest->recovery.
 

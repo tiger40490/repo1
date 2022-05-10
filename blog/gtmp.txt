@@ -1,3 +1,4 @@
+-- alias git-update to refer to git pullb
 -- update bpost on cancer
 Medical literature often mention short-term stress, like fight-or-flight
 
