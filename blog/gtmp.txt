@@ -1,4 +1,6 @@
--- alias git-update to refer to git pullb
+-- update: tiny improvement
+my reading/blogg topic is now less introspective, more outward, more societal. A good sign.
+
 -- update bpost on cancer
 Medical literature often mention short-term stress, like fight-or-flight
 
