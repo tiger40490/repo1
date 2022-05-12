@@ -9,6 +9,21 @@ Tags are not presented in a super-long list of checkboxes. Tags are selected by 
 
 Overlapping tags is a bigger problem than a proliferation of distinct tags
 
+-- update bpost on nuts
+Even though many studies find regular nut-eaters are leaner and more heart-healthy than non-eaters, the nuts won't have a net benefit if we fail to follow the strict guideline
+
+* if you eat X grams of nuts, you must compensate by cutting Y grams of saturated fats
+* you must avoid coating with sugar, salt, oil etc, as they could "cancel out" the heart-healthy benefits of nuts !
+* you must moderate nuts intake, and avoid binge.
+
+-- update: tiny improvement
+my reading/blogg topic is now less introvertive, more extrovertive, more about the society. A good trend, though the reverse is nothing negative.
+
+-- update bpost on cancer
+Medical literature often mention short-term stress, like fight-or-flight
+
+short term stress is not so harmful.
+
 --new: fuxi entries in git-blogg
 the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
 The content is not worthless to be deleted, but publishing it would lead to either too many low-value bposts, or too much legwork updating existing bposts. 
