@@ -4,10 +4,7 @@ single-category doctrine?
 Q: how many tags would be too many in a big blog?
 A 500?
 
-why I can have up to 5 times more tags than categories?
-Tags are not presented in a super-long list of checkboxes. Tags are selected by autocomplete
-
-Overlapping tags is a bigger problem than a proliferation of distinct tags
+Overlapping tags is a bigger problem than a proliferation of distinct tags, so lots of fuxi* tags are not so bad.
 
 -- update bpost on nuts
 Even though many studies find regular nut-eaters are leaner and more heart-healthy than non-eaters, the nuts won't have a net benefit if we fail to follow the strict guideline
