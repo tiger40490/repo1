@@ -1,13 +1,3 @@
--- update bpost on 500k mtg
-Proposal: use cpf alone to pay monthly. Every 2.5k absorbed into mtg, I would soon cash-refund back to cpf.
-
-Benefit: virtually no default risk. 
-Benefit: i have a justification to keep high balance in cpfOA to enjoy 2.5% interest
-benefit: exp recon will not include any monthly noise. Will only show bulk transfers "housing refund"
-drawback: paid^earned interest tally will be messy. I will use year-end official records from OC and CPF.
-
-to earn more interest, I need to keep very high cpfOA, but that would reduce my flexibility. But this problem is there even if I don't use cpf for mtg.
-
 -- update bpost
 strict burn rate .. excludes tax and mortgage-P.
 brbrx .. includes tax, mortgage-P
