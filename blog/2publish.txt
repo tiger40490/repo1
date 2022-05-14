@@ -4,7 +4,7 @@ single-category doctrine?
 Q: how many tags would be too many in a big blog?
 A 500?
 
-Overlapping tags is a bigger problem than a proliferation of distinct tags, so lots of fuxi* tags are not so bad.
+Overlapping tags is a bigger problem than a proliferation of distinct tags, so lots of fuxi* or upto* tags are not so bad.
 
 -- update bpost on nuts
 Even though many studies find regular nut-eaters are leaner and more heart-healthy than non-eaters, the nuts won't have a net benefit if we fail to follow the strict guideline
@@ -16,10 +16,12 @@ Even though many studies find regular nut-eaters are leaner and more heart-healt
 -- update: tiny improvement
 my reading/blogg topic is now less introvertive, more extrovertive, more about the society. A good trend, though the reverse is nothing negative.
 
+However, news reading is time consuming, and not as rewarding/fulfilling as my recreational xx.
+
 -- update bpost on cancer
 Medical literature often mention short-term stress, like fight-or-flight
 
-short term stress is not so harmful.
+short term stress is not so harmful. Chronic stress is.
 
 --new: fuxi entries in git-blogg
 the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
