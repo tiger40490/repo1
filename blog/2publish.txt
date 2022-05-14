@@ -6,6 +6,13 @@ A 500?
 
 Overlapping tags is a bigger problem than a proliferation of distinct tags, so lots of fuxi* or upto* tags are not so bad.
 
+--new: fuxi entries in git-blogg
+the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
+The content is not worthless to be deleted, but publishing it would lead to either too many low-value bposts, or too much legwork updating existing bposts. 
+There's already too much content and insufficient consolidation.
+
+Therefore, the growing "fuxi" content is a necessary evil, and something of an asset.
+
 -- update bpost on nuts
 Even though many studies find regular nut-eaters are leaner and more heart-healthy than non-eaters, the nuts won't have a net benefit if we fail to follow the strict guideline
 
@@ -22,13 +29,6 @@ However, news reading is time consuming, and not as rewarding/fulfilling as my r
 Medical literature often mention short-term stress, like fight-or-flight
 
 short term stress is not so harmful. Chronic stress is.
-
---new: fuxi entries in git-blogg
-the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
-The content is not worthless to be deleted, but publishing it would lead to either too many low-value bposts, or too much legwork updating existing bposts. 
-There's already too much content and insufficient consolidation.
-
-Therefore, the growing "fuxi" content is a necessary evil, and something of an asset.
 
 -- new: longRest->tempRecovery in laptops
 Periodically, we had better bring out each laptop to use for a while. This sentence is vague until I point out 1) oxidation and 2) longRest->recovery.
