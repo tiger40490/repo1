@@ -31,7 +31,7 @@ Medical literature often mention short-term stress, like fight-or-flight
 short term stress is not so harmful. Chronic stress is.
 
 -- new: longRest->tempRecovery in laptops
-Periodically, we had better bring out each laptop to use for a while. This sentence is vague until I point out 1) oxidation and 2) longRest->recovery.
+Periodically, we had better bring out each laptop (also spectacles) to use for a while. This sentence is vague until I point out 1) oxidation and 2) longRest->recovery.
 
 More than one laptop has shown "longRest->recovery".
 I had to power down for many days to get a few hours (or longer) recovery from a defect.
@@ -41,7 +41,7 @@ This pattern has many implications.
 A slighly defective laptop (eg: A299) can be used in place of a new laptop to prolong the latter's shelf life.
 
 -- update 5/wk https://btv-open.dreamhosters.com/wp-admin/post.php?post=23343&action=edit
-Q: to match an hour of jogging during quarantine, we could step up/down on a platform, skip rope or squat, but for how long non-stop, and how often can you put up with it? 
+Q: to match an hour of jogging, during quarantine we would need to step up/down on a platform, skip rope or squat, but for how long, and how often can you put up with it? 
 
 The absorbency required is too high ! Sugar coating is crucial, not optional in the form of jogging path
 
@@ -55,11 +55,12 @@ In all other fitness corners like downstairs, I feel poor absorbency.
 I think key is visibility to the onlookers. 
 
 Some gyms put workout equipments right beside a big window, so gym users are easily visible from the busy street outside. Visibility can serve as a potent motivation.
--- new: inflation and wage
+
+-- new: inflation n wage
 theoretical
 see also https://tanbinvest.dreamhosters.com/549/inflation-in-singapore-personal-xp/
 
-Many economic theories assume that for a particular household, high inflation can be offset by higher wages. This questionable assumption has many weaknesses
+Many economic theories assume that for a particular household, high inflation can be offset by higher wages. This sweeping, simplistic assumption has many weaknesses
 
 * during high inflation, many households have no working member .. unemployed, retired,,,
 * during high inflation, many (more than we think) sectors do not experience higher profit, and are unable to increase wages beyond a token increment
@@ -69,6 +70,9 @@ How about intRate? Does it grow with inflation? I have lived through many eras t
 
 -- new: English as a common working language]SG 
 English is needed as a common working language in Singapore (also U.S.)
+
+I assume the standard of English is falling in HK
+
 There's a need to balance two needs
 
 * All of these governments recognize immigrants' right to speak their original language when living in Singapore. Original language is well-recognized as more effective esp. as the immigrant copes with numerous challenges in a new place. Singapore is not the easiest new country for an immigrant.
