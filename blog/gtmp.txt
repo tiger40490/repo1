@@ -15,6 +15,18 @@ Flexibility does (I believe) help reduce probability and severity of injuries. I
 
 However, the yoga style deep stretch may not improve flexibility, partly because the improvement has a half-life = 1week.
 
+-- new: dependency@AC++
+I now feel slightly less guilty about my growing dependency on AC.
+
+(Is it bad to switch on/off frequently? No evidence.)
+
+Dependency on AC is very common, so commercial support is widespread.
+Dependency on car is ditto, but the commercial support is pricier.
+
+Dependency on wireless connectivity is very common, but you depend on other people most of the time.
+Dependency on wpress is uncommon
+Dependency on NY/NJ subway is common during peak hours only. Extra dependency on it is uncommon.
+
 -- new: BE-verbs
 feel/sound/look/weigh
 become/grow/get
