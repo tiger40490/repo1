@@ -2,9 +2,9 @@
 single-category doctrine?
 
 Q: how many tags would be too many in a big blog?
-A 500?
+A: 300. Too many would slow down the type-ahead
 
-Overlapping tags is a bigger problem than a proliferation of distinct tags, so lots of fuxi* or upto* tags are not so bad.
+For tags, overlap is a bigger problem than proliferation, so lots of fuxi* or upto* tags are not so bad.
 
 --new: fuxi entries in git-blogg
 the "fuxi" entry in git blogg is a crucial feature. Before this invention, I had to decide how to handle such content. 
@@ -75,7 +75,7 @@ Charlie Yeung
 Zoe Tay
 Gigi Leung
 
-These glamorous women each chose a man "lower" in wealth and power. In a way, such a glamorous woman has made enough money and doesn't need more money. She does need equality in marriage.
+These glamorous women each chose a man "lower" in wealth and economic power. In a way, such a glamorous woman has made enough money and doesn't need more money. She does need equality in marriage. Having higher economic power provides her a safety.
 
 Once they commit to a marriage, they become extremely vulnerable. They would have a marriage to protect. They may have kids to protect. Statistically, marriage failure within her circle was higher than average, perhaps 30%. 
 
