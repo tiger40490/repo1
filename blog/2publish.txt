@@ -1,8 +1,11 @@
+-- update lamp
+heat reduction is a major feature nowadays
+
 -- update too many(tag^category) https://btv-open.dreamhosters.com/wp-admin/post.php?post=19805&action=edit
 single-category doctrine?
 
 Q: how many tags would be too many in a big blog?
-A: 300. Too many would slow down the type-ahead
+A: 300. Too many would slow down auto-sugestion when I am in a hurry
 
 For tags, overlap is a bigger problem than proliferation, so lots of fuxi* or upto* tags are not so bad.
 
