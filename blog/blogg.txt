@@ -1,5 +1,8 @@
+-- fuxi
+Is reading about parenting (and marriage, inter-personal communications) less likely to make a real difference? Yes, blogging about personal reflections are more introspective, more personal.
+
 -- update bpost on proliferation
-.. adaptations to the proliferation problem:
+.. My adaptations to the proliferation problem:
 more deletion of outdated bposts
 git blogging now uses more Update less New
 more time spent on fuxi using PubDate adjustment and less time spent creating new bposts

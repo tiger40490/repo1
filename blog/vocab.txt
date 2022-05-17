@@ -1,0 +1,5 @@
+-- new: BE-verbs
+feel/sound/look/weigh
+become/grow/get
+
+These verbs are followed by adjectives

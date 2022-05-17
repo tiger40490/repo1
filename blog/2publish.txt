@@ -1,3 +1,6 @@
+-- new: flatus
+sanitary pad (40/$1.20)
+
 -- update lamp
 heat reduction is a major feature nowadays
 

@@ -1,0 +1,2 @@
+-- update bpost on diskhog
+WindowsApps folder -- not worth optimizing. Quite risky.

@@ -1,28 +1,3 @@
--- The vesak weekend 
-I did spend lots of time with boy
-I did sleep early.
-
-so far limited burn. I could increase localSys, QQ, 
-The focusing illusion tends to exaggerate my burn or rot. Actually I didn't waste time in any of the morning/afternoon/evening sessions.
--- update bpost on diskhog
-WindowsApps folder -- not worth optimizing. Quite risky.
--- new or fuxi: 
-The focusing illusion exaggerates the importance of flexibility, and exaggerates my Relative weakness, as compared to a published instruction. 
-
-Q: what's the published vs experienced pains/dangers of inflexibility?
-
-Q: what's the publisied vs experienced benefits of stretch, breathing or meditation?
-
-The published studies are from different sources. Tother they prove beyond reasonable doubt that yoga has no major side effects. As to the benefits, studies often say "can improve ...". It reminds me of my myopic treatments in Beijing [laser, massage] and my Indian colleagues' experience of ginseng. 
-
-Experienced benefits are obvious (will not elaborate today) in CRE, strength. Some of those benefits are shared with (the strenguous form of) yoga.
-
-Experienced pains of poor CRE/strength are obvious (will not elaborate today).
-
-Flexibility does (I believe) help reduce probability and severity of injuries. I also believe in delaying the decline of flexibility. The decline is inevitable for 99% of men, due to aging.
-
-However, the yoga style deep stretch may not improve flexibility, partly because the improvement has a half-life = 1week.
-
 -- new: dependency@AC ++
 I now feel slightly less guilty about my growing dependency on AC.
 
@@ -35,11 +10,6 @@ Dependency on wireless connectivity is very common, but you depend on other peop
 Dependency on wpress is uncommon
 Dependency on NY/NJ subway is common during peak hours only. Extra dependency on it is uncommon.
 
--- new: BE-verbs
-feel/sound/look/weigh
-become/grow/get
-
-These verbs are followed by adjectives
 -- new or update bpost on brush-off
 reflections on the 92S27 reunion in May 2022
 
@@ -62,9 +32,6 @@ productivity zsms .. laptop with coding or tech QQ, or tech books
 When is best time for git-blogg? Looks like an unwanted child. Commute is a good choice, even if not the very best.
 When is best time for my growing recreational books? In office and home
 
--- fuxi
-Is reading about parenting (and marriage, inter-personal communications) less likely to make a real difference? Yes, blogging about personal reflections are more introspective, more personal.
-
 -- fuxi (no good bpost name): 2nd big problem
 Imagine you have been struggling against a serious personal disadvantage in a new place, you then notice another personal disadvantage. It would look worse than it actually is. Your self-esteem (self-image) is already compromised and vulnerable before this second blow.
 
@@ -73,7 +40,3 @@ A few powerful examples:
 eg: when I first came to SG. I struggled with English. Then I notice my age is older than my classmates.
 eg: when I first came to U.S. I struggled with "status" and (mostly tech) interview. Then I notice my wife's lack of education and English skills.
 eg: When Satya (MSFT CEO) and wife had their first child with a problem, he took it in his stride. Then his second child also needed a lot of help, as he said in an interview.
-
--- fuxi or new:
-Why BMI challenge is so tough in SG vs U.S... could be homeostatic hunger in the SG climate
-With the same food intake, in the U.S. I tend to feel less hungry.
