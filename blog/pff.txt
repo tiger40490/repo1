@@ -1,3 +1,7 @@
+-- new TPY condo rent
+1BR: 3k
+2BR: 3.5k
+
 -- update bpost
 wife's cpfSA (2step) top-up would earn at least 4%, possibly 5%. No need to call cpf to confirm.
 
