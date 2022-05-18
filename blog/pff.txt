@@ -1,4 +1,7 @@
 -- update bpost
+wife's cpfSA (2step) top-up would earn at least 4%, possibly 5%. No need to call cpf to confirm.
+
+-- update bpost
 strict burn rate .. excludes tax and mortgage-P.
 brbrx .. includes tax, mortgage-P
 
