@@ -24,9 +24,6 @@ Dependency on wireless connectivity is very common, but you depend on other peop
 Dependency on wpress is uncommon
 Dependency on NY/NJ subway is common during peak hours only. Extra dependency on it is uncommon.
 
--- fuxi
-I told grandma that it's hard to avoid comparing to the past or to peers. 
-Some aging individuals are able to avoid that to some extent
 -- update bpost on commute
 Need to balance 2 priorities (3 would be max)
 logistical efficiency .. printed material (without need4writing) is far more efficient than laptop esp. for short trips or with transfers
