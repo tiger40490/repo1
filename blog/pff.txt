@@ -1,9 +1,3 @@
--- new TPY condo rent
-1BR: 3k
-2BR: 3.5k
-
--- update bpost
-wife's cpfSA (2step) top-up would earn at least 4%, possibly 5%. No need to call cpf to confirm.
 
 -- update bpost
 strict burn rate .. excludes tax and mortgage-P.
@@ -22,3 +16,10 @@ Now am inundated, I realized the maintenance effort of investment assets:
 * Local agent does add some value... Am willing to pay a decent fee
 * recreational MOETF is good in terms of zero obligation (to invest more)
 * babysitt on existing positions would be unsustainable
+
+-- new TPY condo rent
+1BR: 3k
+2BR: 3.5k
+
+Reliable data from my MLP colleague.
+In the same month, Gary also said "hard to find anything below 3k HDB"
