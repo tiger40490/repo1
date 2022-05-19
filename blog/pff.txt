@@ -1,7 +1,8 @@
+-- BGC title: call NCT?
 
 -- update bpost
-strict burn rate .. excludes tax and mortgage-P.
-brbrx .. includes tax, mortgage-P
+core burn rate .. excludes tax and mortgage-P.
+headline burn rate (brbrx) .. includes tax, mortgage-P
 
 -- update bpost on low-latency?
 I envy the LkP early investor who made perhaps a million paper profit, but hey, he also envies me for
@@ -10,16 +11,3 @@ I envy the LkP early investor who made perhaps a million paper profit, but hey, 
 
 He would also envy the bigger investors who made $3M .. low-latency arms race! What's enough? Pehraps half a million
 
--- fuxi: 
-Now am inundated, I realized the maintenance effort of investment assets:
-* truly passive income is rare. Cambodia is much closer to ideal than BGC is. 
-* Local agent does add some value... Am willing to pay a decent fee
-* recreational MOETF is good in terms of zero obligation (to invest more)
-* babysitt on existing positions would be unsustainable
-
--- new TPY condo rent
-1BR: 3k
-2BR: 3.5k
-
-Reliable data from my MLP colleague.
-In the same month, Gary also said "hard to find anything below 3k HDB"
