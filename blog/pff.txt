@@ -5,10 +5,11 @@ Unlike clothes or snacks or many other products hawked by celebrities, the crypt
 
 A University of Chicago research has found that younger, lower-income investors tend to be overly optimistic about crypto's trajectory. 
 
--- new: to retail investors, G2 problems of bccy
+-- new: for retail investors, G2 problems of bccy
 scam, including pump-n-dump
 volatility
 
+-- update
 Many claim that BTC can be an inflation hedge. Any proven inflation hedge must be stable. Gold is much more stable than BTC.
 
 -- new: legitimizing bccy
