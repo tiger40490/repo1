@@ -1,13 +1,15 @@
 -- update bpost on college ranking
-QS is more about reputation, but they miss the key point " Reputation is always local including national, seldom international. "
+Reputation ranking based on surveys tend to suffer from alumni bias. A large university (high population) would have a larger number of past employees, parents, and alumni. When they are included in the surveys, they tend to give it inflated scores.
 
-For an international student choosing a college to apply, QS meets the requirement, comparing the reputation globally.
+QS is more about reputation, but they miss the key point that "Within a big country reputation is usually national, seldom international. "
 
-For a domestic student looking across her own country (India, China, or U.S.), the local ranking by national agencies are overriding. The national ranking may put BB well above AA (whereas internal rankings put AA above BB), and the local student would usually ignore international ranking.
+For an international student choosing a college to apply, QS meets the requirement, comparing the reputations at a global level.
 
-In fact, international students mostly choose high quality universities, so the percentage of international students is a valid yardstick.
+For a domestic student looking across her own country (India, China, or U.S.), the local ranking by national agencies are overriding. The national ranking may put BB well above AA (whereas international rankings put AA above BB), and the domestic student would usually ignore international ranking.
 
-Shanghai ranking is more stable.
+In fact, international students mostly choose high quality universities, so the percentage of international students is a valid yardstick of quality.
+
+Shanghai ranking is more stable than QS or THE.
 
 -- new or update bpost on brush-off
 reflections on the 92S27 reunion in May 2022
@@ -35,9 +37,9 @@ Dependency on wireless connectivity is very common, but you depend on other peop
 Dependency on wpress is uncommon
 Dependency on NY/NJ subway is common during peak hours only. Extra dependency on it is uncommon.
 
--- update bpost on commute
+-- update bpost on commute (which one?)
 Need to balance 2 priorities (3 would be max)
-logistical efficiency .. printed material (without need4writing) is far more efficient than laptop esp. for short trips or with transfers
+logistical efficiency .. printed material (without need4writing) is far more efficient than git-blogg esp. for short trips or with transfers
 productivity zsms .. laptop with coding or tech QQ, or tech books 
 
 When is best time for git-blogg? Looks like an unwanted child. Commute is a good choice, even if not the very best.
