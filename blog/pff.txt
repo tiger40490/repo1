@@ -1,5 +1,13 @@
 -- update
 clear-felt inflation -- MSFM tuition 5%/Y increment
+
+Most of the reported inflations are on small categories or "elastic" categories like food.
+
+furniture ... is in the category of durable goods
+
+-- fuxi.
+When I say U.S. eq market is the only one that consistently recovers after every crash, the sample is actually very very small -- China, European, Japanese, Korean, India
+
 -- update 
 Why are so many interested in a stock portfolio's annual returns?
 Because they want to compare it to a fixed-income asset
