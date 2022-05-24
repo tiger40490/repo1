@@ -1,3 +1,5 @@
+-- update
+clear-felt inflation -- MSFM tuition 5%/Y increment
 -- update 
 Why are so many interested in a stock portfolio's annual returns?
 Because they want to compare it to a fixed-income asset
