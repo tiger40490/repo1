@@ -1,3 +1,44 @@
+-- new TPY condo rent
+1BR: 3k
+2BR: 3.5k
+
+Reliable data from my MLP colleague.
+In the same month, Gary also said "hard to find anything below 3k HDB"
+
+in 2019, across SG, unshared 1BR condo was $2k+
+
+-- new: some BTO locations we could accept
+Bedok central -- closer to ChBP
+Bishan, AMK
+CCK .. familiar rural location and LRT hub
+Bukit Batok .. close to JEast
+
+TPY will maintain a location advantage as the northern parts improve.
+
+-- update bpost on 4% inflation
+https://www.channelnewsasia.com/commentary/inflation-taxes-rising-costs-living-supply-chains-singapore-budget-2022-2492451
+
+CPI reached 4% in 2021. 
+
+The authors claimed that "Inflation has been high chiefly because of the unprecedented stimulus from fiscal and monetary policies worldwide"
+
+The authors characterized the current situation as "a large amount of cash and a small supply of goods"... referring to QE and supply-chain disruptions during the pandemic.
+
+The chief author is a Chicago-Fed economist and professor, educated in the US.
+
+-- new open blog: inflation n wage
+theoretical
+bold
+see also https://tanbinvest.dreamhosters.com/549/inflation-in-singapore-personal-xp/
+
+Many economic theories assume that for a particular household, high inflation can be offset by higher wages. This sweeping, simplistic assumption has many weaknesses
+
+* during high inflation, many households have no working member .. unemployed, retired,,,
+* during high inflation, many (more than we think) sectors do not experience higher profit, and are unable to increase wages beyond a token increment
+* during high inflation, many wage earners have no bargaining power at all.
+
+How about intRate? Does it grow with inflation? I have lived through many eras to question this broad assumption.
+
 -- new: 功能老化: which2protect
 As we age, some "system functions" will decline faser than other functions. Which ones are the most important to protect?
 
@@ -26,34 +67,6 @@ Steve spoke some truths that other instructors couldn't
 The pain in the affected body part ... is part of the process. It would improve over time. Should not be uncomfortable at the whole-person level meaning you must be able to relax with the pain. It's possible.
 
 I guess there's a harmony between the pain and the relaxation.
-
--- new TPY condo rent
-1BR: 3k
-2BR: 3.5k
-
-Reliable data from my MLP colleague.
-In the same month, Gary also said "hard to find anything below 3k HDB"
-
-in 2019, across SG, unshared 1BR condo was $2k+
-
--- new: some BTO locations we could accept
-Bedok central -- closer to ChBP
-Bishan, AMK
-CCK .. familiar rural location and LRT hub
-Bukit Batok .. close to JEast
-
-TPY will maintain a location advantage as the northern parts improve.
-
--- update bpost on 4% inflation
-https://www.channelnewsasia.com/commentary/inflation-taxes-rising-costs-living-supply-chains-singapore-budget-2022-2492451
-
-CPI reached 4% in 2021. 
-
-The authors claimed that "Inflation has been high chiefly because of the unprecedented stimulus from fiscal and monetary policies worldwide"
-
-The authors characterized the current situation as "a large amount of cash and a small supply of goods"... referring to QE and supply-chain disruptions during the pandemic.
-
-The chief author is a Chicago-Fed economist and professor, educated in the US.
 
 -- new: flatus
 sanitary pad (40/$1.20)
@@ -118,19 +131,6 @@ In all other fitness corners like downstairs, I feel poor absorbency.
 I think key is visibility to the onlookers. 
 
 Some gyms put workout equipments right beside a big window, so gym users are easily visible from the busy street outside. Visibility can serve as a potent motivation.
-
--- new open blog: inflation n wage
-theoretical
-bold
-see also https://tanbinvest.dreamhosters.com/549/inflation-in-singapore-personal-xp/
-
-Many economic theories assume that for a particular household, high inflation can be offset by higher wages. This sweeping, simplistic assumption has many weaknesses
-
-* during high inflation, many households have no working member .. unemployed, retired,,,
-* during high inflation, many (more than we think) sectors do not experience higher profit, and are unable to increase wages beyond a token increment
-* during high inflation, many wage earners have no bargaining power at all.
-
-How about intRate? Does it grow with inflation? I have lived through many eras to question this broad assumption.
 
 -- update glamorous woman
 Lin Chi-ling
