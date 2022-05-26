@@ -1,3 +1,7 @@
+-- new:
+"consume twice the global average of wheat" meaning 
+twice the global average of wheat consumption per person.
+
 -- new: BE-verbs
 feel/sound/look/weigh
 become/grow/get
