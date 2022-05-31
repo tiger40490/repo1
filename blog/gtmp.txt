@@ -1,3 +1,5 @@
+-- 
+eg of focus_effect: the BGC title delay is no big deal until we focus on it.
 -- new or fuxi
 I don't know why many (usually white) Americans enjoy horse training and riding.
 I feel it's very dangerous. Whenever you fall, there's a real probability of injury.
