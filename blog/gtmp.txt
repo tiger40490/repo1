@@ -6,6 +6,19 @@ Problem: many academic domains have no Nobel prize, while physics/chemistry/bios
 Problem: what if a Nobel laureate is actively courted to work in various universities to boost their ranking? Should the methodology exclude any tenure of a laureate after the award?
 Problem: should exclude short-term stays as students or staff .. how short?
 
+https://www.nobelprize.org/prizes/facts/lists/affiliations.php has an authoratitive list, showing the universities Nobel Laureates were affiliated with at the time of the Nobel Prize announcement. Peace and Literature excluded.
+
+38 Harvard
+24 Stanford
+23 MIT
+21 Berkeley
+20 UChicago <-- the only powerhouse in the midwest
+20 CalTech
+18 Cambridge
+18 Columbia
+17 Princeton
+11 Oxford
+9 Yale
 -- 
 eg of focus_effect: the BGC title delay is no big deal until we focus on it.
 -- new or fuxi
