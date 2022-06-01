@@ -1,3 +1,11 @@
+-- update
+Using Nobel prizes as a university ranking criteria has multiple problems.
+
+Problem: peace prize is not as relevant as, say, a Chemistry prize, but it's unfair to leave it out completely.
+Problem: many academic domains have no Nobel prize, while physics/chemistry/bioscience enjoy the limelight. 
+Problem: what if a Nobel laureate is actively courted to work in various universities to boost their ranking? Should the methodology exclude any tenure of a laureate after the award?
+Problem: should exclude short-term stays as students or staff .. how short?
+
 -- 
 eg of focus_effect: the BGC title delay is no big deal until we focus on it.
 -- new or fuxi
