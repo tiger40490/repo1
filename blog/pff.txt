@@ -1,3 +1,9 @@
+-- update
+with current income, we feel confident to spend the income.
+With unrealized gains
+* sometimes we can't quickly cash out .. consider rEstate
+* sometimes the bid/ask or commission is too high .. consider bccy
+* sometimes the paper profit can quickly turn into paper loss
 -- update bpost
 core burn rate .. excludes tax and mortgage-P.
 headline burn rate (brbrx) .. includes tax, mortgage-P
