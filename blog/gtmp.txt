@@ -20,6 +20,8 @@ https://www.nobelprize.org/prizes/facts/lists/affiliations.php has an authoratit
 13 Rockefeller University !!
 11 Oxford
 9 Yale
+
+Over the years, the relative importance (name recognition of laureates) has changed across the 6 prizes, so Econs/Peace and Med laureates get more lime light than Phy/Che.
 -- 
 eg of focus_effect: the BGC title delay is no big deal until we focus on it.
 -- new or fuxi
