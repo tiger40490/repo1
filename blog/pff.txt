@@ -1,10 +1,16 @@
+-- update https://tanbinvest.dreamhosters.com/19162/time-on-your-side-if/
+Assuming BnH is a good thing, BNH is easier with real assets due to higher tx cost ?!
+
+rEstate have much slower price changes than stocks.
+If a real asset appreciates by 200%, it is likely more stable than stocks. We are more confident about its higher valuation.
+
 -- update
 with current income, we feel confident to spend the income.
 With unrealized gains
 * sometimes we can't quickly cash out .. consider rEstate
 * sometimes the bid/ask or commission is too high .. consider bccy
 * sometimes the paper profit can quickly turn into paper loss
+
 -- update bpost
 core burn rate .. excludes tax and mortgage-P.
 headline burn rate (brbrx) .. includes tax, mortgage-P
-
