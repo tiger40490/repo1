@@ -1,3 +1,8 @@
+--new: available (to use) for validation
+There are very limited data available (to use) for validation. 
+
+Q: Without "to use", is the sentence more concise?
+A: shorter but unclear
 -- new: The native speakers sound more sophisticated.
 eg: James Bond always sounds (sexy and) sophisticated, partly based on accent. Many male protagonists in American movies are like that.
 

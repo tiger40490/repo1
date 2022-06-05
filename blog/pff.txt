@@ -1,3 +1,13 @@
+-- new: value@炒股 books #investment
+asset pricing theories are hard to validate, esp. compared to phy/che/med theorie. 
+Very limited data available to use for validation. 
+
+Nobel laureates are peer-reviewed experts. Most investment books are not so theoretical.
+For all of these so-called experts, peer review is the best validation, better than popularity. 
+Even a best-selling book with lots of media coverage can be proven invalid by the market a few decades later. 
+Sometimes a theory is actually validated over a long horizon ... like 200 years! This is basically Fama's criticism of Shiller.
+
+A peer-reviewed investment theory is more validated than a "popular" book, but not as validated as a chemistry theory.
 -- new: Malaysia rEstate
 Residential ... foreigners must buy RM 1M+
 hard to rent out
