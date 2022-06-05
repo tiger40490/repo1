@@ -3,11 +3,10 @@ There are very limited data available (to use) for validation.
 
 Q: Without "to use", is the sentence more concise?
 A: shorter but unclear
+
 -- new: The native speakers sound more sophisticated.
 eg: James Bond always sounds (sexy and) sophisticated, partly based on accent. Many male protagonists in American movies are like that.
-
 eg: [[off the rail]] 
-
 eg: the interviews on MLP intranet. The native speakers sound more sophisticated.
 
 Actually, 1) insight 2) vocab are the foundations beneath 3) articulation and 4) accent when we meet a sophisticated speaker. I think cool confidence is a key ingredient. With cool confidence, one can really slow down. Articulation would improve.
@@ -16,7 +15,8 @@ Somehow, Singaporeans seldom have that sophistication, esp. in slow-n-steady art
 
 To develop a sophisticated vocab, you first _need_ a rich oral vocab.
 
--- new:
+-- fuxi:
 "consume twice the global average of wheat" meaning 
-twice the global average of wheat consumption per person.
+twice the global average of wheat consumption per_person.
 
+There's no alternative meaning, but still the sentence sounds unclear.
