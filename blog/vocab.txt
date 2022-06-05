@@ -20,8 +20,3 @@ To develop a sophisticated vocab, you first _need_ a rich oral vocab.
 "consume twice the global average of wheat" meaning 
 twice the global average of wheat consumption per person.
 
--- new: BE-verbs
-feel/sound/look/weigh
-become/grow/get
-
-These verbs are followed by adjectives

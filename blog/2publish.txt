@@ -25,3 +25,9 @@ At my age, I don't salary-benchmark as much as in my 30s -- I don't care so much
 
 It's bad if I am chronically underpaid (20% below market) like J.Zhang.
 It's good if my employer and my manager is generous and keen to retain older SWEs like me.
+
+-- new: BE-verbs
+feel/sound/look/weigh
+become/grow/get
+
+These verbs are followed by adjectives
