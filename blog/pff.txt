@@ -29,3 +29,8 @@ With unrealized gains
 -- update bpost
 core burn rate .. excludes tax and mortgage-P.
 headline burn rate (brbrx) .. includes tax, mortgage-P
+
+-- new or fuxi:
+SG and HK economies experienced fast ascent from 3rd world to 1st world.
+
+This is rather rare. Most rEstate markets do not experience the same.

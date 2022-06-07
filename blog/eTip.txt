@@ -1,2 +1,15 @@
 -- update bpost on diskhog
 WindowsApps folder -- not worth optimizing. Quite risky.
+
+-- fuxi:
+according to Starhub, a new router can last 1-2 Y before degredation. That's why they give a new router every 2Y
+
+--new starhub-TV: unwanted purchase content
+New remote doesn't have a button to do the purchase. It's all on-screen.
+
+The only way to prevent accidental purchase is parental control. 4-digit password.
+
+-- new: starhub: loss2remoteControl
+$16 to replace.
+
+Can wrap it in tape, so as to attach a big toy.
