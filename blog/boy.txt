@@ -1,3 +1,16 @@
+-- counseling services for screentime
+NAMS.sg 6732 6837
+Touch community service cyber wellness
+
+-- new: screen-time description for NAMS
+My son is 13, Xinmin Secondary (express)S2. Average student, in reasonable health. Phone/laptop screen time about 10H/D on weekends. Mostly game-watching/playing, anime, songs, social media discussion on games+anime. About 4H/D on weekdays, including 1H on homework and learning. 
+
+We don't know his screen time outside home. That could be another 2H/D or 6H/D... no idea.
+
+Due to screen addiction, there is insufficient outdoor activities, reading, piano practice. He is often absentminded during family conversations. School homework is delayed to 10pm on weekday. Showering is postponed to 11pm. Sleep is reduced to 6H.. Basically,  everything is secondary to screen time.
+
+Every intervention measure by parents usually leads to conflict, often yelling and sometimes physical. Soft talk ineffective.
+
 -- new: unequal access to edu resources 
 In U.S. I believe the rich and the well-educated has better access to edu resources, esp. top schools.
 
@@ -10,7 +23,6 @@ In Singapore, those China families that I hear about.. invariably have white-col
 Some rich families have a stay-home parent to help the kids... Resource.
 
 I discussed some of it with Jialing.Zheng. Don't remember what he said. I said it's unfair of me to compare my son with those China families' kids.
-
 
 -- fuxi my outing trips with boy now resemble the renzi trips, even though I use laptop + reading on MRT
 Need to cut down to prevent painful regrets.
