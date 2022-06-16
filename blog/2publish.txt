@@ -1,3 +1,8 @@
+-- 2D lock-up for iPhone8 violation on 16 Jun, agreed with boy
+
+-- update bpost on focus_effect
+eg of focus_effect: the BGC title delay is no big deal until we focus on it.
+
 -- new: yoga: maintain^improve #Steve
 slowdown of decline is the real goal. Steve also felt similarly.
 
@@ -27,7 +32,7 @@ It's bad if I am chronically underpaid (20% below market) like J.Zhang.
 It's good if my employer and my manager is generous and keen to retain older SWEs like me.
 
 -- new: BE-verbs
-feel/sound/look/weigh
-become/grow/get
+feel/sound/look/weigh .. often followed by "LIKE"
+become/grow/get/appear
 
-These verbs are followed by adjectives
+These BE-verbs are often followed by adjectives
