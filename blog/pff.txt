@@ -3,11 +3,11 @@ Luckily, I had intermediate recon snapshots checked in. I had only the MB transa
 
 Q: how can we simplify or improve MB ccard recon?
 A: increase frequency of MB recon.
-A: continue to prefer nets rather than debit card
+A: continue to prefer nets rather than debit/credit card
 A: reduce MB usage at supermarkets (Use my nets instead, when shopping together). 
 These transactions are the most noisy and demands the most Sys2 resources
 
-A: for starhub or utilities, let's use DBS GIRO? No. These are not the problem.
+A: for utilities (including TC), let's use DBS GIRO, to reduce the SMS volume
 
 -- new: somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP]. 
 I feel they are subject to more political risks. They don't pay dividend. No long-term trend.
