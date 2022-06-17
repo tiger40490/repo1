@@ -1,12 +1,12 @@
--- new: Qz (^EPA) episode: inferiority-complex
+-- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 I had a deep-rooted inferiority complex at the 3 SG perm jobs.
 Before I started on epa job, I braced myself for the same, and I was actively planning to return to U.S. within 2Y.
 
 Factor: appr by manager, in terms of comp etc
-Factor: localSys... is now a minor factor. In StirtTech team, I was poor in terms of localSys. I couldn't follow a lot of the conversations. Here in EPA team, I'm pretty much the same, but ...(Aha) my compensation is convincing evidence of manager's appr.
-Factor: VP peer benchmark ... esp. in terms of localSys and value-add. Nowadays I don't want to be benchmarked with VPs. 
+Factor: localSys... is now slightly less important. In StirtTech team, I was inferior in terms of localSys (which should be fine). I couldn't follow a lot of the conversations. Here in EPA team, I'm pretty much the same, but ...(Aha) my compensation is convincing evidence of manager's appr.
+Factor: VP peer benchmark ... esp. in terms of localSys and value-add. Nowadays I don't want to be benchmarked with VPs. At RTS and Mvea, I was never benchmarked with VPs.
 
--- new: career insecurity: 2017 watershed
+-- slow-cooking new: career insecurity: 2017 watershed
 t_vague
 2017 marked a watershed in my sense of career insecurity.
 Before the watershed, I had a learned insecurity, instilled in me due to decades of brainwash, and internalized.
@@ -25,21 +25,21 @@ Therefore, for the remainder of the race I could afford to slow down to a stroll
 
 -- fuxi or update bpost on feel`satisfied more than peers
 in a 2022 nightmare, I rejoined Macq and was dismissed again. 
-I did my best but again was the weakest in the team.
+I did my best but again was shown to be the weakest in the team, although another set of requirements may prove otherwise.
 
-In hind sight, the job requirement was simply too high.
+In hind sight, the job requirement was simply too high for me.
 How about AshS in his CTO job? CSDoctor's job? S.Liu's job? YY.Tao's job?
 
-If I were to benchmark myself with so-called peers, try to increase my brank, and join the exclub, I would get derailed, lose my carefree ezlife, take on lots of stress. 
-If I try, could I become an architect? Not my strength.
-If I try, could I become a lead developer like Ash.S? Not sure. Ash.S seems to take on too much.
+If I were to benchmark myself with so-called peers, or try to increase my brank, and join the exclub, I would get derailed, lose my carefree ezlife, take on lots of stress. 
+If I try, could I become a software architect? Not my strength.
+If I try, could I become a lead developer like Ash.S? Not sure. 
 
 At my age, I have an implicit self-conviction that most of the higher-paying positions are too stressful, with exorbitant expectation.
-What I'm unsure is the salary spread. What additional income is possible? After tax, 100k/Y additional? Not worth it.
+What I'm unsure is the salary increment. What additional income is possible? After tax, 100k/Y additional? Not worth it.
 
-I told grandpa that my successE [carefree ezlife + harmony, based on wellness and comfortable livelihood] is rare among my cohort, not because I'm better off than them, but because I don't focus on the wrong goals.
+I told grandpa that my successE [carefree ezlife + harmony, based on wellness and comfortable livelihood] is rare among my cohort, not because I'm wealthier than them, but because I don't focus on the wrong goals.
 
-The nightmare scenario is much more severe than CB2022
+The nightmare scenario is much more severe, harsh, harmful than CB2022.
 
 -- update CB2022:
 Was the McKinsey boss (Indian) downfall a silly Compliance breach?
