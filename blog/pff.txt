@@ -1,3 +1,4 @@
+
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
 
@@ -8,6 +9,12 @@ A: reduce MB usage at supermarkets (Use my nets instead, when shopping together)
 These transactions are the most noisy and demands the most Sys2 resources
 
 A: for utilities (including TC), let's use DBS GIRO, to reduce the SMS volume
+
+-- new: wise consumer
+hallmark: knowing what things are truly important to yourself.
+hallmark: knowhing what unpopular/unconventional Alternatives are acceptable to yourself
+eg: free books
+eg: refuse to buy sports merchandize. Use simple substitutes instead.
 
 -- new: somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP]. 
 I feel they are subject to more political risks. They don't pay dividend. No long-term trend.
