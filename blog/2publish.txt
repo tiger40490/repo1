@@ -1,7 +1,3 @@
--- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=43083&action=edit
-inkjet printer uses up to 85% less energy
-can reduce paper jam, thanks to lower heat
-water-proof? New inkjets are completely safe
 
 -- update bpost on focus_effect
 eg of focus_effect: the BGC title delay is no big deal until we focus on it.
@@ -33,7 +29,12 @@ At my age, I don't salary-benchmark as much as in my 30s -- I don't care so much
 
 It's bad if I am chronically underpaid (20% below market) like J.Zhang.
 It's good if my employer and my manager is generous and keen to retain older SWEs like me.
+-- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=43083&action=edit
+inkjet printer uses (up to) 85% less energy
+can reduce paper jam, thanks to lower heat!
+water-proof? New inkjets are Completely safe, but my low-cost versions may not
 
+Also less bulky therefore easier to fit in.
 -- new: BE-verbs
 feel/sound/look/weigh .. often followed by "LIKE"
 become/grow/get/appear
