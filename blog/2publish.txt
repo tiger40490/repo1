@@ -1,4 +1,4 @@
-
+-- register mbank card in simplygo
 -- update bpost on focus_effect
 eg of focus_effect: the BGC title delay is no big deal until we focus on it.
 
