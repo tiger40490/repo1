@@ -1,4 +1,32 @@
 
+-- update bpost on more satisfactionS
+focusing effect can also create more pain
+
+-- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=21470&action=edit
+
+Using Nobel prizes as a university ranking criteria has multiple problems.
+
+Problem: peace prize is not as relevant as, say, a Chemistry prize, but it's unfair to leave it out completely.
+Problem: many academic domains have no Nobel prize, while physics/chemistry/bioscience enjoy the limelight. 
+Problem: what if a Nobel laureate is actively courted to work in various universities to boost their ranking? Should the methodology exclude any tenure of a laureate after the award?
+Problem: should exclude short-term stays as students or staff .. how short?
+
+https://www.nobelprize.org/prizes/facts/lists/affiliations.php has an authoratitive list, showing the universities Nobel Laureates were affiliated with at the time of the Nobel Prize announcement. Peace and Literature should be excluded, but sometimes not
+
+38 Harvard
+24 Stanford
+23 MIT
+21 Berkeley
+20 UChicago <-- the only powerhouse in the midwest
+20 CalTech
+18 Cambridge
+18 Columbia
+17 Princeton
+13 Rockefeller University !!
+11 Oxford
+9 Yale
+
+Over the years, the relative importance (name recognition of laureates) has changed across the 6 prizes, so Econs/Peace and Med laureates get more lime light than Phy/Che, which remain largely unpopular to mass media and social media.
 -- update bpost on college ranking
 Reputation ranking based on surveys tend to suffer from alumni bias. A large university (population-wise) would have a larger number of ex-employees, visiting staff, alumni, and their parents. When they are included in the surveys, they tend to give the unversity inflated scores.
 
@@ -56,3 +84,28 @@ feel/sound/look/weigh .. often followed by "LIKE"
 become/grow/get/appear
 
 These BE-verbs are often followed by adjectives
+
+-- LG2 new: dependency@aircon ++
+I now feel slightly less guilty about my growing dependency on AC.
+
+(Is there anything NOK to switch on/off frequently? No evidence.)
+
+Dependency on AC is very common, so commercial support is widespread.
+Dependency on car is ditto, but the commercial support is pricier.
+
+Dependency on wireless connectivity is very common, but you depend on other people most of the time.
+Dependency on wpress is uncommon
+Dependency on NY/NJ subway is common during peak hours only. Extra dependency on it is uncommon.
+
+-- new: horse riding
+I don't know why many (usually white) Americans enjoy horse training and riding.
+Statistically, it's very dangerous. Whenever you fall, there's a real probability of injury.
+
+How does it compare to motorbike or car driving? 
+
+I sometimes envy their enjoyment, but that enjoyment is not so important to me
+, whereas the risks are.
+
+How about keeping a dog? I think there's a real advantage -- my kids would be more confident about dogs. Dogs are quite common in the U.S.
+
+How is yoga in comparison? Is yoga that important? I guess it motivates me to keep working on flexibility. In that way it is life-enhancing.
