@@ -1,3 +1,9 @@
+-- fuxi
+At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and trading. 
+
+It looked like an engineer could make 3k-5k but active trading could generate 100k/Y profit.
+
+Now in my late 40s I realized the unrealized profit is not an income replacement. Consistent quarterly cash payout is, but is much harder to achieve.
 
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
