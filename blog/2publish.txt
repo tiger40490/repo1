@@ -1,3 +1,16 @@
+
+-- update bpost on college ranking
+Reputation ranking based on surveys tend to suffer from alumni bias. A large university (population-wise) would have a larger number of ex-employees, visiting staff, alumni, and their parents. When they are included in the surveys, they tend to give the unversity inflated scores.
+
+QS is more about reputation, but they miss the key point that "Within a big country reputation is usually benchmarked nationally, seldom internationally."
+
+For an international student choosing a college across the world, QS meets the requirement, comparing the reputations at a global level.
+
+For a domestic student looking across her own country (India, China, Japan or U.S.), the local ranking by national agencies are overriding. The national ranking may put BB well above AA (whereas international rankings put AA above BB), and the domestic student would usually ignore international ranking.
+
+I believe that international students (and their parents) mostly choose high quality universities, so percentageOfInternationalStudents serves as a yardstick of quality.
+
+Shanghai ranking is more stable than QS or THE.
 -- update CB2022:
 Was the McKinsey boss (Indian) downfall a silly Compliance breach?
 
