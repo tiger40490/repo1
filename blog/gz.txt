@@ -9,7 +9,7 @@ t_selfEval
 I had a deep-rooted inferiority complex at all the q3SG perm jobs.
 Therefore, before I started on epa job, I braced myself for the same, and I was actively planning to return to U.S. within 2Y.
 
-Q: How has my inferiority evolved? Note this self-eval requires lots of Sys2 resources. Many people won't bother with the various factors of inferiority even if it affects their wellbeing.
+Q: How has my inferiority evolved? Note this self-eval requires lots of Sys2 resources. Many people won't bother with the various factors of inferiority even though it seriously affects their wellbeing.
 
 Factor: appr by manager, in terms of comp numbers and other things. This appr determines that inferiority complex
 Factor: localSys... is now slightly less important. In StirtTech team, I was inferior in terms of localSys (which should be fine). I couldn't follow a lot of the conversations. Mvea and EPA team... pretty much the same. 
@@ -17,23 +17,6 @@ Factor: localSys... is now slightly less important. In StirtTech team, I was inf
 Also, Sachin's localSys didn't earn him appr.
 
 Factor: VP peer benchmark ... esp. in terms of localSys and value-add. Benchmark breeds inferiority. I have never wanted to be benchmarked with VPs. At RTS and Mvea, I was never benchmarked with VPs. In EPA, I try not to care or observe. I tell myself that we are all (informally) evaluated, all the time, by everyone but I'm older and less capable. This is to fend off the inferiority.
-
--- slow-cooking new: career insecurity: 2017 watershed
-t_vague
-2017 marked a watershed in my sense of career insecurity.
-Before the watershed, I had a learned insecurity, instilled in me due to decades of brainwash, and internalized.
-
-churn defeating any attempt of accumulation
-The widespread and entrenched notion that "Few can remain hands-on till 40."
-threat from younger or stronger competitors.
-dRam refresh and maintain my critical mass
-strengthen my moat
-Don't drop out from the leading pack.
-
-I felt like the EDB -- can't afford to slow down, due to the risk of getting outrun/outmaneuvered, or caught up, the risk of losing our relevance.
-
-After the watershed, I could see the end of my forced marathon, planning my own light marathon. 
-Therefore, for the remainder of the race I could afford to slow down to a stroll, drop out of the leading pakc, and let other people overtake me.
 
 -- fuxi or update bpost on feel`satisfied more than peers
 in a 2022 nightmare, I rejoined Macq and was dismissed again. 
@@ -72,3 +55,22 @@ if I lose MLP job and decide to remain in SG, I would face a much smaller finDev
 
 -- fuxi: where can I use this term?
 tenuous(fragile) job security
+
+
+-- slow-cooking new: career insecurity: 2017 watershed
+t_vague
+2017 marked a watershed in my sense of career insecurity.
+Before the watershed, I had a learned insecurity, instilled in me due to decades of brainwash, and internalized.
+
+churn defeating any attempt of accumulation
+The widespread and entrenched notion that "Few can remain hands-on till 40."
+threat from younger or stronger competitors.
+dRam refresh and maintain my critical mass
+strengthen my moat
+Don't drop out from the leading pack.
+
+I felt like the EDB -- can't afford to slow down, due to the risk of getting outrun/outmaneuvered, or caught up, the risk of losing our relevance.
+
+After the watershed, I could see the end of my forced marathon, planning my own light marathon. 
+Therefore, for the remainder of the race I could afford to slow down to a stroll, drop out of the leading pakc, and let other people overtake me.
+
