@@ -1,9 +1,12 @@
+-- update bpost on wise investors
+I told Caroline that most rEstate investors are not wise because we can't try too many times.
+
+After one or a few tries, we are experienced, but not necessarily wise.
 -- fuxi
-At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and trading. 
+At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and leveraged trading. 
+At that time, an engineer could make 3k-5k but active trading could generate 100k/Y profit.
 
-It looked like an engineer could make 3k-5k but active trading could generate 100k/Y profit.
-
-Now in my late 40s I realized the unrealized profit is not an income replacement. Consistent quarterly cash payout is, but is much harder to achieve.
+Now in my late 40s I have a different perception -- unrealized profit is not an income replacement. Consistent quarterly cash payout is, but much harder to achieve.
 
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
