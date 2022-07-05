@@ -1,7 +1,3 @@
--- update Amazon
-zero CDY, like GM,
-
-However, GM has very low P/E, and Amazon has growth potential
 
 -- update bpost on wise investors
 I told Caroline that most rEstate investors are not wise because we can't try too many times.
@@ -10,10 +6,8 @@ After one or a few tries, we are experienced, but not necessarily wise.
 
 Buffett said each person has about 20 punches to make, and a few good punches would be enough!
 
--- new: somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP]. 
+-- new: somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP,,,]. 
 I feel they are subject to more political risks. They don't pay dividend. No long-term trend.
-
-In fact, all of them are internet companies.
 
 China banks pay better dividends than China inet. China inet has more growth potential.
 
@@ -60,8 +54,12 @@ Jesscy said "Malaysia is good IFF you want to stay there."
 -- update https://tanbinvest.dreamhosters.com/19162/time-on-your-side-if/
 Assuming BnH is a good thing, BNH is easier with real assets due to higher tx cost ?!
 
-rEstate have much slower price changes than stocks.
-If a real asset appreciates by 200%, it is likely more stable than stocks. We are more confident about its higher valuation.
+Q: after an asset appreciates by 100%, how confident are we about its new price?
+
+For a growth stock, the appreciation is mostly based on projected growth, rather than declared earnings. I feel it is less stable.
+Tech stocks have less moat, and face more frequent competition and churn.
+rEstate appreciation is usually more stable. We are more confident about its higher valuation. rEstate have much slower price changes than stocks.
+bccy has no basis for their valuations, so I feel high valuations can evaporate faster.
 
 -- update
 with current income, we feel confident to spend the income.
