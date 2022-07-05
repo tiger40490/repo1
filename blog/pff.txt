@@ -1,15 +1,14 @@
 -- update Amazon
-zero CDY: GM... but they have very low P/E
+zero CDY, like GM,
+
+However, GM has very low P/E, and Amazon has growth potential
 
 -- update bpost on wise investors
 I told Caroline that most rEstate investors are not wise because we can't try too many times.
 
 After one or a few tries, we are experienced, but not necessarily wise.
--- fuxi
-At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and leveraged trading. 
-At that time, an engineer could make 3k-5k but active trading could generate 100k/Y profit.
 
-Now in my late 40s I have a different perception -- unrealized profit is not an income replacement. Consistent quarterly cash payout is, but much harder to achieve.
+Buffett said each person has about 20 punches to make, and a few good punches would be enough!
 
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
@@ -90,3 +89,8 @@ headline burn rate (brbrx) .. includes tax, mortgage-P
 SG and HK economies experienced fast ascent from 3rd world to 1st world.
 
 This is rather rare. Most rEstate markets do not experience the same.
+-- fuxi
+At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and leveraged trading. 
+At that time, an engineer could make 3k-5k but active trading could generate 100k/Y profit.
+
+Now in my late 40s I have a different perception -- unrealized profit is not an income replacement. Consistent quarterly cash payout is, but much harder to achieve.
