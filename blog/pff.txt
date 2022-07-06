@@ -36,17 +36,6 @@ A smart investor often splits her portfolio between A) index-ETFs and B) MOETF, 
 
 A smart investor often has more advisors and have access to training or data that help her spot opportunities and avoid missteps/swans. Not 100% but slightly lower chance of loss.
 
--- new: value@炒股 books
-Nobel laureates are peer-reviewed experts. Most investment books are not so theoretical.
-For all of these books, peer review is the best validation, better than popularity. 
-Many best-selling book with lots of media coverage can be proven invalid by the market a few decades later. 
-In contrast, 
-Sometimes a theory is actually validated over a long horizon ... like 200 years! This is basically Fama's criticism of Shiller.
-
-A peer-reviewed investment theory is more validated than a "popular" book, but not as validated as a chemistry theory.
-asset pricing theories are hard to validate, esp. compared to phy/che/med theorie. 
-Very limited data available to use for validation. 
-
 -- update bpost which?
 core burn rate .. excludes tax and mortgage-P.
 headline burn rate (brbrx) .. includes tax, mortgage-P
