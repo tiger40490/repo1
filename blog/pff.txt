@@ -22,19 +22,20 @@ eg: FDI [foreign direct investment] is on a larger scale but inherently similar.
 
 The key is long-term commitment. If long-enough, then the parking entity has free use of your fund almost as if you donated to them.
 
--- new: intelligence and eq-investing perf
-[[Irrational Exuberance]] has a brief debate on "smarter people will, in the long run, tend to do better at (stock) investing". There are many complicating factors.
+-- new: intelligence and 炒股 perf
+Focus of this bpost is eq-investing performance
+[[Irrational Exuberance]] has a brief debate on "smarter people will, in the long run, tend to do better at (stock) investing". Yes over the very long term, but in reality, there are many complicating factors.
 
 * muddy: For the independent varialbe, researchers would want to use IQ, or high-school test scores in math + mother-tongue-reasoning (universal subjects), but I know that many Asian teenage students are better-trained in taking tests than non-Asians. 
 * muddy: Most people use some N-year total return of individual's eq portfolio as the dependent-variable. I think liquidity is crucial but not captured in total return. MOETF is more liquid than an ETF.
 
-The most convincing argument for passive investing is that SP500 ETFs outperform many (not "most") professional portfolios, assuming minimal expRatio. Does it mean that smarter people don't outperform the average investor? No. That would be very flawed argument.
+The most convincing argument for passive investing is that SP500 ETFs outperform many (not "most") professional portfolios, assuming minimal expRatio. Does it mean that smarter people don't outperform the average investor? No. That would be a very flawed argument.
 
 SP500 is among a handful of indices that are so hard to beat. The SP500 index committee is an active professional team.. smart people.
 
-A smart investor often splits her portfolio between A) index-ETFs and B) MOETF, so she can outperform now and underperform later compared to SP500. Over the long run, she might outperform.
+A smart investor actually can outperform now and underperform later compared to SP500. Over the long run, she might outperform.
 
-A smart investor often has more advisors and have access to training or data that help her spot opportunities and avoid missteps/swans. Not 100% but slightly lower chance of loss.
+A smart investor often has more advisors and have access to training or data that help her spot opportunities and avoid missteps/swans. Slightly lower chance of loss.
 
 -- update bpost which?
 core burn rate .. excludes tax and mortgage-P.
