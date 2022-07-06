@@ -54,14 +54,7 @@ Jesscy said "Malaysia is good IFF you want to stay there."
 -- update https://tanbinvest.dreamhosters.com/19162/time-on-your-side-if/
 Assuming BnH is a good thing, BNH is easier with real assets due to higher tx cost ?!
 
--- update
-with current income, we feel confident to spend the income.
-With unrealized gains
-* sometimes we can't quickly cash out .. consider rEstate
-* sometimes the bid/ask or commission is too high .. consider bccy
-* sometimes the paper profit can quickly turn into paper loss
-
--- update bpost
+-- update bpost which?
 core burn rate .. excludes tax and mortgage-P.
 headline burn rate (brbrx) .. includes tax, mortgage-P
 
@@ -69,11 +62,17 @@ headline burn rate (brbrx) .. includes tax, mortgage-P
 SG and HK economies experienced fast ascent from 3rd world to 1st world.
 
 This is rather rare. Most rEstate markets do not experience the same.
--- fuxi
+-- new or fuxi
 At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and leveraged trading. 
 At that time, an engineer could make 3k-5k but active trading could generate 100k/Y profit.
 
 Now in my late 40s I have a different perception -- unrealized profit is not an income replacement. Consistent quarterly cash payout is, but much harder to achieve.
+
+with current income, we feel confident to spend the income.
+With unrealized gains
+* sometimes we can't quickly cash out .. consider rEstate
+* sometimes the bid/ask or commission is too high .. consider bccy
+* sometimes the paper profit can quickly turn into paper loss
 
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
