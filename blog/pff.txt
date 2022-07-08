@@ -6,15 +6,6 @@ After one or a few tries, we are experienced, but not necessarily wise.
 
 Buffett said each person has about 20 punches to make, and a few good punches would be enough!
 
--- new: tech stocks: U.S.^Chn
-somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP, Intel,,]. 
-I feel they are subject to more political risks. They don't pay dividend. No long-term trend.
-
-China banks pay better dividends than China inet. China inet has more growth potential.
-
-Apparently, india's most visibly competitive companies are largely concentrated in a single sector -- IT outsourcing sector. 
-In contrast, China's most competitive companies are manufacturers, but rather few are hot stocks. Hot stocks are all inet companies, but they are unsuccessful in globalization, unsuccessful outside the domestic market. 
-
 -- new: intelligence and 炒股 perf
 Focus of this bpost is eq-investing performance
 [[Irrational Exuberance]] has a brief debate on "smarter people will, in the long run, tend to do better at (stock) investing". Yes over the very long term, but in reality, there are many complicating factors.
@@ -49,6 +40,15 @@ With unrealized gains
 * sometimes we can't quickly cash out .. consider rEstate
 * sometimes the bid/ask or commission is too high .. consider bccy
 * sometimes the paper profit can quickly turn into paper loss
+
+-- new: tech stocks: U.S.^Chn
+somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP, Intel,,]. 
+I feel they are subject to more political risks. They don't pay dividend. No long-term trend.
+
+China banks pay better dividends than China inet. China inet has more growth potential.
+
+Apparently, india's most visibly competitive companies are largely concentrated in a single sector -- IT outsourcing sector. 
+In contrast, China's most competitive companies are manufacturers, but rather few are hot stocks. Hot stocks are all inet companies, but they are unsuccessful in globalization, unsuccessful outside the domestic market. 
 
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
