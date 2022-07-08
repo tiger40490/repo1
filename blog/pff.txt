@@ -13,11 +13,13 @@ Focus of this bpost is eq-investing performance
 * muddy: For the independent varialbe, researchers would want to use IQ, or high-school test scores in math + mother-tongue-reasoning (universal subjects), but I know that many Asian teenage students are better-trained in taking tests than non-Asians. 
 * muddy: Most people use some N-year total return of individual's eq portfolio as the dependent-variable. I think liquidity is crucial but not captured in total return. MOETF is more liquid than an ETF.
 
-The most convincing argument for passive investing is that SP500 ETFs outperform many (not "most") professional portfolios, assuming minimal expRatio. Does it mean that smarter people don't outperform the average investor? No. That would be a very flawed argument.
+The most convincing argument for passive (kinda dumb) investing is that SP500 ETFs outperform many (not "most") professional portfolios, assuming minimal expRatio. Does it mean that smarter people like professionals don't outperform the average passive investor? No. That would be a very flawed argument.
 
 SP500 is among a handful of indices that are so hard to beat. The SP500 index committee is an active professional team.. smart people.
 
 A smart investor actually can outperform now and underperform later compared to SP500. Over the long run, she might outperform.
+
+Beside US broad indices like SP500, the other regional indices are easier to beat. However, most regional indices consist of leading stocks (high-performance, high quality, blue chips) of the region. The timing of addition/removal of constituent stocks often reflects buy-good-sell-bad, a form of market timing. So investing in such a "leading index fund" is different from DCA-buying the entire market.
 
 A smart investor often has more advisors and have access to training or data that help her spot opportunities and avoid missteps/swans. Slightly lower chance of loss.
 
