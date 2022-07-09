@@ -1,3 +1,12 @@
+-- new:
+reno entails many tradeoffs .. tricky and painful decisions
+reno entails many optimizations .. many unrealistic dreams and disappointments
+
+Remind ourselves to adjust our perception to notice the gems in the unit
+* laundry room is free of gigantic verticle pipes, so can function as a room
+* new tiles will be easier to drill
+* plenty of vertical space in laundry room, toilets,, for storage
+
 -- new: more tablespace]kitchen
 slender (secured with wall-screw) table between the two doors of storeroom. Can hold kettle
 
