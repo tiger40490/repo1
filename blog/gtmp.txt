@@ -69,7 +69,7 @@ The busienss schools, law schools and medical schools have separate national ran
 
 CalTech has a ranking advantage that in its strongest domains, there are many nobel prizes, more than in compSci, humanities.
 
--- slowcooking new: ##some long-term disadvantages of sg 
+-- slow-cooking new: ##some long-term disadvantages of sg 
 burning oil to generate electricity
 limited fresh water supply .. even though gov is working effectively on reservoirs, river cleaning, catchment
 very limited scale in some job domains. For those interested in those domains, they may need to work overseas.
