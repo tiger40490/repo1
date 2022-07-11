@@ -1,5 +1,7 @@
--- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit
+-- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
 Experience shows that our estimate of the downside is usually an underestimate. Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. They would prefer cash or safe asset classes like soverign bonds.
+
+They suspect that high-risk-high-return asset may turn out to be high-risk without a real alpha (significant likelihood of excess return).
 
 I see long-term strength only in U.S. market. I consider all other markets highly unstable, but I am probably simplistic.
 
@@ -14,6 +16,12 @@ How about insurers? I think they invest some 10-20% in eq, the rest in bonds.
 How about CPF (and pension funds)? For decades they have relied on eq to provide the required return. They (esp. CPF) haave been fairly reliable, despite many swan events.
 
 Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, we are one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
+
+-- new or update: DCA assumes long-term strength of US stocks
+This strength is evident only in US stocks IMHO. 
+Without this strength, your DCA would underperform "holding cash forever"
+
+The "long term" should match your xjlCrunch. In many equity markets, the long-term strength can require 30Y of patience.
 
 -- update which bpost?
 In the subway system, we can see evidence of the fiscal discipline and cost efficiency of U.S. vs SG.
