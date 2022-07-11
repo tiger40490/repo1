@@ -3,7 +3,9 @@ Experience shows that our estimate of the downside is usually an underestimate. 
 
 I see long-term strength only in U.S. market. I consider all other markets highly unstable, but I am probably simplistic.
 
-a fairly priced SP500 could, in theory, shoot up to 100 times over a year. Then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
+Q: Pick a random 10Y window some time into the near future (your lifetime). What is your estimated probability that SP500 (or another stock market) would show a positive return?  
+
+The skeptics would probably say slighly above 50%. Some would say that a fairly priced SP500 could, in theory, shoot up 100 times (above fair value) over a year. Then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
 
 ( In contrast, Beijing rEstate valuataion is probably 10 times above fair value, and could collapse any time. )
 
