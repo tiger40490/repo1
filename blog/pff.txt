@@ -8,39 +8,11 @@ I think this is one of top 3 reasons why most people hesitate about long-term co
 
 .. In our sunset years, we worry that we may not have the Sys2 resources to monitor MOETF. The start age of sunset years varies. Some may experience that difficulty when they start to withdraw from retirement account, so they experience a xjl crunch. They find it difficulty to liquidate stocks to support retirement expenses.
 
--- update bpost on wise investors
-I told Caroline that most rEstate investors are not wise because we can't try too many times.
-
-After one or a few tries, we are experienced, but not necessarily wise.
-
-Buffett said each person has about 20 punches to make, and a few good punches would be enough!
-
--- new: intelligence and 炒股 perf
-Focus of this bpost is eq-investing performance
-[[Irrational Exuberance]] has a brief debate on "smarter people will, in the long run, tend to do better at (stock) investing". Yes over the very long term, but in reality, there are many complicating factors.
-
-* muddy: For the independent varialbe, researchers would want to use IQ, or high-school test scores in math + mother-tongue-reasoning (universal subjects), but I know that many Asian teenage students are better-trained in taking tests than non-Asians. 
-* muddy: Most people use some N-year total return of individual's eq portfolio as the dependent-variable. I think liquidity is crucial but not captured in total return. MOETF is more liquid than an ETF.
-
-The most convincing argument for passive (kinda dumb) investing is that SP500 ETFs outperform many (not "most") professional portfolios, assuming minimal expRatio. Does it mean that smarter people like professionals don't outperform the average passive investor? No. That would be a very flawed argument.
-
-SP500 is among a handful of indices that are so hard to beat. The SP500 index committee is an active professional team.. smart people.
-
-A smart investor actually can outperform now and underperform later compared to SP500. Over the long run, she might outperform.
-
-Beside US broad indices like SP500, the other regional indices are easier to beat. However, most regional indices consist of leading stocks (high-performance, high quality, blue chips) of the region. The timing of addition/removal of constituent stocks often reflects buy-good-sell-bad, a form of market timing. So investing in such a "leading index fund" is different from DCA-buying the entire market.
-
-A smart investor often has more advisors and have access to training or data that help her spot opportunities and avoid missteps/swans. Slightly lower chance of loss.
-
--- update bpost which?
-core burn rate .. excludes tax and mortgage-P.
-headline burn rate (brbrx) .. includes tax, mortgage-P
-
 -- new or fuxi:
 SG and HK economies experienced fast ascent from 3rd world to 1st world.
 
 This is rather rare. Most rEstate markets do not experience the same.
--- new or fuxi
+-- new 
 At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and leveraged trading. 
 At that time, an engineer could make 3k-5k but active trading could generate 100k/Y profit.
 
@@ -51,15 +23,6 @@ With unrealized gains
 * sometimes we can't quickly cash out .. consider rEstate
 * sometimes the bid/ask or commission is too high .. consider bccy
 * sometimes the paper profit can quickly turn into paper loss
-
--- new: tech stocks: U.S.^Chn
-somehow, I feel China tech stocks are not as resilient as the US blue-chip tech stocks [MSFT, IBM, HP, Intel,,]. 
-I feel they are subject to more political risks. They don't pay dividend. No long-term trend.
-
-China banks pay better dividends than China inet. China inet has more growth potential.
-
-Apparently, india's most visibly competitive companies are largely concentrated in a single sector -- IT outsourcing sector. 
-In contrast, China's most competitive companies are manufacturers, but rather few are hot stocks. Hot stocks are all inet companies, but they are unsuccessful in globalization, unsuccessful outside the domestic market. 
 
 -- fuxi: The 16 Jun exp recon
 Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
