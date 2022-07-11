@@ -14,7 +14,7 @@ SG and HK economies experienced fast ascent from 3rd world to 1st world.
 This is rather rare. Most rEstate markets do not experience the same.
 -- new 
 At NUS while I was immersed in academic study, there is a lot of chatter among fellow students, about investment and leveraged trading. 
-At that time, an engineer could make 3k-5k but active trading could generate 100k/Y profit.
+At that time, a senior engineer could make 5k but active trading could generate 100k/Y profit.
 
 Now in my late 40s I have a different perception -- unrealized profit is not an income replacement. Consistent quarterly cash payout is, but much harder to achieve.
 
@@ -23,14 +23,6 @@ With unrealized gains
 * sometimes we can't quickly cash out .. consider rEstate
 * sometimes the bid/ask or commission is too high .. consider bccy
 * sometimes the paper profit can quickly turn into paper loss
-
--- fuxi: The 16 Jun exp recon
-Luckily, I had intermediate recon snapshots checked in. I had only the MB transactions to deal with:)
-
-Q: how can we simplify or improve MB ccard recon?
-A: increase frequency of MB recon.
-A: continue to prefer nets rather than debit/credit card
-A: reduce MB usage at supermarkets. These transactions are the most noisy and demands the most Sys2 resources
 
 -- new untitled
 Suppose you a wealthy semi-retiree. Many people want (to be the parking space for) your money.
