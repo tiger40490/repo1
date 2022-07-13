@@ -17,6 +17,8 @@ How about CPF (and pension funds)? For decades they have relied on eq to provide
 
 Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, we are one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
 
+Now I feel Nsdq or any U.S. indices is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
+
 -- new or update: DCA assumes long-term strength of US stocks
 This strength is evident only in US stocks IMHO. 
 Without this strength, your DCA would underperform "holding cash forever"
