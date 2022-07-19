@@ -1,3 +1,13 @@
+-- new: y previous managers imposed more workload than Mvea|EPA
+I think most finDev shops are like my previous jobs.
+Mvea and EPA are the exceptions.
+
+In this bpost, I will try to be brief but specific.
+* prod support -- mvea can rely on Josh as an efficient deep support. EPA prod support is mostly on other devs not me. Boss has no complaints. EPA has QA to assist with many support issues. Effective Level2 support.
+** Kyle said mvea is very stable and has minimal down time.
+* QA assistance -- EPA, RTS, 95G (and mvea) had dedicated QA teams. I don't remember having to do QA work myself.
+* project cost control -- PWM is the best example... They track project cost in dev man-day. These 2 places don't seem to care that much about my man-day.
+* Boss ambition -- somehow, each manager at these 2 places doesn't need high (team-level) workload to justify his value-add. In contrast, look at PWM, RTS, Barcap, Macq, 
 
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
