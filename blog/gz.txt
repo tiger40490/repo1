@@ -1,4 +1,6 @@
--- new: y previous managers imposed more workload than Mvea|EPA
+-- new: y previous managers imposed heavier workload than Mvea|EPA
+t_workload
+
 I think most finDev shops are like my previous jobs.
 Mvea and EPA are the exceptions.
 
@@ -9,8 +11,17 @@ In this bpost, I will try to be specific.
 
 Above are superficial reasons. After GS, I find that most employers allocate a few times more manpower for the same workload.
 
+Many finDevs complain about demanding users (or the sheer amount of work). 
+That's 一叶障目. (I have written numerous bposts on it.) 
+Many other shops have similar levels of "demand" but those shops simply hire more devs, or prioritize half the projects to next quarter. 
+(One Singaporean interviewer in a WSt shop told me dev managers need a backbone and stand up to business.) 
+So user demand is the excuse of tech bosses to apply pressure on subordinates. 
+I think many business users in my current (2022) compoany are not so demanding as GS users, but many managers (eg: managerX) here still apply pressure on subordinates. 
+What’s the underlying difference between managerX and EPA manager? 
+Fundamentally, I think it has to do with managerX’s attitude on project cost control.
+
 * project cost control -- PWM is the most decisive example... They track project cost in dev man-day. In contrast, with these 2 teams the manager doesn't seem to care that much about my man-day costs to the business. Now I think PWM business was struggling to turn a profit, and prove the viability of their business model.
-* Boss ambition -- somehow, each manager at these 2 places doesn't increase (team-level) workload to justify his personal value-add. (Larry could say that team workload is already very high after 3 departures.) In contrast, look at PWM, RTS, Barc, Macq, Stirt, OC
+* Boss ambition -- somehow, each manager at these 2 places doesn't increase (team-level) workload to justify his personal value-add. (EPA boss could say that team workload is already very high after 3 departures.) In contrast, look at PWM, RTS, Barc, Macq, Stirt, OC
 
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
