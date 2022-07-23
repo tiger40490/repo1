@@ -2,21 +2,21 @@
 t_workload
 
 I think most finDev shops are like my previous jobs.
-Mvea and EPA are the exceptions.
+Mvea and EPA are the exceptions to prove the rule.
 
 In this bpost, I will try to be specific.
 * prod support -- a major workload at GS. In contrast, mvea (and 95G) can rely on Josh as an efficient deep support. EPA prod support is mostly on other devs not me. Boss has no complaints. EPA also has QA to assist with many support issues. Effective Level2 support.
 ** Kyle said mvea is battle-tested for years, very stable, with minimal down time.
 * QA assistance -- EPA, RTS, 95G (and mvea) had dedicated QA teams. I don't remember having to do QA work myself.
 
-Above are superficial reasons. After GS, I find that most employers allocate a few times more manpower for the same workload.
+Above are superficial reasons. After GS, I find that most employers allocate a few times more manpower for the same workload at GS.
 
-Many finDevs complain about demanding users (or the sheer amount of work). 
-That's 一叶障目. (I have written numerous bposts on it.) 
+* demanding users? Many finDevs complain about demanding users (or other external demands). 
+That's 一叶障目. (I have written numerous bposts on it like https://btv-gz.dreamhosters.com/wp-admin/post.php?post=28826&action=edit.) 
 Many other shops have similar levels of "demand" but those shops simply hire more devs, or prioritize half the projects to next quarter. 
 (One Singaporean interviewer in a WSt shop told me dev managers need a backbone and stand up to business.) 
 So user demand is the excuse of tech bosses to apply pressure on subordinates. 
-I think many business users in my current (2022) compoany are not so demanding as GS users, but many managers (eg: managerX) here still apply pressure on subordinates. 
+I think many business users in my current (2022) company are not demanding, but many managers (eg: managerX) here still apply pressure on subordinates. 
 What’s the underlying difference between managerX and EPA manager? 
 Fundamentally, I think it has to do with managerX’s attitude on project cost control.
 
