@@ -2,7 +2,7 @@
 t_workload
 
 I think most finDev shops are like my previous jobs.
-Mvea and EPA are the exceptions to prove the rule.
+Mvea and EPA are the exceptions to prove the rule -- finIT is well-paid, competitive and demanding, and finDev is on top of the food chain....
 
 In this bpost, I will try to be specific.
 * prod support -- a major workload at GS. In contrast, mvea (and 95G) can rely on Josh as an efficient deep support. EPA prod support is mostly on other devs not me. Boss has no complaints. EPA also has QA to assist with many support issues. Effective Level2 support.
