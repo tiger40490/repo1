@@ -1,11 +1,20 @@
--- fuxi: watching the OCBC ad, I wondered how useful diversification actually is in pff.
+-- new: 2022 diversification xp
+In early 2022, my eq portfolio (along with SP500) experienced a major decline.
+
+How about bccy? (I have none) Most of them declined more than stocks... Ineffective diversification.
+How about bonds? My bond mufu remain underwater since late 2021 .. Ineffective diversification.
+How about my HY/PE from Jill? In default... ineffective diversification.
+
+watching the OCBC ad, I wondered how useful diversification actually is in pff.
 I think many asset classes are highly correlated... fake diversification.
 
-Other asset classes can have a super long trough (like 30Y) after a crash, such as gold or some properties.
+Other asset classes can have a super long trough (like 30Y) after a crash, such as gold and some properties.
 
 Some private investment schemes are shady and unregulated such as HY/PE and some bccy. So diversification using them can become fraudulent.
 
 So now I think diversification is oversold to the general public.
+
+A superficial diversification would involve some high-beta stocks (high correlation with SP500), some bonds, some bccy, some gold, some HY/PE, but I doubt they would provide positive return (end-to-end) in a depressed market.
 
 -- new
 Why the OC mufu is not something to buy-n-hold?
