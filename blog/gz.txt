@@ -1,12 +1,3 @@
--- update bpost on PMA
-PMA has non-trivial complexity and functionality but is low-maintenance. A rare gem of quality and well-designed enterprise software.
-
-Better than Raptor, Guardian, Nautilus, FSV2 and many other systems.
-
-However, it does require the app owner to be pro-active in learning the internals. 
-
-New support staff would need logs + DB read access + documentation.
-
 -- new: y previous managers imposed heavier workload than Mvea|EPA
 t_workload
 
@@ -35,6 +26,22 @@ Mvea NY team was a tiny subset of the 63 headcount under the MD, but is responsi
 I think market connectivity is seen as crucial link to the market. Also, java-EPA productivity is higher than c-EPA. Most of the man-day cost is related to external complexities in broker or external data providers. These factors all help justify our higher project cost.
 
 * Boss ambition -- somehow, each manager at these 2 places doesn't increase (team-level) workload to justify his personal value-add. (EPA boss could say that team workload is already very high after 3 departures.) In contrast, look at PWM, RTS, Barc, Macq, Stirt, OC
+
+-- new: ##many past managers liked me #appr
+Ravi of 95G
+Anand of Barc
+Venkat of RTS
+Yang and Janet of GS
+HenkJan
+Sundip of Stirt
+
+#1 acid test for how much a manager likes an employee -- does the manager recognize and embrace one of your top-2 permanent performance weaknesses, and help you survive it.
+
+It's like a parent's love for a child with a major handicap. 
+
+Q: can a manager of 5 people like most of most (or all) of them?
+A: yes in theory, but surely some would be liked more than others
+A: in reality, it's rare.
 
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
