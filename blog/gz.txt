@@ -1,9 +1,11 @@
 -- update bpost on PMA
-PMA has non-trivial functionality but is low-maintenance. A hallmark of quality and well-designed enterprise software.
+PMA has non-trivial complexity and functionality but is low-maintenance. A rare gem of quality and well-designed enterprise software.
 
 Better than Raptor, Guardian, Nautilus, FSV2 and many other systems.
 
-However, it does require the app owner to be pro-active in learning the internals. New support staff would need logs + DB read access + documentation.
+However, it does require the app owner to be pro-active in learning the internals. 
+
+New support staff would need logs + DB read access + documentation.
 
 -- new: y previous managers imposed heavier workload than Mvea|EPA
 t_workload
