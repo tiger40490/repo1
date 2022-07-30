@@ -2,30 +2,38 @@
 t_workload
 
 I think most finDev shops are like my previous jobs.
-Mvea and EPA are the exceptions to prove the rule -- finIT is well-paid, competitive and demanding, and finDev is on top of the food chain....
+Mvea and EPA are the exceptions to prove the rule -- finIT is well-paid, competitive and demanding, and finDev is most typical.
 
 In this bpost, I will try to be specific.
 * prod support -- a major workload at GS. In contrast, mvea (and 95G) can rely on Josh as an efficient deep support. EPA prod support is mostly on other devs not me. Boss has no complaints. EPA also has QA to assist with many support issues. Effective Level2 support.
 ** Kyle said mvea is battle-tested for years, very stable, with minimal down time.
 * QA assistance -- EPA, RTS, 95G (and mvea) had dedicated QA teams. I don't remember having to do QA work myself.
 
-Above are superficial reasons. After GS, I find that most employers allocate a few times more manpower for the same workload at GS.
-
 * demanding users? Many finDevs complain about demanding users (or other external demands). 
 That's 一叶障目. (I have written numerous bposts on it like https://btv-gz.dreamhosters.com/wp-admin/post.php?post=28826&action=edit.) 
 Many other shops have similar levels of "demand" but those shops simply hire more devs, or prioritize half the projects to next quarter. 
 (One Singaporean interviewer in a WSt shop told me dev managers need a backbone and stand up to business.) 
 So user demand is the excuse of tech bosses to apply pressure on subordinates. 
+Mvea is also mission-critical, with fairly demanding users, but look at Josh.
 I think many business users in my current (2022) company are not demanding, but many managers (eg: managerX) here still apply pressure on subordinates. 
 What’s the underlying difference between managerX and EPA manager? 
 Fundamentally, I think it has to do with managerX’s attitude on project cost control.
 
-* project cost control -- PWM is the most decisive example... They track project cost in dev man-day. In contrast, with these 2 teams the manager doesn't seem to care that much about my man-day costs to the business. 
-Now I think PWM business was struggling to turn a profit, and prove the viability of their business model.
-Mvea NY team was a tiny subset of the 63 headcount under the MD, but is responsible for the lion's share of trading volume and profit. Therefore, higher project cost is justifiable or at least acceptable to business.
-I think market connectivity is seen as crucial link to the market. Also, java-EPA productivity is higher than c-EPA. Most of the man-day cost is related to external complexities in broker or external data providers. These factors all help justify our higher project cost.
+Above are superficial reasons. After GS, I find that most employers allocate a few times more manpower than GS for the same workload.
 
-* Boss ambition -- somehow, each manager at these 2 places doesn't increase (team-level) workload to justify his personal value-add. (EPA boss could say that team workload is already very high after 3 departures.) In contrast, look at PWM, RTS, Barc, Macq, Stirt, OC
+* project cost control -- PWM is the most convincing example... PWM try to track project cost in dev man-day. In contrast, at Mvea and EPA the manager doesn't seem to care that much about my man-day costs to the business. My project time booking cost can be many times higher than some benchmark.
+
+Now I think PWM business was struggling to turn a profit, and demonstrate the viability of their business model.
+
+Mvea NY team was a tiny subset of the 63 headcount under the Frenchman MD, but is responsible for the lion's share of trading volume and profit. Therefore, higher project cost is justifiable or at least acceptable to the NY business.
+
+I think market connectivity is seen as crucial link to the market. Also, java-EPA productivity is higher than c-EPA. Most of the man-day cost is related to external complexities in broker or external data providers. These factors all help justify our project cost.
+
+** multi-tasking -- EPA mgr doesn't want "overlap" to exceed 1 week between my previous project and next project.
+I would be asked to finish previous project, hand over to QA before starting on next project.
+This practice would be way too "costly" at GS. 
+
+* Boss ambition -- somehow, each manager at these 2 places doesn't increase (team-level) workload to justify his personal value-add. (EPA boss could say that team workload is already very high after 3 departures.) In contrast, look at the level of ambitions at PWM, RTS, Barc, Macq, Stirt, OC
 
 -- new: ##many past managers liked me #appr
 Ravi of 95G
@@ -35,13 +43,12 @@ Yang and Janet of GS
 HenkJan
 Sundip of Stirt
 
-#1 acid test for how much a manager likes an employee -- does the manager recognize and embrace one of your top-2 permanent performance weaknesses, and help you survive it.
-
+#1 acid test for how much a manager likes an employee -- does the manager recognize and embrace one of your top-2 permanent performance weaknesses, and help you cope and survive?
 It's like a parent's love for a child with a major handicap. 
 
-Q: can a manager of 5 people like most of most (or all) of them?
+Q: based on this acid test, can a manager of 5 people LIKE most (or all) of them?
 A: yes in theory, but surely some would be liked more than others
-A: in reality, it's rare.
+A: in reality, it's rare, because every person is dispensible.
 
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
@@ -96,15 +103,20 @@ t_vague
 2017 marked a watershed in my sense of career insecurity.
 Before the watershed, I had a learned insecurity, instilled in me due to decades of brainwash, and internalized.
 
-churn defeating any attempt of accumulation
+tech churn .. defeating any attempt of accumulation
+
 The widespread and entrenched notion that "Few can remain hands-on till 40."
+
 threat from younger or stronger competitors.
-dRam refresh and maintain my critical mass
-strengthen my moat
+
+dRam refresh .. and maintain your critical mass
+
+strengthen your moat
+
 Don't drop out from the leading pack.
 
-I felt like the EDB -- can't afford to slow down, due to the risk of getting outrun/outmaneuvered, or caught up, the risk of losing our relevance.
+I felt like the EDB -- can't afford to slow down, due to the risk of getting outrun/outmaneuvered, or caught up... The risk of losing our relevance.
 
-After the watershed, I could see the end of my forced marathon, planning my own light marathon. 
-Therefore, for the remainder of the race I could afford to slow down to a stroll, drop out of the leading pakc, and let other people overtake me.
-
+After the watershed, I could see the end of my forced marathon. Now am planning my own very light marathon. 
+Therefore, for the remainder of the marathon I could afford to slow down to a stroll, drop out of the leading pakc, and let other people overtake me.
+I told SY.C that my 100k/Y dev-till70 is not passive acceptance, because I still make an effort -- a light marathon.
