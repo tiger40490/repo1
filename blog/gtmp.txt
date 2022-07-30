@@ -1,3 +1,10 @@
+-- new: questionable statistics on product effectiveness
+eg: My noise-reduction strip that's fixed below my door is designed for large gaps (like 2cm) below the door. For my door, its effectiveness is unnoticeable.
+
+eg: Many foods are "proven" to help weight loss, but sponsored research deliberately recruite obese participants. For my family members (or friends) who are marginally overweight, the effectiveness is questionable.
+
+eg: Online learning and some video-playing tablets are designed for primary/secondary level students to learn on their own. They are "shown" to improve grades, but uisng a sample of students who are already keen on self-learning or without classroom facilities. For most Singapore students I know, the effectiveness is questionable. These students are already overloaded with classroom-based learning.
+
 -- update
 India lacks world class universities, but I have met many very smart Indian colleagues.
 
