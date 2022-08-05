@@ -9,6 +9,14 @@ Are modern workers lazy?
 -- Quite a few senior employees work shorter hours than average, but remain available and fairly effective.
 
 ====
+-- new: GP chat on Quark project stress
+A few key developers left and now I'm receiving heavier projects.
+
+I remind myself that if I put in a real effort, then boss will not penalize me.
+
+boss's expectation is probably set more by peer benchmark, rather than c-EPA team's benchmark.
+
+I remind myself that the other team members are younger, or better localSys, so I may not be able to reach their productivity. I remind myself that boss probably knows. 
 -- new: ##many past managers liked me #appr
 Ravi of 95G
 Anand of Barc
