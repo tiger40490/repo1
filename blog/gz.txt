@@ -10,13 +10,23 @@ Are modern workers lazy?
 
 ====
 -- new: GP chat on Quark project stress
-A few key developers left and now I'm receiving heavier projects.
+A few key developers left, and now I'm receiving heavier projects.
+I don't want to complain.
 
-I remind myself that if I put in a real effort, then boss will not penalize me.
+I remind myself that if I put in a real effort, then boss will not penalize me. 
+The project will get done. Am confident.
 
-boss's expectation is probably set more by peer benchmark, rather than c-EPA team's benchmark.
+boss's expectation is probably set more by internal peer benchmark, rather than c-EPA team's benchmark.
 
-I remind myself that the other team members are younger, or better localSys, so I may not be able to reach their productivity. I remind myself that boss probably knows. 
+I remind myself that the other team members are younger, or better localSys, so I may not be able to reach their productivity.
+I remind myself that boss probably observed it already.
+There should be no shame, no rude awakening as happened in PWM-comm or Neoreo
+
+I have a vulnerable self-esteem, sensitive to other people's evaluation of my professional competence. 
+Grandpa knows me better than most people, so he immediately stressed and repeated that I have good work ethicks, and conscience. 
+He pointed out that I put in lots of effort, but need to watch out for self-imposed stress.
+Basically, don't take things too seriously.
+
 -- new: ##many past managers liked me #appr
 Ravi of 95G
 Anand of Barc
