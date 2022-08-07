@@ -1,3 +1,6 @@
+-- new: blunt instrument
+examples?
+
 -- fuxi:
 "consume twice the global average of wheat" meaning 
 twice the global average of wheat consumption per_person.
