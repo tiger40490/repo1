@@ -1,26 +1,10 @@
--- new: 2022 diversification xp
-In 2022, my eq portfolio (along with SP500) experienced a major decline.
-
-How about bccy? (I have none) Most of them declined more than stocks... Ineffective diversification.
-How about bonds? My bond mufu remain underwater since late 2021 .. Ineffective diversification.
-How about my HY/PE from Jill? In default... ineffective diversification.
-
-watching the OCBC ad, I wondered how useful diversification actually is in pff.
-I think many asset classes are highly correlated... fake diversification.
-
-Other asset classes can have a super long trough (like 30Y) after a crash, such as gold and some properties.
-
-Some private investment schemes are shady and unregulated such as HY/PE and some bccy. So diversification using them can become fraudulent.
-
-In conclusion, nowadays I think diversification is oversold to the general public.
-
-A superficial diversification would involve some high-beta stocks (high correlation with SP500), some bonds, some bccy, some gold, some HY/PE, but I doubt they would provide positive return (end-to-end) in a depressed market. Such a return is what I need for liquidity.
 --new or update: Y avoid branded colleges
 If a branded top-quality middle school costs $20k/Y over 2Y, then many would be able to afford it, but could the brand give the parents esteem for decades?
 
 A branded college does make the parents proud for decades, and makes the graduate stand out in over-crowded dating markets, but look at the price tag. If the 70k/Y price tag is clearly /affordable/ for you, then you won't need to aim for a "wise consumer". For most families, however, 300k over 4Y is too high, so these families need to assess the benefit/cost.
 
 Those with insider info often realize the benefit is not so high.
+
 -- update wise consumer
 Property agents, car salesmen, college admission offices ... make huge efforts to show us the differences between the haves vs the the have-nots. 
 They like to describe individuals as filthy rich, indirectly setting role models for their customers.
@@ -28,12 +12,7 @@ They like to describe individuals as filthy rich, indirectly setting role models
 Now in my late 40s it's becoming increasingly clear that those "haves" have acquired a lot of white elephants.
 
 For example, car is not an asset. 
-
--- new
-Why the OC mufu is not something to buy-n-hold?
-One reason is expRatio.
-
-Shall we ask some OC senior advisor?
+wines, fancy electronics are not always good for young people's wellbeing
 
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
 Experience shows that our estimate of the downside is usually an underestimate. Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. They would prefer cash or safe asset classes like soverign bonds.
@@ -73,19 +52,3 @@ I think this is one of top 3 reasons why most people hesitate about long-term co
 .. Around age 30 (perhaps 25-35), most of us need liquidity for our xjl crunch, so we tend to sell equity when we want to cut losses. This cohort lack patience, stamina or holding power. When these investors see a large (realized or unrelized) equity loss, they tend to regret investing such a large amount in such a risky asset. Therefore, it's a challenge for this age group to buy-n-hold.
 
 .. In our sunset years, we worry that we may not have the Sys2 resources to monitor MOETF. The start age of sunset years varies. Some may experience that difficulty when they start to withdraw from retirement account, so they experience a xjl crunch. They find it difficulty to liquidate stocks to support retirement expenses.
-
--- new or fuxi:
-SG and HK economies experienced fast ascent from 3rd world to 1st world.
-
-This is rather rare. Most rEstate markets do not experience the same.
-
--- new untitled
-Suppose you a wealthy semi-retiree. Many people want (to be the parking space for) your money.
-
-eg: insurers want your money. Insurance plans are usually long-term commitments. If you surrender your policy half-way, you lose and they "lose". They charge you a "penalty" to avoid a financial loss.
-eg: some retirement destinations want you to park your money there for X years, and give you a special visa. You are free to withdraw it after X years
-eg: Private banks want your money to be deposited, even in a savings account. They know from experience you are unlikely to move out of it soon. They estimate you would be with them for 1Y so meanwhile they can use your fund for their liquidity needs.
-eg: Many immigration authorities want you to invest a million with them, and create local jobs. It's still your money, that you can withdraw, as long as those jobs are mainained.
-eg: FDI [foreign direct investment] is on a larger scale but inherently similar. An industrialist invests millions in China and can withdraw it any time, but she is likely to stay invested for a few years. So China benefits hugely not only in job-creation.
-
-The key is long-term commitment. If long-enough, then the parking entity has free use of your fund almost as if you donated to them.

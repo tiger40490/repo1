@@ -1,3 +1,13 @@
+-- fuxi
+Suppose you a wealthy semi-retiree. Many people want (to be the parking space for) your money.
+
+eg: insurers want your money. Insurance plans are usually long-term commitments. If you surrender your policy half-way, you lose and they "lose". They charge you a "penalty" to avoid a financial loss.
+eg: Private banks want your money to be deposited, even in a savings account. They know from experience you are unlikely to move out of it soon. They estimate you would be with them for 1Y so meanwhile they can use your fund for their liquidity needs.
+eg: some retirement destinations want you to park your money there for X years, and give you a special visa. You are free to withdraw it after X years
+eg: Many immigration authorities want you to invest a million with them, and create local jobs. It's still your money, that you can withdraw, as long as those jobs are mainained.
+eg: FDI [foreign direct investment] is on a larger scale but inherently similar. An industrialist invests millions in China and can withdraw it any time, but she is likely to stay invested for a few years. So China benefits hugely not only in job-creation.
+
+The key is long-term commitment. If long-enough, then the parking entity has free use of your fund almost as if you donated to them.
 -- fuxi: 
 Now am inundated, I realized the maintenance effort of investment assets:
 * truly passive income is rare. Cambodia is much closer to the ideal than BGC is. 
