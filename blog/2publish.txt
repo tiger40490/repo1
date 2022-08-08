@@ -13,6 +13,12 @@ Q: As defined by this acid test, can a manager of 5 people LIKE most (or all) of
 A: yes in theory, but surely some would be liked more than others
 A: in reality, it's rare, because every person is dispensible. Not really parent-child..
 
+-- update blogpost on ... China student math
+Look at programming course. East Asian students don't seem to have an edge over Americans. 
+Look at math. I believe East Asian students have an edge, but sometime during the 4Y in college (possibly starting in high school), in STEM courses American students somehow catch up to close the gap.
+
+In the big picture, the math advantage is short-lived
+
 -- new: 2022 diversification xp
 In 2022, my eq portfolio (along with SP500) experienced a major decline, raising the question of diversification.
 
