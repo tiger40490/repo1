@@ -18,10 +18,6 @@ It can induce commitment, provided the kid is "ready".
 
 I think Dr Colin Ong see the same sword.
 
--- fuxi: digital tech is used mostly for 1) entertainment 2) productive [work, edu, xx, transactions].
-(Some usages are a mix of the two. For eg, news, shopp)
-Kids can learn to differentiate and learn to move towards productive uses.
-
 -- fuxi: Aaron and Claris said overseas educated graduates tend to stand out. Their benchmark was local grads.
 I said I feel local university grads have impressed me. I was using some undefined benchmark, perhaps the older workers.
 -- fuxi: how can we give boy a sense of ownership of his SGD account?
@@ -68,9 +64,6 @@ In many schools, there is sufficient buffer for these inefficient students to su
 
 The key is chipaway at efficiency improvement and self-discipline on a few identified fronts. Aim to achieve above-average efficiency in at least some fronts.
 
---update blogpost on roblox spend
-ROI -- reward for good behavior
-
 -- fuxi: Raymond's boys are on a lower ground
 The older boy has now failed to pass 3 subjects and can only pass science at end of P5. Geometry is one weakness.
 
@@ -85,6 +78,3 @@ A simple technique, easy to implement iFF he is willing, motivated.
 Necessary condition is the desire to improve his life. Right now he doesn't care that much.
 In a sense, the score serves as a reward, a target, a constant feedback.
 The more frequent the better.
-
---sugg: if boy doesn't shout on a weekday when dad is home, reward him with SGD $1 from grandpa, comparable to daily effort. 
-Ask boy which reward should be higher.
