@@ -1,4 +1,8 @@
 -- new:
+If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
+Need to understand what rebase means..
+
+-- new:
 c++/c#/java//// online compiler: https://wandbox.org/
 
 -- update bpost on defaultdict
