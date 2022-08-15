@@ -1,22 +1,24 @@
--- fuxi
-Is reading about parenting (and marriage, inter-personal communications) less likely to make a real difference? Yes, blogging about personal reflections are more introspective, more personal.
+-- can we enable comments on bposts of the last 6M, to ease updates? 
 
--- update bpost on proliferation
-.. My adaptations to the proliferation problem:
-more deletion of outdated bposts
-git blogging now uses more Update less New
-more time spent on fuxi using PubDate adjustment and less time spent creating new bposts
-more comments in bpost titles.. In some cases, post title, tag/category are more impotant than the (brief) post content
-"fuxi" entries in git blog .. see bpost
+-- update category ^ tag
+A tag "AA" is like "related to AA"
+Many tags can coexist on a bpost, but a bpost having 3 categories is messy. Therefore, my tag-like category is quite a useful innovation.
 
--- slow-cooking new blog/wiki^recoll
+categories have tree structure.
+
+tags (not categories) offer auto-suggest.
+-- slow-cooking new: blog/wiki ^ recoll
 Active scratchpads can be implemented as a wiki, or a file in a recoll directory tree.
 
 A wiki (including my blog) is first and foremost an info display system, so you can keep a page open forever, as one of 20 open browser tabs. If needed, you could start an hour-long edit session, but eventually, you must save and publish. Most of the time the document is in Published mode, not Edit mode.
 
-A recoll is data storage. The Edit GUI and Display GUI are the same thing, not separate as on a web browser. Therefore, we don't display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
+A recoll is data storage. The Edit GUI and Display GUI are the same thing, not separate as on a web browser. Therefore, we rarely display a recoll file forever because there is a real risk of unwanted edit when we don't know how to roll back.
 
-A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories and tags.
+A recoll has more flexible organization. A wiki tree is kinda similar, but my blog is not. My blog relies on categories tree and tags.
+
+softlink is powerful feature in unix and blog but not windows.
+
+long title and hyperlink are powerful features in wiki not recoll
 
 --fuxi wp super cache
 too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.

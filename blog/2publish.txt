@@ -1,5 +1,13 @@
 -- new: OC bond mufu
 Why the OC mufu is not something to buy-n-hold?
-One reason is expRatio.
+One reason is expRatio. Is there some long-term trend? I don't see it.
 
 Shall we ask some OC senior advisor?
+
+-- update bpost on proliferation
+.. My adaptations to the proliferation problem:
+more deletion of outdated bposts
+git blogging now uses more Update less New
+more time spent on fuxi using PubDate adjustment and less time spent creating new bposts
+more comments in bpost titles.. In some cases, post title, tag/category are more impotant than the (brief) post content
+"fuxi" entries in git blog .. see bpost
