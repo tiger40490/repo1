@@ -1,10 +1,8 @@
 -- can we enable comments on bposts of the last 6M, to ease updates? 
+limited to very few users only
 
 -- update category ^ tag
-A tag "AA" is like "related to AA"
-Many tags can coexist on a bpost, but a bpost having 3 categories is messy. Therefore, my tag-like category is quite a useful innovation.
-
-categories have tree structure.
+category tree.
 
 tags (not categories) offer auto-suggest.
 -- slow-cooking new: blog/wiki ^ recoll
@@ -19,8 +17,3 @@ A recoll has more flexible organization. A wiki tree is kinda similar, but my bl
 softlink is powerful feature in unix and blog but not windows.
 
 long title and hyperlink are powerful features in wiki not recoll
-
---fuxi wp super cache
-too complex. Even if I turn it off for a year, and feel safe to turn in back on, I would still forget it is there. Forgetting means it would bite me.
-
-i think caching is designed for large user base. I have a user base of 1.

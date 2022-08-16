@@ -1,3 +1,6 @@
+-- update: jenkins 
+.. is like IDE skill (including git) -- non-trivial, with some GTD value but zero QQ value, never quizzed
+This perception can have a poisonous effect on my localSys xx motivation.
 -- new: OC bond mufu
 Why the OC mufu is not something to buy-n-hold?
 One reason is expRatio. Is there some long-term trend? I don't see it.
