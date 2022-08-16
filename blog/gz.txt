@@ -1,4 +1,4 @@
--- new: jenkins 
+-- update: jenkins 
 .. is like IDE skill (including git) -- non-trivial, with some GTD value but zero QQ value, never quizzed
 This perception can have a poisonous effect on my localSys xx motivation.
 
