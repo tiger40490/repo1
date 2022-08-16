@@ -1,15 +1,3 @@
-
--- update wise consumer
-Property agents, car salesmen, college admission offices ... make huge efforts to impress on us the differences between the haves vs the the have-nots. 
-
-They are careful to position you, the prospective buyer as above average in the market, but below average among their clients. They like to describe their clients as filthy rich, indirectly setting role models for you.
-That's a form of mental manipulation. However rich you are, there are always some "existing clients" who are better off!
-
-Now in my late 40s it's becoming increasingly clear that those "haves" have acquired a lot of white elephants.
-
-For example, car is not an asset. 
-wines, fancy electronics are not always good for their children's wellbeing
-
 -- update: jenkins 
 .. is like IDE skill (including git) -- non-trivial, with some GTD value but zero QQ value, never quizzed
 This perception can have a poisonous effect on my localSys xx motivation.
