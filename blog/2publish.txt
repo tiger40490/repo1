@@ -14,3 +14,42 @@ git blogging now uses more Update less New
 more time spent on fuxi using PubDate adjustment and less time spent creating new bposts
 more comments in bpost titles.. In some cases, post title, tag/category are more impotant than the (brief) post content
 "fuxi" entries in git blog .. see bpost
+
+-- new: China's growing number of patents
+https://www.channelnewsasia.com/commentary/united-states-china-intellectual-property-patents-ownership-economic-policy-innovation-technology-2783356
+
+In 2021, China was the world’s top patent filer for the third year in a row. Chinese firms have filed approximately 75 per cent of global artificial intelligence patents in the past decade.
+
+China’s production of more IP does not automatically translate into a strategic advantage in economic competition with the United States. Rather, it is high-quality IP that has assumed a critical role amid globalisation and the emergence of global value chains, providing exclusive rights to license processes, brands and technologies essential for manufacturing.
+
+Although China’s leadership is well aware of the importance of IP quality over quantity, China’s IP receipts of US$8.6 billion in 2020 do not come close to the United States’ enormous US$113.8 billion.
+
+This is likely due to China’s IP tending more towards adaptive innovation – over half its domestic filings are utility patents. These have lower eligibility requirements (qualifying criteria), protection periods, indicating lower IP quality.
+
+Moreover, in 2020, only 8 per cent of China’s patents were granted abroad compared to 29 per cent of the United States’. Overseas patents are crucial for protecting a country’s IP across global value chains. 
+
+Only 10 per cent of global gold standard "triadic" patents – a set of patents that are registered with EU, Japanese and US patent offices to protect the same invention – were filed by China in 2019, while the United States accounted for 22 per cent. 
+
+-- update fake role models..
+I remember ML's friend, the 领头羊 guy desribing his persistent headache. 
+At that time I was envious of his exclub and successC.
+Now I think his xpSelf suffered for years. He lacks successE. Not enviable at all.
+
+-- new: questionable statistics on product effectiveness
+eg: My noise-reduction strip that's fixed below my door is designed for large gaps (like 2cm) below the door. For my door, its effectiveness is unnoticeable.
+
+eg: Many foods are "proven" to help weight loss, but sponsored research deliberately recruite obese participants. For my family members (and many friends) who are marginally overweight, the effectiveness is questionable.
+
+eg: Online learning and some video-based tablets are designed for primary/secondary level students to learn on their own. They are "shown" to improve grades, but uisng a sample of students who are already keen on self-learning or without classroom facilities. For most Singapore students I know, the effectiveness is questionable. These students are already overloaded with classroom-based learning.
+
+-- new: 人在 finDev exclub: can fall out any time
+I do feel like belonging to an exclub based on gross salary. Above 95% of Singapore residents' salaries (household income is a different historgram). See https://tanbinvest.dreamhosters.com/14177/u-s-income-3segment-sg/
+
+Note I have ignored my NNIA.
+
+Q: where does my $$wealth come from?
+A: not inheritance, not rEstate. It's mostly from _finDev_ salary
+
+Q: where does my FullerWealth come from? burn rate control[breakaway]
+
+However, the finDev exclub is elusive, impermanent. We can fall out any time.

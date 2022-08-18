@@ -1,38 +1,7 @@
--- update ...
+-- new: miswanting
 酒量 is not a good health condition. ditto Capacity to binge-smoke tobacco ...
 
 Ownership of expensive car ... is not a good thing, as it is more of a white elephant, than an asset.
-
--- new: questionable statistics on product effectiveness
-eg: My noise-reduction strip that's fixed below my door is designed for large gaps (like 2cm) below the door. For my door, its effectiveness is unnoticeable.
-
-eg: Many foods are "proven" to help weight loss, but sponsored research deliberately recruite obese participants. For my family members (or friends) who are marginally overweight, the effectiveness is questionable.
-
-eg: Online learning and some video-playing tablets are designed for primary/secondary level students to learn on their own. They are "shown" to improve grades, but uisng a sample of students who are already keen on self-learning or without classroom facilities. For most Singapore students I know, the effectiveness is questionable. These students are already overloaded with classroom-based learning.
-
--- update
-India lacks world class universities, but I have met many very smart Indian colleagues.
-
-To some extent, the same can be said about Korea
--- new: 人在 finDev exclub: can fall out any time
-I do feel like belonging to an exclub based on gross salary. Above 95% of Singapore residents' salaries (household income is a different historgram). See https://tanbinvest.dreamhosters.com/14177/u-s-income-3segment-sg/
-
-Note I have ignored my NNIA.
-
-Q: where does my $$wealth come from?
-A: not inheritance, not rEstate. It's mostly from _finDev_ salary
-
-Q: where does my FullerWealth come from? burn rate control[breakaway]
-
-However, the finDev exclub is elusive, fleeting, impermanent. We can fall out any time.
-
--- new: fertility drop: widespread
-The population of 61 countries is projected to decrease by 1 per cent or more between 2022 and 2050, driven by a fall in fertility.
-
--- update fake role models..
-I remember ML's friend, the 领头羊 guy desribing his persistent headache. 
-At that time I was envious of his exclub and successC.
-Now I think his xpSelf suffered for years. He lacks successE. Not enviable at all.
 
 -- link to bpost on China students losing their edge...
 Chinese culture (and to some extent Eastern Europe, and East Asia) is more serious than the west about fundamental skills (基本功), stringent, tough training
@@ -40,13 +9,13 @@ Chinese culture (and to some extent Eastern Europe, and East Asia) is more serio
 calligraphy
 piano
 street dance contest... 
-gymnastics
+ice skating
 women's marathon
 speed coding 
 
 In terms of sports, China (and those neighbors) are formidable, but not stronger than the west.
 
-In terms of tech innovation, the west (including Australia) still has a better system including their education philosophy/orientation.
+In terms of tech innovation, the west still has a better system including their education philosophy/orientation.
 
 In math, things are more nuanced. I don't know why Chinese mathmaticians are not so strong, but quant world has high Chinese representation.
 
@@ -54,27 +23,12 @@ In many engineering/science subjects, students don't need to be as precise as in
 
 My sister often says her fellow accountants are often focused on precision and missed the big picture priorities. 
 
--- new: China's growing number of patents
-https://www.channelnewsasia.com/commentary/united-states-china-intellectual-property-patents-ownership-economic-policy-innovation-technology-2783356
-
-In 2021, China was the world’s top patent filer for the third year in a row. Chinese firms have filed approximately 75 per cent of global artificial intelligence patents in the past decade.
-
-China’s production of more IP does not automatically translate into a strategic advantage in economic competition with the United States. Rather, it is high-quality IP that has assumed a critical role amid globalisation and the emergence of global value chains, providing exclusive rights to license processes, brands and technologies essential for manufacturing.
-
-Although China’s leadership is well aware of the importance of IP quality over quantity, China’s IP receipts of US$8.6 billion in 2020 do not come close to the United States’ enormous US$113.8 billion.
-
-This is likely due to China’s IP tending more towards adaptive innovation – over half its domestic filings are utility patents. These have lower eligibility requirements (qualifying criteria), protection periods, indicating lower IP quality.
-
-Moreover, in 2020, only 8 per cent of China’s patents were granted abroad compared to 29 per cent of the United States’. Overseas patents are crucial for protecting a country’s IP across global value chains. 
-
-Only 10 per cent of global gold standard "triadic" patents – a set of patents that are registered with EU, Japanese and US patent offices to protect the same invention – were filed by China in 2019, while the United States accounted for 22 per cent. 
-
 -- new: minority patients
-opening eg: ED medication ads always feature older adults -- older men and their partners. What if you need ED in your 30s? You may get a sinking feeling once a while. It requires serenity, harmony, (passive? yes) acceptance
+opening eg: ED medication ads always feature older men. What if you need ED in your 30s? You may get a sinking feeling. It requires serenity, harmony, (passive? yes) acceptance
 
-Desensitizing .. the mass media will always feature older men. You can't blame them, and you can't stop them. What you can do is desensitizing -- to stop your Sys1 reacting to the subtle hint that ED usually affects men in that age group, which is above you. 
+Desensitizing .. the mass media will always feature older men. You can't blame them, and you can't stop them. What you can do is desensitizing -- to stop your Sys1 reacting to the subtle hint that ED usually affects men in that age group. 
 
-No advertizer mean to hint that you are too young to need treatment. Definitely not, but such negative interpretations are natural, commonplace and understanable.
+No advertizer mean to hint that you are too young to need treatment. Definitely not, but such negative interpretations are sys1, natural, commonplace and understanable.
 
 My realYoga sessions also need desensitizing, as I over-react to the irrelevant instructions that apply only to other students.
 
