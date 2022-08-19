@@ -1,3 +1,23 @@
+-- link to bpost on China students losing their edge...
+Chinese culture (and to some extent Eastern Europe, and East Asia) is more serious than the west about fundamental skills (基本功), stringent, tough training
+
+calligraphy
+piano
+street dance contest... 
+ice skating
+women's marathon
+speed coding 
+
+In terms of sports, China (and those neighbors) are formidable, but not stronger than the west.
+
+In terms of tech innovation, the west still has a better system including their education philosophy/orientation.
+
+In math, things are more nuanced. I don't know why Chinese mathmaticians are not so strong, but quant world has high Chinese representation.
+
+In many engineering/science subjects, students don't need to be as precise as in quant. A 80% grasp is often good enough to get you an A. 
+
+My sister often says her fellow accountants are often focused on precision and missed the big picture priorities. 
+
 -- update: jenkins 
 .. is like IDE skill (including git) -- non-trivial, with some GTD value but zero QQ value, never quizzed
 This perception can have a poisonous effect on my localSys xx motivation.
