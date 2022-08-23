@@ -6,8 +6,11 @@ asset inflation .. I think mostly real assets or investment assets
 
 -- new:
 SG stocks are well-regarded internationally because
-* bulk of the total return comes from dividends
-* SGD is actually very strong against most currencies if we stop focusing on USD.
+* bulk of the total return comes from dividends. I think these high-yield stocks are mostly government linked.
+* SGD has proven very strong against most currencies if we stop focusing on USD.
+
+-- update
+Some ETFs may pay dividend from capital gain.
 
 --new or update: Y avoid branded colleges
 If a branded top-quality middle school costs $20k/Y over 2Y, then many would be able to afford it, but could the brand give the parents esteem for decades?
