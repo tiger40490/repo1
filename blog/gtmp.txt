@@ -1,3 +1,12 @@
+-- new: too many items: create folders
+Usage sites: smartphone/PC desktop icons; browser bookmarks; recoll
+
+The folder is usually opaque (except smartphone). I often fail to recall which folder hosts a particula item. 
+
+Sugg: folder name must be clear, and help me remember what items it contains.
+
+Sugg: try symlinks. Two copies of the same item can be placed in multiple folders.
+
 -- fuxi or update a related bpost like https://tanbinvest.dreamhosters.com/12221/resilience-against-ffree-derailers/
 Q: did I or do I still neglect anything? Let's avoid the vague or familiar answers.
 
