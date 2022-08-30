@@ -3,7 +3,7 @@ Usage sites: smartphone/PC desktop icons; browser bookmarks; recoll
 
 The folder is usually opaque (except smartphone). I often fail to recall which folder hosts a particula item. 
 
-Sugg: folder name must be clear, and help me remember what items it contains.
+Sugg: folder name had better be suggestive.
 
 Sugg: try symlinks. Two copies of the same item can be placed in multiple folders.
 

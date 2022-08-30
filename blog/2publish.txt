@@ -39,7 +39,7 @@ A: 49 out of 50 of my peers can tolerate it better than I can, just as in an eco
 
 -- update bpost on gems in the unit:
 Remind ourselves to adjust our perception to notice the gems in the unit
-* new tiles will be easier to drill
+* new tiles with horizontal edges, will be easier to drill
 * plenty of vertical space in laundry room, toilets,, for storage
 
 -- new: minority patients
@@ -51,17 +51,17 @@ No advertizer mean to hint that you are too young to need treatment. Definitely 
 
 My realYoga sessions also need desensitizing, as I over-react to the irrelevant instructions that apply only to other students.
 
-eg: Dementia publications always feature aged (usually female) adults. What if you need help at an earlier age?
+eg: Dementia publications always feature aged (usually female) adults. What if you need help at an earlier age like 40s?
 eg: hair dying ads always feature older users, but some of my friends had white hair in their teenage.
 eg: Stutter treatment publication always features males. What if a stutter patient is a female?
 
 -- update bpost on bpost proliferation
-.. My adaptations to the proliferation problem:
-more deletion of outdated bposts
-git blogging now uses more Update less New
+.. My adaptation(s) to the proliferation problem:
+more soft-deletion of outdated bposts
+git blogging now uses less New more Update including comments
+more one-liner alias bposts, to be removed later.
 more time spent on fuxi using PubDate adjustment and less time spent creating new bposts
-more comments in bpost titles.. In some cases, post title, tag/category are more impotant than the (brief) post content
-"fuxi" entries in git blog .. see bpost
+more comments in bpost titles.. In some cases, a post title or its tag/category are more impotant than the (brief) post content
 
 -- new: China's growing number of patents
 https://www.channelnewsasia.com/commentary/united-states-china-intellectual-property-patents-ownership-economic-policy-innovation-technology-2783356
@@ -81,17 +81,17 @@ Only 10 per cent of global gold standard "triadic" patents – a set of patents 
 -- update fake role models..
 I remember ML's friend, the 领头羊 guy desribing his persistent headache. 
 At that time I was envious of his exclub and successC.
-Now I think his xpSelf suffered for years. He lacks successE. Not enviable at all.
+Now I think his xpSelf suffered for years. He looked like a failureE. Not enviable at all.
 
 -- new: questionable statistics on product effectiveness
 eg: My noise-reduction strip that's fixed below my door is designed for large gaps (like 2cm) below the door. For my door, its effectiveness is unnoticeable.
 
 eg: Many foods are "proven" to help weight loss, but sponsored research deliberately recruite obese participants. For my family members (and many friends) who are marginally overweight, the effectiveness is questionable.
 
-eg: Online learning and some video-based tablets are designed for primary/secondary level students to learn on their own. They are "shown" to improve grades, but uisng a sample of students who are already keen on self-learning or without classroom facilities. For most Singapore students I know, the effectiveness is questionable. These students are already overloaded with classroom-based learning.
+eg: Online learning sites, and some video-based tablet devices are designed for primary/secondary level students to learn on their own. They are "shown" to improve grades, but shown uisng a sample of students who are already keen on self-learning, or samples of students without classroom facilities. For most Singapore students I know, the effectiveness is questionable. These students are already overloaded with classroom-based, exam-driven learning with heavy homework.
 
 -- new: 人在 finDev exclub: can fall out any time
-I do feel like belonging to an exclub based on gross salary. Above 95% of Singapore residents' salaries (household income is a different historgram). See https://tanbinvest.dreamhosters.com/14177/u-s-income-3segment-sg/
+I do feel like belonging to an exclub based on gross salary... above 95% of Singapore residents' salaries (household income is a different historgram). See https://tanbinvest.dreamhosters.com/14177/u-s-income-3segment-sg/
 
 Note I have ignored my NNIA.
 
