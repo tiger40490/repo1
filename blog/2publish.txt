@@ -18,6 +18,8 @@ In many engineering/science subjects, students don't need to be as precise as in
 
 My sister often says her fellow accountants are often focused on precision and missed the big picture priorities. 
 
+There are other competitive domains .. design, architecture, literature, music, visual arts, performance arts, business, 
+
 -- update: jenkins 
 .. is like IDE skill (including git) -- non-trivial, with some GTD value but zero QQ value, never quizzed
 This perception can have a poisonous effect on my localSys xx motivation.
@@ -27,17 +29,16 @@ One reason is expRatio. Is there some long-term trend? I don't see it.
 
 Shall we ask some OC senior advisor?
 
-
 -- update https://tanbinvest.dreamhosters.com/14830/covid19-recession-am-richer-even-without-deflation/
 Inflation, recession, covid restrictions, rental income decline, health decline due to aging
-.. are some of the common "stressors" that don't become my stressors, because they affect many people around me.
+.. are some of the common "stressors" that don't become my stressors, because they affect many people around me
+ more seriously.
 
 Q: What's special about long commute? Why do I suffer so much while others don't?
 A: 49 out of 50 of my peers can tolerate it better than I can, just as in an economy seat on a long flight.
 
 -- update bpost on gems in the unit:
 Remind ourselves to adjust our perception to notice the gems in the unit
-* laundry room is free of gigantic verticle pipes, so can function as a room
 * new tiles will be easier to drill
 * plenty of vertical space in laundry room, toilets,, for storage
 
