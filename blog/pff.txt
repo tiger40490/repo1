@@ -68,7 +68,7 @@ Now I feel Nsdq or any U.S. indices is susceptible to "fast_window" of 500% appr
 
 -- new or update: DCA assumes long-term strength of US stocks
 This strength is evident only in US stocks, and not in Nsdq. 
-Without this strength, your DCA would underperform "holding cash forever"
+DCA in Singapore stocks ... questionable.
+Without this strength, your DCA could underperform "holding cash forever"
 
 The "long term" should match your xjlCrunch. In many equity markets, the long-term strength can require 30Y of patience.
-
