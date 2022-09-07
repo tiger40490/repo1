@@ -1,7 +1,3 @@
--- update bpost on multiplier
-must open multiplier first, then set up rsp, which kicks in mid-month
-for $1/m credit card spend, can use it at mrt 
-
 -- fuxi my recent investment track record is not so prudent
 * HY/PE
 * Saxo FXO

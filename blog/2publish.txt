@@ -13,18 +13,6 @@ Many of my advantages over these ex-classmates are in successE and successZ.
 
 In whatever that matter to me, I don't feel left behind. I am getting ahead, in stealthy footsteps.
 
--- slow cooking update: https://btv-open.dreamhosters.com/46165/longer-sleep-hours/
-Update title : Save time to do __ #longer sleep
-eg: Some people want faster intimacy. They want to save time for something else, but what can be more enjoyable?
-
-eg: I often regret spending too much with my son on the renzi trips. I wanted to save time for other things like study, work, recreational reading.. YY.T probably wanted to save time for work and workout. However, other parents enjoy those parent-child bonding trips and therefore they would rather save time for that. 
-
-eg: on a vacation, we get up early and move fast, saving time to see more places, but I told my wife doing that sacrifices sleep and leisure. We would end up saving time to get ourself tired and overstimulated. 
-
-I think the xpSelf would want to slow down and enjoy the good times, but the rmSelf would want to hurry up, move quickly and "achieve" more.
-
-eg: The ERE author questioned after achieving freeom from financial constraints, we are "free to do ...?"
-
 -- new or update https://btv-gz.dreamhosters.com/5652/java-one-of-top3-reason-for-my-pain-in-singapore/
 if I lose MLP job and decide to remain in SG, I would face a much smaller finDev job pool with too many competitors. The buy-side jobs would be too demanding, age-unfriendly. The crypto jobs would be age-unfriendly. The ibank jobs would be much fewer than in WSt. I would have less-than-ideal job choices like Qz and OC job.
 
@@ -46,25 +34,8 @@ productivity zsms .. laptop with coding or tech QQ, or tech books
 When is best time for git-blogg? Looks like an unwanted child. Commute is a good choice, even if not the very best.
 When is best time for my growing recreational books? In office and home
 
---update ctbz bpost
-With cherry, other eaters would discard half the flesh. However, due to ctbz, i try to eat all the meat off the core. This is actually dangerous.
-
-When I do this without full concentration, the stone can get stuck at the throat or go down.
-
--- update: miswanting
-酒量 is not an indication of good health. ditto Capacity to binge-smoke tobacco ...
-
-Ownership of expensive car ... is not a good thing, as it is more of a white elephant, rather than an asset.
-
--- new ##where a branded degree matters
-See also email to Gary Guo.
-biggest usage of a branded degree.. is (traditionally) employment, but employers increasingly look at recent jobs (for anyone 27+) or tech screening.
-
-Nowadays the biggest usage might be
-* dating
-* immigration 
-
--- link to bpost on China students losing their edge...
+-- new untitled 
+link to https://btv-open.dreamhosters.com/10886/math-china-students-advantage-is-short-lived/
 Chinese culture (and to some extent Eastern Europe, and East Asia) is more serious, relative to the west, about fundamental skills (基本功), stringent, tough training
 
 calligraphy
@@ -107,64 +78,7 @@ Remind ourselves to adjust our perception to notice the gems in the unit
 * new tiles with horizontal edges, will be easier to drill
 * plenty of vertical space in laundry room, toilets,, for storage
 
--- new: minority patients
-opening eg: ED medication ads always feature older men. What if you need ED in your 30s? You may get a sinking feeling. It requires serenity, harmony, (passive? yes) acceptance
-
-Desensitizing .. the mass media will always feature older men. You can't blame them, and you can't stop them. What you can do is desensitizing -- to stop your Sys1 reacting to the subtle hint that ED usually affects men in that age group. 
-
-No advertizer mean to hint that you are too young to need treatment. Definitely not, but such negative interpretations are sys1, natural, commonplace and understanable.
-
-My realYoga sessions also need desensitizing, as I over-react to the irrelevant instructions that apply only to other students.
-
-eg: Dementia publications always feature aged (usually female) adults. What if you need help at an earlier age like 40s?
-eg: hair dying ads always feature older users, but some of my friends had white hair in their teenage.
-eg: Stutter treatment publication always features males. What if a stutter patient is a female?
-
--- update bpost on bpost proliferation
-.. My adaptation(s) to the proliferation problem:
-more soft-deletion of outdated bposts
-git blogging now uses less New more Update including comments
-more one-liner alias bposts, to be removed later.
-more time spent on fuxi using PubDate adjustment and less time spent creating new bposts
-more keywords in bpost titles.. In some cases, a post title or its tag/category are more impotant than the (brief) post content
-
--- new: China's growing number of patents
-https://www.channelnewsasia.com/commentary/united-states-china-intellectual-property-patents-ownership-economic-policy-innovation-technology-2783356
-
-In 2021, China was the world’s top patent filer for the third year in a row. Chinese firms have filed approximately 75 per cent of global artificial intelligence patents in the past decade.
-
-China’s production of more IP does not automatically translate into a strategic advantage in economic competition with the United States. Rather, it is high-quality IP that has assumed a critical role amid globalisation and the emergence of global value chains, providing exclusive rights to license processes, brands and technologies essential for manufacturing.
-
-Although China’s leadership is well aware of the importance of IP quality over quantity, China’s IP receipts of US$8.6 billion in 2020 do not come close to the United States’ enormous US$113.8 billion.
-
-This is likely due to China’s IP tending more towards adaptive innovation – over half its domestic filings are utility patents. These have lower eligibility requirements (qualifying criteria), protection periods, indicating lower IP quality.
-
-Moreover, in 2020, only 8 per cent of China’s patents were granted abroad compared to 29 per cent of the United States’. Overseas patents are crucial for protecting a country’s IP across global value chains. 
-
-Only 10 per cent of global gold standard "triadic" patents – a set of patents that are registered with EU, Japanese and US patent offices to protect the same invention – were filed by China in 2019, while the United States accounted for 22 per cent. 
-
--- update fake role models..
+-- update fake role models.. but not sure which bpost
 I remember ML's friend, the 领头羊 guy desribing his persistent headache. 
 At that time I was envious of his exclub and successC.
 Now I think his xpSelf suffered for years. He looked like a failureE. Not enviable at all.
--- new: 人在 finDev exclub: can fall out any time
-YY.T (and other high-flyers) can fall out more easily.
-
-I do feel like belonging to an exclub based on gross salary... above 95% of Singapore residents' salaries. (Note EP-holders are a higher histogram, and household income is yet another historgram). See https://tanbinvest.dreamhosters.com/14177/u-s-income-3segment-sg/
-
-Note I have ignored my NNIA.
-
-Q: where does my $$wealth come from?
-A: not inheritance, not rEstate. It's mostly from _finDev_ salary
-
-Q: where does my FullerWealth come from? burn rate control[breakaway]
-
-However, the finDev exclub is elusive, impermanent. We can fall out any time.
-
--- new: questionable statistics on product effectiveness
-eg: My noise-reduction strip that's fixed below my door is designed for large gaps (like 2cm) below the door. For my door, its effectiveness is unnoticeable.
-
-eg: Many foods are "proven" to help weight loss, but sponsored research deliberately recruite obese participants. For my family members (and many friends) who are marginally overweight, the effectiveness is questionable.
-
-eg: Online learning sites, and some video-based tablet devices are designed for primary/secondary level students to learn on their own. They are "shown" to improve grades, but shown uisng a sample of students who are already keen on self-learning, or samples of students without classroom facilities. For most Singapore students I know, the effectiveness is questionable. These students are already overloaded with classroom-based, exam-driven learning with heavy homework.
-
