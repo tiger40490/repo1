@@ -1,7 +1,10 @@
--- my recent investment track record is not so prudent
+-- update bpost on multiplier
+must open multiplier first, then set up rsp, which kicks in mid-month
+for $1/m credit card spend, can use it at mrt 
+
+-- fuxi my recent investment track record is not so prudent
 * HY/PE
 * Saxo FXO
-* commodities futures in 1997? too long ago.
 
 -- update bpost on inflation
 in Aug 2022, UK energy bill per household was projected to hit SGD 500/M, representing 11% of the median disposable income per household.
