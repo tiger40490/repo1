@@ -1,3 +1,10 @@
+-- new: %%priorities as a tech interviewer
+priority: find strengths/weaknesses of the candidate? LG2
+priority: find something non-trivial to share with the hiring mgr afterwards? 
+priority: enhance (practice) my cool confidence as an interviewer
+priority: build rapport with the candidate as he might become a key employee
+
+balancing: give the candidate some time to think through but within the time constraints.
 
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
