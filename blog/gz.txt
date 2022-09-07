@@ -1,11 +1,3 @@
--- new: %%priorities as a tech interviewer
-priority: find strengths/weaknesses of the candidate? LG2
-priority: find something non-trivial to share with the hiring mgr afterwards? 
-priority: enhance (practice) my cool confidence as an interviewer
-priority: build rapport with the candidate as he might become a key employee
-
-balancing: give the candidate some time to think through but within the time constraints.
-
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
 I had a deep-rooted inferiority complex across the q3SG perm jobs.
@@ -39,26 +31,3 @@ What I'm unsure is the salary hike if I jump. What additional income is possible
 I told grandpa that my successE [carefree ezlife + harmony, based on wellness and comfortable livelihood] is rare among my cohort, not because I'm wealthier than them, but because I don't focus on the wrong goals.
 
 The nightmare scenario is much more severe, harsh, harmful than CB2022.
-
--- slow-cooking new: career insecurity: 2017 watershed
-t_vague
-2017 marked a watershed in my perception of career insecurity.
-Before the watershed, I had a learned insecurity, instilled in me due to decades of brainwash, and internalized.
-
-tech churn .. defeating any attempt of accumulation
-The widespread and entrenched notion that "Few can remain hands-on till 40."
-threat from younger or stronger competitors.
-DRam refresh .. and maintain your critical mass
-strengthen your moat, maintain your lead 
-Don't drop out from the leading pack.
-slow income growth outpaced by long-term inflation not only in home prices.
-
-I felt like the EDB -- can't afford to slow down, due to the risk of getting outrun/outmaneuvered, or caught up... The risk of losing our relevance.
-
-After the watershed, I could see the end of my involuntary marathon. Now am planning my own light marathon driven by successZ. 
-This marathon could take me all the way to 70s. 
-I hope to enjoy it.
-Therefore, for the remainder of the marathon I could afford to slow down to a stroll, drop out of the leading pakc, and let other people overtake me
-as happend in Toa Payoh stadium.
-
-I told SY.C that my 100k/Y dev-till70 is not passive acceptance and failureZ, because I still make an effort -- a light marathon.
