@@ -33,26 +33,6 @@ Therefore, it's a challenge for this age group to buy-n-hold.
 .. In our sunset years, we worry that we may not have the Sys2 resources to monitor MOETF. 
 The start of sunset years varies. Some may experience that difficulty when they start to withdraw from retirement account, so they experience a xjl crunch. They find it difficulty to liquidate stocks to support retirement expenses.
 
--- update
-3 types of inflation: CCA
-consumer goods inflation
-commodity inflation .. can stem from wage inflation
-asset inflation .. I think mostly real assets
-
--- new:
-SG stocks are well-regarded internationally because
-* bulk of the total return comes from dividends. I think these high-yield stocks are mostly government linked.
-* SGD has proven very strong against most currencies if we stop focusing on USD.
-
--- update
-Some ETFs may pay dividend from capital gain.
-
---new or update: Y avoid branded colleges
-If a branded top-quality middle school costs $20k/Y over 2Y, then many would be able to afford it, but could the brand give the parents esteem for decades?
-
-A branded college does make the parents proud for decades, and makes the graduate stand out in over-crowded dating markets, but look at the price tag. If the 70k/Y price tag is clearly /affordable/ for you, then you won't need to aim for a "wise consumer". For most families, however, 300k over 4Y is too high, so these families need to assess the benefit/cost.
-
-Those with insider info often realize the benefit is not so high.
 
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
 Experience shows that our estimate of the downside is usually an underestimate. Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. They would prefer cash or safe asset classes like soverign bonds.
@@ -76,4 +56,3 @@ Temasek's 400b is invested mostly in equities, with 62% allocation to Asia. Appa
 Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, we are one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
 
 Now I feel Nsdq or any U.S. indices is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
-
