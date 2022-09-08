@@ -1,14 +1,6 @@
 -- fuxi my recent investment track record is not so prudent
 * HY/PE
 * Saxo FXO
-
--- update bpost on inflation
-in Aug 2022, UK energy bill per household was projected to hit SGD 500/M, representing 11% of the median disposable income per household.
-
-My reaction when I read it? Not much. I imagined my own total bill (curently SGD 200) rising to $500, and I told myself we would simply cut consumption. Realistically how low can we hit? Perhaps $400. That's huge inflation but not a big hit on my family burn rate.... Remember MSFM, Mindchamps, air tickets, maid, IRAS
-
-That's one straw on the camel's back, not the last straw.
-
 -- Reit ETFs?
 diversify to other countries? Most of my Reits are US. One is SG. No other countries.
 
@@ -17,23 +9,6 @@ I can buy a few shares of Reit (actually any SGX) ETF to try.
 pre-clearance ? some of these have > 25 holdings.
 
 SGX reit etf has high expRatio than US reit ETF!
-
--- new: MOETF crash nearest to a xjl crunch
-t_longTermBnH
-Nearest to a time of xjl crunch, MOETF could hit a crash.
-
-I think this is one of top 3 reasons why most people hesitate about long-term commitment to the (risky) stock market.
-
-.. During the years around age 30 (perhaps 25-35), most of us need liquidity for our xjl crunch, 
-During this period, we tend to sell equity when we want to cut losses. 
-This cohort lack patience, stamina or holding power. 
-When these investors see a large (realized or unrelized) equity loss, they tend to regret investing such a large amount in such a risky asset. 
-Therefore, it's a challenge for this age group to buy-n-hold.
-
-.. In our sunset years, we worry that we may not have the Sys2 resources to monitor MOETF. 
-The start of sunset years varies. Some may experience that difficulty when they start to withdraw from retirement account, so they experience a xjl crunch. They find it difficulty to liquidate stocks to support retirement expenses.
-
-
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
 Experience shows that our estimate of the downside is usually an underestimate. Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. They would prefer cash or safe asset classes like soverign bonds.
 
