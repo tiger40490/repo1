@@ -1,3 +1,11 @@
+-- bi-monthly is confusing. Semi-monthly is slightly better.
+
+twice-monthly is very clear.
+two-monthly is very clear.
+
+semi-annually is clear.
+bi-weekly is clear.
+
 -- new: blunt instrument
 examples?
 
