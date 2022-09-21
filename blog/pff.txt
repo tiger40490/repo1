@@ -1,5 +1,10 @@
 -- what's my brbr now if I exclude IRAS but include mtgI?
 
+-- new:
+It's hard to find real property in SG below market value, but some sReits trade below NAV.
+
+How are market value and NAV computed?
+
 -- Steven's checklist for SgCP (buying): 
 1. understand your risk level
 2. budget
