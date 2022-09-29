@@ -1,3 +1,6 @@
+-- new
+Adaptive (a finIT firm) have worked within many banks and used all the mainstream messaging middlewares available in the industry. Experience has taught us, that peer-to-peer messaging system is more flexible than broker based messaging systems and requires less operational overhead. You don’t need additional servers (or hardware appliances) to use it, which are generally organised as shared infrastructure and become an organisational bottleneck for development teams.
+
 -- new:
 If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
 Need to understand what rebase means..
