@@ -1,7 +1,7 @@
 -- cockpit4 has limited inet, so the laptop there needs git-blogg. Shall we set it up? Yes
 
 -- update bpost on book baggage
-having too many (hundres) free books (excl magazines) and too little time ... is much better than "before" when I bought 1/3 of the number and had some time allocated to reading them.
+having too many (hundres) free books (excl magazines) and too little time ... is much better than yesteryears when I bought 1/3 of the current titles and had 5 times more hours allocated to reading them.
 
 -- new
 Consider a male China-born immigration lawyer , or architect, SWE, (various) designer,,,, whoc came to the U.S. at age 25. He can be competent/effective/proficient in English professionally [in office, with clients, in meetings, over phone]. However, a less-educated local American would be more fluent orally. 
