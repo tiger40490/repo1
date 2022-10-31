@@ -2,8 +2,13 @@
 Actually,  most of us would seldom spend $100/person, but many would spend $50/person.
 
 -- update... 
-DBS debit card limit set to $50. How to verify? Try to charge $51.
+DBS debit card limit set to $50. How to verify? Try to charge $51. (no way to see $50 mentioned anywhere.)
 If debit card used by theft, then police (based on police report) need to run all the relevant cameras.
+
+-- updte bpost on annual budget
+Benefit of budget is 1) 99% in burn rate control, and 2) encouragement of saving.
+
+For (1), my recon control is far more precise. That's why I rely on recon exclusive and brush aside budgeting.
 
 -- update wise consumer
 At a fancy restaurant you taste something very nice (and expensive) . Later you find out it is a cheap supermarket item that you have never noticed.
