@@ -1,3 +1,11 @@
+-- update...
+SG was behind HK in talent, as HK draws talents from China + the west.
+Now SG is becoming more attractive than HK for many nationalities:
+* SEAsia
+* India
+* the West
+* Japan?
+
 -- cockpit4 has limited inet, so the laptop there needs git-blogg. Shall we set it up? Yes
 
 -- update bpost on book baggage
