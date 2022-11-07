@@ -1,3 +1,12 @@
+-- new: too many items: create folders
+Usage sites: smartphone/PC desktop icons; browser bookmarks; recoll
+
+The folder is usually opaque (except smartphone). I often fail to recall which folder hosts a particula item. 
+
+Sugg: folder name had better be suggestive.
+
+Sugg: try symlinks/shortcuts. Two copies of the same shortcut can go into two folders.
+
 -- update bpost on diskhog
 WindowsApps folder -- not worth optimizing. Quite risky.
 
