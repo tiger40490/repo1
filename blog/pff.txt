@@ -1,3 +1,14 @@
+-- update 300k
+Re my carefully designed LIR-arb, Pre-mature FD may erode the positive side, and insidiously tip the balance.
+
+But at a high level, I think pre-mature FD-churning is profitable. 
+
+To confirm, I would need an accounting system to keep track of my IR income from 1 May 2022. May take a lot of time, but can be fun.
+I guess CPF int is possible to estimate. 
+BOC int is tractable
+SSB int is easier, 
+tbill (held to maturity) is easiest.
+
 -- update resimax bpost:
 GEX knows the developer and can help reduce Megaworld type of problem.
 
