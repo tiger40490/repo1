@@ -1,5 +1,6 @@
 -- new: edu resources
-In the U.S. (and to some extent SG, Chn), edu resources are unevenly distributed, in favor of the rich. They have access to top school districts, private tutors, a stay-home mom, a father with plenty of paid leaves, counselling/treatment for special difficulties (every kid seems to have some)
+In the U.S. (and to some extent SG, Chn), edu resources are unevenly distributed, in favor of the rich. 
+They have access to top school districts, private tutors, a stay-home mom, a father with plenty of paid leaves, counselling/treatment for special difficulties (every kid seems to have some)
 
 -- Most (50%+) students (adults too) are inefficient on multiple fronts
 * too many gaming hours
