@@ -1,4 +1,7 @@
--- update 300k
+-- update bpost on decentralized https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=23680&action=edit
+Eth TheMerge in Sep 2022 .. was centrally controlled, by a small number of code committers.
+
+-- update 300k LIR
 Re my carefully designed LIR-arb, Pre-mature FD may erode the positive side, and insidiously tip the balance.
 
 But at a high level, I think pre-mature FD-churning is profitable. 
