@@ -1,7 +1,7 @@
 -- update some bpost on car ownership
 Trigger: Singapore public education promotes public transport, walk, cycle, rather than car ownership.
 
-The wellness factor (including mental) and eco factor are background heat.
+The wellness factor (including mental) and eco factor are background heat (a self-invented term with no loaded meanings).
 
 Some frequent drivers (7+ trips/wk) may not show any health issues. If you are one of them, you may not care about the backgroune heat.
 
