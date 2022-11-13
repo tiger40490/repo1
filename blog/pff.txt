@@ -1,3 +1,12 @@
+-- update some bpost on car ownership
+Trigger: Singapore public education promotes public transport, walk, cycle, rather than car ownership.
+
+The wellness factor (including mental) and eco factor are background heat.
+
+Some frequent drivers (7+ trips/wk) may not show any health issues. If you are one of them, you may not care about the backgroune heat.
+
+In the long term (decades, not months), these factors tend to grow heavier, less negligible, and accmulate a positive/negative impact on our life chances and well-being.
+
 -- update bpost on decentralized https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=23680&action=edit
 Eth TheMerge in Sep 2022 .. was centrally controlled, by a small number of code committers.
 
