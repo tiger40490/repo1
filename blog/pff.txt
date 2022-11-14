@@ -1,14 +1,15 @@
--- update some bpost on car ownership
-Trigger: Singapore public education promotes public transport, walk, cycle, rather than car ownership.
+-- update (which?) bpost on car ownership
+Trigger: Singapore consumer education promotes public transport, walk, cycle, rather than private cars.
 
-The wellness factor (including mental) and eco factor are background heat (a home-grown term with not laden with meanings).
+The wellness factor (including mental) and eco factor are background heat (a home-grown term not laden with meanings).
 
-Some frequent drivers (7+ trips/wk) may not show any health issues. If you are one of them, you may not care about the backgroune heat.
+Some frequent drivers (7+ trips/wk) may pass all health screenings. If you are one of them, you may not care about the backgroune heat. 
+You may feel your "system" copes with the background heat.
 
-In the long term (decades, not months), these factors tend to grow heavier, less negligible, and accmulate a positive/negative impact on our life chances and well-being.
+Over decades, these factors tend to grow /heavier/, less negligible, and accmulate an enduring (positive/negative) effect on a person's life chances and well-being.
 
 -- update bpost on decentralized https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=23680&action=edit
-Eth TheMerge in Sep 2022 .. was centrally controlled, by a small number of code committers.
+Eth TheMerge in Sep 2022 .. was centrally coordinated, by a small number of code committers.
 
 -- update 300k LIR
 Re my carefully designed LIR-arb, Pre-mature FD may erode the positive side, and insidiously tip the balance.

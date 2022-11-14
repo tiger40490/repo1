@@ -1,15 +1,17 @@
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
-Experience shows that our estimate of the downside is usually an underestimate. Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. They would prefer cash or safe asset classes like soverign bonds.
+Experience shows that our estimate of the downside is usually an underestimate. 
+Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. 
+They would prefer cash or safe asset classes like soverign bonds.
 
-They suspect that, in general, high-risk-high-return assets may turn out to be high-risk without a real alpha [i.e. significant likelihood of excess return].
+They suspect that, in general, high-risk-high-return assets may turn out to be high-risk without a real alpha [i.e. without significant likelihood of excess return].
 
 I see long-term strength only in U.S. market. I consider all other markets highly unstable, but I am probably simplistic.
 
-Q: Pick a random 10Y window some time into the near future (your lifetime). What is your estimated probability that SP500 (or another stock market) would show a positive return?  
+Q: Pick a random 10Y window some time into the near future (within your lifetime). What is your estimated probability that SP500 (or another stock market) would show a positive return?  
 
-The skeptics would probably say slighly above 50%. Some would say that a fairly priced SP500 could, in theory, shoot up 100 times (above fair value) over a year before the window. Then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
+The skeptics would probably say slighly above 50%. Some would say that a fairly priced SP500 could, in theory, shoot up 100 times (above fair value) over a year before the window, and then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
 
-( In contrast, Beijing rEstate valuataion is possibly 10 times above fair value, and could collapse any time. )
+( In contrast, Beijing rEstate valuataion is possibly 5 times above fair value, and could collapse any time. )
 
 How about insurers? I think they invest some 10-20% in eq, the rest in bonds. Appreciation in their portfolio tends to be durable.
 
@@ -17,9 +19,9 @@ How about CPF (and pension funds)? For decades they have relied on eq to provide
 
 Temasek's 400b is invested mostly in equities, with 62% allocation to Asia. Apparently, there is long-term strength in Asia equities, but I think this is misleading, because the retail investor would lack the resources of a gigantic fund, and unable to limit numerous losses that add up.
 
-Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, we are one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
+Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, MLP is one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
 
-Now I feel Nsdq or many U.S. indices is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
+Now I feel Nsdq (or another U.S. index) is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
 
 --update which bpost?
 or new : DCA assumes long-term strength of US stocks
