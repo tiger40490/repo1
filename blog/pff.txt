@@ -1,4 +1,5 @@
--- update ...
+-- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=16369&action=edit
+
 https://www.channelnewsasia.com/commentary/crypto-ftx-sbf-bankrupt-crash-binance-3068201 says
 The value in crypto was supposed to be that it offered a hedge to the dollar or more conventional parts of the market. Or that it would hold up in value if everything else fell. But an asset that offers that kind of hedge is rare; most assets are somewhat correlated, especially when the market drops. Rareness normally means an expensive asset that offers a lower return. You pay a big price for that kind of safety and it’s hard to find.
 The fact that crypto offered such high returns indicated it was never a good hedge.
