@@ -1,3 +1,10 @@
+--new reputation of Singapore public/private colleges.
+https://en.wikipedia.org/wiki/List_of_universities_in_Singapore lists 6 "official" universities + dozens of private degree programs. The latter are joint ventures with foreign universities, such that the degree is conferred by the foreign university.
+
+What's the #1 yardstick of these universities? I would say reputation. Reputation is measured in many ways. Many of them are related to quality, but it's quite possible UniA has better quality than UniB but lower reputation. 
+
+Long history and large student intake help name recognition. Even lots of non-positive associations help name recognition. A college with such a name recognition must be reasonably good to survive 100 years.
+
 -- update college ranking
 NTU engineering may be better quality in edu, and more research output than NUS engineering, but in terms of reputation, recognition, a longer history does matter.
 
