@@ -1,3 +1,6 @@
+-- update or new:
+future blood tests: include FBC and blood sugar check
+
 --new: control over BMI ... or update post on passive acceptance
 
 Rahul was very determined and in-control, but he might be slightly overweight.
