@@ -1,9 +1,14 @@
 -- update ...
-According to a government survey, in megacities like Beijing, Shanghai and Shenzhen, the housing-price-to-income ratio was above 35 – meaning that the price of an average house is equivalent to roughly 35 years of the average household income.
+According to a government survey, in megacities like Beijing, Shanghai and Shenzhen, the housing-price-to-income ratio was above 35 – meaning that the price of an average house is equivalent to roughly 35 years of the average Household income.
+Household size can be 1 or more.
 
--- write a summary email to Darren Ho
+-- fuxi:
+With my increased base salary (bonus is different story), how should we adjust our spending, savings etc?
+* sugg: increase wealth accu for wife. cpfVcon is probably most strict
+* sugg: resist splurge and creep. In fact, I want to reduce our burn rate.
+* sugg: rebuild my cash reserve 
 
--- update: AXA prime care is an effective solution to the "coinsurance issue" of my shielf plans
+-- update: AXA prime care is an effective solution to the "coinsurance issue" of my shield plans
 Consider this plan for the kids.
 
 -- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=16369&action=edit
