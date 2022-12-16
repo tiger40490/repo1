@@ -3,8 +3,8 @@ According to a government survey, in megacities like Beijing, Shanghai and Shenz
 Household size can be 1 or more.
 
 -- fuxi:
-With my increased base salary (bonus is different story), how should we adjust our spending, savings etc?
-* sugg: increase wealth accu for wife. cpfVcon is probably most strict
+With my increased Base salary (bonus is different story), how should we adjust our spending, savings etc?
+* sugg: increase wealth accu for wife. cpfVcon is probably the most restrictive
 * sugg: resist splurge and creep. In fact, I want to reduce our burn rate.
 * sugg: rebuild my cash reserve 
 
