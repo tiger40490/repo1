@@ -1,9 +1,0 @@
-For quantity violation, I have looke through my pre-clearance during Jul 2021 ~ Nov 2022. All the small-quantity approvals were observed, without breach. As to the other approvals, the quantity was always sufficiently large.
-
-SONY approved 27 Apr 2022 (TransactionId 486718), bought 0.2 share 3 May, but 2 May is a Singapore public holiday.
-
-==== 3D-check:
-clean: MFA approved 8 Jul 2021, bought 13 Jul
-clean: AFIN (ticker changed to RTL) approved 31 Jan
-clean: NFG approved 6 Feb 2022, bought 7 Feb
-
