@@ -1,18 +1,3 @@
--- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=39117&action=edit
-Q: should I see the bonus handout as luck or "earned"? 
-A: Neither. 
-
-If I change my "self-script" [self-explanation, self-talk, self-description,,,] I could slowly change my P@R (perception of reality). Let's take TheRedPill, remove all the distortions we can, and see through the cold reality. 
-Intuitively, I don't see this bonus as "earned". If you call it "Luck" then this luck is not random, not "earned" with hardwork, but more as karma (果). My karma includes things like honesty, generosity, attention to details/documentation, kindness to "some" individuals, self-motivation about work and xx. It also shows when I Feel and talk abot "priviledged to work in this team."
-
-A: many would attribute it to MLP or EPA team, or to my managers. These could be the most visible reasons, but I think this view might be superficial. 
-
-A: it's probably harmful to see it as entitled or earned, because it and the base salary are a privilege that can be taken away due to compliance or other reasons. Some may call it impermanance. Remember [[who moved my cheese]]
-
-Q: should I attribute my high salary to my lifelong learning habit?
-A: yes with my kids or any young people. I can find many objective, measurable facts and figures.
-A: with peers outside finIT, I don't think so. Some may not be convinced anyway. My lifelong learning is evident, but the "causality" is not.
-
 -- update
 fresh SWE grads
 SMEs pay 3.2k
