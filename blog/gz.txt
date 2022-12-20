@@ -1,17 +1,17 @@
 -- le2 genn
 In my view, the main threats to my job are 1) Compliance 2) quality 
 
-You probably agree that project completion speed is not an issue in itself, but you felt idleness can be recorded and used against me when layoff pressure builds up. A boss would protect those subordinates doing a good enough job and not making trouble. Being idle half the time is not always embarrassing. Many people in many teams are also idle for days and weeks. 
+You probably agree that project completion speed is not a "threat" in itself, but you felt idleness can be recorded and used against me when layoff pressure builds up. Well, a boss would protect those subordinates doing a good enough job and not making trouble. Being idle half the time is not always embarrassing. Many people in many teams are also idle for days and weeks. 
 
-Some time ago, I did ask a colleague (and close friend) "Who are on the so-called good list? Who are on the not-so-good list and therefore at risk in a downturn?" He felt I was not at risk. For job security, I believe the best indicators are 1) year-end numbers 2) continuous feedback. These two vital signs are both stable/strong for the past 2 years, so I don't worry about job security.
+Some time ago, I did ask a colleague (and close friend) "Who are on the so-called good list? Who are on the not-so-good list (at risk in a downturn)?" He felt I was not at risk. Not sure what signs he saw. For job security risks, I believe the best indicators are 1) year-end numbers 2) continuous feedback messages. These two vital signs are both stable/strong for the past 2 years, so I don't worry about job security.
 
-Some can receive a big raise then get laid off, but I think it's rare.
+Some can receive a big raise then get laid off (earning the increased salary temporarily), but I think it's rare.
 
 It's hard to quantify idleness vs busy-ness
-* some workers are efficient and need only 10% of the budgeted time to finish a project. That's not an issue in itself.  This person should not affect colleagues' productivity.
-* chitchat .. hours of (non-work) chitchat in office can be part of "relationship building"... Is that idleness?
-* quality .. not captured in any "quantifying" system, but quality is arguably more important (to users, to the company) than idleness/busy-ness. Some top firms are said to give engineers light workload so they can focus on producing quality products. In contrast, China tech firms practice 996 -- the opposite of idleness
-* wasted work .. not captured in any "quantifying" system. In many investment banks I served, a lot of engineer man-days are spent building products that nobody uses in the end. These engineers are not idle but not creating value. Same for the 996 shops.
+* efficient workers .. some workers need only half the budgeted time to finish a project. That's not a problem in itself. She should not affect colleagues' productivity, though.
+* chitchat .. hours of chitchat in office can be part of "relationship building"... Is that idleness?
+* quality .. not captured in any "quantifying" system, but quality is arguably more important (to users, to the company) than idleness/busy-ness. Some top employers are reported to give engineers light workload so they can focus on producing quality products. In contrast, China firms practice 996 -- the opposite of idleness
+* wasted work .. not captured in any "quantifying" system. In many investment banks I served, a lot of engineer man-days are spent building products that nobody uses in the end. These engineers are not idle. Same for the 996 shops.
 * multiple websites on browsers .. any quantifying system would see plenty of users having 20+ sites open on browsers. Some sites are work-related. No one knows how much time is spent on each site. 
 * offline working .. not captured, including verbal, whiteboard or print media.
 * working from home .. many people multi-task between work and parenting/chores etc. Hard to quantify number of work hours. 
