@@ -1,53 +1,3 @@
--- update creep https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=24337&action=edit
-~toilet blue flush
-I used to think this is unnecessary lifestyle creep. Now I think it can 
-* reduce water consuption because wife (and I) will not "flush again" when the blue conceals the light-yellow. Half flush never worked with my wife.
-* reduce conflict with my wife
-
--- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
-Experience shows that our estimate of the downside is usually an underestimate. 
-Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. 
-They would prefer cash or safe asset classes like soverign bonds.
-
-They suspect that, in general, high-risk-high-return assets may turn out to be high-risk without a real alpha [i.e. without significant likelihood of excess return].
-
-I see long-term strength only in U.S. market. I consider all other markets highly unstable, but I am probably simplistic.
-
-Q: Pick a random 10Y window some time into the near future (within your lifetime). What is your estimated probability that SP500 (or another stock market) would show a positive return?  
-
-The skeptics would probably say slighly above 50%. Some would say that a fairly priced SP500 could, in theory, shoot up 100 times (above fair value) over a year before the window, and then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
-
-( In contrast, Beijing rEstate valuataion is possibly 5 times above fair value, and could collapse any time. )
-
-How about insurers? I think they invest some 10-20% in eq, the rest in bonds. Appreciation in their portfolio tends to be durable.
-
-How about CPF (and pension funds)? For decades they have relied on eq to provide the required return. They (esp. CPF) have been fairly reliable, despite many swan events.
-
-Temasek's 400b is invested mostly in equities, with 62% allocation to Asia. Apparently, there is long-term strength in Asia equities, but I think this is misleading, because the retail investor would lack the resources of a gigantic fund, and unable to limit numerous losses that add up.
-
-Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, MLP is one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
-
-Now I feel Nsdq (or another U.S. index) is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
-
---update which bpost?
-or new : DCA assumes long-term strength of US stocks
-This strength is evident only in US stocks, and not in Nsdq. 
-DCA in Singapore stocks ... questionable.
-Without this strength, your DCA could underperform "holding cash forever"
-
-The "long term" should match your xjlCrunch. In many geographical equity markets, the long-term "strength" can require 30Y of patient wait.
-
---update which bpost?
-Y avoid branded colleges
-If a branded top-quality middle school costs $20k/Y over 2Y, then many would be able to afford it, but could the brand give the parents esteem for decades?
-
-A branded college does make the parents proud for decades, and makes the graduate stand out in over-crowded dating markets, but look at the price tag. If the 70k/Y price tag is clearly /affordable/ to you, then you won't need to be a "wise consumer". For most families, however, 300k over 4Y is too high, so these families need to assess the benefit/cost.
-
-Those with insider info often realize the benefit is not so high.
-
--- update
-Some ETFs pays dividend from capital gain, just like mufu !
-
 -- LG2 update which one? bpost on speed coding or NBA?
 Street dance ^ eGaming ^ speed coding
 Street dance skill can't make money for you.
@@ -58,6 +8,38 @@ basketball talent .. Top 0.1% can make money
 
 Speed coding is very different. Many companies are interested to hire you.
 
+-- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
+Experience shows that our estimate of the downside is usually an underestimate. 
+Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. 
+They would prefer cash or safe asset classes like soverign bonds.
+
+They suspect that, in general, high-risk-high-return assets may turn out to be high-risk without a real alpha [i.e. without significant likelihood of excess return].
+
+I see long-term strength only in U.S. equity. I consider all other markets highly unstable, but that is probably simplistic and over-generalized.
+
+Q: Pick a random 10Y window some time into the near future (within your lifetime). What is your estimated probability that SP500 (or another stock market) would show a positive return?
+
+The skeptics would probably say slighly above 50%. Some would say that a fairly priced SP500 could, in theory, shoot up 100 times (above fair value) over a year shortly before that window, and then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
+
+( In contrast, Beijing rEstate valuataion is possibly 5 times above fair value, and could collapse any time. )
+
+How about insurers? I think they invest some 10-20% in eq, the rest in bonds. Appreciation in their portfolio tends to be durable.
+
+How about CPF (and pension funds)? For decades they have relied on eq to provide the required return. They have been fairly reliable, despite many swan events.
+
+Temasek's 400b is invested mostly in equities, with 62% allocation to Asia. Apparently, there is long-term strength in Asia equities, but I think this is misleading, because the retail investor would lack the resources of a gigantic fund, and unable to limit numerous losses that add up.
+
+Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, MLP is one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
+
+Now I feel Nsdq (or another U.S. index) is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
+
+--update wise consumer
+Y avoid branded colleges
+If a branded top-quality middle school costs $20k/Y over 2Y, then many would be able to afford it, but could the brand give the parents esteem for decades?
+
+A branded college does make the parents proud for decades, and makes the graduate stand out in over-crowded dating markets, but look at the price tag. If the 70k/Y price tag is clearly /affordable/ to you, then you won't need to be a "wise consumer". For most families, however, 300k over 4Y is too high, so these families need to assess the benefit/cost.
+
+Those with insider info often realize the benefit is not so high.
 
 -- update... https://btv-open.dreamhosters.com/10950/bmi-flexible-cre-strength/?
 After the meet-up with YY.T, I realized fitness is not a priority to me.
@@ -68,15 +50,7 @@ intimacy
 good sleep and appetite
 BMI .. seems to be a key indicator/predictor of many of the above.
 
--- update bpost on commute (which one?)
-Need to balance 2 priorities (3 would be max)
-logistical efficiency .. printed material (without need4writing) is far more efficient than git-blogg esp. for short trips or with transfers
-productivity zsms .. laptop with coding or tech QQ, or tech books 
-
-When is best time for git-blogg? Looks like an unwanted child. Commute is a good choice, even if not the very best.
-When is best time for my growing recreational books? In office and home
-
--- slow-cooking new: MOETF crash nearest to a xjl crunch
+-- new: MOETF crash nearest to a xjl crunch
 t_longTermBnH
 Nearest to a time of xjl crunch, MOETF could hit a crash.
 
@@ -131,6 +105,12 @@ What I'm unsure is the salary hike if I jump. (My EPA job would be worth sgd 160
 I told grandpa that my successE [carefree ezlife + harmony, based on wellness and comfortable livelihood] is rare among my cohort, not because I'm wealthier than them, but because I don't focus on the wrong goals.
 
 The nightmare scenario is much more severe, harsh, harmful than CB2022.
+
+-- update creep https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=24337&action=edit
+~toilet blue flush
+I used to think this is unnecessary lifestyle creep. Now I think it can 
+* reduce water consuption because wife (and I) will not "flush again" when the blue conceals the light-yellow. Half flush never worked with my wife.
+* reduce conflict with my wife
 
 -- slowcooking new: career insecurity: 2017 watershed #marathon
 t_vague

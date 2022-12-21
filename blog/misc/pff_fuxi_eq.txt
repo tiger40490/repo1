@@ -1,3 +1,10 @@
+--fuxi: DCA assumes long-term strength of US stocks
+This strength is evident only in US stocks, and not in Nsdq. 
+DCA in Singapore stocks ... questionable.
+Without this strength, your DCA could underperform "holding cash forever"
+
+The "long term" should match your xjlCrunch. In many geographical equity markets, the long-term "strength" can require 30Y of patient wait.
+
 -- fuxi
 buy-n-forget is not so easy with the bond mufu. The expRatio (1%?) erodes the low return. 
 I may need to babysit my positions !
