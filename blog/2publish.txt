@@ -1,17 +1,4 @@
-
--- update dean's list bpost
-We all have limited laser energy, unable to examine every concept. The NUS dean's list concept is poorly (never critcially) examined and allowed to roam free, and often dominate my self-assessment of JLCJ (jiang1lang2cai2jin4)
-
-The 1stClassHonors concept is also poorly examined, and served to reinforce the same self-assessment.
-
-However, I tend to dismiss or forget my book prize, my UChicago GPA, my 2Y EDB full scholarship, my academic achievements before and after NUS. 
-
-A DeansList (Kar Peo?) recipient may also suffer a JLCJ inferiority. He may point out that he only won twice, out of luck. He may lament about his current income, or his interview performance, 
-
--- new untitled or update https://btv-open.dreamhosters.com/45972/yonly-whitenative-speakers-sound-sophisticated/
-Consider a male China-born immigration lawyer , or architect, SWE, (various) designer,,,, whoc came to the U.S. at age 25. He can be competent/effective/proficient in English professionally [in office, with clients, in meetings, over phone]. However, a less-educated local American would be more fluent orally. 
-
--- update ...
+-- update which bpost
 According to a government survey, in megacities like Beijing, Shanghai and Shenzhen, the housing-price-to-income ratio was above 35 – meaning that the price of an average house is equivalent to roughly 35 years of the average Household income.
 Household size can be 1 or more.
 
@@ -24,31 +11,6 @@ Piano is similar but .... can teach... There's a good demand.
 basketball talent .. Top 0.1% can make money
 
 Speed coding is very different. Many companies are interested to hire you.
-
--- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=1786&action=edit (durability@升值[ asset appreciation])
-Experience shows that our estimate of the downside is usually an underestimate. 
-Therefore, some risk-averse investors dare not or refuse to trust the conventional wisdom about long-term strength of equity asset class. 
-They would prefer cash or safe asset classes like soverign bonds.
-
-They suspect that, in general, high-risk-high-return assets may turn out to be high-risk without a real alpha [i.e. without significant likelihood of excess return].
-
-I see long-term strength only in U.S. equity. I consider all other markets highly unstable, but that is probably simplistic and over-generalized.
-
-Q: Pick a random 10Y window some time into the near future (within your lifetime). What is your estimated probability that SP500 (or another stock market) would show a positive return?
-
-The skeptics would probably say slighly above 50%. Some would say that a fairly priced SP500 could, in theory, shoot up 100 times (above fair value) over a year shortly before that window, and then it would be precarious and could collapse any time. However, such a scenario is unlikely because SP500 is hard to manipulate. The buyers would put themselves at grave risk by bidding up the price.
-
-( In contrast, Beijing rEstate valuataion is possibly 5 times above fair value, and could collapse any time. )
-
-How about insurers? I think they invest some 10-20% in eq, the rest in bonds. Appreciation in their portfolio tends to be durable.
-
-How about CPF (and pension funds)? For decades they have relied on eq to provide the required return. They have been fairly reliable, despite many swan events.
-
-Temasek's 400b is invested mostly in equities, with 62% allocation to Asia. Apparently, there is long-term strength in Asia equities, but I think this is misleading, because the retail investor would lack the resources of a gigantic fund, and unable to limit numerous losses that add up.
-
-Some would predict an eq hedge fund could hit "positive returns for a few years, then give all up in one bad year". Well, MLP is one of the biggest hedge funds and we count some pension funds and insurers as investors. We are mostly equities but rather stable over the last 3 decades.
-
-Now I feel Nsdq (or another U.S. index) is susceptible to "fast_window" of 500% appreciation. That would precede a very long trough.
 
 --update wise consumer
 Y avoid branded colleges
@@ -67,20 +29,6 @@ intimacy
 good sleep and appetite
 BMI .. seems to be a key indicator/predictor of many of the above.
 
--- new: MOETF crash nearest to a xjl crunch
-t_longTermBnH
-Nearest to a time of xjl crunch, MOETF could hit a crash.
-
-I think this is one of top 3 reasons why most people hesitate about long-term commitment to the (risky) stock market.
-
-.. During the years around age 30 (perhaps 25-35), most of us need liquidity for our xjl crunch, 
-During this period, we tend to sell equity whenever we want to cut losses. 
-This cohort lack patience, stamina or holding power. 
-When these investors see a large (realized or unrelized) equity loss, they tend to regret investing such a large amount in such a risky asset. 
-Therefore, it's a challenge for this age group to buy-n-hold.
-
-.. In our sunset years, we worry that we may not have the Sys2 resources to monitor MOETF. 
-The start of sunset years varies. Some may experience that difficulty when they start to withdraw from retirement account, so they experience a xjl crunch. They find it difficulty to liquidate stocks to support retirement expenses.
 
 -- update which bpost on inflation? https://tanbinvest.dreamhosters.com/1551/2022era-of-peak-cpi-inflation/ ?
 in Aug 2022, UK energy bill per household was projected to hit SGD 500/M, representing 11% of the median disposable income per household.
