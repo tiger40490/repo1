@@ -1,13 +1,3 @@
--- new: bank fall-below fees
-citi: $15/M is much lower than $50/M ($15k*4%/12) Better move it to EGA after Dec
-Alternatively, put 11k USD into 1M TD at citi. Will count towards 15k TRB.
-
-BOC $2/M is lower than $7/M ($2k*4%/12) Better move it to EGA after Dec
-
--- update ...
-According to a government survey, in megacities like Beijing, Shanghai and Shenzhen, the housing-price-to-income ratio was above 35 – meaning that the price of an average house is equivalent to roughly 35 years of the average Household income.
-Household size can be 1 or more.
-
 -- fuxi:
 With my increased Base salary (bonus is different story), how should we adjust our spending, savings etc?
 * sugg: increase wealth accu for wife. cpfVcon is probably the most restrictive
