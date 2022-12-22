@@ -1,3 +1,5 @@
+-- consider parking 4k of boy's balance in citi account... renamed as "TYX main acct"
+
 -- new: bank fall-below fees
 citi: $15/M is much lower than $50/M ($15k*4%/12) Better move it to EGA after Dec
 Alternatively, put 11k USD into 1M TD at citi. Will count towards 15k TRB.
