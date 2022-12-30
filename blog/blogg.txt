@@ -1,3 +1,5 @@
+-- remove "blog" alias
+
 -- update category ^ tag
 category tree.
 
