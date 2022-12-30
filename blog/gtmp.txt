@@ -1,3 +1,19 @@
+-- new: L399
+j4: Christmas gift to boy upgrading from Aspire to A950. 
+( At the same time, I will downgrade from A950 to this one in cockpit1.)
+
+1Y MSOffice subscription, to be activated by sign-in to microsoft account. I will activate it many years later.
+
+setup steps:
+* set up msedge
+* set up land grab to pre-empt winUp
+* set up tree size free USB
+* set up winword USB
+* set up git + notepad++
+* set up taskbar tweaker
+* bring to Raj to have MSOffice installed
+
+
 -- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=564&action=edit or "sad story"
 SG was behind HK in the talent race, as HK draws talents from China + the west.
 Now SG is becoming more attractive than HK for many nationalities:
