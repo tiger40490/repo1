@@ -1,15 +1,3 @@
---  update bpost on FBF
-.. bonus interest programs
-prefer: no credit card spend .. Need to ensure prompt payment. Need to monitor and hit minimum spend. Complicates exp recon as shown in eccard xp.
-prefer: no GIRO change
-prefer: no tiered interest rate .. burdensome to monitor
-prefer: no "bonus int cap".. Beyond 100k, marginal interest is nearly zero. Burdensome to monitor
-prefer: no FBF
-LG: salary crediting
-LG: liquidity. withdrawals seldom needed
-
-After EGA promotion, I think BOC FD would be a simple choice. Interest calc is transparent.
-
 -- update bpost on Resimax.. 
 any rEstate investment in any country (even in SG) would disrrupt my current ezlife. That's a downside to balance the upside of ..
 
