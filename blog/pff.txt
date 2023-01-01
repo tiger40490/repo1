@@ -1,11 +1,14 @@
--- new: bonus interest programs or update bpost on FBF
-prefer: no credit card spend .. Need to ensure prompt payment. Also complicates exp recon
+--  update bpost on FBF
+.. bonus interest programs
+prefer: no credit card spend .. Need to ensure prompt payment. Need to monitor and hit minimum spend. Complicates exp recon as shown in eccard xp.
 prefer: no GIRO change
 prefer: no tiered interest rate .. burdensome to monitor
 prefer: no "bonus int cap".. Beyond 100k, marginal interest is nearly zero. Burdensome to monitor
 prefer: no FBF
+LG: salary crediting
+LG: liquidity. withdrawals seldom needed
 
-I think UOB ONE might be a simple choice
+After EGA promotion, I think BOC FD would be a simple choice. Interest calc is transparent.
 
 -- update bpost on Resimax.. 
 any rEstate investment in any country (even in SG) would disrrupt my current ezlife. That's a downside to balance the upside of ..
@@ -17,13 +20,8 @@ With my increased Base salary (bonus is different story), how should we adjust o
 * sugg: increase wealth accu for wife. cpfVcon is probably the most restrictive
 * sugg: rebuild my cash reserve 
 
--- update: AXA prime care is an effective solution to the "coinsurance issue" of my shield plans
-Consider this plan for the kids.
-
-forward my SockLing mail to Darren
-
 -- fuxi
-Related to "return", another major tcost and stressor is keeping track of "stuff bought and disused long ago".
+Related to "merchandize return", another major tcost and stressor is keeping track of "stuff bought and disused long ago".
 
 When I lose such an item (perhaps at home or discarded), and have to buy again, I feel an acute self-hate.
 
@@ -66,10 +64,6 @@ Exhaust provision is a key feature for FnB units, more important than waterpoint
 
 -- Steven's 3 points for SgCP buying: 1) tenanted 2) tenant profile 3) NRY
 If agent says a vacant (office, industrial, shop...) unit can be rented out as xxxx or yyyy, then ask the agent to rent out first before you evaluate the unit. 
-
--- fuxi my recent investment track record is not so prudent
-* HY/PE
-* Saxo FXO
 
 -- Reit ETFs?
 diversify to other countries? Most of my Reits are US. One is SG. No other countries.
