@@ -1,20 +1,3 @@
--- new: L399
-j4: Christmas gift to boy upgrading from Aspire to A950. 
-( At the same time, I will downgrade from A950 to this one in cockpit1.)
-
-1Y MSOffice subscription to be activated by sign-in to microsoft account. I will activate it many years later.
-
-setup steps:
-* clean up desktop + mswe
-* set up wifi
-* customize msedge + blog 
-* set up tree size free USB
-* set up contig + land grab to pre-empt winUp, but no need to delete stuff
-* set up winword USB
-* set up git + notepad++
-* set up taskbar tweaker
-* bring to Raj Computer to have MSOffice installed
-
 -- update ..
 bring to future hotels: small plastic (light) hooks to hang on wardrobe rails
 
