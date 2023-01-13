@@ -1,3 +1,11 @@
+-- new: old notions challenged by EPA xp
+.. I tend to decline in Year2
+.. I "never" receive a raise
+.. I tend to impress and "oversell" at interviews and struggle to deliver after the sale
+.. I tend to struggle with brown field large codebases
+.. at any fast-paced firms, I need to work at unsustainable intensity just to keep my head above water 
+.. I tend to lose engagement and motivation after a year or so
+
 -- update bpost on workload
 worker's skill and efficiency is a big unknown factor. The longer you stay, the more efficient you get, but expectation on you also rises.
 
