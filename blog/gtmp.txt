@@ -1,6 +1,3 @@
--- update bpost on L399
-Given the FHR (fwd hazard rate), perhaps I should use it more often ?
-
 -- update ..
 bring to future hotels: small plastic (light) hooks to hang on wardrobe rails
 
@@ -15,10 +12,11 @@ The new universities and private universities struggle to establish credibility/
 
 Long history and large student intake help name recognition. Even non-positive associations can help build name recognition. A college with such a name recognition must be reasonably good to survive 100 years.
 
--- update college ranking
+-- update college ranking or https://btv-open.dreamhosters.com/wp-admin/post.php?post=22886&action=edit
+
 NTU engineering may be better quality in edu, and more research output than NUS engineering, but in terms of reputation, recognition, a longer history does matter.
 
-Same for STDU engineering
+Same for STDU engineering. When I meet a SUTD grad vs NTU grad from the same major, how do I perceive their talent/capabilities?
 
 HK, UK and other gov have special immigration schemes for "top 100 unversity grads". The officials in charge would reference published rankings but still control their own G100.
 If your college wants to be included, then you need to be well-connected to the global network of academia.
