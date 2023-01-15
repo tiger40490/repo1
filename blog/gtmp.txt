@@ -1,3 +1,6 @@
+-- update bpost on L399
+Given the FHR (fwd hazard rate), perhaps I should use it more often ?
+
 -- update ..
 bring to future hotels: small plastic (light) hooks to hang on wardrobe rails
 
