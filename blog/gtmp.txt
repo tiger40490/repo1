@@ -6,6 +6,7 @@ Note Device manager is more low-level than Printers-n-scanners-page. It is able 
 
 Insufficient diskspace can mess up the installation in some strange way.
 
+I prefer test-printing a single dot (notepad file). More ink-saving than a printer test page.
 -- update bpost on 5/wk
 Q: Regarding my active-day defninitions, how long (years) will they stay relevant?
 A: I choose to be optmistic and believe in myself, so 5Y at least.
