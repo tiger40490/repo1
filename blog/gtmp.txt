@@ -1,4 +1,4 @@
--- new or update .. Printer driver install
+-- new Printer driver install
 After driver installation, sooner or later, we need an initial connection between the hardware. This is a frequent point of failure.
 
 If cable is loose or printer is power-off, then you can check using device-manager -- unplugging/turning-off will remove an item immediately from device-manager; plugging/turning-on will add an item immediately to device-manager. Windows may also beep :) These are good signs. If you don't see any of these signs, then driver is broken or windows is broken.
@@ -14,12 +14,11 @@ Q: Regarding my active-day defninitions, how long (years) will they stay relevan
 A: I choose to be optmistic and believe in myself, so 5Y at least.
 
 I want to rationalize and refine my definitions.
-
 Two ways to measure aggregate amount of daily workout -- 1) physical 2) effort
 
-Effort means self-regulation, fighting the (natural) tendency to quit. Classes always help easy self-regulation.
+Effort means self-regulation, combatting the (natural) tendency to quit. Classes always help easy self-regulation.
 
-Physical measure ignores self-regulation or any mental exertion. It is based on measurable output by the muscle, cardio, perspiration, heartbeat, 
+Physical measure ignores self-regulation or any mental exertion. It is based on measurable output by muscles, cardio, perspiration, heartbeat, 
 
 eg: Hatha or yin Yoga is low physical
 eg: Adding up (vertically) stairs/day .. is high physical, low effort, but continuous climbing is higher effort.
