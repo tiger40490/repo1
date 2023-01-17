@@ -1,6 +1,3 @@
--- update L399
-bypass PIN login
-
 -- fuxi:
 MSff cracked version can only last a few months. After that, it would be pending-activation. Need to bring it to Simlim to re-activate.
 
