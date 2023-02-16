@@ -1,3 +1,12 @@
+-- new: google calendar/gmail as logbook
+Background: I have a well-tested and reasonably reliable habit of using google calendar for reminders , often containing valuable details.
+
+Q: is it safe to rely on google calendarfor permanent/immutable logbook, similar to how I used gmail?
+
+A: it's not strictly immutable, without version control.... but still a useful system to meet the basic needs.
+
+Gmail is less "mutable" :), can save more details :) Good complement to google calendar
+
 -- new: Canon Pixma printer cartridge replace
 :) no computer required, but stayed powered
 
