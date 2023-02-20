@@ -1,28 +1,16 @@
--- update melvin3:
-car cost takes on a new dimension on a cashflow low ground like 
+-- new: car cost after bubble burst
+car cost takes on a new dimension on a cashflow low ground, or when the bubble bursts.
 * when a family member is in long-term care
 * when we are jobless
-* when in bad weather 
-* when we are physically challenged due to eyesight or disability
+* when in bad weather .. emergency repairs costs more
+* when we are physically challenged due to eyesight or disability. We might need taxi.
+
+Much better if we live in a well-connected location with public transport.
 -- update https://tanbinvest.dreamhosters.com/13021/sizeretirement-income-from-assets-u-s-data/
 XianHua said a U.S. retiree in his case 
 * receives $1400/M from SSA
 * pays about $1500 pTax if owning a home
 * pays about $1000 health insurance, much needed in old age
-
--- update https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=25366&action=edit
-S27 position tracking
-
-Q: how do I know my average purchase price of S27?
-A: perhaps I don't need to care
-
--- update bpost on Resimax.. 
-any rEstate investment in any country (even in SG) would disrrupt my current ezlife. That's a downside to balance the upside of ..
-
-GEX knows the developer and can help reduce Megaworld type of problem.
-
--- update mb.khm
-USD FD pre-mature uplift: zero interest, but "You will not lose any principal here in maybank Cambodia, Mr. Tan."
 
 -- fuxi:
 With my increased Base salary (bonus is different story), how should we adjust our spending, savings etc?
@@ -44,41 +32,3 @@ sugg: keep $50 notes in several places like office, cockpit1, cockpit4
 
 -- update xxx
 It's hard to find property in SG below market value, but some sReits trade below NAV.
-
--- Steven's checklist for SgCP (buying): 
-1. understand your risk level
-2. budget
-3. understandd your "purpose" .. like income or windfall
-4. holding period
-5. location .. comes after those 4 introspections
-6. exit plan
-
-Given the large quantum, I think a single SgCP investment can affect your entire family over decades or over generations. Therefore, it require lots of introspection and soul-searching.
-
-If it still feels uncomfortable, then the quantum is too large for you, or the uncertainty is too high for you.
-
--- freehold units are more costly, therefore lower yield.
-
--- new: Sg strata mall units
-windfall appr is hard for strata units. In other words, expensive. 
-
-Also hard to fill. Brand new strata mall ... don't buy.
-
-Reit is "totally different" from physical SgCP
-
--- FnB unit psf rent (not GRY) is higher than shops.
-If unprofitable, FnB tenants tend to find takeover tenants, while shop tenants tend to give up the lease. Even a long-term lease may not provide much protection. 3Y is usually the max.
-
-Exhaust provision is a key feature for FnB units, more important than waterpoint.
-
--- Steven's 3 points for SgCP buying: 1) tenanted 2) tenant profile 3) NRY
-If agent says a vacant (office, industrial, shop...) unit can be rented out as xxxx or yyyy, then ask the agent to rent out first before you evaluate the unit. 
-
--- Reit ETFs?
-diversify to other countries? Most of my Reits are US. One is SG. No other countries.
-
-I can buy a few shares of Reit ETF (actually any SGX ETF) to try.
-
-pre-clearance ? some of these have > 25 holdings.
-
-SGX reit etf has high expRatio than US reit ETF! Need to find out the US numbers.
