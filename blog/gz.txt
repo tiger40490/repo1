@@ -1,20 +1,13 @@
 -- new: bonus can be addictive
 One of the common features of addictiion is "growing dosage"
 
--- new: old notions challenged by EPA xp
-.. I tend to decline in Year2
-.. I "never" receive a raise
-.. I tend to impress and "oversell" at interviews and struggle to deliver after the sale
-.. I tend to struggle with brown field large codebases
-.. at any fast-paced firms, I need to work at unsustainable intensity just to keep my head above water 
-.. I tend to lose engagement and motivation after a year or so
-
 -- update bpost on workload
-worker's skill and efficiency is a big unknown factor. The longer you stay, the more efficient you get, but expectation on you also rises.
+worker's skill and efficiency is a big unknown factor to a project's manager. 
+The longer you stay, the more efficient you get, but expectation on you also rises, as manager knows your skills better.
 
 -- LG2 update bpost on feel`satisfied more than peers or the later bpost on "by half"
 in a 2022 nightmare, I rejoined Macq and was dismissed again. 
-I did my best but again was shown to be the weakest in the team, although another set of requirements may prove otherwise.
+I did my best again, but again was shown to be the weakest in the team, although another set of requirements may prove otherwise.
 
 In hind sight, the Macq job requirement was simply too high for me.
 How about AshS in his CTO job? CSDoctor's job? S.Liu's job?
@@ -31,13 +24,7 @@ I told grandpa that my successE [carefree ezlife + harmony, based on wellness an
 The nightmare scenario is much more severe, harsh, harmful than CB2022.
 
 -- update features@epa Job
-In a "normal" job, I would feel that mainstream tech/dnlg are like 15% vs 25% for salary/benefits
-
--- update
-fresh SWE grads
-SMEs pay 3.2k
-many govtech employers pay up to 4.8k 
-top web2.0 shops pay 6k
+In a "normal" job, I would feel that "mainstream tech/dnlg" as a factor is like 15% vs 25% for salary/benefits
 
 -- slow-cooking new: Qz (^EPA) episode: inferiority-complex
 t_selfEval
