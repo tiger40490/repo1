@@ -1,5 +1,3 @@
--- new: bonus can be addictive
-One of the common features of addictiion is "growing dosage"
 
 -- update bpost on workload
 worker's skill and efficiency is a big unknown factor to a project's manager. 
@@ -40,3 +38,6 @@ Factor: localSys... is now slightly less important in the grand scheme of things
 Also, Sachin's localSys didn't earn much appr.
 
 Factor: VP peer benchmark ... esp. in terms of localSys and value-add. Benchmark breeds inferiority. I have never wanted to be benchmarked with VPs. At RTS and Mvea, I was never benchmarked with VPs. In EPA, I try not to care or observe. I tell myself that we are all (informally) evaluated, all the time, by everyone but I'm older and less capable. I do that to fend off the inferiority.
+
+-- new: bonus can be addictive
+One of the common features of addictiion is "growing dosage"
