@@ -1,43 +1,3 @@
--- new: old self-perceptions challenged by EPA xp
-.. I tend to decline/slip in Year2
-.. I "never" receive a raise
-.. I tend to impress and "oversell" at interviews, and subsequently struggle to deliver after the sale
-.. I tend to struggle with brown field large codebases
-.. at any fast-paced firms, I need to work at unsustainable intensity just to keep my head above water 
-.. I tend to lose engagement and motivation after a year or two
-
--- LG2 update which recrec bpost? bpost on speed coding or NBA?
-Street dance skill can't make money for you.
-Singing is similar.
-basketball talent .. Top 0.1% can make money
-Piano is similar but .... can teach... There's a robust demand in many cities.
-
-Speed coding is far better. Many companies are interested to hire you.
-
--- new: career insecurity: 2017 watershed #marathon
-t_vague
-2017 marked a watershed in my perception of career insecurity.
-Before the watershed, I had a "learned insecurity", instilled in me due to decades of brainwash, and internalized.
-
-tech churn .. defeating any attempt of accumulation
-The widespread and entrenched notion that "Few can remain hands-on till 40."
-threat from younger or stronger competitors.
-DRam refresh .. and maintain your critical mass
-strengthen your moat, maintain your lead 
-Don't drop out from the leading pack.
-slow income growth outpaced by long-term (CPIx) inflation not only in home prices.
-
-I felt like a (less successful version of) EDB -- can't afford to slow down, because of the constant risk of getting outrun/outmaneuvered, or caught up... The risk of losing our relevance.
-
-After the watershed, I could see the end of my IN-voluntary marathon. Now am planning my own light marathon driven by successZ. 
-This marathon could take me all the way to 70s. 
-I hope to enjoy it.
-Therefore, for the remainder of the marathon I could afford to slow down to a stroll, drop out of the leading pakc, and let other people overtake me, as happend in Toa Payoh stadium jogging track.
-
-I told SY.C that my 100k/Y dev-till70 is not passive acceptance and failureZ, because I still make an effort -- a light maratho is still a marathon.
-
-
-
 -- new: background heat: car ownership considered harmful
 Trigger: Singapore consumer education promotes public transport, walk, cycle, rather than private cars.
 
@@ -46,6 +6,10 @@ The (mental) wellness impact, and to a lesser extent the eco factor, are (harmfu
 Some frequent drivers (7+ trips/wk) may pass all health screenings. If you are one of them, you may not care about the backgroune heat. 
 You may feel your "system" can cope with the harmful background heat.
 However, over decades the heat tend to grow /heavier/, less negligible, and accmulate an enduring/permanent effect on a person's life chances and well-being.
+
+classic background heat is invisible stress of some large difficult project like Quarz, 
+
+Another example is tax filing.
 
 -- new: triple trip2fetch phone left@home: +ve perception
 Today I left my mobile phone at home, so I came to office and quickly decided to go back and fetch it. 
