@@ -11,9 +11,6 @@ AtomicRef is really a pointer that supports CAS?
 -- fuxi
 If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
 
--- update bpost on defaultdict
-(lambda:...) is always more flexible, more explicit
-
 -- new or update: detect stuck thread in a pool
 weblogic marks a pooled thread as stuck if it is busy for 10min (configurable). Weblogic is designed for a large patient queue, so each patient should not take 10min.
 
@@ -22,15 +19,6 @@ For a custom application, this doesn't work. A thread can be busy and productive
 Purpose of detection is not per-patient intervention. Purpose is hospital mgmt such as thread pool config, memory increase, or load balancing.
 -- new: patient Q
 good metaphor for thread pool and producer/consumer. The patient queue can be 60,000 in a reasonable design (Weblogic)
-
--- new: check a commit is already in master
-The problem: when a branch is merged into master, a brand new hash would be generated. 
-
-So we can't look for the hash of the original commit. Instead, we can use a combination of {commit msg, timestamp, committer}. These items are preserved by the merge engine.
-
-If these things match between 2 commits, then there's basically no chance they are actually different.
-
-git log | grep -B3 'the needle commit msg'
 
 -- fuxi:
 if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
