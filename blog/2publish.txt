@@ -1,3 +1,7 @@
+
+-- new: c++/c#/java//// online compiler
+https://wandbox.org/
+
 -- new: background heat: car ownership considered harmful
 Trigger: Singapore consumer education promotes public transport, walk, cycle, rather than private cars.
 
