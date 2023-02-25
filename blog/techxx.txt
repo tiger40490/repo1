@@ -1,12 +1,6 @@
 -- fuxi
 Adaptive (a finIT firm) have worked within many banks and used all the mainstream messaging middlewares available in the industry. Experience has taught us, that peer-to-peer messaging system is more flexible than broker based messaging systems and requires less operational overhead. You don’t need additional servers (or hardware appliances) to use it, which are generally organised as shared infrastructure and become an organisational bottleneck for development teams.
 
--- update ..
-Inter-thread-communication can use an atomic var. Usually a very simple type like bool or short integer.
-
-EffectiveModernC++ has an example.
-
-AtomicRef is really a pointer that supports CAS?
 
 -- fuxi
 If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
@@ -22,17 +16,6 @@ good metaphor for thread pool and producer/consumer. The patient queue can be 60
 
 -- fuxi:
 if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
-
--- new: deepcopy
-copy.deepcopy() is never quizzed, but is a key ECT feature in CIV. It's fairly easy to use, and seldom requires any tweaking/troubleshooting.
-
-Once a while, we can showcase our python expertise by drawing attention to deepcopy. It solves two common problems of object graph cloning, using a memo object.
-
-Deepcopy is somewhat related to serializer "pickle" module.
-
-Your class can implement def __deepcopy__(self, memo). In it, you can deep clone a component2 using deepcopy(component2, memo).
-
-Standard module doc is concise and readable.
 
 -- new or update on signal+socket
 signals in windows? not popular

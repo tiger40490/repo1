@@ -7,6 +7,24 @@ If these things match between 2 commits, then there's basically no chance they a
 
 git log | grep -B3 'the needle commit msg'
 
+-- new: deepcopy
+copy.deepcopy() is never quizzed, but is a key ECT feature in CIV. It's fairly easy to use, and seldom requires any tweaking/troubleshooting.
+
+Once a while, we can showcase our python expertise by drawing attention to deepcopy. It solves two common problems of object graph cloning, using a memo object.
+
+Deepcopy is somewhat related to serializer "pickle" module.
+
+Your class can implement def __deepcopy__(self, memo). In it, you can deep clone a componentA using deepcopy(componentA, memo).
+
+Standard module doc is concise and readable.
+
+-- update ..
+Inter-thread-communication can use an atomic var. Usually a very simple type like bool or short integer.
+
+EffectiveModernC++ has an example.
+
+AtomicRef is really a pointer that supports CAS?
+
 -- update bpost on defaultdict
 (lambda : ...) syntax is always more flexible, more explicit
 
