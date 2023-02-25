@@ -1,3 +1,15 @@
+-- update [18]proof-of-work ] blockchain
+Proof@Stake
+Q: what if a big "shareholder" of a ABC coin mishandles a validation, and adds a bad block to the ABC blockchain? 
+
+Does she earn the "gas" before or after the bad data is uncovered?  If "after", then bad data is included in the ABC block chain for at least some time, and during that period, unlimited number of subsequent blocks could go into the blockchain, leading to a mess. So I will assume answer is "before". 
+
+So technically, how can the "second validation" take place in real time? If it is straightforward to detect a bad block, then the first validator would always do it automatically, and there would be no risk of losing your stake. In such a case, every participant would stake 100% of their coins each time. That means the biggest "shareholder" would keep getting richer, and richer.
+
+I believe it's not straightforward to detect a bad block produced by the first validator. That leads to a can of worms.
+
+Suppose there's a dispute... someone disputes a past transaction on the blockchain. Who has authority to question the first validator? Who would be the judge? I think real power ultimately lies with the founders and the software developers. This is not decentralized concensus-building.
+
 -- fuxi
 Adaptive (a finIT firm) have worked within many banks and used all the mainstream messaging middlewares available in the industry. Experience has taught us, that peer-to-peer messaging system is more flexible than broker based messaging systems and requires less operational overhead. You don’t need additional servers (or hardware appliances) to use it, which are generally organised as shared infrastructure and become an organisational bottleneck for development teams.
 

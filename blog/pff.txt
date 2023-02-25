@@ -1,20 +1,3 @@
--- even though bccy has so many drawbacks, its investors can still become rich.
-
-Look at gold. I see no reason for it to hold its value. Its value is illogical. Somehow, its value proposition, its validity has stood the test of time. 
-
-Look at tech startups. They make huge losses before turning profitable. I see no reason for their early valuation. It's irrational, but many governments, bankers, thinkers see a value-proposition in them.
-
--- new Proof@Stake
-Q: what if a big "shareholder" of a ABC coin mishandles a validation, and adds a bad block to the ABC blockchain? 
-
-Does she earn the "gas" before or after the bad data is uncovered?  If "after", then bad data is included in the ABC block chain for at least some time, and during that period, unlimited number of subsequent blocks could go into the blockchain, leading to a mess. So I will assume answer is "before". 
-
-So technically, how can the "second validation" take place in real time? If it is straightforward to detect a bad block, then the first validator would always do it automatically, and there would be no risk of losing your stake. In such a case, every participant would stake 100% of their coins each time. That means the biggest "shareholder" would keep getting richer, and richer.
-
-I believe it's not straightforward to detect a bad block produced by the first validator. That leads to a can of worms.
-
-Suppose there's a dispute... someone disputes a past transaction on the blockchain. Who has authority to question the first validator? Who would be the judge? I think real power ultimately lies with the founders and the software developers. This is not decentralized concensus-building.
-
 -- new: car cost after bubble burst
 car cost takes on a new dimension on a cashflow low ground, or when the bubble bursts.
 * when a family member is in long-term care
