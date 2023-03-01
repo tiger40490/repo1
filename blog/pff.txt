@@ -1,8 +1,11 @@
+-- update bpost on HRBlock mental block
+Meaningfully Reward myself for starting the process earlier in the year.
+
 -- update bpost on US taxes
 Q: is it unlawful, unethical to put incorrect info on tax returns?
-I believe the IRS is understaffed. The audit system is becoming more automated to reduce labor cost.
+I believe the IRS is understaffed. The audit system is increasingly automated to reduce labor cost.
 
-The ROI of the audit system has a numerator measured by lost tax dollars recovered. Therefore, if your income is a small figure, then I believe they won't spend time analyzing it. I think each case they pursue can become difficult, in terms of legwork/analysis.
+The ROI of the audit system has a numerator measured in (lost tax) dollars recovered. Therefore, if your tax income is a small figure, then I believe they won't spend time analyzing it. I think each case they pursue can become difficult, in terms of legwork/analysis.
 
 Similarly, when I set out to free up my gmail storage, I won't spend time on small disk hogs.
 
