@@ -9,6 +9,9 @@ I use double-floss handle, rather than regular floss
 
 I re-use a floss, inter-dental or brush for years, rather than change-every-3M
 
+-- update bpost on HRBlock mental block
+Meaningfully Reward myself for starting the process earlier in the year. The earlier the better.
+
 -- new: check a commit is already in master
 The problem: when a branch is merged into master, a brand new hash would be generated. 
 
