@@ -1,3 +1,14 @@
+-- new or update: dental self-care: unconventional wisdom
+I would say regular check-up is crucial. It is an external dependency, but it can help me monitor and early-detect any "unapproved habit" like listed in this bpost. I would feel confident if regular checkups don't reveal any problem with my habits.
+
+I brush at most once a day, at night, even though some people advocate twice or after-every-meal.
+
+I use inter-dental brush rather than floss threader. 
+
+I use double-floss handle, rather than regular floss
+
+I re-use a floss, inter-dental or brush for years, rather than change-every-3M
+
 -- new: check a commit is already in master
 The problem: when a branch is merged into master, a brand new hash would be generated. 
 
