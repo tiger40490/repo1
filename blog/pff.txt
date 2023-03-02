@@ -1,15 +1,15 @@
 -- update bpost on US taxes
-Q: is it unlawful, unethical to put incorrect info on tax returns?
-I believe the IRS is understaffed. The audit system is increasingly automated to reduce labor cost.
+Q: is it unlawful, unethical to put incorrect data on tax returns?
+IRS is understaffed. Their fraud surveillance system is increasingly automated to reduce labor cost.
 
-The ROI of the audit system has a numerator measured in (lost tax) dollars recovered. Therefore, if your tax income is a small figure, then I believe they won't spend time analyzing it. I think each case they pursue can become difficult, in terms of legwork/analysis.
+The ROI of the audit system has a numerator measured in (lost tax) dollars recovered. Therefore, if your tax income is a small sum, then I suspect they won't spend time analyzing it. 
 
 Similarly, when I set out to free up my gmail storage, I won't spend time on small disk hogs.
 
 By right, I contributed tax dollars during my 8Y stay, and won't receive any benefit in return. This is "The_system", unfair to H1B immigrants like me.
 
--- new: car cost after bubble burst
-car cost takes on a new dimension on a cashflow low ground, or when the bubble bursts.
+-- new: car cost after a carefree-bubble burst
+Car TOC often takes on a new dimension when on a cashflow low ground, or when your carefree-bubble bursts.
 * when a family member is in long-term care
 * when we are jobless
 * when in bad weather .. emergency repairs costs more
@@ -19,8 +19,10 @@ Much better if we live in a well-connected location with public transport.
 -- update https://tanbinvest.dreamhosters.com/13021/sizeretirement-income-from-assets-u-s-data/
 XianHua said a U.S. retiree in his case 
 * receives $1400/M from SSA
-* pays about $1500 pTax if owning a home
-* pays about $1000 health insurance, much needed in old age
+* pays about $1500/M pTax if owning a home
+* pays about $1000/M health insurance, much needed in old age
+
+Sg offers a more affordable retirement.
 
 -- fuxi:
 With my increased Base salary (bonus is different story), how should we adjust our spending, savings etc?
