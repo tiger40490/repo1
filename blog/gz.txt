@@ -1,13 +1,13 @@
 -- update https://btv-gz.dreamhosters.com/31965/big-contractfte/ or new: free agent^FTE: salary gap
-when a corporate salesman or teacher/tutor goes independent i.e. becoming a free agent, usually she forgoes a long-term career path. 
+when a corporate salesman or teacher/tutor goes independent i.e. becomes a free agent, usually she forgoes a long-term career path. 
 
-Q: what happened to my WStC career?
-A: I don't aim to climb high anyway, so am not giving up much. So my career is good enough, fat-n-happy.
+Q: what happened in my case, in my WStC career?
+A: I don't aim to climb high anyway, so am not giving up much by going independent. So my WStC career was good enough, fat-n-happy, even though not as lucrative as some FTEs.
 
-Q: So why has my income stayed so high as of 2023? I see multile factors
+Q: why has my income stayed so high even though I was free agent for so long? I see multile factors
 A: factor: salary inflation among some SWE sectors. WSt is one very specific sector and it has a visible moat.
-A: I have something of a killer skill for this lucrative domain. As an analog, a specialist doctor has a killer skill.
-A: my 2023 manager shows (rare) appreciation
+A: factor: I have something of a killer skill for the lucrative domain of WSt. As an analog, a specialist doctor has a killer skill.
+A: (irrelevant factor for WStC) my 2023 manager shows (rare) appreciation
 
 -- update bpost on workload
 worker's skill and efficiency is a big unknown factor to a project's manager. 
