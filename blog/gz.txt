@@ -1,23 +1,25 @@
 -- update https://btv-gz.dreamhosters.com/31965/big-contractfte/ or new: free agent^FTE: salary gap
-when a corporate salesman or teacher/tutor goes independent i.e. becomes a free agent, usually she forgoes a long-term career path. 
+when a corporate salesman or teacher/tutor goes independent i.e. becomes a free agent, usually she forgoes long-term career growth, and sometimes income growth. 
 
 Q: what happened in my case, in my WStC career?
-A: I don't aim to climb high anyway, so am not giving up much by going independent. So my WStC career was good enough, fat-n-happy, even though not as lucrative as some FTEs.
+A: I don't aim at high position anyway, so am not giving up much by going independent. So my WStC career was good enough, fat-n-happy, even though not as lucrative as some FTEs.
 
-Q: why has my income stayed so high even though I was free agent for so long? I see multile factors
-A: factor: salary inflation among some SWE sectors. WSt is one very specific sector and it has a visible moat.
+Q: why has my income stayed so high even though I was free agent for most of my WSt career? I see multile factors
+A: factor: salary inflation among some SWE sectors. WSt is one very specific sector and it has a visible moat, just as the web2.0 domain
 A: factor: I have something of a killer skill for the lucrative domain of WSt. As an analog, a specialist doctor has a killer skill.
-A: (irrelevant factor for WStC) my 2023 manager shows (rare) appreciation
 
--- update bpost on workload
-worker's skill and efficiency is a big unknown factor to a project's manager. 
-The longer you stay, the more efficient you get, but expectation on you also rises, as manager knows your skills better.
+Actually, more important than salary is the workload [work stress, expectation, lateral benchmarking]. At my age, I don't need 200k salary as much as WLB. 
+For WLB, free agent is usually superior, but good in my current FTE job. 
+
+-- update bpost on workload, but which one?
+worker's skill and efficiency is a big unknown factor to a new project manager. 
+The longer you stay, the more efficient you become as a worker, but expectation on you also rises, as manager knows your skills better.
 
 -- LG2 update bpost on feel`satisfied more than peers or the later bpost on "by half"
 in a 2022 nightmare, I rejoined Macq and was dismissed again. 
 I did my best again, but again was shown to be the weakest in the team, although another set of requirements may prove otherwise.
 
-In hind sight, the Macq job requirement was simply too high for me.
+In hind sight, the Macq job requirement was simply too high for me, more than the Qz job or GS job.
 How about AshS in his CTO job? CSDoctor's job? S.Liu's job?
 
 If I were to benchmark myself with these so-called peers, or try to increase my brank, and join the exclub, I would get derailed, lose my carefree ezlife, take on lots of stress. 
