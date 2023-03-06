@@ -13,7 +13,7 @@ Suppose there's a dispute... someone disputes a past transaction on the blockcha
 -- fuxi
 Adaptive (a finIT firm) have worked within many banks and used all the mainstream messaging middlewares available in the industry. Experience has taught us, that peer-to-peer messaging system is more flexible than broker based messaging systems and requires less operational overhead. You don’t need additional servers (or hardware appliances) to use it, which are generally organised as shared infrastructure and become an organisational bottleneck for development teams.
 
-
+That's the experience of one team. Other teams may say the opposite, based on their experience with diverse MOM solutions.
 -- fuxi
 If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
 
