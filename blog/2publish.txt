@@ -1,13 +1,6 @@
 -- update features@epa Job
 In a "normal" job, I would feel that "mainstream tech/dnlg" as a factor is like 15% vs 25% for salary/benefits
 
--- update bpost on BOC
-On payroll date (or earlier) visit HDB9 and use BOC dCard to pay any amount up to 3x the current balance. May need to print out the bill.
-
-The PUB app allows you to pay only the full balance. 
-
-Also call BOC to confirm that dCard transaction qualifies. 
-
 -- new or update: dental self-care: unconventional wisdom
 I would say regular check-up is crucial for me. It is an external dependency, but it can help me monitor and early-detect any "unapproved habit" as listed in this bpost. I would feel confident if regular check-up doesn't reveal any weakness in my habits.
 
