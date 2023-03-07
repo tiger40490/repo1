@@ -1,7 +1,7 @@
 -- update features@epa Job
-In a "normal" job, I would feel that "mainstream tech/dnlg" as a factor is like 15% vs 25% for salary/benefits
+In a "normal" job, I would feel that "mainstream tech/dnlg" as a factor is like 15% vs 25% for salary+benefits
 
--- new or update: dental self-care: unconventional wisdom
+-- new: dental self-care: unconventional wisdom
 I would say regular check-up is crucial for me. It is an external dependency, but it can help me monitor and early-detect any "unapproved habit" as listed in this bpost. I would feel confident if regular check-up doesn't reveal any weakness in my habits.
 
 I brush at most once a day, at night, even though some people advocate twice or after-every-meal.
@@ -49,15 +49,15 @@ AtomicRef is a wrapper over a pointer that supports CAS?
 https://wandbox.org/
 
 -- new: background heat: car ownership considered harmful
-Trigger: Singapore consumer education promotes public transport, walk, cycle, rather than private cars.
+classic background heat is invisible stress of some large difficult project like Quarz, annual tax filing,,,
+
+The current trigger: Singapore consumer education promotes public transport, walk, cycle, rather than private cars.
 
 The (mental) wellness impact, and to a lesser extent the eco factor, are (harmful) "background heat" -- a home-grown term not laden with meanings).
 
 Some frequent drivers (7+ trips/wk) may pass all health screenings. If you are one of them, you may not care about the backgroune heat. 
 You may feel your "system" can cope with the harmful background heat.
 However, over decades the heat tend to grow /heavier/, less negligible, and accmulate an enduring/permanent effect on a person's life chances and well-being.
-
-classic background heat is invisible stress of some large difficult project like Quarz, annual tax filing,,,
 
 -- new: triple trip2fetch phone left@home: +ve perception
 Today I left my mobile phone at home, so I came to office and quickly decided to go back and fetch it. 
