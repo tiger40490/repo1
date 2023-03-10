@@ -1,3 +1,9 @@
+-- update or new: how do immigration authorities identify elite talent
+Criterion: education credentials. "Top 100 unviersity" lend more credibility than anything else
+Criterion: salary
+
+For academic talent, research output would be the criterion used by immigration authorities (same as an academic employer). However, most elite talents are not academic.
+
 --new:
 fierce competition for tech talent, increasing salary, 30% increments to job hoppers...
 
