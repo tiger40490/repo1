@@ -1,16 +1,29 @@
+
+-- update or new: how do immigration authorities identify elite talent
+For academic talent, research output would be the criterion used by immigration authorities (same as an academic employer). However, most elite talents are not academic.
+
+Criterion: education credentials. "Top 100 unviersity" lend more credibility than just about anything else
+Criterion: salary, as decided by an employer with due diligence
+
+-- new: inflated SWE wages: SG context or update bpost on "value creation by software industry"
+Trigger: SWE fresh grads are paid $5k+, higher than fresh grads in engineering, accountancy, architect,,,
+
+Many employers face a tough choice -- hire more experienced SWE (even higher salary), outsource or buy packaged solutions, or stay low-tech.
+
+I feel SWE freshers should get ... $3k, whereas old timers should get ... below 10k. Now, with my current inflated salary, 
+* need to prepare for wage drop long before retirement
+* need to adjust and strengthen my devTill70 plan
+* I anticipate lower calibre among coworkers in the same 
+* I anticipate a possible drop in per-worker workload.... Employers have to moderate the pressure applied on SWE staff.
+
 -- update
 Fresh grads paid higher than old-timers ... is common esp. in "ageist sectors" like sports, showbiz and tech.
 
--- update or new: how do immigration authorities identify elite talent
-Criterion: education credentials. "Top 100 unviersity" lend more credibility than anything else
-Criterion: salary
-
-For academic talent, research output would be the criterion used by immigration authorities (same as an academic employer). However, most elite talents are not academic.
-
+Even a 25 year old can be underpaid compared to a fresher.
 --new:
 fierce competition for tech talent, increasing salary, 30% increments to job hoppers...
 
-However, you (the tech talent) must perform. If you fail to live up to the expectation, over a few months or a few years, you would be thrown out.
+However, you (the tech talent) must perform (at JIV and) on the job. If you fail to live up to the expectation, over a few months or a few years, you would be thrown out.
 
 I experienced it in Qz and Macq.
 
