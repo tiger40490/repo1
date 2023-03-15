@@ -6,7 +6,7 @@ Criterion: education credentials. "Top 100 unviersity" lend more credibility tha
 Criterion: salary, as decided by an employer with due diligence
 
 -- new: inflated SWE wages: SG context or update bpost on "value creation by software industry"
-Trigger: SWE fresh grads are paid $5k+, higher than fresh grads in engineering, accountancy, architect,,,
+Trigger: IT fresh grads are paid $5k+ ((SWE? still higher), higher than fresh grads in engineering, accountancy, architect,,,
 
 Many employers face a tough choice -- hire more experienced SWE (even higher salary), outsource or buy packaged solutions, or stay low-tech.
 
