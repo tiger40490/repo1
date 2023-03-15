@@ -8,7 +8,9 @@ Criterion: salary, as decided by an employer with due diligence
 -- new: inflated SWE wages: SG context or update bpost on "value creation by software industry"
 Trigger: IT fresh grads are paid $5k+ ((SWE? still higher), higher than fresh grads in engineering, accountancy, architect,,,
 
-Many employers face a tough choice -- hire more experienced SWE (even higher salary), outsource or buy packaged solutions, or stay low-tech.
+Many employers face a tough choice -- hire more experienced SWE (even higher salary), outsource or buy packaged solutions, or stay low-tech or laggard as in emerging economies.
+
+YiFei said IT grad starting salary has always been rather high, but not sure how sustainable.
 
 I feel SWE freshers should get ... $3k, whereas old timers should get ... below 10k. Now, with my current inflated salary, 
 * need to prepare for wage drop long before retirement
