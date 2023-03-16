@@ -1,11 +1,13 @@
--- new: grades better in MSFM
+-- new: scored better in MSFM
 In MSFM, I scored mostly A and two B's, based on exams or group assignments.
 
 In B.Engin, I scored a few C or D.
 
-My class cohort is stronger in ... MSFM. 
-
 I have no reason to suspect the grading criteria to be stricter in either program.
+I assume the bell curve grading is similar in both programs. 
+My class cohort is stronger in ... MSFM.
+
+Among SWEs, I'm one of the strongest in math, having a math masters.
 
 -- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=41605&action=edit.. borrowed book vs bought vs free books
 
