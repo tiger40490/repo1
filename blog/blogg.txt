@@ -1,3 +1,6 @@
+-- 
+i now spend more time updating than creating bposts... improving based on experience
+
 -- remove "blog" alias
 
 -- update category ^ tag
