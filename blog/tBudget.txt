@@ -1,7 +1,3 @@
--- fuxi or
-textbook on calculus is too heavy and not worth carrying. 
-This kinda reading is really recreational, similar to piano, AMB, MOETF, but often outcompeted by the big energy sinks
-
 -- slow cooking update blogpost on more/less?
 Fact: for some of us, we always feel insufficient allocation to this or that aspects of our lives. Ocassionally, we feel some over-allocation, too.
 
@@ -13,7 +9,7 @@ The higher ground I want to push toward is a situation where I find very few ite
 On this higher ground, I would really remember a few (temporary) success stories of adjustment. The success stories empower me to endeavor to correct/adjust my allocation strategy, rather than the familiar powerless guilt driven by perfectionism.
 
 in recent weeks, 
-I have decreased tech xx compared to years ago (partly due to dimishing return), replaced with practical scripting, automation,,,, 
+I have decreased tech xx (including deep_work) compared to years ago (partly due to dimishing return), replaced with practical scripting, automation,,,, 
 I have :) reduced (or maintained) fren dialog t-spends
 I have :) maintained workout t-spends
 I have :) reined in tcost on pff
@@ -30,3 +26,8 @@ Perhaps my current t-allocation is nearly /optimal/, based on the successE defin
 
 -- update bpost (which one?)
 perhaps it would be more effective to develop some Deep hobbies early in life, such as writing, playing pop songs ,,,
+
+-- fuxi 
+textbook on calculus is too heavy and not worth carrying. 
+
+This kinda reading is really recreational, similar to piano, AMB, MOETF, but often outcompeted by the big energy sinks
