@@ -4,7 +4,7 @@ For academic talent, research output would be the criterion used by immigration 
 Criterion: education credentials. "Top 100 unviersity" lend more credibility than just about anything else
 Criterion: salary, as decided by an employer with due diligence
 
--- new: inflated SWE wages: SG context or update bpost on "value creation by software industry"
+-- new: inflated SWE wages: SG context ... or update bpost on "value creation by software industry"
 Trigger: IT fresh grads are paid $5k+ ((SWE? still higher), higher than fresh grads in engineering, accountancy, architect,,,
 
 Many employers face a tough choice -- hire more experienced SWE (even costlier), outsource (including packaged solutions), or stay low-tech/laggard as in emerging economies.
@@ -17,7 +17,7 @@ I feel SWE freshers should get ... $3k, whereas old timers should get ... below 
 * I anticipate lower calibre among coworkers in the same 
 * I anticipate a possible drop in per-worker workload.... Employers have to moderate the pressure applied on SWE staff.
 
--- update
+-- update which bpost?
 Fresh grads paid higher than old-timers ... is common esp. in "ageist sectors" like sports, showbiz and tech.
 
 Even a 25 year old can be underpaid compared to a fresher.
