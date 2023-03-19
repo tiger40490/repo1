@@ -9,6 +9,9 @@ Income statistics are mostly based on tax filing and more accurate.
 
 There are unreported incomes and unreported assets. I won't speculate which of the two is a bigger problem to the statistician.
 
+-- update bpost on U.S. household contingency reserve
+As of 2019, the typical Black or Hispanic family has $2,000 or less in liquid savings, the typical White family has more than four times that amount.
+
 -- update "buy without oth"
 Related to "merchandize return", another major tcost and stressor is keeping track of "stuff bought and disused long ago".
 
