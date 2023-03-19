@@ -2,6 +2,13 @@
 Use spreadsheet
 Focus on bonus sharing and transfers to #153 
 
+-- update bpost on income vs wealth stats
+Wealth (net asset) statistics are often based on surveys (including questionnaires). However, home equity and brokerage portfolios are reported to tax authorities. 
+
+Income statistics are mostly based on tax data and more accurate.
+
+There are unreported incomes and unreported assets. I won't speculate which of the two is a bigger problem to the statistician.
+
 -- update "buy without oth"
 Related to "merchandize return", another major tcost and stressor is keeping track of "stuff bought and disused long ago".
 
