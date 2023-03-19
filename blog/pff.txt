@@ -3,9 +3,9 @@ Use spreadsheet
 Focus on bonus sharing and transfers to #153 
 
 -- update bpost on income vs wealth stats
-Wealth (net asset) statistics are often based on surveys (including questionnaires). However, home equity and brokerage portfolios are reported to tax authorities. 
+Wealth (net asset) statistics are often based on surveys (including questionnaires). However, home equity, brokerage portfolios, 401k, SSA account.. are reported to U.S. government. 
 
-Income statistics are mostly based on tax data and more accurate.
+Income statistics are mostly based on tax filing and more accurate.
 
 There are unreported incomes and unreported assets. I won't speculate which of the two is a bigger problem to the statistician.
 
