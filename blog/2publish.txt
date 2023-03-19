@@ -9,17 +9,6 @@ government .. is NOT
 -- update features@epa Job
 In a "normal" job, I would feel that "mainstream tech/dnlg" as a factor is like 15% vs 25% for salary+benefits
 
--- new: scored better in math than B.Engin
-In MSFM, I scored mostly A and two B's, based on exams or group assignments.
-
-In B.Engin, I scored a few C or D.
-
-I have no reason to suspect the grading criteria to be stricter in either program.
-I assume the bell curve grading is similar in both programs. 
-My class cohort is stronger in ... MSFM.
-
-Among SWEs, I'm one of the strongest in math, having a math masters.
-
 -- new: hear both sides@story, or get brainwashed
 Our judgement of morality, character... etc is subject to brainwash.
 * eg: my son's opinion of CCP
@@ -34,16 +23,7 @@ I don't want to waste my (reusable) frames even though Cigna pays everything. It
 -- update bpost on HRBlock mental block
 Meaningfully Reward myself for starting the process earlier in the year. The earlier the better.
 
--- new: check a commit is already in master
-The problem: when a branch is merged into master, a brand new hash would be generated. 
-
-So we can't look for the hash of the original commit. Instead, we can use a combination of {commit msg, timestamp, committer}. These items are preserved by the merge engine.
-
-If these things match between 2 commits, then there's basically no chance they are actually different.
-
-git log | grep -B3 'the needle commit msg'
-
--- update ITC
+-- update ITC which one?
 Inter-thread-communication can use an atomic var. Usually a very simple type like bool or short integer.
 
 EffectiveModernC++ has an example.
