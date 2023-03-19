@@ -12,6 +12,7 @@ In a "normal" job, I would feel that "mainstream tech/dnlg" as a factor is like 
 -- new: hear both sides@story, or get brainwashed
 Our judgement of morality, character... etc is subject to brainwash.
 * eg: my son's opinion of CCP
+* eg: my view on China's innovation
 * eg: https://en.wikipedia.org/wiki/To_Catch_a_Predator
 * eg: https://btv-open.dreamhosters.com/wp-admin/post.php?post=6980&action=edit
 
@@ -32,9 +33,6 @@ AtomicRef is a wrapper over a pointer that supports CAS?
 
 -- update bpost on defaultdict
 (lambda : ...) syntax is always more flexible, more explicit
-
--- new: c++/c#/java//// online compiler
-https://wandbox.org/
 
 -- new or update bpost on quality time.. Every family outing must count
 Almost everyone involved is busy and each has to make adjustments to make it happen.
