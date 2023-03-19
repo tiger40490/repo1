@@ -27,13 +27,6 @@ Our judgement of morality, character... etc is subject to brainwash.
 * eg: https://btv-open.dreamhosters.com/wp-admin/post.php?post=6980&action=edit
 
 We need to read the criticisms, counter arguments, both sides of the story.
--- update bpost on glamourous women
-Emily Chang was one of the most attractive women in the world -- young, bright, bold, an Asian female (and gorgeous) face in male-dominated Silicon Valley... a breath of fresh air.
-
-Then her youthful face grew old. 
-I feel more than 60% of the audience is male, and males are attracted by a youthful, pretty face.
-
-I guess a mainstream, competitive global media power house that's the flagship of Bloomberg's entire technology franchise can't have a 40-something women as the figurehead.
 
 -- update progressive lens
 I don't want to waste my (reusable) frames even though Cigna pays everything. It's a waste of resources, and also indirectly raises insurance premium.
@@ -47,25 +40,6 @@ I have a growing prejudice that China is a immitator, follower not an innovator 
 
 Math (and comp science to some extent) .. China didn't invent any, but China students have very strong foundations.
 
--- update https://btv-open.dreamhosters.com/wp-admin/post.php?post=41605&action=edit.. borrowed book vs bought vs free books
-
-Borrowed books exert the highest time-pressure, even if I am allocated 6 weeks.
-
-Purchased books generate the heaviest stress in terms of "reading minutes vs $cost". However, an even bigger stressor is the carry-cost when moving home. Each time I had to go through dozens deciding which titles to discard. Always painful and time-consuming.
-
-Free books are stress-free. Free magazines often show quality content esp. in the case of a global publication brand.
-
--- new: dental self-care: unconventional wisdom
-I would say regular check-up is crucial for me. It is an external dependency, but it can help me monitor and early-detect any "unapproved habit" as listed in this bpost. I would feel confident if regular check-up doesn't reveal any weakness in my habits.
-
-I brush at most once a day, at night, even though some people advocate twice or after-every-meal.
-
-I use inter-dental brush rather than floss threader. 
-
-I use double-floss handle, rather than regular floss.
-
-I re-use a floss, inter-dental or brush for years, rather than change-every-3M
-
 -- update bpost on HRBlock mental block
 Meaningfully Reward myself for starting the process earlier in the year. The earlier the better.
 
@@ -77,17 +51,6 @@ So we can't look for the hash of the original commit. Instead, we can use a comb
 If these things match between 2 commits, then there's basically no chance they are actually different.
 
 git log | grep -B3 'the needle commit msg'
-
--- new: deepcopy
-copy.deepcopy() is never quizzed, but is a key ECT feature in CIV. It's fairly easy to use, and seldom involves any surprises, tweaking or troubleshooting.
-
-Once a while, we can showcase our python expertise by drawing attention to deepcopy. It solves two common problems of object graph cloning, using a memo object.
-
-Deepcopy is somewhat related to serializer "pickle" module.
-
-Your class can implement def __deepcopy__(self, memo). In it, you can deep clone a componentA using deepcopy(componentA, memo).
-
-Standard module doc is concise and readable.
 
 -- update ITC
 Inter-thread-communication can use an atomic var. Usually a very simple type like bool or short integer.
@@ -101,39 +64,6 @@ AtomicRef is a wrapper over a pointer that supports CAS?
 
 -- new: c++/c#/java//// online compiler
 https://wandbox.org/
-
--- new: background heat: car ownership considered harmful
-classic background heat is invisible stress of some large difficult project like Quarz, annual tax filing,,,
-
-The current trigger: Singapore consumer education promotes public transport, walk, cycle, rather than private cars.
-
-The (mental) wellness impact, and to a lesser extent the eco factor, are (harmful) "background heat" -- a home-grown term not laden with meanings).
-
-Some frequent drivers (7+ trips/wk) may pass all health screenings. If you are one of them, you may not care about the backgroune heat. 
-You may feel your "system" can cope with the harmful background heat.
-However, over decades the heat tend to grow /heavier/, less negligible, and accmulate an enduring/permanent effect on a person's life chances and well-being.
-
--- new: triple trip2fetch phone left@home: +ve perception
-Today I left my mobile phone at home, so I came to office and quickly decided to go back and fetch it. 
-A few years ago in the same situation, I used to feel bitter/resentful because I focused on the negative side:
-* family members unable to help me... no obligation
-* I would have to pay a few dollars for commute 
-* I have just arrived in office and have not done any work
-* I must return to office (rather than working from home) due to a meeting [PMA walk through]
-* I will miss a 3pm meeting, though I could try to dial in during my commute
-
-Just 2 or 3 items were enough to paint the whole thing bloody. Instead, this time I focused on the positive elements:
-* my workload is low, without urgent deliverables
-* my work hours are flexible
-* my commute is rather short, with minimal walk on both ends
-* I could read on the train, with a seat (offpeak hours)
-
-This is a simple and powerful illustration of positive perception.
-
-~~ Citi JE branch visit
-I was feeling bitter about the wasted trip, but hey, I was free on that day, and wanted to explore.
-
-I had a valid reason to visit it. On such trips, there's always a probability of "waste". It's like market risk.
 
 -- new or update bpost on quality time.. Every family outing must count
 Almost everyone involved is busy and each has to make adjustments to make it happen.
