@@ -1,3 +1,6 @@
+-- Bloomberg ML/DS
+hiring: DS + finance ... scarce
+
 -- update [18]proof-of-work ] blockchain
 Proof@Stake
 Q: what if a big "shareholder" of a ABC coin mishandles a validation, and adds a bad block to the ABC blockchain? 
