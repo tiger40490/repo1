@@ -1,5 +1,17 @@
--- Bloomberg ML/DS
+-- update: Bloomberg ML/DS
 hiring: DS + finance ... scarce
+
+I think bbg has a huge investment in AI/ML (or DS/ML?) since 2007
+
+I think the content of their presentations represents the cutting-edge and the most commercially viable applications of Blloomberg's research.
+
+I feel AI/ML is still a technology looking for a problem.
+
+* NLP solution is a sugar-coating UI to ease the usage of the Bloomberg terminal. The batch ingestion engine constantly analyses news articles and applies ML models to tag/index/classify content. Data quality is huge problem.
+
+* intraday order-flow data analytics for pre-trade signal .. see https://btv-gz.dreamhosters.com/40285/ai-predicting-security-price-skeptical/
+
+the Bloomberg API is mostly python, perhaps similar to PyTorch and TensorFlow.
 
 -- update [18]proof-of-work ] blockchain
 Proof@Stake
