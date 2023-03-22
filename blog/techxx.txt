@@ -13,6 +13,15 @@ I feel AI/ML is still a technology looking for a problem.
 
 the Bloomberg API is mostly python, perhaps similar to PyTorch and TensorFlow.
 
+~~ I feel these data scientists are not SWE. They use scripting languages and high level libraries. I think they might be similar to app developers using Angular.
+
+They might be similar to quants who write c++ code.
+
+However, a data science codebase can be large and complex, just not in the same way as a traditional compiled project.
+
+Does your skill as a c++/java/c# SWE make you a stronger candidate for a data science dev team, compared to a candidate coming from python, javascript, ruby etc? 
+Yes but not much.
+
 -- update [18]proof-of-work ] blockchain
 Proof@Stake
 Q: what if a big "shareholder" of a ABC coin mishandles a validation, and adds a bad block to the ABC blockchain? 
