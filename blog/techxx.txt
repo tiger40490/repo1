@@ -1,5 +1,7 @@
--- update: Bloomberg ML/DS
+-- update: seminar on DS/ML
 hiring: DS + finance ... scarce
+
+Engineering is a huge effort in data science team. I think they need devops, rather than C++/java SWE
 
 I think bbg has a huge investment in AI/ML (or DS/ML?) since 2007
 
