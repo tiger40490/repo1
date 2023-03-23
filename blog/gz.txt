@@ -1,3 +1,11 @@
+-- new or fuxi
+With probability JIV questions, my percentile is 96
+With math JIV questions, my percentile is 95
+with CIV on WSt, my percentile is 80
+With coreJava/c++ JIV, my percentile is 90
+With dnlg JIV, my percentile is 70
+with design or architecture question, my percentile is 60
+
 -- update bpost on addicted to employee benefits
 Q: I have a special arrangement where Credit Suisse pays for my children's school fees - will the arrangement be honored?
 

@@ -1,3 +1,14 @@
+
+-- fuxi:
+Whenever someone makes a proposition and says it is scientifically proven, we can ask 
+
+Q: Who proved it? 
+Q: Are they scientists in this domain? (Credentials?)
+Q: Is the result/data peer-reviewed? 
+Q: Who are those peers?
+
+I think in social sciences including psychology, peer review is even more important than in natural sciences
+
 -- update germany universities ranking
 I believe that German system doesn't try to allocate resources to one top university to increase its international ranking. German universities are reported "much more uniform". This means that if you only look at the very top, you will see a few US universities but not a single German one. At the same time any German university would count as fairly good compared to the average US university.
 
