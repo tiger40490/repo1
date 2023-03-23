@@ -15,7 +15,11 @@ I feel AI/ML is still a technology looking for a problem.
 
 the Bloomberg API is mostly python, perhaps similar to PyTorch and TensorFlow.
 
-~~ I feel these data scientists are not SWE. They use scripting languages and high level libraries. I think they might be similar to app developers using Angular.
+~~ i feel these data scientists are not SWE.. seldom uses compiled language. They are users of a software platform.
+
+java and c# are sometimes considered c/c++ applications. (In the same vein, c++ can be considered a C application since it is built on top of C.) I think this description ignored the fact that java / c# developers do need to worry about low-level details, and can achieve latency comparable to c++.
+
+these data scientists They use scripting languages and high level libraries. I think they might be similar to app developers using Angular.
 
 They might be similar to quants who write c++ code.
 
