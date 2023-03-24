@@ -1,6 +1,6 @@
 Hi Ashish,
 
-I learned many things today.
+Long letter, because I learned many things today. Reply to any point that catches your eyes.
 
 Re realloc(), I found a blogpost I wrote on realloc a few years ago. I thought blogging would help reinfoce learning. But today I didn't remember anything about realloc. 
 
@@ -11,3 +11,13 @@ Before the next c++ tech interview, I would review my 1000 ~ 2000 blogposts on c
 To a lesser extent, I will also experiment with my 50~100 c++ programs in my github account. Some programs were written (myself) to explore certain c++ topics. These experiments are probably similar to yours. 
 
 Looking back, I think I score higher, and forget slower in theoretical topics like bigO, data structures, probability and number theory puzzles. 
+
+Turning 50, I now notice a growing habit to self-identify with perceived declines commonly associated with aging. I actively self-identify with the sterotype, partly to protect my ego and self-esteem. This sterotype is a very broad brush that paints over and ignores huge individual differences. For a crude example, say we record at what age couples voluntarily reduce (full-strength) intercourse frequency to once a month. Some reach this threshold at 40, some at 70. The broad brush says it's 55 for all, so it is highly misleading. So what about my memory and coding test competence? As I said, the underlying, internal decline is actually small and slow at this stage but I routinely exaggerate it to explain various personal issues. It's a self-made lie told over and over. To recognize and expose it as a lie is painful and unpleasant, so I won't admit it as such.
+
+To be brutally honest with myself, here are some self-descriptions (hopefully unbiased) relative to you and others I count as my peers.
+
+* diet habit, workout .. excellent self-disciplilne; good condition for my age, albeit declining
+* cashflow high ground .. good non-work income; satisfactory total income; excellent burn rate, though rising :(
+* salary .. not much more to say. Contentment is a virtue. I believe I'm not underpaid for my age and work output, and I refuse to benchmark myself by researching about other people. I do talk informally about salary ranges in vastly different roles, uncomparable to my role.
+* self-renewal in tech skills .. slowing down
+* lagging behind the curve? Perhaps. As I todl you, I seldom notice a new technology worth learning. 
