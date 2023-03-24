@@ -1,0 +1,13 @@
+Hi Ashish,
+
+I learned many things today.
+
+Re realloc(), I found a blogpost I wrote on realloc a few years ago. I thought blogging would help reinfoce learning. But today I didn't remember anything about realloc. 
+
+Before the next c++ tech interview, I would review my 1000 ~ 2000 blogposts on c++/performance/memory/linux/socket/... and rebuild the same "memory graph" in my mind. When quizzed on a topic, I would then be able to "traverse" my graph and find relevant details to impress the interview and survive the competition. If that interview is 2030, then I should review in 2029, not now.
+
+(Obviously when I review my own blog, I would also read other content.)
+
+To a lesser extent, I will also experiment with my 50~100 c++ programs in my github account. Some programs were written (myself) to explore certain c++ topics. These experiments are probably similar to yours. 
+
+Looking back, I think I score higher, and forget slower in theoretical topics like bigO, data structures, probability and number theory puzzles. 
