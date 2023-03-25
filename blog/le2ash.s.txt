@@ -22,4 +22,18 @@ Re realloc(), I found a blogpost I wrote on realloc a few years ago. I thought b
 
 To a lesser extent, I will also experiment with my 50~100 c++ programs in my github account. I wrote some of them to explore certain c++ topics. These experiments are probably similar to yours, so I think you would say they are good for learning.
 
-Looking back, I think I score higher, and forget slower in theoretical topics like bigO, data structures, probability and number theory puzzles. 
+Re low-level optimization (latency etc), as practioners discover new optimizations based on new hardware,  I guess the low-level techniques are evolving year over year, so are the tech quiz topics. 
+I used to pass (or ace) interviews on lockfree, contiguous memory, SQL tuning,,, but Alas that hard-earned knowledge (a competitive advantage) is losing relevance :( I'm one of the victims in the endless race towards the elusive zero latency:) 
+
+Now I think this domain (i.e. low-level optimization) is fast-churn similar to GUI technology or web technlogy. Fast-churn is a Red Flag for greying technies who need "return on investment". My early investments in C, core-java, shell utilities, common algorithms, TCP/UDP, basic concurrency,,, have yielded better ROI. 
+
+There is also a body of core c++ knowledge that is always quizzed, so ROI is good. Some of the c++ topics you brought up today might suffer fast-churn, therefore not core-c++. Fast-churn techniques come and go, so "investment" in them may become irrelevant on interviews in X years. You are still young and may not agree. When you are 50 and struggle to cope with new interview topics, you might agree that some of the c++ topics you studied and aced in 2023 are fast-churn.
+
+Similarly, in concurrency domain, there is also a high-churn portion vs a stable body of knowledge always quizzed. Therefore, I take great pains to identify 
+
+core c++ vs high-churn c++
+core java vs high-churn java
+core concurrency vs newer high-churn concurrency techniques
+core data structure vs newer high-churn data structures
+
+Looking back, I think I score higher, and forget slower in theoretical topics like bigO, probability and number theory puzzles. Is there churn in these interviews?
