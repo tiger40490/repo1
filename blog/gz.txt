@@ -1,15 +1,3 @@
--- update bpost on addicted to employee benefits
-Q: I have a special arrangement where Credit Suisse pays for my children's school fees - will the arrangement be honored?
-
-Q: What happens to my loan/leasing/credit (in relation to employee rates)?
-
-Note WStC is never addicted to employee benefits.
-
--- update or new: how do immigration authorities identify elite talent
-For academic talent, research output would be the criterion used by immigration authorities (like an academic employer). However, most elite talents are not academic research.
-
-Criterion: education credentials. "Top 100 unviersity" lend more credibility than just about anything else
-Criterion: salary, as decided by an employer with due diligence
 
 -- new: inflated SWE wages: SG context ... or update bpost on "value creation by software industry"
 Trigger: IT fresh grads are paid $5k+ ((SWE? still higher), higher than fresh grads in engineering, accountancy, architect,,,
@@ -40,6 +28,7 @@ What you really want is "lower workload, rather than higher salary", but this is
 * staying in your comfort zone (Yes) while slowly taking up TSN
 * staying as a foot soldier, not moving up, without ambition
 
+
 -- update https://btv-gz.dreamhosters.com/31965/big-contractfte/ or new: free agent^FTE: salary gap
 when a corporate salesman or teacher/tutor goes independent i.e. becomes a free agent, usually she forgoes long-term career growth, and sometimes income growth. 
 
@@ -56,6 +45,21 @@ For WLB, free agent is usually superior, but good in my current FTE job.
 -- update bpost on workload, but which one?
 worker's skill and efficiency is a big unknown factor to a new project manager. 
 The longer you stay, the more efficient you become as a worker, but expectation on you also rises, as manager knows your skills better.
+
+-- update or new: how do immigration authorities identify elite talent
+For academic talent, research output would be the criterion used by immigration authorities (like an academic employer). However, most elite talents are not academic research.
+
+Criterion: education credentials. "Top 100 unviersity" lend more credibility than just about anything else
+Criterion: salary, as decided by an employer with due diligence
+
+-- update bpost on addicted to employee benefits
+Q: I have a special arrangement where Credit Suisse pays for my children's school fees - will the arrangement be honored?
+
+Q: What happens to my loan/leasing/credit (in relation to employee rates)?
+
+Note WStC is never addicted to employee benefits.
+
+Bonus can be addictive. One of the common features of addictiion is "growing dosage"
 
 -- LG2 update bpost on feel`satisfied more than peers .... or the later bpost on "by half"
 in a 2022 nightmare, I rejoined Macq and was dismissed again. 
@@ -90,5 +94,3 @@ Also, Sachin's localSys didn't earn much appr.
 
 Factor: VP peer benchmark ... esp. in terms of localSys and value-add. Benchmark breeds inferiority. I have never wanted to be benchmarked with VPs. At RTS and Mvea, I was never benchmarked with VPs. In EPA, I try not to care or observe. I tell myself that we are all (informally) evaluated, all the time, by everyone but I'm older and less capable. I do that to fend off the inferiority.
 
--- new: bonus can be addictive
-One of the common features of addictiion is "growing dosage"

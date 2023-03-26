@@ -1,22 +1,3 @@
-
--- update curiositySou
-celebrity news .. we don't need to search. The important news would always come to me.
-
-case study: when I researched on "richest country of latam", I was drawn into the different ways to measure national wealth. Unplanned. Energy sink !
--- fuxi:
-Whenever someone makes a proposition and says it is scientifically proven, we can ask 
-
-Q: Who proved it? 
-Q: Are they scientists in this domain? (Credentials?)
-Q: Is the result/data peer-reviewed? 
-Q: Who are those peers?
-
-I think in social sciences including psychology, peer review is even more important than in natural sciences
-
--- update germany universities ranking
-I believe that German system doesn't try to allocate resources to one top university to increase its international ranking. German universities are reported "much more uniform". This means that if you only look at the very top, you will see a few US universities but not a single German one. At the same time any German university would count as fairly good compared to the average US university.
-
-If you want a university that scores in the top 10 internationally, a necessary but insufficient condition is an amount of funding similar to the current top 10. No German university is anywhere close to that amount of money and the German government, which provides the bulk of their funding, is (currently) not interested in giving out that amount of funding to a single university. 
 -- new: %%prejudie: China's innovation
 I have a growing prejudice that China is a immitator, follower not an innovator as Americans and Europeans are. But consider
 
@@ -25,6 +6,16 @@ I have a growing prejudice that China is a immitator, follower not an innovator 
 * The west also picked up many things from India, East Asian cultures...
 
 Math (and comp science to some extent) .. China didn't invent any, but China students have very strong foundations.
+
+-- update curiositySou
+celebrity news .. we don't need to search. The important news would always come to me.
+
+case study: when I researched on "richest country of latam", I was drawn into the different ways to measure national wealth. Unplanned. Energy sink !
+
+-- update germany universities ranking
+I believe that German system doesn't try to allocate resources to one top university to increase its international ranking. German universities are reported "much more uniform". This means that if you only look at the very top, you will see a few US universities but not a single German one. At the same time any German university would count as fairly good compared to the average US university.
+
+If you want a university that scores in the top 10 internationally, a necessary but insufficient condition is an amount of funding similar to the current top 10. No German university is anywhere close to that amount of money and the German government, which provides the bulk of their funding, is (currently) not interested in giving out that amount of funding to a single university. 
 
 ==== new kindness
 I see myself as a kind person. Kindness is one of the G3 essential traits of a good person, a decent person, or a high-quality person. You want kind individuals in your team, in your family.
@@ -49,6 +40,16 @@ I'm also a good husband. Many otherwise kind man are unfaithful.
 A leader needs moral compass, so kindness is less important.
 
 ====
+-- fuxi:
+Whenever someone makes a proposition and says it is scientifically proven, we can ask 
+
+Q: Who proved it? 
+Q: Are they scientists in this domain? (Credentials?)
+Q: Is the result/data peer-reviewed? 
+Q: Who are those peers?
+
+I think in social sciences including psychology, peer review is even more important than in natural sciences
+
 -- new untitled
 Why NYU has so many alumni on WallSt, even though not a top 20 college?
 Why HK has so many "top financial professionals" out of a tiny population?
