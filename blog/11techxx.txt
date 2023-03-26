@@ -1,3 +1,19 @@
+-- fuxi or ..
+Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to gain a deeper understanding and confidence". NOw I think I was wrong.
+
+* If interviewer is really hardcore, he could drill in beyond my 5x knowledge and see the limit of my knowledge, so I'm no better than those candidates.
+* if interviewer is mid-way in-depth, then I could differentiate myself from those candidates.
+* if interviewer has a long list of easy questions, then both me and those candidates would pass.
+
+One advantage of my approach is knowledge graph .. where incrementally I connected the dots and deepen my understanding.
+
+Sugg: read widely and quickly, and expand the knowledge graph.
+
+-- update or new threading in c++ less popular than in java
+Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
+
+Factor: the c++ shops I try are all trading shops. They choose c++ for latency. To optimize latency, STM is best, rather than multi-threading.
+
 -- update: seminar on DS/ML
 hiring: DS + finance ... scarce
 
