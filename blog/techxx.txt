@@ -1,16 +1,3 @@
--- new: misstep: accidental amend of last pushed commit
-frequent mistake:
-
-1) I commit a file on branch3, and git-push
-2) I revise recent change and git-commit-amend. This is a misstep, as the new tip of branch3 is a modified version of the origin/branch3. The two branches have divered.
-3) when I git-push, I fail
-
-Simple solution: 
-1) back up affected files
-2) git reset origin/branch3
-3) git commit # creates a new commit on top of the origin/branch3 tip
-4) git push
-
 -- update: seminar on DS/ML
 hiring: DS + finance ... scarce
 
@@ -37,6 +24,19 @@ However, a data science codebase can be large and complex, just not in the same 
 
 Does your skill as a c++/java/c# SWE make you a stronger candidate for a data science dev team, compared to a candidate coming from python, javascript, ruby etc? 
 Yes but not much.
+
+-- new: misstep: accidental amend of last pushed commit
+frequent mistake:
+
+1) I commit a file on branch3, and git-push
+2) I revise recent change and git-commit-amend. This is a misstep, as the new tip of branch3 is a modified version of the origin/branch3. The two branches have divered.
+3) when I git-push, I fail
+
+Simple solution: 
+1) back up affected files
+2) git reset origin/branch3
+3) git commit # creates a new commit on top of the origin/branch3 tip
+4) git push
 
 -- update [18]proof-of-work ] blockchain
 Proof@Stake
