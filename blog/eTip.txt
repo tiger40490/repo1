@@ -4,6 +4,9 @@ gmail -> search settings -> specify size, but leave other settings unchanged.
 You should see "larger:5M" as the only searchString in the searchBox. This probably indicates no other filter.
 
 You should then see many emails greating that size across the years.
+
+WindowsApps folder -- not worth optimizing. Quite risky.
+
 -- new: Canon Pixma printer cartridge replace
 :) no computer required, but stayed powered
 
@@ -19,9 +22,6 @@ Sugg: folder name had better be suggestive.
 
 Sugg: try symlinks/shortcuts. Two copies of the same shortcut can go into two folders.
 
--- update bpost on diskhog
-WindowsApps folder -- not worth optimizing. Quite risky.
-
 -- fuxi:
 according to Starhub, a new router can last 1-2 Y before degredation. That's why they give a new router every 2Y
 
@@ -29,8 +29,3 @@ according to Starhub, a new router can last 1-2 Y before degredation. That's why
 New remote doesn't have a button to do the purchase. It's all on-screen.
 
 The only way to prevent accidental purchase is parental control. 4-digit password.
-
--- new: starhub: loss2remoteControl
-$16 to replace.
-
-Can wrap it in tape, so as to attach a big toy.

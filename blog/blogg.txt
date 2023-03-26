@@ -1,7 +1,5 @@
 -- 
-i now spend more time updating than creating bposts... improving based on experience
-
--- remove "blog" alias
+i now spend more time updating than creating bposts... An improvement based on experience
 
 -- update category ^ tag
 category tree.
