@@ -1,3 +1,7 @@
+-- new:
+Now I understand the need for 2FA.
+U.S. ebanking sites don't use 2FA and therefore someone can steal my password and impersonate me !
+
 -- new: ex-classmates' husbands or update left-behind
 When I think of a female ex-classmate, I often ask myself what kind of husband they have. I don't know any of those husbands, but I usually assume them to be 高富帅. An invented inferiority! 
 
