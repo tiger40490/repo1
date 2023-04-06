@@ -1,3 +1,11 @@
+-- update bpost on chain of credibility
+university branding lend credibility to their researhers
+Similarly, national academies 
+
+Nobel committee lends credibility to the laureats... most commonly in Econs and bio-medical domains.
+
+major newspapers (and news agencies) lend credibility to their journalists.
+
 -- new:
 Now I understand the need for 2FA.
 U.S. ebanking sites don't use 2FA and therefore someone can steal my password and impersonate me !
