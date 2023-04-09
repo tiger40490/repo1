@@ -1,45 +1,20 @@
 -- fuxi or ..
-Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to gain a deeper understanding and confidence". NOw I think I was wrong.
+Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to understand deeper". Now I am different.
 
-* If interviewer is really hardcore, he could drill in beyond my 5x knowledge and see the limit of my knowledge, so I'm no better than those candidates.
+* If interviewer is really hardcore, he might drill in beyond my 5x knowledge and see the limit of my knowledge, so I'm no better than those candidates.
 * if interviewer is mid-way in-depth, then I could differentiate myself from those candidates.
 * if interviewer has a long list of easy questions, then both me and those candidates would pass.
+
+The key -- what level of depth is expected of me?
 
 One advantage of my approach is knowledge graph .. where incrementally I connected the dots and deepen my understanding.
 
 Sugg: read widely and quickly, and expand the knowledge graph.
 
--- update or new threading in c++ less popular than in java
+-- update or new: threading in c++ less popular than in java
 Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
 
-Factor: the c++ shops I try are all trading shops. They choose c++ for latency. To optimize latency, STM is best, rather than multi-threading.
-
--- update: seminar on DS/ML
-hiring: DS + finance ... scarce
-
-Engineering is a huge effort in data science team. I think they need devops, rather than C++/java SWE
-
-I think BQuant is a huge investment in DS/ML/AI since 2007.
-I think the two BQuant presentations represent the most commercially viable applications of BQuant DS/ML research. Both presentations offer emerging, tantatilizing value propositions. The absence of a more concrete value proposition suggests that AI/ML is still a solution looking for a problem. 
-
-* NLP solution includes a sugar-coating UI to ease the usage of the Bloomberg terminal. The main value-add is a an ingestion engine constantly analysing news articles and applying ML models to tag/index/classify content. Users can perform high-level sentiment analysis.
-
-* intraday order-flow data analytics for pre-trade signal .. see https://btv-gz.dreamhosters.com/40285/ai-predicting-security-price-skeptical/
-
-the Bloomberg API is mostly python, perhaps similar to PyTorch and TensorFlow.
-
-~~ i feel these data scientists are not SWE.. seldom uses compiled language. They are users of a software platform.
-
-java and c# are sometimes considered c/c++ applications. (In the same vein, c++ can be considered a C application since it is built on top of C.) I think this description ignored the fact that java / c# developers do need to worry about low-level details, and can achieve latency comparable to c++.
-
-these data scientists They use scripting languages and high level libraries. I think they might be similar to app developers using Angular.
-
-They might be similar to quants who write c++ code.
-
-However, a data science codebase can be large and complex, just not in the same way as a traditional compiled project.
-
-Does your skill as a c++/java/c# SWE make you a stronger candidate for a data science dev team, compared to a candidate coming from python, javascript, ruby etc? 
-Yes but not much.
+Factor: the c++ shops I try are all trading shops. They choose c++ for latency. To optimize latency, STM is best, rather than multi-threading. So I think their c++ threading questions are light.
 
 -- new: misstep: accidental amend of last pushed commit
 frequent mistake:
