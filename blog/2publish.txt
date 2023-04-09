@@ -1,3 +1,7 @@
+
+-- update bpost on U.S. household contingency reserve
+As of 2019, the typical Black or Hispanic family has $2,000 or less in liquid savings, the typical White family has more than four times that amount.
+
 -- update: seminar on DS/ML
 hiring: DS + finance ... scarce
 I think this means hiring team's criteria is too high, perhaps with non-trivial dnlg
