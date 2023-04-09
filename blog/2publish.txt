@@ -1,12 +1,14 @@
 -- update: seminar on DS/ML
 hiring: DS + finance ... scarce
+I think this means hiring team's criteria is too high, perhaps with non-trivial dnlg
 
-Engineering is a huge effort in data science team. I think they need devops, rather than C++/java SWE
+Engineering is a huge effort in data science team. I think they need devops, or scripting SWE, rather than C++/java SWE. 
+However, java SWE may lack know-how with certain packages.
 
 I think BQuant is a huge investment in DS/ML/AI since 2007.
 I think the two BQuant presentations represent the most commercially viable applications of BQuant DS/ML research. Both presentations offer emerging, tantatilizing value propositions. The absence of a more concrete value proposition suggests that AI/ML is still a solution looking for a problem. 
 
-* NLP solution includes a sugar-coating UI to ease the usage of the Bloomberg terminal. The main value-add is a an ingestion engine constantly analysing news articles and applying ML models to tag/index/classify content. Users can perform high-level sentiment analysis.
+* NLP solution includes a sugar-coating UI to ease the usage of the Bloomberg terminal. The main value-add is an ingestion engine constantly analysing news articles and applying ML models to tag/index/classify content. Users can perform high-level sentiment analysis.
 
 * intraday order-flow data analytics for pre-trade signal .. see https://btv-gz.dreamhosters.com/40285/ai-predicting-security-price-skeptical/
 
@@ -14,14 +16,17 @@ the Bloomberg API is mostly python, perhaps similar to PyTorch and TensorFlow.
 
 ~~ i feel these data scientists are not SWE.. seldom uses compiled language. They are users of a software platform.
 
-java and c# are sometimes considered c/c++ applications. (In the same vein, c++ can be considered a C application since it is built on top of C.) I think this description ignored the fact that java / c# developers do need to worry about low-level details, and can achieve latency comparable to c++.
+java and c# are sometimes considered c/c++ applications. (In the same vein, c++ can be considered a C application since it is built on top of C.) I think this description ignores the fact that java / c# developers do need to worry about low-level details.
 
-these data scientists They use scripting languages and high level libraries. I think they might be similar to app developers using Angular.
+These data scientists. They use scripting languages and high level libraries. I think they might be similar to app developers using Angular.
 
 They might be similar to quants who write c++ code.
 
 However, a data science codebase can be large and complex, just not in the same way as a traditional compiled project.
 
+However, traditional scientists don't write code. 
+
 Does your skill as a c++/java/c# SWE make you a stronger candidate for a data science dev team, compared to a candidate coming from python, javascript, ruby etc? 
 Yes but not much.
 
+I see high churn in this domain.
