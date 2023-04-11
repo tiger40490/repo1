@@ -1,9 +1,3 @@
--- update or new: Those who chose me=successful/admirable/desirable/...
-my wife
-UChicago chose me in an admission exercise of 10% selectivity; HwaChong chose me with a big risk. (NUS and Shiyan didn't really choose me.)
-MLP, GS, MS, Nasdaq, Verizon ... chose me
-Singapore ICA chose me when I applied for PR and citizenship.
-
 -- new:
 Now I understand the need for 2FA.
 U.S. ebanking sites don't use 2FA and therefore someone can steal my password and impersonate me !
