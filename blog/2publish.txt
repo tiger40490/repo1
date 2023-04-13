@@ -1,3 +1,15 @@
+-- Dear tall boy,
+
+Your high debt in terms of outstanding/unserved penalties is a suprisingly hard problem. It's a persistent gap in our parent-child contract, and I have not found a better solution than the default solution. In the default solution, you need to serve your sentence in base-camp or camp-0 for many days to reduce the outstanding penalties.
+
+I propose we slowly convert some of that base-camp debts into cash debts.
+
+For example, we can convert 5 days (lock-up in base camp) into SGD 800.
+
+If the SGD amount is too heavy like $200/day-in-base-camp, then you would be losing most of your (almost $5000) bank balance. That would create a pressure on me to rebuild your bank balance, and consequently I would end up giving you too many lavish financial rewards.
+
+If the SGD amount is too low like $10/day-in-base-camp, then you would be pardoned too lightly for your offenses. In other words, you would get off the hook without paying a real price. 
+
 -- new: hypothesis: BMI: Sg > U.S.
 workout .. I suspect that my Sg workout is more than U.S. workout, in terms of calorie burned, and my Sg calorie intake is similar to U.S.
 
