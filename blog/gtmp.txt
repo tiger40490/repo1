@@ -1,29 +1,21 @@
--- new Sgp Doctor income
-http://www.salaryexplorer.com/salary-survey.php?loc=196&loctype=1&job=13&jobtype=2#disabled has salary figures for 50+ specialties.
-From the comparison, you can get a feel of how each specialization stands.
-
-https://www.salary.sg/2007/doctors-pay/ is fairly realistic.
-
--- new:
-Now I understand the need for 2FA.
-U.S. ebanking sites don't use 2FA and therefore someone can steal my password and impersonate me !
+-- fuxi: am proactive with my wireless@sg troubleshooting, before it became a bigger problem.
 
 -- new untitled
 Why NYU has so many alumni on WallSt, even though not a top 20 college?
-Why HK has so many "top financial professionals" out of a tiny local population (excluding foreigners)?
 Why U.S. produces most of the top basketball players, out of 4% of world population?
-Why such a high concentration of Nobel Econs prizes in UChicago, Harvard and MIT? These universities are at the forefront.
-Why such a high concentration of English-speaking movie stars, even though the 5 English speaking countries add up to below 400M population only.  
+Why such a high concentration of Nobel Econs prizes in UChicago, Harvard and MIT? These universities are the tip of the forefront.
+The 5 English speaking countries add up to below 400M population, but why they produce so many global movie stars?
 
 Answer: contexx or opportunity to develop talents.
 
 Sg gov pick upstream domains like financial, life science, digital tech, and bring in multinationals who provide the skill-upgrading contexx to Singaporeans.
 
--- new: %%prejudie: China's innovation
-I have a growing prejudice that China is a immitator, follower not an innovator as Americans and Europeans are. But consider
+-- new: %%prejudice: China's innovation
+I have a growing prejudice that China is an immitator, follower,,, not an innovator like Americans and Europeans. But consider
 
 * 拿来主义 is positive attitude. A country too arrogant to 放下身段 and adopt other cultures will pay a price and decline.
 * Japan is the first Asian country to open up and reform to adopt western systems ...
+* Japan, Korea, Taiwan,,,, try very hard to innovate but aren't more successful than China. China and Japan both enjoy big domestic markets.
 * The west also picked up many things from India, East Asian cultures...
 
 Math (and comp science to some extent) .. China didn't invent any, but China students have very strong foundations.
