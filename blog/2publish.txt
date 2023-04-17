@@ -1,20 +1,21 @@
 
 -- new: 2FA for financal sites
-Now I understand the need for 2FA.
+After Edwin told me about hacking, now I understand the need for 2FA.
 U.S. ebanking sites don't use 2FA and therefore someone can steal my password and impersonate me !
+
+High credit limit is another hazard.
 
 -- new: hypothesis: BMI: Sg > U.S.
 workout .. I suspect that my Sg workout is more than U.S. workout, in terms of calorie burned, and my Sg calorie intake is similar to U.S.
 
-base metabolic rate .. Perhaps the base metabolic rate is lower in Sg.
+base metabolic rate .. Perhaps the base metabolic rate is lower in Sg, but I have no edvidence.
 
 water weight .. Perhaps my body retains more water in Sg than in U.S.
 
 We don't know the exact calorie numbers. It's possible that in SG the measurable calorie in my diet is similar to U.S., but the energy taken in by the body is higher.
 
 -- update bpost chain@credibility: dating/bccy
-university branding lend credibility to their researhers
-Similarly, national academies 
+university branding (and national academies, but to a lesser extent) lend credibility to their researhers
 
 Nobel committee lends credibility to the laureats... most commonly in Econs and bio-medical domains.
 
@@ -47,6 +48,7 @@ Related to "merchandize return", another major tcost and stressor is keeping tra
 When I lose such an item (perhaps at home or discarded), and have to buy again, I feel an acute self-hate, but this self-hate goes against use-without-care
 
 For example, I removed the red pedestal pair from my bike after boy stopped using them. I kept them at home for a few years and discarded them. Then my daughter needed them so I had to buy online. Actually I did all the right things so regret is not justified.
+
 -- update bpost on U.S. household contingency reserve
 As of 2019, the typical Black or Hispanic family has up to $2,000 in liquid savings, the typical White family has more than four times that amount.
 
