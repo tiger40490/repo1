@@ -17,6 +17,8 @@ Sugg: try symlinks/shortcuts. Two copies of the same shortcut can go into two fo
 -- fuxi:
 according to Starhub, a new router can last 1-2 Y before degredation. That's why they give a new router every 2Y
 
+Shall we ask starhub?
+
 --new starhub-TV: unwanted purchase content
 New remote doesn't have a button to do the purchase. It's all on-screen.
 
