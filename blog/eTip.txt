@@ -1,11 +1,3 @@
--- new or update: gmail disk hogs
-gmail -> search settings -> specify size, but leave other settings unchanged.
-
-You should see "larger:5M" as the only searchString in the searchBox. This probably indicates no other filter.
-
-You should then see many emails greating that size across the years.
-
-WindowsApps folder -- not worth optimizing. Quite risky.
 
 -- new: Canon Pixma printer cartridge replace
 :) no computer required, but stayed powered

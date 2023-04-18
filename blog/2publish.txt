@@ -7,6 +7,15 @@ Duration is not so important to that fulfillment. In my experience, PmE (prematu
 
 For years, I was frequently starved in terms of frequency (i.e. fulfillment, underfucked). However, I have never complained about duration or quality of the intercourse. Only in 2021/2022 did I experience consistently high quality intimacy largely thanks to duration.
 
+-- new or update: gmail disk hogs
+gmail -> search settings -> specify size, but leave other settings unchanged.
+
+You should see "larger:5M" as the only searchString in the searchBox. This probably indicates no other filter.
+
+You should then see many emails greating that size across the years.
+
+WindowsApps folder -- not worth optimizing. Quite risky.
+
 -- new: 2FA for financal sites
 After Edwin told me about hacking, now I understand the need for 2FA.
 U.S. ebanking sites don't use 2FA and therefore someone can steal my password and impersonate me !
