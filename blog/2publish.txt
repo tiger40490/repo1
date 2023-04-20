@@ -1,4 +1,9 @@
 
+-- update curiositySou
+celebrity news .. we don't need to search. The important news would find its way to me.
+
+case study: when I researched on "richest country of latam", I was drawn into the different ways to measure national wealth. Unplanned. Energy sink !
+
 -- update germany universities ranking
 I believe that German system doesn't try to allocate resources to one top university to increase its international ranking. German universities are reported "much more uniform". This means that if you only look at the very top, you will see a few US universities but not a single German one. At the same time any German university would count as fairly good compared to the average US university.
 
