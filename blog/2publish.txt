@@ -1,3 +1,11 @@
+
+-- update germany universities ranking
+I believe that German system doesn't try to allocate resources to one top university to increase its international ranking. German universities are reported "much more uniform". This means that if you only look at the very top, you will see a few US universities but not a single German one. At the same time any German university would count as fairly good compared to the average US university.
+
+If you want a university that scores in the top 10 internationally, a necessary but insufficient condition is an amount of funding similar to the current top 10. No German university is anywhere close to that amount of money and the German government, which provides the bulk of their funding, is (currently) not interested in giving out that amount of funding to a single university. 
+
+I think funding is a necessary condition in many science domains + econs
+
 -- update: EDyw: duration^frq
 Duration is important to my pleasure and gratification; frequency of penetration intercourse is important to the fulfillment/satisfaction of my basic biological needs, therefore more critical.
 
