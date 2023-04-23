@@ -1,3 +1,7 @@
+-- new: jeopardize vs threaten
+Jeopardize is usually unintentional
+threaten is usually intentional
+
 -- new: expectationOf
 Fathers expect their kids to obey, and cooperate, and to be hunble,,,
 
