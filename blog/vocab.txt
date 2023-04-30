@@ -1,7 +1,7 @@
 -- new: verbs preceding adjectives
 sense verbs [look, seem, appear, taste, sound, feel, or smell, ]
 
-Linking Verbs [become, get, go, grow, prove, remain, stay, turn,]
+Linking Verbs [act, become, get, go, grow, prove, remain, stay, turn,]
 
 -- new: jeopardize vs threaten
 Jeopardize is usually unintentional
