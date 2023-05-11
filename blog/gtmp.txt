@@ -1,3 +1,11 @@
+--update ...
+~~ Grade A/B/C
+In my initial NUS years I was confident about hitting A's. In hind sight, I was well above average in my cohort. 
+
+Then in my last years, I hit many C's and even D's. In hind sight, I was losing my position. I ended with Upper2ndClass honors
+
+In UChicago, I had the opposite experience. I started with low expectations -- a pass. Then I emerged well above average and scored mostly A's.
+
 -- new: 6-char PNR
 A.k.a RecordLocator
 
