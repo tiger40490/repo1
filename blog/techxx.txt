@@ -1,3 +1,6 @@
+-- update:
+rebase merge would create new create hash strings, but content of each commit is retained.
+
 -- fuxi or ..
 Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to understand deeper". Now I am different.
 
