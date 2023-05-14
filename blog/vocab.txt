@@ -10,12 +10,12 @@ Linking Verbs [act, become, get, go, grow, prove, remain, stay, turn,]
 Jeopardize is usually unintentional
 threaten is usually intentional
 
--- new: expectationOf
+-- new: expectation-Of
 Fathers expect their kids to obey, and cooperate, and to be hunble,,,
 
-Cooperation is part of fathers' expectations of_the_kids.
+Cooperation is part of fathers' expectations placed_on_the_kids.
 
-Some kids don't understand the expectation of_their_fathers.
+Some kids don't understand the expectation in_their_fathers's_mind.
 
 -- new: ageist, ageism
 More flexible and adaptable than "age-discrimination" 
