@@ -1,3 +1,33 @@
+-- new exercise: frq^duration^intensity
+This bpost is "trying" to be more focused, less forgetable esp. in its title.
+
+The BBC [[Lazy guide to exercise]] asked "What's the minimum amount of exercise to keep us healthy?" The program primarily looks at the maintenance of three target systems i.e. cardio-respiratory and muscle "upkeep"
+
+~~ intensity (vs duration)
+Short but intense bursts do count.
+short but light activities (like slow walk, housework) do count.
+By walking faster, you do "score" more points.
+If you have a few seconds of dash to catch a train (if safe), it too help you score more points. 
+
+Most people can't hit 150 minutes/week (30m x 5) of moderate workout. For them, short but intense workouts can be more achieveable.
+
+~~ frequency.. In my theory, sustainable_frequency is probably more important than intensity or duration. To hit the necessary frequency, I could build up the calorie amount incrementally throughout the day, or I could try a short burst like 15 flights of stairs. 
+
+Workout frequency really boosts my self-esteem but can be unsustainable. It requires perception of reality, self-acceptance, fine-tuning/adjustments (tough).
+
+when it's hard to hit 5/wk,
+* be flexible with shorter workouts. Start early during the day. incremental build-up .. For boxing, chin-up, squat and stairs, we can incrementally build up an active day.
+* accept that it could feel like a chore
+
+~~ duration .. 30-minute sessions are a well-known criteria for "effective workout", including reasonable amount of rests + cool-down. So how much rest is reasonable? It actually varies greatly:
+
+in swimming pool .. many swimmers rest 80% of the time. 60% is kinda average.
+in the exercise corners downstairs .. many people rest 90% of the time. 70% is kinda average.
+A class .. more disciplines than exercise corners.. instructor is the pacer.. typically 15-30%
+my jog .. below 5%.
+
+I prefer [10<-20] minutes of slow jog as my criteria. https://btv-open.dreamhosters.com/wp-admin/post.php?post=23343&action=edit lists some workouts that are equivalent to 10-min slow jog (about 1.5 - 2km). There are actually two yardsticks of "equivalence". I'm using "absorbency", not "cardio/calorie". Depending on the context, in each item below the upper limit in a range like  [...-30] usually means "30 counts would match 10 min jog in terms of calorie/cardio".  Notably Jogging has high cardio effect and requires the lowest absorbency as explained in star_rating of power-surges, so using something like skip-rope to match such a high cardio effect requires too much absorbency , too much to be impractical. I would rather set a lower target than setting my regime on a march to hell.
+=====
 -- update
 I attended UrbanDen yoga class with 20 other students, the first big class in a year.
 Some of the students near my mat were, like deja vu, so flexible as to put me to shame. 
