@@ -1,9 +1,3 @@
---email to wife how her 100k FSM holdings dwindled. 
-This is a good project -- efficient, early plann, good habit, proactive recon
-
--- update which bpost?
-how many percent of Singaporeans have an exp recon system with 1-decimal precision i.e. 0.1k i.e. $100
-
 -- update or new: enough nest egg2retire@current burn rate 
 Claim: you can and need to invest in stocks since young.
 My take: Only U.S. stocks...
@@ -13,6 +7,11 @@ Observation: many countries' public pension-like system pays you only a fraction
 My Rule #1: be realisitc about retiring in style, and don't aim at current burn rate. Exclude housing and healthcare, aim at half the current burn rate.
 
 My Rule 1b: from young age, take up the legwork to find long-term solutions for housing and healthcare.
+
+-- update which bpost?
+how many percent of Singaporeans have an exp recon system with 1-decimal precision i.e. 0.1k i.e. $100
+
+This is a precise question. I would guess below 1%.
 
 -- update bpost on income vs wealth stats
 Wealth (net asset) statistics are often based on surveys (including questionnaires). However, home equity, brokerage portfolios, 401k, SSA account.. are reported to U.S. government. 
@@ -44,3 +43,5 @@ sugg: keep $50 notes in several places like office, cockpit1, cockpit4
 
 -- update xxx
 It's hard to find property in SG below market value, but some sReits trade below NAV.
+
+--email to wife how her 100k FSM holdings dwindled. 
