@@ -21,11 +21,19 @@ when people say avocado, nuts, salmon...are good for slimming, and backed by res
 
 If you are already on healthy diet, then these foods could be LESS healthy than your current diet!
 
+
+-- update bpost on income vs wealth stats
+Wealth (net asset) statistics are often based on surveys (including questionnaires). However, home equity, brokerage portfolios, 401k, SSA account.. are reported to U.S. government. 
+
+Income statistics are mostly based on tax filing and far more accurate.
+
+There are unreported incomes and unreported assets. I won't speculate which of the two is a bigger problem to the statistician.
+
 -- update bpost on 5/wk
 Q: Regarding my active-day defninitions, how long (years) will they stay relevant?
 A: I choose to be optmistic and believe in myself, so 5Y at least.
 
--- new: effortphysical measurement to qualify for active days
+-- new: effort^physical measurement to qualify for active days
 I want to rationalize and refine my definitions.
 Two ways to measure aggregate amount of daily workout -- 1) measurement 2) effort
 

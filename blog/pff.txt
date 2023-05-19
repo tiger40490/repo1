@@ -6,19 +6,12 @@ Observation: many countries' public pension-like system pays you only a fraction
 
 My Rule #1: be realisitc about retiring in style, and don't aim at current burn rate. Exclude housing and healthcare, aim at half the current burn rate.
 
-My Rule 1b: from young age, take up the legwork to find long-term solutions for housing and healthcare.
+My Rule #1b: from young age, take up the legwork to find long-term solutions for old age housing and healthcare.
 
 -- update which bpost?
 how many percent of Singaporeans have an exp recon system with 1-decimal precision i.e. 0.1k i.e. $100
 
 This is a precise question. I would guess below 1%.
-
--- update bpost on income vs wealth stats
-Wealth (net asset) statistics are often based on surveys (including questionnaires). However, home equity, brokerage portfolios, 401k, SSA account.. are reported to U.S. government. 
-
-Income statistics are mostly based on tax filing and more accurate.
-
-There are unreported incomes and unreported assets. I won't speculate which of the two is a bigger problem to the statistician.
 
 -- update https://tanbinvest.dreamhosters.com/13021/sizeretirement-income-from-assets-u-s-data/
 XianHua said a U.S. retiree in his case 
