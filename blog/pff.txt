@@ -1,8 +1,21 @@
--- update bpost on exp recon priorities
+-- new untitled
+When I told YY and YYT that I can retire with enough savings + NNIA, what they don't know is my salary. 
+
+Mathematically, my current salary is a null term in the retirement equation, where the income side consists solely of NNIA. So why is current salary actually crucial?
+
+A: If they find out my income is 5k vs 50k, then this info immediately anchors their assumptions about my current burn rate. They would have some idea about my retirement equation amounts.
+A: my current salary remains a huge factor affecting my motivation to stay employed rather than early retirement.
+A: As I told each audience, my ffree is mathematically barebones, based on low burn rates. Therefore, each time I get a salary, it strengthens my nest egg and improves my retirement "high ground".
+
+-- update https://tanbinvest.dreamhosters.com/12643/exp-recon-s-sheet-goalspriorities-comm/
 Tracking monthly savings amount .. a G8 priority.
 Task is complicated by  investment amounts 
 
-U.S. pff advice is "stick to monthly savings goals" but I don't need this discipline. So tracking the actual savings amount becomes extra legwork with poor leverage. 
+U.S. pff advice is "Follow monthly savings goals" but I don't need such self-discipline. 
+
+The increment between liquid_NAV snapshots is a nominal savings amount, but it excludes II (monthly investment amounts). Even if you add the II, the savings amount is still different from the reality.
+
+Tracking the actual savings amount becomes /unrewarding/ legwork with poor leverage. 
 In contrast, exp recon has high tcost and high leverage.
 
 -- update or new: enough nest egg2retire@current burn rate 
