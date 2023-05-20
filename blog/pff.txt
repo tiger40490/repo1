@@ -1,3 +1,10 @@
+-- update bpost on exp recon priorities
+Tracking monthly savings amount .. a G8 priority.
+Task is complicated by  investment amounts 
+
+U.S. pff advice is "stick to monthly savings goals" but I don't need this discipline. So tracking the actual savings amount becomes extra legwork with poor leverage. 
+In contrast, exp recon has high tcost and high leverage.
+
 -- update or new: enough nest egg2retire@current burn rate 
 Claim: you can and need to invest in stocks since young.
 My take: Only U.S. stocks...
