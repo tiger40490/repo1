@@ -7,15 +7,6 @@ A: If they find out my income is 5k vs 50k, then this info immediately anchors t
 A: my current salary remains a huge factor affecting my motivation to stay employed rather than early retirement.
 A: As I told each audience, my ffree is mathematically barebones, based on low burn rates. Therefore, each time I get a salary, it strengthens my nest egg and improves my retirement "high ground".
 
--- update https://tanbinvest.dreamhosters.com/12643/exp-recon-s-sheet-goalspriorities-comm/
-Tracking monthly savings amount .. a G8 priority.
-U.S. pff advice is "Follow monthly savings goals" but I don't need such self-discipline. 
-
-The increment between liquid_NAV snapshots is a nominal savings amount, but it excludes II (monthly investment amounts). Even if I add the II, the savings amount is still way off.
-
-Tracking the actual savings amount becomes /unrewarding/ legwork with poor leverage. 
-In contrast, exp recon has high tcost and high leverage.
-
 -- update or new: enough nest egg2retire@current burn rate 
 Claim: you can and need to invest in stocks since young.
 My take: Only U.S. stocks...
