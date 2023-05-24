@@ -1,3 +1,12 @@
+-- new: fintech: %%definition
+Why bother?
+
+My definition will be based on https://bootcamp.cvn.columbia.edu/blog/what-is-fintech/
+
+Early credit cards in the 1950s generally represent the first fintech products available to the public.
+
+In this Columbia blog, the criteria is vague. No acid test. The concept is more alined to consumer finance or mass-market finance.
+
 -- update bpost on workload, but which one?
 worker's skill and efficiency is a big unknown factor to a new project manager. 
 The longer you stay, the more efficient you become as a worker, but expectation on you also rises, as manager knows your skills better.
