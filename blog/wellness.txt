@@ -1,3 +1,6 @@
+-- update: 5/wk
+walking down stairs takes 1/3 of the "effort" as climbing
+
 -- update
 I attended UrbanDen yoga class with 20 other students, the first big yoga class in a year.
 Some of the students near my mat were, like deja vu, so flexible as to put me to shame. 
