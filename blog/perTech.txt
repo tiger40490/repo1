@@ -1,3 +1,5 @@
+-- update:
+beyond Compare : can't recognize line movement in csv files
 -- new or fuxi: wireless@sg: attitude
 Treat it as bonus. Don't rely on it.
 You are not entitled to commercial support !
