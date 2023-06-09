@@ -1,3 +1,20 @@
+-- new: last-day timing
+check out by 12.45
+Take eveyrthing out of hotel 
+get into taxi by 1pm
+hit airport by 2.30
+
+-- new: ChnM billing
+话费 .. your account balance. Can be used to pay monthly subscription, outging minutes or GB [i.e. mobile data]
+Each month, RMB 18 is deducted from acct balance, without pro-ration. Around 2 July, the Y18 deduction will probably fail.
+The plan [套餐] has no bundled GB or outgoing minutes, so these coss are displayed as 套餐外 xxx
+PAYU [pay-as-you-use] .. RMB 3 is "auto-deducted" from your account, to buy 1GB as needed. Similarly, RMB 0.19 is deducted to buy each minute of outgooing air time.
+
+Itemized billing .. available in the app or at end of month in final bill.
+
+ZLH account: starting balance RMB42. RMB18 deducted...
+TB account: starting balance RMB28 + top-up RMB10 by grandma = RMB38. RMB18 deducted, then about Y5 of cumulative airtime. Y6 for 2GB.
+
 -- update bpost on VPN
 Need to accept the reality of China firewall.. Don't be bitter or resentful. China government is not completely without justification. Focus on solutions. 
 
