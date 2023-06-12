@@ -1,0 +1,23 @@
+==== new: ##Chn bank accts
+Common cost: ADBFB
+Common cost: cross-bank ATM.. LGlp
+Common tcost: revive a dormant/de-activated account
+Common tcost: replace expired passport.. Need to bring old + new passports to a branch. If you don't update, then you will face difficulty when you bring an unrecognized passport to branches.
+
+Given the costs, here are the justifications:
+J4: e-payment 
+J4: use ATM to avoid large physical amount
+
+Common non-trivial operations: 
+operation: check balance, cash-out
+operation: deposit at ATM or transfer-in. [Transfer-out requires SMS OTP sent to a real-name phone number :( ]
+
+Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hotline; 
+
+-- ICBC
+ADBFB: waived on first ATM card
+
+To avoid "dormant", need some in/out every 6 months. Grandparents an withdraw then deposit some amount.
+
+-- HSBC
+ADBFB? Stringent :( Global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. At that time, I may need to keep rmb 500k in China acct.
