@@ -29,3 +29,18 @@ Transfer limit 200k/Y. Can remove if you upgrade at a branch.
 ADBFB? Stringent :( Global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. At that time, I may need to keep rmb 500k in China acct.
 
 ATM fee? Bryan said waived for all premier customers.
+
+sms OTP via roaming: 
+-- starhub
+Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
+
+SGD 0.15 / message, but ..
+Q: Will I get a flood of recent messages when I activate roaming?
+
+Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
+1) remove the SIM card immediately
+2) exit flight mode, receive the OTP, then re-enter flight mode.
+
+-- ChM
+Roaming is enabled by default. No extra charge :)
+Incoming SMS via roaming is ... free of charge by ChM
