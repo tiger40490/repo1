@@ -10,6 +10,12 @@ Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from 
 Invest time to learn the mobile GUI. These features are common across China apps.
 
 Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
+-- new: learn alipay + WechatPay GUIs
+For many things in China, you would need these essential accounts. 
+
+I believe the mobile apps are the primary GUIs, so you need to invest time to learn them. 
+
+I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
 
 -- new or update: quiet time
 Similar to Korean trip
