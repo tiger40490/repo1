@@ -1,4 +1,3 @@
-
 -- new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
 For many things in China, you would need these essential accounts. 
 
@@ -6,64 +5,13 @@ I believe the mobile apps are the primary GUIs, so you need to invest time to le
 
 I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
 
--- new or update: precious quiet time
-Similar to Korean trip. Next time consider one more room.
-Somewhat similar to 2020 circuit breaker period.
-
-I am losing my  5/wk, my diet control, my dental control, 
-
-When I reach hotel, I now spend a few hours on "clean-up".
-
--- fuxi: worst possible losses ranked... Be conscious of the relative value of each!
-passport .. 1.5M wait
-iPhones
-transit card .. don't cancel n refund!
-cash
-~~ other items 
-laptop .. seldom carried 
-new purchases .. usually low value
-
-==== new: ## G3 frustrations
-real-name .. e-payment; SIM card; subway; bike sharing; tourist attractions;
-quiet time (+ personal space ] hotel) ..
-
--- EOR
-risk of losing valuables .. /background-heat/.. 
-google blocked ..
-
--- new: bike shar`]BJ
-I can't afford to rely on something unpredictable.
-
-Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
-
-Yellow bike has good quantity.
-
-Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (WechatPay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
-
-Invest time to learn the mobile GUI. These GUI features are common across China apps.
-
-Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
-
-==== new: sms OTP via roaming
--- starhub
-Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
-
-SGD 0.15 / message, but ..
-Q: Will I get a flood of recent messages when I activate roaming?
-
-Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
-1) remove the SIM card immediately
-2) exit flight mode, receive the OTP, then re-enter flight mode.
--- ChM
-Roaming is enabled by default. No extra charge :)
-Incoming SMS via roaming is ... free of charge by ChM
 ==== new: ##Chn bank accts
 Common cost: ADBFB
-Common cost: cross-bank ATM.. LGlp
+Common cost: cross-bank ATM.. LGlp small amount
 Common tcost: revive a dormant/de-activated account or ATM card
 Common tcost: replace expired passport.. Need to bring old + new passports to a branch. If you don't update, then you will face difficulty when you bring an unrecognized passport to branches.
 
-Given the costs, here are the justifications:
+Given the costs, here are the justifications for openig accounts.
 J4: e-payment 
 J4: use ATM to avoid large physical amount
 
@@ -71,19 +19,17 @@ Common non-trivial operations:
 operation: check balance, cash-out
 operation: deposit at ATM or transfer-in. [Transfer-out requires SMS OTP sent to a real-name phone number :( ]
 
-Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hotline; 
+Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hotline; efficient
 
 -- ICBC
-Each bank card is linked to only one bank account. The account number is internal and invisible to users. Users only use the card number.
+Each bank card is linked to only one bank account. The account number is "internal" and invisible to users. Users only know the card number.
 
 ADB rmb300: waived on first ATM card
 
-To avoid "dormant", need some in/out every 6 months. Grandparents can withdraw then deposit some amount at ICBC atm.
-To re-activate atm card, visit branch with passport by 5pm
+To avoid "dormant", need some in/out every 6 months. Grandparents can withdraw then deposit some amount at ICBC atm. Or I can transfer in some amount. Transfer-out need sms-otp.
+To re-activate atm card, visit branch with passport
 
 To update mobile num, visit branch with passport, bank card and new phone. No paper doc needed.
 
 -- HSBC
-ADBFB? Stringent:( global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. 
-
-ATM fee? Bryan said waived for all premier customers... not a big amount anyway.
+ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better close it.
