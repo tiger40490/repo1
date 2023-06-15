@@ -1,4 +1,6 @@
 ==== new: sms OTP via roaming
+In general, I feel Starhub is more familiar, reliable than ChM. Actually ChM hotline is more accessible.
+
 -- starhub
 Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
 
@@ -11,6 +13,10 @@ Two ways to receive SMS for a short while. In both cases, need to disable data r
 -- ChM
 Roaming is enabled by default. No extra charge :)
 Incoming SMS via roaming is ... free of charge by ChM
+
+Why don't we try carrying the #159 SIM card to Sg and then find out how bad it is?
+Base plan (acceptable): use #159 as my registered phoneNum for HSBC+ICBC. Cancel in a few months when we know how bad it is.
+
 ====
 -- new: [23]class reunion: Y%%salary still relevant2frree
 t_sharpQ

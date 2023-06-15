@@ -6,18 +6,22 @@ I believe the mobile apps are the primary GUIs, so you need to invest time to ma
 I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
 
 ==== new: ##Chn bank accts
+Common cost: ChM monthly fees (rather low) + roaming fees
 Common cost: ADBFB
 Common cost: cross-bank ATM.. LGlp small amount
 Common tcost: revive a dormant/de-activated account or ATM card
 Common tcost: replace expired passport.. Need to bring old + new passports to a branch. If you don't update, then you will face difficulty when you bring an unrecognized passport to branches.
 
-Given the costs, here are the justifications for openig accounts.
+We need to Accept all the t$costs. here are the justifications for having these accounts.
 J4: e-payment 
 J4: use ATM to avoid large physical amount
+J4: transfer thousands from grandparents.
 
 Common non-trivial operations: 
 operation: check balance, cash-out
 operation: deposit at ATM or transfer-in. [Transfer-out requires SMS OTP sent to a real-name phone number :( ]
+operation: update mobile num
+operation: update password/PIN
 
 Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hotline; efficient
 
@@ -29,23 +33,25 @@ Each bank card is linked to only one bank account. The account number is "intern
 To avoid "dormant", need some in/out every 6 months. Grandparents can withdraw then deposit some amount at ICBC atm. Or I can transfer in some amount. Transfer-out need sms-otp.
 To re-activate atm card, visit branch with passport
 
-To update mobile num, visit branch with passport, bank card and new phone. No paper doc needed.
+To update mobile num, visit branch with passport, bank card and new phone.
 
-browser banking site complicated due to kong4jian4. Mobile app is easier to use. I was able to check balance and transfer out. 
+banking site .. complicated due to kong4jian4. Mobile app is easier to use and feaure-wise "superset". I was able to check balance and transfer out. 
 
-Login using mobile num/se8. Transfer-out PIN can be similar to ATM PIN.
+Logon using phoneNum/se8. Transfer-out PIN can be similar to ATM PIN.
 
 How much balance to keep? If not in China, then keep it low like below rmb 1k. If in China, then can keep rmb 5000. Very low balance is risky because grandma may not be available to transfer out (mobile app)
 
 Need to give my icbc card# to both grandma/grandpa for reference.
 
-Transfer-out .. doable on ATM or mobile. Important when I have too much balance.
+Transfer-out .. doable on ATM or mobile. Becomes important when I have too much balance.
 
 -- HSBC
 ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better close it.
 
 HSBC Chn website can use 1) username/password (Txxx2) or 2) username/QR but (mobilePIN needed). Using password on a new browser needs SMS OTP.
 
-Mobile needs mobilePIN (17xxx), sometimes password, seldom needs SMS OTP
+Mobile needs mobilePIN (17xxx), sometimes password, seldom needs SMS OTP.
 
 To reset mobilePIN, use ForgotMyPin. Need password + SMS OTP... Not easy, so beter don't change too often.
+
+PhoneNum .. not needed for logon
