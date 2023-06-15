@@ -1,15 +1,4 @@
--- new: bike shar`]BJ
-I can't afford to rely on something unpredictable.
 
-Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
-
-Yellow bike has good quantity.
-
-Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (WechatPay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
-
-Invest time to learn the mobile GUI. These GUI features are common across China apps.
-
-Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
 -- new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
 For many things in China, you would need these essential accounts. 
 
@@ -28,7 +17,8 @@ When I reach hotel, I now spend a few hours on "clean-up".
 -- fuxi: worst possible losses ranked... Be conscious of the relative value of each!
 passport .. 1.5M wait
 iPhones
-cash and wallet
+transit card .. don't cancel n refund!
+cash
 ~~ other items 
 laptop .. seldom carried 
 new purchases .. usually low value
@@ -41,6 +31,18 @@ quiet time (+ personal space ] hotel) ..
 risk of losing valuables .. /background-heat/.. 
 google blocked ..
 
+-- new: bike shar`]BJ
+I can't afford to rely on something unpredictable.
+
+Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
+
+Yellow bike has good quantity.
+
+Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (WechatPay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
+
+Invest time to learn the mobile GUI. These GUI features are common across China apps.
+
+Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
 
 ==== new: sms OTP via roaming
 -- starhub
