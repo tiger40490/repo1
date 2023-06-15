@@ -10,20 +10,20 @@ Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from 
 Invest time to learn the mobile GUI. These GUI features are common across China apps.
 
 Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
--- new: learn alipay + WechatPay GUIs
+-- new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
 For many things in China, you would need these essential accounts. 
 
 I believe the mobile apps are the primary GUIs, so you need to invest time to learn them. 
 
 I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
 
--- new or update: quiet time
-Similar to Korean trip
-Somewhat similar 2020 covid period
+-- new or update: precious quiet time
+Similar to Korean trip. Next time consider one more room.
+Somewhat similar to 2020 circuit breaker period.
 
 I am losing my  5/wk, my diet control, my dental control, 
 
-When I reach home, I now spend a few hours on "clean-up"
+When I reach hotel, I now spend a few hours on "clean-up".
 
 ==== new: sms OTP via roaming
 -- starhub
