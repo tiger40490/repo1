@@ -21,15 +21,31 @@ operation: deposit at ATM or transfer-in. [Transfer-out requires SMS OTP sent to
 
 Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hotline; efficient
 
--- ICBC
-Each bank card is linked to only one bank account. The account number is "internal" and invisible to users. Users only know the card number.
+Need to transfer/log-in once a while and save the passwords.
 
-ADB rmb300: waived on first ATM card
+-- ICBC
+Each bank card is linked to only one bank account. The account number is "internal" and invisible to users. Users only need the card number.
 
 To avoid "dormant", need some in/out every 6 months. Grandparents can withdraw then deposit some amount at ICBC atm. Or I can transfer in some amount. Transfer-out need sms-otp.
 To re-activate atm card, visit branch with passport
 
 To update mobile num, visit branch with passport, bank card and new phone. No paper doc needed.
 
+browser banking site complicated due to kong4jian4. Mobile app is easier to use. I was able to check balance and transfer out. 
+
+Login using mobile num/se8. Transfer-out PIN can be similar to ATM PIN.
+
+How much balance to keep? If not in China, then keep it low like below rmb 1k. If in China, then can keep rmb 5000. Very low balance is risky because grandma may not be available to transfer out (mobile app)
+
+Need to give my icbc card# to both grandma/grandpa for reference.
+
+Transfer-out .. doable on ATM or mobile. Important when I have too much balance.
+
 -- HSBC
 ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better close it.
+
+HSBC Chn website can use 1) username/password (Txxx2) or 2) username/QR but (mobilePIN needed). Using password on a new browser needs SMS OTP.
+
+Mobile needs mobilePIN (17xxx), sometimes password, seldom needs SMS OTP
+
+To reset mobilePIN, use ForgotMyPin. Need password + SMS OTP... Not easy, so beter don't change too often.
