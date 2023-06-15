@@ -25,9 +25,20 @@ I am losing my  5/wk, my diet control, my dental control,
 
 When I reach home, I now spend a few hours on "clean-up"
 
-==== new: ##Chn bank accts
-todo: ask ChnM how to keep the mobile number alive
+==== new: sms OTP via roaming
+-- starhub
+Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
 
+SGD 0.15 / message, but ..
+Q: Will I get a flood of recent messages when I activate roaming?
+
+Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
+1) remove the SIM card immediately
+2) exit flight mode, receive the OTP, then re-enter flight mode.
+-- ChM
+Roaming is enabled by default. No extra charge :)
+Incoming SMS via roaming is ... free of charge by ChM
+==== new: ##Chn bank accts
 Common cost: ADBFB
 Common cost: cross-bank ATM.. LGlp
 Common tcost: revive a dormant/de-activated account or ATM card
@@ -54,21 +65,6 @@ To re-activate atm card, visit branch with passport by 5pm
 To update mobile num, visit branch with passport, bank card and new phone
 
 -- HSBC
-ADBFB? Stringent :( Global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. At that time, I may need to keep rmb 500k in China acct.
+ADBFB? Stringent:( global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. At that time, I may need to keep rmb 500k in China acct.
 
 ATM fee? Bryan said waived for all premier customers.
-
-sms OTP via roaming: 
--- starhub
-Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
-
-SGD 0.15 / message, but ..
-Q: Will I get a flood of recent messages when I activate roaming?
-
-Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
-1) remove the SIM card immediately
-2) exit flight mode, receive the OTP, then re-enter flight mode.
-
--- ChM
-Roaming is enabled by default. No extra charge :)
-Incoming SMS via roaming is ... free of charge by ChM
