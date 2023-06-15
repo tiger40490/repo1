@@ -39,19 +39,6 @@ Invest time to learn the mobile GUI. These GUI features are common across China 
 
 Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
 
-==== new: sms OTP via roaming
--- starhub
-Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
-
-SGD 0.15 / message, but ..
-Q: Will I get a flood of recent messages when I activate roaming?
-
-Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
-1) remove the SIM card immediately
-2) exit flight mode, receive the OTP, then re-enter flight mode.
--- ChM
-Roaming is enabled by default. No extra charge :)
-Incoming SMS via roaming is ... free of charge by ChM
 -- fuxi: last-day timing
 check out by 12.45
 Take eveyrthing out of hotel 

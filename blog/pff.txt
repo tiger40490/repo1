@@ -1,3 +1,17 @@
+==== new: sms OTP via roaming
+-- starhub
+Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
+
+SGD 0.15 / message, but ..
+Q: Will I get a flood of recent messages when I activate roaming?
+
+Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
+1) remove the SIM card immediately
+2) exit flight mode, receive the OTP, then re-enter flight mode.
+-- ChM
+Roaming is enabled by default. No extra charge :)
+Incoming SMS via roaming is ... free of charge by ChM
+====
 -- new: [23]class reunion: Y%%salary still relevant2frree
 t_sharpQ
 When I told YY and YYT that I can retire based on my savings + NNIA, there is an invisible elephant in the room. What they don't know is my salary now (and in the foreseeable future). 
