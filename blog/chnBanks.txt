@@ -1,13 +1,13 @@
 -- new: bike shar`]BJ
 I can't afford to rely on something unpredictable.
 
-Plan 0: don't rely on bike sharing. Buy a cheap bike if needed.
+Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
 
 Yellow bike has good quantity.
 
 Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (WechatPay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
 
-Invest time to learn the mobile GUI. These features are common across China apps.
+Invest time to learn the mobile GUI. These GUI features are common across China apps.
 
 Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
 -- new: learn alipay + WechatPay GUIs
@@ -49,10 +49,9 @@ Each bank card is linked to only one bank account. The account number is interna
 ADB rmb300: waived on first ATM card
 
 To avoid "dormant", need some in/out every 6 months. Grandparents an withdraw then deposit some amount.
-
 To re-activate atm card, visit branch with passport by 5pm
 
-Transfer limit 200k/Y. Can remove if you upgrade at a branch.
+To update mobile num, visit branch with passport, bank card and new phone
 
 -- HSBC
 ADBFB? Stringent :( Global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. At that time, I may need to keep rmb 500k in China acct.
