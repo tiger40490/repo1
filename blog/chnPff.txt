@@ -1,7 +1,7 @@
 -- new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
 For many things in China, you would need these essential accounts. 
 
-I believe the mobile apps are the primary GUIs, so you need to invest time to learn them. 
+I believe the mobile apps are the primary GUIs, so you need to invest time to master the basics. 
 
 I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
 
