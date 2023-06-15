@@ -78,12 +78,12 @@ Each bank card is linked to only one bank account. The account number is interna
 
 ADB rmb300: waived on first ATM card
 
-To avoid "dormant", need some in/out every 6 months. Grandparents an withdraw then deposit some amount.
+To avoid "dormant", need some in/out every 6 months. Grandparents can withdraw then deposit some amount at ICBC atm.
 To re-activate atm card, visit branch with passport by 5pm
 
-To update mobile num, visit branch with passport, bank card and new phone
+To update mobile num, visit branch with passport, bank card and new phone. No paper doc needed.
 
 -- HSBC
-ADBFB? Stringent:( global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. At that time, I may need to keep rmb 500k in China acct.
+ADBFB? Stringent:( global assessment. If FB, then need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. 
 
-ATM fee? Bryan said waived for all premier customers.
+ATM fee? Bryan said waived for all premier customers... not a big amount anyway.
