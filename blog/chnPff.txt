@@ -7,6 +7,8 @@ I think Alipay is more foreigner-friendly. There is a brower interface with mini
 
 Alipay/WechatPay (Similar to PayPal) can transfer to or from bank card. However, transfer-out can incur a 0.1% fee for Wechat/Alipay
 
+For Alipay/WechatPay, each mobileNum is reserved for one account only. 
+
 == alipay
 todo --> test paying MRT card
 
