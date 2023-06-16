@@ -5,14 +5,23 @@ I believe mobile is the primary GUIs, so you need to invest time to master the b
 
 I think Alipay is more foreigner-friendly. There is a brower interface with minimal functionality.
 
+Alipay/WechatPay (Similar to PayPal) can transfer to or from bank card. However, transfer-out can incur a 0.1% fee for Wechat/Alipay
+
 == alipay
-Similar to PayPal... can transfer to/from bank card. However, transfer-out can incur a 0.1% fee
 todo --> test paying MRT card
 
-My Alipay is set up under my real name (+bank card) + 17813257725. 
+My Alipay is set up with real name (+bank card) + 17813257725. 
 mobileNum is easy to change. 
 
 Pay into Meituan acccount? Not supported.
+
+== WechatPay
+todo --> test paying MRT card
+todo --> Need to change to 178xxx or 90013xxx someday.
+
+My WechatPay is set up with Real Name. 
+ICBC card (real name) added. I was able to transfer-in.
+HSBC visa card added
 
 ====== new: ##Chn bank accts
 /webank/ ^ /mobank/ 
