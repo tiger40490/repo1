@@ -48,10 +48,17 @@ Transfer-out .. doable on ATM or mobile. Becomes important when I have too much 
 -- HSBC
 ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better close it.
 
+Phone banking auth.. can use 1) phone banking PIN 2) ATM PIN 3) SMS OTP
+
+foreign ccy deposit/withdraw FOC but withdrawal needs advanced notice.
+
+.... e-banking
 HSBC Chn website can use 1) username/password (Txxx2) or 2) username/QR but (mobilePIN needed). Using password on a new browser needs SMS OTP.
 
 Mobile needs mobilePIN (17xxx), sometimes password, seldom needs SMS OTP.
 
 To reset mobilePIN, use ForgotMyPin. Need password + SMS OTP... Not easy, so beter don't change too often.
 
-PhoneNum .. not needed for logon
+PhoneNum .. not needed during logon
+
+Online fund transfer from HSBC -> ICBC is FOC if under RMB 1000k
