@@ -69,19 +69,23 @@ logon on app can use 1) 5-dot or 2) phoneNum/se8. No SMS-opt needed
 Transfer-out PIN can be similar to ATM PIN.
 
 ==== HSBC
-ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better close it.
+ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better maintain rmb500k or consider SGD 15k/M deposit.
 
-telephone banking auth.. can use 1) phone banking PIN 2) ATM PIN 3) SMS OTP
+telephone banking auth.. can use 1) phone banking 219477 PIN 2) ATM PIN 3) SMS OTP
 
-foreign ccy deposit/withdraw FOC but withdrawal needs advanced notice.
+foreign ccy deposit/withdrawal is FOC but large withdrawal needs advance notice.
+
+ATM pin changed to 17xxxx. FOC at any UnionPay ATM.
+
+Can convert from RMB to USD, via app. FX rate is updated every minute.
 
 .... e-banking
-HSBC Chn website can use 1) username/password (Txxx2) or 2) username/QR but (mobilePIN needed). Using password on a new browser needs SMS OTP.
+HSBC Chn website can use 1) username/password (Txxx2) or 2) username/QR (mobilePIN needed). Using password on a new browser needs SMS-OTP.
 
 Mobile needs mobilePIN (17xxx), sometimes password, seldom needs SMS OTP.
 
-To reset mobilePIN, use ForgotMyPin. Need password + SMS OTP... Not easy, so beter don't change too often.
+To reset mobilePIN, go to ForgotMyPin. Need password + SMS OTP... Not easy, so beter don't change too often, and practice often
 
-PhoneNum .. not needed during logon
+! PhoneNum .. not needed during logon
 
 Online fund transfer from HSBC -> ICBC is FOC if under RMB 1000k
