@@ -5,7 +5,7 @@ I believe the mobile apps are the primary GUIs, so you need to invest time to ma
 
 I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
 
-==== new: ##Chn bank accts
+====== new: ##Chn bank accts
 Common cost: ChM monthly fees (rather low) + roaming fees
 Common cost: ADBFB
 Common cost: cross-bank ATM.. LGlp small amount
@@ -27,10 +27,14 @@ Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hot
 
 Need to transfer/log-in once a while and save the passwords.
 
--- ICBC
+==== ICBC
 Each bank card is linked to only one bank account. The account number is "internal" and invisible to users. Users only need the card number.
 
-To avoid "dormant", need some in/out every 6 months. Grandparents can withdraw then deposit some amount at ICBC atm. Or I can transfer in some amount. Transfer-out need sms-otp.
+If you lose your atm card, you need to close it, then open a new card account.
+
+To avoid "dormant", need some 主动[active] transaction (like outgoing) every 6 months. Grandparents can deposit some amount at ICBC atm. Or I can transfer out some amount (need sms-otp). 
+Transfer-out .. doable on ATM or mobile. Becomes important when I have too much balance.
+
 To re-activate atm card, visit branch with passport
 
 To update mobile num, visit branch with passport, bank card and new phone.
@@ -43,9 +47,13 @@ How much balance to keep? If not in China, then keep it low like below rmb 1k. I
 
 Need to give my icbc card# to both grandma/grandpa for reference.
 
-Transfer-out .. doable on ATM or mobile. Becomes important when I have too much balance.
+Mon-Sat only .. same hours.
 
--- HSBC
+跨行 ATM: RMB2 fee per withdrawal of up to rmb2k
+
+atm card is rarely used as 16-digit debit card. Better use it on alipay + wechat
+
+==== HSBC
 ADBFB? Global assessment need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Better close it.
 
 Phone banking auth.. can use 1) phone banking PIN 2) ATM PIN 3) SMS OTP
