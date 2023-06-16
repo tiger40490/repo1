@@ -1,13 +1,14 @@
 ====== new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
-For many things in China, you would need these essential accounts. 
+For many "things" in China, you would need these essential accounts. Most shops can't accept credit card or ATM card, and nothing but alipay/wechat
 
-I believe mobile is the primary GUIs, so you need to invest time to master the basics. 
+I believe mobile (browser? Nah) is the primary GUIs, so you need to invest time to master the basics. 
 
 I think Alipay is more foreigner-friendly. There is a brower interface with minimal functionality.
 
-Alipay/WechatPay (Similar to PayPal) can transfer to or from bank card. However, transfer-out can incur a 0.1% fee for Wechat/Alipay
+Alipay and Wechat (Similar to PayPal) can transfer to/from bank card. However, transfer-out can incur a 0.1% fee for Wechat/Alipay
 
-For Alipay/WechatPay, each mobileNum is reserved for one account only. 
+For Alipay/Wechat, each mobileNum is reserved for one account only.
+Externally, each Alipay account is identified by a mobileNum
 
 == alipay
 todo --> test paying MRT card
@@ -18,8 +19,7 @@ mobileNum is easy to change.
 Pay into Meituan acccount? Not supported.
 
 == WechatPay
-todo --> test paying MRT card
-todo --> Need to change to 178xxx or 90013xxx someday.
+todo --> Need to change to 9xxxx16 
 
 My WechatPay is set up with Real Name. 
 ICBC card (real name) added. I was able to transfer-in.
@@ -28,13 +28,13 @@ HSBC visa card added
 ====== new: ##Chn bank accts
 /webank/ ^ /mobank/ 
 
-Common cost: ChM monthly fees (rather low) + roaming fees
+Common cost (avoided now): ChM monthly fees (rather low) + roaming fees
 Common cost: ADBFB
 Common cost: cross-bank ATM.. LGlp small amount
 Common tcost: revive a dormant/de-activated account or ATM card
 Common tcost: replace expired passport.. Need to bring old + new passports to a branch. If you don't update, then you will face difficulty when you bring an unrecognized passport to branches.
 
-We need to Accept all the t$costs. here are the justifications for having these accounts.
+We need to Accept the endless t$costs. Here are the justifications for having these accounts.
 J4: e-payment 
 J4: use ATM to avoid large physical amount
 J4: transfer thousands from grandparents.
