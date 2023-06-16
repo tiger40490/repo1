@@ -1,9 +1,16 @@
--- new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
+====== new: learn alipay + WechatPay GUIs, but not at this stressful juggling time
 For many things in China, you would need these essential accounts. 
 
 I believe the mobank are the primary GUIs, so you need to invest time to master the basics. 
 
 I think Alipay is more foreigner friendly. There is a brower interface with minimal functionality.
+
+== alipay
+Similar to PayPal... can transfer to/from bank card. However, transfer-out can incur a 0.1% fee
+bank card binding proven already.
+todo --> test paying MRT card
+todo: change mobileNum to 178
+Pay into Meituan acccount? Not supported.
 
 ====== new: ##Chn bank accts
 /webank/ ^ /mobank/ 
@@ -30,11 +37,11 @@ Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hot
 Need to transfer/log-in once a while and save the passwords.
 
 ==== ICBC
-Need help set up app and alipay???
+todo ----> add icbc card into Meituan [under LSQ's name]
 
 Each bank card is linked to only one savings account (+ optional TD account). The account number is "internal" and invisible to users. Users only need the card number.
 
-How much balance to keep? If not in China, then keep it low like below rmb 1k. If in China, then can keep rmb 5000. Very low balance is risky because grandma may not be available to transfer out (mobank)
+How much balance to keep? If not in China, then keep it low like below rmb 1k. If in China, then can keep rmb 5000. Very low balance is risky because grandma may not be available to transfer to me (mobank)
 
 Better give my icbc card# to both grandma/grandpa for reference.
 
@@ -47,8 +54,6 @@ atm card is rarely used as 16-digit debit card. Better use it on alipay + wechat
 ! signature is all-cap
 
 Even if someone has my card#, mobile#, passport# she still needs password to steal my money.
-
-Deposit USD or SGD (any paper note:) is FOC. Withdraw is FOC up to USD 500/D
 
 Online transfer in+out aggregate limit: 10k/D 50k/M 200k/Y
 
@@ -66,10 +71,11 @@ active transactions can be
 To update mobile num, visit branch with passport, bank card and new phone.
 
 -- e-banking
-logon on app can use 1) 5-dot or 2) phoneNum/se8. No SMS-opt needed
+mobank auth can use 1) 5-dot or 2) phoneNum/se8. No SMS-opt needed
 
 Transfer-out PIN can be similar to ATM PIN.
 
+app can show address, passport#, mobileNum (saved in the app even after the SIM card is replaced)
 ==== HSBC
 ADBFB? Global assessment .. Some day I need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Sugg: maintain rmb500k or consider SGD 15k/M deposit.
 
