@@ -1,3 +1,10 @@
+-- new: ##which China apps can "register" a different mobileNum
+Meituan.. tested
+Alipay.. yes
+ICBC .. tested
+HSBC-China .. yes
+Wechat .. I was using 97263200 
+WechatPay ..
 
 -- new or update: precious quiet time
 Similar to Korean trip. Next time consider one more room.
