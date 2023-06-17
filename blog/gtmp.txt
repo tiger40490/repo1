@@ -1,15 +1,17 @@
 -- new: Chn infrastructure: customer service 
+As I told my son, the most essential infrastructure pieces are 1) mobileNum under your name 2) bank cards 3) Alipay+WechatPay 4) transit card/app under your name 5) bike sharing app under your name
+
 When not "if" you hit (big or small) obstacles, you badly need effective customer service. 
 
 Email is usually not fast enough. Chat is complicated due to Chinese input, and during ID authentication. I usually prefer F2F or hotline.
 
 In general, China banks, ChM (subway to a lesser extent) offer the best customer service thanks to the physical branches. Alipay, another infrastructure entity, is better than its peers.
 
-Wechat is absolutely the worst of all. No hotline.
-
 Among the banks, HSBC is more foreigner friendly. 
 
-Bike sharing is the smallest infrastructure piece. Basically no customer service.
+WechatPay is absolutely the worst of all. 95017.. never tried.
+
+Bike sharing is the smallest infrastructure piece. Basically no customer service needed so far.
 
 ==== update https://btv-open.dreamhosters.com/69/counting-your-own-kindness/
 “Keep a log of all the kind acts you do in a particular day” — A Positive Psychology trainer  (Edgar K. Tham) mentioned this in the training hand out.
