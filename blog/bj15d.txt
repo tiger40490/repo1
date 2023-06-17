@@ -4,7 +4,7 @@ Option 2: keep the precious transit card. Keep a "large" balance to make it valu
 I was able to top up using Wechat desposit [零钱]
 I was able to top up using Alipay bank card
 
--- new: ##which China apps can "register" a different mobileNum
+-- new: ##which China apps can "register" a mobileNumB while on SimCardA
 Meituan.. tested
 Alipay.. yes
 ICBC .. tested
@@ -21,7 +21,7 @@ I am losing my  5/wk, my diet control (chia), my dental control,
 When I reach hotel, I now spend a few hours on "clean-up".
 
 ==== new: ## G3 frustrations
-real-name .. e-payment; SIM card; subway; bike sharing; tourist attractions;
+real-name .. e-payment; mobileNum; subway; bike sharing; tourist attractions;
 .. extra-hard for foreigners.
 need to rely on numerous mobile apps .. just as driving is to American lifestyle.
 quiet time (+ personal space ] hotel) .. blogg
