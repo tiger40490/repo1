@@ -1,3 +1,9 @@
+-- new: ChM billing rates
+For my rmb18 package [套餐]
+19c/min call-out. call-in is FOC
+10c/SMS out. SMS-in is FOC
+
+mobile data is complicated. Basically up to rmb3/GB. 
 
 -- new: Canon Pixma printer cartridge replace
 :) no computer required, but stay powered

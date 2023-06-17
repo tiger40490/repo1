@@ -9,15 +9,23 @@ I think Alipay is more foreigner-friendly. There is a brower interface with mini
 Alipay and Wechat (Similar to PayPal) can transfer to/from bank card. However, transfer-out can incur a 0.1% fee for Wechat/Alipay
 
 For Alipay/Wechat, each mobileNum is reserved for one account only.
-Externally, each Alipay account is identified by a mobileNum
+Externally, each Alipay account is identified by a mobileNum. No sharing.
+
+Alipay, Wechat, Meituan .. all have a PPD (prepaid deposit) account in addition to bank card bindings. Each has a deduction rule governing preferences.
 
 == alipay
-todo --> test paying MRT card
-
 My Alipay is set up with real name (+bank card) + 17813257725. 
 mobileNum is easy to change. 
 
+Billing page shows all in/out amounts, but can't filter only PPD 
+
 Pay into Meituan acccount? Not supported.
+
+Deduction rule .. Alipay has clear documentation page.
+
+支付管家 .. a more comprehensive sub-app 
+
+Payment code: 6-digit
 
 == WechatPay
 todo --> Need to change to 9xxxx16 
