@@ -17,7 +17,7 @@ Alipay, wcpay, Meituan .. these platforms all have a PPD (prepaid deposit) accou
 My Alipay is set up with real name (+bank card) + 17813257725. 
 mobileNum is proven easy to change. 
 
-Boy is able to use ZLH passport + my HSBC card .. Apparently, Alipay beats wcpay for foreigners.
+Boy is able to use ZLH passport + my HSBC card .. Apparently, for foreigners Alipay beats wcpay.
 
 Billing page shows all in/out amounts, but can't filter in PPD 
 
@@ -35,6 +35,10 @@ todo --> Need to change to 9xxxx16
 My wcpay is set up with Real Name. 
 ICBC card (real name) added. I was able to transfer-in.
 HSBC visa card added
+
+Settings > Help/Feedback > online help .. there's some live chat
+Settings > Help/Feedback > wcpay > Help center
+Settings > General > 辅助功能 > wcpay
 
 ====== new: ##Chn bank accts
 /webank/ ^ /mobank/ 
