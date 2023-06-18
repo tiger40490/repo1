@@ -1,7 +1,16 @@
-==== new: transit card: Absolutely essential
+-- fuxi: last-day timing
+pack up night before, so giving more breathing space to Tue morning
+check out by 12.45
+Take eveyrthing out of hotel 
+get into taxi by 1pm
+hit airport by 2.30
+-- Mon
+cancel wife's ChM account at night. 
+
+-- new: transit card: Absolutely essential
 Option 1: the 亿xx app
 Option 2: keep the precious transit card. Keep a "large" balance to make it valuable :)
-I was able to top up using Wechat desposit [零钱]
+I was able to top up using wcpay PPD
 I was able to top up using Alipay bank card
 
 -- new: ##which China apps can "register" a mobileNumB while on SimCardA
@@ -29,27 +38,16 @@ quiet time (+ personal space ] hotel) .. blogg
 
 -- EOR
 risk of losing valuables .. /background-heat/. See separate section
-google blocked ..
 
 -- worst possible losses ranked... Be conscious of the relative value of each!
 passport .. 1.5M wait
 iPhones
 transit card
-cash
 ~~ other items 
 laptop .. seldom carried 
 new purchases .. usually low value
 
 =====
--- fuxi: last-day timing
-pack up night before, so giving more breathing space to Tue morning
-check out by 12.45
-Take eveyrthing out of hotel 
-get into taxi by 1pm
-hit airport by 2.30
--- Mon
-cancel wife's ChM account at night. 
-
 -- update which bpost?
 need a light n warmer shirt for next flight. If no such shirt, then rely on blanket.
 
@@ -58,19 +56,6 @@ yoga blocks are useful on flights .. leg stretches, convex sitting
 plastic bag hungable from my bottle .. good for acceptable rubbish, my food box, reading content..
 
 too many small bottles to bring back to Sg? Empty them, and dump into big luggage.
--- new: ChnM billing
-话费 .. your account balance. Usable to pay Y18 monthly subscription, outging minutes or GB [i.e. mobile data]
-
-Each month, rmb 18 is deducted from acct balance, without pro-ration. Around 2 July, the Y18 deduction will fail.
-
-This specific plan [套餐] has no bundled GB or bundled minutes, so these costs are known as 套餐外xxx
-
-PAYU [pay-as-you-use] .. rmb 3 is "auto-deducted" (from your account balance) to buy 1GB as needed. Similarly, rmb 0.19 is deducted to buy each minute of outgooing air time.
-
-Itemized bill .. available in the app or at end of month in final bill.
-
-ZLH account: starting balance rmb42. rmb18 deducted...
-TB account: starting balance rmb28 + top-up rmb10 by grandma = rmb38. rmb18 deducted, then about rmb5 of cumulative airtime. rmb6 for 2GB.
 
 -- update bpost on VPN
 Need to accept the reality of China firewall.. Don't be bitter or resentful. China government is not completely without justification. Focus on solutions. 
@@ -99,15 +84,26 @@ Meimei is close to daddy.
 Ate plenty of fruits ever day.
 Some simple exercise almost everyday.
 Coping with the loss of quiet time, not effectively, but better than passive acceptance.
+
 -- new: bike shar`]BJ
 I can't afford to rely on something unpredictable.
 
 Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
 
-Yellow bike has good quantity.
+Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (wcpay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
 
-Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (WechatPay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
+~~ green.. Didi cab/bike
+smrz pending, affecting bank card binding
+ppd not funded :(
+Tested: scan via wechat, but tedious
+Tested: one-tap scan, ending with Alipay
+Alipay gives new users benefit of the doubt
 
-Invest time to learn the mobile GUI. These GUI features are common across China apps.
+~~ blue.. Hello bike/cab
+smrz not sue.. smrz initially set up via Alipay, but not showing as verified. Bank card binding or Alipay binding are nowhere
+ppd funding by Aliay/wcpay.. good enough
+Tested: one-tap scan
 
-Try using yellow bike without auto-pay feature. Will system offer WechatPay as an option?
+~~ yellow .. meituan
+smrz under grandma, binding her bank card
+ppd funded by bank card

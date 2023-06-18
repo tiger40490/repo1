@@ -1,5 +1,18 @@
--- new: ChM billing rates
-For my rmb18 package [套餐]
+-- new: ChnM billing
+话费 .. your account balance. Usable to pay Y18 monthly subscription, outging minutes or GB [i.e. mobile data]
+
+Each month, rmb 18 is deducted from acct balance, without pro-ration. Around 2 July, the Y18 deduction will fail.
+
+This specific plan [套餐] has no bundled GB or bundled minutes, so these costs are known as 套餐外xxx
+
+PAYU [pay-as-you-use] .. rmb 3 is "auto-deducted" (from your account balance) to buy 1GB as needed. Similarly, rmb 0.19 is deducted to buy each minute of outgooing air time.
+
+Itemized bill .. available in the app or at end of month in final bill.
+
+ZLH account: starting balance rmb42. rmb18 deducted...
+TB account: starting balance rmb28 + top-up rmb10 by grandma = rmb38. rmb18 deducted, then about rmb5 of cumulative airtime. rmb6 for 2GB.
+
+~~For my rmb18 package [套餐]
 19c/min call-out. call-in is FOC
 10c/SMS out. SMS-in is FOC
 
