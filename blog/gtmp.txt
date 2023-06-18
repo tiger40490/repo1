@@ -1,4 +1,4 @@
--- new: Chn infrastructure: customer service 
+-- new: living]Chn: customer service 
 As I told my son, the most essential infrastructure pieces are 1) mobileNum under your name 2) bank cards 3) Alipay+wcpay 4) transit app/card under your name 5) bike sharing app under your name
 
 When not "if" you hit (big or small) obstacles using these services, you really badly need effective customer service. See [1]
@@ -9,7 +9,7 @@ In general, China banks, ChM (subway to a lesser extent) offer the best customer
 
 Alipay, another infrastructure entity, is better than its peers.
 
-[1] Singpass would be a gold standard in effective customer service. No branches but many places to offer help to the elderly.
+[1] Singpass would be a benchmark in effective customer service. No branches but many places to offer help to the elderly.
 
 wcpay is the worst of all. 95017.. never tried. 
 
