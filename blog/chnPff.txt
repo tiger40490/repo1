@@ -1,6 +1,6 @@
 
 ====== new: learn alipay + wcpay GUIs
-For many essentials in China, you would need these two infrastructure accounts. Most shops can't accept credit card or ATM card, and nothing but alipay/wcpay. Some shops accept cash but don't have enough small change due to low usage.
+For many essentials in China, you would need these two infrastructure accounts. Most shops can't accept credit card or ATM card, and nothing but alipay/wcpay. Some shops accept cash but don't have enough small change.
 
 I believe mobile is the primary GUI (browser? Nah), so you need to invest sufficient time to master the basics, but not at this stressful juggling time
 
@@ -8,14 +8,14 @@ I think Alipay is more foreigner-friendly. There is a brower interface with mini
 
 Alipay and wcpay (Similar to PayPal) can transfer to/from bank card. However, transfer-out can incur a 0.1% fee for wcpay/Alipay
 
-For Alipay/wcpay, each mobileNum is reserved for one account only.
+For Alipay/wcpay, each mobileNum is dedicated to one account only.
 Externally, each Alipay account is identified by a mobileNum. No sharing of mobileNum between two accounts
 
-Alipay, wcpay, Meituan .. these platforms all have a PPD (prepaid deposit) account in addition to bank card bindings. Each platform has a deduction rule governing which account to hit first.
+Alipay, wcpay, Meituan, Hello .. these platforms all have a PPD (prepaid deposit) account in addition to bank card bindings. Each platform has a deduction rule governing which account to hit first.
 
 -- alipay
-My Alipay is set up with real name (+bank card) + 17813257725. 
-mobileNum is proven easy to change. 
+My Alipay is set up with smrz (+bank card) + 17813257725. 
+mobileNum is confirmed easy to change. 
 
 Boy is able to use ZLH passport + my HSBC card .. Apparently, for foreigners Alipay beats wcpay.
 
@@ -23,7 +23,7 @@ Billing page shows all in/out amounts, but can't filter in PPD
 
 Pay into Meituan acccount? Not supported.
 
-Deduction rule .. Alipay has clear documentation page.
+Deduction rule .. Alipay has a concise documentation page.
 
 支付管家 .. a more comprehensive sub-app 
 
@@ -32,9 +32,8 @@ Payment code [付款密码]: 6-digit
 -- wcpay
 todo --> Need to change to 9xxxx16 
 
-My wcpay is set up with Real Name. 
-ICBC card (real name) added. I was able to transfer-in.
-HSBC visa card added
+My wcpay is set up with smrz (+bank card)
+HSBC visa card ... can keep there as reminder "Foreign cCard usable"
 
 Settings > Help/Feedback > online help .. there's some live chat
 Settings > Help/Feedback > wcpay > Help center
@@ -65,19 +64,15 @@ Compared to Cambodia, Philippines, China banks are better .. easy2visit; 24H hot
 Need to transfer/log-in once a while and save the passwords.
 
 ==== ICBC
-todo ----> add icbc card into Meituan [under LSQ's name]
-
 Each bank card is linked to only one savings account (+ optional TD account). The account number is "internal" and invisible to users. Users only need the card number.
 
 How much balance to keep? If not in China, then keep it low like below rmb 1k. If in China, then can keep rmb 5000. Very low balance is risky because grandma may not be available to transfer to me (mobank)
-
-Better give my icbc card# to both grandma/grandpa for reference.
 
 Mon-Sat only .. same hours.
 
 跨行 ATM: RMB2 fee per withdrawal of up to rmb2k
 
-atm card is rarely used as 16-digit debit card. Better use it on alipay + wechat
+atm card is rarely used as 16-digit debit card. Folks use it only for alipay + wechat
 
 ! signature is all-cap
 
@@ -96,24 +91,22 @@ active transactions can be
 
 ! If you lose your atm card, you can open a new card account, and close the lost card account (7D)
 
-To update mobile num, visit branch with passport, bank card and new phone.
+To update mobile num, visit branch with passport, bank card and new phone (old phone not required)
 
 -- e-banking
 mobank auth can use 1) 5-dot or 2) phoneNum/se8. No SMS-opt needed
 
 Transfer-out PIN can be similar to ATM PIN.
 
-app can show address, passport#, mobileNum (saved in the app even after the SIM card is replaced)
+app can help me remember address, passport#, mobileNum (saved in the app even after the SIM card is replaced)
 ==== HSBC
 ADBFB? Global assessment .. Some day I need to downgrade Sgp account, but China account will incur FB fee of RMB 300/M. Sugg: maintain rmb500k or consider SGD 15k/M deposit.
 
-telephone banking auth.. can use 1) phone banking 219477 PIN 2) ATM PIN 3) SMS OTP
+telephone banking auth.. can use 1) phone banking PIN 219477, 2) ATM PIN 3) SMS OTP
 
 foreign ccy deposit/withdrawal is FOC but large withdrawal needs advance notice.
 
-ATM pin changed to 17xxxx. FOC at any UnionPay ATM.
-
-Can convert from RMB to USD, via app. FX rate is updated every minute.
+ATM pin changed (onsite) to 17xxxx. FOC at any UnionPay ATM.
 
 -- e-banking
 Webank auth can use 1) username/password (Txxx2) or 2) username/QR (mobilePIN needed). Using password on a new browser needs SMS-OTP.
@@ -122,6 +115,8 @@ Mobank auth needs .. mobilePIN (17xxx), sometimes password, seldom needs SMS OTP
 
 To reset mobilePIN, go to ForgotMyPin. Need password + SMS OTP... Not easy, so beter don't change too often, and practice often
 
-! PhoneNum .. not needed during logon
+! PhoneNum .. not needed during mobank/webank auth
 
 Online fund transfer from HSBC -> ICBC is FOC if under RMB 1000k
+
+Can convert from RMB to USD, via mobile app. FX rate is updated every minute.
