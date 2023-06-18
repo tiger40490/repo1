@@ -6,11 +6,11 @@ I was able to top up using Alipay bank card
 
 -- new: ##which China apps can "register" a mobileNumB while on SimCardA
 Meituan.. tested
-Alipay.. yes
+Alipay.. tested
 ICBC .. tested
-HSBC-China .. yes
+HSBC-China .. tested
 Wechat .. I was using 97263200 
-WechatPay ..
+wcpay ..
 
 -- new or update: precious quiet time
 Similar to Korean trip. Next time consider one more room.

@@ -1,5 +1,10 @@
 -- new: living]Chn: customer service 
-As I told my son, the most essential infrastructure pieces are 1) mobileNum under your name 2) bank cards 3) Alipay+wcpay 4) transit app/card under your name 5) bike sharing app under your name
+As I told my son, the most essential infrastructure pieces are 
+1) mobileNum under_your_name
+2) bank cards
+2b) bank apps registered with the mobileNum under_your_name
+3) Alipay+wcpay, registered with mobileNum under_your_name and bankCards under_your_name
+4) transit app/card under_your_name 5) bike sharing app under_your_name
 
 When not "if" you hit (big or small) obstacles using these services, you really badly need effective customer service. See [1]
 
