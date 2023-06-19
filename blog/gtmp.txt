@@ -2,9 +2,10 @@
 As I told my son, the most essential infrastructure pieces are 
 1) mobileNum under_your_name
 2) bank cards
-2b) bank apps registered with the mobileNum under_your_name
-3) Alipay+wcpay, registered with mobileNum under_your_name and bankCards under_your_name
-4) transit app/card under_your_name 5) bike sharing app under_your_name
+2b) bank apps registered with a mobileNum under_your_name
+3) Alipay+wcpay, registered with a mobileNum under_your_name and bankCards under_your_name
+4) transit app/card under_your_name 
+5) bike sharing app under_your_name
 
 When not "if" you hit (big or small) obstacles using these services, you really badly need effective customer service. See [1]
 
@@ -23,7 +24,7 @@ wcpay is the worst of all. 95017 is the official hotline.. never tried.
 Bike sharing is the smallest infrastructure piece. Hello has a hotline.
 
 -- new: bike shar`]BJ
-I can't afford to rely on something unpredictable. If reliable, then the avaibility/quality/convenience is excellent.
+I can't afford to rely on something unpredictable. If reliable, then the avaibility/quality/convenience is excellent for short trips in normal weather condition.
 
 Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
 
