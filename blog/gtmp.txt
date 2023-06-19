@@ -16,6 +16,8 @@ Alipay, another infrastructure entity, is better than its peers.
 
 [1] Singpass would be a benchmark in effective customer service. No branches but many places to offer help to the elderly.
 
+Didi has online chat that lets me speak.
+
 wcpay is the worst of all. 95017 is the official hotline.. never tried. 
 
 Bike sharing is the smallest infrastructure piece. Hello has a hotline.
@@ -28,15 +30,14 @@ Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easi
 Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (wcpay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
 
 ~~ green.. Didi cab/bike
-smrz pending, affecting bank card binding
-ppd not funded :(
-Tested: scan via wechat, but tedious
-Tested: one-tap scan, ending with Alipay
-Alipay gives new users benefit of the doubt
+mainPage > 打车 > blue shield > 安全工具 > smrz ... shows smrz completed but not bank card binding
+Tested: scan via wechat mini-app, but tedious
+Tested: one-tap scan, ending with Alipay, although ppd not funded
+.. Alipay (not wcpay) gives new users benefit of the doubt
 
 ~~ blue.. Hello bike/cab
 smrz not sue.. smrz initially set up via Alipay, but not showing as verified. Bank card binding or Alipay binding are nowhere
-ppd funding by Aliay/wcpay.. good enough
+ppd funding by Aliay or wcpay.. good enough
 Tested: one-tap scan
 
 ~~ yellow .. meituan
@@ -44,7 +45,7 @@ smrz under grandma, binding her bank card
 ppd funded by bank card
 Tested: one-tap scan
 
--- new: Beijing transit card: Absolutely essential
+-- new: Beijing transit card: more essential than bike sharing
 Option 1: the 亿通行 app
 Option 2: keep my precious transit card. Keep a "large" balance to make it valuable :)
 I was able to top up using wcpay PPD
