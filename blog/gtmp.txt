@@ -20,6 +20,40 @@ wcpay is the worst of all. 95017 is the official hotline.. never tried.
 
 Bike sharing is the smallest infrastructure piece. Hello has a hotline.
 
+-- new: bike shar`]BJ
+I can't afford to rely on something unpredictable. If reliable, then the avaibility/quality/convenience is excellent.
+
+Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
+
+Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (wcpay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
+
+~~ green.. Didi cab/bike
+smrz pending, affecting bank card binding
+ppd not funded :(
+Tested: scan via wechat, but tedious
+Tested: one-tap scan, ending with Alipay
+Alipay gives new users benefit of the doubt
+
+~~ blue.. Hello bike/cab
+smrz not sue.. smrz initially set up via Alipay, but not showing as verified. Bank card binding or Alipay binding are nowhere
+ppd funding by Aliay/wcpay.. good enough
+Tested: one-tap scan
+
+~~ yellow .. meituan
+smrz under grandma, binding her bank card
+ppd funded by bank card
+Tested: one-tap scan
+
+-- update bpost on VPN
+Need to accept the reality of China firewall.. Don't be bitter or resentful. China government is not completely without justification. Focus on solutions. 
+
+Note some workhorse sites [dreamhost, github,,] are accessible by wifi but not ChnM hotspot. Don't rely on blog for important info.
+
+Solution: pay a bit for a reliable VPN 
+Solution: use git-blog .. git-push once a day via roaming-hotspotS or hotel wifi or home wifi
+
+Tip: when hotel wifi is stable, do more git blogging.
+
 ==== update https://btv-open.dreamhosters.com/69/counting-your-own-kindness/
 “Keep a log of all the kind acts you do in a particular day” — A Positive Psychology trainer  (Edgar K. Tham) mentioned this in the training hand out.
 
