@@ -29,16 +29,21 @@ Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easi
 
 Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (wcpay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
 
+No perfectionist please. Perhaps half the locals also have problems with one of the three operators. My basic goal, the good-eough goal is can-use.
+
 ~~ green.. Didi cab/bike
 mainPage > 打车 > blue shield > 安全工具 > smrz ... shows smrz completed but not bank card binding
 Tested: scan via wechat mini-app, but tedious
-Tested: one-tap scan, ending with Alipay, although ppd not funded
+Tested: one-tap scan, ending with Alipay auto-deduction, although ppd not funded
 .. Alipay (not wcpay) gives new users benefit of the doubt
 
 ~~ blue.. Hello bike/cab
-smrz not sue.. smrz initially set up via Alipay, but not showing as verified. Bank card binding or Alipay binding are nowhere
-ppd funding by Aliay or wcpay.. good enough
+smrz not sue.. smrz initialized via Alipay, but not showing as verified.
 Tested: one-tap scan
+
+Blue is the most complete set-up in terms of payment control.
+* ppd funding by Aliay or wcpay
+* When insufficient, Alipay auto-deduction kicked in, mysteriously. Alipay or Bank card binding are nowhere
 
 ~~ yellow .. meituan
 smrz under grandma, binding her bank card
