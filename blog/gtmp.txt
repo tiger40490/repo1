@@ -17,20 +17,17 @@ Alipay, another infrastructure entity, is better than its peers.
 
 [1] Singpass would be a benchmark in effective customer service. No branches but many places to offer help to the elderly.
 
-Didi has online chat that lets me speak.
-
 wcpay is the worst of all. 95017 is the official hotline.. never tried. 
 
-Bike sharing is the smallest infrastructure piece. Hello has a hotline.
+Bike sharing is the smallest infrastructure piece. Hello has a hotline. Didi has online chat that lets me speak.
 
 -- new: bike shar`]BJ
 I can't afford to rely on something unpredictable. If reliable, then the avaibility/convenience is excellent in many situations .. short trips in normal weather condition, or after midnight. In contrast, public transit is more essential.
 
 Plan 0: don't rely on bike sharing. Buy a cheap bike if needed. Own bike is easier to operate.
-
 Plan 1 (not really a base plan): rely on yellow bike, set up manual top-up from Any bank card. (wcpay would be a good second top-up source.) Accept the various surprises. (Citibike and SgBike etc also come with surprises.) 
 
-No perfectionist please. Perhaps half the locals also have problems with one of the three operators. My basic goal, the good-eough goal is can-use.
+No perfectionist please. Perhaps half the locals also have problems with one of the three operators. My basic goal is "can use any one". My good-eough goal is "can-use multiple".
 
 ~~ green.. Didi cab/bike
 mainPage > 打车 > blue shield > 安全工具 > smrz ... shows smrz completed but not bank card binding
