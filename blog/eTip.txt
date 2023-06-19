@@ -1,4 +1,4 @@
--- new: ChnM billing
+-- new: ChnM billing++
 话费 .. your account balance. Usable to pay Y18 monthly subscription, outging minutes or GB [i.e. mobile data]
 
 Each month, rmb 18 is deducted from acct balance, without pro-ration. Around 2 July, the Y18 deduction will fail.
@@ -11,6 +11,8 @@ Itemized bill .. available in the app or at end of month in final bill.
 
 ZLH account: starting balance rmb42. rmb18 deducted...
 TB account: starting balance rmb28 + top-up rmb10 by grandma = rmb38. rmb18 deducted, then about rmb5 of cumulative airtime. rmb6 for 2GB.
+
+github.com was, as of 7 Jun, accessible from hotel but blocked by ChM, according to ChM hotline. On 19 Jun, I was able to git push via ChM hotspot, so the firewall is kinda dynamic.
 
 ~~For my rmb18 package [套餐]
 19c/min call-out. call-in is FOC
