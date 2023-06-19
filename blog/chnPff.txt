@@ -19,7 +19,10 @@ mobileNum is confirmed easy to change.
 
 Boy is able to use ZLH passport + my HSBC card .. Apparently, for foreigners Alipay beats wcpay.
 
-Billing page shows all in/out amounts, but can't filter in PPD 
+Billing page shows all in/out amounts. 
+To see only PPD in/out amounts, 
+option 1) choose one of the ppd spends then look for 账户余额 then click in
+option 2) go to ppd page
 
 Pay into Meituan acccount? Not supported.
 
