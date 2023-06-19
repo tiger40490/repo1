@@ -44,6 +44,12 @@ smrz under grandma, binding her bank card
 ppd funded by bank card
 Tested: one-tap scan
 
+-- new: Beijing transit card: Absolutely essential
+Option 1: the 亿通行 app
+Option 2: keep my precious transit card. Keep a "large" balance to make it valuable :)
+I was able to top up using wcpay PPD
+I was able to top up using Alipay bank card
+
 -- update bpost on VPN
 Need to accept the reality of China firewall.. Don't be bitter or resentful. China government is not completely without justification. Focus on solutions. 
 
