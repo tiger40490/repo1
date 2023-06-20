@@ -13,12 +13,12 @@ phones .. need to buy then set up new phone!
 transit card .. hard to replace
 bank card .. hard to replace
 ~~ other items 
-laptop .. seldom carried 
+laptop .. seldom carried but essential 
 ====
 -- new: living]Chn: customer service 
 As I told my son, the most essential infrastructure pieces are 
-1) mobileNum under_your_name
-2) bank cards
+1) mobileNum under_your_name. You can have multiple
+2) bank cards. You can have multiple
 2b) bank apps registered with a mobileNum under_your_name
 3) Alipay+wcpay, registered with a mobileNum under_your_name and bankCards under_your_name
 4) transit app/card under_your_name 
