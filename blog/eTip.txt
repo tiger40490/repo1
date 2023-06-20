@@ -1,3 +1,24 @@
+-- fuxi:
+My VivoY02 was the cheapest smartphone on the market at the time, even cheaper than my 2019 purchase.
+
+In Beijing, I progressively became one of the millions of Chinese who depend on their phones for everything... speed, full-feature,,, I think the Beijing trip is a good test for my VivoY02. I noticed some minor limitations, but speed is not one of them.
+
+A "higher" phone may not help. More storage may not help. 
+A "higher" phone increases my worry about loss.
+
+-- fuxi: Next trip to China, how to reduce voice call cost.
+A bigger package may not help.
+The rmb8 package shows current running cost :)
+-- update bpost on VPN
+Need to accept the reality of China firewall.. Don't be bitter or resentful. China government is not completely without justification. Focus on solutions. 
+
+Note some workhorse sites [dreamhost, github,,] are accessible by wifi but not ChnM hotspot. Don't rely on blog for important info.
+
+Solution: pay a bit for a reliable VPN 
+Solution: use git-blog .. git-push once a day via roaming-hotspotS or hotel wifi or home wifi
+
+Tip: when hotel wifi is stable, do more git blogging.
+
 -- new: ChnM billing++
 话费 .. your account balance. Usable to pay Y18 monthly subscription, outging minutes or GB [i.e. mobile data]
 

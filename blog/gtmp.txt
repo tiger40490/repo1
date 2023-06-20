@@ -1,3 +1,4 @@
+
 -- new: living]Chn: customer service 
 As I told my son, the most essential infrastructure pieces are 
 1) mobileNum under_your_name
@@ -80,16 +81,6 @@ laptop .. seldom carried
 new purchases .. usually low value
 
 =====
-
--- update bpost on VPN
-Need to accept the reality of China firewall.. Don't be bitter or resentful. China government is not completely without justification. Focus on solutions. 
-
-Note some workhorse sites [dreamhost, github,,] are accessible by wifi but not ChnM hotspot. Don't rely on blog for important info.
-
-Solution: pay a bit for a reliable VPN 
-Solution: use git-blog .. git-push once a day via roaming-hotspotS or hotel wifi or home wifi
-
-Tip: when hotel wifi is stable, do more git blogging.
 
 ==== update https://btv-open.dreamhosters.com/69/counting-your-own-kindness/
 “Keep a log of all the kind acts you do in a particular day” — A Positive Psychology trainer  (Edgar K. Tham) mentioned this in the training hand out.
