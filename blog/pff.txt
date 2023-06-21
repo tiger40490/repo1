@@ -8,7 +8,7 @@ adtg: good infrastructure in many aspects
 
 -- update...
 Fundamentally, I feel part of my NNIA is paying out from principal.
-CpfLife, BGC,,,, are safer
+CpfLife, BGC,,,, are sturdier
 
 ==== new: sms OTP via roaming
 In general, I feel Starhub is more familiar, reliable than ChM. Actually ChM roaming is much chearper. Hotline-via-roaming is more accessible.
