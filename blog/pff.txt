@@ -2,28 +2,6 @@
 Fundamentally, I feel part of my NNIA (GRR) is paying out from principal, 
 CpfLife, BGC,,,, are sturdier
 
-==== new: sms OTP via roaming
-In general, I feel Starhub is more familiar, reliable than ChM. Actually ChM roaming is much chearper. Hotline-via-roaming is more accessible.
-
--- starhub
-Roaming subscription required unconditionally. $10 for each re-subscription. You can resubscribe via wifi, but need to exit flight mode.
-
-SGD 0.15 / message, but ..
-Q: Will I get a flood of recent messages when I activate roaming?
-
-Two ways to receive SMS for a short while. In both cases, need to disable data roaming using builtin interface, not via starhub app.
-1) remove the SIM card immediately
-2) exit flight mode, receive the OTP, then re-enter flight mode.
--- ChM
-Roaming is enabled by default. No extra charge :)
-Incoming SMS via roaming is ... free of charge by ChM
-
-Why don't we try carrying the #159 SIM card to Sg and then find out how bad it is?
-
-Acceptable plan: register 159xxx for everything except HSBC+ICBC. Cancel in a few months when we know how bad it is. Need to set up all apps before next trip to China
-
-====
-
 -- update or new: enough nest egg2retire@current burn rate 
 Claim: you can and need to invest in stocks since young.
 My take: Only U.S. stocks...
