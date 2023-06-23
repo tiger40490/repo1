@@ -1,3 +1,53 @@
+==== new: ## G3 frustrations travell`2Chn
+smrz .. e-payment; subway; bike sharing; tourist attractions;
+.. troublesome for locals, extra-hard for passport holders
+quiet time alone (+ personal space ] hotel) .. see separate bpost
+need to rely on numerous mobile apps .. just as driving is to American lifestyle. 
+..limited know-how ... need to (invest time) learn the phone, numerous apps [see separate bpost], and need customer service [see separate bpost]
+~~ EOR
+risk of losing valuables .. /background-heat/ stressor. See separate section
+
+-- worst possible losses ranked... Be conscious of the relative value of each!
+passport .. 1.5M wait
+phones .. need to buy then set up new phone, but many people can help
+transit card .. hard to replace
+bank card .. hard to replace
+~~ other items 
+laptop .. seldom carried outside but essential 
+====
+-- new: living]Chn: customer service 
+As I told my son, the most essential infrastructure pieces are 
+1) mobileNum under_your_name. You can have multiple
+2) bank cards. You can have multiple
+2b) bank apps registered with a mobileNum under_your_name
+3) Alipay+wcpay, registered with a mobileNum under_your_name and bankCards under_your_name
+4) transit app/card under_your_name 
+5) bike sharing app under_your_name
+
+When not "if" you hit (big or small) obstacles using these services, you really badly need effective customer service. See [1]
+
+What's effective? Email is usually not fast enough. Chat is slow, and complicated due to Chinese input, and during ID authentication. I usually prefer F2F or hotline. 
+
+In general, China banks, ChM (subway to a lesser extent) offer the best customer service thanks to the physical branches. Among the banks, HSBC is more foreigner friendly but with fewer branches.
+
+Alipay, another infrastructure entity, is better than its peers.
+
+[1] Singpass would be a benchmark in effective customer service. No branches but many places to offer help to the elderly.
+
+wcpay is the worst of all. 95017 is the official hotline.. never tried. 
+
+Bike sharing is the smallest infrastructure piece. Hello has a hotline. Didi has online chat that lets me speak.
+
+I foresee myself spending lots of time in China and relying on customer support. In the U.S. customer support come with a premium, but luckily no such extra cost in China.
+
+-- new: Beijing transit card: more essential than bike sharing
+Option 1: the 亿通行 app.. actually easy to set up smrz and Alipay binding
+Option 2: keep my precious transit card. Keep a "large" balance to make it valuable :)
+I was able to top up using wcpay PPD
+I was able to top up using Alipay bank card
+
+I foresee myself spending lots of days every year in Beijing.
+
 -- new: ageist, ageism
 More flexible and adaptable than "age-discrimination" 
 
