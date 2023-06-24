@@ -8,28 +8,6 @@ In Beijing, I progressively became one of the millions of Chinese who depend on 
 A "higher" phone may not help. More storage may not help. 
 A "higher" phone increases my worry about loss.
 
--- new: ChnM billing++
-话费 .. your account balance. Usable to pay monthly package, outging minutes or GB [i.e. mobile data]
-
-Each month, rmb 18 is deducted from acct balance, without pro-ration. Around 2 July, the Y18 deduction may fail.
-
-This specific package [套餐] has no bundled GB or bundled minutes, so these costs are known as 套餐外xxx
-
-PAYU [pay-as-you-use] .. rmb 3 is "auto-deducted" (from your account balance) to buy 1GB as needed. Similarly, rmb 0.19 is deducted to buy each minute of outgooing air time.
-
-Next trip to China, how to reduce voice call cost?
-A bigger package may not help.
-The rmb8 package shows current running cost :)
-
-Itemized bill .. available in the app or at end of month in final bill.
-
-github.com was, as of 7 Jun, accessible from hotel but blocked by ChM, according to ChM hotline. On 19 Jun, I was able to git push via ChM hotspot, so the firewall is kinda dynamic.
-
-~~For my rmb18 package [套餐]
-19c/min call-out. call-in is FOC
-10c/SMS out. SMS-in is FOC
-
-mobile data is complicated. Basically up to rmb3 for each GB. 
 -- new: ##which China apps can "register" a mobileNumB while on SimCardA
 Meituan.. tested
 Alipay.. tested
