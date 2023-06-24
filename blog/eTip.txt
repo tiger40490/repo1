@@ -1,13 +1,3 @@
--- new: VivoY02:
-t_soulsearch
-
-My VivoY02 was the cheapest smartphone on the market at the time, even cheaper than my 2019 purchase :) beating historical inflation, thanks to Chinese tech progress.
-
-In Beijing, I progressively became one of the millions of Chinese who depend on their phones for everything... They need speed, full-feature,,, I think the Beijing trip served as a quick but real test for the product. I noticed some minor limitations, but speed is not one of them.
-
-A "higher" phone may not help. More storage may not help. 
-A "higher" phone increases my worry about loss.
-
 -- new: ##which China apps can "register" a mobileNumB while on SimCardA
 Meituan.. tested
 Alipay.. tested
