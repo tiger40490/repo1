@@ -16,6 +16,7 @@ HSBC-China .. tested
 Wechat .. I was using 97263200 
 
 Let's register 159xxx55214 in Meituan, Wechat
+
 -- new: bike shar`]BJ
 I can't afford to rely on something unpredictable. If reliable, then the avaibility/convenience is excellent in many situations .. short trips in normal weather condition, or after midnight. In contrast, public transit is more essential.
 
@@ -26,6 +27,7 @@ No perfectionist please. Perhaps half the locals also have problems with one of 
 
 ~~ green.. Didi cab/bike
 mainPage > 打车 > blue shield > 安全工具 > smrz ... shows smrz completed but not bank card binding
+统一实名认证 ..  different from 实名认证, only supporting China NRIC
 Tested: scan via wechat mini-app, but tedious
 Tested: one-tap scan, ending with Alipay auto-deduction, although ppd not funded
 .. Alipay (not wcpay) gives new users benefit of the doubt
