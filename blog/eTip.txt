@@ -1,3 +1,14 @@
+-- new: PLN 
+I have learnt from experience that PLD devices need ventilation and periodic power-down. I think they become hot quite easily.
+My current pair of devices are identical :) and therefore interchangeable. 
+One of them is easy to power-off, and gets more "rest". 
+So I devised a plan to rotate them, so each one periodically rotates to the light-duty position. 
+This rotation scheme may not prolong service life, but can reduce heat in my home.
+
+I find PLN more reliable than wifi, as reliable as ethernet. If that's true, then for some homes PLN is a superior solution in terms of complexity, wiring,,,, See https://tedium.co/2020/06/02/powerline-networking-history/
+
+Whenever I need uninterrupted connectivity for telecommute, I avoid home wifi (including mesh)... too unstable. If I can't run a long cable across rooms, then PLN is my default choice.
+
 -- new: too many items: create folders
 Usage sites: smartphone/PC desktop icons; browser bookmarks; recoll
 
