@@ -1,6 +1,8 @@
--- in Beijing, I feel a serious dependenncy on blogg [github, dreamhost]
+-- update bpost on Korea trip
+in Beijing, I feel a serious dependenncy on blogg [github, dreamhost]
+This /adjustment/ to the China environment is stressful and painful. 
 
-This adjustmen to the China environment is stressful and painful. 
+I need to jot down many thoughts across diverse topics. This usually requires smemo (I had), quite time, git blog, tablespace,, but don't need internet access.
 
 dinosaurs? A negative descriptor. 
 
@@ -10,6 +12,3 @@ Serenity? Harmoney?
 category tree.
 
 tags (not categories) offer auto-suggest.
-
--- fuxi:
-i now spend more time updating than creating bposts... An improvement based on experience
