@@ -1,3 +1,8 @@
+-- new: .rtf files as alternative to .docx 
+In my note system in office or home, and esp. in blogg, I have used RTF to avoid DOCX files.
+
+RTF files are much smaller than DOCX, but can preserve text effects.
+
 -- new: PLN 
 I have learnt from experience that PLD devices need ventilation and periodic power-down. I think they become hot quite easily.
 My current pair of devices are identical :) and therefore interchangeable. 
