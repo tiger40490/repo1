@@ -1,6 +1,13 @@
+-- update EGA
+~~ plann4 end of EGA
+Transfer most of the EGA balance to 6M TD. 
+convert to 15k mode of Premier, to support my Beijing account
+In SG, I can terminate Premier and close China account remotely.
+Once I have USD 25k in HSBC, place TD for a while, then try to take out in COrder, to avoid SGD 40 fee
+
 -- new or update
-when I first go to U.S. I had to conserve. Brbr...
-When I go to BJ as a returnee, I find the overall cost level lower than Sgp.
+when I first go to U.S. I had to conserve and watch my brbr...
+When I go to BJ as a returnee, I find the overall cost level lower than Sgp, and most things familar, except smrz
  
 -- new: OC acct wind-up: base plan
 For my mtg service account, I can download last 12M statements. (Also transfer remaining balance out.)
