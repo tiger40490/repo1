@@ -1,3 +1,8 @@
+-- update wcpay/alipay bpost
+Another reason to prefer e-payment:
+
+Some unscrupulous taxi drivers or vendors may quickly switch your genuine banknote for a fake one and then return the fake banknote to you and tell you the money you gave them is fake. They usually do this with 100 yuan notes since they are most valuable, although it may happen with 50 yuan notes too. Because of this, we suggest travelers in China keep some 10 or 50 yuan banknotes for small payments and avoid using 100 yuan notes when taking taxis or making small transactions.
+
 -- update EGA
 ~~ plann4 end of EGA
 Transfer most of the EGA balance to 6M TD. 

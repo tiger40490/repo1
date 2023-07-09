@@ -1,3 +1,6 @@
+-- update VPN
+https://www.thechinaguide.com/blog/how-to-use-your-cell-phone-while-traveling-in-china has recommendations
+
 -- new: .rtf files as alternative to .docx 
 In my note system in office or home, and esp. in blogg, I have used RTF to avoid DOCX files.
 
