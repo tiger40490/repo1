@@ -1,20 +1,15 @@
--- update hsbc
-USD COrder cost .. one-time waiver i.e. only the very first is free. Subsequent USD20 each. Can utilize this waiver after Sep trip
-
-wire transfer is charged $40 by HSBC Singapore, excluding any charges by other parties.
-
-No checkbook for EGA. A checking USD account has FBF USD 10/Month
-
 -- update wcpay/alipay bpost
+Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
+
 Another reason to prefer e-payment:
 
 Some unscrupulous taxi drivers or vendors may quickly switch your genuine banknote for a fake one and then return the fake banknote to you and tell you the money you gave them is fake. They usually do this with 100 yuan notes since they are most valuable, although it may happen with 50 yuan notes too. Because of this, we suggest travelers in China keep some 10 or 50 yuan banknotes for small payments and avoid using 100 yuan notes when taking taxis or making small transactions.
 
 -- update EGA
 ~~ plann4 end of EGA
-Transfer most of the EGA balance to 6M TD. 
-convert to 15k mode of Premier, to support my Beijing account
-In SG, I can terminate Premier and close China account remotely.
+Transfer most of the EGA balance to 6M TD or CIMB
+convert to 15k mode of Premier, to support my Beijing account until Sep. 
+Back in SG, I can terminate Premier and close China account remotely.
 Once I have USD 25k in HSBC, place TD for a while, then try to take out in COrder, to avoid SGD 40 fee
 
 -- new or update
