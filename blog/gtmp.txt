@@ -1,4 +1,5 @@
 -- update bpost on stressors around Bj15d
+fixed: wifi deadzone in kitchen
 fixed: Wife's $9/M Giro uncertainty 
 fixed: ChnM Rmb 18/M high maintenance cost; high voice cost during my next Beijing visit
 fixed: insufficient balance in ICBC account. Top-up in advance.
