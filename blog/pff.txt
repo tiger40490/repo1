@@ -1,3 +1,10 @@
+-- update hsbc
+USD COrder cost .. one-time waiver i.e. only the very first is free. Subsequent USD20 each. Can utilize this waiver after Sep trip
+
+wire transfer is charged $40 by HSBC Singapore, excluding any charges by other parties.
+
+No checkbook for EGA. A checking USD account has FBF USD 10/Month
+
 -- update wcpay/alipay bpost
 Another reason to prefer e-payment:
 
