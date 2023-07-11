@@ -21,18 +21,10 @@ For my mtg service account, I can download last 12M statements. (Also transfer r
 
 Until auto-closure in 6M, the rolling 12M statements are available online. After closure, statement requests (even beyond last 12M) are not FOC
 
-FSF waived if $0.0 balance.
+FBF waived iFF $0.0 balance.
 
 Beyond the base plan: 
 To extend beyond 6M of inactivity, you can request.
-
--- update deflation:
-mobile plans
-mobile handsets
-
--- update...
-Fundamentally, I feel part of my NNIA (GRR) is paying out from principal, 
-CpfLife, BGC,,,, are sturdier
 
 -- update or new: enough nest egg2retire@current burn rate 
 Claim: you can and need to invest in stocks since young.
