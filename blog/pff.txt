@@ -1,19 +1,30 @@
 == new: trust` n invest` %%xp
--- my Rbh xp
-Zero commission sounded too good to be true, so I started small. 
+"Trust" as in trusting an investment salesperson, and trusting a company.
 
--- my EGA xp .. I did my due diligence on the interest calc
-The EGA-IR was too good to be true.
+-- my RBBT experience .. I did my due diligence on the LIR calc
+Trust in the bank system for calc algorithm.. is not a big concern, but bigger than EGA case/
+
+The promised super-low LIR was too good to be trust-worthy.
+
+-- my HY/PE experience .. 
+With E12, I did my due diligence and decided to trust Chip Taylor.
+
+With Jill, I invested multiple times. I still assume Jill might be trust-worthy but she (and her managers) had poor judgement on the companies that received the money.
+
+-- My SEAsia rEstate decisions .. I visit the sites. I trust a salesperson after a long interaction. I transfer fund only to an account given by the same salesperson
+-- my Rbh experience
+Zero commission sounded too good to be trust-worthy, so I started small. 
+-- my EGA experience .. I did my due diligence on the interest calc
+The EGA-IR was too good to be trust-worthy.
 Trust in the HSBC calc algorithm .. is not a big concern.
-
--- my RBBT xp .. I did my due diligence on the LIR calc
-Trust in the bank calc algorithm .. is not a big concern, but bigger than EGA case/
-
-The promised LIR was too good to be true.
-
--- My SEAsia rEstate decisions .. I visit the site. I trust a salesperson after a long interaction. I transfer fund only to an account given by the same salesperson
-
 =====
+-- update ccards
+.. SCB 
+Need to activate both ccards. Cancel any after 3M (not 6M)
+Spend $288 using one ccard and receive freebies ($200 + travel kit) in 90D. SMS then collection.
+
+Cashback with no min spend, no cap. 1.5% on any SPENDING but not transfers or recurring bill payment.
+good for big purchases like flights, hotels.
 
 -- update wcpay/alipay bpost
 Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
