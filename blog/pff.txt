@@ -1,3 +1,20 @@
+== new: trust` n invest` %%xp
+-- my Rbh xp
+Zero commission sounded too good to be true, so I started small. 
+
+-- my EGA xp .. I did my due diligence on the interest calc
+The EGA-IR was too good to be true.
+Trust in the HSBC calc algorithm .. is not a big concern.
+
+-- my RBBT xp .. I did my due diligence on the LIR calc
+Trust in the bank calc algorithm .. is not a big concern, but bigger than EGA case/
+
+The promised LIR was too good to be true.
+
+-- My SEAsia rEstate decisions .. I visit the site. I trust a salesperson after a long interaction. I transfer fund only to an account given by the same salesperson
+
+=====
+
 -- update wcpay/alipay bpost
 Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
 Ask for POS and you may realize there are many POS terminals in Beijing's bigger merchants.
