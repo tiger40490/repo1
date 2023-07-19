@@ -1,3 +1,6 @@
+-- fuxi:
+"->" is ambiguous when you want it to mean start to end time
+
 -- update bpost on Korea trip
 in Beijing, I feel a serious dependenncy on blogg [github, dreamhost]
 This /adjustment/ to the China environment is stressful and painful. 
