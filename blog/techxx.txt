@@ -1,3 +1,17 @@
+-- new: GPT
+application domains of GPT:
+
+language translation 
+document summarization 
+building websites, 
+designing visuals, 
+making animations, 
+writing code, 
+researching complex topics
+
+GPT models generate text in casual, humorous, professional,,,, styles.
+
+Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
 -- update:
 rebase merge would create new create hash strings, but content of each commit is retained.
 
