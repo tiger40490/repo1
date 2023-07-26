@@ -23,16 +23,6 @@ Zero commission sounded too good to be trust-worthy, so I started small.
 The EGA-IR was too good to be trust-worthy.
 Trust in the HSBC calc algorithm .. is not a big concern.
 =====
--- update ccards
-.. SCB .. contact Max 9351 2270
-Need to activate both ccards. Cancel any after 3M (not 6M)
-Spend $288 using one ccard and receive freebies ($200 + travel kit) in 90D. SMS then collection.
-
-$288 within 30D of approval (20Jul) .. utility bill (prepay)? NTUC voucher? 
-
-Cashback with no min spend, no cap. 1.5% on any SPENDING but not transfers or recurring bill payment.
-good for big purchases like flights, hotels.
-
 -- update wcpay/alipay bpost
 Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
 Ask for POS and you may realize there are many POS terminals in Beijing's bigger merchants.
