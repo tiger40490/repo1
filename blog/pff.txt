@@ -1,8 +1,13 @@
-== new: trust` n invest` %%xp
-"Trust" as in trusting an investment salesperson, and trusting a company.
+-- update bpost on nightly FAST
+I feel the $10/night earning is more strategic than the $200 credit card cashback, because
+* it is recurring over several months.
+* there is less uncertainty about the outcome
+
+== new: trust` n invest` : my xp
+"Trust" as in trusting an investment salesperson, and trusting a commercial company.
 
 -- my RBBT experience .. I did my due diligence on the LIR calc
-Trust in the bank system for calc algorithm.. is not a big concern, but bigger than EGA case/
+Trust in the bank system for calc algorithm.. is not a big concern, but bigger than in the EGA case.
 
 The promised super-low LIR was too good to be trust-worthy.
 
