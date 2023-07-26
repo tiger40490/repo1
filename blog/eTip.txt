@@ -1,3 +1,9 @@
+-- new: phishing.. 
+clicing a link can be dangerous... site can push fileless malware to your computer and run.
+
+sender's domain name is usually reliable.
+
+malware include [virus, adware, spyware]
 -- update VPN
 https://www.thechinaguide.com/blog/how-to-use-your-cell-phone-while-traveling-in-china has recommendations
 
