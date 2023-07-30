@@ -2,3 +2,27 @@
 
 -- new: blunt instrument
 examples?
+
+== new: efficacy^effective
+efficacy is a capacity, a capacity for producing a desired effect.
+
+The word "Effectiveness" has browader usage scenarios. Many of them are bad for Efficacy.
+
+Self-efficacy measures the level of self-belief in your own capacity to get something done (achieve a desired goal), regardless how effective it is achieved.
+
+For a given "intervention", I feel its efficacy is related to its Reliabilty. "Is this intervention higly likely to have this minimum effect"? Efficacy means reliability is high, though effectiveness may be low.
+
+-- eg: efficacy in producing an erection. 
+
+I may struggle for a long time, but I can do it. It may last just long enough for penetration and ejaculation, but I can do it.
+
+VED .. can reliably induce a basic level of erection good enough for penetration.
+
+Kegels .. can it reliably improve erection, regardless how much improvement?
+
+-- eg: savings habit for ffree after retirement
+Most folks seem to give up. Some folks do have a realistic CBBR. When asked how important a savings habit is to them, many dismiss it as inadequate -- low efficacy.
+
+I am one of those who believe this habit is guaranteed to help improvement retirement cashflow. Its effectiveness (how much difference it makes) is another question.
+
+-- eg: Saurabh demonstrated efficacy in his tech designs. He got the job done, and it's usable, even though the solution is not great. 
