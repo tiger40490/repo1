@@ -9,7 +9,11 @@ malware include [virus, adware, spyware, ransomware (i.e. encrypting your files)
 J4 using 3 laptops concurrently at home
 * keep every laptop actively maintained and monitored, so they don't come out of "warehouse" damaged by disuse
 * build some "mileage" with L399
-* get used to no-touchscreen. Will help me assess the value of touchscreen when I next buy a laptop
+
+The items below will help when I next buy a laptop
+* get used to no-touchscreen. 
+* get a concrete feel of how fast a 2023 (entry-level) laptop can be.
+* try out Win11 in various usage scenarios
 
 -- update VPN
 https://www.thechinaguide.com/blog/how-to-use-your-cell-phone-while-traveling-in-china has recommendations
