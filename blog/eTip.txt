@@ -4,6 +4,13 @@ clicing a link can be dangerous... site can push fileless malware to your comput
 sender's domain name is usually reliable.
 
 malware include [virus, adware, spyware, ransomware (i.e. encrypting your files) ]
+
+-- update bpost on long service award
+J4 using 3 laptops concurrently at home
+* keep every laptop actively maintained and monitored, so they don't come out of "warehouse" damaged by disuse
+* build some "mileage" with L399
+* get used to no-touchscreen. Will help me assess the value of touchscreen when I next buy a laptop
+
 -- update VPN
 https://www.thechinaguide.com/blog/how-to-use-your-cell-phone-while-traveling-in-china has recommendations
 
