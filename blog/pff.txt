@@ -1,7 +1,6 @@
--- update which bpost
-I now feel China stocks are inferior to the U.S. 
-* U.S. corporates answer to shareholders and try to create value for share holders. (Same can be said of Singapore listed companies.) China listed companies most answer to government and the few big shareholders. China companies seldom pay dividend.
-* Out of the thousdans of China stocks, I'm sure some are well-managed, creating good shareholder values, but I don't know how to find them.
+-- update which bpost?
+I now feel China stocks are less familiar than U.S. stocks
+* U.S. corporates answer to shareholders and try to create value for shareholders. (Same can be said of Singapore listed companies.) China listed companies mostly answer to government and the few big shareholders. China companies seldom pay dividend. Out of the thousdans of China stocks, I'm sure some are well-managed, creating good shareholder values, but I don't know how to find them.
 
 China A-shares are bought and sold mostly by retail investors. Retail investors are more irrational, leading to high volatility.
 
@@ -13,7 +12,7 @@ In terms of earnings, China listed companies are more affected by government pol
 
 Fundamentally, China remains a command economy, where the CCP has tight control over most listed companies. The 2021-2022 crackdown on tech companies was a recent example. I can't think of such a crackdown happening in the U.S.
 
-
+Therefore, predicting policy change is key to investing in China stocks. Public news is tricky to follow.
 
 -- update bpost on nightly FAST
 I feel the $10/night earning is more strategic than the $200 credit card cashback, because
