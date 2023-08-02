@@ -83,12 +83,11 @@ Sg offers a more affordable retirement, in terms of Melvin3.
 -- fuxi:
 With my increased Base salary (bonus is different story), how should we adjust our spending, savings etc?
 * sugg: increase wealth accu for wife. cpfVcon is probably the most restrictive
-* sugg: rebuild my cash reserve 
 
--- fuxi
+-- update xxx or new: paper money in pff
 More frequent usage of (and carrying) paper money increases risk of loss
 but it gives me better feel for the outflow.
-I think this risk is an inherent risk with paper money, to be accepted and managed.
+I think this is an inherent hazard with paper money, to be accepted and managed.
 
 sugg: pay offlines for all small amounts.
 sugg: keep $50 notes in several places like office, cockpit1, cockpit4
