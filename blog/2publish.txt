@@ -1,3 +1,6 @@
+-- update which bpost
+It's hard to find property in SG below market value, but some sReits trade below NAV.
+
 -- update deflation:
 mobile plans
 mobile handsets
