@@ -1,4 +1,6 @@
 -- slow cooking update blogpost on more/less?
+reduce frq of exp recon
+
 Fact: for some of us, we always feel insufficient allocation to this or that aspects of our lives. (To be fair, occasionally do we feel some over-allocation.)
 
 To address that, I need to slow down on new work projects.

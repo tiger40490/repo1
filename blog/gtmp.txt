@@ -1,5 +1,5 @@
--- new: EQ/EI
-
+-- update abbr:
+PEK is precious. No such abbr for Shanghai or Hongkong !
 
 -- new or fuxi:
 In my 20s and earlier, I used to worry about substance addiction, as if my body can get out of control. 
