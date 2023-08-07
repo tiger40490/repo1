@@ -1,8 +1,6 @@
 -- new: FLI2 [Flexi life income 2]
 Single prem early Sep 300k, back dated to Mar 2023. 3Y (Mar 2026) to start receiving 3.2 ppa payout.
 
-Can surrender any time  but best (immediately) after receiving a payout.
-
 [sweetener] Upfront int $2610 or $12k?
 
 [sweetener] prem financing of 72% of full premium, at 2.58 ppa. Better deposit it in liquid account to enable quick-n-easy wipeout. Better stop CitiRBBT and reduce juggling, if I take on this loan.
@@ -38,32 +36,6 @@ I feel the $10/night earning is more strategic than the $200 credit card cashbac
 * it is recurring over several months.
 * there is less uncertainty about the outcome
 
-== new: trust` n invest` : my xp
-"Trust" as in trusting an investment salesperson, and trusting a commercial company.
-
--- my RBBT experience .. I did my due diligence on the LIR calc
-Trust in the bank system for calc algorithm.. is not a big concern, but bigger than in the EGA case.
-
-The promised super-low LIR was too good to be trust-worthy.
-
--- my HY/PE experience .. 
-With E12, I did my due diligence and decided to trust Chip Taylor.
-
-With Jill, I invested multiple times. I still assume Jill might be trust-worthy but she (and her managers) had poor judgement on the companies that received the money.
-
--- My SEAsia rEstate decisions .. I visit the sites. I trust a salesperson after a long interaction. I transfer fund only to an account given by the same salesperson
--- my Rbh experience
-Zero commission sounded too good to be trust-worthy, so I started small. 
--- my EGA experience .. I did my due diligence on the interest calc
-The EGA-IR was too good to be trust-worthy.
-Trust in the HSBC calc algorithm .. is not a big concern.
-=====
--- update wcpay/alipay bpost
-Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
-Ask for POS and you may realize there are many POS terminals in Beijing's bigger merchants.
-
-Another reason to prefer e-payment:
-Some unscrupulous taxi drivers or vendors may quickly switch your genuine banknote for a fake one and then return the fake banknote to you and tell you the money you gave them is fake. They usually do this with 100 yuan notes since they are most valuable, although it may happen with 50 yuan notes too. Because of this, we suggest travelers in China keep some 10 or 50 yuan banknotes for small payments and avoid using 100 yuan notes when taking taxis or making small transactions.
 
 -- update https://tanbinvest.dreamhosters.com/13021/sizeretirement-income-from-assets-u-s-data/
 XianHua said a U.S. retiree in his case 
