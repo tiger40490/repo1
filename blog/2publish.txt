@@ -1,3 +1,10 @@
+-- update: limitations of calorie theory:
+chia and other resistant starch .. can make me feel full for a while. Some lose the satiety effect soon :( Some actually make me gain weight. So the calorie theory is inconssitent, confusing,,,
+
+nuts .. very high cal density ... too high to believe
+
+juices, protein power, meal replacement power, or whole milk is supposed to provide lots of calories, but I don't feel full at all.
+
 -- update wcpay/alipay bpost
 Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
 Ask for POS and you may realize there are many POS terminals in Beijing's bigger merchants.
@@ -14,16 +21,7 @@ My Rule #1: be realisitc about retiring in style, and don't aim at current burn 
 
 My Rule #1b: from young age, take up the legwork to find long-term solutions for old age housing and healthcare.
 
-As to stock investment, I don't know how reliable it is. What if you buy at the peak, and need to wait 20Y for a recovery? If I give myself 30-40 years of accumulation, I think only U.S. stocks are able to hit that high bar
-
-=====
-
--- update: limitations of calorie theory:
-chia and other resistant starch .. can make me feel full for a while. Some lose the satiety effect soon :( Some actually make me gain weight. So the calorie theory is inconssitent, confusing,,,
-
-nuts .. very high cal density ... too high to believe
-
-juices, protein power, meal replacement power, or whole milk is supposed to provide lots of calories, but I don't feel full at all.
+As to stock investment, I don't know its reliability for the purpose of long-term cash payout. What if you buy at the peak, and need to wait 20Y for a recovery? If I give myself 30-40 years of accumulation, I think only U.S. stocks are able to hit that high bar
 
 -- update which bpost on sReit
 It's hard to find property in SG below market value, but some sReits trade below NAV.
