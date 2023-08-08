@@ -1,10 +1,24 @@
--- new: FLI2 [Flexi life income 2]
+== new: FLI2 [Flexi life income 2]
 Single prem early Sep 300k, back dated to Mar 2023. 3Y (Mar 2026) to start receiving 3.2 ppa payout.
-
-[sweetener] Upfront int $2610 or $12k?
 
 [sweetener] prem financing of 72% of full premium, at 2.58 ppa. Better deposit it in liquid account to enable quick-n-easy wipeout. Better stop CitiRBBT and reduce juggling, if I take on this loan.
 
+$50,066 x3 = $150,197 total premium
+Mar 2026 to receive $4,472/Y = guaranteed 2.2% of SA + projected 3% of SA
+Upfront rebate = $6129 by EOY
+
+"Once declared, become guranteed"
+
+Scenario 1: liquidate after first payout
+6129+4472 total profit from $150197 over 2.5Y
+
+-- single premium option:
+$150,358 total premium
+Mar 2026 to receive $4,836/Y
+ 
+Upfront rebate = $1306
+
+====
 -- update which bpost?
 I now feel China stocks are less familiar than U.S. stocks
 * U.S. corporates answer to shareholders and try to create value for shareholders. (Same can be said of Singapore listed companies.) China's largest listed companies mostly answer to government. China companies seldom pay dividend. Out of the thousdans of China stocks, I'm sure some are well-managed, creating good shareholder values, but I don't know how to identify them.
