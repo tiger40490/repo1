@@ -9,6 +9,10 @@ making animations,
 writing code, 
 researching complex topics
 
+How slow is the training? As of 2023, hundreds of billions of Words would take months using supercomputers. Fine-tuing often takes days on smaller computers.
+
+Fine-tuning means ... writing instruction/goodOutput and feeding them.
+
 GPT models generate text in casual, humorous, professional,,,, styles.
 
 Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
