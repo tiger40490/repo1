@@ -16,6 +16,15 @@ Fine-tuning means ... writing instruction/goodOutput and feeding them.
 GPT models generate text in casual, humorous, professional,,,, styles.
 
 Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
+-- new: jupyter
+A notebook file is a document producedBy the jupyter app. It contains py code + rich-text input/output
+
+The jupyter app is a server-client application that allows editing and running notebook files via a standard browser as client. The server instance can run in a laptop or a remote data center.
+
+I believe the notebook file is "served" from the server.
+
+https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html has an architecture diagram for "notebook interface"
+
 -- update:
 rebase merge would create new create hash strings, but content of each commit is retained.
 
