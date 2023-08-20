@@ -23,7 +23,9 @@ The jupyterApp is a server-client application that allows editing and running no
 
 I believe the notebook file is "served" from the server.
 
-Each Cell in a notebook file can run by itself independently from other cells. I think it can reference results from another cell. That's why slow data loaders need to run once (in their own cells) and be available for other cells.
+Custom function definitions and imports often need to go into a cell.
+
+Each Cell in a notebook file can run by itself independently from other cells. It can reference results or functions from another cell. That's why slow data loaders need to run once (in their own cells) and be available for other cells.
 
 https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html has an architecture diagram for "notebook interface"
 
