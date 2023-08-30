@@ -1,3 +1,9 @@
+-- update which bpost?
+Rebase-merge would create new hash strings, but content of each commit is retained.
+This creates a problem -- the master branch beocmes identical to original PR branch except the commit hash values.
+
+Best practice -- rebase your PR branch from master. This way the commit hash values will also synch up.
+
 -- give to boy my book on self-image
 
 -- update: limitations of calorie theory:

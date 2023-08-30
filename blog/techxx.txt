@@ -17,20 +17,17 @@ GPT models generate text in casual, humorous, professional,,,, styles.
 
 Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
 -- new: jupyter
-A notebook file is a document ProducedBy the jupyterApp. It contains py code + rich-text input/output
+A notebook file is a (non-ascii) document ProducedBy the jupyterApp. It contains py code + rich-text input/output
 
 The jupyterApp is a server-client application that allows editing and running notebook files via a standard browser as client. Server instance can run in a laptop or a remote data center.
 
 I believe the notebook file is "served" from the server.
 
-Custom function definitions and imports often need to go into a cell.
+Custom python function definitions and imports often need to go into a cell.
 
 Each Cell in a notebook file can run by itself independently from other cells. It can reference results or functions from another cell. That's why slow data loaders need to run once (in their own cells) and be available for other cells.
 
 https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html has an architecture diagram for "notebook interface"
-
--- update:
-rebase merge would create new create hash strings, but content of each commit is retained.
 
 -- fuxi or ..
 Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to understand deeper". Now I am different.
