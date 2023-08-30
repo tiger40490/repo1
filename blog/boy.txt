@@ -1,9 +1,9 @@
 -- new: EAE coding projects
-Web GUI (or other GUI) are easy to show interviewers, but there may not be so much relevant technical content. 
+Web GUI (or other GUI) are easy to show interviewers, but we may need to demonstrate technical features and avoid appearance of "copycat"
 
 Web GUI may be more interesting to boy?
 
-ChatGPT integration might be more intersting to boy.
+ChatGPT integration might be more interesting to boy.
 
 -- new: ##non-academic but successful individuals
 https://en.wikipedia.org/wiki/Steven_Spielberg
