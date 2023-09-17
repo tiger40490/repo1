@@ -1,3 +1,18 @@
+==== PEK event calendar
+-- 17/9
+cycle to get a printed map
+check post office hours
+check HSBC opening hours
+fetch photos
+subway home
+-- 18/9: 
+visit hospital
+visit PSBC with GP
+
+====
+-- Toa Payoh to airport
+Boarding east-bound at Paya Lebar can be crowded. Bugis is slightly better but likely slower. If plenty of time, then CityHall transfer is the most comfortable and convenient.
+
 -- save to contacts.txt
 Beijing home wifi SSID=101/ 8-digit num. I verified using laptop + mlphone + vivo phone
 
