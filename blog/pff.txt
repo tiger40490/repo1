@@ -1,13 +1,11 @@
 -- update bpost on Chn bank acct
 ~~ psbc 
 FBADB? $0
-transfer/spending limit? 10k/D, 50k/M, 10k/Y --> 20k
 xBank ATM fee? $0 for now
 6M dormant (-> counter service only)? Transfer rmb1 every 6 months please.
 mobank not yet set up
-bank card can bind now
+transfer/spending limit? 10k/D, 50k/M, 100k/Y --> 200k
 login auth?
-who can steal my money?
 
 -- new: ##irreversible money wastes
 J4 this bpost: Anything close to these red buttons are dangerous
