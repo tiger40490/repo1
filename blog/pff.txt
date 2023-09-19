@@ -1,3 +1,11 @@
+-- update bpost on Chn bank acct
+~~ psbc 
+FBADB? $0
+spending limit?
+transfer limit?
+xBank ATM?
+dormant?
+
 -- new: ##irreversible money wastes
 J4 this bpost: Anything close to these red buttons are dangerous
 
