@@ -1,8 +1,5 @@
 -- update bpost on Chn bank acct
 ~~ psbc 
-FBADB? $0
-xBank ATM fee? $0 for now
-6M dormant (-> counter service only)? Transfer rmb1 every 6 months please.
 mobank not yet set up
 transfer/spending limit? 10k/D, 50k/M, 100k/Y --> 200k
 login auth?
