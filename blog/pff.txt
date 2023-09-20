@@ -1,8 +1,12 @@
+-- update mb.khm
+if on auto-renew, then it's safer to wait after maturity date before uplift. "Safer" because no interest loss by accident.
+The one-day delay is a cost of safety, and a price I pay willingly when I choose the convenience of auto-renew.
+
 ==== update bpost on Chn bank acct
 -- psbc 
 j4 this account: webank can be set up on any computer
 
-transfer/spending limit? 
+transfer||spending limit? 
 * limit on card: 10k/D, 50k/M, 200k/Y
 * limit on mobank channel ...
 * limit on webank channel ...
@@ -10,7 +14,7 @@ transfer/spending limit?
 
 transfer to ICBC requires transaction-passwd AND smsOTP
 
-webank login: id can be mobileNum or tiger40490. the passwd is an independt copy of the mobank alphanumeric-passwd. Need to use a pre-installed applet to input passwd.
+webank login: ID can be mobileNum or tiger40490 (configurable). The passwd is an independt copy of the mobank alphanumeric-passwd. Need to use a pre-installed applet to input passwd.
 
 mobank login by 1) 5-dots 2) alphenumeric password. wechat/alipay only supported for China IC :(
 .. sensitive operations: Additional auth: using transaction-passwd AND smsOTP
@@ -23,6 +27,8 @@ Dormant .. suppose account becomes dormant, and my passport and mobileNum all ch
 
 -- hsbc:
 deposit USD 50k/Y, AND 10k x 4 times allowed each month 
+
+If monthly fees accumulate and become overdue, then you can try "deposit then immediately withdraw 100%". If system doesn't kick in too promptly and deduct the (accumulated) fees (remember citi.sg), then you are lucky. 
 
 ====
 -- new: ##irreversible money wastes
