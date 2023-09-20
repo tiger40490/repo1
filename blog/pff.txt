@@ -1,7 +1,3 @@
--- update mb.khm
-if on auto-renew, then it's safer to wait after maturity date before uplift. "Safer" because no interest loss by accident.
-The one-day delay is a cost of safety, and a price I pay willingly when I choose the convenience of auto-renew.
-
 ==== update bpost on Chn bank acct
 -- psbc 
 j4 this account: webank can be set up on any computer
