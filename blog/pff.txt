@@ -1,9 +1,28 @@
--- update bpost on Chn bank acct
-~~ psbc 
-mobank not yet set up
-transfer/spending limit? 10k/D, 50k/M, 100k/Y --> 200k
-login auth?
+==== update bpost on Chn bank acct
+-- psbc 
+transfer/spending limit? 
+* limit on card: 10k/D, 50k/M, 200k/Y
+* limit on mobank channel ...
+* limit on webank channel ...
+^^ .. whichever is lower
 
+transfer to ICBC requires transaction-passwd AND smsOTP
+
+webank login: id can be mobileNum or tiger40490. the passwd is an independt copy of the mobank alphanumeric-passwd. Need to use a pre-installed applet to input passwd.
+
+mobank login by 1) 5-dots 2) alphenumeric password. wechat/alipay only supported for China IC :(
+.. sensitive operations: Additional auth: using transaction-passwd AND smsOTP
+
+Alphanumeric passwd is tricky on the PSBC secure keyboard. I prefer a familiar passwd with very few leading (small) letters followed by many digits... t1xxxxxxxxxx [bCert]
+
+mobileNum has to be 159 (smsOTP)
+
+Dormant .. suppose account becomes dormant, and my passport and mobileNum all changed. Money will be intact. Can visit a branch to revive account, using NRIC and new passport.
+
+-- hsbc:
+deposit USD 50k/Y, AND 10k x 4 times allowed each month 
+
+====
 -- new: ##irreversible money wastes
 J4 this bpost: Anything close to these red buttons are dangerous
 
