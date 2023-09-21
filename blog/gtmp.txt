@@ -1,12 +1,10 @@
 -- PEK todo
-reconcile USD 4k
 jogg
+tea
 
 ==== PEK event calendar
 -- the day grandma returns home
-return her keyset + IC
-ask her to transfer 1k to my Psbc
-
+return her keyset
 ====
 -- update pains of travelling to China
 gmail, youtube blocked. Use microsoft Bing
