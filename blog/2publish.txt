@@ -1,10 +1,8 @@
 -- update which bpost?
-Rebase-merge would create new hash strings, but content of each commit is retained.
-This creates a problem -- the master branch beocmes identical to original PR branch except the commit hash values.
+Rebase-merge would create new hash strings, but content of each commit is preserved.
+This creates a problem -- the master branch beocmes identical to PR branch except the commit hash numbers.
 
-Best practice -- rebase your PR branch from master. This way the commit hash values will also synch up.
-
--- give to boy my book on self-image
+Best practice -- If you want to keep using your PR branch after rebase-merge, rebase it from the master. This way the commit hash values will also synch up.
 
 -- update: limitations of calorie theory:
 chia and other resistant starch .. can make me feel full for a while. Some lose the satiety effect soon :( Some actually make me gain weight. So the calorie theory is inconssitent, confusing,,,
@@ -15,27 +13,27 @@ juices, protein power, meal replacement power, or whole milk is supposed to prov
 
 -- update wcpay/alipay bpost
 Beware over-dependency on alipay/wcpay. They tend to be more complex and have more restrictions than POS or offline cash
-Ask for POS and you may realize there are many POS terminals in Beijing's bigger merchants.
+Ask for POS and you may realize there are POS terminals in Beijing's bigger merchants.
 
 Another reason to prefer e-payment:
-Some unscrupulous taxi drivers or vendors may quickly switch your genuine banknote for a fake one and then return the fake banknote to you and tell you the money you gave them is fake. They usually do this with 100 yuan notes since they are most valuable, although it may happen with 50 yuan notes too. Because of this, we suggest travelers in China keep some 10 or 50 yuan banknotes for small payments and avoid using 100 yuan notes when taking taxis or making small transactions.
+Some unscrupulous taxi drivers or vendors may quickly switch your genuine banknote for a fake one and then return the fake banknote to you and tell you the money you gave them is fake. They usually do this with 100 yuan notes since they are most valuable, although it may happen with 50 yuan notes too. Because of this, we suggest travelers in China keep some 10 or 50 yuan banknotes for small payments and avoid using 100 yuan notes when taking taxis or making small transactions. Personally, I guess this is rare, but frequent enough to warrant the above advice.
 
 -- update Level 6 ffree
 Claim: you can and need to invest in stocks since young.
 
-Observation: many countries' public pension-like system pays you only a fraction of you "current" burn rate.
+Observation: many countries' public pension-like system pays you only a fraction of you "current" burn rate. My parents pensions are adequate.
 
-My Rule #1: be realisitc about retiring in style, and don't aim at current burn rate. Exclude housing and healthcare, aim at half the current burn rate.
+My Rule #1: be realisitc about retiring in style, and don't aim at current burn rate. Excluding healthcare and housing, aim at half the current burn rate.
 
 My Rule #1b: from young age, take up the legwork to find long-term solutions for old age housing and healthcare.
 
-As to stock investment, I don't know its reliability for the purpose of long-term cash payout. What if you buy at the peak, and need to wait 20Y for a recovery? If I give myself 30-40 years of accumulation, I think only U.S. stocks are able to hit that high bar
+As to stock investment, I don't know the reliability for the purpose of long-term cash payout. What if you buy at the peak, and need to wait 20Y for a recovery? If I give myself 30-40 years of accumulation, I think only U.S. stocks are able to clear that high bar.
 
 -- update which bpost on sReit
 It's hard to find property in SG below market value, but some sReits trade below NAV.
 
 -- update deflation:
-mobile plans
+mobile plans. If you look hard, you can find some "products" that are cheaper than before.
 mobile handsets
 
 -- update which bpost on NNIA?
