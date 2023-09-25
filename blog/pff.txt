@@ -1,3 +1,11 @@
+-- update bpost on hsbc
+USD check to myself .. first check of each day is free. I was given incorrect info (but not by email) but I don't feel bitter. I feel lucky about the "new" policy
+
+-- update bpost on BOC
+manual rollover:
+Upon USD TD maturity, fund will stay in the TD acccount. 
+Afterwards, I can tranfer it to my MCSA any time. Immediately, I can place a new TD.
+
 -- update or new
 As I grow old like grandparents, complex financial products will be harder to manage.
 -- update 
