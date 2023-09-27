@@ -1,14 +1,14 @@
--- 
-some bposts are worth the time reviewing, but it's hard to know which bpost.
-t_fuxi tags, sticky flag help. 
+-- fuxi: 
+Frequently, I find some bposts worth reviewing, but it's hard to know which bpost.
+t_fuxi tags, sticky flag are proven helpful. 
 
-Need to invest more time in titles, categories and tags.
+Need to invest more time learning ctbz in titles.
 
-Chinese characters pack more info into the limited space
+Title is not supposed to be an essay. Chinese characters are more compact.
 
--- new:
-Problem: there are too many tags in one blog.
-Sugg: use inline_keyword. Add a line in some bposts "inline_keyword: xxx yyy". 
+-- new: inline_keyword
+Problem: there are too many tags in one blog, slowing down tag auto-suggest etc
+Sugg: convert infrequent tags to inline_keyword. Add a line in some bposts "inline_keyword: xxx yyy". 
 Those keywords will be designed unique [perhaps with numbers and underscores]. They can be long. They need to be stable, otherwise to rename a keyword I need a plugin.
 
 A specific inline_keyword should have at most one defining bpost.
