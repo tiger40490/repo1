@@ -4,16 +4,16 @@ t_fuxi tags, sticky flag are proven helpful.
 
 Need to invest more time learning ctbz in titles.
 
-Title is not supposed to be an essay. Chinese characters are more compact.
+Title is not supposed to be lengthy like an essay. Chinese characters are proven more compact.
 
 -- new: inline_keyword
 Problem: there are too many tags in one blog, slowing down tag auto-suggest etc
-Sugg: convert infrequent tags to inline_keyword. Add a line in some bposts "inline_keyword: xxx yyy". 
-Those keywords will be designed unique [perhaps with numbers and underscores]. They can be long. They need to be stable, otherwise to rename a keyword I need a plugin.
+Sugg: convert infrequent tags to inline_keyword. Add a line in some bposts "k_xxx k_yyy". 
+Those keywords will be unique [perhaps with numbers and underscores]. They can be long. They need to be stable (perhaps external words/phrases without customization), otherwise to rename a keyword I need a plugin:(
 
-A specific inline_keyword should have at most one defining bpost.
--- fuxi:
-"->" is ambiguous when you want it to mean start to end time
+An inline keyword phrase will use underscore as connector.
+Some inline keywords may be hard to remember. We can define/explain them in bposts. 
+we can have one bpost defining multiple inline keywords
 
 -- update bpost on Korea trip
 in Beijing, I feel a serious dependenncy on blogg [github, dreamhost]
@@ -24,8 +24,3 @@ I need to jot down many thoughts across diverse topics. This usually requires sm
 dinosaurs? A negative descriptor. 
 
 Serenity? Harmoney? 
-
--- update category ^ tag
-category tree.
-
-tags (not categories) offer auto-suggest.
