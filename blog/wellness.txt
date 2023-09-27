@@ -1,13 +1,3 @@
-
--- update bpost
-Q: pill dependency?
-No. Dependency is an overloaded and misleading word. Even if you stop the pill, you won't become worse than before the pill.
-yes as we age we may need higher dosage or stop responding at all.
-
-shockwave... harmless. Cost might be similar to TTSH
-
-HealthBuddy stopped working. HealthHub can order medication. Login in by passcode. Later you will need Singpass.
-
 -- Henry Lew suggestions:
 Sugg 1: After seeing the home-cooked dinner, allocate a fixed portion for the night. Do not keep eating beyond that. 
 
