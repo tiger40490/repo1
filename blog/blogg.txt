@@ -9,7 +9,8 @@ Title is not supposed to be lengthy like an essay. Chinese characters are proven
 -- new: inline_keyword
 Problem: there are too many tags in one blog, slowing down tag auto-suggest etc
 Sugg: convert infrequent tags to inline_keyword. Add a line in some bposts "k_xxx k_yyy". 
-Those keywords will be unique [perhaps with numbers and underscores]. They can be long. They need to be stable (perhaps external words/phrases without customization), otherwise to rename a keyword I need a plugin:(
+
+Those keywords will be unique [perhaps with numbers and underscores]. They can be long. They need to be stable (perhaps external words/phrases), otherwise to rename an inline keyword I need a plugin:(
 
 An inline keyword phrase will use underscore as connector.
 Some inline keywords may be hard to remember. We can define/explain them in bposts. 
@@ -19,8 +20,8 @@ we can have one bpost defining multiple inline keywords
 in Beijing, I feel a serious dependenncy on blogg [github, dreamhost]
 This /adjustment/ to the China environment is stressful and painful. 
 
-I need to jot down many thoughts across diverse topics. This usually requires smemo (I had), quite time, git blog, tablespace,, but don't need internet access.
+I need to jot down many thoughts across diverse topics. This usually requires smemo (I had), quietime, git blog, tablespace,, but not really internet access.
 
 dinosaurs? A negative descriptor. 
 
-Serenity? Harmoney? 
+Serenity? Harmony? 
