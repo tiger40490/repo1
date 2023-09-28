@@ -1,8 +1,8 @@
 -- update which bpost?
-Rebase-merge would create new hash strings, but content of each commit is preserved.
-This creates a problem -- the master branch beocmes identical to PR branch except the commit hash numbers.
+Rebase-merge would create new hash number, but content of each commit is preserved.
+This leads to a problem -- the master branch beocmes identical to PR branch except the commit hash numbers.
 
-Best practice -- If you want to keep using your PR branch after rebase-merge, rebase it from the master. This way the commit hash values will also synch up.
+Best practice -- If you want to keep using your PR branch after rebase-merge, rebase it from the master. This way the commit hash numbers will also synch up.
 
 -- update: limitations of calorie theory:
 chia and other resistant starch .. can make me feel full for a while. Some lose the satiety effect soon :( Some actually make me gain weight. So the calorie theory is inconssitent, confusing,,,
@@ -29,19 +29,16 @@ My Rule #1b: from young age, take up the legwork to find long-term solutions for
 
 As to stock investment, I don't know the reliability for the purpose of long-term cash payout. What if you buy at the peak, and need to wait 20Y for a recovery? If I give myself 30-40 years of accumulation, I think only U.S. stocks are able to clear that high bar.
 
--- update which bpost on sReit
-It's hard to find property in SG below market value, but some sReits trade below NAV.
-
 -- update deflation:
 mobile plans. If you look hard, you can find some "products" that are cheaper than before.
 mobile handsets
 
 -- update which bpost on NNIA?
-Fundamentally, I feel part of my NNIA (GRR) is paying out from principal, similar to some high-yield mufu.
-CpfLife, BGC,,,, are sturdier
+Fundamentally, I feel that part of my NNIA (GRR) is paying out from principal, similar to some high-yield mufu.
+CpfLife, BGC, FLI2,,, are sturdier
 
 -- update which bpost on exp recon? https://tanbinvest.dreamhosters.com/20826/scorecard-fin-health-w141/
 
 how many percent of Singaporeans have an exp recon system with "1-decimal-precision" i.e. 0.1k i.e. $100
 
-This is a precise question. I would guess below 1%.
+This is a precise question. I would guess below 5%.
