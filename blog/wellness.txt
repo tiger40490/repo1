@@ -1,5 +1,5 @@
 -- new: BMI: height measurement noise
-Measurement noise (affects BMI) should NOT be 3cm. An Outram polyclinic doctor confirmed that my height was 176cm, so 173cm would be a mismeasurement.
+Measurement noise (affects BMI) should NOT be 3cm. An Outram polyclinic doctor confirmed that my height was 176cm, so 1.73 or 1.74 would be a mismeasurement.
 
 As we age, we will shrink, but until then, we should celebrate this "1 cm" and other small improvements.
 
@@ -68,13 +68,4 @@ BMI helps my CRE and chin-up, but those things are far less important than deep-
 
 BMI is more important than early sleep, but early sleep probably helps my diet.
 
---new: control over BMI ... or update post on passive acceptance
-Rahul was very determined and in-control, but he might be somewhat overweight.
-
-Many of my colleagues are overweight. I tend to assume they have poor control over diet or exercise, but I could be very wrong. 
-
-Some slim individuals are not really better at self-control. I guess they are just lucky.
-
-This "control" is central to successZ, but if our "system" is hard to control, then I think we need harmony. See the bpost on serenity
-
--- new or fuxi: yoga and core workout: injury prevention/protection
+-- fuxi: yoga and core workout: injury prevention/protection
