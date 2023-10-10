@@ -18,7 +18,8 @@ As a teenager, I witnessed family conflict leading to bloodshed.
 I don't know how to put a stop to it.
 I hope there is a simple and crude kill switch.
 
--- I feel boy is angry becuase he feels parent's decision is unfair. He doesn't object to school's policy or government policy.
+-- I feel boy is angry becuase he feels parent's decision is unfair and arbitrary.
+Less frequently, he would object to school's policy or government policy.
 
 -- fuxi: we may need to decouple screen time from sleep deprivation.
 The correlation is not 100%. 
