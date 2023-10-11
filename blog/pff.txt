@@ -1,6 +1,3 @@
--- fuxi
-GEL documents .. can log in with singpass. The GEL account needs to be maintained but not used for auth.
-When you log in (singpass), you can click on the "health" circle to see the Careshield policy
 
 -- update 
 grandparents have financial freedom due to healthcare and pension. This ffree is a big advantage esp. to the adult children, but it doesn't really make their lives a bliss.
