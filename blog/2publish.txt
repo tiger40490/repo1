@@ -1,3 +1,49 @@
+-- new: jupyter
+A notebook file is a (non-ascii) document Produced_By the jupyterApp. It contains py code + rich-text input/output
+
+The jupyterApp is a server-client application that allows editing and "running" notebook files via a standard browser as client. Server instance can run in a laptop or a data center in the cloud.
+
+I believe the notebook file is "served" from the server.
+
+Custom python function definitions and imports often need to go into a cell.
+
+Each Cell in a notebook file can run by itself independently from other cells. It can reference results or functions from another cell. That's why slow data loaders need to run once (in their own cells) and be available for other cells.
+
+https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html has an architecture diagram for "notebook interface"
+
+-- fuxi or new: c++nlg graph for QQ JIV
+Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to understand deeper". Now I am different.
+
+* If interviewer is really hardcore, he might drill in beyond my 5x knowledge and see the limit of my knowledge, so I'm no better than those candidates.
+* if interviewer is mid-way in-depth, then I could differentiate myself from those candidates.
+* if interviewer has a long list of easy questions, then both me and those candidates would pass.
+
+The key -- what level of depth is expected of me?
+
+One advantage of my approach is knowledge graph .. where incrementally I connect the dots and deepen my understanding.
+
+Sugg: read widely and quickly, refresh and expand the knowledge graph.
+
+-- update bpost on merge conflict
+If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
+
+-- new: patient Q
+good metaphor for thread pool and producer/consumer. The patient queue can be 60,000 in a reasonable design (Weblogic)
+
+Each patient's session can take some time.
+
+-- new: closest ancestors of c/c++
+For c++
+#1 is C
+#2 is Simula
+
+For C, the #1 is the B language. It explains the naming of "C"
+
+-- new: ##minor criticisms of c++: for JIV
+An obscure but simple shortcoming of c++ lies in the iostream. There is a shared mutable global state in the global variables cout (and cerr). Every call to setXXX would permanently update the global state until updated again.
+
+iterator invalidation .. a common gotcha
+
 -- update bpost on GEL
 GEL documents .. can log in with singpass. The GEL account needs to be maintained but not needed for auth.
 When you log in (singpass), you can click on the "health" circle to see the Careshield policy

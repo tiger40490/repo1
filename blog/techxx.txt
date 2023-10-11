@@ -6,7 +6,6 @@ document summarization
 building websites, 
 designing visuals, 
 making animations, 
-writing code, 
 researching complex topics
 
 How slow is the training? As of 2023, hundreds of billions of Words would take months using supercomputers. Fine-tuing often takes days on smaller computers.
@@ -16,31 +15,6 @@ Fine-tuning means ... writing instruction/goodOutput and feeding them.
 GPT models generate text in casual, humorous, professional,,,, styles.
 
 Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
--- new: jupyter
-A notebook file is a (non-ascii) document ProducedBy the jupyterApp. It contains py code + rich-text input/output
-
-The jupyterApp is a server-client application that allows editing and running notebook files via a standard browser as client. Server instance can run in a laptop or a remote data center.
-
-I believe the notebook file is "served" from the server.
-
-Custom python function definitions and imports often need to go into a cell.
-
-Each Cell in a notebook file can run by itself independently from other cells. It can reference results or functions from another cell. That's why slow data loaders need to run once (in their own cells) and be available for other cells.
-
-https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html has an architecture diagram for "notebook interface"
-
--- fuxi or ..
-Some c++ candidates study a chapter on some deep topic and feel "i know everything about this topic". Obviously, when an interviewer drills in deeper, their one-chapter knowledge would be exhausted.  I used to feel "Hey, I must study 5 times more to understand deeper". Now I am different.
-
-* If interviewer is really hardcore, he might drill in beyond my 5x knowledge and see the limit of my knowledge, so I'm no better than those candidates.
-* if interviewer is mid-way in-depth, then I could differentiate myself from those candidates.
-* if interviewer has a long list of easy questions, then both me and those candidates would pass.
-
-The key -- what level of depth is expected of me?
-
-One advantage of my approach is knowledge graph .. where incrementally I connected the dots and deepen my understanding.
-
-Sugg: read widely and quickly, and expand the knowledge graph.
 
 -- update or new: threading in c++ less popular than in java
 Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
@@ -76,8 +50,6 @@ Suppose there's a dispute... someone disputes a past transaction on the blockcha
 Adaptive (a finIT firm) have worked within many banks and used all the mainstream messaging middlewares available in the industry. Experience has taught us, that peer-to-peer messaging system is more flexible than broker based messaging systems and requires less operational overhead. You don’t need additional servers (or hardware appliances) to use it, which are generally organised as shared infrastructure and become an organisational bottleneck for development teams.
 
 That's the experience of one team. Other teams may say the opposite, based on their experience with diverse MOM solutions.
--- fuxi
-If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
 
 -- new or update: detect stuck thread in a pool
 weblogic marks a pooled thread as stuck if it is busy for 10min (configurable). Weblogic is designed for a large patient queue, so each patient should not take 10min.
@@ -85,11 +57,6 @@ weblogic marks a pooled thread as stuck if it is busy for 10min (configurable). 
 For a custom application, this doesn't work. A thread can be busy and productive for any amount of time.
 
 Purpose of detection is not per-patient intervention. Purpose is hospital mgmt such as thread pool config, memory increase, or load balancing.
--- new: patient Q
-good metaphor for thread pool and producer/consumer. The patient queue can be 60,000 in a reasonable design (Weblogic)
-
--- fuxi:
-if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
 
 -- new or update on signal+socket
 signals in windows? not popular
@@ -102,15 +69,3 @@ Many signals are self-sent from the same process. I think timer alarm is one exa
 Signal is designed to be asynch, seldom immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.
 
 One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
-
--- fuxi: closest ancestors of c/c++
-For c++
-#1 is C
-#2 is Simula
-
-For C, the #1 is the B language. It explains the naming of "C"
-
--- new: ##minor criticisms of c++: for JIV
-An obscure but simple shortcoming of c++ lies in the iostream. There is a shared mutable global state in the global variables cout (and cerr). Every call to setXXX would permanently update the global state until updated again.
-
-iterator invalidation .. a common gotcha

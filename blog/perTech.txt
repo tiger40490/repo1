@@ -1,3 +1,6 @@
+-- fuxi:
+if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
+
 -- update:
 beyond Compare : can't recognize line movement in csv files
 -- new or fuxi: wireless@sg: attitude
