@@ -44,25 +44,5 @@ An obscure but simple shortcoming of c++ lies in the iostream. There is a shared
 
 iterator invalidation .. a common gotcha
 
--- update bpost on GEL
-GEL documents .. can log in with singpass. The GEL account needs to be maintained but not needed for auth.
-When you log in (singpass), you can click on the "health" circle to see the Careshield policy
-
--- update pains of travelling to China
-gmail, youtube blocked. Use microsoft Bing
-map APPs require Chinese search, but I'm unfamiliar
-repair service provider?
-
 -- save to contacts.txt
 Beijing home wifi SSID=101/ 8-digit num (68463437?)... verified using laptop + mlphone + vivo phone
-
--- new: good person: intent^impact
-Trigger: Since my 40s, I often explain my "good life" in terms of good karma. I guess karma is about consequences but I feel karma is also about intent.
-
-Both Buddhism and Christianity share a tradition of forgiving and accepting ex-criminals, provided they are repentant/remorseful. Clearly, "Impact" is not everything if intention is a factor.
-
-Trigger: Increasingly, I tell my family and friends (and I believe) that I'm a good person, but by what standard? We judge a person by her impacts on others around her, and her intensions. Kindness is one of the intensions.
-
-Penal systems in many countries recognize both damage (a form of Impact) and intension. In contrast, most awards focus exclusive on impact.
-
-On judgment day, when you stand before God or Yan2wang2ye2, what things count? Your impacts or your intensions?
