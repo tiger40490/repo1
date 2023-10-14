@@ -48,44 +48,6 @@ iterator invalidation .. a common gotcha
 GEL documents .. can log in with singpass. The GEL account needs to be maintained but not needed for auth.
 When you log in (singpass), you can click on the "health" circle to see the Careshield policy
 
--- new: ##irreversible money wastes
-J4 this bpost: Anything close to these red buttons are dangerous
-
-See also bpost on missteps
-
-Q: what form of money wasted (100k+) is irreversable?
-
-eg(simplest): buying a deep OTM option
-eg: investing in dubious unregulated securities like HY/PE, or bccy, or land banking
-eg: buying expensive car.. As soon as you drive out, the car is worth 50% less 
-eg: buying expensive medication.. Vendor won't accept return.
-eg: borrowing a large sum from a financial lender. U-turn is "permitted" at a prohibitive cost. Might be 20% of the repayment quantum ($500k). Might have a minimum fee exceeding your loan quantum. 
-eg: buying some expensive wines (seldom 100k). Once opened, you can't return it.
-
--- update https://tanbinvest.dreamhosters.com/13021/sizeretirement-income-from-assets-u-s-data/
-XianHua said a U.S. retiree in his case 
-* receives $1400/M from SSA
-* pays about $1500/M pTax if owning a home
-* pays about $1000/M health insurance, much needed in old age
-
-Sg offers a more affordable retirement, in terms of Melvin3.
-
--- new: big stocks in U.S. vs China
-I now feel China stocks are less familiar than U.S. stocks
-* U.S. corporates answer to shareholders and try to create value for shareholders. (Same can be said of Singapore listed companies.) China's largest listed companies mostly answer to government. China companies seldom pay dividend. Out of the thousdans of China stocks, I'm sure some are well-managed, creating good shareholder values, but I don't know how to identify them.
-
-* China A-shares are bought and sold mostly by retail investors. Retail investors are more irrational, leading to high volatility.
-
-Q: when you read positive news about China stocks vs positive news about U.S. stocks, would you invest?
-
-China news is state-controlled, esp. positive news. Even foreign news agencies are "influenced". No such thing in the U.S., because news organizations are skeptical or critical about the Fed, White House or other government agencies.
-
-In terms of earnings, China listed companies are more affected by government policy than their American peers. American large-caps are more global than China large-caps, so the former are less affected by U.S. government policies. 
-
-Fundamentally, China remains a command economy, where the CCP has tight control over most listed companies. The 2021-2022 crackdown on tech companies was a recent example. I can't think of such a crackdown happening in the U.S.
-
-Therefore, predicting policy change is key to investing in China stocks. Public news is tricky to follow. ML.J told me as early as the 2000s that as a businessman in China, he finds policy reading a crucial business skill.
-
 -- update pains of travelling to China
 gmail, youtube blocked. Use microsoft Bing
 map APPs require Chinese search, but I'm unfamiliar
