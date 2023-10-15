@@ -1,3 +1,6 @@
+-- new: Chinese IME ]windows
+Win10 has a new Microsoft pinyin IME. I had to tick a checkbox to use the previous verison of thie IME. Otherwise, there's no suggestion of Chinese chars :( 
+
 -- fuxi:
 if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
 
