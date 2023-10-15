@@ -1,3 +1,6 @@
+-- update pains of travelling to China
+My phone contacts are often slow to load. I suspect they are saved in google cloud.
+
 -- new: Chinese IME ]windows
 Win10 has a new Microsoft pinyin IME. I had to tick a checkbox to use the previous verison of thie IME. Otherwise, there's no suggestion of Chinese chars :( 
 
