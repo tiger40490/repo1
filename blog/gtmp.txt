@@ -1,8 +1,7 @@
 
 -- fuxi: stressor profile
-50% boy's screen time, motivation (reflected in grades), looming OLE
-10% work project
-5% grandparents condition
+70% boy's screen time, motivation (reflected in grades), looming OLE
+20% work project
 2% wordpress site block
 
 :) project not too demanding or stressful
@@ -67,23 +66,18 @@ Starhub port-in issues ... rather than bitterness I could and should feel gratef
 
 1 Oct 1am HSBC FAST down time .. instead of disappointment, I should feel lucky to hear the clear answer about 1-7.30am. Also, I was lucky to hear a complete answer from the SCB lady, and lucky to avoid any SCB lock-out.
 
--- next Beijing trip: meal and workout?
+-- new: China custom tips
+Health declaration form is much quicker with staff help than DIY
 
--- fuxi
-Health declaration form is much quicker with staff help 
-
-14d visa free... references immigration checkpoint wall clock. 
-
-If your exit flight is on day 15 very early morning, you can go through checkpoint 11.59pm on day 14.
-
-When you pass immigration upon entry. The current day is taken as Day1.
-
+14d visa free... references checkpoint wall clock. 
+If your exit flight is on day 15 very early morning, you can avoid overstay by going through checkpoint 11.59pm on day 14.
+When you pass immigration upon entry. The current day is taken as Day1. If landing at 23:45, you may want to delay passing to next day
 Takeoff or landing timings don't matter.
 
--- new ?
+-- fuxi
 as my parents age, the free tablespace dwindle. They need to spread out a great deal of stuff over a lot of tablespace, to help them find their stuff.
 
-without low-cost maids, retirees in China and U.S. have lots of real pains.
+without low-cost maids as in Sgp, retirees in China and U.S. have lots of real pains.
 My parents' home is not kept so clean and tidy. They are too old to take care of it.
 
 -- fuxi: signs of my worsening temper
@@ -94,25 +88,13 @@ My parents' home is not kept so clean and tidy. They are too old to take care of
 Boarding east-bound at Paya Lebar can be crowded. Bugis is slightly better but likely slower. If plenty of time, then CityHall transfer is the most comfortable and convenient.
 
 -- update...
-Some professions have much higher accident rates but attractive careers to many people -- motor racing, car racing, diving, contact sports, boxing, ... 
+Some professions have much higher accident rates but attractive careers to many people -- motor racing, car racing, diving, contact sports, boxing, riot police ... 
 
 Irrational? 
 
 -- fuxi: final chat with Miles
 tech stack is often older in finance than other industries.
 
-Any warning sign before PIP? No java workload for months, but no other explicit performance advice or tip-off.
+Any warning sign before PIP? No java work for months. Beside that, no other explicit performance advice or tip-off.
 
 Did you take up c++ to improve your survival?  Not after Brijesh transferred to London.
-
-I feel Miles might be standing outside and looking through the glass window, as described in https://btv-open.dreamhosters.com/47739/2007-adapt-to-us/
-
--- fuxi
-Why NYU has so many alumni on WallSt, even though not a top 20 college?
-Why U.S. produces most of the top basketball players, out of 4% of world population?
-Why such a high concentration of Nobel Econs prizes in UChicago, Harvard and MIT? These universities are the tip of the forefront.
-The 5 English speaking countries add up to below 400M population, but why they produce so many global movie stars?
-
-Answer: contexx or opportunity to develop talents.
-
-Sg gov pick upstream domains like financial, life science, digital tech, and bring in multinationals who provide the skill-upgrading contexx to Singaporeans.
