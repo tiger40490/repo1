@@ -1,3 +1,7 @@
+-- update bpost on periodic maintenance
+for gmail or office mail, the same periodic maintenance applies:
+Shrink archive and focus on 1) biggies 2) recurring mailers
+
 -- update pains of travelling to China
 My phone contacts are often slow to load. I suspect they are saved in google cloud.
 
