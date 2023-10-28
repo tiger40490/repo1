@@ -1,3 +1,14 @@
+-- update bpost on gDrive vs github
+spreadsheets and Word docs can now be saved in 
+
+* github
+* gDrive
+* recoll
+
+gDrive is not convenient if a file is frequently updated.
+
+github is the only choice if access from office is needed
+
 -- update bpost on periodic maintenance
 for gmail or office mail, the same periodic maintenance applies:
 Shrink archive and focus on 1) biggies 2) recurring mailers

@@ -3,6 +3,7 @@ What can cause incoming seq too high/low?
 
 If fills are undelivered for a long time, becuase your FIX gateway is shut down or network issue, will the fills become lost? What can we do?
 
+What if you need to send an urgent cancel but FIX session is busy re-synching sequence number?
 
 -- new: GPT
 application domains of GPT:
