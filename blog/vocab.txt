@@ -1,5 +1,5 @@
 --new engage
-engage someone
+engage someone .. to interest someone
 engage with someone
 
 -- new: Q: did Americans discriminate against%%Eng
