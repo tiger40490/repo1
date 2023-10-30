@@ -1,3 +1,12 @@
+-- update bpost on repurchase ^ div
+
+Div is funded by profit. Repurchase can be funded by debt
+
+Div can cause an immediate price drop. Repurchase has a long-term effect of boosting share price.
+
+Repurchase cuts shares outstanding, and usually increase per-share measures of profitability like earnings-per-share (EPS),  and improve performance measures like ROE.
+
+You're not required to sell your shares when a buyback is initiated. If you keep your stocks, your percentage of ownership in the issuing company will increase as other investors sell theirs.
 
 -- update 
 grandparents have financial freedom due to healthcare and pension. This ffree is a big advantage esp. to the adult children, but it doesn't really make their lives a bliss.
