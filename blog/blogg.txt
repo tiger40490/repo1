@@ -1,12 +1,9 @@
 -- new: blogg]ff
 Most companies have some restrictions
-
 I don't take for granted whatever freedom given to me.
 
 When a freedome is taken away, I tend to have an adjustment problem. 
 I remember GS .. blogger was blocked.
-
-Strategic: invest in equipment to let me use company monitor.
 
 -- fuxi: 
 Frequently, I find some bposts worth reviewing, but it's hard to know which bpost.
@@ -14,17 +11,4 @@ t_fuxi tags, sticky flag are proven helpful.
 
 Need to invest more time learning ctbz in titles.
 
-Title is not supposed to be lengthy like an essay. Chinese characters are proven more compact.
-
 sugg: when too many STICKY posts, can we archive some to PendingRefresh ? Yes
-
--- new: inline_keyword
-Problem: there are too many tags in one blog, slowing down tag auto-suggest etc
-Sugg: convert infrequent tags to inline_keyword. Add a line in some bposts "k_xxx k_yyy". 
-
-Those keywords will be unique [perhaps with numbers and underscores]. They can be long. They need to be stable (perhaps external words/phrases), otherwise to rename an inline keyword I need a plugin:(
-
-An inline keyword phrase will use underscore as connector.
-Some inline keywords may be hard to remember. We can define/explain them in bposts. 
-we can have one bpost defining multiple inline keywords
-
