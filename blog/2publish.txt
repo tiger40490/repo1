@@ -38,10 +38,10 @@ Sugg: read widely and quickly, refresh and expand the knowledge graph.
 -- update bpost on merge conflict
 If a pull request branch can't be rebased onto master, sometimes it can be squash-merged.
 
--- new: patient Q
+-- new: patient queue 
 good metaphor for thread pool and producer/consumer. The patient queue can be 60,000 in a reasonable design (Weblogic)
 
-Each patient's session can take some time.
+Each patient's session can be short or lengthy.
 
 -- new: closest ancestors of c/c++
 For c++
