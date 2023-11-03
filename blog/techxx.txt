@@ -1,5 +1,5 @@
 -- update FIX JIV questions
-FIX may not be so strategic for my career, but I am a FIX developer now and I want to be a self-respected FIX developer.
+FIX knowledge may not be so strategic for my next jobs, but I am a 4Y FIX developer now and I want to be a self-respected FIX developer.
 
 What can cause overfill?
 After an cancel request is sent out or after an order expires, we may receive fills. 
