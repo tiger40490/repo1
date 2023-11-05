@@ -1,13 +1,11 @@
 -- update bpost on buy-without
-many purchases were buy-without-OT but The rmSelf would inevitably become self-critical
+many purchases were buy-without-OT but the rmSelf would inevitably become critical and we will remember the purchase as a failure.
 
 extra laptop .. now I feel a _burden_ to use it once a while to avoid disuse->oxidation
 coding camp .. I could 
 badminton net, skating eqipment ..
 
-
 -- update bpost on repurchase ^ div
-
 Div is funded by profit. Repurchase can be funded by debt
 
 Div can cause an immediate price drop. Repurchase has a long-term effect of boosting share price.
@@ -16,12 +14,13 @@ Repurchase cuts shares outstanding, and usually increase per-share measures of p
 
 You're not required to sell your shares when a buyback is initiated. If you keep your stocks, your percentage of ownership in the issuing company will increase as other investors sell theirs.
 
--- update 
+-- update which bpost?
 grandparents have financial freedom due to healthcare and pension. This ffree is a big advantage esp. to the adult children, but it doesn't really make their lives a bliss.
 
--- fuxi or new: paper money in cashflow mgmt
-More frequent usage-of (and carrying) paper money increases risk of loss
-but it can give me better feel for the outflow rate.
-I think this is an inherent issue with paper money, to be accepted and managed.
+-- new: paper money in cashflow mgmt
+More frequent usage-of (and carrying) paper money increases risk of physical loss
+but it can give me a better feel for the outflow rate.
+
+I think this is an inherent contention about paper money, to be accepted and managed.
 
 sugg: pay offlines for all small amounts.
