@@ -1,14 +1,11 @@
 -- update FIX JIV questions
-FIX knowledge may not be so strategic for my next jobs, but I am a 4Y FIX developer now and I want to be a self-respected FIX developer.
+FIX knowledge may not be so strategic for my next jobs, but I want to be a self-respected FIX developer.
 
-What can cause overfill?
-After an cancel request is sent out or after an order expires, we may receive fills. 
+Q: What can cause incoming seq too high/low?
 
-What can cause incoming seq too high/low?
+Q: If fills are undelivered for a long time, becuase your FIX gateway is shut down or network issue, will the fills become lost? What can we do?
 
-If fills are undelivered for a long time, becuase your FIX gateway is shut down or network issue, will the fills become lost? What can we do?
-
-What if you need to send an urgent cancel but FIX session is busy re-synching sequence number?
+Q: What if you need to send an urgent cancel but FIX session is busy re-synching sequence number?
 
 Q: What's DK trade (35=Q)?
 A: For example, if as buy-side you only sent one order today with ClOrdID = 10 but you received an execution report for ClOrdID = 20, your FIX application should reject this execution report.
@@ -30,7 +27,7 @@ Q: any known security issues with using the FIX protocol?
 A: There are no known major security issues with using the FIX protocol. Some generic vulnerabilities exist for any network application -- eavesdropping, tampering 
 
 Q: You placed a new order and then place a replace request and received Pending replace message and then a fill, what would be ClOrdID of the fill?
-A: Since OrderCancelReplaceRequest (tag 35=F) is not accepted, ClOrdID of NewOrder will be in force and fill will contain ClOrdID of the NewOrderSingle (35=A). It’s only after your received ExecutionReport with ExecType=Replaced your ClOrdID of the active order gets updated. Pending Replace is just indication that broker or exchange received a Replace Request but not yet accepted or rejected it.
+A: Since OrderCancelReplaceRequest (tag 35=F) is not accepted, ClOrdID of active Order will be in force and fill will contain its ClOrdID. It’s only after your received ExecutionReport with ExecType=Replaced your ClOrdID of the active order gets updated. Pending Replace is just indication that broker or exchange received a Replace Request but not yet accepted or rejected it.
 
 Q: difference between Application level Reject (MsgType=8 and ExecType=8) and Session level reject (MsgType=3)?
 A: FixEngine will reject any message which doesn't confirm FIX protocol i.e. some mandatory tags missing e.g. MsgType with Session level reject , the application will not get that message for processing , while application e.g. OMS or Execution System will reject message based on Business logic or FIX (financial information exchange) Protocol trade life cycle with application level Reject (MsgType=8 and ExecType=8).
