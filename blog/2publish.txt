@@ -21,25 +21,16 @@ Steven was not interested in academics; he aspired to be only a filmmaker. He ap
 
 -- update bpost on "effective"
 lotus ] mrt .. for years, it has improved my self-esteem, helped my git-blogg on MRT
-chin-up .. for years, it has helped my weight self-assessment/motivation
+chin-up .. for years, it has helped my self-esteem, BMI motivation/self-assessment
 
 -- new: BMI: height measurement noise
+k_celebrate_every_small_good_news
+
 Measurement noise (affects BMI) should NOT be 3cm. An Outram polyclinic doctor confirmed that my height was 176cm, so 1.73 or 1.74 would be a mismeasurement.
 
 As we age, we will shrink, but until then, we should celebrate this "1 cm" and other small improvements.
 
 Without tiptoeing, stand as straight as possible to maximize measurement. You can look up or down. Micro adjustment can yield 1 cm
-
--- new: motivation: yoga ^ boy
-t_jolt
-In yoga classes, I am "weak" overall, but there are a few /precious/ bright spots.
-improvement? Mostly invisible, but there are some success stories in my yoga journey.
-
-even though I do put in non-trivial effort, I don't put in enough practice. Enough is probably 30m a day.
-My lotus ... is probably enough.
-lifelong mission .. you can't ignore it or brush it under the carpet forever.
-
-We want to utilize external help, but many people don't want to rely so much on external help. It's often more sustainable to build up a home practice
 
 -- new: jupyter
 A notebook file is a (non-ascii) document Produced_By the jupyterApp. It contains py code + rich-text input/output
