@@ -1,3 +1,10 @@
+-- new: prediabetic
+Hba1c is slightly more accurate than FPG. For future blood tests, include both.
+
+Q: some sites classify 5.6% as prediatetic? 
+A: 5.5% vs 5.6% is insignificant difference in Hba1c. Nutritional adjustment should be enough to restore 5.5%
+A: If really worried, then reduce carbs as a long-term lifestyle improvement.
+
 -- Henry Lew suggestions:
 Sugg 1: After seeing the home-cooked dinner, allocate a fixed portion for the night. Do not keep eating beyond that. 
 
