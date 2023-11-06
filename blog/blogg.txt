@@ -1,4 +1,7 @@
--- new: blogg]ff
+-- fuxi
+consider moving lockup.xls to repsc
+
+-- update bpost on site blocked
 Most companies have some restrictions
 I don't take for granted whatever freedom given to me.
 
@@ -7,7 +10,7 @@ I remember GS .. blogger was blocked.
 
 -- fuxi: 
 Frequently, I find some bposts worth reviewing, but it's hard to know which bpost.
-t_fuxi tags, sticky flag are proven helpful. 
+t_fuxi tags, sticky flag are proven helpful, although not extremely. 
 
 Need to invest more time learning ctbz in titles.
 
