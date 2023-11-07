@@ -1,3 +1,8 @@
+-- fuxi: bbg automation/integration 
+AWS S3/SQS
+MQTT
+snowflake
+
 -- new: GPT
 application domains of GPT:
 
