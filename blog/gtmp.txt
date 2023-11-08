@@ -2,10 +2,6 @@
 eDreams booking reference: 13241387243
 Airline booking reference: ME3WRH
 
-Confirm that boy can find booking details using the 6-char...  
-
-Send confirmation email to wife + boy.
-
 $1,264.53 paid by HSBC Rev
 ~~ spending in Shanghai? Should NOT use grandma's money. Can I "take" 20k from grandpa?
 Default -- cash 
