@@ -1,3 +1,51 @@
+-- new: GPT
+application domains of GPT:
+
+language translation 
+document summarization 
+designing visuals, 
+making animations, 
+researching complex topics
+
+How slow is the training? As of 2023, hundreds of billions of Words would take months using supercomputers. Fine-tuing often takes days on smaller computers.
+
+Fine-tuning means ... writing instruction/goodOutput and feeding them.
+
+GPT models generate text in casual, humorous, professional,,,, styles.
+
+Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
+
+-- update [18]proof-of-work ] blockchain
+Proof@Stake
+Q: what if a big "shareholder" of a ABC coin mishandles a validation, and adds a bad block to the ABC blockchain? 
+
+Does she earn the "gas" before or after the bad data is uncovered?  If "after", then bad data is included in the ABC block chain for at least some time, and during that period, unlimited number of subsequent blocks could go into the blockchain, leading to a mess. So I will assume answer is "before". 
+
+So technically, how can the "second validation" take place in real time? If it is straightforward to detect a bad block, then the first validator would always do it automatically, and there would be no risk of losing your stake. In such a case, every participant would stake 100% of their coins each time. That means the biggest "shareholder" would keep getting richer, and richer.
+
+I believe it's not straightforward to detect a bad block produced by the first validator. That leads to a can of worms.
+
+Suppose there's a dispute... someone disputes a past transaction on the blockchain. Who has authority to question the first validator? Who would be the judge? I think real power ultimately lies with the founders and the software developers. This is not decentralized concensus-building.
+
+
+-- new or update: detect stuck thread in a pool
+weblogic marks a pooled thread as stuck if it is busy for 10min (configurable). Weblogic is designed for a large patient queue, so each patient should not take 10min.
+Purpose of detection is not per-patient intervention. Purpose is hospital mgmt such as thread pool config, memory increase, or load balancing.
+
+For a custom application, this doesn't work. A thread can be busy and productive for any amount of time.
+
+-- new or update on signal+socket
+signals in windows? not popular
+
+real time signals are a new Posix concept... not really low-latency. 
+Low latency sockets don't rely on signals for immediate action
+
+Many signals are self-sent from the same process. I think timer alarm is one example. Sockets signal is another example. However, keyboard signals like Ctrl-C are not self-sent.
+
+Signal is designed to be asynch, seldom immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.
+
+One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
+
 -- new: don't offend criminals
 Most criminals won't rob a random stranger.
 
