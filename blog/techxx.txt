@@ -3,21 +3,16 @@ AWS S3/SQS
 MQTT
 snowflake
 
--- update or new: threading in c++ less popular than in java
-Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
-
-Factor: the c++ shops I try are all trading shops. They choose c++ for latency. To optimize latency, STM is best, rather than multi-threading. So I think their c++ threading questions are light.
-
--- new: misstep: accidental amend of last pushed commit
+-- new or fuxi: misstep: accidental amend of last pushed commit
 frequent mistake:
 
 1) I commit a file on branch3, and git-push
-2) I revise recent change and git-commit-amend. This is a misstep, as the new tip of branch3 is a modified version of the origin/branch3. The two branches have divered.
-3) when I git-push, I fail
+2) I revise recent changes and git-amend. This is a misstep, as the new branch3 and origin/branch3 have diverged. 
+3) error when I git-push
 
 Simple solution: 
 1) back up affected files
-2) git reset origin/branch3
+2) git reset origin/branch3 #without --hard
 3) git commit # creates a new commit on top of the origin/branch3 tip
 4) git push
 
