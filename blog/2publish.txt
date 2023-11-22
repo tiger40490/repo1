@@ -1,3 +1,6 @@
+-- add to ... github
+git config --global alias.reword '!git commit --fixup reword:$1 && GIT_EDITOR=true && git rebase --autosquash --interactive --rebase-merges $1~1 && echo "Successful reword on"'
+
 -- update or new: threading in c++ less popular than in java
 Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
 
