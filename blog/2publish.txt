@@ -1,3 +1,8 @@
+-- update bpost on hotline annoyances
+Starhub port-in issues ... rather than bitterness I could and should feel grateful and lucky to get the answers from the PlazaSing staff.
+
+1 Oct 1am HSBC FAST down time .. instead of disappointment, I should feel lucky to hear the clear answer about 1-7.30am. Also, I was lucky to hear a complete answer from the SCB lady, and lucky to avoid any SCB lock-out.
+
 -- add to ... github
 git config --global alias.reword '!git commit --fixup reword:$1 && GIT_EDITOR=true && git rebase --autosquash --interactive --rebase-merges $1~1 && echo "Successful reword on"'
 
