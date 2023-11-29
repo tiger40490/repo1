@@ -1,3 +1,6 @@
+-- fuxi
+In python dict initilization, you may want to specify the keys in a consistent order. The order is preserved when you print myDict.keys()
+
 -- fuxi: bbg automation/integration 
 AWS S3/SQS
 MQTT
