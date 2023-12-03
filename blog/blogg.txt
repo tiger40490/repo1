@@ -1,20 +1,3 @@
--- le2XH.Fu
-Hi Xinghe,
-
-My company has a new policy that bans all wordpress editing/posting. They don't explicitly ban reading or printing of blogs, including my own blogs.
-
-I hope to find a "readonly" webpage-forward online service, say aa351.com. On the webpage, I put in any URL (to my own blog), and aa351 will download the page in html, and render it.
-
-This will help me with printing my blog content from office. It will also help me copy content from my own blog (like tech tips) while working in office.
-
-The URL will require no log-in. 
-
-An image on the original web page can be unavailable, if the image URL is blocked by company firewall. I don't need those images.
-
-A CSS may also become unavailable. I will see how bad the webpage looks like without CSS.
-
-If no such online service, I will consider creating it for myself. Technically easy. I will need hosting though. Can you help with hosting?
-
 -- update bpost on site block
 I AM flexible. In the face of growing site blocks at end of 2023, I have taken things in my stride.
 
