@@ -1,3 +1,38 @@
+
+-- new: prediabetic
+Hba1c is slightly more accurate than FPG. For future blood tests, include both.
+
+Q: some sites classify 5.6% as prediatetic? 
+A: 5.5% vs 5.6% is insignificant difference in Hba1c. Nutritional adjustment should be enough to restore 5.5%
+A: If really worried, then reduce sugar and carbs as a long-term lifestyle improvement.
+%%A: I think fruits are a 3rd item to worry about
+
+Hba1c is slower to change and shows less fluctuation. Hui Mei said usually the FPG will detect pre-diabetic even when hba1c is still normal.
+
+As we age, diabetic risk increases, so it's better to adjust diet habits in younger years.
+
+-- update bpost on 'resotre'
+My recent depression is about coping (and making peace) with aging. 
+
+My aging is kind of gathering pace, and I think it will accelerate. Gradually I will lose physical and some mental capacities. 
+I will adjust to it, even though adjustment can be stressful, painful, frustrating,,,
+
+-- new: Hui Mei consultation#2
+she recommends joint mgmt with psychologist.
+No hurry though.
+
+holiday feast .. soup first;  minimize starch otherwise; limit cakes to 6 pieces/meal (assuming regular size).
+I was reluctant to set target, but now I like the idea.
+
+fasting .. I described to her milk + fruits for entire day. If below 400cal/24H, then safe to practice twice a week. My fasting is 600cal+, so no safety concern.
+
+After age 60, can aim for BMI=25, and maintain muscle mass.
+Current BMI 21.x is very good for my age.
+
+Going back to 63 kg .. probably not something to aim at.
+
+Why I was able to achieve 65.5 kg .. awareness; conscious self-control.
+
 -- new commonLaw^civilLaw systems
 Judges have more flexibility and power in commonLaw systems. U.S. judges can pass unusual judgement (trespass case).
 
