@@ -71,18 +71,6 @@ Purpose of detection is not per-patient intervention. Purpose is hospital mgmt s
 
 For a custom application, this doesn't work. A thread can be busy and productive for any amount of time.
 
--- new or update on signal+socket
-signals in windows? not popular
-
-real time signals are a new Posix concept... not really low-latency. 
-Low latency sockets don't rely on signals for immediate action
-
-Many signals are self-sent from the same process. I think timer alarm is one example. Sockets signal is another example. However, keyboard signals like Ctrl-C are not self-sent.
-
-Signal is designed to be asynch, seldom immediate, though the scheduler may preempt whatever is running and give the next time slice to the signal's target process sooner than normal.
-
-One of the most common signals is SIGSEGV. The default signal handler function performs a core dump. There's no process to preempt. However, the current process may not check its signal table until some instructions later, and then run the signal handler.
-
 -- update bpost on family counsell 
 Advantage of CGC counselling -- counsellor has access to boy's data and has seen him about 3 times.
 insurance coverage
