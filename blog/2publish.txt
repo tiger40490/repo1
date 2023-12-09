@@ -1,3 +1,17 @@
+-- new: Chinese IME ]windows
+Win10 has a new Microsoft pinyin IME. I had to tick a checkbox to use the previous verison of thie IME. Otherwise, there's no suggestion of Chinese chars :( 
+
+-- update bpost on gDrive vs github
+spreadsheets and Word docs can now be saved in 
+
+* github
+* gDrive
+* recoll
+
+/Abundance of choice/ (no s)
+
+-- update pains of travelling to China
+My phone contacts are often slow to load. I suspect they are saved in google cloud.
 
 -- new: prediabetic
 Hba1c is slightly more accurate than FPG. For future blood tests, include both.
@@ -133,17 +147,3 @@ Diet counselling need to be an element due to insurance.
 Parenting counselling is a key element as my wife may also need to join me.
 
 I think wife's need is more critical. In contrast, I have a support network already.
-
--- new: minimize diagnosis psychiatry
-Diagnosis has a commercial dimension. It helps with insurance claim.
-In some countries, some practitioners are "ready" with a diagnosis.
-
-My focus in this bpost is Singapore.
-Some private clinics are more willing to give diagnosis. 
-IMH has a policy to minimize diagnosis.
-
-I told Cigna that 1)I need a diagnosis for reimbursment 2) I hate the labeling of the diagnosis.
-
-If you do get a label, you need to be careful about the label
-
-Now that IMH has no formal ODD diagnosis, I feel free to use the ODD term loosely.
