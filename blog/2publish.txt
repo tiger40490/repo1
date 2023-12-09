@@ -10,17 +10,6 @@ spreadsheets and Word docs can now be saved in
 -- update pains of travelling to China
 My phone contacts are often slow to load. I suspect they are saved in google cloud.
 
--- new: prediabetic
-Hba1c is slightly more accurate than FPG. For future blood tests, include both.
-
-Q: some sites classify 5.6% as prediatetic? 
-A: 5.5% vs 5.6% is insignificant difference in Hba1c. Nutritional adjustment should be enough to restore 5.5%
-A: If really worried, then reduce sugar and carbs as a long-term lifestyle improvement.
-%%A: I think fruits are a 3rd item to worry about
-
-Hba1c is slower to change and shows less fluctuation. Hui Mei said usually the FPG will detect pre-diabetic even when hba1c is still normal.
-
-As we age, diabetic risk increases, so it's better to adjust diet habits in younger years.
 
 -- update bpost on 'resotre'
 My recent depression is about coping (and making peace) with aging. 
@@ -44,18 +33,6 @@ Going back to 63 kg .. probably not something to aim at.
 
 Why I was able to achieve 65.5 kg .. awareness; conscious self-control.
 
--- new commonLaw^civilLaw systems
-Judges have more flexibility and power in commonLaw systems. U.S. judges can pass unusual judgement (trespass case).
-
-In fact, commonLaw judges have power to make laws. These "precedents" are often as important as written statues ... a feature of the commonLaw system.
-
-Lawyers play a more central role in commonLaw (than Civil) systems. U.S. and HK movies often feature dramatic court room events.
-
-CivilLaw systems originated in continental Europe; CommonLaw systems originated in Britain. As a consequence,
-HK continues to follow a CommonLaw（普通法） system but China is a largely CivilLaw jurisdiction. Macau follows a CivilLaw (大陆法) system (Portugal).
-
-Consistency and predictability -- Some say CivilLaw has this advantage, and other say CommonLaw has this advantage.
-
 -- update bpost (which one?)
 perhaps it would be more effective to develop some Deep hobbies early in life, such as writing, playing pop songs, yoga, painting,
 It requires strategic planning and heavy investment
@@ -75,24 +52,6 @@ git config --global alias.reword '!git commit --fixup reword:$1 && GIT_EDITOR=tr
 Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
 
 Factor: the c++ shops I try are all trading shops. They choose c++ for latency. To optimize latency, STM is best, rather than multi-threading. So I think their c++ threading questions are light.
-
--- new: GPT
-application domains of GPT:
-
-language translation 
-designing visuals, 
-making animations, 
-researching complex topics
-
-How slow is the training? As of 2023, hundreds of billions of Words would take months using supercomputers. Fine-tuing often takes days on smaller computers.
-
-It's too expensive to host a LLM instance within your company firewall
-
-Fine-tuning means ... writing instruction/goodOutput and feeding them.
-
-GPT models generate text in casual, humorous, professional,,,, styles.
-
-Educators can use GPT-based software to generate learning materials such as quizzes and tutorials. Similarly, they can use GPT models to evaluate the answers.
 
 -- update [18]proof-of-work ] blockchain
 Proof@Stake
