@@ -1,6 +1,3 @@
--- new: Chinese IME ]windows
-Win10 has a new Microsoft pinyin IME. I had to tick a checkbox to use the previous verison of thie IME. Otherwise, there's no suggestion of Chinese chars :( 
-
 -- update bpost on gDrive vs github
 spreadsheets and Word docs can now be saved in 
 
