@@ -1,22 +1,3 @@
--- update bpost on gDrive vs github
-spreadsheets and Word docs can now be saved in 
-
-* github
-* gDrive
-* recoll
-
-/Abundance of choice/ (no s)
-
--- update pains of travelling to China
-My phone contacts are often slow to load. I suspect they are saved in google cloud.
-
-
--- update bpost on 'resotre'
-My recent depression is about coping (and making peace) with aging. 
-
-My aging is kind of gathering pace, and I think it will accelerate. Gradually I will lose physical and some mental capacities. 
-I will adjust to it, even though adjustment can be stressful, painful, frustrating,,,
-
 -- new: Hui Mei consultation#2
 she recommends joint mgmt with psychologist.
 No hurry though.
@@ -33,23 +14,5 @@ Going back to 63 kg .. probably not something to aim at.
 
 Why I was able to achieve 65.5 kg .. awareness; conscious self-control.
 
--- update bpost (which one?)
-perhaps it would be more effective to develop some Deep hobbies early in life, such as writing, playing pop songs, yoga, painting,
-It requires strategic planning and heavy investment
-
--- update https://btv-open.dreamhosters.com/45429/math_as_recreation/
-textbook on calculus is too heavy and not worth carrying. 
-
--- update bpost on hotline annoyances
-Starhub port-in issues ... rather than bitterness I could and should feel grateful and lucky to get the answers from the PlazaSing staff.
-
-1 Oct 1am HSBC FAST down time .. instead of disappointment, I should feel lucky to hear the clear answer about 1-7.30am. Also, I was lucky to hear a complete answer from the SCB lady, and lucky to avoid any SCB lock-out.
-
 -- add to ... github
 git config --global alias.reword '!git commit --fixup reword:$1 && GIT_EDITOR=true && git rebase --autosquash --interactive --rebase-merges $1~1 && echo "Successful reword on"'
-
--- update bpost on family counsell 
-Advantage of CGC counselling -- counsellor has access to boy's data and has seen him about 3 times.
-insurance coverage
-
-I think wife's need is more critical. In contrast, I have a support network already.
