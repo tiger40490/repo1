@@ -48,11 +48,6 @@ Starhub port-in issues ... rather than bitterness I could and should feel gratef
 -- add to ... github
 git config --global alias.reword '!git commit --fixup reword:$1 && GIT_EDITOR=true && git rebase --autosquash --interactive --rebase-merges $1~1 && echo "Successful reword on"'
 
--- update or new: threading in c++ less popular than in java
-Concurrency dev is difficult, in both design and the basic building blocks as language constructs. Java makes it easier, much easier than pthreads and std::thread. It is so easy that java interviews routinely include some concurrency questions.
-
-Factor: the c++ shops I try are all trading shops. They choose c++ for latency. To optimize latency, STM is best, rather than multi-threading. So I think their c++ threading questions are light.
-
 -- update bpost on family counsell 
 Advantage of CGC counselling -- counsellor has access to boy's data and has seen him about 3 times.
 insurance coverage
