@@ -13,6 +13,3 @@ Current BMI 21.x is very good for my age.
 Going back to 63 kg .. probably not something to aim at.
 
 Why I was able to achieve 65.5 kg .. awareness; conscious self-control.
-
--- add to ... github
-git config --global alias.reword '!git commit --fixup reword:$1 && GIT_EDITOR=true && git rebase --autosquash --interactive --rebase-merges $1~1 && echo "Successful reword on"'
