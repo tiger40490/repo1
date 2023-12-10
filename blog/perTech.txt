@@ -1,3 +1,6 @@
+-- fuxi: in gmail, the 5 tabs are all part of "inbox". 
+"skip inbox" will make the new message go straight to archive.
+
 -- update...
 Compared to SocialTab, ForumTab name is more vague, more versatile .. more suitable as tempUpdate
 
