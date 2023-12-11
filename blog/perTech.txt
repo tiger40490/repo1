@@ -1,12 +1,14 @@
 -- fuxi: in gmail, the 5 tabs are all part of "inbox". 
 "skip inbox" will make the new message go straight to archive.
 
-Compared to SocialTab, ForumTab name is more vague, more versatile .. more suitable as tempUpdate
+Compared to SocialTab, the "ForumTab" name is more vague, more versatile .. more suitable as tempUpdate
 
 -- fuxi:
-if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press control-shift and rightClick on the taskbar item.
+if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press 
 
--- new or fuxi: wireless@sg: attitude
+control-shift and rightClick on the taskbar item.
+
+-- fuxi: wireless@sg: attitude
 Treat it as bonus. Don't rely on it.
 You are not entitled to commercial support !
 Support is best-effort and not very reliable. 
