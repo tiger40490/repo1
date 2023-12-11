@@ -11,6 +11,18 @@ Many point to their own work/home locations, but hey, look at my choice of locat
 
 I did spend about USD 1k twice learning to drive. In 2018/19 I also practiced with zipcar. That's part of my effective endeavor.
 
+-- add to bpost on 3-in-1 printer
+~~new Printer driver install
+After driver installation, sooner or later, we need an initial connection between the hardware. A common juncture of failure.
+
+If cable is loose or printer is off, then you can check using device-manager -- unplugging/turning-off will remove an item immediately from device-manager; plugging/turning-on will add an item immediately to device-manager. Windows may also beep :) These are good signs. If you don't see any of these signs, then driver is broken or windows is broken.
+
+Note Device manager is more low-level than Printers-n-scanners-page. It is able to show the new device earlier than PnSP can. Windows restart may be required before PnSP shows the new device.
+
+Insufficient diskspace can mess up the installation in some strange way.
+
+I prefer test-printing a single dot (notepad file). More ink-saving than a printer test page.
+
 -- new: Hui Mei consultation#2
 she recommends joint mgmt with psychologist.
 No hurry though.

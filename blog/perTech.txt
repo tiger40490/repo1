@@ -1,7 +1,6 @@
 -- fuxi: in gmail, the 5 tabs are all part of "inbox". 
 "skip inbox" will make the new message go straight to archive.
 
--- update...
 Compared to SocialTab, ForumTab name is more vague, more versatile .. more suitable as tempUpdate
 
 -- fuxi:
@@ -13,14 +12,3 @@ You are not entitled to commercial support !
 Support is best-effort and not very reliable. 
 
 call 1800 837 9979 (Monday to Friday, 8.30am to 6.00pm)
-
--- new Printer driver install
-After driver installation, sooner or later, we need an initial connection between the hardware. This is a frequent point of failure.
-
-If cable is loose or printer is power-off, then you can check using device-manager -- unplugging/turning-off will remove an item immediately from device-manager; plugging/turning-on will add an item immediately to device-manager. Windows may also beep :) These are good signs. If you don't see any of these signs, then driver is broken or windows is broken.
-
-Note Device manager is more low-level than Printers-n-scanners-page. It is able to show the new device earlier than PnSP can. Windows restart may be required before PnSP shows the new device.
-
-Insufficient diskspace can mess up the installation in some strange way.
-
-I prefer test-printing a single dot (notepad file). More ink-saving than a printer test page.
