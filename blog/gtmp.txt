@@ -1,3 +1,17 @@
+-- new: fixation on high school ranking
+
+China gaokao is an object, nation-wide benchmark, usable as a benchmark to rank thousands of high schools. Usable doesn't mean "meaningful"
+
+Why rank universities by the number of research output including awards? Because universities exist to lead research. Academic impact is a sign of excellence and value-creation.
+
+Why rank unviersity by graduate employment, and employer recognition? Because universities exist to educate and produce young, productive knowledge-workers.
+
+Universities build/polish their brands, and use their brands to attract staff, students, funding[donation,grants,,]. In any domain, brands would compete for mind share. 
+
+There's an emotional motivation among alumni to monitor and boost a schools branding[and ranking]
+
+Do these factor apply to high schools? 
+
 -- update bpost on restore
 Something to look forward to
 * Japan trip, even if boy's results are not great
