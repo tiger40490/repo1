@@ -1,3 +1,10 @@
+-- new: why some type of problems are more popular on question banks
+Most coding interviews last 30m only.
+
+array problems are easy to explain/understand, easy (for an interviewer) to set up
+
+Threading questions are much harder to set up and test.
+
 -- fuxi
 In python dict initilization, you may want to specify the keys in a consistent order. The order is preserved when you print myDict.keys()
 
