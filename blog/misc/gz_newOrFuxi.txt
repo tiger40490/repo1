@@ -1,3 +1,12 @@
+-- update bpost on workload, but which one?
+worker's skill and efficiency is a big unknown factor to a new project manager. 
+The longer you stay, the more efficient you become as a worker, but expectation on you also rises, as manager knows your skills better.
+
+-- new xxx
+Q: how is my general intelligence? Not in the sense of wisdom or street smart.
+
+I always thought I am good at taking tests, but I have survived in many demanding, high-paying jobs. Crucially, I was able to pass almost a hundred JIVs, which relied on tech test + real-world problem-solving. So the conclusion from JIV and on-the-job performance is /unequivocal/ -- high intelligence at least as a professional.
+
 -- fuxi: final chat with Miles
 tech stack is often older in finance than other industries.
 

@@ -1,3 +1,13 @@
+
+-- fuxi: fintech: %%definition
+Why bother?
+
+My definition will be based on https://bootcamp.cvn.columbia.edu/blog/what-is-fintech/
+
+Early credit cards in the 1950s generally represent the first fintech products available to the public.
+
+In this Columbia blog, the criteria is vague. No acid test. The concept is more aligned to consumer finance or mass-market finance.
+
 -- fuxi: Toa Payoh to airport
 Boarding east-bound at Paya Lebar can be crowded. Bugis is slightly better but likely slower. If plenty of time, then CityHall transfer is the most comfortable and convenient.
 
