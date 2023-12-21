@@ -1,3 +1,8 @@
+-- update 
+clean price is quoted price. Quoted price should not change every day due to acrued interest. That change is a noise that traders don't want to see.
+
+dirty price is "the actual price" i.e used to compute actual transaction amount.
+
 -- new: why some type of problems are more popular on question banks
 Most coding interviews last 30m only.
 
