@@ -1,3 +1,8 @@
+-- update bpost on header keywords
+short names can be ambiguous, misleading, double-meaning. 
+
+long names can be restrictive. Some part of the long name can be misleading
+
 -- update bpost on site block
 I AM flexible. In the face of growing site blocks at end of 2023, I have taken things in my stride.
 
