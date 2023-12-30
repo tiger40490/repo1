@@ -1,3 +1,12 @@
+
+-- new: paper money in cashflow mgmt
+More frequent usage-of (and carrying) paper money increases risk of physical loss
+but it can give me a better feel for the outflow rate.
+
+I think this is an inherent contention about paper money, to be accepted and managed.
+
+sugg: pay offlines for all small amounts.
+
 -- fuxi
 2022 some economist said: wealth gap AND income gap both increased.
 
@@ -340,22 +349,6 @@ I allow myself to feel superior about my burn rate and Fuller wealth, but I Donâ
 Now my confidence in this effort is much lower, so I dare not put in a lot.
 
 Also, after trying multiple investment products I realized that luck+timing is a much bigger factor than skill or (Buffett style) analysis. 
-
---fuxi: SRS account in DBS/posb
-$15,300/Y max deposit into this account as tax exempt income. Tax saving of more than $2.4k/Y 
-After 5Y (say 2030) can withdraw as 2030 income but my tax bracket in 2030 would be the lowest, because first 40k in 2030 is not taxed in Singapore.
-
-Before 2030, During the 5Y lock-in, withdrawal penalty is 5%. Without withdrawal, we can freely invest the SRS balance into FSM not stocks.
-
-better deposit close to end of the tax year, so most of the year I enjoy the liquidity.
-
-Also invest some cpf OA balance into FSM
-
---fuxi: this 4D3N experience living in BGC is a immersion training / dress rehearsal / internship for a MYS retirement.
-
-Now I think MYS retirement plan is based on logical reasoning + insufficient facts. It has slightly fewer uncertainties due to proximity to Singapore.
-
-I need friends and similar people (mostly Chinese) living in the same community.
 
 --fuxi: I need reliable history of my realized dividend yield for each of my stock
 Robinhood doesn't provide it. Might be a good thing -- less distraction ...

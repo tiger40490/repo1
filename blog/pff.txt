@@ -1,21 +1,21 @@
 -- update bpost on IBs
-There is a tough self-judge who dictates that I ought to do everything I can to "optimize U.S. stock trading". IBs-SGP account is non-optimal due to dividend withholding and other restrictions.
+There is a tough self-judge who dictates that I ought to do everything I can to "optimize U.S. stock trading". IBs-SGP account is non-optimal due to dividend withholding.
 
 IBs-US account requires unexpired U.S. ID documents, but all of my U.S. ID documents are expired.
-When I realize the likely infeasibility, somehow I had a sigh of relief.
+When I realize this "infeasibility", somehow I had a sigh of relief.
 
-I am *confident* I can accept the current situation, without feeling deprived, unlucky.
-* No IBs for now
-* stop liquidating from Rbh
+I am *confident* I can accept the current situation, without feeling deprived, unlucky, victimized, helpless,, Here's the current situation:
+* No IBs for the next X years
+* stop liquidating Rbh positions
 * increase S27
-* consider other Sgp-approved brokers only if I have bandwidth
+* consider other Sgp-approved brokers only if I have bandwidth. After that, move some positions from Rbh
 
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/
-Since 2010s I have had a consistent assessment that pff is the "best-performing" domain in terms of personal efficacy, accumulation,,,
+Since 2010s I have had a consistent assessment that pff is my strongest hand, strongest tectonic plate, and my "best-performing" game, in terms of personal efficacy, accumulation,,,
 
 Money is one thing I can pass to your kids. If I stay healthy, I can provide stewardship of a multi-gen reserve.
 
-Luckily for me, there are other "legacies" in which I have confidence. I spent lots of time with my kids and influence them.
+Luckily for me, there are non-financial "legacies" in which I have confidence. I spent lots of time with my kids and influence them.
 
 I see the huge effort by the government (among many national governments) to manage inflation and preserve purchasing power of the national currency.
 Now I feel deflation or very low inflation is unnatural, unsustainable (in an inflationary global ecosystem) and potentially harmful to the local economy.
@@ -51,15 +51,6 @@ Once I lodge a police report, I wanted to ignore it but it made me feel guilty o
 In hind sight, the police report was reopening a wound. 
 I had a decision to make when lodging the report -- reopening or leaving the would unopened.
 
--- new or update
-top up 8k/Y to wife's SA to enjoy tax relief.
-
-No tax relief if she earns 4k/Y (i.e. as soon as she starts working) !
-
-No tax relief if you top up 3-way
-
-Use PayNow QR, latest in the last week of Dec. Avoid weekends. Nov is also fine.
-
 -- update bpost on buy-without
 many purchases were buy-without-OT but the rmSelf would inevitably become critical and we will remember the purchase as a failure.
 
@@ -78,11 +69,12 @@ You're not required to sell your shares when a buyback is initiated. If you keep
 
 -- update which bpost?
 grandparents have financial freedom due to healthcare and pension. This ffree is a big advantage esp. to the adult children, but it doesn't really make their lives a bliss.
+--fuxi: SRS account in DBS/posb
+$15,300/Y max deposit into this account as tax exempt income. Tax saving of more than $2.4k/Y 
+After 5Y (say 2030) can withdraw as 2030 income but my tax bracket in 2030 would be the lowest, because first 40k in 2030 is not taxed in Singapore.
 
--- new: paper money in cashflow mgmt
-More frequent usage-of (and carrying) paper money increases risk of physical loss
-but it can give me a better feel for the outflow rate.
+Before 2030, During the 5Y lock-in, withdrawal penalty is 5%. Without withdrawal, we can freely invest the SRS balance into FSM not stocks.
 
-I think this is an inherent contention about paper money, to be accepted and managed.
+better deposit close to end of the tax year, so most of the year I enjoy the liquidity.
 
-sugg: pay offlines for all small amounts.
+Also invest some cpf OA balance into FSM
