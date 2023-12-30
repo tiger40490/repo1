@@ -224,9 +224,6 @@ A rigorous calc would include unrealized pnl from mark-to-market, ...
 
 I have a blogpost on the highest returns achieved. I think it's in compound
 
---fuxi: current low burn rate=temporary
-I feel the long-term burn rate is SGD 5k including bx premiums, taxes, airtickets
-
 --update blogpost on ...  sg condo not for me
 Talking to a few long-term Chinese residents in Singapore, I can see the very strong consensus. Unanimously, they perceive condos as the superior investment, the "sink" of their spare cash.
 
@@ -244,11 +241,6 @@ Very few renters need such a big home.
 Also, most renters don't want to drive every day. Landed properties usually lack public transport connectivity.
 
 I would say landed properties are more of a luxury but still better than luxury cars which depreciate.
-
--- fuxi: do I prefer cash payment rather than card payment?
-cash
-
-card payment adds too much noise to expense tracking and search
 
 --fuxi: I want to make wife feel my sense of wealth, but without spending too much.
 Home upgrade is probably the best choice
