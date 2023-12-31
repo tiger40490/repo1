@@ -1,15 +1,3 @@
--- update bpost on IBs
-There is a tough self-judge who dictates that I ought to do everything I can to "optimize U.S. stock trading". IBs-SGP account is non-optimal due to dividend withholding.
-
-IBs-US account requires unexpired U.S. ID documents, but all of my U.S. ID documents are expired.
-When I realize this "infeasibility", somehow I had a sigh of relief.
-
-I am *confident* I can accept the current situation, without feeling deprived, unlucky, victimized, helpless,, Here's the current situation:
-* No IBs for the next X years
-* stop liquidating Rbh positions
-* increase S27
-* consider other Sgp-approved brokers only if I have bandwidth. After that, move some positions from Rbh
-
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/
 Since 2010s I have had a consistent assessment that pff is my strongest hand, strongest tectonic plate, and my "best-performing" game, in terms of personal efficacy, accumulation,,,
 
@@ -23,33 +11,6 @@ Now I feel deflation or very low inflation is unnatural, unsustainable (in an in
 Money can be kept in a bank and preserved. Very few other things can.
 
 Q: r-ikigai?
-
--- slow cooking new: Jill's APD case
-To the authorities or any impartial observer, this case is more like risky investment and legit business failure, rather than fraud "running away with my money". If I take that stance (painful) then I may have to accept it as business failure.
-
-99% chance the authorities take it as civil not criminal case. I see a deadend there.
-
-To pursue criminal case, I have to prove criminal intent.
-
-As a civil case, the 2 options are both untenable -- pay lawyer fees or DIY.
-
-ProBono lawyer's estimate -- s$7k lawyer fee, indicative of the complexity and legwork.
-
-Lawyer advice: monitor newspaper and then contact the receiver
-Lawyer advice: sue ADP within 6Y if you really want justice.
-
-Chance of $recovery is perceived rather low becuase
-* Limited liability. Company can declare business failure.
-
-Q: is the Sg system unfair to the small investors on the street?
-%%A: Sg government emphasized entrepreneurship risk taking. Small investors are free to take risks. When they suffer losses, they ought to be fully prepared with the necessary contingency plans such as DIY lawsuit or paying lawyer fees. Some small investors are unwilling/unable to follow those plans, so they need to accept the default plan -- no-op.
-
-When Loh Junli suggested a police report, he didn't say it's easy. 
-I assumed it would be a one-time job, an easy closure.
-In reality, it has become an endless struggle. 
-Once I lodge a police report, I wanted to ignore it but it made me feel guilty of abondoning my duty. 
-In hind sight, the police report was reopening a wound. 
-I had a decision to make when lodging the report -- reopening or leaving the would unopened.
 
 --update jolt: car ownership in SG
 I used to feel inferior to those with a car.
