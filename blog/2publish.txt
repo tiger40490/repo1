@@ -23,6 +23,20 @@ Something to look forward to
 * more reunions with grandparents
 * more math games with meimei
 
+-- update bpost on effective endeavor
+Another effective intervention #unexpected
+
+Throughout my career and family-building in Sg and US, my personal strategy [decisions, plann/executions, adjustments] about car ownership is .. surprisingly effective. 
+
+Most of my peers "need" a car. They give various explanations of personal needs. It sounds like "so hard to cope without a car in this (part of) country", but I think what they mean is "Since I can afford [1] (to lease) a car, it is proving extremely convenient."
+
+Many point to their own work/home locations, but hey, look at my choice of locations. I chose them to minimize car dependency.
+
+[1] Affordability is personal. I can afford so I do fly up to 4/year for family reunion. Not essential, but a personal priority.
+
+I did spend about USD 1k twice learning to drive. In 2018/19 I also practiced with zipcar. That's part of my effective endeavor.
+
+
 -- new: how do immigration authorities identify elite talent
 For academic talent, research output would be the criterion used by immigration authorities (like an academic employer). However, most elite talents are not in academia.
 
@@ -107,19 +121,6 @@ If your Exit-from-China flight is unfortunately on Day#15 Early morning, you can
 When you pass immigration upon Entry. The current day is taken as Day1. If landing at 23:45, you may want to delay passing to next day
 Takeoff or landing timings don't matter -- immigration pass-through timing is the real factor.
 
--- update bpost on effective endeavor
-Another effective intervention #unexpected
-
-Throughout my career and family-building in Sg and US, my personal strategy [decisions, plann/executions, adjustments] about car ownership is .. surprisingly effective. 
-
-Most of my peers "need" a car. They give various explanations of personal needs. It sounds like "so hard to cope without a car in this (part of) country", but I think what they mean is "Since I can afford [1] (to lease) a car, it is proving extremely convenient."
-
-Many point to their own work/home locations, but hey, look at my choice of locations. I chose them to minimize car dependency.
-
-[1] Affordability is personal. I can afford so I do fly up to 4/year for family reunion. Not essential, but a personal priority.
-
-I did spend about USD 1k twice learning to drive. In 2018/19 I also practiced with zipcar. That's part of my effective endeavor.
-
 -- add to bpost on 3-in-1 printer
 ~~new Printer driver install
 After driver installation, sooner or later, we need an initial connection between the hardware. A common juncture of failure.
@@ -130,20 +131,4 @@ Note Device manager is more low-level than Printers-n-scanners-page. It is able 
 
 Insufficient diskspace can mess up the installation in some strange way.
 
-I prefer test-printing a single dot (notepad file). More ink-saving than a printer test page.
-
--- new: Hui Mei consultation#2
-she recommends joint mgmt with psychologist.
-No hurry though.
-
-holiday feast .. soup first;  minimize starch otherwise; limit cakes to 6 pieces/meal (assuming regular size).
-I was reluctant to set target, but now I like the idea.
-
-fasting .. I described to her milk + fruits for entire day. If below 400cal/24H, then safe to practice twice a week. My fasting is 600cal+, so no safety concern.
-
-After age 60, can aim for BMI=25, and maintain muscle mass.
-Current BMI 21.x is very good for my age.
-
-Going back to 63 kg .. probably not something to aim at.
-
-Why I was able to achieve 65.5 kg .. awareness; conscious self-control.
+I prefer test-printing a single dot (notepad file).
