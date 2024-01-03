@@ -11,27 +11,6 @@ Sometimes my sys2 resources feel like depleted, and I choose to focus on chippin
 In the context of the R.Teo bpost (https://btv-open.dreamhosters.com/46375/23copsolutions-r-teo/), these efforts are "direct" efforts. 
 Other times, none of the direct efforts are appealing or effective, so I would try some diversion efforts or "biological" efforts.
 
--- new: psyInf[psychological inflexibility]
-There's a technical literature on psychological inflexibility, and my concept is an unscientific, and unconstrained adaptation. (Similar situation in r-ikigai and focusI) I like it loose and vague -- Additional precision (blogg) would create Sys2 workload. IFF blogging is purely recreational (for-fun), then it may serve as a brain exercise. It does strenghthen my vocabulary.
-
-Eg: ctbz is a good habit overall, but can become psyInf
-Eg: bur or rot
-Eg: calorie restriction .. daily battles
-Eg: Just don't eat anything unless hungry .. I guess psyInf is leaning too much to one extreme. The other extreme is also very common -- grossly inadequate regulation and enforcement so that BMI never really improves.
-Eg: I have poor tolerance for wasteful small spends. Many of them feel like (the worse type of) life style creep.
-Eg: I struggle to accept my son's impunctuality for school, tuition classes, medical appointments etc.
-Eg: I remember XiaoChen came to my house to help repair something and he forgot one tool, so he drove to a nearby shop to buy it. (If I were him) I can't accept such imperfect planning. Self-hate.
-Eg: I have numerous elaborate guidelines for air travel. I spend many hours a day over many days in meticulous preparation for a single flight. If I fail to observe one of my guidelines I feel insecure, anxious.
-
--- new: 8K/Y top-up to wife's cpfSA
-top up 8k/Y to wife's SA to enjoy tax relief.
-
-No tax relief if she earns 4k/Y (i.e. as soon as she starts working) !
-
-No tax relief if you top up 3-way
-
-Use PayNow QR, by the last week of Dec. Avoid weekends. Nov is also fine.
-
 -- update bpost on inflation xp in sg
 An easy mistake is to count the recent lunch bills . With a handful of recent experiences of the last year, you get a very "confident" and concrete estimate of the "typical" cost as of this year. 
 
@@ -99,16 +78,4 @@ grandpa bathing .. grandma was aiming too high, trying too hard to persuade him.
 English for wife.. I tried "improving" wife's English grammar and writing. Too difficult. See email in Oct 2023
 wordy problems for boy and meimei .. 
 EAE for boy .. I am trying too hard since the Jun seminar at NYP.
-
 ====
--- add to bpost on 3-in-1 printer
-~~new Printer driver install
-After driver installation, sooner or later, we need an initial connection between the hardware. A common juncture of failure.
-
-If cable is loose or printer is off, then you can check using device-manager -- unplugging/turning-off will remove an item immediately from device-manager; plugging/turning-on will add an item immediately to device-manager. Windows may also beep :) These are good signs. If you don't see any of these signs, then driver is broken or windows is broken.
-
-Note Device manager is more low-level than Printers-n-scanners-page. It is able to show the new device earlier than PnSP can. Windows restart may be required before PnSP shows the new device.
-
-Insufficient diskspace can mess up the installation in some strange way.
-
-I prefer test-printing a single dot (notepad file).
