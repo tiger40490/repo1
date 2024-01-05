@@ -1,11 +1,11 @@
-Let's move some PEK content to this file
-
--- review will #optional 
--- needle etc
--- lipitor 7 tabs
--- nasal spray
+-- [o] review will #optional 
 -- books re-arrange
 books to keep me busy over 15H
 -- clothing #improvement
 Ensure we don't accidentally leave behind any garment from Sgp
 
+pants
+
+-- buy
+needle .. buy
+[o] nasal spray .. buy from nearby shop
