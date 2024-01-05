@@ -11,3 +11,10 @@ Send the pdf by email or gDrive
 -- bring to NY:
 3-head
 Ensure we don't accidentally leave behind any garment from Sgp
+
+-- timeline on 6 Jan Sat
+[o] call Air China 95583
+sleep after lunch
+3.40pm call taxi
+4pm take taxi
+5pm to reach PEK T3 …. last row once released
