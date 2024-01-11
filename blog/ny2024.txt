@@ -1,9 +1,22 @@
--- fuxi: distractions
-:) no kids
+I keep this file in gitBlog (not wpress) so that I can access it in office
+===== time mgmt
+Time is too limited
+
+-- fuxi: top priorities:
+[1] engagement with swat team .. top priority of management
+
+-- distractions
+:) no kids; no DIYHI; no mailbox
 meetups
-.. Summit trip plann
-Beijing care home .. LGpp
+Beijing care home .. LGpp. Call grandma only in Sg
 SGD exp recon .. Lgpp
 laundry .. becoming efficient
-workout .. prefer simpler ones .. see bpost on NY2024 workout
-engage with Swat team .. not really a distraction, but a "distraction to my Genepai-Algo" project
+workout .. Reduce tcost allocation. prefer simpler ones .. see bpost on NY2024 workout
+[1] engage with Swat team .. not really a distraction, but a "distraction to my Genepai-Algo" project
+receipt safekeep
+puff jacket .. package tracking
+
+-- todo
+buy more snacks for family .. on the days without dining meet-ups
+buy cosmetics for wife
+====
