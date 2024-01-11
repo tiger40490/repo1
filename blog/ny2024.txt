@@ -1,22 +1,28 @@
 I keep this file in gitBlog (not wpress) so that I can access it in office
 ===== time mgmt
-Time is too limited
+Time is too limited. No spare capacity for sight-seeing or fine dining
 
--- fuxi: top priorities:
-[1] engagement with swat team .. top priority of management
+-- fuxi: G5 priorities:
+[1] engagement with swat team .. top priority of management. More important than Genepai-Algo
+[2] meetups
+[9] buying stuff for family
+[8] central park .. only if it doesn't affect "engagement"
 
 -- distractions
 :) no kids; no DIYHI; no mailbox
-meetups
+receipt safekeep
+[2] meetups
 Beijing care home .. LGpp. Call grandma only in Sg
 SGD exp recon .. Lgpp
-laundry .. becoming efficient
 workout .. Reduce tcost allocation. prefer simpler ones .. see bpost on NY2024 workout
+.. laundry afterwards
 [1] engage with Swat team .. not really a distraction, but a "distraction to my Genepai-Algo" project
-receipt safekeep
 puff jacket .. package tracking
+lipitor
 
 -- todo
-buy more snacks for family .. on the days without dining meet-ups
-buy cosmetics for wife
+[9] buy more snacks for family .. on the days without dining meet-ups
+.. pecans: unsalted + honey-coated
+[9] buy cosmetics for wife
+[8] central park loop
 ====
