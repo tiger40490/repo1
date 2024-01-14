@@ -1,4 +1,5 @@
-I keep this file in gitBlog (not wpress) so that I can access it in office
+-- Monday plann
+return early to pack up. Buy luggage if needed
 
 -- fuxi: well done
 saving water and heating in hotel
@@ -23,16 +24,18 @@ no jet lag
 Time is too limited. No spare capacity for sight-seeing or fine dining
 
 -- fuxi: G5 priorities:
-solitude campout mode and make progress on Genepai-algo
 [1] engagement with swat team .. top priority of management. More important than Genepai-Algo
+solitude campout mode and make progress on Genepai-algo
 [5] maintain diet, workout. If workout requires time, then let's allocate the time
-[9] buying stuff for family
 
 -- distractions
+[9] buying stuff for family .. too much time deciding what to buy
 :) no kids; no DIYHI; no mailbox
-[2] meetups
+meetups
 workout .. Reduce tcost allocation. prefer simpler ones .. see bpost on NY2024 workout
 lipitor
+fine dining on my own .. high tcost on research, plann,,
+nostalgic destinations .. 8thAve is similar to Flushing
 
 -- todo
 [9] buy more snacks for family .. on the days without dining meet-ups
