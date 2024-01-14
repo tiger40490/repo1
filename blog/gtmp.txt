@@ -7,6 +7,9 @@ Incoming calls .. doesn't work.
 Data is seperate control. If you turn off mobile data at device level, then you won't incur data cost.
 
 ==== new: %%preference4fine dining
+After these considerations, I have to ask "how much/little value, personally?". Fine dining may have high value to some individuals, but its value is rather low to me. With $20 I can get excellent dining experience, and fine dining rarely surpass it. There's no "exceptional" anything here. Such a level of experience doesn't exist.
+
+A crude but useful analog -- sexual satisfaction. Some people try novel techniques, use fancy products, go to /exotic/ places, or change partners, to elevate their experience. For other people, a 5-minute rutine once a month with the same partner is all they need. They don't experience anything exceptional even if they spend a million dollars to create it.
 -- not too fatty like visible fatMeat/mayo/butter, or deep-fried
 -- not too filling like Starchy, thick cream,,,
 Seafood is generally lighter and easier to digest
