@@ -13,14 +13,15 @@ I decided to seek urologist help. Many things didn't work, but the pill worked. 
 (Related to some Buddhist teaching) I remind myself to enjoy what I have now. I thank God for the level of fulfillment. Cross the bridge when I come to it, not to worry about it too early. 
 
 -- coding as recreation
-I told you about energy sink. (I have blogged aobut this topic, but I won't reference my blog.) One of my top 3 energy sinks is recreational reading. You asked an interesting question "If I have some leisure time, between recreational reading and rereational coding, which would I choose?"
+I told you about energy sinks. (I have blogged about this topic, but I can't reference my blog.) One of my top 3 energy sinks is recreational reading/blogging. You asked a tricky question "If I have some leisure time, how do I choose between recreational reading and rereational coding?"
 
-I think this is still a vague question as it depends on many factors, such as mood, motivation, 
+Despite your best effort, I think this question is still vague as it depends on many factors, such as mood, motivation, 
 
-When I have an automation task at work or at home, I would spend hours learning, tweaknig my scripts... fulfilling, rewarding and satisfying.
+When I have an automation task in office (or at home), I would spend hours researching, tweaknig my scripts... rewarding and satisfying.
 If I have not done recreational coding for many months, I would feel more motivated.
 Before/after a coding interview, perhaps for a friend, or as an interviewer, I would feel more motivated.
 When learning some unfamiliar language feature, I would be keen to write some code to investigate, explore. 
+When I have only small windows of spare time, reading/blogging is convenient.
 
-Some people write games in their spare time. I don't enjoy gaming.
-Some people write GUI in their spare time. I don't enjoy GUI.
+Some people write games in their spare time. I don't enjoy anything gaming.
+Some people write GUI in their spare time. I don't enjoy GUI coding including mobile or web apps. In my 20s and 30s I did enjoy web application dev.
