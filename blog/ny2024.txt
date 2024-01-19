@@ -1,23 +1,19 @@
-==== don't forget
-iPhone: put in backpack early
--- low-value items
+-- the 5 meetups are meaningful and memorable
+
+-- don't forget
+both phones: put in backpack early
+~~ low-value items
+travel pillow
 yoga block
 NY newapapers
-JAL pack
 JAL slippers
-
-====
 -- well done on JAL flight
 push-up at T8
 inter-dental
-delayed meal on flight
-
--- I don't want to criticize myself on productivity
-Q: what progress criteria do project assessors have for Fail/Pass/Exceed?
-%%A: looks like very low bar. Lucky guy, or karma?
+returned unwanted components of the JAL pack... reduce waste
 
 -- fuxi: well done
-eco .. saving water and heating in hotel
+eco .. saving water and heating power in hotel
 laundry .. saving time, money (for employer), and water/electricity
 food waste .. avoided every day, in every buying decision
 I gave away lots of chocolates/peanuts as they became emotional baggage .. I didn't want to discard them.
@@ -32,34 +28,36 @@ lipitor, dental .. consistently
 hotel-office commute very convenient
 Swat team isn't going to look into Genepai limitations and the paper-over-cracks
 Boss was helpful in many discussions
-no sickness
+no sickness whatsoever
 wellness center
-Some of the fancy restaurant dishes were actually special
+Some of the fancy restaurant dishes were... special
 ===== time mgmt
 -- fuxi: G5 priorities:
-[1] engagement with swat team .. top priority of management. More important than Genepai-Algo
-solitude campout mode and make progress on Genepai-algo
-[5] maintain diet, workout. If workout requires time, then let's allocate the time. prefer simpler ones .. see bpost on NY2024 workout
+engagement with swat team .. top priority of management. More important than Genepai-Algo
+[2] solitude campout mode and make progress on Genepai-algo... Not so much progress, perhaps due to distractions [meetups, gift-buying, non-Genepai projects,,,]
+maintain diet, workout. If workout requires time, then let's allocate the time. prefer simpler ones .. see bpost on NY2024 workout
+
+[2] I don't want to be critical on my productivity
+Q2: what measurable progress criteria do project assessors have in terms of Fail/Pass/Exceed?
+%%A: looks like very low bar. 
+Q2b: Lucky guy, or karma?
+%%A: karma i.e. cause and effect
 
 -- distractions
 :) no kids; no DIYHI; no mailbox
-laundry .. luckily I found some routine
-meetups
-lipitor
-fancy cakes, fruits .. luckily I found my way... red velvet cake, pistachio cake, small ice creams
 fine dining on my own .. high tcost on research, plann,, Low value
-nostalgic destinations .. 8thAve is similar to Flushing
+nostalgic destinations .. 8thAve is similar to Flushing. Lucky I didn't go.
 ===== update bpost on diet/workout
+small ice creams, small cakes worked better for BMI and waste reduction, even though higher unit cost. 
 -- DosToros:
 Bowl is much better value than tacos x2. SeeWhatYouPick. Total t$cost is much better than all the restaurants I have tried.
 Overall, I feel wholesome about (my version of) DosToros. This came as a surprise. 
 
 Starch .. rather low. Mostly in (controlled amount of) beans, farro
-cooked veg .. tasty and not much oil
+cooked veg .. tasty and not oily
 raw veg .. better taste in the bowl, than my all-raw veg
 meat .. no visible fat
 guaca .. slightly lighter than avocado. Portion size is limited by defaut :)
-dips and chips .. not for me !
 
 -- I chose to relax my "delay meal" rule again (relaxed frequently in SG like company meals, family meals...) because it was impractical at that time. As HuiMei said, I need quality of life.
 
@@ -68,5 +66,7 @@ dips and chips .. not for me !
 gave away some starchy snack to Fiona
 delayed lunch till 7pm. Relatively healthy DosToros meal. 
 Greenwich lounge : careful food selection
+starch .. good control 
+delayed meal on flight.. /commendable/ even if "by an hour"
 
 If food quality is comparable in-flight vs at airport, then I would skip airport meal, to save cost for employer
