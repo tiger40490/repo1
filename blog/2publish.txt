@@ -1,6 +1,8 @@
 -- update bpost on faking
 The brain doesn’t bother to sort out whether you’re smiling because you’re genuinely joyous, or because you’re just pretending.
 
+-- update bpost on 2-char abbr
+NY -> NYC
 -- update bpost on bachelor's life
 Throughout 2018-19, and a few times during 2020-2022, I frequently mentioned my carefree ezlife to grandpa and various friends. What's special about those periods?
 
