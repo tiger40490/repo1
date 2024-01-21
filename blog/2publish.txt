@@ -1,5 +1,5 @@
 -- update bpost on faking
-The brain doesn’t bother to sort out whether you’re smiling because you’re genuinely joyous, or because you’re just pretending.
+"The brain doesn’t bother to sort out whether you’re smiling because you’re genuinely joyous, or because you’re just pretending." -- some website
 
 -- update bpost on 2-char abbr
 NY -> NYC
