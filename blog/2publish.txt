@@ -1,4 +1,4 @@
--- update bpost on faking
+-- fuxi or update bpost on faking
 "The brain doesn’t bother to sort out whether you’re smiling because you’re genuinely joyous, or because you’re just pretending." -- some website
 
 -- update bpost on 2-char abbr
@@ -35,7 +35,7 @@ Unlike cooked veg which often adds unique flavor, raw veg could never really enr
 
 I have learned to enjoy raw veg as bland (often flavorless), light, simple, clean, protective, life-enhancing,,, foods, nothing more nothing less, even when mixed with something (anything) fancy.
 ==
--- update https://btv-open.dreamhosters.com/46375/23copsolutions-r-teo/
+--fuxi or update https://btv-open.dreamhosters.com/46375/23copsolutions-r-teo/
 It's not obvious which stressors are beneath the current state of anxiety/pessimism. It takes skills, effort, practice and sys2 resources to /identify/ those stressors. 
 
 Sometimes my sys2 resources feel like depleted, and I choose to focus on chipping away at one of the big-rock stressors/tasks:
