@@ -3,33 +3,20 @@ tcost: updating existing bpost .. must find the relevant bpost. After that, ofte
 tcost: creating brand new bpost... must choose category/tags; must draft good title
 tcost: noisy wpress search /against/ increased blog content; overcrowded category/tags
 
-Better approach when I have too much content in git-blog, a better approach is ... throwaway blogg i.e. expressive, therapeutic writing in git-blog (or wpress), and move into those fuxi_*.txt files
+When I have too much content in git-blog, a better approach is ... throwaway blogg i.e. expressive, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
 
--- fuxi: placeholder bposts
-Trash-bin is quick, but the bpost goes in and becomes tricky to read. It also becomes hard to reuse.
-
--- update bpost on header keywords
-short names can be ambiguous, misleading, double-meaning. 
-
-long names can be restrictive. Some parts of the long name can be misleading.
-
--- update bpost on site block
+-- fuxi or update bpost on site blocked
 I AM flexible. In the face of growing site blocks at end of 2023, I have taken things in my stride.
 
 I recognize that the recent site blocks are less alarming/sensitive/harmful/toxic, less incriminating ,,, than those compliance incidents
 
--- update https://btv-open.dreamhosters.com/46375/23copsolutions-r-teo/
-painting is known to be therapeutic. So is playing/singing music. My expressive writing is even more effective but it's not as immediate+80%+dramatic like my ED pill. Sometimes the effect is underwhelming. That's part of life.
-
--- fuxi or update bpost on site blocked
 Most companies have some restrictions
 I don't take for granted whatever freedom given to me.
-
 When a freedome is taken away, I tend to have an adjustment problem. 
 I remember GS .. blogger was blocked.
 
 -- fuxi: 
-Frequently, I find some bposts worth reviewing, but it's hard to know which bpost.
+Frequently, I find some bposts worth reviewing, but looking at title, it's hard to know which specific bposts are.
 t_fuxi tags, sticky flag are proven helpful, although not extremely. 
 
 Need to invest more time learning ctbz in titles.
