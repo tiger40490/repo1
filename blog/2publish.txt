@@ -1,3 +1,10 @@
+
+-- new bofa.NA
+sending money to citi ..  Minimum $10. Fees? no longer :)
+
+-- new or udpate citi.NA
+sending money out .. $20 requires smsOtp
+
 -- fuxi or update bpost on faking
 "The brain doesn’t bother to sort out whether you’re smiling because you’re genuinely joyous, or because you’re just pretending." -- some website
 
