@@ -1,6 +1,13 @@
+
 -- update bpost on Anurag ^ miles ...
 Compare Anurag vs Mos .. Even if you are old and slower, the company would keep you, but you should NOT rise to manager level like Kevin D or George P
 
+-- update bpost on C
+I often feel proud to say C was my first language.
+Similarly, I feel proud to self-identify as a math graduate.
+
+These domains are ever green in terms of relevance and skill demand. 
+Somehow my career[and learning] gravitates towards these /magnets/.
 -- fuxi
 Every challenge in Genepai is my problem, but the 2 of them are supposed to help out, so it's fine to delegate to them, while I design high-level things and take on modules that are hard to delegate.
 

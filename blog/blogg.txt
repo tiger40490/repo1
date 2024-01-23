@@ -1,9 +1,13 @@
 -- new: promote throwaway blogging
-tcost: updating existing bpost .. must find the relevant bpost. After that, often need to integrate new content into existing.
-tcost: creating brand new bpost... must choose category/tags; must draft good title
+tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.
+tcost: creating brand new bpost... obligation to choose category/tags and draft good title
 tcost: noisy wpress search /against/ increased blog content; overcrowded category/tags
 
-When I have too much content in git-blog, a better approach is ... throwaway blogg i.e. expressive, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
+When I have too much content in git-blog, a recommendation is ... throwaway blogg i.e. expressive, reflective, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
+
+Email with friends .. is an exemplification of such reflective writing. "Thrown away" into gmail archive. better tcosts.
+
+Eg: in early 2024, I did such an reflective writing on "adaptable retirement". These emails are kinda worth a dramRefersh once a while,  but ... Should they go into my blog? 
 
 -- fuxi or update bpost on site blocked
 I AM flexible. In the face of growing site blocks at end of 2023, I have taken things in my stride.
