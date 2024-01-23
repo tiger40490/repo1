@@ -1,6 +1,6 @@
 
 -- update bpost on Anurag ^ miles ...
-Compare Anurag vs Mos .. Even if you are old and slower, the company would keep you, but you should NOT rise to manager level like Kevin D or George P
+Compare Anurag vs Mos .. Even if you are old and somewhat slower, the company would keep you, but you may NOT want to rise to manager level like Kevin Dokerty or G.Petras
 
 -- update bpost on C
 I often feel proud to say C was my first language.
@@ -8,6 +8,7 @@ Similarly, I feel proud to self-identify as a math graduate.
 
 These domains are ever green in terms of relevance and skill demand. 
 Somehow my career[and learning] gravitates towards these /magnets/.
+
 -- fuxi
 Every challenge in Genepai is my problem, but the 2 of them are supposed to help out, so it's fine to delegate to them, while I design high-level things and take on modules that are hard to delegate.
 
@@ -16,26 +17,3 @@ If one of them become better than me and more productive than me, that can be a 
 If they become independent and can contribute productively, I think managers would be delighted.
 
 I need a balanced, fair, positive attitude on young developers.
-
--- fuxi or update which bpost?
-[23]bonus: reminder
-tip: Be sincere
-tip: be grateful to the decision makers, presumably local and NY mgr, and CEO. 
-The numbers this (and previous) year(s) are by no means arbitrary, trivial. They represent a conscious decision. Team bonus pool is a fixed amount. Increasing my bonus requires decreasing a coworker's bonus.
-show appreciation by ... decent effort
-
-tip: no need to overwork or bend over backward
-
-reminder: manage the weight of expectation. No need to pay a counsellor, but blogg may help
-
-reminder (from Grandma): at my age and in this (ageist) industry, most greying finDevs have various difficulties.
-My current performance level is decent, respectable, no mean achievement.
-My wife and in-laws should be proud of me.
-
-reminder: impermanence .. the generous numbers are not an iron rice bowl, and are conditional on firm/individual performance, and up to the individual decision maker.
-
-Q: how do I spend a bit more to reduce my stress? Warning: it's easy to overspend and regret
-A: capture late-night power surge and go home by taxi
-A: tuition for kids
-A: more lavish rewards to induce boy's better beahvior, and buy me some stress relief
-A: pay an IT contracctor to set up non-SSL and blog printing service for me

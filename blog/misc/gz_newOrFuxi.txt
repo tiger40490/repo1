@@ -1,3 +1,23 @@
+
+-- fuxi or update which bpost?
+[23]bonus: reminder
+tip: Be sincere
+tip: be grateful to the decision makers, presumably local and NY mgr, and CEO. 
+The numbers this (and previous) year(s) are by no means arbitrary, trivial. They represent a conscious decision. Team bonus pool is a fixed amount. Increasing my bonus requires decreasing a coworker's bonus.
+show appreciation by ... decent effort
+
+reminder (from Grandma): at my age and in this (ageist) industry, most greying finDevs have various difficulties.
+My current performance level is decent, respectable, no mean achievement.
+My wife and in-laws should be proud of me.
+
+reminder: impermanence .. the generous numbers are not an iron rice bowl, and are conditional on firm/individual performance, and up to the individual decision maker.
+
+Q: how do I spend a bit more to reduce my stress? Warning: it's easy to overspend and regret
+A: capture late-night power surge and go home by taxi
+A: tuition for kids
+A: more lavish rewards to induce boy's better beahvior, and buy me some stress relief
+A: pay $1k for an IT contractor to set up non-SSL and blog printing service for me. I simply have no bandwidth for now.
+
 -- update bpost on workload, but which one?
 worker's skill and efficiency is a big unknown factor to a new project manager. 
 The longer you stay, the more efficient you become as a worker, but expectation on you also rises, as manager knows your skills better.
