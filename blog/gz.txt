@@ -1,19 +1,22 @@
-
 -- update bpost on Anurag ^ miles ...
-Compare Anurag vs Mos .. Even if you are old and somewhat slower, the company would keep you, but you may NOT want to rise to manager level like Kevin Dokerty or G.Petras
+My FullerWealth is growing by the month. (Burn rate holds despite inflation.) Still that is not enough to /relieve/ aging-related work pressure.
+I think I need to look to older colleagues including WStC to find the relief. 
+
+I want to remain relevant to the digital economy.
+I want to stay as SWE. The FullerWealth doesn't help.
+
+Compare Anurag vs Mos .. Even if you are old and somewhat slower, the company would keep you, but you may NOT want to rise to manager level like Kevin Doherty or G.Petras
 
 -- update bpost on C
 I often feel proud to say C was my first language.
 Similarly, I feel proud to self-identify as a math graduate.
 
-These domains are ever green in terms of relevance and skill demand. 
+These domains are evergreen in terms of relevance and skill demand. 
 Somehow my career[and learning] gravitates towards these /magnets/.
 
 -- fuxi
 Every challenge in Genepai is my problem, but the 2 of them are supposed to help out, so it's fine to delegate to them, while I design high-level things and take on modules that are hard to delegate.
 
-If one of them become better than me and more productive than me, that can be a good thing. Manager should not penalize me.
+If one of them becomes better than me and more productive than me, that can be a good thing. Manager should not penalize me.
 
 If they become independent and can contribute productively, I think managers would be delighted.
-
-I need a balanced, fair, positive attitude on young developers.
