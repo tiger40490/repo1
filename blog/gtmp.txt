@@ -4,7 +4,9 @@ Q: is the new process gonna be faster than writing TBL?
 
 -- fuxi: oracle 
 check FX rate on each item, against scsc bill
-add up total and tally with scsc bill
+add up total on Oracle and tally with scsc bill
+
+timesheet submit
 
 -- fuxi : def@success
 In the last few (up to 12) months, my subconscious definition of success has shifted from successE to successZ.
