@@ -1,3 +1,12 @@
+-- fuxi or update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
+Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of slow progress, provided
+* not stuck completely
+* not visibly slower than coworkers
+
+Kinda good for older developers.
+
+In contrast, the are more sensitive, less tolerant about 1) quality of work [Prod issues,,,] 2) compliance
+
 -- update bpost on Anurag ^ miles ...
 My FullerWealth is growing by the month. (Burn rate holds despite inflation.) Still that is not enough to /relieve/ aging-related work pressure.
 I think I need to look to older colleagues including WStC to find the relief. 
