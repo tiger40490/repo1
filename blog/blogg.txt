@@ -10,12 +10,12 @@ https://wordpress.org/plugins/wp-hide-backed-notices/
 
 We can search for "The backup of this post in your browser is different from the version below" in ssh. Once we locate the file, we can try to disable it.
 
--- new: promote throwaway blogging
+-- new: promote disposable blogging
 tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.
 tcost: creating brand new bpost... obligation to choose category/tags and draft good title
 tcost: noisy wpress search /against/ increased blog content; overcrowded category/tags
 
-When I have too much content in git-blog, a recommendation is ... throwaway blogg i.e. expressive, reflective, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
+When I have too much content in git-blog, a recommendation is ... disposable blogg i.e. expressive, reflective, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
 
 Email with friends .. is an exemplification of such reflective writing. "Thrown away" into gmail archive. better tcosts.
 
