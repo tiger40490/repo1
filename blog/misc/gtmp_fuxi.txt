@@ -251,29 +251,11 @@ I think it's because he took responsibilty. He shot Jake. If he leaves him bleed
 In contrast, those other cops were wounded while fighting.
 
 -- fuxi
-Without wireless@sgx I feel so inconvenient, but it's important not to become dependent on it. Fault-tolerance and resilience
-
--- fuxi
-CTRL + Shift +Esc to start taskmgr
-
--- fuxi: astra theme and its templates
-"astra" theme (free) is recommended. 
-if you want precise control (me), then prefer non-template, and classic editor.
-widget config is generic. theme config would overwrite widget config
-
-wpress site-health.. can't check plugin version conflict.
-
-ConvertKit.com free tool to create a landing page.
-
-When things don't work, need to learn to pick your battle, let go, or allocate enough time
-
-privacy policy page is required if you want your site to be indexed.
-
--- fuxi
 t_paradox
 why do we feel more delighted, more satisfied with a bonus than a clean health check-up? 
 
 I guess the former is associated with Effort/reward while the latter associated with luck.
+
 -- slow-cooking new: shame and smear campaign
 eg 1: Dick Cheney worried about his gay daughter getting exposed if he were to run for presidency and attract the spot light.
 eg 2: Trump attacking Biden's younger son during Debate 1
@@ -288,7 +270,7 @@ Allocated column is more useful than SIZE column as it is after-Compression
 -- fuxi: disabling WindowsEventLog service has an undocumented side effect -- notification area won't show the network icon !
 -- fuxi: why do I care so much that my long emails are not "well-received"? I told myself that those mails are similar to personal diary. I also told the recipients the same.
 Somehow I need to accept it even more wholeheartedly. Remember Wei.Li
--- fuxi: printfriendly.com can let you remove specific pictures or paragraphs
+
 -- some facts about Amazon river
 one-fifth of the fresh water that flows into our earth’s seas flow through Amazon river. This volume is higehr the next 6 biggest rivers combined.
 
@@ -385,19 +367,6 @@ H.Yi? yes in easy job
 WQ.L? yes in easy job
 XH.Fu? Yes in easy job and free time
 
--- fuxi: archive/hide threads on wechat/whatsapp
-The list of wechat contacts, the list of linkedin contacts are filled with people I seldom NEED to contact. I dare not delete them because I have no other way to recover their contacts!
-
-The high cost -- With wechat (linkedin much better), these people receive too much sunshine simply because they appear on this wechat list. 
-
-1) It's better to remove them from wechat contact if I have other ways to find them, such email or through other friends.
-2) For some other contacts, it's better to archive/hide the conversation thread. This feature is similar to Archive on gmail.
-3) ^^^^ In the end, my wechat front page should show only 9 worthwhile contacts.
-
-The wechat/whatsapp/linkedin lifestyle is for people whose personal time and priorities fall within their (large) circle of friends. This lifestyle is a very poor match for my needs. 
-
-I do have a need to connect with a small circle of "friends and family". I much prefer 1) meet-up 2) email. Phone call is a distant third choice. Chat is the worst choice for me.
-
 -- new: simplify your life
 t_vague
 The choices, and temptations in modern life increases distraction and risk of missteps. Therefore, steadfast focus on protecting... really benefits from simplification.
@@ -439,12 +408,6 @@ iPhone policy with boy. Better to reach agreement
 wellness and essential self-care
 localSys fuxi and self-learning
 work proj? not for the next 2 weeks !
-
--- fuxi: NYTimes online access
-If you hit a barrier page "You have used up your quota of free articles", then you can try
-* log out and become unregistered reader
-* use another browser
-* perhaps log in using another email address
 
 -- fuxi: philips blender jar
 Sales girl said glass is more sturdy, thicker, stronger build to withstand ice breaking.
