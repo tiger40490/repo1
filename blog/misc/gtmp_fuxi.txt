@@ -225,20 +225,6 @@ dhost panel->support->dataCenters has a technical and definitive listing of all 
 I learn a lot from my reflective blogg afterwards, mostly at home.
 
 One keyword or one key question often starts a new train of thought.
---fuxi
-In any domain, the U.S. tends to produce large numbers of influential figures (considering the U.S. population), much higher than BRIC countries.
-
-However, a much larger number of Americans struggle against livelihood, often falling into hardship temporarily or indefinitely.
-
-What's a simple yardstick for hardship and struggle? Perhaps the WBank's international poverty line?
-
-Singapore is very different. The poor are outnumbered by the wen1bao3 class. Therefore, the government can more easily take care of them. If you look at the number of influential individuals, Singapore's talent pool is not outstanding.
-
-(Most people don't have such a choice, but for those who have) what's your personal goal in choosing a country? Sg is a good choice if you want a comprehensive safety net, and vulnerable protection[kids, elderly, displaced].
-
-U.S. is good if you have aspirations and want to make a name for yourself. 
-
-Image, reputation, credibility, competitive strength is dominated by influential figures, therefore the U.S. ranks top in most domains. That helps the U.S. attract global talents, and stay on top.
 
 -- fuxi
 I have played down the importance of interpersonal, and communication skills, and emphasized self-mastery.
@@ -304,9 +290,6 @@ On an unrelated note, you can also try 3-finger swipe-down.. will immediately mi
 -- fuxi: when I describe my intimacy frustration, I mentioned my daughter's sleep habit and my son's habit to sleep in the living room. In my description, you could tell I'm more forgiving more tolerant of my 2 kids. In contrast, I'm more critical of wife.
 
 I expect a lot more of her. 
-
--- fuxi:
-Among the U.S. immigrants, probably 90% come from less wealth (mostly developing) countries. Probably below 1% come from wealthier (always small) nations like Switzerland, Luxembourg, and Singapore
 
 -- fuxi: median is better than mean in the presence of very large outliers.
 
@@ -423,23 +406,6 @@ eg: windows license expiry
 eg: windows update kick-in at the wrong time
 eg: M1 and starhub blackout
 
--- fuxi: u.s. not in decline :
-* movie businss + pop music
-* tech companies
-* stock market
-* university brands
-* nobel prize winners
-* publishing industry
-* cross-culture entrepreneurship, private enterprises
-* print news media -- influential newspapers, news weekly, journalism, 
-* broadcasting news media, 
-* medical research
-* globalization, outsourcing
-* management consulting business
-* marketing, branding
-
-I wonder why. LKY might say "talent" 
-
 --update  various blogopsts:
 why I have two healthy kids? Largely due to the Effective mother
 
@@ -488,11 +454,6 @@ othRisk
 I often prefer one-word answers, but a longer, positive answer could influence my self-image. 
 
 * engineer, software engineer, trading software engineer
-
---fuxi: when moving to the U.S. i'm likely to lose my current level of carefree/ffree, perhaps due to
-* brbr
-* commute
-* peer comparison 
 
 --fuxi
 wrong-time and related temptations are tougher for me than saving money.
@@ -565,9 +526,6 @@ Brother printer is my most reliable printer ever. No paper jam. very slow ink de
 
 Scanner and copier also worked well. Saved many trips to the commercial shops.
 
---fuxi: 
-debt culture, drugs, alcohol, sex, gambling, are some of the extra freedom in the U.S.
-
 --fuxi: parachute and similar imageries 
 t_powerDescriptor
 
@@ -602,11 +560,6 @@ I don't want to waste my time listening to such a useless offer.
 * trespass
 * credit card fraud
 * overcharge on my accounts
-
---update blogpost: sg ^ u.s.
-mrt system maintenance is very late at night , with several months of notice 
-
-surgical mask stockpile: no government foresight in U.S.
 
 --fuxi: worst stressful period=2008-09
 After boy was born, my stress profile deteriorated quickly over long and short term. T-budget strain.. heavy responsibility
