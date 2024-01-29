@@ -13,6 +13,9 @@ When I have too much content in git-blog, a recommendation is ... disposable blo
 Email with friends .. is an exemplification of such reflective writing. "Thrown away" into gmail archive. better tcosts.
 Eg: in early 2024, I did such an reflective writing on "adaptable retirement". These emails are kinda worth a dramRefersh once a while,  but ... Should they go into my blog as four-liners? Only a selected few.
 
+Need to go through the fuxi_* files once a while or they would keep growing
+
+split fuxi_ files by subject
 -- fuxi or update pff complexities 
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
 
