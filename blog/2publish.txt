@@ -1,3 +1,14 @@
+
+-- new: promote /disposable/ blogging
+tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.
+tcost: creating brand new bpost... obligation to choose category/tags and draft good title
+tcost: noisy wpress search /against/ increased blog content; overcrowded category/tags
+
+When I have too much content in git-blog, a recommendation is ... disposable blogg i.e. expressive, reflective, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
+
+Email with friends .. is an exemplification of such reflective writing. "Thrown away" into gmail archive. better tcosts.
+Eg: in early 2024, I did such an reflective writing on "adaptable retirement". These emails are kinda worth a dramRefersh once a while,  but ... Should they go into my blog as four-liners? Only a selected few.
+
 -- fuxi or update pff complexities 
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
 
