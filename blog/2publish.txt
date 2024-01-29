@@ -1,3 +1,7 @@
+-- use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
+Better than two overlapp tags .. proliferation
+
+Need some explanation bpost .. perhaps one of the t_selfTalk bposts.
 
 -- new: promote /disposable/ blogging
 tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.

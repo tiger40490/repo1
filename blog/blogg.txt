@@ -1,8 +1,3 @@
--- use both k_twister_SMS and t_selfTalk .. a new model of multi-tagging
-Better than two overlapp tags.
-
-Need some explanation bpost .. perhaps one of the t_selfTalk bposts.
-
 -- new: WPress notices: hide
 This is a persistent annoyance.. worth some t-investment
 
