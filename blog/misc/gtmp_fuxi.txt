@@ -229,16 +229,6 @@ OCBC is more diversified largely due to insurance unit. Also, OCBC has higher pe
 
 Banking is cyclical, correlated with the relevant regional economies.
 
--- fuxi: win10 mouse pointer size
-Traditional MouseProp applet has only "ExtraLarge" and "Large".
-
-The newer "Mouse Pointer" page offers wider varieties.
-
--- fuxi: Citrix: switch between 1^2fullScreen modes
-When cursor is in either screen, try 3-finger touchpad swipe-up. You can then choose a window to show on-top in that screen. The selected window could belong to the remote or home computer
-
-On an unrelated note, you can also try 3-finger swipe-down.. will immediately minimize all windows and reveal home computer’s desktop. At this juncture a swipe-up would restore everything.
-
 -- fuxi: when I describe my intimacy frustration, I mentioned my daughter's sleep habit and my son's habit to sleep in the living room. In my description, you could tell I'm more forgiving more tolerant of my 2 kids. In contrast, I'm more critical of wife.
 
 I expect a lot more of her. 
@@ -348,15 +338,6 @@ work proj? not for the next 2 weeks !
 Sales girl said glass is more sturdy, thicker, stronger build to withstand ice breaking.
 I had no reason to suspect that. Indeed, I did find out that the plastic jar feels less sturdy when breaking ice...
 Now I feel the overwhelming priority is fragility. Plastic jar will not break so easily !
-
--- fuxi: These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
-eg(big): wordpress block editor
-eg: show-stopper: oversensitive touchpad 
-eg: show-stopper: home wifi issues
-eg: wechat issues
-eg: windows license expiry
-eg: windows update kick-in at the wrong time
-eg: M1 and starhub blackout
 
 --update  various blogopsts:
 why I have two healthy kids? Largely due to the Effective mother

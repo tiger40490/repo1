@@ -1,3 +1,21 @@
+-- fuxi: win10 mouse pointer size
+Traditional MouseProp applet has only "ExtraLarge" and "Large".
+
+The newer "Mouse Pointer" page offers wider varieties.
+
+-- fuxi: Citrix: switch between 1^2fullScreen modes
+When cursor is in either screen, try 3-finger touchpad swipe-up. You can then choose a window to show on-top in that screen. The selected window could belong to the remote or home computer
+
+On an unrelated note, you can also try 3-finger swipe-down.. will immediately minimize all windows and reveal home computer’s desktop. At this juncture a swipe-up would restore everything.
+
+-- fuxi: These new "infrastructure" technologies are not reliable and fooolproof as traditional infrastructure technologies.
+eg(big): wordpress block editor
+eg: show-stopper: oversensitive touchpad 
+eg: show-stopper: home wifi issues
+eg: wechat issues
+eg: windows license expiry
+eg: windows update kick-in at the wrong time
+eg: M1 and starhub blackout
 
 --fuxi: 
 dhost panel->support->dataCenters has a technical and definitive listing of all my web sites (identified by FQDN), all my databases, all my ssh user accounts.
