@@ -1,5 +1,20 @@
+-- update simplify
+Ranking in terms of complexity and tcost of ownership: 
+strict term loan
+RBBT ownership has lower stress-cost thanks to the pre-payment option.
+FLI2 and other bx products.. obligation to pay premium on time
+promotional DIR like 3.7 ppa .. obligation to recon interest calc
+tBill ownership cost is even lower.
+
+-- fuxi
+lifestyle creep .. increasing recently
+* tuition
+* dining
+
 -- update bpost on RBBT
 Biggest risk is neglecting the 6M anniversary. Better set a reminder 1M in advance.
+
+135k x (3.7%-1.88%) for half a year is about $1100+
 
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/
 Since 2010s I have had a consistent assessment that pff is my strongest hand, strongest tectonic plate, and my "best-performing" game, in terms of personal efficacy, battery, accumulation,,,
