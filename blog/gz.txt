@@ -1,3 +1,13 @@
+-- fuxi or update ...: when I feel bad about Genepai progress, I can feel relieved that the two full-time young devs didn't find a better solution than Genepai.
+
+Genepai made enough progress (albeit small) to earn multiple business trips between Sgp and NYC.
+
+Apparently, there's no yardstick to guage progress.
+
+The deliverable is a dream. If you show effort and make *some* progress, then they would probably reward you for trying.
+
+Other AI projects in EqTech rarely have any full-time devs. 
+
 -- fuxi or update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
 Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of slow progress, provided
 * not stuck completely
