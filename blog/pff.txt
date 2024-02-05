@@ -1,4 +1,4 @@
--- update simplify
+-- update old-age BBB/RRR complexity
 Ranking in terms of complexity and tcost of ownership: 
 strict term loan
 RBBT ownership has lower stress-cost thanks to the pre-payment option.
