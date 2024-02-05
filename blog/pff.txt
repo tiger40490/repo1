@@ -1,7 +1,6 @@
 -- update old-age BBB/RRR complexity
 Ranking in terms of complexity and tcost of ownership: 
-strict term loan
-RBBT ownership has lower stress-cost thanks to the pre-payment option.
+RBBT ownership has better stress-cost thanks to the pre-payment option.
 FLI2 and other bx products.. obligation to pay premium on time
 promotional DIR like 3.7 ppa .. obligation to recon interest calc
 tBill ownership cost is even lower.
