@@ -1,18 +1,18 @@
--- new: phishing.. 
+-- fuxi or new: phishing.. 
 clicing a link can be dangerous... site can push fileless malware to your computer and run.
 
 sender's domain name is usually reliable.
 
 malware include [virus, adware, spyware, ransomware (i.e. encrypting your files) ]
 
--- update VPN
+-- fuxi or update VPN
 https://www.thechinaguide.com/blog/how-to-use-your-cell-phone-while-traveling-in-china has recommendations
 
 Experts recommend that you NEVER use a free VPN.  Maintaining a VPN that works in China implies a significant financial expense, and therefore you should ask where the VPN is getting this money from.
 
 One recommendation is that you should carefully examine any VPN of this type before installing it, as in many cases, it will install other things, such as programs that display ads while you are browsing, programs that store your browsing data to sell it to third parties or programs that use your computer as a server (your laptop and your Internet connection will work much more slowly). Plus, in the worst case, they are simply viruses or malware.
 
--- new: .rtf files as alternative to .docx 
+-- fuxi .rtf files as alternative to .docx 
 In my note system in office or home, and esp. in blogg, I have used RTF to avoid DOCX files.
 
 RTF files are much smaller than DOCX, but can preserve text effects.
