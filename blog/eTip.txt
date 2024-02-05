@@ -17,7 +17,7 @@ In my note system in office or home, and esp. in blogg, I have used RTF to avoid
 
 RTF files are much smaller than DOCX, but can preserve text effects.
 
--- new: too many items: create folders
+-- fuxi: too many items: create folders
 Usage sites: smartphone/PC desktop icons; browser bookmarks; recoll
 
 The folder is usually opaque (except smartphone). I often fail to recall which folder hosts a particula item. 
@@ -31,7 +31,7 @@ according to Starhub, a new router can last 1-2 Y before degredation. That's why
 
 Shall we ask starhub?
 
---new starhub-TV: unwanted purchase content
+--fuxi: starhub-TV: unwanted purchase content
 New remote doesn't have a button to do the purchase. It's all on-screen.
 
 The only way to prevent accidental purchase is parental control. 4-digit password.
