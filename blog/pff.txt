@@ -1,3 +1,10 @@
+-- new: 31Mar park RBBT fund
+If too much cash to be moved into low-yield parking on 31Mar, then better use it pay off RBBT.
+
+Need a default parking place with liquidity
+* SSB?
+* Fullerton mufu
+
 -- update old-age BBB/RRR complexity
 Ranking in terms of complexity and tcost of ownership: 
 RBBT ownership has better stress-cost thanks to the pre-payment option.
