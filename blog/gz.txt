@@ -1,3 +1,11 @@
+-- fuxi:
+paradox: Why in NYC I didn't spend lots of time on Genepai?
+Multiple adjustments and distracitons
+* go back early for jet lag
+* laundry
+* food plann
+* meetings in office and with friends
+
 -- fuxi or update ...: 
 when I feel stressed about Genepai progress, I can feel relieved that the two full-time young devs didn't find a better solution than mine.
 
