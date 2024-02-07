@@ -1,14 +1,3 @@
--- use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
-Better than two overlapp tags .. proliferation
-
-Need some explanation bpost .. perhaps one of the t_selfTalk bposts.
-
--- update bpost on health screening
-wife's cholesterol total > 200 but fine
-VitD .. can raise above 50
-insomnia .. muscle relaxant (not addictive); melatonin .. safe
-package .. can do mammogram in polyclinic
-
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
 Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of slow progress, provided
 * not stuck completely
@@ -17,6 +6,13 @@ Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of sl
 Kinda good for older developers.
 
 In contrast, these managers are more sensitive, less tolerant about 1) quality of work [Prod issues,,,] 2) compliance
+
+-- update bpost on C
+I often feel proud to say C was my first language.
+Similarly, I feel proud to self-identify as a math graduate.
+
+These domains are evergreen in terms of relevance and skill demand. 
+Somehow my career[and learning] gravitates towards these /magnets/.
 
 -- fuxi or update pff complexities 
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
@@ -33,6 +29,15 @@ After 5Y (say 2030) can withdraw as 2030 income but my tax bracket in 2030 would
 
 Before 2030, During the 5Y lock-in, withdrawal penalty is 5%. 
 
+-- update bpost on buyback ^ div
+Div is funded by profit. Buyback can be funded by debt
+
+Div can cause an immediate price drop. In contrast, buyback has a long-term effect of boosting share price.
+
+Buyback cuts shares outstanding, and usually increase per-share measures of profitability like earnings-per-share (EPS),  and improve performance measures like ROE.
+
+You're not required to sell your shares when a buyback is initiated. If you keep your stocks, your percentage of ownership in the issuing company will increase as other investors sell theirs.
+
 -- update bpost on buy-without
 many purchases were bought-without-OTh but the rmSelf would inevitably become critical and we will remember the purchase as a guilt and failure.
 Out of sight, out of mind... I would feel less guilt if I get rid of the physical objects.
@@ -40,6 +45,18 @@ Out of sight, out of mind... I would feel less guilt if I get rid of the physica
 xiaomi webcam
 extra laptop .. now I feel a _burden_ to use it once a while to avoid disuse->oxidation
 badminton net .. luckily, I didn't make the buying decision
+
+
+-- use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
+Better than two overlapp tags .. proliferation
+
+Need some explanation bpost .. perhaps one of the t_selfTalk bposts.
+
+-- update bpost on health screening
+wife's cholesterol total > 200 but fine
+VitD .. can raise above 50
+insomnia .. muscle relaxant (not addictive); melatonin .. safe
+package .. can do mammogram in polyclinic
 
 -- update bpost on longevity https://btv-open.dreamhosters.com/wp-admin/post.php?post=48298&action=edit
 In Dec 2023 I started to worry about quality_of_life in my mom's twilight years, either in a Beijing nursing home, or a Singapore nursing home, or living with my wife (while I'm away in the U.S.), against the backdrop of her declining health.
@@ -55,15 +72,6 @@ Before I can plan ahead, I have to give up on unrealistic expectations.
 How about my ADL insurance? I now feel somewhat more vindicated. 
 
 The more children and grandchildren I have, the more resources I have available in my old age.
-
--- update bpost on buyback ^ div
-Div is funded by profit. Buyback can be funded by debt
-
-Div can cause an immediate price drop. In contrast, buyback has a long-term effect of boosting share price.
-
-Buyback cuts shares outstanding, and usually increase per-share measures of profitability like earnings-per-share (EPS),  and improve performance measures like ROE.
-
-You're not required to sell your shares when a buyback is initiated. If you keep your stocks, your percentage of ownership in the issuing company will increase as other investors sell theirs.
 
 -- new: livelihood shield won't fend off these"pains"
 When we Struggle against or Cope with multiple /issues/, we often envy the affluent. We imagine their lives are less stressful, less frustrating, less burdened. Actually, "carefree bubble" depends on many factors such as number of dependents, amount of belongings (baggage), support network (citizenship?). However, this bpost is focused on the factor of livelihood (affluence). 
