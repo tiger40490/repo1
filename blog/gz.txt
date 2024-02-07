@@ -16,8 +16,6 @@ The deliverable is a dream. If you show effort and make *some* progress, then th
 
 Other AI projects in EqTech rarely have any full-time devs. 
 
-Assessor won't look at how much code I wrote/rewrote. Too hard to assess the quantity or quality. Any refactor/clean-up/bugfix is invisible on the surface but take lots of time.
-
 -- fuxi
 Every challenge in Genepai is my problem, but the 2 of them are supposed to help out, so it's fine to delegate to them, while I design high-level things and take on modules that are hard to delegate.
 
