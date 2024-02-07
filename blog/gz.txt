@@ -11,13 +11,10 @@ Other AI projects in EqTech rarely have any full-time devs.
 
 Assessor won't look at how much code I wrote/rewrote. Too hard to assess the quantity or quality. Any refactor/clean-up/bugfix is invisible on the surface but take lots of time.
 
-
--- update bpost on Anurag ^ miles ...
-My FullerWealth is growing by the month. (Burn rate holds despite inflation.) Still that is not enough to /relieve/ aging-related work pressure.
-I think I need to look to older colleagues including WStC to find the relief. 
-
+-- update bpost on Anurag ^ miles ... or bpost on younger stronger devs
 I want to remain relevant to the digital economy.
-I want to stay as SWE. The FullerWealth doesn't help.
+I want to stay as SWE. My FullerWealth is growing by the month, despite inflation. Still that is not enough to /relieve/ aging-related work pressure.
+I think I need to look to older colleagues including WStC to find the relief. 
 
 Compare Anurag vs Mos .. Even if you are old and somewhat slower, the company would keep you, but you may NOT want to rise to manager level like Kevin Doherty or G.Petras
 
