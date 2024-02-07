@@ -16,16 +16,11 @@ Somehow my career[and learning] gravitates towards these /magnets/.
 
 -- fuxi or update pff complexities 
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
-
--- update bpost on inflation xp in sg
-An easy mistake is to count the recent lunch bills . With a handful of recent experiences of the last year, you get a very "confident" and concrete estimate of the "typical" cost as of this year. 
-
-However, you would very easily forget to control some important factors such as the venue and number of dishes. 
-Need to use the same coffee shop food, or the same food court food, or the same Chinatown food. 
+Rarely you get free advisory service (remember FSM and Phillip) but often during the sale process only.
 
 --update SRS account in DBS/posb
 $15,300/Y max deposit into this account as tax exempt income. Tax saving of more than $2.7k/Y 
-After 5Y (say 2030) can withdraw as 2030 income but my tax bracket in 2030 would be the lowest, because first 40k in 2030 is not taxed in Singapore.
+After 5Y (say 2030) can withdraw as 2030 income, but my tax bracket in 2030 would be the lowest, because first 40k in 2030 is not taxed in Singapore.
 
 Before 2030, During the 5Y lock-in, withdrawal penalty is 5%. 
 
@@ -39,18 +34,17 @@ Buyback cuts shares outstanding, and usually increase per-share measures of prof
 You're not required to sell your shares when a buyback is initiated. If you keep your stocks, your percentage of ownership in the issuing company will increase as other investors sell theirs.
 
 -- update bpost on buy-without
-many purchases were bought-without-OTh but the rmSelf would inevitably become critical and we will remember the purchase as a guilt and failure.
+many purchases were bought-without-OTh but the rmSelf would inevitably become critical, and with guilt we will remember the purchase as a failure.
 Out of sight, out of mind... I would feel less guilt if I get rid of the physical objects.
 
 xiaomi webcam
 extra laptop .. now I feel a _burden_ to use it once a while to avoid disuse->oxidation
 badminton net .. luckily, I didn't make the buying decision
 
-
 -- use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
 Better than two overlapp tags .. proliferation
 
-Need some explanation bpost .. perhaps one of the t_selfTalk bposts.
+Need an explanation bpost .. perhaps use one of the t_selfTalk bposts.
 
 -- update bpost on health screening
 wife's cholesterol total > 200 but fine
@@ -96,11 +90,10 @@ How about during the retirement phase?
 * I may be more dependent on others
 
 -- update bpost on long service award
-J4 using 3 laptops concurrently at home
-* keep every laptop actively maintained and monitored, so they don't come out of "warehouse" damaged by disuse
-* build some "mileage" with L399
+J4 using 3 laptops concurrently at home: 
+keep every laptop actively maintained and monitored, so they don't come out of "warehouse" damaged by disuse
 get used to no-touchscreen. 
-get a concrete feel of how fast a 2023 (entry-level) laptop can be.
+get a concrete feel of how fast a 2023 entry-level laptop can be.
 try out Win11 in various usage scenarios
 
 -- new: Q: did Americans discriminate against%%Eng
