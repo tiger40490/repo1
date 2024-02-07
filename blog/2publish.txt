@@ -9,6 +9,15 @@ VitD .. can raise above 50
 insomnia .. muscle relaxant (not addictive); melatonin .. safe
 package .. can do mammogram in polyclinic
 
+-- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
+Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of slow progress, provided
+* not stuck completely
+* not visibly slower than coworkers
+
+Kinda good for older developers.
+
+In contrast, these managers are more sensitive, less tolerant about 1) quality of work [Prod issues,,,] 2) compliance
+
 -- fuxi or update pff complexities 
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
 

@@ -5,21 +5,12 @@ when I feel stressed about Genepai progress, I can feel relieved that the two fu
 Apparently, there's no yardstick to guage progress.
 However, Genepai made enough progress (albeit small) to /earn/ multiple business trips between Sgp and NYC.
 
-
 The deliverable is a dream. If you show effort and make *some* progress, then they would probably reward you for trying.
 
 Other AI projects in EqTech rarely have any full-time devs. 
 
 Assessor won't look at how much code I wrote/rewrote. Too hard to assess the quantity or quality. Any refactor/clean-up/bugfix is invisible on the surface but take lots of time.
 
--- fuxi or update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
-Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of slow progress, provided
-* not stuck completely
-* not visibly slower than coworkers
-
-Kinda good for older developers.
-
-In contrast, the are more sensitive, less tolerant about 1) quality of work [Prod issues,,,] 2) compliance
 
 -- update bpost on Anurag ^ miles ...
 My FullerWealth is growing by the month. (Burn rate holds despite inflation.) Still that is not enough to /relieve/ aging-related work pressure.
