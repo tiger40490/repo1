@@ -18,3 +18,4 @@ You can subtract itr1 from itr2. The result is a difference_type. See https://ww
 --fuxi: sys call is not always hardware related. my linux book has a section on sys calls related to signals!
 -- fuxi: set in python
 One advantage of set over dict or list -- set-comprehension to create a hashset
+-- "fuxi x 2" means Dram refreshed twice

@@ -317,3 +317,4 @@ My hours in office are scarce :
 * localSys explore -- for long term productivity etc
 * frequent breaks
 * phone call to BJ
+-- "fuxi x 2" means Dram refreshed twice

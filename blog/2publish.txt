@@ -120,3 +120,4 @@ This rotation scheme may not prolong service life, but can reduce heat in my hom
 I find PLN more reliable than wifi, as reliable as ethernet. If that's true, then for some homes PLN is a superior solution in terms of complexity, wiring,,,, See https://tedium.co/2020/06/02/powerline-networking-history/
 
 Whenever I need uninterrupted connectivity for telecommute, I avoid home wifi (including mesh)... too unstable. If I can't run a long cable across rooms, then PLN is my default choice.
+-- "fuxi x 2" means Dram refreshed twice

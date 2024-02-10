@@ -613,3 +613,4 @@ JC has more suitable jobs than SG has including start-up.
 Singapore non-finance companies simply can't afford because the main street dev salary is much lower than U.S.
 
 The wall st salary level is largely influenced by west coast and also main street dev salary. No such influence in SG
+-- "fuxi x 2" means Dram refreshed twice

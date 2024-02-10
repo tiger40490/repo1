@@ -46,3 +46,4 @@ Without wireless@sgx I feel so inconvenient, but it's important not to become de
 
 -- fuxi
 CTRL + Shift +Esc to start taskmgr
+-- "fuxi x 2" means Dram refreshed twice
