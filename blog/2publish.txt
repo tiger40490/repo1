@@ -1,3 +1,6 @@
+-- update bpost on sys1/sys2 overload
+* charging cables .. If you need to charge devices, do it early on the flight, and pack them up hours before landing, to reduce sys1 load.
+
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
 Unlike GS/Barc/Macq, I think citi-muni, mvea and epa managers are tolerant of slow progress, provided
 * not stuck completely
