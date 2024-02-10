@@ -1,3 +1,8 @@
+-- fuxi
+the growing book/magazine/newspaper pile presented a /baggage/, an obligation.. 
+
+luckily, my collection are mostly free. I think this is the most effective solution to this persistent concern. 
+I want to tell myself to be less possessive, to travel light, to let go more readily
 
 --fuxi: excessive blogg@@
 part of my current comfortable ezlife is plenty of spare time for blogging. Satisfying, rewarding, but at the cost of tech xx pace, parenting, localSys
@@ -262,11 +267,11 @@ now i can no longer afford to put 120% of my time into mlp (gtd, localSys...).
 * work from home is ineffective, so if in the mood it is still a good idea to spend overtime in office
 * perhaps reduce workout time
 
---fuxi: Q: if I follow Raymond's model and spend a lot of time with boy, then where would that time come from?
+--fuxi: Q: if I follow Raymond's model and spend a lot of time with meimei, then where would that time come from?
 reduce blogging?
 reduce outing?
 
-Q: which past job would let me spend more time with boy? for a few months, not for years
+Q: which past job would let me spend more time with kids? for a few months, not for years
 OC is best
 RTS boss was pushy, heartless and not considerate
 
@@ -285,9 +290,7 @@ Overall, time spent coaching boy on his math has better roti than
 * licai including huge t-spend on expense tracking, bx, and varioius account monitoring/analysis as a blackhole -- if I dig deeper I always find something I didn't know.
 * micro-optimization on gadgets ...
 
---9 Nov I witnessed boy could read a Chinese story JiangXiaoYa fluently
-
---fuxi: seems very hard to "work" at home while managing boy's math drill. Problem is context switching tcost
+--fuxi Feb24: seems very hard to "work" at home while managing boy's math drill. Problem is context switching tcost
 Not ready to give up yet.
 
 Bigger problem is losing my cool
@@ -297,10 +300,6 @@ How about workout as a burn?
 How about english blogging?
 How about tech blog review/update?
 ... somehow I tend to demonize all of the above !
-
-Coding drill is not strategic either ! Workout is more strategic
-
-I can record the time usage over a few evenings and ask "how could we improve? What's a better profile?"
 
 --nothing new. integrate with t_focus@GTD and the 'timeMgmt' category in open blog
 Yoga eats into work and family time..requires a lot of time including commute, preparation, arriving in advance and trying to read/blog there, (or kicked out) 
