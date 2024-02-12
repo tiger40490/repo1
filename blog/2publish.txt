@@ -1,4 +1,11 @@
 -- update bpost on sys1/sys2 overload
+On a flight, "Less forgettable" items can still be forgotten and misplaced, due to sys1 limitations.
+* passport
+* laptop
+* laptop cover
+* bottle
+
+-- update bpost on sys1/sys2 overload
 * charging cables .. If you need to charge devices, do it early on the flight, and pack them up hours before landing, to reduce sys1 load.
 
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=22483&action=edit
