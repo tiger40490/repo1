@@ -1,3 +1,6 @@
+-- fuxi: if MSEdge horizontal scrollbar missing
+The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
+
 -- fuxi: in gmail, the 5 tabs are all part of "inbox". 
 "skip inbox" will make the new message go straight to archive.
 
