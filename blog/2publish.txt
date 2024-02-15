@@ -1,3 +1,9 @@
+-- perm marker on pill box .. test on the bottom first
+
+-- 5/wk Fr 9 to Thu 15: no crediting please. 1D debit perhaps)
+
+-- check DBS to get tBill update
+
 -- update bpost on sys1/sys2 overload
 On a flight, "Less forgettable" items can still be forgotten and misplaced, due to sys1 limitations.
 * passport
