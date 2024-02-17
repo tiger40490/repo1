@@ -1,10 +1,13 @@
 
--- update bpost on Anurag ^ miles ... or bpost on younger stronger devs
+-- update private bpost on Anurag ^ miles ... or bpost on younger stronger devs
+Replace "Anurag" with Anrag
 I want to remain relevant to the digital economy.
 I want to stay as SWE. My FullerWealth is growing by the month, despite inflation. Still that is not enough to /relieve/ aging-related work pressure.
 I think I need to look to older colleagues including WStC to find the relief. 
 
 Compare Anurag vs Mos .. Even if you are old and somewhat slower, the company would keep you, but you may NOT want to rise to manager level like Kev.Doherty or G.Petras
+
+grandma's wisdom: avoid Production issues (Mos) or disrespect for authority (Mit); boss can tolerate slower old-timers.
 
 -- fuxi or update ...: 
 when I feel stressed about Genepai progress, I can feel relieved that the two full-time young devs didn't find a better solution than mine.
@@ -16,7 +19,6 @@ The deliverable is a dream. If you show effort and make *some* progress, then th
 
 Other AI projects in EqTech rarely have any full-time devs. 
 
--- fuxi
 Every challenge in Genepai is my problem, but the 2 of them are supposed to help out, so it's fine to delegate to them, while I design high-level things and take on modules that are hard to delegate.
 
 If one of them becomes better than me and more productive than me, that can be a good thing. Manager should not penalize me.
