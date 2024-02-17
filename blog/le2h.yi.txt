@@ -1,7 +1,11 @@
 I feel good about my food choices this time... not oily, not too much starch. (I sampled all the dishes we ordered.) 
 Steamed fish was my familiar favorite. I finished the best part of the fish without wasting food.
 
-I see your two boys kept you busy the whole time. Luckily, I don't mind their participantion/interruptions. I would not have gotten to know their personalities if they had kept quiet.
-You emphasized their differences, but I see they are both slim, healthy, playful, cheerful, sociable and esp. comfortable with strangers.
+I see that your two boys kept you busy the whole time. Luckily, I don't mind their interruptions. I would not have gotten to know their personalities if they had kept quiet.
+You highlighted their differences, but I see they are both slim, playful, cheerful, and esp. comfortable with strangers.
 
 I'm no AI expert, even though my team (primarily two individuals) won a ChatGPT hackathon championship. I have been working with an internal AI Swat team and I feel those 20-something developers are more tuned-in with AI industry developments.
+
+Recently I asked some 3D-printing practitioner "What careers would benefit if my son were to learn 3D-printing". I knew this technology has improved for decades. To my surprise, his answer seemed to imply there's no industrial-scale usage of this technology --- a prototyping tool. I said this technology seems to be early stage, and attracts mostly hobbists. He nodded.
+
+AI-powered code-generation might be more "mature" than 3D-printing but not mature for industrial usage. 
