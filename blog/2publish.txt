@@ -1,11 +1,3 @@
-
--- update: 31Mar park RBBT fund
-If too much cash to be moved into low-yield parking on 31Mar, then better use it pay off RBBT.
-
-Need a default parking place with liquidity
-* SSB?
-* Fullerton mufu
-
 -- update bpost on sys1/sys2 overload
 On a flight, "Less forgettable" items can still be forgotten and misplaced, due to sys1 limitations.
 * passport
