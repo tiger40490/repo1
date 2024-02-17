@@ -1,4 +1,4 @@
--- new: how to handle USD notes carried into SGP
+-- new: Manage USD notes carried into SGP
 Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. Not so relevant when I have surplus SGD in the foreseeable future.
 To use it, you must pick a date decisively, and subsequently refuse to give in to retrospective regret.
 
@@ -13,16 +13,16 @@ Hsbc Premier 0.75%
 BOC 1%
 DBS, OCBC, SCB .. even worse
 
--- update bpost
-USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
-To receive a new cheque book, request online and pay $15
-These are truly negligible costs in this era.
-
 -- new: physical USD out of China
 Exit from China custom... USD 5k/passenger.. including children.
 PVG security officer found my cash pouch and sent that item through the scanner all by itself! 
 Officer made no noise, presumably because she was looking for anything dangerous.
 I think officer is "permitted" to close one eye.
+
+-- update bpost
+USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
+To receive a new cheque book, request online and pay $15
+These are truly negligible costs in this era.
 
 -- new: 31Mar park RBBT fund
 If too much cash to be moved into low-yield parking on 31Mar, then better use it pay off RBBT.
