@@ -8,11 +8,11 @@ Sugg: calendar reminders. MyCarePlus every Feb
 Over the long horizon... As I grow older, Giro failures would be a burdensome low complexity. Giro failures are usually recoverable. Payee institutions are usually lenient/flexible. Reason -- Among their thousands of paying customers, some percentage would hit Giro failures. 
 
 -- new: Manage USD notes carried into SGP
-Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. Not so relevant when I have surplus SGD in the foreseeable future.
-To use it, you must pick a date decisively, and subsequently refuse to give in to retrospective regret.
+Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. (Not so relevant when I have surplus SGD in the foreseeable future.)
+To use it, you must pick a date decisively, and subsequently refuse to give in to regret.
 
 Note every "3M parking in locker" leads to 1% lost interest (opp cost)
-Also, you need a safe storage at home .. for those few months .
+Also, you need a safe storage at home .. during those few months .
 
 Default plan -- deposit and pay 0.5% handling fee. You can "recover" within 1.5 month, thanks to the current high-interest.
 
@@ -20,7 +20,9 @@ Citi 0.5% (min USD 10) but only one branch
 .. CitiGold (250k) -- 0.25% only.
 Hsbc Premier 0.75%
 BOC 1%
-DBS, OCBC, SCB .. even worse
+DBS, OCBC .. even worse
+
+https://www.sc.com/sg/save/current-accounts/usd-high-account/ ???
 
 -- new: physical USD out of China
 Exit from China custom... USD 5k/passenger.. including children :)
