@@ -1,9 +1,11 @@
--- new or fuxi: prevent Giro failures
-Background: Nowadays I keep low balance [1k+] in #108, insufficient for some Giro amounts [3k+ for ADL insurance].
+-- new: Giro failure prevention
+Background: Since early 2020s I have kept a low balance [1k+] in #108, insufficient for some Giro amounts [3k+ for ADL insurance].
 
-After a Giro failure, the stress and fire-fighting  is something to avoid. 
+After a Giro failure, the stress is something to avoid. 
 
 Sugg: calendar reminders. MyCarePlus every Feb 
+
+Over the long horizon... As I grow older, Giro failures would be a burdensome low complexity. Giro failures are usually recoverable. Payee institutions are usually lenient/flexible. Reason -- Among their thousands of paying customers, some percentage would hit Giro failures. 
 
 -- new: Manage USD notes carried into SGP
 Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. Not so relevant when I have surplus SGD in the foreseeable future.
