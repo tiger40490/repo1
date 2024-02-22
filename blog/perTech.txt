@@ -1,3 +1,10 @@
+-- update bpost on new laptop
+~~ req for wife's laptop
+* easier repair, perhaps the L360 shop
+* extended warranty
+* weight
+* battery .. not important
+
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
 
