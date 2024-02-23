@@ -7,6 +7,9 @@ Sugg: calendar reminders. MyCarePlus every Feb
 
 Over the long horizon... As I grow older, Giro failures would be a burdensome low complexity. Giro failures are usually recoverable. Payee institutions are usually lenient/flexible. Reason -- Among their thousands of paying customers, some percentage would hit Giro failures. 
 
+-- new: UnionPay to buy bx ]SG
+SCB confirme: payable by SG-based visa/master, not overseas visa/master, and not UnionPay
+
 -- new: Manage USD notes carried into SGP
 Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. (Not so relevant when I have surplus SGD in the foreseeable future.)
 To use it, you must pick a date decisively, and subsequently refuse to give in to regret.
@@ -22,7 +25,7 @@ Hsbc Premier 0.75%
 BOC 1%
 DBS, OCBC .. even worse
 
-https://www.sc.com/sg/save/current-accounts/usd-high-account/ ???
+https://www.sc.com/sg/save/current-accounts/usd-high-account/ (priority clients) .. 1.5% waived :)
 
 -- new: physical USD out of China
 Exit from China custom... USD 5k/passenger.. including children :)
