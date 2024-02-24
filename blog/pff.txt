@@ -1,11 +1,11 @@
 -- new: Giro failure prevention
-Background: Since early 2020s I have kept a low balance [1k+] in #108, insufficient for some Giro amounts [3k+ for ADL insurance].
+Background: Since early 2020s I have kept a low balance [1k+] in #108 .. actually insufficient for some oversized Giro deductions [3k+ for ADL insurance].
 
-After a Giro failure, the stress is something to avoid. 
+The stres after a Giro failure ... is something to pre-empt. Hard deadline. Hard interruption to whatever I was focused on. 
 
 Sugg: calendar reminders. MyCarePlus every Feb 
 
-Over the long horizon... As I grow older, Giro failures would be a burdensome low complexity. Giro failures are usually recoverable. Payee institutions are usually lenient/flexible. Reason -- Among their thousands of paying customers, some percentage would hit Giro failures. 
+Over the long horizon... As I grow older, Giro failures would be a low but burdensome complexity. Giro failures are usually recoverable since Payee institutions are usually lenient/flexible. Reason -- Among their thousands of paying customers, there will always be some percentage hitting Giro failures.
 
 -- new: UnionPay to buy bx ]SG
 SCB confirme: payable by SG-based visa/master, not overseas visa/master, and not UnionPay
