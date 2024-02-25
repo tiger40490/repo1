@@ -1,4 +1,3 @@
-
 -- update post on array^ptr
 a ptr Object can be reseated to point to an array.
 An arrayName (is not an object) can't be reseated. It's a compile-time constant.
@@ -16,7 +15,7 @@ In java, for years before 2007, I was able to GTD without knowing a lot. 照猫�
 In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
 In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
 
--- new or update: java: big lambdaEx^methodRef
+-- new or fuxi: java: big lambdaEx^methodRef
 I think a big lambdaEx (lambda expression) is usually [1] used as an argument to a method. 
 
 Q: can we convert the big lambdaEx to a method reference?
@@ -42,8 +41,6 @@ The problem with a pointer field (in wrapper struct) is ... a can of worm. Whoev
 The iterator solution is more advanced, can be viable iFF the iterator is guaranteed stable. That depends on the iterator invalidation rules. (See https://btv-gz.dreamhosters.com/wp-admin/post.php?post=15251&action=edit ) I think the advantage is itr-based insertion into the host container.
 
 -- new: basis_risk
-Alex Tee of Stirt felt basis_risk is a basic common knowledge
-
 P53 [[fundamentals of Fut and Opt markets ]]
 
 -- update blogpost on fwd^fut https://btv-gz.dreamhosters.com/wp-admin/post.php?post=41694&action=edit

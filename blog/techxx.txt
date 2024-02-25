@@ -1,3 +1,14 @@
+-- new: py package dependency mgmt
+to reveal all precedents and dependencies of an high-level pip package 
+
+pip show langchain
+
+If you have some unknown number of dependencies removed, then you can fix it with this 3-word command:
+
+pip install langchain
+
+(langchain package has a requirements.txt.) The command will check requirementstxt, detect any dependency that's already satisfied and skip them.
+
 -- update 
 clean price is quoted price. Quoted price should not change every day due to acrued interest. That change is a noise that traders don't want to see.
 
@@ -17,17 +28,3 @@ In python dict initilization, you may want to specify the keys in a consistent o
 AWS S3/SQS
 MQTT
 snowflake
-
--- new or fuxi: misstep: accidental amend of last pushed commit
-frequent mistake:
-
-1) I commit a file on branch3, and git-push
-2) I revise recent changes and git-amend. This is a misstep, as the new branch3 and origin/branch3 have diverged. 
-3) error when I git-push
-
-Simple solution: 
-1) back up affected files
-2) git reset origin/branch3 #without --hard
-3) git commit # creates a new commit on top of the origin/branch3 tip
-4) git push
-
