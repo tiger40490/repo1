@@ -2,13 +2,7 @@
 Ask CPF ... money lock
 Ask SCB ... money lock for large withdrawals?
 
-Poems .. kinda more secure than banks as withdrawal recipient account name must be my name?
-
-
--- update bpost on pay4stress relief
-[c=lifestyle creep]
-tuition, battery, 
-
+Poems .. kinda more secure than banks as withdrawal recipient account name must be my name. 2FA is possible but I opted out. See [Feb 8, 2024, 11:49 AM] email.
 -- fuxi:
 ( Let's remove it from my bpost on SG ccards )
 How do I feel about terminating the Citi SMRT card? 
