@@ -1,3 +1,8 @@
+-- new: 100k cpfSA top-up
+j4: yield
+J4: lock down free cash against 
+limitation -- very poor liquidity
+
 -- new: No way2fully protect your$$against hacker@@
 Protection -- money-lock i.e. disable remote access. 99.9% of hackers can't impersonate you physically at a branch.
 
