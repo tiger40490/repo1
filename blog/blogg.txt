@@ -1,4 +1,4 @@
-
+-- rename category 'theft' to 'hacked'
 -- new: promote /disposable/ blogging
 tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.
 tcost: creating brand new bpost... obligation to choose category/tags and draft good title
