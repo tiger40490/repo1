@@ -1,3 +1,9 @@
+-- new: snap
+I like this informal variation of "snapshot". It's short and versatile
+
+snapping -- technical term for the process of creating a snap
+a snap -- a single snapshot
+
 -- live-hazard .. not a common phrase according to google
 
 -- new: seems likely ... tentative
