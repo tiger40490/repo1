@@ -1,3 +1,6 @@
+-- update bpost of pay4stress relief
+don't care about promotion benefits if it has a (stressful) deadline.
+
 -- new: 100k cpfSA top-up
 j4: yield
 J4: lock down free cash against 
