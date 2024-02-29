@@ -2,12 +2,12 @@
 don't care about seasonal promotion features if it has a (stressful) deadline.
 
 -- protect your phone against hackers
-pattern lock ... easy to see the pattern
+pattern lock ... easy to make out the pattern trace
 
 -- new: 100k cpfSA top-up
 j4: yield
 J4: lock down free cash against missteps or hackers
-limitation -- very poor liquidity. Do this after pay off debt
+limitation -- very poor liquidity. Consider top-up only after debt payoff
 
 -- fuxi or ... protect your phone against hackers
 pattern lock ... easy to see the pattern
@@ -27,6 +27,7 @@ My conclusion as of 2024 -- Admittedly, a determined brute-force hacker can use 
 SCB confirme: all wealth products are payable by SG-based visa/master, not overseas visa/master, and not UnionPay
 HSBC : no credit card at all
 CIMB: no unionpay
+BOC: no
 
 -- new: Manage USD notes carried into SGP
 Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. (Not so relevant when I have surplus SGD in the foreseeable future.)
