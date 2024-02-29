@@ -1,13 +1,16 @@
 -- update bpost of pay4stress relief
-don't care about promotion benefits if it has a (stressful) deadline.
+don't care about seasonal promotion features if it has a (stressful) deadline.
 
 -- protect your phone against hackers
 pattern lock ... easy to see the pattern
 
 -- new: 100k cpfSA top-up
 j4: yield
-J4: lock down free cash against 
-limitation -- very poor liquidity
+J4: lock down free cash against missteps or hackers
+limitation -- very poor liquidity. Do this after pay off debt
+
+-- fuxi or ... protect your phone against hackers
+pattern lock ... easy to see the pattern
 
 -- new: No way2fully protect your$$against hacker@@
 Protection -- money-lock i.e. disable remote access. 99.9% of hackers can't impersonate you physically at a branch.
