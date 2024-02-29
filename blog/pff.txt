@@ -1,9 +1,6 @@
 -- update bpost of pay4stress relief
 don't care about seasonal promotion features if it has a (stressful) deadline.
 
--- protect your phone against hackers
-pattern lock ... easy to make out the pattern trace
-
 -- new: 100k cpfSA top-up
 j4: yield
 J4: lock down free cash against missteps or hackers
