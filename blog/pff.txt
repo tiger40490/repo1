@@ -1,10 +1,25 @@
+-- update ...
+after 55, cpf dashboard will show your total cpfRA topUp per year.
+Supposed they add up to 99k , then this portion (red portion) of your cpfRA balance is locked up. 
+Remainder (green portion) of cpfRA is withdrawable.
+Entire cpfRA balance grows at 4%
+
+If you want to maximize cpfLife, then
+1) top up cpfRA to the max (4x BRS) at 55
+2) don't withdraw. Let it grow at 4%. Your max cpfRA balance will grow faster than the ERS_index grows.
+
 -- update bpost of pay4stress relief
 don't care about seasonal promotion features if it has a (stressful) deadline.
 
--- new: 100k cpfSA top-up
+-- new: 30k cpfSA top-up
 j4: yield
 J4: lock down free cash against missteps or hackers
 limitation -- very poor liquidity. Consider top-up only after debt payoff
+
+Suppose I want to top up 8k in 2024 to enjoy tax benefit:
+wife's 2023 (pervious year) income must be < 8k including dividend, interest etc
+
+Much better to do a housingRefund then OA->SA. This way, the 30k is withdrawable after 55.
 
 -- fuxi or ... protect your phone against hackers
 pattern lock ... easy to see the pattern
