@@ -1,3 +1,6 @@
+-- udpate or fuxi
+start HRBlock process as early as possible.
+
 -- update ...
 after 55, cpf dashboard will show your "cpfRA topUp per year" including OA->RA transfers
 Supposed they add up to 99k over 9Y, then this portion (red portion) of your cpfRA balance is implicitly locked up. 
