@@ -7,7 +7,7 @@ limitation -- very poor liquidity. Only Consider top-up after (not before) RBBT 
 Suppose I want to top up 8k in 2024 to enjoy tax benefit:
 wife's 2023 (pervious year) income must be < 8k including dividend, interest etc
 
-Much better to do a housingRefund then OA->SA. This way, the 30k is withdrawable after 55.
+Much better to do a housingRefund then OA->SA. (do it by 29 Mar) This way, the 30k is withdrawable after 55.
 
 -- fuxi or ... protect your phone against hackers
 pattern lock ... easy to see the pattern
