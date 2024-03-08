@@ -1,8 +1,5 @@
--- update weekly log
-IRAS numbers verified
-
 -- udpate or fuxi
-start HRBlock process as early as possible. Every week counts
+start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
 
 -- new: Manage USD notes carried into SGP
 Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. (Not so relevant when I have surplus SGD in the foreseeable future.)
@@ -21,16 +18,12 @@ DBS, OCBC .. even worse
 
 https://www.sc.com/sg/save/current-accounts/usd-high-account/ (priority clients) .. 1.5% waived :)
 
--- update bpost
-USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
-To receive a new cheque book, request online and pay $15
-These are truly negligible costs in this era.
-
 -- update old-age BBB/RRR complexity
 Ranking in terms of complexity and tcost of ownership: 
 RBBT ownership has better stress-cost thanks to the pre-payment option.
-FLI2 and other bx products.. obligation to pay premium on time
-promotional DIR like 3.7 ppa .. obligation to recon interest calc
+FLI2 and other bx products.. obligation to pay premium on time, but you are free to pay earlier or slightly later.
+promotional DIR like 3.7 ppa .. obligation to recon interest calc.
+HSBC 3.6 ppa .. many conditions. Many headaches if I want to avoid losing the interest
 tBill ownership cost is even lower.
 
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/

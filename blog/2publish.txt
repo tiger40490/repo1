@@ -18,6 +18,11 @@ limitation -- very poor liquidity. Only Consider top-up after (not before) RBBT 
 Suppose I want to top up 8k in 2024 to enjoy tax benefit:
 wife's 2023 (pervious year) income must be < 8k including dividend, interest etc
 
+-- update bpost on citi.sg
+USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
+To receive a new cheque book, request online and pay $15
+These are truly negligible costs in this era.
+
 -- new: No way2fully protect your$$against hacker@@
 Protection -- money-lock i.e. disable remote access. 99.99% of hackers can't impersonate you physically at a branch.
 
@@ -52,6 +57,13 @@ On a flight, "Less forgettable" items can still be forgotten and misplaced, due 
 I can relax and accept the possibility of losing travel pillow, yoga block
 
 charging cables .. If you need to charge devices, do it early on the flight, and pack them up hours before landing, to reduce sys1 load.
+
+-- update bpost on deep work
+Learning something "strategic" is real work.
+eg: Learning for a meaningful school exam is strategic -- NUS? MSFM?
+eg: Coding drill is strategic and deep work.
+
+Some learning can be less "real". Same can be said of various paid projects. In the DeepWork context, I won't use an elaborate criteria for "real" work.
 
 -- update bpost on C
 I often feel proud to say C was my first language.
