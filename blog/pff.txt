@@ -1,37 +1,8 @@
-
--- new: 30k cpfSA top-up
-j4: yield
-J4: lock down free cash against missteps or hackers
-limitation -- very poor liquidity. Only Consider top-up after (not before) RBBT debt payoff
-
-Suppose I want to top up 8k in 2024 to enjoy tax benefit:
-wife's 2023 (pervious year) income must be < 8k including dividend, interest etc
-
-Much better to do a housingRefund then OA->SA. (do it by 29 Mar) This way, the 30k is withdrawable after 55.
-
--- fuxi or ... protect your phone against hackers
-pattern lock ... easy to see the pattern
-
--- new: No way2fully protect your$$against hacker@@
-Protection -- money-lock i.e. disable remote access. 99.9% of hackers can't impersonate you physically at a branch.
-
-The widespread myth is that "even if you are 100% with passwords, devices,,, hackers can still break into your bank accounts."
-
-Fact -- SPF has no confirmed case of money lost to brute-force remote hacking.
-
-If brute-force remote hacking is so easy, then what (confirmed) case count is a reasonable number? 
-If car/bicycle locks are so easy to hack by anyone learning from youtube, then what (confirmed) case count is a reasonable number? I would say half the cars would be hacked every year.
-
-My conclusion as of 2024 -- Admittedly, a determined brute-force hacker can use advanced technology to break into any layman's account but it is not worth hacker's effort. You CAN protect your money. Your good habits will deter remote hackers, and make their attempts unpforitable.
+-- update weekly log
+IRAS numbers verified
 
 -- udpate or fuxi
-start HRBlock process as early as possible.
-
--- new: UnionPay to buy bx ]SG
-SCB confirme: all wealth products are payable by SG-based visa/master, not overseas visa/master, and not UnionPay
-HSBC : no credit card at all
-CIMB: no unionpay
-BOC: no
+start HRBlock process as early as possible. Every week counts
 
 -- new: Manage USD notes carried into SGP
 Advantage of physical over electronic USD cash -- competitive FX rate at /ffP/. (Not so relevant when I have surplus SGD in the foreseeable future.)
@@ -49,12 +20,6 @@ BOC 1%
 DBS, OCBC .. even worse
 
 https://www.sc.com/sg/save/current-accounts/usd-high-account/ (priority clients) .. 1.5% waived :)
-
--- new: physical USD out of China
-Exit from China custom... USD 5k/passenger.. including children :)
-PVG security officer found my cash pouch and sent that item through the scanner all by itself! 
-Officer made no noise, presumably because she was looking for anything dangerous.
-I think officer is "permitted" to either count the notes or "close one eye". Closing one eye, even under /CCTV/, is not a negligence.
 
 -- update bpost
 USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
