@@ -53,6 +53,9 @@ eg: Coding drill is strategic and deep work.
 
 Some learning can be less "real". Same can be said of various paid projects. In the DeepWork context, I won't use an elaborate criteria for "real" work.
 
+-- update bpost on miles, ..
+Somehow, MLP likes to retrench old timers !
+
 -- update bpost on C
 I often feel proud to say C was my first language.
 Similarly, I feel proud to self-identify as a math graduate.
