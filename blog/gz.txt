@@ -1,14 +1,14 @@
 
--- new or udpate "fast developers"
-Q: can you imagine a fast doctor (perhaps travelling with an soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
+-- udpate "fast developers"
+Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
 
 Q: can you imagine a restaurant chef very fast with his work, but once a while, produces a dish with salt omitted, causing complaints? If too frequent, then she is disqualified.
 
-In SWE profession, we often say that if there's an well-known error-prone coder, and we constantly worry about him producing buggy code, then we would rather not have him coding. The threshold of "too many missteps" depends on frequency and severity. 
+In SWE profession, if there's a well-known error-prone coder, we often say that we constantly worry about him producing buggy code, so much so that we would rather not have him coding. The threshold of "too many missteps" depends on frequency and severity. 
 
 A key factor is personal reputation. 
 
-I tend to write more documentation than fellow SWE. The act of writing and rewriting detailed docs enhances my awareness of (personal) blindspots, hidden areas, edge cases. Those docs that are written for a wider audience would receive more attention from me the author.  
+I tend to write more documentation than fellow SWE. The act of writing and rewriting detailed docs enhances my awareness of (personal) blindspots, hidden areas, edge cases. Those docs that are written for a wider audience would receive more attention from me the author.
 
 Across a /structured/ codebase, I tend to bend over backward to enforce consistency. Inconsistency is breeding ground for bugs, so this habit can flush out some bugs.
 
