@@ -1,6 +1,3 @@
---fuxi: Some poeple don't need these "features", but I really enjoy my commute + EPA flexible hours ... I can work during quiet times (weekends, evenings) and take hours and hours off during the day.
-
-Pretty rare.
 
 -- update bpost on miles, ..
 Somehow, MLP likes to retrench old timers !
@@ -21,6 +18,10 @@ Across a /structured/ codebase, I tend to bend over backward to enforce consiste
 A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
+
+--fuxi: Some poeple don't need these "features", but I really enjoy my commute + EPA flexible hours ... I can work during quiet times (weekends, evenings) and take hours and hours off during the day.
+
+Pretty rare.
 
 -- fuxi:
 Only when you lose a job, then you come to terms with the relative value of marketable skills. 
