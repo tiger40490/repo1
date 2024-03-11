@@ -1,3 +1,6 @@
+-- new: linux command: count group-by 1stWordEachLine
+uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
+
 -- new: py package dependency mgmt
 to reveal all precedents and dependencies of an high-level pip package 
 
