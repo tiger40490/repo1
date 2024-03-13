@@ -1,11 +1,13 @@
 -- fuxi: grandpa's wisdom
-Ensure you don't make mistakes. If you do your part and struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choices.
+Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choices.
 
-You can bend over backward, learn to accept the higher expectation, higher workload,,, slow boiling
+You can bend over backward, learn to accept the higher expectation, higher workload as Jenny of MS described,,, slow boiling
 
 You can put in a reasonable effort, 尽职尽责, resist the pressure to take on more.
 
 Judgement -- what's reasonable workload, and what's too much.
+
+Jason's view -- no better job out there, so better accept.
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
