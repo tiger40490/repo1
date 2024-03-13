@@ -1,3 +1,9 @@
+-- new: perl s///e
+to evalute int($2) - int($1), you can use
+s/(whatever)...(whatever)/$2-$1/e 
+
+Must not use \2-\1
+
 -- new: linux command: count group-by 1stWordEachLine
 uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
 
