@@ -1,3 +1,19 @@
+-- new: ransomware^dataLeak
+Q: which risk is worse between RR) ransomware and LL) data leak
+%%A: RR is more severe
+
+RR and data loss are comparable -- risk of lost access
+
+Immutable, password-protected offline backups are the best, though they increase the LL risk.
+
+I feel my online blog is better than "local storage" in many ways. I'm nautally careful about sensitive data, so the LL risk is well-understood.
+
+My friend said it is becoming harder and harder for the criminal to hide the money trail. Also the criminals need to host their ransomware on some download sites which may provide audit trail to poiice.
+
+My friend pointed out that for most regular home computers, if data becomes inaccessible, owner just buys a replacement computer and accept the data loss.
+
+If the ransom is small I would pay it and learn a lesson.
+
 -- update bpost on new laptop
 ~~ req for wife's laptop
 * easier repair, perhaps the L360 shop
