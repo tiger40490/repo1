@@ -1,3 +1,8 @@
+-- new: languages with entry barriers to impatient young programmers
+In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
+In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
+In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
+
 -- fuxi: grandpa's wisdom
 Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choices.
 

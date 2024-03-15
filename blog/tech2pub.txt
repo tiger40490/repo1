@@ -10,13 +10,8 @@ How about a jagged 2D-array? Same double-ptr
 
 how about a shared ptr to a 2D-array? I think it's same as shared_ptr to a 1D array, both allocated via array-new. Note this features is unavailable before c++17. If you have initialized a shred_prr with a "malloc" array, the shared_ptr dtor will call delete rather than delete[]. The deallocation is leaky.
 
--- new: languages with entry barriers to impatient young programmers
-In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
-In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
-In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
-
 -- new or fuxi: java: big lambdaEx^methodRef
-I think a big lambdaEx (lambda expression) is usually [1] used as an argument to a method. 
+I think a big lambdaEx (lambda expression) is usually used as an argument to a method. 
 
 Q: can we convert the big lambdaEx to a method reference?
 A: not alwaysl. In Dropcopy framework, I realized that 
@@ -24,17 +19,15 @@ A: not alwaysl. In Dropcopy framework, I realized that
 * many times yes I can and should convert. LambdaEx is designed for small code blocks.
 * however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
 
-[1] There might be other usages, but in this blogpost I can put them aside.
-
 -- new: wrapper struct over container elements
 Sometimes I need to construct a wrapper instance holding some kind of stable reference-to-element-in-container.
 
-Do you want to hold raw pointers to the element?
+Do you want to hold raw pointers to the element? No as elements can be relocated.
 Do you want to hold smart pointer? No!
-Do you want to hold subscript into the container?
-Do you want to hold iterators into the container?
+Do you want to hold subscript into the container? Yes if stable
+Do you want to hold iterators into the container? No.
 
-If subscript is stable, then I think it is the cleanest design. This would be the case for array-like containres that are somehow constrained to avoid deletion/reallocation.
+If subscript is stable, then I think it is the cleanest design. This would be the case for array-like containres that are somehow constrained to avoid deletion/insertion. Basically a stack-like container.
 
 The problem with a pointer field (in wrapper struct) is ... a can of worm. Whoever reading the code would brace themselves because a pointer field often entails ownership, clean-up, customized copy operation, stray pointer, pointer reseat ...
 
@@ -50,11 +43,11 @@ P40 [[fundamentals of Fut and Opt markets ]]
 P170 [[fundamentals of Fut and Opt markets ]]
 
 -- update blogpost on tibrv wrappers
-py, node.js, perl (my first encounter), java, c# ... can somehow operate at a low level such as sockets, shared memory, semaphore, memory fence...
+py, node.js, perl (my first encounter), java, c# ... all can somehow operate at a low level such as sockets, shared memory, semaphore, memory fence...
 However, they rely on the underlying C API, which is either a system library or related to the kernel.
 
-The amount of programmer-control is better in C, as C is a naturally low-level language, designed for "system programming". Those higher languages (including c++ class libraries) use wrappers over C. 
+The amount of programmer-control is better in C, as C is a naturally low-level language, designed for "system programming". Those supestructure languages (including c++ class libraries) use wrappers over C. 
 
-In these cases as in the tibrv wrapper, the mkt val of the C knowledge is higer and more time-honored. The API in C has a very stable evolution.
+In these cases as in the tibrv wrapper, the market value of the C knowledge is higer and more time-honored. The API in C has a very stable evolution.
 
 Most technical discussions over the decades would also focus on the common API in C.
