@@ -4,11 +4,10 @@ In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we n
 In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
 
 -- fuxi: grandpa's wisdom
-Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choices.
+Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
 
 You can bend over backward, learn to accept the higher expectation, higher workload as Jenny of MS described,,, slow boiling
-
-You can put in a reasonable effort, 尽职尽责, resist the pressure to take on more.
+You can put in a reasonable effort, 尽职尽责, resist the pressure to take on more
 
 Judgement -- what's reasonable workload, and what's too much.
 
@@ -17,7 +16,7 @@ Jason's view -- no better job out there, so better accept.
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
 
-Q: can you imagine a restaurant chef very fast with his work, but once a while, produces a dish with salt omitted, causing complaints? If too frequent, then she is disqualified.
+Q: can you imagine a restaurant chef very fast with his work, but once a while, produces a dish with salt omitted, causing complaints? (Note sometimes salt can be added later.) If too frequent, then she is disqualified.
 
 In SWE profession, if there's a well-known error-prone coder, we often say that we constantly worry about him producing buggy code, so much so that we would rather not have him coding. The threshold of "too many missteps" depends on frequency and severity. 
 
@@ -31,9 +30,6 @@ A smaller habit is naming variables, functions and classes. I spend lots of time
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
 
---fuxi: Some poeple don't need these "features", but I really enjoy my commute + EPA flexible hours ... I can work during quiet times (weekends, evenings) and take hours and hours off during the day.
-
-Pretty rare.
 
 -- fuxi:
 Only when you lose a job, then you come to terms with the relative value of marketable skills. 
