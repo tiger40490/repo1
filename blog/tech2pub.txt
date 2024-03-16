@@ -1,6 +1,3 @@
--- update post on array^ptr
-a ptr Object can be reseated to point to an array.
-An arrayName (is not an object) can't be reseated. It's a compile-time constant.
 
 -- update or new: 2D-array ptr type
 If via malloc then we get an int ptr
@@ -8,16 +5,7 @@ If via malloc then we get an int ptr
 if declared as static 2D-array, then we get a ptr-to-int-ptr i.e. double ptr
 How about a jagged 2D-array? Same double-ptr
 
-how about a shared ptr to a 2D-array? I think it's same as shared_ptr to a 1D array, both allocated via array-new. Note this features is unavailable before c++17. If you have initialized a shred_prr with a "malloc" array, the shared_ptr dtor will call delete rather than delete[]. The deallocation is leaky.
-
--- new or fuxi: java: big lambdaEx^methodRef
-I think a big lambdaEx (lambda expression) is usually used as an argument to a method. 
-
-Q: can we convert the big lambdaEx to a method reference?
-A: not alwaysl. In Dropcopy framework, I realized that 
-
-* many times yes I can and should convert. LambdaEx is designed for small code blocks.
-* however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
+how about a shared ptr to a 2D-array? I think it's same as shared_ptr to a 1D array, both allocated via array-new. Note this features is unavailable before c++17. 
 
 -- new: wrapper struct over container elements
 Sometimes I need to construct a wrapper instance holding some kind of stable reference-to-element-in-container.
