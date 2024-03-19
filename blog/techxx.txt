@@ -1,8 +1,17 @@
+-- update hacker rank q:
+check each word and determine whether it can reshuffle to a non-empty palindrome, by adding or removing up to 3 characters.
+
+Eg: "add" -> yes can become ADA without adding/removing
+Eg: "subtract" -> no
+Eg: "divide" -> yes can become IDVDI by removing E
+
 -- new: perl s///e
 to evalute int($2) - int($1), you can use
 s/(whatever)...(whatever)/$2-$1/e 
 
 Must not use \2-\1
+
+to match a run of the same letter /(\w)\1{2}/  # trio
 
 -- new: linux command: count group-by 1stWordEachLine
 uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
