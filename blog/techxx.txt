@@ -1,10 +1,3 @@
--- update hacker rank q:
-check each word and determine whether it can reshuffle to a palindrome, by adding or removing up to 3 characters.
-
-Eg: "add" -> yes can become ADA without adding/removing
-Eg: "subtract" -> no
-Eg: "divide" -> yes can become IDVDI by removing E
-
 -- new: perl s///e
 to evalute int($2) - int($1), you can use
 s/(whatever)...(whatever)/$2-$1/e 
