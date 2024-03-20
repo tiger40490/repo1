@@ -1,5 +1,5 @@
 -- update hacker rank q:
-check each word and determine whether it can reshuffle to a non-empty palindrome, by adding or removing up to 3 characters.
+check each word and determine whether it can reshuffle to a palindrome, by adding or removing up to 3 characters.
 
 Eg: "add" -> yes can become ADA without adding/removing
 Eg: "subtract" -> no
