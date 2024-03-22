@@ -1,3 +1,13 @@
+
+-- fuxi or new: 
+The salary peer-comparison is both background-heat and c-ray [cosmic ray]. It hits us all the time. Some comparisons are comforting/soothing, but mostly the xpSelf notices the disturbing FOLB ones. 
+
+Most of the time we are cool about those peer comparisons, but once a while we do feel affected. 
+
+Therefore, my current salary is not really unimportant. I often say that between two jobs of the same base, I would prefer the contract position because there's no bonus no appraisal. The older I get, the less I am affected by the c-ray, the more I appreciate a /sustainable/ salary
+
+The job title benchmark is related but out of scope.
+
 -- new: languages with entry barriers to impatient young programmers
 In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
 In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
