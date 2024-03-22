@@ -1,3 +1,18 @@
+-- new or update 
+I recall a bitter and regrettable claim experience about 10 years ago. (I describe it here partly to remind myself.) 
+
+* my son had somd Aviva medical insurance. Annual deductible is a standard feature so I didn't pay attention. Actually it was a killer feature.
+
+* my son had some testicle pain and was admitted to KKH for one day (or half a day). As a local citizen, government hospital bill was below $1k
+
+* I sent the bill to Aviva only to find out the bill amount is much lower than the annual deductible.
+
+* worst thing --> Aviva recorded my son's condition and refused to underwrite any medical insurance on him from then on. I went back to KKH about 2 or 3 times to get clarification, even paying for medical reports. KKH said "quickly discharged and no follow-up required." but Aviva refused to accept. It became a life-long stigma, even though my son made a full recovery soon.
+
+Lesson 1 -- insurance companies are faceless organizations. Underwriters are risk averse and will not underwrite any questionable applicant. "If in any doubt, reject". I think this is similar to the hiring process in my and other companies.
+
+Lesson 2 -- Once a person has some questionable scan recorded in "the national system", it can be hard for any doctor in Singapore to examine a new scan and declare "100% fully recovered.. absolutely no risk". Therefore, if a questionable scan doesn't HaveTo be recorded in the national system, then it's wise to avoid it, provided it's not illegal/immoral
+
 -- fuxi 3.62 ppa 3Y TimeD
 20k lockup for 3Y (hackers)
 
