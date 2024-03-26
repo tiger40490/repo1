@@ -1,10 +1,16 @@
+-- 2K SRS balance to buy SSB?
+
 -- update bpost on syfe
-Each TD needs manual toggle disable rollover. After maturity, you need to manually trnasfer the fund to a bank account. After rollover, you lose liquidity.
+Each TD (aka ptf) needs manual toggle to disable rollover. After maturity, you need to manually transfer P+I to your bank account. 
+
+(After rollover, you lose liquidity.)
 
 Hotline is 9-6, but live chat is 24H esp. on APP. On website (without login) -> connect -> ...
 Advisor available for accounts above 50k
 
-for fund transfer, I will use HSBC to help maintain my Premier status
+for fund transfer, I will use HSBC to help maintain my Premier status.
+
+consider another 100k in early Apr
 
 -- new or update 
 I recall a bitter and regrettable claim experience about 10 years ago. (I describe it here partly to remind myself.) 
@@ -21,16 +27,11 @@ Lesson 1 -- insurance companies are faceless organizations. Underwriters are ris
 
 Lesson 2 -- Once a person has some questionable scan recorded in "the national system", it can be hard for any doctor in Singapore to examine a new scan and declare "100% fully recovered.. absolutely no risk". Therefore, if a questionable scan doesn't HaveTo be recorded in the national system, then it's wise to avoid it, provided it's not illegal/immoral
 
--- fuxi 3.62 ppa 3Y TimeD
-20k lockup for 3Y (hackers)
-
 -- AIA bigger plan (for wife) has SGD 30k for CI-early
 
 If we stop paying prem, then AIA will deduct $28/M charges by redeeming from the investment portion.
 
 SRS to pay for AIA premium? No
-
--- 2K SRS balance to buy SSB?
 
 -- udpate or fuxi
 start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
