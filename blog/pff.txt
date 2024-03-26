@@ -1,8 +1,10 @@
 -- update bpost on syfe
+Each TD needs manual toggle disable rollover. After maturity, you need to manually trnasfer the fund to a bank account. After rollover, you lose liquidity.
+
 Hotline is 9-6, but live chat is 24H esp. on APP. On website (without login) -> connect -> ...
 Advisor available for accounts above 50k
 
-for fund transfer, I will use HSBC 
+for fund transfer, I will use HSBC to help maintain my Premier status
 
 -- new or update 
 I recall a bitter and regrettable claim experience about 10 years ago. (I describe it here partly to remind myself.) 
