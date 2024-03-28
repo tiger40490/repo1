@@ -1,6 +1,9 @@
 -- fuxi or update bpost
-If you want to rename your local branch and git-push soon, then it's better to git-checkout-b to create a new branch.
+Background: you check out from origin/br2, and you want to rename your local branch and git-push soon
 
+It's better to git-checkout-b to create a new branch.
+
+renaming would mess up the git-push
 -- fuxi
 print(f'{var1:33}’) # prints at least 33-chars  and won’t truncate
 
