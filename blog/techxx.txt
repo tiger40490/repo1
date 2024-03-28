@@ -1,3 +1,6 @@
+-- fuxi or update bpost
+If you want to rename your local branch and git-push soon, then it's better to git-checkout-b to create a new branch.
+
 -- fuxi
 print(f'{var1:33}’) # prints at least 33-chars  and won’t truncate
 
