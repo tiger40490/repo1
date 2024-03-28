@@ -1,6 +1,9 @@
 -- fuxi
 print(f'{var1:33}’) # prints at least 33-chars  and won’t truncate
 
+-- fuxi or update bpost on grep
+The --exclude-dir probably works only with recursive grep.
+
 -- new: perl regex tips
 to evalute int($2) - int($1), you can use
 s/(whatever)...(whatever)/$2-$1/e 
