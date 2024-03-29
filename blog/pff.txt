@@ -1,4 +1,8 @@
--- 2K SRS balance to buy SSB?
+
+-- new or fuxi: why BTC holders don't sell
+Some x percept of the rich individuals would each allocate some y percent of their risk capital to BTC. Even when they face a 90% paper loss, most of them don't mind holding, and don't mind 100% loss.
+
+This "risk appetite" is common among investors (gamblers?) including me.
 
 -- update bpost on syfe
 Each TD (aka ptf) needs manual toggle to disable rollover. After maturity, you need to manually transfer P+I to your bank account. 
