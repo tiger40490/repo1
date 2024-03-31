@@ -1,35 +1,13 @@
+-- new or fuxi
+Some investment salesmen or authors pose the question "Do you think you are an effective investor?" Some friends also pose that question.
 
--- new or fuxi: why BTC holders don't sell
-Some x percept of the rich individuals would each allocate some y percent of their risk capital to BTC. Even when they face a 90% paper loss, most of them don't mind holding, and don't mind 100% loss.
+The investment management industry has an industry standard about the "benchmark", because the benchmark is a crucial factor (in performance evaluation etc). Most investment-managers choose some index. They think their index is fair. I guess so. 
 
-This "risk appetite" is common among investors (gamblers?) including me.
+I don't bother to have a fair benchmark. It's too complicated and sensitive.
 
--- update bpost on syfe
-Each TD (aka ptf) needs manual toggle to disable rollover. After maturity, you need to manually transfer P+I to your bank account. 
+Those salesmen tend to use an implicit benchmark but is it fair? I feel those implicit benchmarks tend to be very high and therefore unfair.
 
-(After rollover, you lose liquidity.)
-
-Hotline is 9-6, but live chat is 24H esp. on APP. On website (without login) -> connect -> ...
-Advisor available for accounts above 50k
-
-for fund transfer, I will use HSBC to help maintain my Premier status.
-
-consider another 100k in early Apr
-
--- new or update 
-I recall a bitter and regrettable claim experience about 10 years ago. (I describe it here partly to remind myself.) 
-
-* my son had somd Aviva medical insurance. Annual deductible is a standard feature so I didn't pay attention. Actually it was a killer feature.
-
-* my son had some testicle pain and was admitted to KKH for one day (or half a day). As a local citizen, government hospital bill was below $1k
-
-* I sent the bill to Aviva only to find out the bill amount is much lower than the annual deductible.
-
-* worst thing --> Aviva recorded my son's condition and refused to underwrite any medical insurance on him from then on. I went back to KKH about 2 or 3 times to get clarification, even paying for medical reports. KKH said "quickly discharged and no follow-up required." but Aviva refused to accept. It became a life-long stigma, even though my son made a full recovery soon.
-
-Lesson 1 -- insurance companies are faceless organizations. Underwriters are risk averse and will not underwrite any questionable applicant. "If in any doubt, reject". I think this is similar to the hiring process in my and other companies.
-
-Lesson 2 -- Once a person has some questionable scan recorded in "the national system", it can be hard for any doctor in Singapore to examine a new scan and declare "100% fully recovered.. absolutely no risk". Therefore, if a questionable scan doesn't HaveTo be recorded in the national system, then it's wise to avoid it, provided it's not illegal/immoral
+I feel any retail investor is fairly /successful/ ("doing fine") if his long-term return beats DIR [deposit IR] with a reasonable volatility.
 
 -- AIA bigger plan (for wife) has SGD 30k for CI-early
 
@@ -56,14 +34,6 @@ BOC 1%
 DBS, OCBC .. even worse
 
 https://www.sc.com/sg/save/current-accounts/usd-high-account/ (priority clients) .. 1.5% waived :)
-
--- update old-age BBB/RRR complexity
-Ranking in terms of complexity and tcost of ownership: 
-RBBT ownership has better stress-cost thanks to the pre-payment option.
-FLI2 and other bx products.. obligation to pay premium on time, but you are free to pay earlier or slightly later.
-promotional DIR like 3.7 ppa .. obligation to recon interest calc.
-HSBC 3.6 ppa .. many conditions. Many headaches if I want to avoid losing the interest
-tBill ownership cost is even lower.
 
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/
 Since 2010s I have had a consistent assessment that pff is my strongest hand, strongest tectonic plate, and my "best-performing" game, in terms of personal efficacy, battery, accumulation,,,
