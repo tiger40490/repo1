@@ -1,23 +1,23 @@
--- Dr Leow
+-- update bpost on Dr Leow
 Consider a heart-beat monitor if you run very fast.
 
 If all tests are clear, then perhaps the tests were insensitive and insufficient. 
 
-Q: competitive running/jogging .. fall at the end? Yes dangerous to the heart
+Q: competitive running/jogging .. fall at the end? Yes dangerous to the heart. Immediate medical attention required.
 AA: Aim at endurance and don't sprint. Maintain pace. 
-%%A: My younger-day habit of sprint in the last lap is no longer safe at my age
+%%A: My younger-day habit of all-out sprint in the last lap is no longer safe at my age
 
-I tend to use my running performance as a guage of my aging, but we don't need to feel bad about performance decline.
+I tend to look at my running performance as a guage of my physical decline, but now I think preventing the natural decline can be harmful. No-decline is a good sign if it is natural and managed safely, not propped up artificially.
 
 Q: 20km hard running?
-%%A: 20km is fine 
+AA: 20km is fine 
 
 Prof Lee of NUS .. death after a run
 Sim Wong Hoo .. ultramarathon runner
-AA: too much running can be dangerous to some people. Marathon runners may not have healthy heart. The only way to assess heart health is a medical test.
+AA: too much running can be dangerous to some people. Marathon runners may not have low risk of heart failure. The only way to assess heart risk is a medical test.
 
 Q: work stress or bad food ... what signs to look out for?
-AA: chest tightness, short of breath while climbing stairs
+AA: chest tightness, short of breath while climbing even a short stair
 Q: how about mild discomfort around the heart
 AA: yes can be a sign
 
@@ -28,7 +28,7 @@ AA: don't double up on the next day
 
 -- fuxi: wear tighter pants to company buffet. You won't regret.
 -- fuxi: BMI is no longer the primary, dominent control factor. 
-I feel gastritis is a key factor
+I feel gastritis, blood sugar are key risk factors
 
 -- fuxi: Henry Lew suggestions:
 Sugg 1: After seeing the home-cooked dinner, allocate a fixed portion for the night. Do not keep eating beyond that. 
