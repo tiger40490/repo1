@@ -1,18 +1,20 @@
 -- Dr Leow
 Consider a heart-beat monitor if you run very fast.
 
-If all tests are clear, then perhaps the tests were too insensitive. 
+If all tests are clear, then perhaps the tests were insensitive and insufficient. 
 
-Q: competitive running/jogging .. falls at the end? Yes dangerous to the heart
+Q: competitive running/jogging .. fall at the end? Yes dangerous to the heart
 AA: Aim at endurance and don't sprint. Maintain pace. 
 %%A: My younger-day habit of sprint in the last lap is no longer safe at my age
+
+I tend to use my running performance as a guage of my aging, but we don't need to feel bad about performance decline.
 
 Q: 20km hard running?
 %%A: 20km is fine 
 
 Prof Lee of NUS .. death after a run
 Sim Wong Hoo .. ultramarathon runner
-AA: too much running can be dangerous to some people. Marathon runners may not have healthy heart. The only way to check is a medical test.
+AA: too much running can be dangerous to some people. Marathon runners may not have healthy heart. The only way to assess heart health is a medical test.
 
 Q: work stress or bad food ... what signs to look out for?
 AA: chest tightness, short of breath while climbing stairs
