@@ -1,4 +1,8 @@
 -- Dr Leow
+Consider a heart-beat monitor if you run very fast.
+
+If all tests are clear, then perhaps the tests were too insensitive. 
+
 Q: competitive running/jogging .. falls at the end? Yes dangerous to the heart
 AA: Aim at endurance and don't sprint. Maintain pace. 
 %%A: My younger-day habit of sprint in the last lap is no longer safe at my age
