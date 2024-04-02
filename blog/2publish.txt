@@ -1,3 +1,9 @@
+
+-- new: languages with entry barriers to impatient young programmers
+In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
+In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
+In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
+
 -- new: UnionPay to buy bx ]SG
 SCB confirme: all wealth products are payable by SG-based visa/master, not overseas visa/master, and not UnionPay
 HSBC : no credit card at all

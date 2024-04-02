@@ -1,28 +1,3 @@
--- new: I love my job
-When I say I love my job (or don't like), it is a vague object. In this bpost, I try to dissect the "love"
-
-How does this bpost fit with the job satisfaction predictor? 
-
-Factor 1: 3 key individuals
-
-Obviously, "love" is relative...
-
--- fuxi or new: 
-The salary peer-comparison is both background-heat and c-ray [cosmic ray]. It hits us all the time. Sometimes a comparison result is comforting/soothing, but mostly the xpSelf notices the negative, disturbing comparison results -- FOLB.
-FOLB 
-
-Most of the time we are cool about FOLB, but once a while we do feel affected. 
-
-Therefore, my current salary is not really unimportant. I often say that between two jobs at the same base salary, I would prefer the contract position because there's no bonus no appraisal. 
-
-The older I get, the less I am affected by the c-ray/FOLB, the more I appreciate a /sustainable/ salary. Those contract positions are more acceptable.
-
-The job title benchmark is related but out of scope.
-
--- new: languages with entry barriers to impatient young programmers
-In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
-In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
-In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
 
 -- fuxi: grandpa's wisdom
 Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
@@ -80,6 +55,17 @@ The unexpected success vindicates my (project) delivery, my tech capabilities, m
 However, I still perceive this job as an exception in my career. In the next job, I foresee challenges/weaknesses/fault-lines on all of those fronts. In those jobs, if and when I feel bad about myself, I need to believe that "At least in one job I was considered good." In fact, I exceeded expectations in RTS, 95G, Barc, Mvea but those jobs had no bonus.
 
 Is EPA job a black swan? Acutally not.
+
+-- fuxi 
+The salary peer-comparison is both background-heat and c-ray [cosmic ray]. It hits us all the time. Sometimes a comparison result is comforting/soothing, but mostly the xpSelf notices the negative, disturbing comparison results -- FOLB.
+
+Most of the time we are cool about FOLB, but once a while we do feel affected. 
+
+Therefore, my current salary is not really unimportant. I often say that between two jobs at the same base salary, I would prefer the contract position because there's no bonus no appraisal. 
+
+The older I get, the less I am affected by the c-ray/FOLB, the more I appreciate a /sustainable/ salary. Those contract positions are more acceptable.
+
+The job title benchmark is related but out of scope.
 
 -- fuxi or update ...: 
 Whether we use tbl or Genepai, I would have a relatively comfortable timeline... Am lucky.
