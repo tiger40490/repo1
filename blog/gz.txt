@@ -7,7 +7,7 @@ You can put in a reasonable effort, 尽职尽责, resist the pressure to take on
 
 Judgement -- what's reasonable workload, and what's too much.
 
-Jason's view -- no better job out there, so better accept.
+Sonic Jason's view -- no better job out there, so better accept.
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
@@ -25,11 +25,6 @@ Across a /structured/ codebase, I tend to bend over backward to enforce consiste
 A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
-
-
--- fuxi:
-Only when you lose a job, then you come to terms with the relative value of marketable skills. 
-localSys means nothing during the body building contest, except when describing a trading system arch (Type3dnlg)
 
 -- new: XiaoYan meet-up
 XiaoYan is a kind lady. I guess she decided to spend 1.5 hours learning about the world outside PSA, and sharing experiences and observations. As I told her, this meet-up turned out to be an insightful, reflective career counselling session. She was a helpful mirror. I revealed a lot of my fears, setbacks, weaknesses,,, and received substantial support.
