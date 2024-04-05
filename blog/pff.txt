@@ -3,13 +3,12 @@
 Beside S27 and the DJ product, are there other US ETFs listed on SGX?
 
 -- update bpost on citi.NA
-To get a live person, choose option 9
-
+To get to a live agent, choose option 9
 1800 321 2484 if you want to open an accessChecking
 
 If you have either a regularChecking OR an accessChecking OR both, each account would require a $250/M transfer-in, or it would incur monthly fees. 
 
-* use Citi webank to set up monthly pull from Bofa
+* use Citi webank to set up monthly Pull from Bofa
 * No need to keep any balance in Citi. Once a while, you can transfer back any amount to Bofa. I might keep Bofa above 5k and monitor it.
 
 We can set up the transfer now, but until 23 Jun, I need to maintain $1500 in Citi.
