@@ -13,8 +13,11 @@ Consider 98:1:1
 -- insurance companies: need to give nomination
 
 -- NTUC Income Gift .. need policy number
+find the max age for each policy
+ask Gen to be the Guardian
+propose to wife -- 2nd executor as a company
 
--- ask Gen to be the Guardian
+-- ask Susan Lee to find a will-writing agency
 
 -- update bpost on citi.NA
 To get to a live agent, choose option 9
