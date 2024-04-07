@@ -1,8 +1,10 @@
 -- questions to ask doctors
 How safe is chin-up, or push-up etc
 How safe is climbing stairs?
+.. squat is similar?
 How safe is skip-rope?
 How safe is fast run up a small hill?
+How safe is 100m continuous swim?
 
 -- new: CAD implications
 If I go to the U.S. I will need insurance. I will need frequent medical checks and consultations. WStC jobs will be less attractive given the expensive insurance.
