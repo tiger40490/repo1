@@ -1,6 +1,7 @@
 -- new or fuxi
 ConEmu:
-Cursor can disappear for random reasons. You can open vi then close it. Curor may reappear
+Problem: Cursor can disappear for random reasons. 
+Tested solution: You can open vi on a new file, and close it (NOOP). Cursor may reappear.
 
 -- new: ransomware^dataLeak
 Q: which risk is worse between RR) ransomware and LL) data leak
