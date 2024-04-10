@@ -1,3 +1,7 @@
+-- new or fuxi
+ConEmu:
+Cursor can disappear for random reasons. You can open vi then close it. Curor may reappear
+
 -- new: ransomware^dataLeak
 Q: which risk is worse between RR) ransomware and LL) data leak
 %%A: RR is more severe
