@@ -1,4 +1,5 @@
 -- questions to ask doctor
+show the 2 drugs i'm taking.
 blood thinning : after meal? 
 I have gastritis (show him the results)... so some blood thinners are unsafe?
 
