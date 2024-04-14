@@ -15,14 +15,6 @@ Exit from China custom... USD 5k/passenger.. including children :)
 PVG security officer found my cash pouch and sent that item through the scanner all by itself! Officer made no noise, presumably because she was looking for anything dangerous.
 I think officer is "permitted" to either count the notes or "close one eye". Closing one eye, even under /CCTV/, is not negligence.
 
--- new: 30k cpfSA top-up
-j4: yield
-J4: lock down free cash against missteps or hackers
-limitation -- very poor liquidity. Only Consider top-up after (not before) RBBT debt payoff
-
-Suppose I want to top up 8k in 2024 to enjoy tax benefit:
-wife's 2023 (pervious year) income must be < 8k including dividend, interest etc
-
 -- update bpost on citi.sg
 USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
 To receive a new cheque book, request online and pay $15
@@ -30,15 +22,6 @@ These are truly negligible costs in this era.
 
 -- fuxi or update bpost on ffree in my family
 grandparents have financial freedom due to healthcare and SGD 4k+/M of pension. This ffree is a big advantage esp. to the adult children, but it is not enough to make their lives a bliss.
-
--- new: Giro failure prevention
-Background: Since early 2020s I have kept a low balance [1k+] in #108 .. actually insufficient for some oversized Giro deductions [3k+ for ADL insurance].
-
-The stres after a Giro failure ... is something to pre-empt. Hard deadline. Hard interruption to whatever I was focused on. 
-
-Sugg: calendar reminders. MyCarePlus every Feb 
-
-Over the long horizon... As I grow older, Giro failures would be a low but burdensome complexity. Giro failures are usually recoverable since Payee institutions are usually lenient/flexible. Reason -- Among their thousands of paying customers, there will always be some percentage hitting Giro failures.
 
 -- update bpost on sys1/sys2 overload
 On a flight, "Less forgettable" items can still be forgotten and misplaced, due to sys1 limitations.
@@ -139,28 +122,6 @@ How about my ADL insurance? I now feel somewhat more vindicated.
 
 The more children and grandchildren I have, the more resources I have available in my old age.
 
--- new: livelihood shield won't fend off these"pains"
-When we Struggle against or Cope with multiple /issues/, we often envy the affluent. We imagine their lives are less stressful, less frustrating, less burdened. Actually, "carefree bubble" depends on many factors such as number of dependents, amount of belongings (baggage), support network (citizenship?). However, this bpost is focused on the factor of livelihood (affluence). 
-
-Even without livelihood issues/worries, some people (including my family-n-fiend) can feel real pains due to 
-* physical pains
-* psychological pains .. phobia, anxiety, depression...
-* serious lack of self-discipline, or substance abuse, or addiction, in the self or a family member. Remember Biden's son.
-* wasted personal potential? If livelihood fine, then the "waste" is tolerable?
-* failure in love relationships (incl. non-starter)... "Affluence" doesn't meet this need.
-* chronic family conflicts .. eg: me vs in-laws; between grandparents; sis vs grandpa
-* injustice .. eg: See https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=24197&action=edit
-* gross unfair treatment ... eg? losing a /rewarding/ job for a bitter reason like personality, or unfair dismissal
-
-Bias of hindsight/rmSelf.. I would say a lot of times such an "event" does cause livelihood issues "for a while". Could be a few days to a few years. I guess many (rmSelf) dismiss the livelihood "stress" in hind sight, but in the midst of it the stress our xpSelf does feel non-trivial and permanent (just as covid19 felt like in 2020).
-
-How about during the retirement phase? 
-* work headaches reduced, but we may miss the engagement, the purpose, the F2F interaction. I would rather stay employed in a light-duty job, and endure some non-trivial stress
-* Parenting pains reduced
-* family conflict may reduce due to smaller family
-* no more personal potential to waste
-* I may be more dependent on others
-
 -- update bpost on long service award
 J4 using 3 laptops concurrently at home: 
 keep every laptop actively maintained and monitored, so they don't come out of "warehouse" damaged by disuse
@@ -168,13 +129,4 @@ get used to no-touchscreen.
 get a concrete feel of how fast a 2023 entry-level laptop can be.
 try out Win11 in various usage scenarios
 
--- new: PLN[powerline network] devices 
-I have learnt from experience that PLN devices need ventilation and periodic power-down. I think they become hot quite easily.
-My current pair of devices are identical :) and therefore interchangeable. 
-One of them is easy to power-off, and gets more "rest". 
-So I devised a plan to rotate them, so each one periodically rotates to the light-duty position. Is this a burdensome or reccreational complexity? R
-
-I find PLN more reliable than wifi, nearly as reliable as ethernet. If that's true, then for some homes PLN is a superior solution in terms of complexity, wiring,,,, See https://tedium.co/2020/06/02/powerline-networking-history/
-
-Whenever I need uninterrupted connectivity for telecommute, I avoid home wifi (including mesh)... too unstable. If I can't run a long cable across rooms, then PLN is my default choice.
 -- "fuxi x 2" means Dram refreshed twice
