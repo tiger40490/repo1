@@ -35,7 +35,7 @@ A: not alwaysl. In Dropcopy framework, I realized that
 * many times yes I can and should convert. LambdaEx is designed for small code blocks.
 * however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
 
--- update bpost on deep work
+-- fuxi or update bpost on deep work
 Learning something "strategic" is real work.
 eg: Learning for a meaningful school exam is strategic -- NUS? MSFM?
 eg: Coding drill is strategic and deep work.
@@ -62,33 +62,10 @@ After 5Y (say 2030) can withdraw as 2030 income, but my tax bracket in 2030 woul
 
 Before 2030, During the 5Y lock-in, withdrawal penalty is 5%. 
 
--- update bpost on buyback ^ div
-Div is funded by profit. Buyback can be funded by debt
-
-Div can cause an immediate price drop. In contrast, buyback has a long-term effect of boosting share price.
-
-Buyback cuts shares outstanding, and usually increase per-share measures of profitability like earnings-per-share (EPS),  and improve performance measures like ROE.
-
-You're not required to sell your shares when a buyback is initiated. If you keep your stocks, your percentage of ownership in the issuing company will increase as other investors sell theirs.
-
--- update bpost on buy-without
-many purchases were bought-without-OTh but the rmSelf would inevitably become critical, and with guilt we will remember the purchase as a failure.
-Out of sight, out of mind... I would feel less guilt if I get rid of the physical objects.
-
-xiaomi webcam
-extra laptop .. now I feel a _burden_ to use it once a while to avoid disuse->oxidation
-badminton net .. luckily, I didn't make the buying decision
-
 -- fuxi: use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
 Better than two overlapp tags (ugly proliferation)
 
 Need an explanation bpost .. perhaps use one of the t_selfTalk bposts.
-
--- update bpost on health screening
-wife's cholesterol total > 200 but no concern.
-VitD .. can raise above 50
-insomnia .. muscle relaxant (not addictive); melatonin .. safe
-package .. can do mammogram in polyclinic
 
 -- update bpost on long service award
 J4 using 3 laptops concurrently at home: 
