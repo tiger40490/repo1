@@ -1,20 +1,3 @@
-
--- new: languages with entry barriers to impatient young programmers
-In java, for years before 2007, I was able to GTD without knowing a lot. 照猫画虎, 囫囵吞枣
-In c++ (C and perl to a lesser extent) the syntax is tricky and nuanced, so we need to know a bit more. Alex of Fenix would probably agree.
-In most newer languages, we don't need to know a lot. Therefore, the low-level understanding (my competitive strength) has lower market value.
-
--- new: UnionPay to buy bx ]SG
-SCB confirme: all wealth products are payable by SG-based visa/master, not overseas visa/master, and not UnionPay
-HSBC : no credit card at all
-CIMB: no unionpay
-BOC: no
-
--- new: physical USD out of China
-Exit from China custom... USD 5k/passenger.. including children :)
-PVG security officer found my cash pouch and sent that item through the scanner all by itself! Officer made no noise, presumably because she was looking for anything dangerous.
-I think officer is "permitted" to either count the notes or "close one eye". Closing one eye, even under /CCTV/, is not negligence.
-
 -- update bpost on citi.sg
 USD transfer Citi.sg -> other SG banks .. lowest cost is USD3 for each personal cheque. 
 To receive a new cheque book, request online and pay $15
