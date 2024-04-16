@@ -1,5 +1,5 @@
 -- questions for cardiologist
-future CT results will need be interpreted with this angriogram report.
+future CT results will need be interpreted with this FFR (Fractional flow reserve)? report.
 how do I monitor the build-up over next 10y? Treadmill every year; CT every 5y?
 No wound to heal except the wrist? but I have already applied leave, so I will go back to work next week.
 blood pressure .. currently 120+ will worse with age? What can i do?
@@ -16,7 +16,9 @@ workout
 https://modernheartandvascular.com/differences-between-cardiac-ct-scan-and-angiogram/
 https://www.circlecvi.com/resources/cardiac-ct-scan-vs-angiogram-what-s-the-difference
 
-For abnormal CT angiography findings, such as blockage or narrowing of one or more blood vessels, the patient may need a standard angiography as a follow-up. This is typical when doctors consider surgery to treat the narrowing or obstruction.
+For abnormal CT angiography findings, such as blockage or narrowing of one or more blood vessels, the patient may need a standard angiography as a follow-up. This is typical when doctors consider surgery to treat the narrowing or obstruction. 
+
+FFR is even more reliable. See https://www.uptodate.com/contents/clinical-use-of-coronary-artery-pressure-flow-measurements 
 
 CT has (better sensitivity, therefore good for rule-out) poorer specificity, therefore inferior for ruling in i.e. diagnosing a borderline case like me.
 
