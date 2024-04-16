@@ -1,22 +1,26 @@
 -- questions for cardiologist
-future CT results will need be interpreted with ...
-how do i monitor the build-up over next 10y?
-Lipitor 20mg?
+future CT results will need be interpreted with this angriogram report.
+how do I monitor the build-up over next 10y? Treadmill every year; CT every 5y?
+No wound to heal except the wrist? but I have already applied leave, so I will go back to work next week.
+blood pressure .. currently 120+ will worse with age? What can i do?
+I am nearing pre-diabetes and borderline hypertension, which one is more dangerous for me (given that LDL is the biggest risk)?
+when the wire passed through the narrow sites, was it rubbing off the plaque?
+Lipitor 20mg or new drug?
 bring LDL to under 80?
 workout 
 .. sprint unsafe?
 .. stairs ?
 .. 20km without pushing to the limit?
 
--- what is the diff btw contrast CT n angiogram
+-- new: diff btw contrast CT n angiogram
 https://modernheartandvascular.com/differences-between-cardiac-ct-scan-and-angiogram/
 https://www.circlecvi.com/resources/cardiac-ct-scan-vs-angiogram-what-s-the-difference
 
 For abnormal CT angiography findings, such as blockage or narrowing of one or more blood vessels, the patient may need a standard angiography as a follow-up. This is typical when doctors consider surgery to treat the narrowing or obstruction.
 
-Low specificity means high probability of mis-fire (false positive). Such diagnostic tests need a follow-up test with better specificity.
+CT has (better sensitivity, therefore good for rule-out) poorer specificity, therefore inferior for ruling in i.e. diagnosing a borderline case like me.
 
-CT has (though better sensitivity, therefore good for rule-out) poorer specificity, therefore inferior for ruling in i.e. diagnosing a borderline case like me.
+Low specificity means high probability of mis-fire (false positive). Such diagnostic tests need a follow-up test with better specificity.
 
 -- Questions for dietician
 avocado .. heart-healthy or too fatty?
