@@ -1,13 +1,22 @@
 -- questions for cardiologist
-what is the diff btw contrast CT n angiogram
 future CT results will need be interpreted with ...
 how do i monitor the build-up over next 10y?
-can work next week?
 Lipitor 20mg?
+bring LDL to under 80?
 workout 
 .. sprint unsafe?
 .. stairs ?
 .. 20km without pushing to the limit?
+
+-- what is the diff btw contrast CT n angiogram
+https://modernheartandvascular.com/differences-between-cardiac-ct-scan-and-angiogram/
+https://www.circlecvi.com/resources/cardiac-ct-scan-vs-angiogram-what-s-the-difference
+
+For abnormal CT angiography findings, such as blockage or narrowing of one or more blood vessels, the patient may need a standard angiography as a follow-up. This is typical when doctors consider surgery to treat the narrowing or obstruction.
+
+Low specificity means high probability of mis-fire (false positive). Such diagnostic tests need a follow-up test with better specificity.
+
+CT has (though better sensitivity, therefore good for rule-out) poorer specificity, therefore inferior for ruling in i.e. diagnosing a borderline case like me.
 
 -- Questions for dietician
 avocado .. heart-healthy or too fatty?
