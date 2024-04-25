@@ -12,15 +12,14 @@ The salesperson is often young, untrained, and doing the job relunctantly.
 -- new: frequent low-cost checkup 
 t_del
 dental
-treadmill
-Hba1c
+Hba1c + cholesterol
 
 -- update dental
 2min twice a day .. emphasizing interval , rather than thoroughness.
 
-I have to agree that long interval is a proven hazard.
+I have to agree that long interval is a proven hazard in my personal experience
 
-However, I practice a schedule modified for thoroughness. My minimum frequency is 7 times a week, consist of 1 or 2 flossings and 5 or 6 brushings. Some Each flossing or brushing session is often focused on a subset of teeth, so over a month, each teeth would receive some deep cleaning.
+However, I practice a schedule modified for thoroughness. My minimum frequency is 7 times a week, consist of 1 or 2 flossings and 5 or 6 brushings. Each flossing session is often focused on a subset of teeth, so over a month, each teeth would receive some deep cleaning.
 
 I often feel guilty about 7/week but it has worked reasonably well for me.
 
@@ -38,9 +37,10 @@ gastritis .. stomach cancer risk? very rare
 -- fuxi: wear tighter pants to company buffet. You won't regret.
 
 -- fuxi: 
-kimchi .. healthy in reasonable amounts
-alcohol.. healthy in very small amounts
+kimchi .. healthy in reasonable amounts, but now I worry about the sodium content
+red wine.. healthy in very small amounts
 nuts .. heart-healthy in small amounts only
+70%+ dark chocolate ..  healthy in very small amounts
 
 -- fuxi: Henry Lew suggestions:
 Sugg 1: After seeing the home-cooked dinner, allocate a fixed portion for the night. Do not keep eating beyond that. 
@@ -76,7 +76,3 @@ Concrete example -- YY.Tao has an enviable net worth, but complained about his k
 enviable BMI can come at disproportionate cost
 * Older adults often need to fight, on their back heels, an uphill battle to retain muscles. Losing muscle can reduce your BMI but it also affects your metabolism rate
 * amputation can reduce your BMI, but do you want that?
-
--- fuxi
-What foods have the biggest (PCA) impact based on observation and personal research? I don't have verifiable data. Established calorie science is highly imperfect in my experience.
-A: Starch, hidden fat, nuts, not fruits, not milk
