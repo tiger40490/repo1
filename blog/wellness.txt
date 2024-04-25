@@ -15,12 +15,6 @@ dental
 treadmill
 Hba1c
 
---new: deeper greens
-t_del
-BMI
-Hba1c
-blood pressure .. family history and aging
-
 -- update dental
 2min twice a day .. emphasizing interval , rather than thoroughness.
 
