@@ -3,11 +3,20 @@ ConEmu:
 Problem: Cursor can disappear for random reasons. 
 Tested solution: You can open vi on a new file, and close it (NOOP). Cursor may reappear.
 
--- new: ransomware^dataLeak
-Q: which risk is worse between RR) ransomware and LL) data leak
-%%A: RR is more severe
+-- new: free wifi can be a honeypot to infect your devices.
+More often, a wifi operator can eavesdrop on the passwords you send to a banking site.
 
-RR and data loss are comparable -- risk of lost access
+-- new: 
+spyware can monitor keystrokes and therefore get your passwords
+
+I don't save my passwords in clear text. I save hints only. This mmight be protective against spyware.
+
+-- new: ransomware^dataLeak
+Ransomware mostly target enterprises, not home users.
+WannaCry ransomware -- 230,000 computers infected across 150 countries
+
+Q: which risk is worse between RR) ransomware and LL) data leak but not banking passwords
+%%A: RR is more severe
 
 Immutable, password-protected offline backups are the best, though they increase the LL risk.
 
