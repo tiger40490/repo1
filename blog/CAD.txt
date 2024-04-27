@@ -1,3 +1,5 @@
+-- heart attack is formally known as AMI (Acute Myocardial Infarction)
+
 -- questions for cardiologist
 Do I need to learn to recognize angina and prepare a GTN?
 A: there are many angina symptoms including some minor discomfort
