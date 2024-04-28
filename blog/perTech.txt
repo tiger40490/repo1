@@ -1,16 +1,17 @@
--- laptop req
+-- update laptop req
 Q: which features are worth something ($100+) to me?
 A: touch screen
 A: weight .. only for the tiny models
 A: capacity of a new battery
+
+-- update bpost on disk hogs
+Compared to SocialTab, the "ForumTab" name is more vague, more versatile .. more suitable as tempUpdate
 
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
 
 -- fuxi: in gmail, the 5 tabs are all part of "inbox". 
 "skip inbox" will make the new message go straight to archive.
-
-Compared to SocialTab, the "ForumTab" name is more vague, more versatile .. more suitable as tempUpdate
 
 -- fuxi:
 if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press 
