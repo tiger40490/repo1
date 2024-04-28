@@ -1,3 +1,9 @@
+-- laptop req
+Q: which features are worth something ($100+) to me?
+A: touch screen
+A: weight .. only for the tiny models
+A: capacity of a new battery
+
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
 
