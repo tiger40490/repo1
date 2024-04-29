@@ -13,6 +13,7 @@ execution cost .. aroudn 10k. 0.5%, min $4k.
 
 MyCarePlus death benefit 3 x 5k
 PruECI death benefit 3k, till age 65
+PrimeCare death benefit 1k, till age 85
 
 -- update bpost on death benefit
 MLP group-CI is late-stage-37
