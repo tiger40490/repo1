@@ -1,17 +1,16 @@
 -- update bpost will 
 first executor can appoint a new executor.
-
 bank as executor ... more expensive
 
-If upgrade to new residence, need to update will
+After buying new home, need to update will
 
-guardian can't access the fund before kids turn 21. After 21, boy will not need control of guardian
+guardian can't access the fund before kids turn 21. After 21, kids will not be under control of guardian
 
-If I pass away with all 3 surviving.... wife can set up joint accounts/usd-high-account/
+If I pass away with all 3 surviving.... wife can set up joint accounts with each kids and access the 3 portions.
 
-execution cost .. aroudn 10k. 0.5%, min $4k.
+execution cost .. under 10k in many cases. 0.5% of the execution amount, min $4k.
 
-DPS nomination .. Iris 
+DPS nomination .. Iris will provide details.
 
 MyCarePlus death benefit 3 x 5k
 PruECI death benefit 3k, till age 65
@@ -19,8 +18,6 @@ PrimeCare death benefit 1k, till age 85
 FLI2 death benefit 150k at least
 MyShield death benefit 3 x $400
 NTUC income GIFT .. up to age 65. claim within 3M upon death
-
-give bank account numbers... easy
 
 -- update bpost on death benefit
 MLP group-CI is late-stage-37
