@@ -1,3 +1,5 @@
+-- study nuclear cardiology test 
+
 -- heart attack is formally known as AMI (Acute Myocardial Infarction)
 
 -- questions for cardiologist
