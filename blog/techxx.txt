@@ -1,3 +1,10 @@
+-- new: tips@futures contract month codes
+M/N sound alike .. June/July look alike.
+F: FFFirst month
+U: my UChicago program started in Sep.
+
+The quarter month codes are more important: H:March, Z:December etc
+
 -- fuxi or update bpost
 Background: you check out from origin/br2, and you want to rename your local branch and git-push soon
 
@@ -37,7 +44,7 @@ clean price is quoted price. Quoted price should not change every day due to acr
 
 dirty price is "the actual price" i.e used to compute actual transaction amount.
 
--- new: why some type of problems are more popular on question banks
+-- fuxi: why some type of problems are more popular on question banks
 Most coding interviews last 30m only.
 
 array problems are easy to explain/understand, easy (for an interviewer) to set up
