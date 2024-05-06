@@ -1,6 +1,13 @@
 -- update bpost on blood pressure: 
 100/60 at Raffles Medical. I asked Dr Cindy "Is this accurate, given I'm usually 120+? Does it vary so much?" She said yes and was not surprised.
 
+-- update diabetes
+Age adjusted diabetes prevalence accounts for the fact that older people are more likely to get DM.
+
+https://www.moh.gov.sg/news-highlights/details/result-from-government%27s-five-year-war-against-diabetes-effort shows 8%.
+
+Many people are predisposed due to genetics and lifestyle of family and community.
+
 -- new: atopic dermatitis
 
 -- fuxi:
@@ -8,7 +15,7 @@ Dr Wee was not wrong to warn me of stomach cancer even though I'm the anxious ty
 
 -- new: 3 cancers to watch out
 Colon cancer .. the most common among Singapore men
-Prostate cancer .. family history. Let's ask doctors
+Prostate cancer .. family history, even though grandpa had it at 86!
 stomache cancer .. one of the top 7 in Singapore. Also I have gastritis.
 
 The other cancers are also important to watch, but for now I will focus on the above.
