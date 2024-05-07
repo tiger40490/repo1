@@ -32,3 +32,10 @@ Most companies have some restrictions
 I don't take for granted whatever freedom given to me.
 When a freedome is taken away, I tend to have an adjustment problem. 
 I remember GS .. blogger was blocked.
+
+-- fuxi: use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
+Better than two overlapp tags (ugly proliferation)
+
+Need an explanation bpost .. perhaps use one of the t_selfTalk bposts.
+
+-- "fuxi x 2" means Dram refreshed twice
