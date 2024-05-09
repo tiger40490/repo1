@@ -1,29 +1,13 @@
--- upate bpost on addicted to employee benefits
-In Macq, when I brought family in for pingpong, I was relying on staff benefits, assuming I was performing well to deserve everything.
-
--- new: grieving the loss of flexible hours@@
-k_CAD
-link to the bpost on time flexibility
 
 -- update bpost on time flexibility
+k_CAD
+
 I'm grieving the loss of an unusual level of "flexible hours".
 
 * I still can work weekends or evenings
 * it won't be safe for my (heart) health to work past midnight unless I can find a place to sleep in office.
 
 Perhaps it's a valuable nudge to get into "the zone" earlier, like 6pm, when all my colleagues leave.
-
--- new: why employers prefer resignation over layoff
-Layoff/retrenchment has many ramifications for the employer --
-
-* media coverage
-* image, reputation
-* regulators ... tend to protect the vulnerable i.e. employees rather than employers
-* potential law suit by employee
-* compulsory PIP
-* severance 
-
-In rare cases, the employee is found guilt of a breach. Employer has a right to terminate her without any obligation.
 
 -- fuxi: grandpa's wisdom
 Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
@@ -51,23 +35,6 @@ Across a /structured/ codebase, I tend to bend over backward to enforce consiste
 A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
-
--- new: XiaoYan meet-up
-XiaoYan is a kind lady. I guess she decided to spend 1.5 hours learning about the world outside PSA, and sharing experiences and observations. As I told her, this meet-up turned out to be an insightful, reflective career counselling session. She was a helpful mirror. I revealed a lot of my fears, setbacks, weaknesses,,, and received substantial support.
-
-She suggested that job stability could become a G3 priority for my next job search in Singapore. PSA and OC are profitable and stable places -- management are extremely reluctant to retrench, even for non-performing employees.
-
-She shared that age concern over a 55-year-old candidate (8-Y career runway ) is a real concern at hiring discussions.
-
-She mentioned a long-term contract staff.. capable and quiet but PSA was not keen to convert such contractors to perm because removing any perm staff is always costly and painful. Sounds like employers like PSA and OC would always wait for non-performing employees to resign, including employees with bad attitude.
-
-I reveald that my salary is now "very high" by my standard, possibly overpaid, so much so that I don't mind buying her an expensive juice. She pointed out that unlike many people in such overpaid/underworked situations, I'm conscientious about the possibility of "overpaid without heavy workload or contribution". Deep inside, I felt a warm pat on the back.
-
-On the other hand, many people in the same firm feel underpaid as a group. This is similar to Americans feeling bad about their education systems or Sgrns feeling bad about natioal housing condition. If indeed I'm underpaid relative to the industry, then the above-mentioned "overpaid" concern is not a serious risk.
-
-She asked why I prefer SGP to U.S. if I could find an equivalent after-tax salary (after adjusting for cost of living). I mentioned close-to-grandparents, Chinese population (better for wife), better government support, weather,,, I forgot to mention driving, street safety, wife's career.
-
-I realized that as I age I have become more loyal, less opinionated,,,,, but I still reject the widespread advice to "put up with worsening job situation for as long as you can tolerate"
 
 -- update https://btv-gz.dreamhosters.com/wp-admin/post.php?post=45147&action=edit
 
