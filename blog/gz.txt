@@ -1,3 +1,11 @@
+-- new or fuxi
+I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. Here are some other killer skills.
+
+remote debugg .. Unusalbe 50% the time when I need it
+c/c++
+RDBMS table design
+table triggers
+Non-trivial sub-queries and joins
 
 -- update bpost on time flexibility
 k_CAD
