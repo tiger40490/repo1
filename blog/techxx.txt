@@ -1,5 +1,41 @@
--- new or ..
+-- new or update ..
 P 198 [[essentialC++]] has a sharp pointer "... mistake is to confuse c++ exceptions with hardware exceptions, such as seg fault or bus error. For a c++ exception to be thrown, there is a throw expression somewhere in program code."
+
+I believe many hardware exceptions (such as seg fault) are detected by low-level software code. 
+Many programmers don't distinguish those agaisnt userland exception creation.
+
+rare JIV topic, perhaps only in c++JIV, so I don't want to read too much. 
+I believe java beats c++ in documenting system exception. 
+
+~~ in ANSI C, I think errno.h standard header is a primitive solution. The header defines a bunch of  fairly standard (but not platform-indepedent) macro constants for common error conditions. 
+
+You are free to explore those macros (i.e. error conditions). They should have comments.
+
+errno.h also declares an global varible "extern int errno;" This variable is allocated once, and accessed by countless "producer/consumer" functions. A singleton object for many error conditions!
+
+Segfault is actually a signal defined as SIGSEGV in ANSI signal.h. Same file also defines other low-level (hardware) exceptions like illegal instruction, interrupts,,,
+
+How are signals and errno related? Don't know.
+
+-- update which bpost on static
+Function f99() in file2.cpp is by default accessible from any other file like file3.cpp.
+If you want file3 to not see f99(), then you can use 'static' in file2. 
+This f99() becomes private to file2.cpp.
+I think this can be useful when combining many files from different sources.
+I think I have examples to prove it.
+
+Similarly, a file-scope static variable is private to its file, even if another file uses "extern" to link to it.
+
+-- new: calloc(): slightly diff from malloc()
+Feature: calloc() zero-initializes the memory before returning it.
+Non-feature: calloc() returns the same void pointer type as malloc()
+Non-feature: returned memory size is identical
+
+calloc() is (not a must) often Preferred over malloc() when allocation arrays.
+
+-- new: goto vs long jump in c++
+diff: goto is intra-function. Long jump is across functions. Therefore, it's known as nonlocal jump.
+We can google for legit use of long jump
 
 -- new: tips@futures contract month codes
 M/N sound alike .. June/July look alike.
