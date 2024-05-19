@@ -1,3 +1,18 @@
+-- new: djdj fees
+~~ annual: 
+Y248,966.88 + Y12,768 房费 
+.. Y21,811 x 12
+Y2,500 x12 第二人入住
+Y3,600 x12 food
+Y1,000 x12 (minimum) grandma tiered 护理 fee
+Y4,000 x12 (estimated) grandpa tiered 护理 fee
+------
+total Y32,911 per month x 12 
+
+~~ One-time
+Y60,000 保证金 emergency deposit
+Y 4,000 安置 fee
+
 -- update bpost will 
 first executor can appoint a new executor.
 bank as executor ... more expensive
