@@ -1,6 +1,8 @@
 -- new: djdj fees
+RMB 1000/M additional fee for Level 11 .. is worthwhile given the expected length of stay.
+
 ~~ annual: 
-Y248,966.88 + Y12,768 房费 
+Y248,966.88 + Y12,768 房费 are the first and second deposit paid in early 2024.
 .. Y21,811 x 12
 Y2,500 x12 第二人入住
 Y3,600 x12 food
