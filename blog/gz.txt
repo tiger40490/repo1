@@ -1,3 +1,15 @@
+-- new or update bpost on opaque^transparency
+After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
+
+* how indispensible is that opaque system?
+* across industries, how widely used is that opaque system?
+* how rare is your insight? Are you the only one in the team?
+* depth of your insight
+
+c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque python but can become opaque as described in another bpost.
+
+Quant insight is a rare insight.
+
 -- new or fuxi
 I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. Here are some other killer skills.
 
