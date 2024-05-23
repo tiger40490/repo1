@@ -1,3 +1,9 @@
+-- email to Steve:
+The bulk of our weekly meeting is project updates by each developer. By what order we go through the names is a curious question.  I have a basic proposal.
+
+I will assume that those attending during office hours can sit through the meeting more easily than those dialing from home after work hours.
+
+So if the meeting takes place during US/EU office hours but outside Asia hours, then it makes sense to let Asia developers finish their updates first, so that they can leave the meeting early if desired. Note Asia is more than Singapore, so to be fair, Sendhil should not be always the last or always the first among Asia devs.
 
 -- CiticTrust deal #fuxi
 The bare room fee monthly (excl. 2.5k) x 36 deposited to your personal CiticTrust account. Suppose 10k/M. Each month, discounted amount (eg: 9k) is auto-paid to DJDJ.
