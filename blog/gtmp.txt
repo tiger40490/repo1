@@ -1,33 +1,3 @@
--- email to Steve:
-The bulk of our weekly meeting is project updates by each developer. By what order we go round the table is a curious question.  I have a basic proposal.
-
-I will assume that those dialing in during office hours can sit through the meeting more easily than those dialing from home after work.
-
-So if the meeting takes place during US/EU office hours but outside Asia hours, then it makes sense to let Asia developers finish  first, so that they can leave the meeting if desired. Note Asia is more than Singapore, so to be fair, Sendhil should not be always the last or always the first among Asia devs.
-
--- new: growing richer but not happier
-"Compared to the post-war era or pre-modernization era, we are substantially richer but no happier."
-
-This is a dominant [widely shared] observation in many countries, at both a societal and a personal level.
-
-In contrast to satisfaction and fulfillment, "happy" is a short-term self-assessment/rating. Re hbA1c vs FPG.
-
-I think most people won't bother to focus or reflect on everyday forgetable happiness, including those doses of delight. We need to focus our mental energy on the problems to solve. Therefore, we tend to remember our adversities [sufferings, difficulties, frustrations, setbacks, declines]. The longer we live, the more difficulties we encounter. Our happiness self-rating would tend to decline. Therefore, improving longevity tend to affect happiness rating.
-
-Basic-healthy nutrition .. our increasing wealth makes BHN easily achievable, but in only x% of the population would BHN bring happiness. 
-I think most people won't bother to focus or reflect on everyday forgetable happiness, including those doses of delight. We need to focus our mental energy on the problems to solve. Therefore, we tend to remember our adversities [sufferings, difficulties, frustrations, setbacks, declines]. The longer we live, the more difficulties we encounter. Our happiness self-rating would tend to decline. Therefore, improving longevity tend to affect happiness rating.
-
-sleep easy .. physical wealth seldom gives the individual better sleep, but granted, wealth can bring you a quiet home and flexible work hours.
-
-isolation due to digital communication.. digital comm is a big part of economic growth, but (like many individuals), it doesn't make me happier.
-
-Involuntary delay to retirement .. often due to poor retirement plann
-
-More years spent taking care of sick parents? Watching their decline somehow makes me feel less happy For Them.. pessimism.
-
-How about grandparents after selling the home? I think they would indeed get a better quality of life in the luxury retirement home. Grandma would become happier .. I choose to be optimistic for both of them.
-
-
 -- fuxi or new: [24] comparing to the last two quant3sg jobs
 In 2023 and 2024, I often feel a spike/surge in work stress, but it is significantly lighter than Qz+Macq.
 
@@ -35,6 +5,8 @@ The proportion of challenging, stressful projects was higher, perhaps due to my 
 I was bending over backward more in Qz+Mqcq.
 I still work weekends, but now I can make slightly more meaningful progress.
 In Qz, I constantly felt incompetent. I had a short window for ramp-up.
+
+How about "How fast you figure things out rel to coworkers"? Qz was stressful. Now is moderate.
 
 Aging is a kind of background heat, or perhaps the growing elephant in the room.
 Qz+Macq were supposed to be (later phase of) my "prime years" as a finDev.. high expectations from managers (also self-expectations... crushing weight.
@@ -62,18 +34,11 @@ I have uncovered some hidden but critical health conditions. I have uncovered th
 I have made steady progress and completed UChicago program. No measurable ROI but many intangible benefits.
 
 -- update bpost on 看家本领
+* caring heart for my kids and my wife. Not every man has it.
 * conserver lifestyle burn-rate control. For a few years I'm blessed with windfall in salary + pre-inheritance but I know it will end someday.
 * healthy lifestyle .. successZ
-* GTD tech skills for the last 2-4Y
+* GTD tech skills for the last 2-4Y, including my "camp out" habit.
 ** JIV competence .. not directly tested over the past 4Y, but I still think it is more important than OTJ competence.
-
-
--- new or fuxi
-I read more and more respected authors echoing a personal reflection -- a prepared/planned journey to end of one's life is a less painful, less regretful, more fulfilling journey.
-
-One Chinese academic wrote that over the next 10 years of his life (80s), he reminded himself of two serious adversities -- sudden death, and disabilities. (He wrote two essays about 渴望猝死 and wheelchairs.)
-
-I tend to plan for (no fixation) job loss and income drop. Now I also plan for health decline in myself and my parents (not my wife). I think it is a good idea to think about death well before we are forced to. These topics make worthwhile discussions with friends, but might be too negative for the family.
 
 -- fuxi: well-done and thank God for the May2024 trip
 dental .. no wasting of brush
