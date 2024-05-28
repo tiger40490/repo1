@@ -1,9 +1,7 @@
--- study nuclear cardiology test 
-
--- heart attack is formally known as AMI (Acute Myocardial Infarction)
-
 -- questions for cardiologist
 Do I need to determine my max heart rate?
+
+aim below 90% of 170 bps
 
 Do I need to learn to recognize angina and prepare a GTN?
 A: there are many angina symptoms including some minor discomfort
@@ -23,45 +21,10 @@ A: regular treadmill test will give false positives.
 
 What can I do about hypertension risk? I guess same as everyone else i.e. manage risk facctors
 
-Q: In early Apr, you told me my risk of heart attack is quite high so I need an angioplasty within a month. Is my risk profile improved so much that I I don't need to constantly worry about heart attack?
-A: After the angiogram, my risk of heart attack is below 1% within 1-2Y. Blockage is at most 50% despite what he wrote in the discharge summary.
-
-test for insulin in blood in addition to hbA1c, to guage my risk of diabetes?
-A: no need
-
-EDyw since early 2023 .. could it be due to my plaque build-up?
-A: possible, but any man above 45 has increased risk.
-
-Was my progression so fast over 3 years? from zero to 50%? 
-A: may not be zero 3Y ago.
-
-Will it continue at a slower pace if I take these medications? Yes!
-But slower pace still implies I may need stenting in a few years?
-A: possible. All depend on on periodic ESE results
-
-chest strap memo
-A: aim below 90% of 170 bps
-
-workout 
-.. 20km without pushing to the limit? No recommended
-.. can I train for JPM5600 2025? yes
-
-CoQ10 .. good for me if my mom asks me to try?
-A: harmless but probably not needed given my medications
-
 -- update bpost on grieving
 Decades ago, many ordinary workers would spend many hour commuting by foot. They have to. 
 You may feel pity for them.
 But that's not a medical condition. 
-
--- fuxi: why I envy those JPM5600 runners?
-I shared with Jason. Subconsciously, I am relying on my performance number to prove to myself (and others) that I'm able to defy aging, and my body's overall fitness is comparable to those 30+. 
-
-CAD revelation is a stark indication of aging of my heart arteries. ( My heart and other organ are still young and bealthy. ) I find it hard to accept that aging has taken place so fast.
-
-The JPM5600 will not be a usable proof going forward.
-
-In terms of my body flexibility, EDyw, energy level, eyesight, speed coding,,, I have noticed aging signs for years. What's different this time round? Well, CAD has a host of lifelong implications. I'm grieving my losses more than EDyw or earlier.
 
 -- update bpost on longevity https://btv-open.dreamhosters.com/wp-admin/post.php?post=48298&action=edit
 In Dec 2023 I started to worry about quality_of_life in my mom's twilight years, either in a Beijing nursing home, or a Singapore nursing home, or living with my wife (while I'm away in the U.S.), against the backdrop of her declining health.
@@ -149,3 +112,26 @@ AA: yes can be a sign
 Q: competitive running/jogging .. fall at the end? Yes dangerous to the heart. Immediate medical attention required.
 AA: Aim at endurance and don't sprint. Maintain pace. 
 %%A: My younger-day habit of all-out sprint in the last lap is no longer safe at my age
+
+Q: In early Apr, you told me my risk of heart attack is quite high so I need an angioplasty within a month. Is my risk profile improved so much that I I don't need to constantly worry about heart attack?
+A: After the angiogram, my risk of heart attack is below 1% within 1-2Y. Blockage is at most 50% despite what he wrote in the discharge summary.
+
+Q: test for insulin in blood in addition to hbA1c, to guage my risk of diabetes?
+A: no need
+
+Q: EDyw since early 2023 .. could it be due to my plaque build-up?
+A: possible, but any man above 45 has increased risk.
+
+Q8: Was my progression so fast over 3 years? from zero to 50%? 
+A: may not be zero 3Y ago.
+
+Q8b: Will it continue at a slower pace if I take these medications? A: Yes!
+Q8c: But slower pace still implies I may need stenting in a few years?
+A: possible. All depend on on periodic ESE results
+
+workout 
+.. 20km without pushing to the limit? No recommended
+.. can I train for JPM5600 2025? yes
+
+Q: CoQ10 .. good for me if my mom asks me to try?
+A: harmless but probably not needed given my medications
