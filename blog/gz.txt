@@ -1,14 +1,15 @@
 
---fuxi: I told wife that I won't look out because
+-- update: I told wife that I won't look out despite increasing workload and expectations
 
 * G3 relative speed of figure-things-out
-* G5 rare flexible hours .. 
-* G6 many heavy-hitters actually left Sgp team, so boss appreciates loyalty
+* G4 rare flexible hours .. 
+* G5 many heavy-hitters actually left Sgp team, so boss appreciates loyalty
 * G7 commute .. likely better than average
-* G8 market value of my dnlg
-* G9 relative complexity of codebase .. likely better than average. I am confident to understand all modules.
+* G7 relative complexity of codebase .. likely better than average. I am confident to understand all modules.
+* G8 excellent longevity and market value of my dnlg .. I don't mind saying in this domain for 10Y
 * G9 acceptance of my age .. look at the age profile in NY and Ldn teams.
 * G0 total comp + medical + extra leaves
+* G0 severance package
 
 -- fuxi: some crunch times in past jobs
 * mid 2020: RJO
