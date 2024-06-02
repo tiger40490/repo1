@@ -17,33 +17,18 @@
 -- new or update bpost on opaque^transparency
 After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
 
-* how indispensible is that opaque system?
-* across industries, how widely used is that opaque system?
-* how rare is your insight? Are you the only one in the team?
+* How indispensible is that opaque system?
+* Across industries, how widely used is that opaque system? Murex? Spring? Aeron? Most opaque systems are localSys
+* How rare is your insight? Are you a one-man show? Quant insight is a rare insight.
 * depth of your insight
 
-c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque python but can become opaque as described in another bpost.
+c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
-Quant insight is a rare insight.
+-- fuxi or update ...
+I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
 
--- new or fuxi
-I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. Here are some other killer skills.
-
-remote debugg .. Unusalbe 50% the time when I need it
-c/c++
-RDBMS table design
-table triggers
-Non-trivial sub-queries and joins
-
--- update bpost on time flexibility
-k_CAD
-
-I'm grieving the loss of an unusual level of "flexible hours".
-
-* I still can work weekends or evenings
-* it won't be safe for my (heart) health to work past midnight unless I can find a place to sleep in office.
-
-Perhaps it's a valuable nudge to get into "the zone" earlier, like 6pm, when all my colleagues leave.
+remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
+One good use of remote debugging is .. revealing at least one way a method is used.
 
 -- fuxi: grandpa's wisdom
 Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
