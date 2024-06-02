@@ -53,11 +53,6 @@ Layoff/retrenchment has many ramifications for the employer --
 
 In rare cases, the employee is found guilt of a breach. Employer has a right to terminate her without any obligation.
 
---update bpost on features of epaJob
-Some poeple don't need these "features", but I really enjoy my commute + EPA flexible hours ... I can work during quiet times (weekends, evenings) and take hours and hours off during the day.
-
-Pretty rare among the jobs known to me.
-
 -- update post on array^ptr
 a ptr Object can be reseated to point to an array.
 An arrayName (is not an object) can't be reseated. It's a compile-time constant.
