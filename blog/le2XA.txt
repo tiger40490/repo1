@@ -9,3 +9,5 @@ My local manager 老印 (or my senior manager in NY, American) have not complain
 So far, my 老印 manager only raised concern across the team that most of us in Asia are not stepping up for Production support.
 
 A quality reputation for a SWE is hard to earn and maintain, but easy to lose. One of my colleagues (Indian national, 2Y in the team) has yet to make any mistake known to me, but is slightly low profile and quiet. Does he have a quality reputation? Not quite yet, perhaps becuase he has not make many large-scale system changes to demonstrate his quality mindset. 
+
+Combining Sense of urgency and 细水长流. My son has some sense of urgency but not enough by my stanard. At work, I do feel a sense of urgency but probably not enough by manager's standard. 细水长流 is a sustainable pace of work for the older SWE. I don't feel anyone is embracing it. 细水长流 means steady progress, not zero-progress or sluggish progress.
