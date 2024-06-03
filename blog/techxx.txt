@@ -1,3 +1,9 @@
+
+-- new or update..
+set -x # very useful to tracing scripts, but it doesn't show the script1.sh when we have 
+
+source ../a/b/script1.sh
+
 -- new or update ..
 P 198 [[essentialC++]] has a sharp pointer "... mistake is to confuse c++ exceptions with hardware exceptions, such as seg fault or bus error. For a c++ exception to be thrown, there is a throw expression somewhere in program code."
 
