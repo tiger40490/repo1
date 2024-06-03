@@ -1,6 +1,6 @@
 
 -- new or update..
-set -x # very useful to tracing scripts, but it doesn't show the script1.sh when we have 
+set -x # very useful to tracing scripts. Rarely, it fails to show the script1.sh when we have 
 
 source ../a/b/script1.sh
 
