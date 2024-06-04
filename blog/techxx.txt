@@ -1,8 +1,40 @@
 
--- new or update..
-set -x # very useful to tracing scripts. Rarely, it fails to show the script1.sh when we have 
+-- new: tips@futures contract month codes
+M/N sound alike .. June/July look alike.
+F: FFFirst month
+U: my UChicago program started in Sep.
 
-source ../a/b/script1.sh
+The quarter month codes are more important: H:March, Z:December etc
+
+-- fuxi or update bpost on grep
+The --exclude-dir probably works only with recursive grep.
+
+-- new: perl regex tips
+to evalute int($2) - int($1), you can use
+s/(whatever)...(whatever)/$2-$1/e 
+
+Must not use \2-\1
+
+to match a run of the same letter /(\w)\1{2}/  # trio
+
+-- new: linux command: count group-by 1stWordEachLine
+uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
+
+-- new: py package dependency mgmt
+to reveal all precedents and dependencies of an high-level pip package 
+
+pip show langchain
+
+If you have some unknown number of dependencies removed, then you can fix it with this 3-word command:
+
+pip install langchain
+
+(langchain package has a requirements.txt.) The command will check requirementstxt, detect any dependency that's already satisfied and skip them.
+
+-- update 
+clean price is quoted price. Quoted price should not change every day due to acrued interest. That change is a noise that traders don't want to see.
+
+dirty price is "the actual price" i.e used to compute actual transaction amount.
 
 -- new or update ..
 P 198 [[essentialC++]] has a sharp pointer "... mistake is to confuse c++ exceptions with hardware exceptions, such as seg fault or bus error. For a c++ exception to be thrown, there is a throw expression somewhere in program code."
@@ -43,63 +75,18 @@ calloc() is (not a must) often Preferred over malloc() when allocation arrays.
 diff: goto is intra-function. Long jump is across functions. Therefore, it's known as nonlocal jump.
 We can google for legit use of long jump
 
--- new: tips@futures contract month codes
-M/N sound alike .. June/July look alike.
-F: FFFirst month
-U: my UChicago program started in Sep.
-
-The quarter month codes are more important: H:March, Z:December etc
-
--- fuxi or update bpost
-Background: you check out from origin/br2, and you want to rename your local branch and git-push soon
-
-It's better to git-checkout-b to create a new branch.
-
-renaming would mess up the git-push
--- fuxi
-print(f'{var1:33}’) # prints at least 33-chars  and won’t truncate
-
--- fuxi or update bpost on grep
-The --exclude-dir probably works only with recursive grep.
-
--- new: perl regex tips
-to evalute int($2) - int($1), you can use
-s/(whatever)...(whatever)/$2-$1/e 
-
-Must not use \2-\1
-
-to match a run of the same letter /(\w)\1{2}/  # trio
-
--- new: linux command: count group-by 1stWordEachLine
-uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
-
--- new: py package dependency mgmt
-to reveal all precedents and dependencies of an high-level pip package 
-
-pip show langchain
-
-If you have some unknown number of dependencies removed, then you can fix it with this 3-word command:
-
-pip install langchain
-
-(langchain package has a requirements.txt.) The command will check requirementstxt, detect any dependency that's already satisfied and skip them.
-
--- update 
-clean price is quoted price. Quoted price should not change every day due to acrued interest. That change is a noise that traders don't want to see.
-
-dirty price is "the actual price" i.e used to compute actual transaction amount.
-
 -- fuxi: why some type of problems are more popular on question banks
 Most coding interviews last 30m only.
 
-array problems are easy to explain/understand, easy (for an interviewer) to set up
+array/string problems are easy to explain/understand, easy (for an interviewer) to set up
 
 Threading questions are much harder to set up and test.
 
+-- fuxi or new ..
+set -x # very useful to tracing scripts. Rarely, it fails to show the script1.sh when we have 
+
+source ../a/b/script1.sh
 -- fuxi
 In python dict initilization, you may want to specify the keys in a consistent order. The order is preserved when you print myDict.keys()
 
--- fuxi: bbg automation/integration 
-AWS S3/SQS
-MQTT
-snowflake
+print(f'{var1:33}’) # prints at least 33-chars  and won’t truncate
