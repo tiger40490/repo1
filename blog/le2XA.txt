@@ -1,13 +1,16 @@
-My dad's wisdom "尽你所能/尽职尽责" I will translate to "as best you can". 
+My dad's wisdom of "尽职尽责/尽你所能" .. for me is hard to translate. I will translate to "as best you can". 
 
-Avoid mistakes, avoid negative attitudes, avoid offending manager (inadvertently). If best effort is not enough for a given role, it's probably a "role mismatch" as Macquarie boss said. Then it's employer's problem to deal with. If for any reason, they choose termination, then they should try to "compensate", though there's no official obligation. 
+Avoid mistakes, avoid negative attitudes, avoid offending manager (inadvertently). If employee's best effort is not enough for a given role, it's probably a "role mismatch" as Macquarie boss said. Then it would be employer's problem to deal with. If for any reason, employer choose termination, then employer should do their part to "compensate", though there's no official obligation. 
 
-From a Buddhist perspective, I guess this wisdom means 平静淡定, not holding too tight. 船到桥头自然直. 
+From a Buddhist perspective, I guess this wisdom means 平静,淡定, not holding too tight. 船到桥头自然直 as you said.
 
-My local manager 老印 (or my senior manager in NY, American) have not complained about my slowness. Even if they do, it's still less alarming, less scary than getting an "error-prone" reputation. 
+I tend to forget many pointers after a conversation. (Some people would take notes on the spot but it can be distractive). I have a (good) habit to summarize those pointers in writing, but now I agree with you that sending it by email can be problematic in the work environment.
+
+My local manager 老印 (or my senior manager in NY, American) have not complained about my slowness. Even if they do, it's still less alarming, less scary than getting an "error-prone" reputation. Even worse would be human errors leading to production outage. (Another big mistake is compliance breach such as sending source code to gmail. )
+
 
 So far, my 老印 manager only raised concern across the team that most of us in Asia are not stepping up for Production support.
 
-A quality reputation for a SWE is hard to earn and maintain, but easy to lose. One of my colleagues (Indian national, 2Y in the team) has yet to make any mistake known to me, but is slightly low profile and quiet. Does he have a quality reputation? Not quite yet, perhaps becuase he has not make many large-scale system changes to demonstrate his quality mindset. 
+A quality reputation for a SWE is hard to earn and maintain, but easy to lose. One of my colleagues (2Y in the team) has yet to make any mistake known to me, but is slightly low profile and quiet. Does he have a quality reputation? Not quite yet, perhaps becuase he has not made many large-scale system changes to demonstrate his quality mindset. In contrast, I made a few medium-scale changes, and many many small changes. My dedicated QA team may find some imperfections in my output, but I think so far none of my mistakes has any production impact or required rework. I think I'm one of the "better half" among SWEs. 
 
-Combining Sense of urgency and 细水长流. My son has some sense of urgency but not enough by my stanard. At work, I do feel a sense of urgency but probably not enough by manager's standard. 细水长流 is a sustainable pace of work for the older SWE. I don't feel anyone is embracing it. 细水长流 means steady progress, not zero-progress or sluggish progress.
+Combining Sense of urgency and 细水长流... My son has some sense of urgency but not enough by my stanard. At work, I do feel a sense of urgency but probably not enough by manager's standard. 细水长流 is a sustainable pace of work for the older SWE. I don't feel anyone is embracing it. 细水长流 means steady progress, not zero-progress or sluggish progress, but my steady progress may be perceived as sluggish progress...sigh.
