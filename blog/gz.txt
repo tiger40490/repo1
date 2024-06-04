@@ -9,6 +9,14 @@ After you gain insight into an otherwise opaque system, then your job security a
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
+-- fuxi: 
+I used to be the youngest, most technical guy in the team. Then in later teams I became one of the strongest .. 95G, Barc, RTS... Slowly I am losing my edge and my relative position in any team. 
+
+I never had any management/problem-solving strength.
+
+-- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
+Now advanced SQL is irrelevant. Perl is only used for one-liners.
+shell scripting remains ever green.
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
