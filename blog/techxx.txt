@@ -1,40 +1,9 @@
 
--- new: tips@futures contract month codes
-M/N sound alike .. June/July look alike.
-F: FFFirst month
-U: my UChicago program started in Sep.
-
-The quarter month codes are more important: H:March, Z:December etc
-
 -- fuxi or update bpost on grep
 The --exclude-dir probably works only with recursive grep.
 
--- new: perl regex tips
-to evalute int($2) - int($1), you can use
-s/(whatever)...(whatever)/$2-$1/e 
-
-Must not use \2-\1
-
-to match a run of the same letter /(\w)\1{2}/  # trio
-
 -- new: linux command: count group-by 1stWordEachLine
 uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
-
--- new: py package dependency mgmt
-to reveal all precedents and dependencies of an high-level pip package 
-
-pip show langchain
-
-If you have some unknown number of dependencies removed, then you can fix it with this 3-word command:
-
-pip install langchain
-
-(langchain package has a requirements.txt.) The command will check requirementstxt, detect any dependency that's already satisfied and skip them.
-
--- update 
-clean price is quoted price. Quoted price should not change every day due to acrued interest. That change is a noise that traders don't want to see.
-
-dirty price is "the actual price" i.e used to compute actual transaction amount.
 
 -- new or update ..
 P 198 [[essentialC++]] has a sharp pointer "... mistake is to confuse c++ exceptions with hardware exceptions, such as seg fault or bus error. For a c++ exception to be thrown, there is a throw expression somewhere in program code."

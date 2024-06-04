@@ -1,4 +1,33 @@
+-- new: tips@futures contract month codes
+M/N sound alike .. June/July look alike.
+F: FFFirst month
+U: my UChicago program started in Sep.
 
+The quarter month codes are more important: H:March, Z:December etc
+
+-- new: py package dependency mgmt
+to reveal all precedents and dependencies of an high-level pip package 
+
+pip show langchain
+
+If you have some unknown number of dependencies removed, then you can fix it with this 3-word command:
+
+pip install langchain
+
+(langchain package has a requirements.txt.) The command will check requirementstxt, detect any dependency that's already satisfied and skip them.
+
+-- update 
+clean price is quoted price. Quoted price should not change every day due to acrued interest. That change is a noise that traders don't want to see.
+
+dirty price is "the actual price" with many digits, used to compute actual PnL.
+
+-- new: perl regex tips
+to evalute int($2) - int($1), you can use
+s/(whatever)...(whatever)/$2-$1/e 
+
+Must not use \2-\1
+
+to match a run of the same letter /(\w)\1{2}/  # trio
 -- update or new: 2D-array ptr type
 If via malloc then we get an int ptr
 
