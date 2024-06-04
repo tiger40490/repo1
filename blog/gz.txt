@@ -4,26 +4,11 @@ After you gain insight into an otherwise opaque system, then your job security a
 
 * How indispensible is that opaque system?
 * Across industries, how widely used is that opaque system? Murex? Spring? Aeron? Most opaque systems are localSys
-* How rare is your insight? Are you a one-man show? Quant insight is a rare insight.
+* rarity of your insight .. Are you a one-man show? Quant insight is a rare insight.
 * depth of your insight
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
--- fuxi or update ...
-I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
-
-remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
-One good use of remote debugging is .. revealing at least one way a method is used.
-
--- fuxi: grandpa's wisdom
-Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
-
-You can bend over backward, learn to accept the higher expectation, higher workload as Jenny of MS described,,, slow boiling
-You can put in a reasonable effort, 尽职尽责, resist the pressure to take on more
-
-Judgement -- what's reasonable workload, and what's too much.
-
-Sonic Jason's view -- no better job out there, so better accept.
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
@@ -75,3 +60,19 @@ Every challenge in Genepai is my problem, but the 2 of them are supposed to help
 If one of them becomes better than me and more productive than me, that can be a good thing. Manager should not penalize me.
 
 If they become independent and can contribute productively, I think managers would be delighted.
+
+-- fuxi or update ...
+I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
+
+remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
+One good use of remote debugging is .. revealing at least one way a method is used.
+
+-- fuxi: grandpa's wisdom
+Ensure you don't make mistakes. If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
+
+You can bend over backward, learn to accept the higher expectation, higher workload as Jenny of MS described,,, slow boiling
+You can put in a reasonable effort, 尽职尽责, resist the pressure to take on more
+
+Judgement -- what's reasonable workload, and what's too much.
+
+Sonic Jason's view -- no better job out there, so better accept.
