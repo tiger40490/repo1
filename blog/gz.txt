@@ -1,11 +1,5 @@
--- fuxi: multi-strategy/multi-manager sector of the HedgeFund industry
-50 players managing $350B, which is 8.6% of industry-wide AUM $4T
 
-G3 longest runners -- MLP, Citadel, point72
-
-Various analyses use the two terms "multi-strategy" and "multi-manager". Each analyst has his own criteria and definition of the two terms.
-
--- new or update bpost on opaque^transparency
+-- new or update bpost on opaque^transparency.. which bpost?
 After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
 
 * How indispensible is that opaque system?
