@@ -15,8 +15,10 @@ I used to be the youngest, most technical guy in the team. Then in later teams I
 I never had any management/problem-solving strength.
 
 -- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
-Now advanced SQL is irrelevant. Perl is only used for one-liners.
-shell scripting remains ever green.
+advanced git is popular
+Nowadays advanced SQL is relevant only in PWM. Perl is only used for one-liners.
+shell scripting remains evergreen.
+git-bash is useful for me, but not used by others
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
