@@ -5,7 +5,7 @@
 -- fuxi or new: localSys ^ high-churn domains
 portable t-investment .. zero for localSys 
 engaging .. high-churn could be more exciting
-marketable skill .. zero for localSys
+market value .. zero for localSys
 
 -- new or update bpost on opaque^transparency.. which bpost?
 After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
@@ -24,7 +24,7 @@ I never had any management/problem-solving strength.
 
 -- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
 advanced git is popular
-Nowadays advanced SQL is relevant only in PWM. Perl is only used for one-liners.
+Nowadays advanced SQL is relevant only in places like PWM. Perl is only used for one-liners.
 shell scripting remains evergreen.
 git-bash is useful for me, but not used by others
 

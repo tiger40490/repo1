@@ -3,24 +3,25 @@ Do I need to determine my max heart rate?
 
 How relevant/safe are the 2 new drugs?
 
-Do I need to learn to recognize angina and prepare a GTN?
+-- update bpost on Dr Leow
+Do I need to learn how to recognize angina and prepare a GTN?
 A: there are many angina symptoms including some minor discomfort
 A: GTN not effective for me. Tablets like aspirin blood thinner also unsuitable since it can backfire in some cases
 %%A: I believe GTN and tablets are not needed for my current level of risk. For some reason, doctor won't put it that way.
 
 Is my sildenafil affected by the three drugs you prescribed? 
 A: No. 
-A: GTN + sildenafil would be dangerous
+A: GTN + sildenafil is proven dangerous
 
 Q: future CT results will need to be interpreted with this FFR report?
-A: regular CT will not be suitable.. wait for newer technology
+A: Standard CT will not be suitable.. wait for newer technology
 
 Q: how do I monitor the build-up over next 10y?
 A: ESE (exercise stress echo) every 2Y, or 1Y at least
-A: regular treadmill test will give false positives.
+A: Standard treadmill test will give false positives.
 
 What can I do about hypertension risk? I guess same as everyone else i.e. manage risk facctors
--- update bpost on Dr Leow
+
 I have gastritis ... so some blood thinners are unsafe? 
 AA: Even aspirin can be safe, if taken after (within 15m or with) meal
 
