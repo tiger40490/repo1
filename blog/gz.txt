@@ -25,10 +25,14 @@ engaging .. high-churn could be more exciting
 market value .. zero for localSys
 
 -- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
+I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
+
 advanced git is popular
 Nowadays advanced SQL is relevant only in places like PWM. Perl is only used for one-liners.
 shell scripting remains evergreen.
 git-bash is useful for me, but not used by others
+remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
+One good use of remote debugging is .. revealing at least one way a method is used.
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
@@ -50,28 +54,4 @@ All of these personal habits above slow me down, but they tend to protect my per
 -- fuxi: some crunch times in past EPA projects
 * mid 2020: RJO
 * 2nd half of 2022: Quark
-* Aug 2023 onwards: Genepai
-
--- fuxi or update ...: 
-Whether we use tbl or Genepai, I would have a relatively comfortable timeline... Am lucky.
-
-when I feel stressed about Genepai progress, I can feel relieved that the two full-time young devs didn't find a better solution than mine.
-
-Apparently, there's no yardstick to guage progress.
-However, Genepai made enough progress (albeit small) to /earn/ multiple business trips between Sgp and NYC.
-
-The deliverable is a dream. If you show effort and make *some* progress, then they would probably reward you for trying.
-
-Other AI projects in EqTech rarely have any full-time devs. 
-
-Every challenge in Genepai is my problem, but the 2 of them are supposed to help out, so it's fine to delegate to them, while I design high-level things and take on modules that are hard to delegate.
-
-If one of them becomes better than me and more productive than me, that can be a good thing. Manager should not penalize me.
-
-If they become independent and can contribute productively, I think managers would be delighted.
-
--- fuxi or update ...
-I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
-
-remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
-One good use of remote debugging is .. revealing at least one way a method is used.
+* Aug 2023 early 2024: Genepai
