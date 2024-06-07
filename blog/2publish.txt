@@ -74,6 +74,11 @@ Avoid attacking, which tends to invite counter-attacks and dangerous escalation 
 
 The salesperson is often young, untrained, and doing the job relunctantly.
 
+-- new: unhide a window
+if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press 
+
+control-shift and rightClick on the taskbar item.
+
 -- new: XiaoYan meet-up
 XiaoYan is a kind lady. I guess she decided to spend 1.5 hours learning about the world outside PSA, and sharing experiences and observations. As I told her, this meet-up turned out to be an insightful, reflective career counselling session. She was a helpful mirror. I revealed a lot of my fears, setbacks, weaknesses,,, and received substantial support.
 
