@@ -1,18 +1,11 @@
--- fuxi:
-laptop disk usage tweakig with landgrab, treeFreeSize ,,, 
-Comparable to rug sorting in #610 home?
-
-may not be necessary, but I find it enjoyable
-It is less irrelevant in small, cheap laptops
-
--- update laptop req
-Q: which features are worth something ($100+) to me?
-A: touch screen
-A: weight .. only for the tiny models
-A: capacity of a new battery
-
 -- update bpost on disk hogs
 Compared to SocialTab, the "ForumTab" name is more vague, more versatile .. more suitable as tempUpdate
+
+laptop disk usage tweakig with landgrab, treeFreeSize ,,, 
+Comparable to rug sorting in #610 home?
+may not be necessary, but I find it enjoyable
+It is less irrelevant in small, cheap laptops
+The analysis gives me insight and confidence when facing disk shortage
 
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
