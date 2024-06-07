@@ -9,10 +9,6 @@ After you gain insight into an otherwise opaque system, then your job security a
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
--- fuxi: 
-I used to be the youngest, most technical guy in the team. Then in later teams I became one of the strongest .. 95G, Barc, RTS... Slowly I am losing my edge and my relative position in any team. 
-
-I never had any management/problem-solving strength.
 -- fuxi or new: localSys ^ high-churn domains
 portable t-investment .. zero for localSys 
 engaging .. high-churn could be more exciting
