@@ -18,22 +18,6 @@ After you gain insight into an otherwise opaque system, then your job security a
 * longevity of the opaque system and its accu and churn-resistance
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
-
--- fuxi or new: localSys ^ high-churn domains
-portable t-investment .. zero for localSys 
-engaging .. high-churn could be more exciting
-market value .. zero for localSys
-
--- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
-I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
-
-advanced git is popular
-Nowadays advanced SQL is relevant only in places like PWM. Perl is only used for one-liners.
-shell scripting remains evergreen.
-git-bash is useful for me, but not used by others
-remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
-One good use of remote debugging is .. revealing at least one way a method is used.
-
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
 
@@ -50,6 +34,20 @@ Across a /structured/ codebase, I tend to bend over backward to enforce consiste
 A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
+-- fuxi or new: localSys ^ high-churn domains
+portable t-investment .. zero for localSys 
+engaging .. high-churn could be more exciting
+market value .. zero for localSys
+
+-- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
+I often find a secret killer skill in perl and shell as a power drill when facing a stone wall in project. 
+
+advanced git is popular
+shell scripting remains evergreen.
+git-bash is useful for me, but not used by others
+Nowadays advanced SQL is relevant only in places like PWM. Perl is only used for one-liners.
+remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
+One good use of remote debugging is .. revealing at least one way a method is used.
 
 -- fuxi: some crunch times in past EPA projects
 * mid 2020: RJO
