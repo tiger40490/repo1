@@ -2,9 +2,10 @@
 After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
 
 * How indispensible is that opaque system?
-* Across industries, how widely used is that opaque system? Murex? Spring? Aeron? Most opaque systems are localSys
-* rarity of your insight .. Are you a one-man show? Quant insight is a rare insight.
-* depth of your insight
+* Across industries, how widely used is that opaque system? Murex? Spring? Aeron? Majority of opaque systems are localSys
+* rarity of your insight .. Are you a one-man show? VolFitter:)
+* depth of your insight. VolFitter:)
+* longevity of the opaque system and its accu and churn-resistance
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
