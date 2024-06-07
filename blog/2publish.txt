@@ -1,3 +1,20 @@
+-- udpate "fast developers"
+Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
+
+Q: can you imagine a restaurant chef very fast with his work, but once a while, produces a dish with salt omitted, causing complaints? (Note sometimes salt can be added later.) If too frequent, then she is disqualified.
+
+In SWE profession, if there's a well-known error-prone coder, we often say that we constantly worry about him producing buggy code, so much so that we would rather not have him coding. The threshold of "too many missteps" depends on frequency and severity. 
+
+A key factor is personal reputation. 
+
+I tend to write more documentation than fellow SWE. The act of writing and rewriting detailed docs enhances my awareness of (personal) blindspots, hidden areas, edge cases. Those docs that are written for a wider audience would receive more attention from me the author.
+
+Across a /structured/ codebase, I tend to bend over backward to enforce consistency. Inconsistency is breeding ground for bugs, so this habit can flush out some bugs.
+
+A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
+
+All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
+
 -- new: wanted 200k salary: had no clue]2013
 during 2013, I had no clue how to increase my salary to 200k.
 Once I leave the current high ground of epa, it will be equally tough to climb back up.
