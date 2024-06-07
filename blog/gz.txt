@@ -1,7 +1,3 @@
--- fuxi: too many old bposts in gz. Practical suggestions:
-* use header keyword ? like 200?
-* retire (placehlder) more posts?
-
 -- fuxi or new: localSys ^ high-churn domains
 portable t-investment .. zero for localSys 
 engaging .. high-churn could be more exciting

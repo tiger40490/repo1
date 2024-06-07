@@ -1,3 +1,7 @@
+-- fuxi: too many old bposts in gz. Practical suggestions:
+* use header keyword ? like 200?
+* retire (placehlder) more posts?
+
 -- rename category 'theft' to 'hacked'
 -- new: promote /disposable/ blogging
 tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.
