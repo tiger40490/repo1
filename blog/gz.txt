@@ -1,8 +1,3 @@
--- fuxi or new: localSys ^ high-churn domains
-portable t-investment .. zero for localSys 
-engaging .. high-churn could be more exciting
-market value .. zero for localSys
-
 -- new or update bpost on opaque^transparency.. which bpost?
 After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
 
@@ -17,6 +12,10 @@ c++ is deeper and more opaque than java. Shell/perl/python are usually less opaq
 I used to be the youngest, most technical guy in the team. Then in later teams I became one of the strongest .. 95G, Barc, RTS... Slowly I am losing my edge and my relative position in any team. 
 
 I never had any management/problem-solving strength.
+-- fuxi or new: localSys ^ high-churn domains
+portable t-investment .. zero for localSys 
+engaging .. high-churn could be more exciting
+market value .. zero for localSys
 
 -- fuxi: I used to enjoy/exploit my perl/SQL/unix GTD "superpower"
 advanced git is popular
