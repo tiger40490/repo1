@@ -1,4 +1,3 @@
-
 -- new: 尽职尽责 grandpa's wisdom
 If you do your part yet struggle to meet some arbitrary expectation of the manager and feeling burned out or overstretched, then you have two choice --
 
@@ -18,6 +17,9 @@ After you gain insight into an otherwise opaque system, then your job security a
 * longevity of the opaque system and its accu and churn-resistance
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
+
+How about PMA? Not so opaque; indispensible; one-man show
+Am building my insight via archiver
 
 -- fuxi or new: localSys ^ high-churn domains
 portable t-investment .. zero for localSys 
