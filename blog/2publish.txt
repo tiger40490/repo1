@@ -15,21 +15,6 @@ A smaller habit is naming variables, functions and classes. I spend lots of time
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
 
--- new: wanted 200k salary: had no clue]2013
-during 2013, I had no clue how to increase my salary to 200k.
-Once I leave the current high ground of epa, it will be equally tough to climb back up.
-
-I used tell myself "Give me a chance to (get up to that high ground and) earn that high salary for a couple of years, and I can rest for 5 years".
-
-The salary peer-comparison is both background-heat and c-ray [cosmic ray]. It hits us all the time. Sometimes a comparison result is comforting/soothing, but mostly the xpSelf notices the negative, disturbing comparison results -- FOLB.
-
-Most of the time we are cool about FOLB, but once a while we do feel affected. 
-
-Therefore, my current salary is not really unimportant. I often say that between two jobs at the same base salary, I would prefer the contract position because there's no bonus no appraisal. 
-
-The older I get, the less I am affected by the c-ray/FOLB, the more I appreciate a /sustainable/ salary. Those contract positions are more acceptable.
-
-The job title benchmark is related but out of scope.
 -- udpate bpost on hedge fund PnL: 
 multi-strategy/multi-manager sector of the HedgeFund industry
 50 players managing $350B, which is 8.6% of industry-wide AUM $4T
@@ -37,13 +22,11 @@ multi-strategy/multi-manager sector of the HedgeFund industry
 G3 longest runners -- MLP, Citadel, point72
 
 Various analyses use the two terms "multi-strategy" and "multi-manager". Each analyst has his own criteria and definition of the two terms.
+
 -- upate bpost on addicted to employee benefits
 In Macq, when I brought family in for pingpong, I was relying on staff benefits, assuming I was performing well to deserve everything.
--- update bpost on "something wrong"
-With CAD, my appetite dropped suddenly. I stopped responding to tasty foods present in office or home.
-Good or bad? I think it's good for my CAD condition. Adaptation.
 
--- fuxi or new: [24] comparing to the last two quant3sg jobs
+-- slow cooking new: [24] comparing to quant3sg
 In 2023 and 2024, I often feel a spike/surge in work stress, but it is actually lighter than Qz+Macq.
 
 The proportion of challenging, stressful projects was higher, perhaps due to my "prime" age. 
@@ -67,8 +50,24 @@ I often take time off without using my annual leave.
 
 A big (often-overlooked) factor is the Qz job smell -- proprietary, dead-end, insufficient documentation... struggle
 
-Paradoxically, salary has never become a big factor in my /stressor profile/. Medical benefits.. ditto. In OC I had my lowest salary but good brbr, as always.
+~~ wanted 200k salary, had no clue]2013
+Paradoxically, salary seldom became a big factor in my /stressor profile/. Medical benefits.. ditto. In OC I had my lowest salary but good brbr, as always.
 Lower salary in Qz+Macq didn't translate to job security :(
+
+During 2012~2014, I had no clue how to increase salary to 200k.
+Once I leave the current high ground of epa, it will be equally tough to climb back up.
+
+I used to tell myself "Give me a chance to (get up to that high ground and) earn that high salary for a couple of years, and I can rest for 5 years".
+
+The salary peer-comparison is both background-heat and c-ray [cosmic ray]. It hits us all the time. Sometimes a comparison result is comforting/soothing, but mostly the xpSelf notices the negative, disturbing comparison results -- FOLB.
+
+Most of the time we are cool about FOLB, but once a while we do feel affected. 
+
+Therefore, my current salary is not really unimportant. I often say that between two jobs at the same base salary, I would prefer the contract position because there's no bonus no appraisal. 
+
+The older I get, the less I am affected by the c-ray/FOLB, the more I appreciate a /sustainable/ salary. Those contract positions are more acceptable.
+
+The job title benchmark is related but out of scope.
 
 ~~ How about stressors outside office? Half-ranked by "note-worthy and specific"
 My weekly workout routine has proven sustainable for 2Y(?). On this front, am pulling ahead of my cohort.
@@ -79,22 +78,6 @@ My ptf has grown perhaps by millions (in RMB), despite some small write-offs. I 
 My CPF plan for retirement has strengthened. My retirement burn rate has remained stable, despite inflation. 
 I have uncovered some hidden but critical health conditions. I have uncovered them early, and become more informed of a few related key risks. Am in a better position to protect my heart and other organs
 I have made steady progress and completed UChicago program. No measurable ROI but many intangible benefits.
-
--- new: bullied by shop assistants
-A little more love for my still-intact heart... Frequent anger can affect blood pressure. My heart rate actually went up when confronting the bully. We get a burst of energy. If this happens often, it causes wear and tear on your artery walls. Research backs that up.
-
-State your demnad like 'I hope you can accept your fault, and learn a lesson.' If the salesperson refuses, then at least I made my demand.
-
-Speak slowly and avoid raising your voice.
-
-Avoid attacking, which tends to invite counter-attacks and dangerous escalation of tension.
-
-The salesperson is often young, untrained, and doing the job relunctantly.
-
--- new: unhide a window
-if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press 
-
-control-shift and rightClick on the taskbar item.
 
 -- new: XiaoYan meet-up
 XiaoYan is a kind lady. I guess she decided to spend 1.5 hours learning about the world outside PSA, and sharing experiences and observations. As I told her, this meet-up turned out to be an insightful, reflective career counselling session. She was a helpful mirror. I revealed a lot of my fears, setbacks, weaknesses,,, and received substantial support.
@@ -138,7 +121,7 @@ A: not alwaysl. In Dropcopy framework, I realized that
 * many times yes I can and should convert. LambdaEx is designed for small code blocks.
 * however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
 
--- fuxi or update bpost on deep work
+-- slow cooking update bpost on deep work
 Learning something "strategic" is real work.
 eg: Learning for a meaningful school exam is strategic -- NUS? MSFM?
 eg: Coding drill is strategic and deep work.
@@ -148,7 +131,14 @@ Some learning can be less "real". Same can be said of various paid projects. In 
 -- update bpost on miles, ..
 Somehow, MLP likes to retrench old timers ... Denis Xu
 
--- CiticTrust deal #fuxi
+-- update bpost on C
+I often feel proud to say C was my first language.
+Similarly, I feel proud to self-identify as a math graduate.
+
+These domains are evergreen in terms of relevance and skill demand. 
+Somehow my career[and learning] gravitates towards these /magnets/.
+
+----- CiticTrust deal #fuxi
 The bare room fee monthly (excl. 2.5k) x 36 deposited to your personal CiticTrust account. Suppose 10k/M. Each month, discounted amount (eg: 9k) is auto-paid to DJDJ.
 
 discount is only on room fee, not 2.5k, not 护理 fee
@@ -156,6 +146,26 @@ discount is only on room fee, not 2.5k, not 护理 fee
 online access to CitiTrust account?  mobileApp only. No website
 
 DJDJ's motivation to give 10% discount … loayalty program to soft lock in the client for long term.
+
+-- new: unhide a window
+if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press 
+
+control-shift and rightClick on the taskbar item.
+
+-- new: bullied by shop assistants
+A little more love for my still-intact heart... Frequent anger can affect blood pressure. My heart rate actually went up when confronting the bully. We get a burst of energy. If this happens often, it causes wear and tear on your artery walls. Research backs that up.
+
+State your demnad like 'I hope you can accept your fault, and learn a lesson.' If the salesperson refuses, then at least I made my demand.
+
+Speak slowly and avoid raising your voice.
+
+Avoid attacking, which tends to invite counter-attacks and dangerous escalation of tension.
+
+The salesperson is often young, untrained, and doing the job relunctantly.
+
+-- update bpost on "something wrong"
+With CAD, my appetite dropped suddenly. I stopped responding to tasty foods present in office or home.
+Good or bad? I think it's good for my CAD condition. Adaptation.
 
 -- new: CAD implications
 If I go to the U.S. I will need insurance. I will need frequent medical checks and consultations. WStC jobs will be less attractive given the expensive insurance.
@@ -177,13 +187,6 @@ I tend to look at my running performance as a guage of my physical decline, but 
 I hope to regain my sense of optimism and gratitude.
 
 I hope to find something good in this challenging situation. I may not find any.
-
--- update bpost on C
-I often feel proud to say C was my first language.
-Similarly, I feel proud to self-identify as a math graduate.
-
-These domains are evergreen in terms of relevance and skill demand. 
-Somehow my career[and learning] gravitates towards these /magnets/.
 
 -- update laptop req
 Q: which features are worth something ($100+) to me?
@@ -211,7 +214,7 @@ How about my ADL insurance? I now feel somewhat more vindicated.
 
 The more children and grandchildren I have, the more resources I have available in my old age.
 
--- update pff complexities 
+------ update pff complexities 
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
 Rarely you get free advisory service (remember FSM and Phillip), unless during the sale process.
 
