@@ -1,4 +1,10 @@
--- fuxi: to source multiple  .func.*  files
+-- new
+What if you have java (or other source code) files in your project but you want them excluded during compilation?
+
+Sugg: change file extension to append *.txt
+Sugg: in git, keep the file in a non-source folder, like dat/log/cfg/script folders
+
+-- fuxi: bash to source multiple  .func.*  files
 you need a for loop. 
 
 -- fuxi or update bpost on grep

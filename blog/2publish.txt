@@ -1,3 +1,6 @@
+-- update bpost on R vs B complexities
+S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
+
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
 
