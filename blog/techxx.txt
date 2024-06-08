@@ -1,3 +1,5 @@
+-- fuxi: to source multiple  .func.*  files
+you need a for loop. 
 
 -- fuxi or update bpost on grep
 The --exclude-dir probably works only with recursive grep.
