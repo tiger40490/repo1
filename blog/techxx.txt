@@ -17,6 +17,9 @@ sugg: keep the file in build, just like many other unreferenced classes, but add
 .. but noisy grep
 .. but Compilation errors
 
+-- fuxi: push an arbitrary local branch
+git push origin anyBranch
+
 -- fuxi: bash to source multiple  .func.*  files
 you need a for loop. 
 
