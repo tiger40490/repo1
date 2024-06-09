@@ -2,7 +2,19 @@
 What if you have java (or other source code) files in your project but you want them excluded during compilation?
 
 Sugg: change file extension to append *.txt
+.. but noisy grep
+.. but messy git history 
+
 Sugg: in git, keep the file in a non-source folder, like dat/log/cfg/script folders
+.. but future developers may miss it
+.. but noisy grep
+
+Sugg: comment out entire file
+.. but noisy grep
+
+sugg: keep the file in build, just like many other unreferenced classes, but add comment to explain. 
+.. but noisy grep
+.. but Compilation errors
 
 -- fuxi: bash to source multiple  .func.*  files
 you need a for loop. 
