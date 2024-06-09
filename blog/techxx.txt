@@ -15,7 +15,8 @@ Sugg: comment out entire file
 
 sugg: keep the file in build, just like many other unreferenced classes, but add comment to explain. 
 .. but noisy grep
-.. but Compilation errors
+.. but compilation errors
+.. but misleading usage analysis by IDE
 
 -- fuxi: push an arbitrary local branch
 git push origin anyBranch
