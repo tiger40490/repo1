@@ -1,7 +1,8 @@
 -- questions for cardiologist
 Do I need to determine my max heart rate?
-
 How relevant/safe are the 2 new drugs?
+
+Lipitor can affect liver. How about Crestor? 
 
 -- update bpost on Dr Leow
 Do I need to learn how to recognize angina and prepare a GTN?
@@ -25,7 +26,6 @@ What can I do about hypertension risk? I guess same as everyone else i.e. manage
 I have gastritis ... so some blood thinners are unsafe? 
 AA: Even aspirin can be safe, if taken after (within 15m or with) meal
 
-May need more effective cholesterol drug. 
 How do I watch out for liver damage due to Lipitor? 
 AA: blood test every 6M
 
@@ -36,9 +36,7 @@ will the procedure leave the smaller plagues (below 50% blockage) untreated? Wil
 AA: Scenario 1: doesn't build up over many years
 AA: Sceanrio 2: worsening.. further intervention
 
-I requested for treadmill every 6M.
-
-How safe is chin-up, or push-up, skip-rope etc? AA: Wait for 1M .. wrist wound
+How safe is chin-up, or push-up, skip-rope etc? AA: safe after wrist heals
 How safe is climbing stairs and squat? AA: yes after 2 weeks
 How safe is slow run up a small hill? AA: safe
 How safe is 100m continuous swim? AA: safe
@@ -57,14 +55,11 @@ For young men with family history, start checking cholesterol after 20.
 Is atherectomy a safe option for me?
 AA: higher risk. Good option when it's necessary (lesser of two evils) such as hardened plaque. 
 
-one or more stents?
-AA: perhaps one. Some narrow arteries will not be suitable for stent. Too bad they will not get stent.
-
 Q: What if I miss 1 or 2 times a week?
 AA: don't double up on the next day
 
 Q: how do I know that work stress is actually affecting my heart health?
-AA: chest tightness, short of breath while climbing even a short stair
+AA: chest tightness, short of breath while climbing even short stairs
 Q: how about mild discomfort around the heart
 AA: yes can be a sign
 
