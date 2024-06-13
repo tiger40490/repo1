@@ -8,9 +8,9 @@ Y248,966.88 + Y12,768 房费 are the first and second deposit paid in early 2024
 Y2,500 x12 第二人入住
 Y3,600 x12 food
 Y1,000 x12 (minimum) grandma tiered 护理 fee
-Y4,000 x12 (estimated) grandpa tiered 护理 fee
+Y7,000 x12 (estimated) grandpa tiered 护理 fee
 ------
-total Y32,911 per month x 12 
+total Y35,911 per month x 12 
 
 ~~ One-time
 Y60,000 保证金 emergency deposit
@@ -81,9 +81,9 @@ Way above 50% of Sgp level, not worthwhile as retirement destination.
 * hotel Y400+/night
 * claypot meal Y20
 
--- AIA bigger plan (for wife) has SGD 30k for CI-early
+-- update AIA bigger plan (for wife) has SGD 30k for CI-early
 
-If we stop paying prem, then AIA will deduct $28/M charges by redeeming from the investment portion.
+If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
 
 SRS to pay for AIA premium? No
 
