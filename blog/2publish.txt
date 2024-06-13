@@ -1,8 +1,22 @@
+-- update bpost on R vs B complexities
+If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
+Rarely you get free advisory service (remember FSM and Phillip), unless during the sale process.
+
+S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
 
 -- update bpost on death benefit
 MLP group-CI is late-stage-37CI
 
--- new: djdj fees
+-- CiticTrust deal #fuxi
+The bare room fee monthly (excl. 2.5k) x 36 deposited to your personal CiticTrust account. Suppose 10k/M. Each month, discounted amount (eg: 9k) is auto-paid to DJDJ.
+
+discount is only on room fee, not 2.5k, not 护理 fee
+
+online access to CitiTrust account?  mobileApp only. No website
+
+DJDJ's motivation to give 10% discount … loayalty program to soft lock in the client for long term.
+
+~~ new: djdj fees
 RMB 1000/M additional fee for Floor 11 .. is worthwhile given the expected length of stay.
 
 ~~ annual: 
@@ -18,9 +32,6 @@ total Y35,911 per month x 12
 ~~ One-time
 Y60,000 保证金 emergency deposit
 Y 4,000 安置 fee
-
--- update bpost on R vs B complexities
-S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
@@ -177,15 +188,6 @@ Similarly, I feel proud to self-identify as a math graduate.
 These domains are evergreen in terms of relevance and skill demand. 
 Somehow my career[and learning] gravitates towards these /magnets/.
 
------ CiticTrust deal #fuxi
-The bare room fee monthly (excl. 2.5k) x 36 deposited to your personal CiticTrust account. Suppose 10k/M. Each month, discounted amount (eg: 9k) is auto-paid to DJDJ.
-
-discount is only on room fee, not 2.5k, not 护理 fee
-
-online access to CitiTrust account?  mobileApp only. No website
-
-DJDJ's motivation to give 10% discount … loayalty program to soft lock in the client for long term.
-
 -- new: unhide a window
 if a window dosesn't show up even though it is on the taskbar, then it's hidden somewhere. You can press 
 
@@ -252,10 +254,6 @@ Before I can plan ahead, I have to give up on unrealistic expectations.
 How about my ADL insurance? I now feel somewhat more vindicated. 
 
 The more children and grandchildren I have, the more resources I have available in my old age.
-
------- update pff complexities 
-If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
-Rarely you get free advisory service (remember FSM and Phillip), unless during the sale process.
 
 -- new slow-cooking: growing richer but not happier
 "Compared to the post-war era or pre-modernization era, we are substantially richer but no happier."
