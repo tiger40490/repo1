@@ -1,3 +1,24 @@
+
+-- update bpost on death benefit
+MLP group-CI is late-stage-37CI
+
+-- new: djdj fees
+RMB 1000/M additional fee for Floor 11 .. is worthwhile given the expected length of stay.
+
+~~ annual: 
+Y248,966.88 + Y12,768 房费 are the first and second deposit paid in early 2024.
+.. Y21,811 x 12
+Y2,500 x12 第二人入住
+Y3,600 x12 food
+Y1,000 x12 (minimum) grandma tiered 护理 fee
+Y7,000 x12 (estimated) grandpa tiered 护理 fee
+------
+total Y35,911 per month x 12 
+
+~~ One-time
+Y60,000 保证金 emergency deposit
+Y 4,000 安置 fee
+
 -- update bpost on R vs B complexities
 S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
 
