@@ -1,5 +1,3 @@
-
-
 -- update bpost on will 
 first executor can appoint a new executor.
 bank as executor ... more expensive
@@ -26,16 +24,7 @@ Even if we transition to such a portfolio, there's no guarantee that my offsprin
 -- update ...
 before wife's cpfSA is closed, top it up to the max ... 250k or whatever.
 
--- fuxi: BGC ask Chun Tih what if I pass away
-Any taxes to pay for inheritance
-
 -- fuxi: insurance companies: need to give nomination
-
--- will preparation:
-NTUC Income Gift .. need policy number
-find the max age for each policy
-
--- ask Susan Lee to find a will-writing agency in Cambodia
 
 -- fuxi: SP500 continues to beat most investment products out there. So I may need to increase my position in SP500 (or a simliar index ETF)
 Beside S27 and the DJ product, are there other US ETFs listed on SGX?
@@ -45,7 +34,7 @@ Some investment salesmen or authors pose the question "Do you think you are an e
 
 The investment management industry has an industry standard about picking a "benchmark" for each managed product, because the benchmark is a crucial factor (in performance evaluation etc). Most investment managers choose some index. They think their index is fair. I guess so. 
 
-I don't bother to find a fair benchmark for my portfolio. It's too complicated touches a raw nerve.
+I don't bother to find a fair benchmark for my portfolio. It's too complicated and touches a raw nerve.
 
 Those salesmen tend to suggest an implicit benchmark on my performancce, but is it fair? I feel those implicit benchmarks tend to be very high and therefore unfair.
 
