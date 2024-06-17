@@ -1,13 +1,10 @@
 -- new: 
 The hardening of the artery walls is known as arterIOsclerosis, while the build-up of plaque is known as atherosclerosis
 
--- new: snap
-I like this informal variation of "snapshot". It's short and versatile
+-- fuxi: 
+"these days" is more colloquial than "nowadays" or "today". 
 
-snapping -- technical term for the process of creating a snap
-a snap -- a single snapshot
-
--- live-hazard .. not a common phrase according to google
+--fuxi: live-hazard .. not a common phrase according to google
 
 -- new: seems likely ... tentative
 subtly different from "is likely"
