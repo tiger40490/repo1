@@ -4,6 +4,13 @@ I like this informal variation of "snapshot". It's short and versatile
 snapping -- technical term for the process of creating a snap
 a snap -- a single snapshot
 
+-- fallback ^ backup
+fineDiff
+backup has a confusing meaning in my (techie) world, so I always say "backup plan"
+
+Fallback -> if defeated by something.
+Backup -> as a sensible alternative/insurance.
+
 -- update bpost on R vs B complexities
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
 Rarely you get free advisory service (remember FSM and Phillip), unless during the sale process.
