@@ -1,6 +1,7 @@
 -- new: 
-The hardening of the artery walls is known as arterIOsclerosis, while the build-up of plaque is known as atherosclerosis
+The hardening of the artery walls is known as aRterIOsclerosis, while the build-up of plaque is known as atherosclerosis
 
+-- fuxi: authorItAtive.. comes from authorIty
 -- fuxi: 
 "these days" is more colloquial than "nowadays" or "today". 
 
@@ -21,7 +22,7 @@ examples?
 == new: efficacy^effective
 efficacy is a capacity, a capacity for producing a desired effect.
 
-The word "Effectiveness" has browader usage scenarios. Many of them are bad for Efficacy.
+The word "Effectiveness" has broader usage scenarios. Many of them are bad for Efficacy.
 
 Self-efficacy measures the level of self-belief in your own capacity to get something done (achieve a desired goal), regardless how effective it is achieved.
 
