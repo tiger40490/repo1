@@ -1,3 +1,14 @@
+-- update which bpost on quietime... perhaps the restaurant
+carve out quietime:
+early rise at home
+cinema before a movie
+fastFood with table + free wifi, 
+library
+stadium 
+MRT, bus interchange, with A/C
+downstairs, 
+office on weekends/evenings
+
 -- fuxi:
 I am using a few t-allocation "fraeworks" to manage multiple on-going projects in my life.
 Q: am I missing anything important?
@@ -8,14 +19,6 @@ pff
 work projects
 academic parenting
 wellness
-
--- noblog: sunshine needed
-meimei's basic math
-fireside chat with boy
-
-May need to reduce t-allocation to 
-* jogg and gym.. in favor of lunges, skiprope, push-up
-* localSys
 
 -- slow cooking update blogpost on more/less?
 Fact: for some of us, we always feel insufficient allocation to this or that aspects of our lives. (To be fair, occasionally we feel some over-allocation.)
