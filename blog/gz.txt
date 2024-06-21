@@ -8,16 +8,16 @@ Need to reduce actual work hours, while I maintain or even increase my quiet hou
 -- new or update bpost on opaque^transparency.. which bpost?
 After you gain insight into an otherwise opaque system, then your job security and career security improves to some extent, depending on 
 
-* How indispensible is that opaque system?
+* How indispensible/crucial/central/redundant is that opaque system?
 * Across industries, how widely used is that opaque system? Murex? Spring? Aeron? Majority of opaque systems are localSys
-* rarity of your insight .. Are you a one-man show? VolFitter:)
-* depth of your insight. VolFitter:)
+* rarity of your insight .. Are you a one-man show? VolFitter requires more math:)
+* depth of your insight. 
 * longevity of the opaque system and its accu and churn-resistance
+* crying baby .. PMA takes up work hours and can let me demonstrate my knowledge and book my hours :) In contrast, Nautilus is not a crying baby :(
 
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
 How about PMA? Not so opaque; indispensible; one-man show
-Am building my insight via archiver
 
 -- fuxi or new: localSys ^ high-churn domains
 portable t-investment .. zero for localSys 
