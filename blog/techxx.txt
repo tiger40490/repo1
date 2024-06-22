@@ -24,9 +24,6 @@ git push origin anyBranch
 -- fuxi: bash to source multiple  .func.*  files
 you need a for loop. 
 
--- fuxi or update bpost on grep
-The --exclude-dir probably works only with recursive grep.
-
 -- new: linux command: count group-by 1stWordEachLine
 uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
 
