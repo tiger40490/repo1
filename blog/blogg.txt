@@ -1,31 +1,11 @@
+-- new or update: t_w1rX tags
+I follow a consistent standard but not 100% precise .. in w1rX, X = counts of major revisions.
+
+In the initial phase, there could be many repaid revisions. I sometimes put X = 2 or 3. Six months later, I may reduce X ... LGng
+
 -- fuxi: too many old bposts in gz. Practical suggestions:
 * use header keyword ? like 200?
-* retire (placehlder) more posts?
-
--- rename category 'theft' to 'hacked'
--- new: promote /disposable/ blogging
-tcost: updating existing bpost .. obligation to find the most relevant bpost. After that, often need to integrate new content into existing.
-tcost: creating brand new bpost... obligation to choose category/tags and draft good title
-tcost: noisy wpress search /against/ increased blog content; overcrowded category/tags
-
-When I have too much content in git-blog, a recommendation is ... disposable blogg i.e. expressive, reflective, therapeutic writing in git-blog (or wpress), and later move content into those fuxi_*.txt files
-
-Email with friends .. is an exemplification of such reflective writing. "Thrown away" into gmail archive. better tcosts.
-Eg: in early 2024, I did such an reflective writing on "adaptable retirement". These emails are kinda worth a dramRefersh once a while,  but ... Should they go into my blog as four-liners? Only a selected few.
-
-Need to go through the fuxi_* files once a while or they would keep growing
-
-split fuxi_ files by subject
-
--- new: WPress notices: hide
-This is a persistent annoyance.. worth some t-investment
-
-https://wordpress.org/plugins/disable-admin-notices/ .. ineffective
-https://wordpress.org/plugins/disable-wp-notification/
-https://wordpress.org/plugins/disable-admin-dashboard-notices/
-https://wordpress.org/plugins/wp-hide-backed-notices/
-
-We can search for "The backup of this post in your browser is different from the version below" in ssh. Once we locate the file, we can try to disable it.
+* retire more posts into placeholders
 
 -- fuxi or update bpost on site blocked
 I AM flexible. In the face of growing site blocks at end of 2023, I have taken things in my stride.
@@ -37,7 +17,7 @@ I don't take for granted whatever freedom given to me.
 When a freedome is taken away, I tend to have an adjustment problem. 
 I remember GS .. blogger was blocked.
 
--- fuxi: use both k_twister_SMS and t_selfTalk .. a new model for overlap-tagging
+-- fuxi: use both k_twister_SMS and t_selfTalk .. overlap between header keyword and tag
 Better than two overlapp tags (ugly proliferation)
 
 Need an explanation bpost .. perhaps use one of the t_selfTalk bposts.
