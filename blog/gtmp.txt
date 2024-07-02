@@ -1,8 +1,8 @@
 -- update bpost on special sites 
-Make use of LAN password to Dram-Refresh digit/letter mapping and some permanent and important strings:
+Make use of LAN and mlphone password resets (compulsory) to Dram-Refresh digit/letter mapping and some permanent and important "magic strings" in my life:
 
 SSN .. 15c17x0xT
-NRIC of wife .. 5txx51026
+NRIC of wife .. 5txx51026 .. good for mlphone
 "Precepts" the name .. 
 
 -- fuxi or new: stress: Y work til80
