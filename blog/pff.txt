@@ -1,21 +1,9 @@
--- update bpost on will 
-first executor can appoint a new executor.
-bank as executor ... more expensive
+-- update AIA bigger plan (for wife) has SGD 30k for CI-early
+If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
 
-After buying new home, need to update will
+SRS to pay for AIA premium? No
 
-guardian can't access the fund before kids turn 21. After 21, kids will not be under control of guardian
-
-If I pass away with all 3 surviving.... wife can set up joint accounts with each kids and access the 3 portions.
-
-execution cost .. under 10k in many cases. 0.5% of the execution amount, min $4k.
-
-DPS nomination .. Iris will provide details.
-
-PruECI death benefit 3k, till age 65
-NTUC income GIFT .. up to age 65. claim within 3M upon death
-
--- new or fuxi
+-- fuxi
 Some investment salesmen or authors pose the question "Do you think you are an effective investor?" Some friends also pose that question.
 
 The investment management industry has an industry standard about picking a "benchmark" for each managed product, because the benchmark is a crucial factor (in performance evaluation etc). Most investment managers choose some index. They think their index is fair. I guess so. 
@@ -26,13 +14,8 @@ Those salesmen tend to suggest an implicit benchmark on my performancce, but is 
 
 I feel a retail investor is considered fairly /successful/ ("doing fine") if his long-term return beats DIR [deposit IR] with a reasonable volatility.
 
--- update AIA bigger plan (for wife) has SGD 30k for CI-early
-If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
-
-SRS to pay for AIA premium? No
-
 -- udpate or fuxi
-start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
+Even with very low income, I can start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
 
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/
 Since 2010s I have had a consistent assessment that pff is my strongest hand, strongest tectonic plate, and my "best-performing" game, in terms of personal efficacy, battery, accumulation,,,
@@ -43,8 +26,6 @@ Money is one thing I can pass to my kids. If I stay healthy, I can provide stewa
 Luckily for me, there are non-financial "legacies" in which I have confidence. I spent lots of time with my kids and influence them.
 
 Q: r-ikigai?
-
--- fuxi: BOC mobank can use PayNowQR, not the red SGQR
 
 -- fuxi: the will-preparation process has a focusing effect. We are nudged to focus on various worst-case scenarios of early death. Within this tunnel vision, long-term investments appear to be too risky and unsuitable. We are nudged to favor very short-term investment strategies. It's risk-averse to the extreme.
 

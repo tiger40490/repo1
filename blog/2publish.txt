@@ -11,18 +11,34 @@ vertical monitor no longer sliding down
 stand`desk retractable handle fixes
 good usage of black+whiteboard
 
--- new: snap
+-- new vocab: snap
 I like this informal variation of "snapshot". It's short and versatile
 
 snapping -- technical term for the process of creating a snap
 a snap -- a single snapshot
 
--- fallback ^ backup
+-- new vocab: fallback ^ backup
 fineDiff
 backup has a confusing meaning in my (techie) world, so I always say "backup plan"
 
 Fallback -> if defeated by something.
 Backup -> as a sensible alternative/insurance.
+
+-- update bpost on will 
+first executor can appoint a new executor.
+
+After buying new home, need to update will
+
+guardian can't access the fund before kids turn 21. After 21, kids will not be under control of guardian
+
+If I pass away with all 3 surviving.... wife can set up joint accounts with each kids and access the 3 portions.
+
+execution cost .. under 10k in many cases. 0.5% of the execution amount, min $4k.
+
+DPS nomination .. Iris will provide details.
+
+PruECI death benefit 3k, till age 65
+NTUC income GIFT .. up to age 65. claim within 3M upon death
 
 -- update bpost on R vs B complexities
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
