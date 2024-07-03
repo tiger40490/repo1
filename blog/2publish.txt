@@ -49,16 +49,7 @@ S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
 -- update bpost on death benefit
 MLP group-CI is late-stage-37CI
 
--- CiticTrust deal #fuxi
-The bare room fee monthly (excl. 2.5k) x 36 deposited to your personal CiticTrust account. Suppose 10k/M. Each month, discounted amount (eg: 9k) is auto-paid to DJDJ.
-
-discount is only on room fee, not 2.5k, not 护理 fee
-
-online access to CitiTrust account?  mobileApp only. No website
-
-DJDJ's motivation to give 10% discount … loayalty program to soft lock in the client for long term.
-
-~~ new: djdj fees
+-- new: djdj fees
 RMB 1000/M additional fee for Floor 11 .. is worthwhile given the expected length of stay.
 
 ~~ annual: 
@@ -115,13 +106,6 @@ A: not alwaysl. In Dropcopy framework, I realized that
 
 * many times yes I can and should convert. LambdaEx is designed for small code blocks.
 * however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
-
--- slow cooking update bpost on deep work
-Learning something "strategic" is real work.
-eg: Learning for a meaningful school exam is strategic -- NUS? MSFM?
-eg: Coding drill is strategic and deep work.
-
-Some learning can be less "real". Same can be said of various paid projects. In the DeepWork context, I won't use an elaborate criteria for "real" work.
 
 -- update bpost on miles, ..
 Somehow, MLP likes to retrench old timers ... Denis Xu
