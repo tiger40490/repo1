@@ -94,19 +94,6 @@ Various analyses use the two terms "multi-strategy" and "multi-manager". Each an
 -- upate bpost on addicted to employee benefits
 In Macq, when I brought family in for pingpong, I was relying on staff benefits, assuming I was performing well to deserve everything.
 
--- update post on array^ptr
-a ptr Object can be reseated to point to an array.
-An arrayName (is not an object) can't be reseated. It's a compile-time constant.
-
--- new or fuxi: java: big lambdaEx^methodRef
-I think a big lambdaEx (lambda expression) is usually used as an argument to a method. 
-
-Q: can we convert the big lambdaEx to a method reference?
-A: not alwaysl. In Dropcopy framework, I realized that 
-
-* many times yes I can and should convert. LambdaEx is designed for small code blocks.
-* however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
-
 -- update bpost on miles, ..
 Somehow, MLP likes to retrench old timers ... Denis Xu
 
