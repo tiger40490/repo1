@@ -1,3 +1,6 @@
+-- fuxi: BOC soft token
+not usable for webank login
+
 -- update AIA bigger plan (for wife) has SGD 30k for CI-early
 If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
 
