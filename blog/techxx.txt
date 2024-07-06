@@ -1,3 +1,8 @@
+-- new: gitBash: launch a GUI and return
+If the original command is "good", then you can use run "start original command args if any"
+
+If the original command is a function (among other conditions), then you can append an ampersand to origional command
+
 -- new
 What if you have java (or other source code) files in your project but you want them excluded during build?
 
