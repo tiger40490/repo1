@@ -1,6 +1,6 @@
 -- update bpost on special sites 
 Use LAN and mlphone password resets(compulsory) to Dram-Refresh digit/letter mapping and some permanent and important "magic strings" in my life:
-SSN .. 15c17x0x7 ... check my SSN card at home
+SSN .. 15c17x0x7 ... 
 NRIC of wife .. 57xx51026.. good for mlphone
 "Precepts" the name
 
