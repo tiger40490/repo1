@@ -1,3 +1,26 @@
+-- new: flight mode, roam`cost
+Mobile communication can use 3 channels:
+WW: wifi
+DD: mobile data
+VV: voice network including GSM, CDMA and LTE. SMS uses the same network, rather than wifi or mobile data.
+
+Flight mode on phones or computers disables all of them.
+
+Reduce roaming cost .. avoid DD + calls. Flight_mode is overkill. Incoming_SMS_on_roaming is often free. WW doesn't depend on SIM card or roaming.
+
+SIM card (including roaming) provides DD/VV not WW. In other words, DD/VV require SIM cards. Computers and tablets without SIM cards can use WW not DD/VV.
+
+* Connected mobile APPs require either WW or DD and may occassionally use SMS (requires VV)
+* Connected computer applications require WW and never require DD/VV.
+
+-- new: microsoft account synch across devices
+Background: I can see the value of synching my google profile. In my company computer, my google account is inaccessible, so I see no synching. Tolerable.
+
+Microsoft account offers a similar synching feature. However, password synch is tricky.
+
+Q: what if I update my microsoft password on microsoft.com, but often need to log in on my laptop without connection?
+A: the laptop log-in could fail. A show-stopper. Therefore, I don't use micrsoft account at all.
+
 -- fuxi:
 in Gmail, a mail thread can show up as having a pending draft, but you can't find that draft letter anywhere.
 
