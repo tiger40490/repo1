@@ -1,0 +1,21 @@
+If this is the case, then when I need to withdraw, I am likely to face a deep loss unless I add up all the previous dividend withdrawn and recompute my PnL. This is tedious and error-prone, so I may have to use DRIP to avoid this complexity.
+
+Even if I use DRIP, I can still find myself in a trough like Sep 2023 to Nov 2023.
+
+In conclusion, your two products look just like another monthly-paying bond fund. 
+
+I owned those funds before. They were paying typically 0.5% every month, but NAV_without_DRIP kept dropping and rarely rose. In the end, I sold them all, and my total return was ... either slightly negagive or 1~3% annualized. (I assume it was like 2% annualized.) Such a realized total return is very different from the (realized) dividend yield of annualized 6%. 
+
+Between the 2% and the 6%, you know which number to trust! You know which nubmer hit my wallet and family cashflow. You know which number I look at when comparing with my SP500 investment... it's the annualized 2%. So the annualized 6% is nothing but a mirage, a marketing device. I basically ignore the dividend yield of bond funds (unless they are capital-protected).
+
+Now, there are thousands of mutual funds advertizing their dividend yield numbers like this 6%. They are propagated by hundreds of reputable banks, fund houses and investment firms (like Syfe) on mainstream media. Millions of retail investors are told to trust the realized dividend yield numbers like the 6%. Well, each investor need to decide for herself which number to trust, between the (realized) div yield and the (realized) total return.
+
+For your IncomePlus products, total return was around 6% over 2023... not bad, but I have seen similar bond fund numbers for 20 years. They don't provide me capital protection and I could fall into a 3Y trough and be forced to cut loss.
+
+Looking back, almost all bund funds I have invested proved disappointing for a few common reasons
+* I bought them for attractive dividend yileds .. naive
+* underlying asset was able to deliver around 3 to 6% total return annualized. I thought total return would be 6% dividend yield + 4% NAV appreciation... naive.
+* fund expense ratio was eating up around 1% annually, to my surprise.
+* I often invested too much at high valuations, and often faced a long trough.
+
+Nowadays I favor capital-protected products (like tBill/MMF) or low-fee products (like ETF/MMF).
