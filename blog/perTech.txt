@@ -13,6 +13,9 @@ SIM card (including roaming) provides DD/VV not WW. In other words, DD/VV requir
 * Connected mobile APPs require either WW or DD and may occassionally use SMS (requires VV)
 * Connected computer applications require WW and never require DD/VV.
 
+Whatsapp/Wechat calls use WW/DD not VV
+Many smartphone apps can launch voice calls.. either VV call or VOIP call. The VV call would require a SIM and take up your precious airtime.
+
 -- new: microsoft account synch across devices
 Background: I can see the value of synching my google profile. In my company computer, my google account is inaccessible, so I see no synching. Tolerable.
 
