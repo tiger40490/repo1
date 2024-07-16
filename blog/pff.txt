@@ -1,8 +1,3 @@
--- cut-loss attitudes
-Almost everyone cut loss at least once. Some people cut loss too early. I probably cut loss too late.
-
-My breakeven criteria is simple but arguably too rigid when I face a decision to cut loss.
-
 -- fuxi: BOC soft token
 not usable for webank login
 
