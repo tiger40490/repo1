@@ -11,13 +11,6 @@ A: not alwaysl. In Dropcopy framework, I realized that
 * many times yes I can and should convert. LambdaEx is designed for small code blocks.
 * however, if the lambdaEx uses captured variables, then conversion can be difficult. I think the new method has to add a new param for every captured variable.
 
--- new: tips@futures contract month codes
-M/N sound alike .. June/July look alike.
-F: FFFirst month
-U: my UChicago program started in Sep.
-
-The quarter month codes are more important: H:March, Z:December etc
-
 -- new: py package dependency mgmt
 to reveal all precedents and dependencies of an high-level pip package 
 
