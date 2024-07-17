@@ -1,3 +1,10 @@
+-- new 
+#49 Sender comp id
+#50 Sender subID under #49, aka whoToCall, often an individual
+
+#56 Target comp id
+#57 Target subID under #56, often an individual
+
 -- new: gitBash: launch a GUI and return
 If the original command is "good", then you can use run "start original command args if any"
 
