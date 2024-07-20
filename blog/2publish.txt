@@ -5,7 +5,20 @@ honey .. yes better than sugar, but please limit honey intake
 Stevia leaf .. you can find IT on packaging
 monk fruit 罗汉果 .. no fructose at all. (Reminder! excessive fructose might be harmful, but whole fruits are a much safer source of fructose)
 dates .. for my congee
+-----------------
+-- new vocab: snap
+I like this informal variation of "snapshot". It's short and versatile
 
+snapping -- technical term for the process of creating a snap
+a snap -- a single snapshot
+
+-- new vocab: fallback ^ backup
+fineDiff
+backup has a confusing meaning in my (techie) world, so I always say "backup plan"
+
+Fallback -> if defeated by something.
+Backup -> as a sensible alternative/insurance.
+-----------------
 -- new: flight mode, roam`cost
 Mobile communication can use 3 channels:
 WW: wifi
@@ -39,7 +52,7 @@ Microsoft account offers a similar synching feature, with a questionable value p
 
 Q: what if I update my account password on microsoft.com, but frequently (like 90%) need to log in on my laptops without inet connection?
 A: the laptop log-in could fail. A show-stopper. For this reason, I don't use micrsoft account at all. It is an unwanted dependency on something beyond my control.
-
+-------------------------
 -- new Linus.T
 Linus is one of my top 10 visionary leader, alongside LKY, Warren Buffett, Deng XiaoPing, Bill Gates, Jack Ma, 
 * not a college dropout
@@ -52,20 +65,6 @@ Linus is one of my top 10 visionary leader, alongside LKY, Warren Buffett, Deng 
 vertical monitor no longer sliding down
 stand`desk retractable handle fixes
 good usage of black+whiteboard
-
--- new vocab: snap
-I like this informal variation of "snapshot". It's short and versatile
-
-snapping -- technical term for the process of creating a snap
-a snap -- a single snapshot
-
--- new vocab: fallback ^ backup
-fineDiff
-backup has a confusing meaning in my (techie) world, so I always say "backup plan"
-
-Fallback -> if defeated by something.
-Backup -> as a sensible alternative/insurance.
-
 -- update bpost on will 
 first executor can appoint a new executor.
 
