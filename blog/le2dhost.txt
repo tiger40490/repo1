@@ -1,0 +1,13 @@
+Situation
+* multiple sites were showing slow loading on <domain>/wp-admin/edit.php etc.. intermittent
+* siteHealth->directoriesAndSizes not showing any data
+* QuickEdit link below each post has no effect .. intermittent
+
+Q: Any recent system changes? None initiated by me. On your side, I notice an upgrade to WP 6.6
+
+What adjustments I have made .. I downgraded tanbinvest.dreamhosters.com to 6.5.5 (previous version), immediately fixing directoriesAndSizes. The wp-admin/edit.php page load is fine, but I will need to watch for a day.
+
+The standard adjustments suggested by Dreamhost ..
+* wp-cron .. not so important for a single-user site
+* cache .. not so effective for a single-user site
+* database optimization .. not so important for a small site with up to 3000 blog posts containing zero video, zero audio, and less than 5 images.
