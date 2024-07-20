@@ -1,0 +1,4 @@
+-- fuxi:
+in Gmail, a mail thread can show up as having a pending draft, but you can't find that draft letter anywhere.
+
+Solution: right click on the mail -> discardDrafts

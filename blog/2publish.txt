@@ -1,3 +1,37 @@
+-- new: flight mode, roam`cost
+Mobile communication can use 3 channels:
+WW: wifi
+DD: mobile data
+VV: voice network including GSM, CDMA and LTE. SMS uses the same network, and can't use wifi or mobile data.
+
+Flight mode on phones (or laptops) disables all of them.
+
+Reduce roaming cost .. avoid DD + calls. Flight_mode is overkill. Incoming_SMS_on_roaming is often free. WW doesn't depend on SIM card or roaming.
+
+SIM card (including roaming) provides DD/VV not WW. In other words, DD/VV require SIM cards. Computers and tablets without SIM cards can use WW not DD/VV. So WW is one common technology available on all phones and computers.
+
+Whatsapp/Wechat calls use WW/DD not VV. In contrast, many smartphone apps can launch voice calls.. either VV call or VOIP call. The VV call would require a SIM and take up your precious airtime.
+
+* Internet-enabled mobile APPs require either WW or DD and may occassionally use SMS (requires VV network)
+* Internet-enabled laptop applications require WW (or LAN) and never require DD/VV.
+
+-- update bpost on disk hogs
+laptop disk usage tweakig with landgrab, treeFreeSize ,,, 
+Comparable to rug-sorting in my Bejing 610 home?
+may not be necessary, but I find it enjoyable
+
+It is more relevant in small, cheap laptops
+
+The analysis gives me insight and confidence when facing disk shortage
+
+-- new: microsoft account synch across devices
+Background: I appreciate the value proposition of synching my google profile. In my company computer, my google account is inaccessible, so I have no synching... tolerable.
+
+Microsoft account offers a similar synching feature, with a questionable value proposition. Password synch is tricky.
+
+Q: what if I update my account password on microsoft.com, but frequently (like 90%) need to log in on my laptops without inet connection?
+A: the laptop log-in could fail. A show-stopper. For this reason, I don't use micrsoft account at all. It is an unwanted dependency on something beyond my control.
+
 -- new Linus.T
 Linus is one of my top 10 visionary leader, alongside LKY, Warren Buffett, Deng XiaoPing, Bill Gates, Jack Ma, 
 * not a college dropout
