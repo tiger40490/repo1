@@ -1,3 +1,11 @@
+-- new: natural sugar substitutes 
+Much safer, less worrying than artificial sweeteners. Most of these are usable in smoothie.
+
+honey .. yes better than sugar, but please limit honey intake
+Stevia leaf .. you can find IT on packaging
+monk fruit 罗汉果 .. no fructose at all. (Reminder! excessive fructose might be harmful, but whole fruits are a much safer source of fructose)
+dates .. for my congee
+
 -- new: flight mode, roam`cost
 Mobile communication can use 3 channels:
 WW: wifi
