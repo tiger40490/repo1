@@ -1,3 +1,13 @@
+-- new: safest way to downgrade wpress version
+cd /home/tanbinvest/tanbinvest.dreamhosters.com
+wp core download --version=6.5.5 --force
+
+safer than a plugin (designed to downgrade)
+
+-- fuxi:
+blog titles staring with "Q:" are more visible
+blog titles containing @@ is a good dram refresh because colon is poorly supported
+
 -- new or update: t_w1rX tags
 I follow a consistent standard but not 100% precise .. in w1rX, X = counts of major revisions.
 
