@@ -1,13 +1,22 @@
+Hi,
+
+Thanks for your pointer on HeartbeatAPI. You explained that browser "can also start sending excessive requests to admin-ajax.php, which can lead to high resource usage." WP is designed for thousands of concurrent visitors, and my site has just one user i.e. me. The impact of this ajax feature is proportional to the number of users. If a site having just one user can succumb to this problem then  millions of WP sites worldwide would all succumb to this problem, right?
+
+----
 Situation
-* multiple sites were showing slow loading on <domain>/wp-admin/edit.php etc.. intermittent
-* siteHealth->directoriesAndSizes not showing any data
-* QuickEdit link below each post has no effect .. intermittent
+* siteHealth->directoriesAndSizes not showing any data for my WP6.6 sites
+* wp-admin page loading, and QuickEdit links are fine
 
-Q: Any recent system changes? None initiated by me. On your side, I notice an upgrade to WP 6.6
+Q: Any recent system changes? None initiated by me. On your side, I notice an upgrade to WP 6.6.. a major not a minor upgrade.
 
-What adjustments I have made .. I downgraded tanbinvest.dreamhosters.com to 6.5.5 (previous version), immediately fixing directoriesAndSizes. The wp-admin/edit.php page load is fine, but I will need to watch for a day.
+What adjustments I have made .. I downgraded tanbinvest.dreamhosters.com to 6.5.5 (previous version), immediately fixing directoriesAndSizes. 
+
+Early conclusion -- WP 6.6 does cause some problem. 6.6 is not a transparent, clean, harmless upgrade. 
+
+If this is true, then for future upgrades (like 6.5.5 to 6.6) it's better to upgrade one site only and observe.
 
 The standard adjustments suggested by Dreamhost ..
 * wp-cron .. not so important for a single-user site
 * cache .. not so effective for a single-user site
 * database optimization .. not so important for a small site with up to 3000 blog posts containing zero video, zero audio, and less than 5 images.
+* admin-ajax.php .. probably not so important for a single-user site.
