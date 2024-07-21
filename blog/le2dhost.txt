@@ -9,11 +9,11 @@ Situation
 
 Q: Any recent system changes? None initiated by me. On your side, I notice an upgrade to WP 6.6.. a major not a minor upgrade.
 
-What adjustments I have made .. I downgraded tanbinvest.dreamhosters.com to 6.5.5 (previous version), immediately fixing directoriesAndSizes. 
+What adjustments I have made .. I downgraded tanbinvest.dreamhosters.com to 6.5.5 (previous version), immediately fixing directoriesAndSizes.
 
 Early conclusion -- WP 6.6 does cause some problem. 6.6 is not a transparent, clean, harmless upgrade. 
 
-If this is true, then for future upgrades (like 6.5.5 to 6.6) it's better to upgrade one site only and observe.
+If this is true, then for future upgrades (like 6.5.5 to 6.6) it's better to upgrade one site only and observe for a while. I will keep 6.5.5 on tanbinvest.dreamhosters.com
 
 The standard adjustments suggested by Dreamhost ..
 * wp-cron .. not so important for a single-user site
