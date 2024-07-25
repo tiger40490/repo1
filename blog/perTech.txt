@@ -1,4 +1,20 @@
+-- new: nokia router
+not http, but https://192.168.18.1 accessible even if you are connected to the Linksys hotspot!
 
+https://192.168.18.1/web_whw/#/security/mac-filter
+
+https://192.168.18.1/web_whw/#/wifi/wifi-networks .. can edit wifi key to dabao***
+
+https://192.168.18.1/web_whw/#/maintenance/password .. can change pw to Ldn nokia (12-char including meta) for the default username.
+It's a good habit to only mention hints, never full passwords.
+
+The Nokia router has multiple ports, but it takes lots of legwork to set up MAC filtering.
+Until that's done, I will keep the black Linksys router in operation.
+
+The white tplink is confirmed required in the kitchen deadzone. Nokia signal strength is unreliable. No need for further test.
+
+step: set up MAC filter on nokia, then retire the Linksys with its remote access 
+step: wiring tidy-up is last last step. Once you tidy up the wiring, it's very hard to change the set-up.
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
 
