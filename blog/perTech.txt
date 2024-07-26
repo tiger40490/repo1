@@ -14,7 +14,9 @@ Until that's done, I will keep the black Linksys router in operation.
 The white tplink is confirmed required in the kitchen deadzone. Nokia signal strength is unreliable. No need for further test.
 
 step: set up MAC filter on nokia, then retire the Linksys with its remote access 
+
 step: wiring tidy-up is last last step. Once you tidy up the wiring, it's very hard to change the set-up.
+
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
 
