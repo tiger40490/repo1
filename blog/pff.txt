@@ -1,7 +1,3 @@
--- update SRS
-too much   SRS dry powder (like > 2k) .. wasted
-too little SRS dry powder (like below 2k) .. s27 may bounce to Poems account
-
 -- fuxi: BOC soft token
 not usable for webank login
 
