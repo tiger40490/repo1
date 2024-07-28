@@ -5,7 +5,7 @@ https://192.168.18.1/web_whw/#/security/mac-filter
 
 https://192.168.18.1/web_whw/#/wifi/wifi-networks .. can edit wifi key to dabao***
 
-https://192.168.18.1/web_whw/#/maintenance/password .. can change pw to Ldn nokia (12-char including meta) for the default username.
+https://192.168.18.1/web_whw/#/maintenance/password .. can change pw to eng xxxxxxxx !1 (10-char) for the default username.
 It's a good habit to only mention hints, never full passwords.
 
 The Nokia router has multiple ports, but it takes lots of legwork to set up MAC filtering.
