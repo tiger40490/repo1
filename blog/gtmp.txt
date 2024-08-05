@@ -1,3 +1,6 @@
+-- fuxi
+unlike bacteria, a virus has no life by itself, but exists inside a host cell.
+Like bacteria, a virus has a physical shape, and dimension, though its "life" is an abstract concept.
 
 -- update bpost on special sites 
 Use LAN and mlphone password resets(compulsory) to Dram-Refresh digit/letter mapping and some permanent and important "magic strings" in my life:
