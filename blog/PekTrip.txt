@@ -13,10 +13,6 @@ night: Put USD 6k into cash pouch early, and keep it in luggage to avoid "left-b
 -- After returning to Sg
 downgrade 1084 to Rmb9 package "动感地带". Currently 100min+2Gb. Might need IC number but no face recognition required for this low-risk operation.
 ----------
--- fuxi 
-chnM packages
-Rmb9/M 40min talk, 19c/min beyond
-
 -- fuxi or update ...
 on flight, prefer cheap, ez-to-replace, "throwaway" tools. They reduce Sys2 load --
 pencils
