@@ -18,7 +18,7 @@ WW: wifi
 DD: mobile data
 VV: voice network including GSM, CDMA and LTE. SMS uses the same network, and can't use wifi or mobile data.
 
-Flight mode on phones (or laptops) disables all of them.
+Flight mode on phones (or laptops) disables all of them but you can re-enable WW, as tested on my Vivo1820 
 
 Reduce roaming cost .. avoid DD + calls. Flight_mode is overkill. Incoming_SMS_on_roaming is often free. WW doesn't depend on SIM card or roaming.
 

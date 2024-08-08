@@ -1,3 +1,14 @@
+-- update bpost on hsbc.cn
+practice log-in once a month. Slightly easier to recover lost password than ICBC
+
+After you reinstall mobank, you  need to enter your existing passwd twice, then recreate mobilePIN. 
+
+global transfer .. USD 50k/Y limit
+deposit USD .. 50k/Y limit, spaced out[2]
+There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner.
+
+[2] Too-frequent deposits may attract unwanted attention (not as complicated as the surveillance). Luckily counter staff would remind customers before it ("attracting") happens.
+
 -- new bpost: inheritance ex-China
 Rule: After first parent passes away, his/her cash assets would be distributed according to will
 Observation: It takes less than "several months" to get his cash distributed to 3 survivors
