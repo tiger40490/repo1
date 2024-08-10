@@ -1,6 +1,25 @@
+-- add to calendar:
+call 10086 to request for 29c refund
+call money changer at PKX
+
+-- update bpost on Oct trip
+get a new birth cert
+
+-- new: Jan flight
+This is better than CNY period.
+Fly on 31 Dec or 1 Jan. Return on Sat 11 Jan
+Can visit Tianjian to get help from HanPing, either in 2024 or 2025. Just once. I don't mind paying Rmb500 remuneration
+
+-- update ...
+on flight, prefer cheap, ez-to-replace, "throwaway" tools. They reduce Sys2 load --
+pencils
+magazines/newpapers 
+blog printout
+
+Future flight selection .. avoid long sleep-drought. For outbound, choose Sat or weekday morning (AnnL). If Friday 23:59, then I need to go home after lunch and really sleep
+
 -- fuxi
-unlike bacteria, a virus has no life by itself, but exists inside a host cell.
-Like bacteria, a virus has a physical shape, and dimension, though its "life" is an abstract concept.
+Like bacteria, a virus has a physical shape, and dimension, but its "life" is an abstract concept. A virus has no life by itself, but exists inside a host cell. The closest thing I can think of is a fertilized egg, which may develop into a fetus but is not a human yet.
 
 -- update bpost on special sites 
 Use LAN and mlphone password resets(compulsory) to Dram-Refresh digit/letter mapping and some permanent and important "magic strings" in my life:
@@ -45,6 +64,7 @@ some of the weaknesses I overcame with (at least) TWICE the effort
 Chinese compo
 Eng listening and oral
 driving practice
+skipping rope
 swimming
 cycling
 yoga
