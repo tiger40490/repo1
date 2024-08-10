@@ -1,3 +1,9 @@
+-- new bpost: inheritance ex-China
+Rule: After first parent passes away, his/her cash assets would be distributed according to will
+Observation: It takes less than "several months" to get his cash distributed to 3 survivors
+Rule: Using authenticated proof, I (and sister) can engage 国家外汇监管 to get my portion released. Few bankers know how to do it, but Bryan Du said HSBC has experience with inheritance by passport-holders.
+
+As to inheritance tax, Bryan said usually none in his experience (tiny sample), but regulation may change, so he cautioned me to check with an accountant.
 
 -- update bpost on ex-China
 I had a boot camp on Chinese SAFE restrictions. Now I feel confident that I know the basics.
@@ -7,18 +13,11 @@ practice log-in once a month. Slightly easier to recover lost password than ICBC
 
 After you reinstall mobank, you  need to enter your existing passwd twice, then recreate mobilePIN. 
 
-global transfer .. USD 50k/Y limit
+global transfer may have a USD 50k/Y limit
 deposit USD .. 50k/Y limit, spaced out[2]
-There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner.
+There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner, except the "emergency $500"
 
-[2] Too-frequent deposits may attract unwanted attention (not as complicated as the surveillance). Luckily counter staff would remind customers before it ("attracting") happens.
-
--- new bpost: inheritance ex-China
-Rule: After first parent passes away, his/her cash assets would be distributed according to will
-Observation: It takes less than "several months" to get his cash distributed to 3 survivors
-Rule: Using authenticated proof, I (and sister) can engage 国家外汇监管 to get my portion released. Few bankers know how to do it, but Bryan Du said HSBC has experience with inheritance by passport-holders.
-
-As to inheritance tax, Bryan said usually none in his experience (tiny sample), but regulation may change, so he cautioned me to check with an accountant.
+[2] Too-frequent deposits may attract unwanted attention (not as complicated as SAFE surveillance). Luckily counter staff would remind customers before it ("attracting") happens.
 
 -- fuxi: BOC soft token
 not usable for webank login
