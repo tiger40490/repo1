@@ -1,8 +1,17 @@
+-- update bpost on FLI2
+Q: any accrued int if I liquidate long after payout month (March). 
+AA: You would lose accrued int. Better liquidate in March.
+
+-- update bpost on Ltis
+Wayne pointed out many times that in Mar 2026, I have the option to liquidate FLI2, and I can also keep it till Mar 2027. That's a viable option if prevailing interest is below 3%.
+
+-- update bpost: cpfSA will disappear after 55, so you can't treat it as a 4 ppa flexible savings 
+Need major rethink.
 
 -- USD-denominated endowment
 Taiping has such products (rare among local insurers)
-:( longer prison term
-:) higher payout close to 4%
+:( longer prison term than SGD products
+:) higher payout (close to 4%) than SGD products
 
 -- update bpost: inheritance ex-China
 Rule: After first parent passes away, his/her cash assets would be distributed according to will
@@ -53,7 +62,7 @@ Those salesmen tend to suggest an implicit benchmark on my performancce, but is 
 I feel a retail investor is considered fairly /successful/ ("doing fine") if his long-term return beats DIR [deposit IR] with a reasonable volatility.
 
 -- udpate or fuxi
-Even with very low income, I can start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
+Even with very low annual income, I should start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
 
 -- update https://btv-open.dreamhosters.com/43456/y-per-financetop-strength/
 Since 2010s I have had a consistent assessment that pff is my strongest hand, strongest tectonic plate, and my "best-performing" game, in terms of personal efficacy, battery, accumulation,,,
