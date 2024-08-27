@@ -1,3 +1,4 @@
+-- fuxi: early jan no bank holidays
 -- update bpost on FLI2
 Q: any accrued int if I liquidate long after payout month (March). 
 AA: You would lose accrued int. Better liquidate in March.
