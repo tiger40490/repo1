@@ -1,3 +1,14 @@
+-- new: shared mutable objects
+C++ has no immutable types. Everything is shared mutable by default.
+
+Java int (and other primitives) are mutable. An int object on stack is passed by value, therefore, not "shared" among multiple variables. An int field of a class would live on heap. Two pointers to the same host object would be able to update the same int object ... shared mutable.
+
+Java strings are immutable. Two string variables pointing to the same "abc" object do not constitute "shared-mutable" situation.
+
+If two Account objects each contain this.ccy == "SGD", then we have a shared-mutable situation because acct2.ccy=new String("HKD") would affect acct1.
+
+python int (and string) is similar to Java string situation. 
+
 -- new: python __eq__ and __hash__
 In python, two objects (of the same class) are considered identical to a dict iFF they are equal AND has same hashcode.
 
