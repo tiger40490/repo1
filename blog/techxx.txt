@@ -1,3 +1,8 @@
+-- new: python __eq__ and __hash__
+In python, two objects (of the same class) are considered identical to a dict iFF they are equal AND has same hashcode.
+
+See P273 [[python Tricks]]
+
 -- new 
 #49 Sender comp id
 #50 Sender subID under #49, aka whoToCall, often an individual
