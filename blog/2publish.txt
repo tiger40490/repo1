@@ -13,9 +13,6 @@ Fallback -> if defeated by something.
 Backup -> as a sensible alternative/insurance.
 -----------------
 -- update 
-Starhub PIN YYMMDD
-Yahoo: 不食xxx烟火 shceme052
-
 Note Scheme052 is not too clumsy on most phone keyboards.
 -- new: flight mode, roam`cost
 Mobile communication can use 3 channels:
