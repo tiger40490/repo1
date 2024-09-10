@@ -1,4 +1,7 @@
------------------
+-- update bpost on FLI2
+Q: any accrued int if I liquidate long after payout month (March). 
+AA: You would lose accrued int. Better liquidate in March.
+
 -- update bpost on operational errors
 on flight, prefer cheap, ez-to-replace, "throwaway" tools. They reduce Sys2 load --
 pencils
