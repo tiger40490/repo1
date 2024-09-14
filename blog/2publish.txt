@@ -36,18 +36,6 @@ SSN .. 15c17x0x7 ...
 NRIC of wife .. 57xx51026.. good for mlphone
 "Precepts" the name
 
--- new: stress: Y work til80
-When I asked Dr Leow about stress and its effect on my heart, he pointed at himself and his nurse and said everyone has stress. The implified assumption is that most stressors come from work responsibilities. (Obviously parenting, pff, self-care also generate stress.)
-
-Why do I want so much to work till 80s? Let's focus on the work stress.
-%%A: retirement phase (60s to 70s) would see other stressors, possibly worse than work stressors
-%%A: my dad didn't enjoy his retirement
-%%A: my mom loved her job as a lecturer
-%%A: I saw many old colleagues working into their 70s or 80s, under moderate stress.
-%%A: I am convinced that as I transition into the last chapter of my career, work stress would moderate and decline.
-
-I think S.Liu may agree with me.
-
 -- new vocab: snap
 I like this informal variation of "snapshot". It's short and versatile
 
@@ -63,22 +51,6 @@ Backup -> as a sensible alternative/insurance.
 -----------------
 -- update 
 Note Scheme052 is not too clumsy on most phone keyboards.
--- new: flight mode, roam`cost
-Mobile communication can use 3 channels:
-WW: wifi
-DD: mobile data
-VV: voice network including GSM, CDMA and LTE. SMS uses the same network, and can't use wifi or mobile data.
-
-Flight mode on phones (or laptops) disables all of them but you can re-enable WW, as tested on my Vivo1820 
-
-Reduce roaming cost .. avoid DD + calls. Flight_mode is overkill. Incoming_SMS_on_roaming is often free. WW doesn't depend on SIM card or roaming.
-
-SIM card (including roaming) provides DD/VV not WW. In other words, DD/VV require SIM cards. Computers and tablets without SIM cards can use WW not DD/VV. So WW is one common technology available on all phones and computers.
-
-Whatsapp/Wechat calls use WW/DD not VV. In contrast, many smartphone apps can launch voice calls.. either VV call or VOIP call. The VV call would require a SIM and take up your precious airtime.
-
-* Internet-enabled mobile APPs require either WW or DD and may occassionally use SMS (requires VV network)
-* Internet-enabled laptop applications require WW (or LAN) and never require DD/VV.
 
 -- update bpost on disk hogs
 laptop disk usage tweakig with landgrab, treeFreeSize ,,, 
@@ -88,22 +60,6 @@ may not be necessary, but I find it enjoyable
 It is more relevant in small, cheap laptops
 
 The analysis gives me insight and confidence when facing disk shortage
-
--- new: microsoft account synch across devices
-Background: I appreciate the value proposition of synching my google profile. In my company computer, my google account is inaccessible, so I have no synching... tolerable.
-
-Microsoft account offers a similar synching feature, with a questionable value proposition. Password synch is tricky.
-
-Q: what if I update my account password on microsoft.com, but frequently (like 90%) need to log in on my laptops without inet connection?
-A: the laptop log-in could fail. A show-stopper. For this reason, I don't use micrsoft account at all. It is an unwanted dependency on something beyond my control.
--------------------------
--- new Linus.T
-Linus is one of my top 10 visionary leader, alongside LKY, Warren Buffett, Deng XiaoPing, Bill Gates, Jack Ma, 
-* not a college dropout
-* not slim
-* contributed 2% of linux kernel codebase
-* somehow became U.S. citizen
-* proud, outspoken, bold, 
 
 -- update https://btv-open.dreamhosters.com/4809/effirepair-things-at-home/
 vertical monitor no longer sliding down
