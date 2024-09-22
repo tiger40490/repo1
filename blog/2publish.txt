@@ -1,6 +1,14 @@
--- update bpost on FLI2
-Q: any accrued int if I liquidate long after payout month (March). 
-AA: You would lose accrued int. Better liquidate in March.
+-- update bpost on dental tips
+Many untrained brushers brush mostly two parts -- outer arc and grinding surface. 
+Two sessions a day is more than enough for these two parts, but many important spots are grossly neglected -- between teeth; incide arc; ends of arc; root of each tooth,,,
+So it's much better to allocate 30->50% of the 14 weekly sessions to those important spots. That means skipping some brushing sessions! I'm pretty sure it's better than 14 standard brushing sessions.
+
+-- new or update: kimchi
+For someone (like me) vulnerable to hypertension, it's imprudent to ignore the "sodium factor".
+
+Even though Koreans eat kimchi every day for centuries, there is still widespread concern about sodium concentration in kimchi.
+
+It's possible that the Korean population has some undiscovered protections developed over the centuries, either genetic or in lifestyle. 
 
 -- update bpost on operational errors
 on flight, prefer cheap, ez-to-replace, "throwaway" tools. They reduce Sys2 load --
