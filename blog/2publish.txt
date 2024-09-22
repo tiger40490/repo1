@@ -1,21 +1,3 @@
--- update bpost on dental tips
-Many untrained brushers brush mostly two parts -- outer arc and grinding surface. 
-Two sessions a day is more than enough for these two parts, but many important spots are grossly neglected -- between teeth; incide arc; ends of arc; root of each tooth,,,
-So it's much better to allocate 30->50% of the 14 weekly sessions to those important spots. That means skipping some brushing sessions! I'm pretty sure it's better than 14 standard brushing sessions.
-
--- new or update: kimchi
-For someone (like me) vulnerable to hypertension, it's imprudent to ignore the "sodium factor".
-
-Even though Koreans eat kimchi every day for centuries, there is still widespread concern about sodium concentration in kimchi.
-
-It's possible that the Korean population has some undiscovered protections developed over the centuries, either genetic or in lifestyle. 
-
--- update bpost on operational errors
-on flight, prefer cheap, ez-to-replace, "throwaway" tools. They reduce Sys2 load --
-pencils
-magazines/newpapers 
-blog printout
-
 -- fuxi or update bpost on family_livelihood shields
 On 28 Feb 2024, Frank.Fu lost his job while I received a huge bonus payout, and immiediately computed my YoY asset growth (annual snap),,, I wonder what are the truly important shields that protect my livelihood high ground relative to the wider population
 
@@ -26,22 +8,6 @@ Almost all other shileds are are (indirect) cashflow shields.
 * burn rate control .. many have pointed out my strength and my advantage in this particular skill
 * cpfLife compared to U.S. SSA payout
 * HDB value and rental demand  ... not really dependable but better than other rental incomes
-
--- new vocab: snap
-I like this informal variation of "snapshot". It's short and versatile
-
-snapping -- technical term for the process of creating a snap
-a snap -- a single snapshot
-
--- new vocab: fallback ^ backup
-fineDiff
-backup has a confusing meaning in my (techie) world, so I always say "backup plan"
-
-Fallback -> if defeated by something.
-Backup -> as a sensible alternative/insurance.
------------------
--- update 
-Note Scheme052 is not too clumsy on most phone keyboards.
 
 -- update bpost on disk hogs
 laptop disk usage tweakig with landgrab, treeFreeSize ,,, 
@@ -56,21 +22,6 @@ The analysis gives me insight and confidence when facing disk shortage
 vertical monitor no longer sliding down
 stand`desk retractable handle fixes
 good usage of black+whiteboard
--- update bpost on will 
-first executor can appoint a new executor.
-
-After buying new home, need to update will
-
-guardian can't access the fund before kids turn 21. After 21, kids will not be under control of guardian
-
-If I pass away with all 3 surviving.... wife can set up joint accounts with each kids and access the 3 portions.
-
-execution cost .. under 10k in many cases. 0.5% of the execution amount, min $4k.
-
-DPS nomination .. Iris will provide details.
-
-PruECI death benefit 3k, till age 65
-NTUC income GIFT .. up to age 65. claim within 3M upon death
 
 -- update bpost on R vs B complexities
 If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
