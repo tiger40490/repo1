@@ -16,17 +16,6 @@ pencils
 magazines/newpapers 
 blog printout
 
--- new: reality of temp jobs
-I tend to perceive temp jobs positively, as learning.
-
-many unlucky job seekers end up working on temp jobs. No job security, low pay, limited trec
-eg: Chinese immigrants to Canada
-eg: Shuo in 1997 after graduation
-eg: my temp jobs in 2005
-eg: many of the jobless 2023 graduates from China universities
-
-If you don't worry about livelihood, then you can enroll in a training program instead.
-
 -- fuxi or update bpost on family_livelihood shields
 On 28 Feb 2024, Frank.Fu lost his job while I received a huge bonus payout, and immiediately computed my YoY asset growth (annual snap),,, I wonder what are the truly important shields that protect my livelihood high ground relative to the wider population
 
@@ -37,12 +26,6 @@ Almost all other shileds are are (indirect) cashflow shields.
 * burn rate control .. many have pointed out my strength and my advantage in this particular skill
 * cpfLife compared to U.S. SSA payout
 * HDB value and rental demand  ... not really dependable but better than other rental incomes
-
--- update bpost on special sites 
-Use LAN and mlphone password resets(compulsory) to Dram-Refresh digit/letter mapping and some permanent and important "magic strings" in my life:
-SSN .. 15c17x0x7 ... 
-NRIC of wife .. 57xx51026.. good for mlphone
-"Precepts" the name
 
 -- new vocab: snap
 I like this informal variation of "snapshot". It's short and versatile
@@ -97,23 +80,6 @@ S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
 
 -- update bpost on death benefit
 MLP group-CI is late-stage-37CI
-
--- new: djdj fees
-RMB 1000/M additional fee for Floor 11 .. is worthwhile given the expected length of stay.
-
-~~ annual: 
-Y248,966.88 + Y12,768 房费 are the first and second deposit paid in early 2024.
-.. Y21,811 x 12
-Y2,500 x12 第二人入住
-Y3,600 x12 food
-Y1,000 x12 (minimum) grandma tiered 护理 fee
-Y7,000 x12 (estimated) grandpa tiered 护理 fee
-------
-total Y35,911 per month x 12 
-
-~~ One-time
-Y60,000 保证金 emergency deposit
-Y 4,000 安置 fee
 
 -- udpate "fast developers"
 Q: can you imagine a fast doctor (perhaps travelling with soldiers) who treats lots of wounds but has a 1% error rate? If some of the errors are severe then he is disqualified and unreliable.
