@@ -1,11 +1,14 @@
 -- new: %%SP500 position: greed^fear
-My position is good. Average cost probably around $500. If I liquidate all, I make a handsome profit. Then I could start from a clean slate.
+Perhaps accumulate slower rather than cash out
 
-SellAll can cause regret if sp500 keeps climbing and my SRS 60k earns a paltry SSB DIR
+My s27 position is good. Average cost probably around $500. If I liquidate all, I make a handsome profit. Then I could start from a clean slate.
+
+SellAll can cause regret if sp500 keeps climbing and my SRS 60k idle cash earns a paltry SSB DIR
 
 If I hold and then suffer paper loss together with everyone else, I would feel "safe" in the bandwagon, protected from blame.
 
 Now is fear time. Buffett said something like "Be greedy when market is fearful." but he is reducing his positions.
+
 -- update bpost on investor profile
 pain (as opposed to risk and reward) also includes anger. 
 
