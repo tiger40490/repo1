@@ -1,3 +1,8 @@
+-- new: 
+order can be cancelled
+fill can be busted
+Cancelled order can be restated.
+
 -- new: python __eq__ and __hash__
 In python, two objects (of the same class) are considered identical to a dict iFF they are equal AND has same hashcode.
 
