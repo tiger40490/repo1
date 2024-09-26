@@ -60,9 +60,6 @@ Various analyses use the two terms "multi-strategy" and "multi-manager". Each an
 -- upate bpost on addicted to employee benefits
 In Macq, when I brought family in for pingpong, I was relying on staff benefits, assuming I was performing well to deserve everything.
 
--- update bpost on miles, ..
-Somehow, MLP likes to retrench old timers ... Denis Xu
-
 -- update bpost on C
 I often feel proud to say C was my first language.
 Similarly, I feel proud to self-identify as a math graduate.
