@@ -19,7 +19,7 @@ global transfer may have a USD 50k/Y limit
 deposit USD .. 50k/Y limit, spaced out[2]
 There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner, except the "emergency $500"
 
-[2] Too-frequent deposits may attract unwanted attention (not as complicated as SAFE surveillance). Luckily counter staff would remind customers before it ("attracting") happens.
+[2] Too-frequent deposits may attract unwanted attention. Luckily counter staff would remind customers before it happens.
 
 -- fuxi: BOC soft token
 not usable for webank login
