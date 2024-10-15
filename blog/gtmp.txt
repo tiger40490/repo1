@@ -1,3 +1,11 @@
+-- update or new Sys1^Sys2
+These two terms are increasingly widespread and therefore prone to oversimplication, just like the "EQ" concept.
+
+sys1 and sys2 are both susceptible to biases and mistakes. Sys2 is not immune at all.
+sys1 follows habits and past experiences, often subconsciously
+sys1 is more emotional and less logical than sys2
+sys1 is largely unconscious; sys2 is always consciious
+
 -- update ..
 Many people ask me why the UChicago MSFM is not really a distant learning program.
 
