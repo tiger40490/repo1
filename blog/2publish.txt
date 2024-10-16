@@ -1,44 +1,3 @@
--- fuxi or update bpost on family_livelihood shields
-On 28 Feb 2024, Frank.Fu lost his job while I received a huge bonus payout, and immiediately computed my YoY asset growth (annual snap),,, I wonder what are the truly important shields that protect my livelihood high ground relative to the wider population
-
-* wellness habits, wellness conditions
-
-Almost all other shileds are are (indirect) cashflow shields.
-* in-demand profile on finDev market .. my skills are still relevant, but my age is a growing concern.
-* burn rate control .. many have pointed out my strength and my advantage in this particular skill
-* cpfLife compared to U.S. SSA payout
-* HDB value and rental demand  ... not really dependable but better than other rental incomes
-
--- update bpost on disk hogs
-laptop disk usage tweakig with landgrab, treeFreeSize ,,, 
-Comparable to rug-sorting in my Bejing 610 home?
-may not be necessary, but I find it enjoyable
-
-It is more relevant in small, cheap laptops
-
-The analysis gives me insight and confidence when facing disk shortage
-
--- update https://btv-open.dreamhosters.com/4809/effirepair-things-at-home/
-vertical monitor no longer sliding down
-stand`desk retractable handle fixes
-good usage of black+whiteboard
-
--- update bpost on ex-China
-PRC gov policy may relax or tighten (close loopholes) capital control any time, but inheritance law is more stable.
-
--- update bpost on investor profile
-pain (as opposed to risk and reward) also includes anger. 
-
-As I grow older, I am more aware of my pains in investment. 
-10% loss generates more pains in me than 10% gain can generate happiness.
-No pain no gain. I still have 40Y+ to live, so I need to take on some risky assets such as SP500, or Sgp rEstate
-
--- update bpost on R vs B complexities
-If you feel too old or too busy, and don't want these pff complexities, then you pay for advice from banks or financial advisors.
-Rarely you get free advisory service (remember FSM and Phillip), unless during the sale process.
-
-S27 buying using SRS? I think we can slowly learn to treat it as RRecreational.
-
 -- update bpost on death benefit
 MLP group-CI is late-stage-37CI
 
@@ -58,24 +17,6 @@ Across a /structured/ codebase, I tend to bend over backward to enforce consiste
 A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
-
--- udpate bpost on hedge fund PnL: 
-multi-strategy/multi-manager sector of the HedgeFund industry
-50 players managing $350B, which is 8.6% of industry-wide AUM $4T
-
-G3 longest runners -- MLP, Citadel, point72
-
-Various analyses use the two terms "multi-strategy" and "multi-manager". Each analyst has his own criteria and definition of the two terms.
-
--- upate bpost on addicted to employee benefits
-In Macq, when I brought family in for pingpong, I was relying on staff benefits, assuming I was performing well to deserve everything.
-
--- update bpost on C
-I often feel proud to say C was my first language.
-Similarly, I feel proud to self-identify as a math graduate.
-
-These domains are evergreen in terms of relevance and skill demand. 
-Somehow my career[and learning] gravitates towards these /magnets/.
 
 -- update bpost on longevity https://btv-open.dreamhosters.com/wp-admin/post.php?post=48298&action=edit
 In Dec 2023 I started to worry about quality_of_life in my mom's twilight years, either in a Beijing nursing home, or a Singapore nursing home, or living with my wife (while I'm away in the U.S.), against the backdrop of her declining health.
