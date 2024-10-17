@@ -1,3 +1,12 @@
+-- update bpost on SSA vs cpf
+The Social Security tax applied to both employees and employers is 6.2% of an employee’s paycheck — or 12.4% in total. (Self-employed individuals pay the entire 12.4% themselves.)
+
+When you contribute to Social Security, the money doesn’t go to a specific fund allocated to you: Workers are paying into a system that pays for _current_ retirees’ (not your) benefits. For every dollar you pay in, 85 cents goes towards the Social Security trust fund. The other 15 cents goes to a separate fund that pays benefits to people with disabilities and their families.
+
+Unlike CPF, Payroll tax contributions are not reserved for future payouts to the particular taxpayer. In other words, the payroll taxes you contribute to the Social Security system aren't set aside to pay your benefits when you become eligible. They fund payouts for current beneficiaries or are saved to the reserves i.e. the trust fund.
+
+Social Security's retirement benefits trust fund is projected to deplete reserves in 2033, leaving it reliant on current-year tax receipts covering 79% of scheduled benefits.
+
 -- update bpost on time is on your side.
 For both BGC and khm investments, I need more years.
 Luckily, I invested at age 41, so I have a long runway.
