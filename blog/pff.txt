@@ -4,6 +4,14 @@ dividend yield reasonable
 -- new: mayb "cpf fixed deposit" 2.9 ppa 12m, 40 bps higher than cpfOA
 
 -- new: BITO ETF with dividend yield
+-- update bpost on long-term SG inflation
+K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to imported inflation but not Malaysia. 
+
+Some x% inflation rate over some 20Y translate to perhaps 50% commulative inflation in Sgp. Malaysia cost level is much lower and will address that level of commulative inflation.
+
+SGX blue chip stocks are an inflation hedge. 
+
+SP500 ETF is a classic inflation hedge.
 
 -- new: %%SP500 position: greed^fear
 Perhaps accumulate at a slower pace rather than cash out. This is the DCA philosophy. DCA is esp. proven in SP500.
