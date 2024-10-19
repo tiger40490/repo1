@@ -1,3 +1,9 @@
+-- new: STI ETF as inflation hedge
+dividend yield reasonable
+
+-- new: mayb "cpf fixed deposit" 2.9 ppa 12m, 40 bps higher than cpfOA
+
+-- new: BITO ETF with dividend yield
 
 -- new: %%SP500 position: greed^fear
 Perhaps accumulate at a slower pace rather than cash out. This is the DCA philosophy. DCA is esp. proven in SP500.
