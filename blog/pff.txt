@@ -74,9 +74,6 @@ Even if we transition to such a portfolio, there's no guarantee that my offsprin
 
 -- fuxi: insurance companies: need to give nomination
 
--- fuxi: SP500 continues to beat most investment products out there. So I may need to increase my position in SP500 (or a simliar index ETF)
-Beside S27 and the DJ product, are there other US ETFs listed on SGX?
-
 -- fuxi
 If you want to maximize cpfLife, then
 1) top up cpfRA to the max (4x BRS) at 55
