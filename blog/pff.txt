@@ -1,7 +1,11 @@
--- new: STI ETF as inflation hedge
-dividend yield reasonable
+-- new: DJIA ETFs
+Many criticize the price-weighted index as overweight on high-price names like UnitedHealth
 
--- new: mayb "cpf fixed deposit" 2.9 ppa 12m, 40 bps higher than cpfOA
+Many view DJIA as too volatile, not diversified enough. I don't share this view.
+
+DJIA 30 stocks are strong, well-run companies. I tend to feel there's no point buying strong companies since their prices already reflect market's confidence in them.
+
+D07 ETF has bad expRatio.
 
 -- new: DJIA ETFs
 Many criticize the price-weighted index as overweight on high-price names like UnitedHealth
@@ -15,6 +19,8 @@ K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to impor
 Some x% inflation rate over some 20Y translate to perhaps 50% commulative inflation in Sgp. Malaysia cost level is much lower and will address that level of commulative inflation.
 
 SGX blue chip stocks are an inflation hedge. 
+
+STI ETF? has expRatio, inferior to single names
 
 SP500 ETF is a classic inflation hedge.
 
