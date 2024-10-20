@@ -3,6 +3,11 @@ dividend yield reasonable
 
 -- new: mayb "cpf fixed deposit" 2.9 ppa 12m, 40 bps higher than cpfOA
 
+-- new: DJIA ETFs
+Many criticize the price-weighted index as overweight on high-price names like UnitedHealth
+
+Many view DJIA as too volatile, not diversified enough. I don't share this view.
+
 -- new: BITO ETF with dividend yield
 -- update bpost on long-term SG inflation
 K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to imported inflation but not Malaysia. 
