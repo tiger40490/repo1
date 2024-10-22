@@ -1,5 +1,10 @@
+-- clothing
+black/white jacket
+thermal
+what pants?
+
 -- phones
-activate roaming on cmlink and mlphone
+activate roaming on cmlink
 
 -- bring Sg -> PEK
 clothing
