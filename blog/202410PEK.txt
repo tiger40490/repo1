@@ -1,0 +1,6 @@
+-- phones
+activate roaming on cmlink and mlphone
+
+-- bring Sg -> PEK
+clothing
+cmlink SIM
