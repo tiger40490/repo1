@@ -1,6 +1,9 @@
+-- token:
+BOC to transfer on payroll day
+
 -- phones
 activate roaming on cmlink
 
 -- bring Sg -> PEK
-clothing
 cmlink SIM
+granspa's SIM
