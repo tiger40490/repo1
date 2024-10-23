@@ -1,8 +1,3 @@
--- clothing
-black/white jacket
-thermal
-what pants?
-
 -- phones
 activate roaming on cmlink
 
