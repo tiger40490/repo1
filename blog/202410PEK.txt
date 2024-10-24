@@ -3,7 +3,9 @@ BOC to transfer on payroll day
 
 -- phones
 activate roaming on cmlink
+review chnM  data 
 
 -- bring Sg -> PEK
 cmlink SIM
-granspa's SIM
+grandpa's SIM card... to operate icbc/pscb accounts
+workout equiptment .. push-up bracket, elastic bands
