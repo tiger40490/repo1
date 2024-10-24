@@ -3,14 +3,9 @@ Many criticize the price-weighted index as overweight on high-price names like U
 
 Many view DJIA as too volatile, not diversified enough. I don't share this view.
 
-DJIA 30 stocks are strong, well-run companies. I tend to feel there's no point buying strong companies since their prices already reflect market's confidence in them.
+DJIA 30 stocks are strong, well-run companies, possibly stronger than the average SP500 companies. I tend to feel there's no point buying strong companies since their prices already reflect market's confidence in them.
 
 D07 ETF has bad expRatio.
-
--- new: DJIA ETFs
-Many criticize the price-weighted index as overweight on high-price names like UnitedHealth
-
-Many view DJIA as too volatile, not diversified enough. I don't share this view.
 
 -- new: BITO ETF with dividend yield
 
