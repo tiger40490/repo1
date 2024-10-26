@@ -1,3 +1,9 @@
+-- update creature comfort
+G3 ROI for taxi instead of MRT
+#2 sys1 load .. with MRT sys1/sys2 need to stay alert. Don't miss this or that stop; Don't leave luggage behind; Hold your luggage.
+#3 seat more available than on MRT
+#1 time-saving
+
 -- update... HK English standard falling 
 How can it beat Shanghai, Taipei or KL?
 
