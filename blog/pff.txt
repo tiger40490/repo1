@@ -1,3 +1,14 @@
+== new: CCB #
+Set-up legwork is non-trivial. Do it at night .. LGlp
+-- auth
+passwd: t133xxxx similar to other China banks
+no 9-dot to log in
+no smsOtp to log in
+
+ATM pin: 6-digit
+
+
+=====
 -- fuxi:
 I worry about my kids falling for the financial trap of debt; I worry about grandparents falling for scams.... but I'm not supersmart, super vigilant, immune to impulsive decision
 
