@@ -1,3 +1,4 @@
+transfer R 50k to psbc::gp?
 
 -- bring back winterwear for Jan and Tokyo trips.
 thermals .. pre-pack (into lugage)
@@ -14,16 +15,13 @@ git push works at some quiet times.
 
 ==== todo in PEK
 
--- Mo:
-psbc::gp https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=32617&action=edit
-
 -- Tu:
 withdraw 8k from GP. 
 .. increase my mobank transfer limit
 Tu 29 Oct payroll day
 
 -- Wed
-HSBC #2 on Tue, Wed, Thu 
+HSBC #2 for USD 6k... on Tue, Wed, Thu 
 Wed 3-4pm call 623 99477 about syphilis pw 40490
 
 -- minor todo
