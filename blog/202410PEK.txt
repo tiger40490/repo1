@@ -1,5 +1,4 @@
 
-all three Psbc cards >> Sgp
 -- bring back winterwear for Jan and Tokyo trips.
 thermals .. pre-pack (into lugage)
 outer loose pants .. pre-pack
@@ -9,33 +8,20 @@ glove?
 hats?
 neck?
 
--- 3M
-安装方法：１.请彻底清洁表面，待干
-２.撕开红色离型胶纸，3M箭头朝下，粘帖于挂钩背面，用力按压
-３.撕开黑色离型胶纸
-４.将挂钩贴于表面，均匀压紧挂钩10秒钟
-５.重要：将挂钩上盖沿墙面向上提起后取下
-６.均匀按压挂钩背座３０秒，使胶条完全附着于表面
-７.静置２４小时后
-8.将挂钩上盖挂回背座，正常使用产品
-
 -- fuxi about DJDJ
 my blogg sites have uncommon domain names ... permitted by default
-git push tends to work at some times.
+git push works at some quiet times.
 
 ==== todo in PEK
 birth cert ... ask lawyer first
 
 -- Mo:
-visit icbc to withdraw rmb 13w, then convert to 10k USD 
-.. bring vivo 1820
 at home, record the transactions
-psbc to get unionpay card and mobank .. can try Mon after lunch or Tue
+psbc::gp https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=32617&action=edit
 
 -- Tu:
-HSBC #2 on Tue, Wed, Thu 
-withdraw 8k from GP. Use auth letter
-psbc?
+withdraw 8k from GP. 
+visit icbc to increase my mobank transfer limit
 Tu 29 Oct payroll day
 
 -- Wed
