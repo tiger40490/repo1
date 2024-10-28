@@ -9,19 +9,17 @@ hats?
 neck?
 
 -- fuxi about DJDJ
-my blogg sites have uncommon domain names ... permitted by default
+my blogg sites have uncommon domain names ... permitted by default. In contrast, MLP Sg InfoSec team sees only 300 staff's site list and mine is much more visible.
 git push works at some quiet times.
 
 ==== todo in PEK
-birth cert ... ask lawyer first
 
 -- Mo:
-at home, record the transactions
 psbc::gp https://tanbinvest.dreamhosters.com/wp-admin/post.php?post=32617&action=edit
 
 -- Tu:
 withdraw 8k from GP. 
-visit icbc to increase my mobank transfer limit
+.. increase my mobank transfer limit
 Tu 29 Oct payroll day
 
 -- Wed
@@ -29,5 +27,5 @@ HSBC #2 on Tue, Wed, Thu
 Wed 3-4pm call 623 99477 about syphilis pw 40490
 
 -- minor todo
-visit icbc to increase my mobank transfer limit
 prepare winter wear
+document CCB 
