@@ -1,13 +1,9 @@
-transfer R 50k to psbc::gp?
+maintain R 50k in psbc::gp?
 
 -- bring back winterwear for Jan and Tokyo trips.
 thermals .. pre-pack (into lugage)
 outer loose pants .. pre-pack
 coats .. too big to pre-pack
-
-glove?
-hats?
-neck?
 
 -- fuxi about DJDJ
 my blogg sites have uncommon domain names ... permitted by default. In contrast, MLP Sg InfoSec team sees only 300 staff's site list and mine is much more visible.
@@ -17,13 +13,15 @@ git push works at some quiet times.
 
 -- Tu:
 withdraw 8k from GP. 
-.. increase my mobank transfer limit
+.. to increase my mobank transfer limit per transfer
+.. also ask about ChannelA
+.. ask about automated xfer
 Tu 29 Oct payroll day
 
 -- Wed
 HSBC #2 for USD 6k... on Tue, Wed, Thu 
-Wed 3-4pm call 623 99477 about syphilis pw 40490
+Wed 3-4pm call 623 99477 about syphilis pw 40490. I call them first to confirm the number
 
 -- minor todo
-prepare winter wear
 document CCB 
+set up automated xfer to psbc::gp

@@ -1,12 +1,16 @@
 == new: CCB #
 Set-up legwork is non-trivial. Do it at night .. LGlp
+signature is all-cap, same as icbc
+6m_inactivity require in/out transaction hitting the card
+wire .. probably at branch only, not self-service
+somehow failed to bind to wcpay
+
 -- auth
-passwd: t133xxxx similar to other China banks
+log in: t133xxxx similar to other China banks
 no 9-dot to log in
 no smsOtp to log in
 
 ATM pin: 6-digit
-
 
 =====
 -- fuxi:
