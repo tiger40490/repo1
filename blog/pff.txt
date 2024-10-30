@@ -1,9 +1,11 @@
 == new: CCB #
 Set-up legwork is non-trivial. Do it at night .. LGlp
+try webank and try to remove mobank
 signature is all-cap, same as icbc
 6m_inactivity require in/out transaction hitting the card
 wire .. probably at branch only, not self-service
 somehow failed to bind to wcpay
+95533 hotline 24/7
 
 -- auth
 log in: t133xxxx similar to other China banks
