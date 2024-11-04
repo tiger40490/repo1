@@ -1,3 +1,14 @@
+--  update bpost on FWD LifeIncomePlus
+change of person insured... Can change to any child/spouse.
+Close to end of my life we can choose
+* to pay off the PF loan
+* to manage the loan by themselves
+This way, they can continue to receive the annual payout.
+
+Need to set up nomination to wife and daughter.
+
+Best month to surrender .. is right after receiving annual payout.
+
 == new: CCB #
 Set-up legwork is non-trivial. Do it at night .. LGlp
 try webank and try to remove mobank
