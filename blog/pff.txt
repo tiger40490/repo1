@@ -1,13 +1,13 @@
 --  update bpost on FWD LifeIncomePlus
-change of person insured... Can change to any child/spouse.
-Close to end of my life we can choose
+change of person insured ... Can change to any child or spouse. Close to end of my life we would want to extend this income stream. My family can choose
 * to pay off the PF loan
-* to manage the loan by themselves
-This way, they can continue to receive the annual payout.
+* to service the loan by themselves
 
 Need to set up nomination to wife and daughter.
 
-Best month to surrender .. is right after receiving annual payout.
+Best month to surrender .. is right after receiving annual payout. No accrual.
+
+Surrender value within 36M .. entails up to 20% loss. See BenI.
 
 == new: CCB #
 Set-up legwork is non-trivial. Do it at night .. LGlp
@@ -31,7 +31,7 @@ ATM pin: 6-digit
 -- fuxi:
 I worry about my kids falling for the financial trap of debt; I worry about grandparents falling for scams.... but I'm not supersmart, super vigilant, immune to impulsive decision
 
-An asset can go under joint-signature custody. Example is the HDB flat.
+To address those concerns, an asset can go under joint-signature custody. Example is the HDB flat.
 
 CPF account is slighlty safer against scams.
 
@@ -51,20 +51,17 @@ DJIA 30 stocks are strong, well-run companies, possibly stronger than the averag
 
 D07 ETF has bad expRatio.
 
--- new: BITO ETF with dividend yield
-
 -- update bpost on long-term SG inflation
 K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to imported inflation but not Malaysia.
-Switzerland is luckier than Sgp because its neighbors are rich, developed economies. This also means Switzerland citizens don't have a next-door neighbor as a low-cost retirement destination. Sgp has JB
+Switzerland citizens don't have a next-door neighbor as a low-cost retirement destination. (Spain?) Sgp has JB.
 
-Some x% inflation rate over some 20Y translate to perhaps 50% commulative inflation in Sgp. Malaysia cost level is much lower and will address that level of commulative inflation.
+Some x% annual inflation over some 15Y translate to perhaps 50% commulative inflation in Sgp. Malaysia cost level is much lower and will address that level of commulative inflation.
 
 SGX blue chip stocks are an inflation hedge. 
 
 STI ETF? has expRatio, inferior to single names
 
 SP500 ETF is a classic inflation hedge.
-
 
 -- new: %%SP500 position: greed^fear
 Perhaps accumulate at a slower pace rather than cash out. This is the DCA philosophy. DCA is esp. proven in SP500.
@@ -83,7 +80,6 @@ practice log-in once a month. Slightly easier to recover lost password than ICBC
 
 After you reinstall mobank, you  need to enter your existing passwd twice, then recreate mobilePIN. 
 
-global transfer may have a USD 50k/Y limit
 deposit USD .. 50k/Y limit, spaced out[2]
 There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner, except the "emergency $500"
 
@@ -92,21 +88,11 @@ There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank 
 -- fuxi: BOC soft token
 not usable for webank login
 
--- update AIA bigger plan (for wife) has SGD 30k for CI-early
+-- update 
+AIA bigger plan (for wife) has SGD 30k for early-CI
 If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
 
 SRS to pay for AIA premium? No
-
--- fuxi
-Some investment salesmen or authors pose the question "Do you think you are an effective investor?" Some friends also pose that question.
-
-The investment management industry has an industry standard about picking a "benchmark" for each managed product, because the benchmark is a crucial factor (in performance evaluation etc). Most investment managers choose some index. They think their index is fair. I guess so. 
-
-I don't bother to find a fair benchmark for my portfolio. It's too complicated and touches a raw nerve.
-
-Those salesmen tend to suggest an implicit benchmark on my performancce, but is it fair? I feel those implicit benchmarks tend to be very high and therefore unfair.
-
-I feel a retail investor is considered fairly /successful/ ("doing fine") if his long-term return beats DIR [deposit IR] with a reasonable volatility.
 
 -- udpate or fuxi
 Even with very low annual income, I should start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
