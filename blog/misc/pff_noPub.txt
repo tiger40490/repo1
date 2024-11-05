@@ -1,3 +1,20 @@
+-- noblog: I'm lucky, thank God or perhaps due to Karma
+* Citi.sg USD 3690 TD renewable even though that amount was then below SGD 5k
+* MLP allows me to keep Rbh and all the positions.
+
+-- fuxi or update (which) bpost on inflation
+I see the huge effort by PAP government to manage inflation and preserve purchasing power of the national currency.
+Now I feel very low inflation is unnatural, unsustainable (in an inflationary global ecosystem) and potentially harmful to the local economy.
+
+-- fuxi
+If you want to maximize cpfLife, then
+1) top up cpfRA to the max (4x BRS) at 55
+2) don't withdraw. Let it grow at 4%. Your max cpfRA balance will grow faster than the ERS_index grows.
+
+-- fuxi: How do I feel about terminating the Citi SMRT card? 
+Freedom from worry about annual fee
+Freedom from anxiety over large credit limit
+
 -- fuxi
 Some investment salesmen or authors pose the question "Do you think you are an effective investor?" Some friends also pose that question.
 
@@ -8,6 +25,10 @@ I don't bother to find a fair benchmark for my portfolio. It's too complicated a
 Those salesmen tend to suggest an implicit benchmark on my performancce, but is it fair? I feel those implicit benchmarks tend to be very high and therefore unfair.
 
 I feel a retail investor is considered fairly /successful/ ("doing fine") if his long-term return beats DIR [deposit IR] with a reasonable volatility.
+
+-- fuxi: the will-preparation process has a focusing effect. We are nudged to focus on various worst-case scenarios of early death. Within this tunnel vision, long-term investments appear to be too risky and unsuitable. We are nudged to favor very short-term investment strategies. It's risk-averse to the extreme.
+
+Even if we transition to such a portfolio, there's no guarantee that my offspring would actually fare better. There could be currency devaluation, high inflation, irresponsible spending ...
 
 -- fuxi: USD-denominated endowment
 Taiping has such products (rare among local insurers)
