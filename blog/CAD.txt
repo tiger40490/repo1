@@ -1,3 +1,15 @@
+-- ask
+early sleep .. boy's noise... light sleeper
+
+My mom takes blood pressure daily. Do I need to?
+
+Q8: Was my progression so fast over 3 years? from zero to 50%? Perhaps not zero 3Y ago?
+
+
+Q8b: Will it continue at a slower pace if I take these medications? A: Yes!
+Q8c: But slower pace still implies I may need stenting in a few years?
+AA: possible. All depend on on periodic ESE results
+
 -- update bpost on Dr Leow
 Over 20Y horizon, stent failure rate is 10-20%, so 80%+ of stent patients don't need rework for 20Y+.
 
@@ -6,11 +18,10 @@ AA: Yes
 
 Do I need to learn how to recognize angina?
 A: there are many angina symptoms including some minor discomfort
-A: GTN not effective for me. Tablets like aspirin blood thinner also unsuitable since it can backfire in some cases
+A: GTN not effective for me. Tablets like aspirin blood thinner are also unsuitable since it can backfire in some cases
 %%A: I believe GTN and tablets are not needed for my current level of risk. For some reason, doctor won't put it that way.
 
 Do I need to determine my max heart rate? No need. 90% of 170 is good
-How relevant/safe are the 2 new drugs? Vitamine is safe. Not sure about the Chinese one.
 
 After checking my blood results and blood pressure, Dr Lew said that given my age, I will need stent in a number of years, but the longer we can safely put it off, the better, as stent technology will improve.
 
@@ -22,7 +33,7 @@ Q: future CT results will need to be interpreted with this FFR report?
 A: Standard CT will not be suitable.. wait for newer technology
 
 Q: how do I monitor the build-up over next 10y?
-A: ESE (exercise stress echo) every 2Y, or 1Y at least
+A: ESE (exercise stress echo) every 2Y, or 1Y minimum
 A: Standard treadmill test will give false positives.
 
 What can I do about hypertension risk? I guess same as everyone else i.e. manage risk facctors
@@ -34,9 +45,9 @@ How do I watch out for liver damage due to Lipitor?
 AA: blood test every 6M
 
 Is my blood pressure likely to rise? 
-AA: yes but only due to aging, not the procedure
+AA: yes but only due to aging, not stent
 
-will the procedure leave the smaller plagues (below 50% blockage) untreated? Will they build up? Improvement is impossible.
+Q: will stent procedure leave the smaller plagues (below 50% blockage) untreated? Will they build up? Improvement is impossible.
 AA: Scenario 1: doesn't build up over many years
 AA: Sceanrio 2: worsening.. further intervention
 
@@ -71,7 +82,7 @@ Q: competitive running/jogging .. fall at the end? Yes dangerous to the heart. I
 AA: Aim at endurance and don't sprint. Maintain pace. 
 %%A: My younger-day habit of all-out sprint in the last lap is no longer safe at my age
 
-Q: In early Apr, you told me my risk of heart attack is quite high so I need an angioplasty within a month. Is my risk profile improved so much that I I don't need to constantly worry about heart attack?
+Q: In early Apr, you told me my risk of heart attack is quite high so I need an angioplasty within a month. Is my risk profile improved so much that I don't need to constantly worry about heart attack?
 A: After the angiogram, my risk of heart attack is below 1% within 1-2Y. Blockage is at most 50% despite what he wrote in the discharge summary.
 
 Q: test for insulin in blood in addition to hbA1c, to guage my risk of diabetes?
@@ -79,13 +90,6 @@ A: no need
 
 Q: EDyw since early 2023 .. could it be due to my plaque build-up?
 A: possible, but any man above 45 has increased risk.
-
-Q8: Was my progression so fast over 3 years? from zero to 50%? 
-A: may not be zero 3Y ago.
-
-Q8b: Will it continue at a slower pace if I take these medications? A: Yes!
-Q8c: But slower pace still implies I may need stenting in a few years?
-A: possible. All depend on on periodic ESE results
 
 workout 
 .. 20km without pushing to the limit? No recommended
