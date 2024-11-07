@@ -1,0 +1,13 @@
+In InsuranceProductSummary Section 7 on Exclusions, I found this paragraph (abridged) 
+
+    We will not pay any Death Benefit or Terminal Illness Benefit under this policy if the claim arises: from suicide, attempted suicide, an intentional self-inflicted act or due to a pre-existing condition...
+
+    Pre-existing condition
+    This refers to a medical condition that is present before the start of your policy cover ...
+
+
+Suppose a customer buys the policy with a $300k single premium at age 60, having a pre-existing heart diagnosis like stents or CABG. At age 80 customer suffers a fatal heart attack.
+
+Based on Section 7, FWD would pay out $0 death benefit, while the family expects $315k i.e. 105% payout.
+
+I would say majority of customers above 60 would have some pre-existing condition. Suppose, realistically, 20% of customers who enter after age 60 actually end up dying due to pre-existing condition. (Fairly realistic claim scenario.) Are these customers likely to lose the entire principal amount upon their passing? That would be completely unfair. 
