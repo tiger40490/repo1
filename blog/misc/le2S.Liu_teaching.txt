@@ -1,13 +1,13 @@
 Hi Liu Shuo,
 
 Today something reminded me of a recommendation you gave me some years ago, when you said (via email) that a teaching career might be best for my later career. I will assume you meant "after 55" or "after 60". 
-I think at the time of that email, I was possibly struggling in my master's degree (now completed), so i assume you meant teaching math or CSci (Computer Science).
+I think at the time of that email, I was possibly struggling in my master's degree (now completed), so i assume you meant teaching math or computing.
 
-Many things have changed over the last few short years, so much so that I don't see a high probability (like 20%) to take up a full time teaching career before 55. 
+Many things have changed over the last few years, so much so that I don't see a high probability (like 20%) to take up a full time teaching career before 55. 
 
 Q: looking at the last few years, why would I want or don't want a full-time teaching career? Below are some Yes/No factors.
 
-[yes-factor] demand .. Since 10 years ago, demand for computing and math education has been rising, and I have the basic credentials to teach at high school or diploma levels. My wife is a pre-school Chinese teacher, and we also discussed teaching Chinese in the U.S.
+[yes-factor] demand .. Since 10 years ago, demand for computing and math education has been rising, and I have the basic credentials to teach at diploma level. My wife is a pre-school Chinese teacher, and we also discussed teaching Chinese in the U.S.
 
 [yes-factor] interest .. I have a bit of interest in teaching Chinese, math or programming. I like it better than retail job, cleaner job, network marketing, full-time volunteering... 
 
@@ -18,3 +18,8 @@ I also considered online marketing careers such as online store or affiliate mar
 [no-factor] tech interviews .. are still within my range for the_SWE_jobs_I_focus_on. (Obviously many SWE interviews are beyond my abilities such as architect, team lead, or Bay-area $300k SWE jobs.) If my workload becomes unberable like in GS, I would change job rather than switch career. By 55, I think I can keep up with the other job candidates on the interview arena.
 
 [no-factor] tech churn .. has improved significantly over 20Y for the_SWE_jobs_I_focus_on. Churn was a slow-n-steady killer in the interview areana and also on the job. We were brainwashed to believe that "If you don't upgrade to new technology (and forgo your heavy investment in earlier technologies), then you couldn't survive". Well, I still use the technology stack I studied 15Y ago. The old stack doesn't pay so well, but I am fat-n-happy.
+
+* math, computing .. are some of the subjects I'm probably qualified to teach
+* good -- stable job. Low worry about retrenchment
+* good -- I can stay in Singapore and attend to my mother and other family members.
+* personal talents as a lecturer? Unsure. I think that with good attitude, I can leverage on my talents and overcome my shortcomings as a lecturer.
