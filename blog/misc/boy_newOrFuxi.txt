@@ -1,3 +1,33 @@
+-- fuxi: Most (50%+) students (adults too) are inefficient on multiple fronts
+* too many gaming hours
+* slow start in daily homework
+* late sleep, perhaps on weekends
+* getting up late
+* no rest on commute. No reading either
+** not paying attention and missing the stops
+* sleepy in class, unable to follow some topics
+* too busy to have rest and exercise. low energy
+
+In many schools, there is sufficient buffer for these inefficient students to survive, but how about your school. I think a boarding school is a good training ground.
+
+The key is chipaway at efficiency improvement and self-discipline on a few identified fronts. Aim to achieve above-average efficiency in at least some fronts.
+
+-- new private: Ken See's inspirational story
+HCI -> St Andrew's JC -> NTU Sociology acceptance, but went to NorthEastern "business" degree -> UPenn special Master's for non-IT graduates.
+
+Among the UPen program past graduates, about 1/3 become SWEs, about 1/3 found jobs combining IT with their previous professions. A small minority chose theoretical PhD programs.
+
+NorthEastern has a co-op program... See the long email (update blogpost on Berea)
+
+Kenneth felt poly would give you more *personal time* to explore in different directions, and help you figure out what you want to do.
+
+Kenneth felt JC is too competitive and wouldn't build a broad foundation as promised. In fact, JC curriculum is deeper not broader than Grade 7-10.
+
+I think the huge effort (sacrifice) that each puts into the 2Y may not be worthwhile, depending on the individual.
+
+His sister is in U-Mel's foundation program (1Y), where she could get a teaser of the various college courses. After a year, she could enroll as college freshman, a year earlier than her cohort in JC.
+There's a risk if she doesn't qualify for UMel after the program. Kenneth said worst case she may need to come back to JC. I said such a delay is normal in real life, and her 1Y would not be spent in Timezone.
+
 -- fuxi: digital tech is used mostly for 1) entertainment 2) productive [work, edu, xx, transactions].
 (Some usages are a mix of the two. For eg, news, shopp)
 Kids can learn to differentiate and learn to move towards productive uses.
