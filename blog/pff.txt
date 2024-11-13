@@ -1,6 +1,12 @@
 -- update bpost on FWD
 copy the "exclusion" email thread to bpost
-also forward the mail to myself with subject "exclusion on pre-existing"
+
+Repeated Giro failure would prompt Cimb to terminate the loan via policy surrender.
+Need to maintain sufficient acct balance for 36M.
+
+Sora (spread 1 ppa) LIR is higher than COF LIR.
+
+Singapore insurers do cut payout rate selectively, usually targetting the "expensive" policies first. Eg: TokyoMarine.
 
 -- new: am long LIR
 The prem financing loan highlighted my exposure to the LIR hazard. However, in the bigger picture, I foresee myself as net-long LIR i.e. thriving on rising LIR.
