@@ -1,26 +1,3 @@
--- update bpost on FWD
-copy the "exclusion" email thread to bpost
-
-Repeated Giro failure would prompt Cimb to terminate the loan via policy surrender.
-Need to maintain sufficient acct balance for 36M.
-
-Sora (spread 1 ppa) LIR is higher than COF LIR.
-
-Singapore insurers do cut payout rate selectively, usually targetting the "expensive" policies first. Eg: TokyoMarine.
-
--- new: am long LIR
-The prem financing loan highlighted my exposure to the LIR hazard. However, in the bigger picture, I foresee myself as net-long LIR i.e. thriving on rising LIR.
-
-Observation: rising LIR has always accompanied rising DIR, though DIR may rise less than LIR.
-
-Fact: I'm a net creditor to banks. My cash balance always dwarfs my bank loan. At any time I always have enough to pay off my loans.
-
-Fact: I am a big saver. During high-LIR times, I have amassed growing cash piles and rode the DIR wave.
-
-Fact: high-LIR environment helps prop up payout rate of my paid-up insurance plans.
-
-Observation: high LIR may lead to inflation [ erosion of SGD purchasing power ] but LIR and inflation are not well-correlated. Singapore inflation is more correlated with exchange rate not LIR .. a key feature of the MAS.
-
 -- fuxi:
 I worry about my kids falling for the financial trap of debt; I worry about grandparents falling for scams.... but I'm not supersmart, super vigilant, immune to impulsive decision
 
