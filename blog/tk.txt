@@ -13,7 +13,7 @@ Warning: the storage bag in luggage can become overcrowded with 3 or 4 similar S
 
 -- JPY
 Big purchase, prefer 1) psbc::GP (dCard may fail) 2) scsc
-Cash purchase, prefer 1) money changer 2) ATM << HSBC dCard
+Cash purchase, prefer 1) money changer 2) ATM << PSBC:GP
 
 To deal with residual JPY ...
 
