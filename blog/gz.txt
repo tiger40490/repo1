@@ -1,3 +1,16 @@
+-- update bpost on workload.
+I told my UAT team colleague ...
+
+Sometimes I deliberately slow down and extend my project loner.
+
+Sometimes I take time off in office, working on my own stuff. (Companies also organize events during work hours.)
+
+I don't need to feel guilty. 
+
+100 years ago, workers toil for 13h x 7d a week. My wife used to work 7D a week. In the 90s, most Singapore offices open 5.5 days a week. Europeans now average 35.7 h/week, and max out at 41 in Greece. Using 13x7 as yardstick, we are all lazy bones, and should feel guilty.
+
+What's a fair amount of workload? It depends on our age, our position, the team avarage, our efficiency level, our localsys knowhow,,
+
 -- fuxi: early to office?
 CTO knows (lucky me) I'm in 6-7 days a week, and my personal attendance record could be "right at the top".
 
