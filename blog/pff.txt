@@ -1,16 +1,3 @@
--- fuxi:
-I worry about my kids falling for the financial trap of debt; I worry about grandparents falling for scams.... but I'm not supersmart, super vigilant, immune to impulsive decision
-
-To address those concerns, an asset can go under joint-signature custody. Example is the HDB flat.
-
-CPF account is slighlty safer against scams.
-
-compared to my SGD accounts, my USD accounts are slight less prone to impulsive actions.
-
-Our insurance plans are less prone to quick liquidation
-* AIA
-* Prudential
-* shield plans, ADL plans have miniml surrender values anyway
 
 -- new: DJIA ETFs
 Many criticize the price-weighted index as overweight on high-price names like UnitedHealth
@@ -63,3 +50,17 @@ SRS to pay for AIA premium? No
 
 -- udpate or fuxi
 Even with very low annual income, I should start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.
+
+-- fuxi:
+I worry about my kids falling for the financial trap of debt; I worry about grandparents falling for scams.... but I'm not supersmart, super vigilant, immune to impulsive decision
+
+To address those concerns, an asset can go under joint-signature custody. Example is the HDB flat.
+
+CPF account is slighlty safer against scams.
+
+compared to my SGD accounts, my USD accounts are slight less prone to impulsive actions.
+
+Our insurance plans are less prone to quick liquidation
+* AIA
+* Prudential
+* shield plans, ADL plans have miniml surrender values anyway
