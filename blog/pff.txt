@@ -1,13 +1,4 @@
 
--- new: DJIA ETFs
-Many criticize the price-weighted index as overweight on high-price names like UnitedHealth
-
-Many view DJIA as too volatile, not diversified enough. I don't share this view.
-
-DJIA 30 stocks are strong, well-run companies, possibly stronger than the average SP500 companies. I tend to feel there's no point buying strong companies since their prices already reflect market's confidence in them.
-
-D07 ETF has bad expRatio.
-
 -- update bpost on long-term SG inflation
 K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to imported inflation but not Malaysia.
 Switzerland citizens don't have a next-door neighbor as a low-cost retirement destination. (Spain?) Sgp has JB.
@@ -19,18 +10,6 @@ SGX blue chip stocks are an inflation hedge.
 STI ETF? has expRatio, inferior to single names
 
 SP500 ETF is a classic inflation hedge.
-
--- new: %%SP500 position: greed^fear
-Perhaps accumulate at a slower pace rather than cash out. This is the DCA philosophy. DCA is esp. proven in SP500.
-
-My s27 position is good. Average cost probably around $500. If I liquidate all, I make a handsome profit. Then I could start from a clean slate.
-SellAll can cause regret if sp500 keeps climbing and my SRS 60k idle cash earns a paltry SSB DIR
-
-If I hold and then suffer paper loss together with everyone else (DCA..), I would feel "safe" in the bandwagon, protected from blame.
-
-Now is fear time for many. Buffett said something like "Be greedy when market is fearful." but he is reducing his positions.
-
--- update bpost: cpfSA will disappear after 55, so you can't treat it as a 4 ppa flexible savings 
 
 -- update bpost on hsbc.cn
 practice log-in once a month. Slightly easier to recover lost password than ICBC
