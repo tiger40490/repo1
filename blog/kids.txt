@@ -1,8 +1,5 @@
--- update le2Grace
-
 -- fuxi: police officer interview
 Ask FGO about what if above 16
-FSC can refer us to various agencies.
 I asked 3 things of police 1) take him away for a while 2) CCTV for evidence 3) stern warning next time to drive home the message
 Police can only do #3.
 
@@ -32,7 +29,7 @@ My dad has a slightly higher goal for his grandson -- finish poly or community c
 
 What's the response of a typical Asian mother? She may say that without a good degree her son would struggle on the job market. There is no right or wrong but I now feel the fear is exaggerated. The same mother may say that a starting salary of SGD 5k would still be a struggle because a private property costs SGD 1M.
 
---new: defiance: Doreen's input
+--new: defiance: Doreen's input (CGC)
 validation/reflection of the defiant child. Hopefully, the child will feel better and become less defiant. Step 2 is laying down the boundary. 
 I feel the first step is crucial, and often neglected.
 
