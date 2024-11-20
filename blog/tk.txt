@@ -19,13 +19,13 @@ Cash purchase, prefer ATM << PSBC:GP
 To deal with residual JPY ... LG
 =====
 -- bring back and forth
-which cards .. psbc::gp, hsbc
+which cards .. psbc::gp, scsc
 small laptop + SD card
-ccard+basic amount of cash
-~~ Tier 1 important
 medication
 phone+laptop with chargers
 passport
+
 -- leave at #1169
 local cash + coins
+
 -- Sg > Jap
