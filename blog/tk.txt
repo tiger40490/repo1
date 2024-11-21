@@ -1,9 +1,6 @@
-carry a VISA ccard 
-prepare needles
-sd card .. pack with ...
 
 -- phones/SIMs
-#159? Yes needed in Jap/China for mobank
+#159? Yes non-optional
 #80 383 055 .. Yes (optional). Easy to replace. Usable during PVG transit
 #900 … yes ( optional ). Easy to replace. Needed while in SG
 #1084 and vivo1820? No. Hard to replace. Leave in Sg for safekeeping
@@ -17,9 +14,6 @@ Cash purchase, prefer  1) money changer << SGD 2) ATM << PSBC:GP, DBS
 To deal with residual JPY ... LG
 =====
 -- bring back and forth
-small laptop + SD card
-medication
-phone+laptop with chargers
 
 -- leave at #1169
 local cash + coins
