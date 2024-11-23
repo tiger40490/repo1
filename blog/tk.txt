@@ -1,7 +1,5 @@
 
 -- phones/SIMs
-#159? Yes non-optional
-#80 383 055 .. Yes (optional). Easy to replace. Usable during PVG transit
 #900 … yes ( optional ). Easy to replace. Needed while in SG
 #1084 and vivo1820? No. Hard to replace. Leave in Sg for safekeeping
 mlphone Yes
@@ -12,10 +10,15 @@ Warning: the storage bag in luggage can become overcrowded with 3 or 4 similar S
 Big purchase, prefer card payment 1) psbc::GP 2) scsc
 Cash purchase, prefer  1) money changer << SGD 2) ATM << PSBC:GP, DBS
 To deal with residual JPY ... LG
+-- udate post on mlphone hotspot
+Issue: NoSim. I had to connect to a wifi to set up SIM
+Issue: other devices can't detect this SSID. I had to disable-then-enable it on mlphone
+
+Once another device connects to this SSID, mlphone shows a green banner on top.
+-- reflections
+mlphone proved valuable, though less than reliable
+hotel wifi excellent
+
 =====
 -- bring back and forth
-
--- leave at #1169
-local cash + coins
-
 -- Sg > Jap
