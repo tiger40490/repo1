@@ -1,3 +1,8 @@
+-- upate bpost on ChanelA
+The most obvious justification for card holder performing overseas ATM withdrawal .. to withdraw cash to spend at cash-only shops. There are many cash-only shops in Singapore and Japan. 
+
+To conform to this usage scenario/expectation, it is prudent to space out two withdrawals.
+
 -- new: fraud detection.. account unlock
 Automatic account lockdown due to unusual activities... is a global trend pioneered by China. Highly inconvenient for millions of innocent user. I choose to believe that the evolving systems do prevent a lot of scams.
 

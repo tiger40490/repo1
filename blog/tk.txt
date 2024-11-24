@@ -1,23 +1,28 @@
+We should try a JPY 30-50k withdrawal to remove cashflow concern
 
 -- JPY
 Big purchase, prefer card payment 1) psbc::GP 2) scsc
-Cash purchase, prefer  1) money changer << SGD 2) ATM << PSBC:GP, DBS
-To deal with residual JPY ... LG
--- udate post on mlphone hotspot
-Issue: NoSim. I had to connect to a wifi to set up SIM
-Issue: other devices can't detect this SSID. I had to disable-then-enable it on mlphone
+Cash purchase, prefer  1) money changer << SGD 2) ATM << PSBC:GP
+PSBC hotline confirmed the fee schedule doesn't mention specific countries, so there is no known difference between Singpaore ATM and Japan ATM.
+I asked 7-eleven ATM vendor and a Posbank ATM. They don't have any charges imposed on their ATM usage by UnionPay card holders.
 
-Once another device connects to this SSID, mlphone shows a green banner on top.
 -- workout?
 jogging in a park?
 
--- reflections
-mlphone proved valuable, though with 99% SLA
-spare charging cables + adapters are useful.
+-- nice surprises
+3 of them are self-reliant and competent
+boy is not nasty to mom and meimei
+healthy food is easy to find
+I established a base plan -- stay in hotel throughout [good wifi, 24h English-speaking staff]. I even validated it with Genn and wife.
 
+-- well done
+mlphone proved valuable, though with 99% SLA. I need it to call China, Singapore ..
+spare charging cables + adapters proved useful.
+
+-- reflections
 I need quiet time and adequate rest
 I want control on costs
-I don't want to feel regret (as in Seoul) for time wasted in "meaningless places"
+I don't want to feel regret (as in Seoul) for time wasted in "meaningless places". I would rather stay in hotel and read and blog
 I don't mind missing "memorable" sight seeing and good foods, but I want my famiy to have a good rmSelf experience
 
 =====
