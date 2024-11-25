@@ -1,10 +1,13 @@
-We should try a JPY 30-50k withdrawal to remove cashflow concern
+stitch collar button at home
+
 
 -- JPY
 Big purchase, prefer card payment 1) psbc::GP 2) scsc
 Cash purchase, prefer  1) money changer << SGD 2) ATM << PSBC:GP
-PSBC hotline confirmed the fee schedule doesn't mention specific countries, so there is no known difference between Singpaore ATM and Japan ATM.
+PSBC hotline confirmed the fee schedule is not country-specific, so there is no known difference between Singpaore ATM and Japan ATM.
 I asked 7-eleven ATM vendor and a Posbank ATM. They don't have any charges imposed on their ATM usage by UnionPay card holders.
+
+We should try a JPY 30-50k withdrawal to remove cashflow concern
 
 -- nice surprises
 3 of them are self-reliant and competent
