@@ -1,6 +1,7 @@
-stitch collar button at home
-wash socks, thermal
-call UnionPay
+-- plan jogg trip to Ueno 
+long path-finding trip
+carry UnionPay card
+research about e-tickets
 
 -- JPY
 Big purchase, prefer card payment 1) psbc::GP 2) scsc
