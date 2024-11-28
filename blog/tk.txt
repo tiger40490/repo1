@@ -6,10 +6,10 @@ financially, buy connecting ticket from Tawaramachi to A20 skytree. The secong-s
 
 .. timing
 6.55 reach Tawaramachi stn to buy ticket, wait for train (max 8min)
-7.00 board train to Asakusa
+7.00 must board train to Asakusa
 7.0x alight and transfer. Need connecting ticket
 7.11 (7.32 next train) board train to Narita
-8.09 (8.31 next train) reach Narita, pay secong-semgnet, check-in...
+8.09 (8.31) reach Narita, pay second-semgnet, check-in...
 
 -- JPY
 Big purchase, prefer card payment 1) psbc::GP 2) scsc
@@ -27,5 +27,5 @@ I don't want to feel regret (as in Seoul) for time wasted in "meaningless places
 I don't mind missing "memorable" sight seeing and good foods, but I want my famiy to have a good rmSelf experience
 
 =====
--- bring back and forth
--- Sg > Jap
+-- bring back 
+boy's earphone
