@@ -1,18 +1,20 @@
--- plan jogg trip to Ueno 
-5am to 20:20
-carry UnionPay card
-research about e-tickets
-https://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/express_fares.php shows Y1290
-https://tokyocheapo.com/travel/narita-to-asakusa/ call to find out time table and fare 
+-- 30 Nov plan 
+https://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/express_fares.php 
+
+physically, (use connecting ticket to) transfer at Asakusa, direct to airport
+financially, buy connecting ticket from Tawaramachi to A20 skytree. The secong-semgnet will be paid at airport. Should be short queue.
+
+.. timing
+6.55 reach Tawaramachi stn to buy ticket, wait for train (max 8min)
+7.00 board train to Asakusa
+7.0x alight and transfer. Need connecting ticket
+7.11 (7.32 next train) board train to Narita
+8.09 (8.31 next train) reach Narita, pay secong-semgnet, check-in...
 
 -- JPY
 Big purchase, prefer card payment 1) psbc::GP 2) scsc
 
 -- nice surprises
-3 of them are self-reliant and competent
-boy is not nasty to mom and meimei
-healthy food is easy to find
-I established a base plan -- stay in hotel throughout [good wifi, 24h English-speaking staff]. I even validated it with Genn and wife.
 
 -- well done
 mlphone proved valuable, though with 99% SLA. I need it to call China, Singapore ..

@@ -1,3 +1,11 @@
+-- fuxi: Tokyo subway tickets
+At many subway stations, the fare charts include two versions. Version 1 is (probbly simpler map) same-company. Version 2 is cross-company.
+
+Eg: From Tawaramachi to Asakusa, there are two types of tickets
+
+1) same-company (cheaper)... If you travel (including transfers) entirely within one company's network, then you won't need a connecting ticket.
+2) cross-company (higher cost) i.e. connecting ticket .. If there is any transfer between two networks like between Toei and TokyoMetro, then you need to exit one system Before you can enter the other system. At the "other system" entrance, your type 1 ticket would fail!
+
 -- udate post on mlphone hotspot
 Issue: NoSim. I had to connect to a wifi to set up SIM
 Issue: other devices can't detect this SSID. I had to disable-then-enable it on mlphone
