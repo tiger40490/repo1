@@ -5,6 +5,7 @@ physically, (use connecting ticket to) transfer at Asakusa, direct to airport
 financially, buy connecting ticket from Tawaramachi to A20 skytree. The secong-semgnet will be paid at airport. Should be short queue.
 
 .. timing
+6.30 extract passport and go to station to buy tickets
 6.55 reach Tawaramachi stn to buy ticket, wait for train (max 8min)
 7.00 must board train to Asakusa
 7.0x alight and transfer. Need connecting ticket
@@ -12,7 +13,6 @@ financially, buy connecting ticket from Tawaramachi to A20 skytree. The secong-s
 8.09 (8.31) reach Narita, pay second-semgnet, check-in...
 
 -- JPY
-Big purchase, prefer card payment 1) psbc::GP 2) scsc
 
 -- nice surprises
 
@@ -29,3 +29,5 @@ I don't mind missing "memorable" sight seeing and good foods, but I want my fami
 =====
 -- bring back 
 boy's earphone
+boy's foods
+water bottle
