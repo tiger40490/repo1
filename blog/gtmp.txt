@@ -1,3 +1,8 @@
+-- update bpost about inferiority
+If I'm a CAD patient in Japan, I may worry about my country's quality of medical care. I would worry that Japan doctors are not fluent enough in English...
+
+The pattern -- whichever group I find myself in, I tend to worry about its calibre and quality. 
+
 -- fuxi: Tokyo subway tickets
 At many subway stations, the fare charts include two versions. Version 1 is (probbly simpler map) same-company. Version 2 is cross-company.
 
