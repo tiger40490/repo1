@@ -15,21 +15,6 @@ My son may start working full time in 5 years, without a degree, and make $3k/M.
 
 Even though food is an essential expense, food inflation is my least worry because ... many (reasonably healthy) choices exist. In contrast, I care more about medical, housing+utilities, public transport.
 
--- fuxi or new: fraud detection.. account unlock
-Automatic account lockdown due to unusual activities... is a global trend pioneered by China. Highly inconvenient for millions of innocent user. I choose to believe that these evolving systems do prevent a lot of scams.
-
-Unlocking can be a big headache.
-
-Singapore banks are by far the easiest. I can visit branches. They can see the real person with official ID cards.
-
-Singapore online-only platforms... I can call them easily. I can even ask police to step in though much slower. Police can see the real person and give authorization to unlock. 
-
-Unlocking is tougher when you are overseas i.e. without your physical presence. You need to prepare for IDD costs.
-
-Account unlock is toughest with China online-only platforms having zero branches... alipay and wcpay
-
-China banks .. have 24x7 hotlines. Last resort -- I can visit branches when I fly in (every few months).
-
 -- update bpost on long-term SG inflation
 K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to imported inflation but not Malaysia.
 Switzerland citizens don't have a next-door neighbor as a low-cost retirement destination. (Spain?) Sgp has JB.
@@ -41,22 +26,6 @@ SGX blue chip stocks are an inflation hedge.
 STI ETF? has expRatio, inferior to single names
 
 SP500 ETF is a classic inflation hedge.
-
--- update bpost on hsbc.cn
-practice log-in once a month. Slightly easier to recover lost password than ICBC
-
-After you reinstall mobank, you  need to enter your existing passwd twice, then recreate mobilePIN. 
-
-deposit USD .. 50k/Y limit, spaced out[2]
-There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner, except the "emergency $500"
-
-[2] Too-frequent deposits may attract unwanted attention. Luckily counter staff would remind customers before it happens.
-
--- update which bpost?
-AIA bigger plan (for wife) has SGD 30k for early-CI
-If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
-
-SRS to pay for AIA premium? No
 
 -- udpate or fuxi
 Even with very low annual income, I should start HRBlock process as early as possible. Every week counts towards stress reduction and stress prevention.

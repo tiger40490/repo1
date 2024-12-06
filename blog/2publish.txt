@@ -47,6 +47,18 @@ Singapore campus had conference rooms, library, project rooms.
 Exams were conducted strictly in an exam venue on campus.
 All lectures have live video link between Chicago and Sgp
 About 1/3 of the lectures were conducted locally and live-streamed to Chicago campus
+-- update bpost on hsbc.cn
+practice log-in once a month. Slightly easier to recover lost password than ICBC
+
+After you reinstall mobank, you  need to enter your existing passwd twice, then recreate mobilePIN. 
+
+There's no FOC way to get more USD into hsbc.cn. USD transfer from another bank is unlikely to be FOC. I am not allowed to buy USD as a foreigner, except the "emergency $500"
+
+-- update which bpost?
+AIA bigger plan (for wife) has SGD 30k for early-CI
+If we stop paying premium, then AIA will deduct $28/M charges by redeeming from the investment portion.
+
+SRS to pay for AIA premium? No
 
 -- update pff bpost on time is on your side.
 For both BGC and khm investments, I need more years.
