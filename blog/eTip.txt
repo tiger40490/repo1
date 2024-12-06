@@ -1,5 +1,20 @@
--- fuxi or new: phishing.. 
-clicing a link can be dangerous... site can push fileless malware to your computer and run.
+-- new: gmail as discussion archive
+Alternative to gmail: blog
+
++ve Gmail offers search across a large and permanent storage, FOC. Blog is not free. 
++ve Any Email supports attachment
+Gmail offers tagging. Additionally, I can put my own keywords in email subjects. Blog supports tagging and mutable subject
+-ve Any email message content is immutable. Blog content can be updated.
+-ve Any email timestamp is immutable. Blog post date can be modified. I frequent use this blog feature for Dram refresh
+
+eg: random rewards
+eg: ex_chn records to sis
+
+Best practice: forward an important old email to myself, under an improved subject
+Best practice: put important emails into a fuxi folder
+
+-- fuxi phishing.. 
+clicking a link can be dangerous... site can push fileless malware to your computer.
 
 sender's domain name is usually reliable.
 
@@ -17,7 +32,7 @@ In my note system in office or home, and esp. in blogg, I have used RTF to avoid
 
 RTF files are much smaller than DOCX, but can preserve text effects.
 
--- fuxi: too many items: create folders
+-- fuxi: too many items -> create folders
 Usage sites: smartphone/PC desktop icons; browser bookmarks; recoll
 
 The folder is usually opaque (except smartphone). I often fail to recall which folder hosts a particula item. 
