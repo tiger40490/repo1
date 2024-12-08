@@ -1,3 +1,6 @@
+-- proposition^proposal
+Proposition is a better choice when talking about an offer, one that will be either accepted or rejected. Proposal is a better choice when talking about a well-developed plan, most likely written.
+
 -- new: difficult: multiple contexts
 It's difficult to win this jackpot twice .. probability is the obstacle. Great Luck required.
 It's difficult to go through loss of a child during her twilight years .. grief is the obstacle. Optimism required.
