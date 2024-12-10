@@ -3,7 +3,6 @@ order can be cancelled
 fill can be busted
 Cancelled order can be restated.
 
-
 -- new 
 #49 Sender comp id
 #50 Sender subID under #49, aka whoToCall, often an individual
@@ -12,7 +11,7 @@ Cancelled order can be restated.
 #57 Target subID under #56, often an individual
 
 -- new: gitBash: launch a GUI and return
-If the original command is "good", then you can use run "start original command args if any"
+If the original command is "good", then you can run "start original command args if any"
 
 If the original command is a function (among other conditions), then you can append an ampersand to origional command
 
