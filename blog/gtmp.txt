@@ -1,3 +1,7 @@
+-- fuxi 
+starhub bill-check
+* to use the browser, you must log in twice
+* to use the App, must faster but small screen
 
 -- update bpost about inferiority
 If I'm a CAD patient in Japan, I may worry about my country's quality of medical care. I would worry that Japan doctors are not fluent enough in English...
