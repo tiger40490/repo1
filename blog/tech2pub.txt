@@ -1,3 +1,7 @@
+-- new: python __eq__ and __hash__
+In python, two objects (of the same class) are considered identical to a dict iFF they are equal AND has same hashcode.
+
+See P273 [[python Tricks]]
 -- update post on array^ptr
 a ptr Object can be reseated to point to an array.
 An arrayName (is not an object) can't be reseated. It's a compile-time constant.
