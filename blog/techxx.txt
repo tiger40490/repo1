@@ -1,3 +1,10 @@
+-- new or fuxi: Class1::method3 notation
+In Class1::method3, the method can be static or non-static.
+
+The double-colon notation is similar to namespace. It means the actual method definintion is in Class1.
+
+A common notation is Class1.method3, but the dot often implies the LHS is an object or variable.
+
 -- fuxi:
 order can be cancelled
 fill can be busted
