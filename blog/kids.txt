@@ -2,9 +2,10 @@
 Let him be late and deal with it himself.
 
 -- new: $reward/penalty: practical tips
-tip: small frequent rewards
+tip: small frequent $rewards
 tip: Recording is tiresome. Record reasons for larger amounts. 
-tip: giving seasons -- avoid financial penalty. Avoid a mixed season when parents both give and take.
+tip: giving_seasons -- avoid financial penalty. Avoid a mixed season when parents both give and take.
+tip: random, impulsive... no need to be consistent.
 
 I told my kids repeatedly that deduction is very sensitive and rarely justified. Now I think a few big deductions a year is acceptable.
 
