@@ -1,19 +1,27 @@
+juice meet-up: quant-dev,deadlift,,,
+
 Hi Ashish,
 
-I will find my H1b employers and forward you the email threads.
+Thanks for coming all the way here. I enjoyed our "juice" meet-up. I have jotted down a few pointers.
 
-Your suggestion: deadlift .. bold idea, worth trying.
+Your suggestion: deadlift .. bold idea, "alien" to me, worth trying. I recall that a few "alien" ideas have become valuable to my lifestyle, such as yoga, low starch, porridge, stair climb, protein powder,,,
 
-My suggestion: get regular CAD screening on treadmill, if your cholesterol or family history are concerning. Very active people (like marathon runners) can also have CAD or get heart attack.
+My suggestion: get regular CAD screening on treadmill, if your cholesterol or family history are concerning. Very active people (like marathon runners) can also suffer CAD or heart attack.
 
 My suggestion: avoid distance learning if you embark on quant program. (I'm biased.)
 reason 1: my experience shows me that I learn more by interacting with classmates in-person. Similarly, the tutorials are conducted onsite, and I learn more.
 reason 2: distance learning qualification is less credible. Some employers may even ask "How did you work and study at the same time? How was campus life? Did you try any overseas exchange program?"
 
+I feel good about your lean form.. (Disclaimer: My view is Not holistic or evidence-based.) I endeavor to become leaner while maintaing muscle mass.
+
+Reading source code .. Your (not my) strength:) I told my manager (Indian guy, relocated to London) more than once that I'm slower than some young colleagues in Singapore team. So I often need time during Prod support fire fighting. After a few years with our local codebase, I have picked up a bit of speed. Across my team, I think I'm not slow. I celebrate every small improvement.. it's only fair to myself. An "average-speed" code reader can still be a good SWE. 
+
+My team had a SWE (Sachin) who was efficient reading code, and versatile in prod support. However Sachin was not liked by manager, and not highly respected by a few SWEs (QA too), because Sachin's projects showed mediocre quality.
+
 You gave me several eye-openers about my next job change (when I lose current job)
 
-Small firms in Singapore .. Thanks for sharing your experience. I agree that they are less selective, less strict in hiring.
+Your suggestion: Consider small firms .. Thanks for sharing your experience. I agree that either in Singapore or the U.S. small firms are less selective, less strict in hiring
 
-Quant dev roles .. I hear you that quant dev roles are growing in local job market. This could be a promising green field for me when I change job in Singapore. I'm good at math, with a branded qualification.
+You suggestion: Consider quant dev .. I hear you that quant dev roles are possibly growing in local job market. This could become a promising green field for my next job search. I'm good at math, with a branded qualification.
 
-Pay cut .. just like you, I don't mind low salary, as low as 3k/M (as my friend Jason suggested). You are right to point out that a subsequent employer may offer me no more than 15% increment over 3k/M... Well, I will take a calculated risk. Life is an adventure. As you said, I'm kinda "financially free", and I have the U.S. option.
+pay-cut flexibility .. just like you, I don't mind low salary, as low as 3k/M (as my friend Jason suggested). You are right to warn me that a subsequent employer may offer me no more than 15% increment over 3k/M... Well, I will take a calculated risk.(Life is an adventure.) As you reminded me, I'm kinda "financially free", and I have the U.S. option.
