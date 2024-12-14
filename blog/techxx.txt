@@ -1,3 +1,11 @@
+-- new: FIX 4.2^4.4 #%%notes
+A predictable JIV question. My answers:
+
+35=AB (or 35=AC) introduced in 4.3
+150=F introduced in 4.3
+MatrityDate<541> introduced in 4.3
+167=FUT or 167=OPT deprecated in 4.3 (see CFICode<461>) though many brokers still support them
+
 -- new or fuxi: Class1::method3 notation
 In Class1::method3, the method can be static or non-static.
 
