@@ -1,3 +1,10 @@
+-- fuxi
+Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
+A: 300k. 
+
+Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
+A: 299k. 
+
 -- update bpost on workload.
 I told my UAT team colleague ...
 
