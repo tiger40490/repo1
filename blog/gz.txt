@@ -13,27 +13,6 @@ My son's 2023 WA3 also started a stressful and busy period for the family [couns
 
 Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
 
--- update which bpost ... bonus pool?
-2024: Nothing negative conveyed.
-* active in trading issues
-* digging deep
-* keep up ... "Those details" 
-* mentoring .. if possible
-
-Base is steady, still growing. Growing base is not for-granted.
-
-Among the two numbers announced, bonus is more reflective of performance of firm+team+me; base is more important to family /livelihood/.
-
-Flat bonus ... would still be a huge bonus, allocated to me from the limited bonus pool. I am grateful to the decision maker
-Flat base ... would still be a very high salary, and numerically more significant than the bonus. This salary level feels unsustainable even if flat.
-
--- fuxi
-Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
-A: 300k. 
-
-Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
-A: 299k. 
-
 -- update bpost on workload.
 I told my UAT team colleague ...
 
@@ -49,6 +28,27 @@ I don't need to feel guilty.
 What's a fair amount of workload? It depends on our age, our position, the team avarage, our efficiency level, our localsys knowhow,,
 
 Higher quality means better documentation, cleaner code, easier training, more testability, fewer neglected scenarios,,,, Quality invariably requires more time, often less intensity, but reduces failures, down times, and support effort. 
+
+-- update which bpost ... bonus pool?
+2024: Nothing negative conveyed.
+* active in trading issues
+* digging deep
+* keep up ... "Those details" 
+* mentoring .. if possible
+
+Base is steady, still growing. Growing base is not for-granted.
+
+Among the two numbers announced, bonus is more reflective of performance of firm+team+me; base is more important to family /livelihood/.
+
+Flat bonus ... would still be a huge bonus, allocated to me from the limited bonus pool. I am grateful to the decision maker.
+Flat base ... would still be a very high salary, and numerically more significant than the bonus. This salary level feels unsustainable even if flat.
+
+-- fuxi
+Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
+A: 300k. 
+
+Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
+A: 299k. 
 
 -- fuxi: early to office?
 CTO knows (lucky me) I'm in 6-7 days a week, and my personal attendance record could be "right at the top".
