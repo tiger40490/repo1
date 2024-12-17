@@ -1,4 +1,5 @@
 -- update bpost on FLI2pf
+smaller quantum is one of the biggest factors in favor of FLI2
 
 -- resend mail to XR
 A similar experience to share -- Mixed vegetable-rice (杂菜饭) is my default choice when I eat alone. In June 2024 I went to a low-cost street venue (without Aircon), and bought a regular 杂菜饭 -- two-veg-one-meat for $5.50. Used to cost $3.50 ~$4, perhaps 10 years ago. 
@@ -9,7 +10,7 @@ For a historical comparison I need to hold every variable constant:
 * location .. food court (with Aircon) is my current default. Frequently, I do choose cheaper place like this June venue
 * portion .. one-meat-one-veg-on-rice (一菜一肉) is always my default. Frequently, I do get 1 or 2 additional items like this June case
 
-$2-$3 was my cost level some (20) years ago. Now the same food costs $5. When I see a price display of $6 for 杂菜饭, I get a sinking feeling (心里一沉) and immediately I urge myself to cut down to one-meat-one-vet-on-rice. Less often, I would tell myself I'm not really hungry and can wait until I reach office or home, where low-cost healthy foods await.
+$2-$3 was my cost level some (30) years ago. Now the same food costs $5. When I see a price display of $6 for 杂菜饭, I get a sinking feeling (心里一沉) and immediately I urge myself to cut down to one-meat-one-veg-on-rice. Less often, I would tell myself I'm not really hungry and can wait until I reach office or home, where low-cost healthy foods await.
 
 Q: how much would the same food cost (in the same place) in 2035? Probably below $7. My optimism.
 
@@ -42,6 +43,7 @@ CPF account is slighlty safer against scams.
 compared to my SGD accounts, my USD accounts are slight less prone to impulsive actions.
 
 Our insurance plans are less prone to quick liquidation
+* FWD, FLI2
 * AIA
 * Prudential
 * shield plans, ADL plans have miniml surrender values anyway
