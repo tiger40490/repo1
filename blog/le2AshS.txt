@@ -1,4 +1,4 @@
-juice meet-up: quant-dev,deadlift,,,
+juice meet-up: quant-dev,later-career,,,
 
 Hi Ashish,
 
@@ -12,16 +12,14 @@ My suggestion: avoid distance learning if you embark on quant program. (I'm bias
 reason 1: my experience shows me that I learn more by interacting with classmates in-person. Similarly, the tutorials are conducted onsite, and I learn more.
 reason 2: distance learning qualification is less credible. Some employers may even ask "How did you work and study at the same time? How was campus life? Did you try any overseas exchange program?"
 
-I feel good about your lean form.. (Disclaimer: My view is Not holistic or evidence-based.) I endeavor to become leaner while maintaing muscle mass.
+I feel good about your lean form.. (Disclaimer: My view is Not holistic or evidence-based.) For myself, I endeavor to become leaner, while maintaing muscle mass.
 
 Reading source code .. Your (not my) strength:) I told my manager (Indian guy, relocated to London) more than once that I'm slower than some young colleagues in Singapore team. So I often need time during Prod support fire fighting. After a few years with our local codebase, I have picked up a bit of speed. Across my team, I think I'm not slow. I celebrate every small improvement.. it's only fair to myself. An "average-speed" code reader can still be a good SWE. 
+My team had a SWE (Sachin) who was efficient reading code, and versatile in prod support. However Sachin was not well-liked by manager, and not so highly respected by a few SWEs teammates (QA too), because Sachin's projects showed mediocre quality.
 
-My team had a SWE (Sachin) who was efficient reading code, and versatile in prod support. However Sachin was not liked by manager, and not highly respected by a few SWEs (QA too), because Sachin's projects showed mediocre quality.
+Wed 17 Dec I received my year-end numbers. Since 2015 I have often felt that 160k+ total comp is a stressful salary to keep. I have no leadership responsibility (like architect). Still, manager's expectation of me is growing. The year-end numbers reveal the importance of sustainable workload. Current job is less demanding than Baml, Macquarie etc but is slowly becoming unsustainable due to the Indian manager. I feel my senior manager (decides my numbers) doesn't want to lose me. 
+Still, I told some friends that I can't predict in which year I may be leaving this job, pressured to quit, or laid off. I have seen these things happening to my coworkers on this floor.
 
-Wed 17 Dec I received my year-end numbers. In recent years I have often felt that 180k+ total comp is a stressful salary to keep. I have no leadership responsibility. Still manager's expectation placed on me is growing. I need sustainable workload. Current job is less demanding than Baml, Macquarie etc but is slowly becoming unsustainable due to the Indian manager. I feel my senior manager, who decides my numbers, doesn't want to lose me.
-
-I told some friends that I can't predict when I may be leaving my current job, pressured to quit, or laid off.
- 
 You gave me several eye-openers about my next job change.
 
 Your suggestion: Consider small firms .. Thanks for sharing your experience. I agree that either in Singapore or the U.S. small firms are less selective, less strict in hiring
