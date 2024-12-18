@@ -1,18 +1,3 @@
--- fuxi or new: work stress evolution events: MLP
-J4: acccurate recollection of work stress, esp. related to boss-relationship
-
-in 2021, when Umesh took over as team lead, there was a bit of adjustment (probably on both sides). By the 2021 year-end meet-up, we had a good rapport. In early 2022, he drove my very first "OKR project" about BloombergEMSx. He soon left, in early 2022. 
-
-2022 H2 was marked by Quark. New Asia team lead (after takeover in mid-2022) was supportive. He didn't have enought hands-on expertise to drive Quark project.
-
-2023 Aug onwards was marked by Genepai. I had some challenging targets to deliver, against inflated expectations. ( In Dec 2023 I was asked to visit NY. ) 2023 Year-end chat with Varun was uncertain but turned out non-threatening.
-
-My son's 2023 WA3 also started a stressful and busy period for the family [counselling, Sec3 repeat,,,].
-
-2024 was a busy year for everyone, from the very beginning. Asia boss started driving multiple concurrent projects on each subordinate.
-
-Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
-
 -- update bpost on workload.
 I told my UAT team colleague ...
 
@@ -49,6 +34,21 @@ A: 300k.
 
 Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
 A: 299k. 
+
+-- fuxi or new: work stress evolution events: MLP
+J4: acccurate recollection of work stress, esp. related to boss-relationship
+
+in 2021, when Umesh took over as team lead, there was a bit of adjustment (probably on both sides). By the 2021 year-end meet-up, we had a good rapport. In early 2022, he drove my very first "OKR project" about BloombergEMSx. He soon left, in early 2022. 
+
+2022 H2 was marked by Quark. New Asia team lead (after takeover in mid-2022) was supportive. He didn't have enought hands-on expertise to drive Quark project.
+
+2023 Aug onwards was marked by Genepai. I had some challenging targets to deliver, against inflated expectations. ( In Dec 2023 I was asked to visit NY. ) 2023 Year-end chat with Varun was uncertain but turned out non-threatening.
+
+My son's 2023 WA3 also started a stressful and busy period for the family [counselling, Sec3 repeat,,,].
+
+2024 was a busy year for everyone, from the very beginning. Asia boss started driving multiple concurrent projects on each subordinate.
+
+Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
 
 -- fuxi: early to office?
 CTO knows (lucky me) I'm in 6-7 days a week, and my personal attendance record could be "right at the top".
