@@ -17,8 +17,9 @@ I feel good about your lean form.. (Disclaimer: My view is Not holistic or evide
 Reading source code .. Your (not my) strength:) I told my manager (Indian guy, relocated to London) more than once that I'm slower than some young colleagues in Singapore team. So I often need time during Prod support fire fighting. After a few years with our local codebase, I have picked up a bit of speed. Across my team, I think I'm not slow. I celebrate every small improvement.. it's only fair to myself. An "average-speed" code reader can still be a good SWE. 
 My team had a SWE (Sachin) who was efficient reading code, and versatile in prod support. However Sachin was not well-liked by manager, and not so highly respected by a few SWEs teammates (QA too), because Sachin's projects showed mediocre quality.
 
-Wed 17 Dec I received my year-end numbers. Since 2015 I have often felt that 160k+ total comp is a stressful salary to keep. I have no leadership responsibility (like architect). Still, manager's expectation of me is growing. The year-end numbers reveal the importance of sustainable workload. Current job is less demanding than Baml, Macquarie etc but is slowly becoming unsustainable due to the Indian manager. I feel my senior manager (decides my numbers) doesn't want to lose me. 
-Still, I told some friends that I can't predict in which year I may be leaving this job, pressured to quit, or laid off. I have seen these things happening to my coworkers on this floor.
+Tue 17 Dec I received my year-end numbers. Since 2015 I have (and still do) felt that 160k+ total comp is a stressful salary to keep. I have no leadership responsibility (like architect or lead dev) but my pay might be growing closer to some small-shop CIOs. Manager's expectation of me is clearly growing, due to growing tenure in the team, and possibly also due to rising salary. 
+The year-end numbers also reveal the importance of sustainable workload. Current job is less demanding than Baml, Macquarie etc but slowly becoming unsustainable due to the Indian manager. I feel my senior manager (decides my numbers) doesn't want to lose me. 
+Still, I told some friends that I can't predict in which year I may be leaving this job, or pressured to quit, or laid off. I have seen these events happening to my coworkers on my floor.
 
 You gave me several eye-openers about my next job change.
 
