@@ -23,17 +23,17 @@ Higher quality means better documentation, cleaner code, easier training, more t
 
 Base is steady, still growing. Growing base is not for-granted.
 
-Among the two numbers announced, bonus is more reflective of performance of firm+team+me; base is more important to family /livelihood/.
+Among the two numbers announced, bonus is more reflective of performance of firm+team+me; base is more important to family /livelihood/. 
 
 Flat bonus ... would still be a huge bonus, allocated to me from the limited bonus pool. I am grateful to the decision maker.
 Flat base ... would still be a very high salary, and numerically more significant than the bonus. This salary level feels unsustainable even if flat.
 
 -- fuxi
 Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
-A: 300k. 
+A: 330k. 
 
 Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
-A: 299k. 
+A: 329k. 
 
 -- fuxi or new: work stress evolution events: MLP
 J4: acccurate recollection of work stress, esp. related to boss-relationship
