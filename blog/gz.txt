@@ -15,6 +15,12 @@ What's a fair amount of workload? It depends on our age, our position, the team 
 Higher quality means better documentation, cleaner code, easier training, more testability, fewer neglected scenarios,,,, Quality invariably requires more time, often less intensity, but reduces failures, down times, and support effort. 
 
 -- update which bpost ... bonus pool?
+Tue 17 Dec I received my year-end numbers. Since 2015 I have (and still do) felt that any total comp above 160k is a stressful salary to hold, like holding a heavy deadlift, holding a yoga pose, or holding a hot potato. Though I have no leadership responsibility (architect or lead dev), my pay might be growing closer to that of some small-shop CIOs. Managers' expectation of me is clearly growing, due to my growing tenure in the team, and possibly also due to rising salary. 
+
+The year-end numbers also reveal the importance of a sustainable workload. Current job is less demanding than Baml, Macquarie, etc but slowly becoming unsustainable due to the London manager. I feel my senior manager (who decides my numbers) doesn't want to lose me. 
+
+Still, I told some friends that I can't predict in which year I may be leaving this job, or pressured to quit, or laid off. I have seen these events happening to my coworkers on my floor.
+---
 2024: Nothing negative conveyed.
 * active in trading issues
 * digging deep
