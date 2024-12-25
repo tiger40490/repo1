@@ -1,3 +1,5 @@
+-- repsc .. was created to reduce compliance hazard. The repo is designed as readonly in office, including the msff files.
+
 -- new: safest way to downgrade wpress version
 cd /home/tanbinvest/tanbinvest.dreamhosters.com
 wp core download --version=6.5.5 --force
