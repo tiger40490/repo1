@@ -1,3 +1,8 @@
+-- update ..
+Sometimes my mlphone personal-hotspot is enabled while in djdj, but invisible to my laptop. 
+* ensure mlphone is not using another wifi SSID
+* disable then enable personal-hotspot again
+
 -- fuxi: if MSEdge horizontal scrollbar missing
 The H-scrollbar auto-hides when no scrolling needed! With Ctrl/+ I was able to reveal it unconditionally.
 
