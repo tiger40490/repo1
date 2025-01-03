@@ -40,6 +40,9 @@ milk powder + jars
 -- Fri
 visit Hsbc with 6k
 
+-- Sat:
+Beijing Hospital xxxx
+
 -- Wed 8 Jan
 prepare auth letter, then visit HSBC, but leave behind 14k ... see exChn.xls
 GP's IC and bank card .. leave with GM
