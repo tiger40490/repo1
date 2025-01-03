@@ -1,6 +1,9 @@
 -- update bpost on FLI2pf
 smaller quantum is one of the biggest factors in favor of FLI2
+-- add to calendar
+18 Jan or later, transfer Rmb 150k out to savings. Remind YuYang (be patient with GM) to help GM 
 
+-- DJDJ.xlsx 21-Dec-2024 snapshot has a misleading format
 -- update bpost on CCB
 suspicison: wcpay name may be diff from "Tan Bin"
 sugg: upgrade wechat APP
