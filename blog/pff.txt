@@ -9,6 +9,39 @@ suspicison: wcpay name may be diff from "Tan Bin"
 sugg: upgrade wechat APP
 sugg: call wcpay
 
+-- le2 Iris Pek
+am still reluctant about a CI for my son (16). 
+
+I think a cheaper plan would be less "uncomfortable".
+
+The "buy-early-lock-in-premium" principle presumes no-surrender. This principle is harder to follow for an expensive plan. If it costs 100% higher in terms of anualPremium/sumAssumed (leverage ratio), I would be more likely to find it uncomfortable, and surrender it early. 
+
+-------- new: AUD100k deal
+First, the concept of "TanBin_share_of_BJ_home" .. was 20% of the sale proceed at time of sale (mid 2024), amounting to Rmb1560k. I have since expatriated some 500k to Singapore, but TanBin_share_of_BJ_home by definition is unchanged.
+
+-- Base scenario (Scenario 1): grandpa lives long enough.
+Suppose in early 2025, grandma decides to lend Rmb500k to you. I will be the intermediary and liquidity provider. I will immediately disburse S$100k (whatever the equivalent of Rmb500k) to Australia from Singapore, and increase TanBin_share_of_BJ_home by Rmb500k.
+
+TanBin_share_of_BJ_home increment is immediate and final as soon as I disburse S$100k (whatever the equivalent of Rmb500k). This S$100k would come from my salary income.
+
+By 2028 (or whatever) hopefully the entire amount of TanBin_share_of_BJ_home is in Singapore and belongs to me. You would owe grandma Rmb500k, to be repaid to her some day.
+
+Throughout, I am not receiving any amount more or less than the original Rmb1560k from the grandparents. I'm only an intermediary.
+
+-- Scenario 2: grandpa passing away early, after Rmb500k disbursement
+Suppose in early 2025, grandma decides to lend Rmb500k to you. I will be the intermediary and liquidity provider. I will immediately disburse S$100k to Australia from Singapore, and increase TanBin_share_of_BJ_home by Rmb500k.
+
+TanBin_share_of_BJ_home increment is immediate and final as soon as I disburse S$100k (whatever the equivalent of Rmb500k). This S$100k would come from my salary income.
+
+After his passing 
+* you could pay back Rmb500k to grandma. That's between you and her.
+* TanBin_share_of_BJ_home will remain at the elevated level above Rmb1560k (suppose it's Rmb2060k). I will want to ensure I receive Rmb2060k in addition to 25% of grandpa's inheritance.
+
+I hope to simplify Scenario 2 procedure.
+
+-- For both scenarios
+I have no plan to take any compensation for the legwork of Rmb500k expatriation. If the legwork becomes too tiresome/troublesome, we will revisit. Give-n-take.
+----------
 -- resend mail to XR
 A similar experience to share -- Mixed vegetable-rice (杂菜饭) is my default choice when I eat alone. In June 2024 I went to a low-cost street venue (without Aircon), and bought a regular 杂菜饭 -- two-veg-one-meat for $5.50. Used to cost $3.50 ~$4, perhaps 10 years ago. 
 
