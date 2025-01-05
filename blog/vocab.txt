@@ -1,3 +1,9 @@
+-- new: use slash to express ratio of two terms
+annual_premium / sum_assumed
+
+* Put a space before and after the slash
+* Use underscore to connect words
+
 -- proposition^proposal
 Proposition is a better choice when talking about an offer, one that will be either accepted or rejected. Proposal is a better choice when talking about a well-developed plan, most likely written.
 
