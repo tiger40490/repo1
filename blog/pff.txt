@@ -9,14 +9,6 @@ suspicison: wcpay name may be diff from "Tan Bin"
 sugg: upgrade wechat APP
 sugg: call wcpay
 
--- le2 Iris Pek
-am still reluctant about a CI for my son (16). I think a cheaper plan would be less "uncomfortable" and less unsustainable. Perhaps up-to-65 plan (what's the technical name??
-
-The "buy-early-lock-in-premium" principle presumes no-surrender.
-
-This principle is harder to follow for a high-cost plan. To measure cost, I will use annual_premium / sum_assumed (leverage ratio). If a plan costs 100% higher in terms of leverage ratio, I would eventually find it uncomfortable, and surrender it early.
-
-I recall paying for my own life insurance and my wife's life insurance. After a few years I wanted to surrender.
 -------- new: AUD100k deal
 First, the concept of "TanBin_share_of_BJ_home" .. was 20% of the sale proceed at time of sale (mid 2024), amounting to Rmb1560k. I have since expatriated some 500k to Singapore, but TanBin_share_of_BJ_home by definition is unchanged.
 
