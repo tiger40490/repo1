@@ -1,5 +1,5 @@
 -- update ChnM
-buy 7D mobile-data pack using hotspot/wifi, rather than the (insufficient) 20MB mobile data
+Always prefer buying 7D mobile-data pack using hotspot/wifi, rather than the (insufficient) 20MB mobile data 套餐内流量.
 
 -- update bpost on flight search https://btv-open.dreamhosters.com/199/steps-of-flight-search/
 In general, it's a good idea to book flights a few months in advance. Otherwise your choice may become limited (a nasty surprise).
