@@ -6,27 +6,7 @@ GG) 10% grandpa's decline
 XX) 9% ex_China challenges .. feeling confident I will get over this stressor ... will subside.
 WW) 20% workload .. (Background heat) increasing expectation on me. 
 
-I need quiet time to clear some backlogs
-
--- new: national economic progress beyond GDP
-Economists, sociologists, and laymen can measure economic progress by 
-
-improving life expectancy
-improving YLD (healthy longevity)
-improving infant mortality
-improving national average BMI 
-improving incident of untreated blindness or seriouis skin condition
-improving national average commute length and comfort level
-improving national average home size (holding constant family size)
-improving national average amount of sleep
-improving quality of nutrition
-improving frequency of overseas family reunions
-improving frequency of IDD call with family
-improving frequency of intimacy for married persons of a given age band. The poor often have less time for it, due to overwork, seperation, health.
-improving frequency of sightseeing trips
-improving birth control success
-
-How about inflation-adjusted household income? 
+I need quiet time to clear some backlogs. I hope that boy and Mom have enough capcity for JAE
 
 -- update bpost on flight search https://btv-open.dreamhosters.com/199/steps-of-flight-search/
 In general, it's a good idea to book flights a few months in advance. Otherwise your choice may become limited (a nasty surprise).
@@ -43,14 +23,6 @@ Mentally, I'm ready to write off the S$400 if something unforeseeable happens.
 starhub bill-check
 * to use the browser, you must log in twice
 * to use the App, faster but small screen
-
--- fuxi: Tokyo subway tickets
-At many subway stations, the fare charts include two versions. Version 1 is (probbly simpler map) same-company. Version 2 is cross-company.
-
-Eg: From Tawaramachi to Asakusa, there are two types of tickets
-
-1) same-company (cheaper)... If you travel (including transfers) entirely within one company's network, then you won't need a connecting ticket.
-2) cross-company (higher cost) i.e. connecting ticket .. If there is any transfer between two networks like between Toei and TokyoMetro, then you need to exit one system Before you can enter the other system. At the "other system" entrance, your type 1 ticket would fail!
 
 -- fuxi or new: two in-depth chats[K.Hu and Vic.Wong]
 Privacy!
@@ -86,3 +58,29 @@ In China (and U.S.), the goverment department tends to be understaffed (esp. U.S
 U.S. (and PRC) government hotlines are always hard to get through and often give useless answers. We have to rely on private consultants. Whatever the source of information, if we follow it but it doesn't work, then we face an uphill battle. The government department is unlikely to offer any help. You will have to jump through many, many hoops to get it resolved.
 
 According to DJDJ legal assistance, the SAFE gov hotline is familiar with foreign passport holders taking out inheritance.
+-- new: national economic progress beyond GDP
+Economists, sociologists, and laymen can measure economic progress by 
+
+improving life expectancy
+improving YLD (healthy longevity)
+improving infant mortality
+improving national average BMI 
+improving incident of untreated blindness or seriouis skin condition
+improving national average commute length and comfort level
+improving national average home size (holding constant family size)
+improving national average amount of sleep
+improving quality of nutrition
+improving frequency of overseas family reunions
+improving frequency of IDD call with family
+improving frequency of intimacy for married persons of a given age band. The poor often have less time for it, due to overwork, seperation, health.
+improving frequency of sightseeing trips
+improving birth control success
+
+How about inflation-adjusted household income? 
+-- fuxi: Tokyo subway tickets
+At many subway stations, the fare charts include two versions. Version 1 is (probbly simpler map) same-company. Version 2 is cross-company.
+
+Eg: From Tawaramachi to Asakusa, there are two types of tickets
+
+1) same-company (cheaper)... If you travel (including transfers) entirely within one company's network, then you won't need a connecting ticket.
+2) cross-company (higher cost) i.e. connecting ticket .. If there is any transfer between two networks like between Toei and TokyoMetro, then you need to exit one system Before you can enter the other system. At the "other system" entrance, your type 1 ticket would fail!
