@@ -2,14 +2,14 @@
 -- update bpost on the avg free agent
 add tags t_PIP, t_truama
 
--- when I think of job security, bonus etc, I should ask myself
+-- fuxi when I think of job security, bonus etc, I should ask myself
 
 Q: In boss's perception, which dev is the most likely to quit?
 Q: In boss's perception, which dev is likely the first to quit?
 
 I hope that I'm seen as similar to the 2 NY old-timers. Total Comp may /plateau out/ but hopefully he would preserve the status quo, and protect team stability.
 
--- new: JIV topics: interviewer influence
+-- new: JIV topics: influences on interviewers
 When I was picking question to ask my candidates, I was influenced by ... ibank interviewers, HFT interviewers, and indirectly by web2.0 interviewers. Note Leetcode is mostly web2.0
 
 -- update bpost on workload.
@@ -34,7 +34,7 @@ Tue 17 Dec I received my year-end numbers. Since 2015 I have (and still do) felt
 The year-end numbers also reveal the importance of a sustainable workload. Current job is less demanding than Baml, Macquarie, etc but slowly becoming unsustainable due to the London manager. I feel my senior manager (who decides my numbers) doesn't want to lose me. 
 
 Still, I told some friends that I can't predict in which year I may be leaving this job, or pressured to quit, or laid off. I have seen these events happening to my coworkers on my floor.
----
+~~
 2024: Nothing negative conveyed.
 * active in trading issues
 * digging deep
@@ -55,7 +55,7 @@ A: 330k.
 Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
 A: 329k. 
 
--- fuxi or new: work stress evolution events: MLP
+-- fuxi or new: ##evolution of MLP work stress: events 
 J4: acccurate recollection of work stress, esp. related to boss-relationship
 
 in 2021, when Umesh took over as team lead, there was a bit of adjustment (probably on both sides). By the 2021 year-end meet-up, we had a good rapport. In early 2022, he drove my very first "OKR project" about BloombergEMSx. He soon left, in early 2022. 
@@ -127,7 +127,7 @@ eg: many of the jobless 2023 graduates from China universities
 
 If you don't worry about livelihood, then you can enroll in a training program instead.
 
--- new: gr8 application to own
+-- new: lucky to own this kind of systems/applications
 Indispensible
 complex but not too complex
 complexity appreciated by mgr
