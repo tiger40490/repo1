@@ -1,3 +1,17 @@
+-- update bpost on named tuple
+MyNamedTup = namedtuple("someInternalTypeName", "x y")
+
+# After defining a type, you can use kwargs to assign fields... self-documenting :)
+
+instance = MyNamedTup(x=30, y=4.4)
+
+-- update bpost on ... c++weaknessRevealedByJIV
+The low-level features are designed to influence, not directly manipulate, the low-level operations. This is similar to how a race driver "controls" the vehicle over a sharp turn.
+
+In this context, there is an essential body of system knowledge (Scott Meyers?) about crash analsysis, linker/compiler, template instantiation, internals of static/shared lib files, kernel interaction. My main focus is "instrumentation" meaning visibility of the nitty-gritty under the hood.
+
+In most projects and Prod issues, we don't need a lot of system knowledge, beyond our source code + some log message + visible signs above the "sea-surface".
+
 -- new: FIX 4.2^4.4 #%%notes
 A predictable JIV question. My answers:
 
