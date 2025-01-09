@@ -1,33 +1,3 @@
--- fuxi or new: y I have never feared没工作since graduation
-Background: in 2023-2025, there were lots of news and social-media analysis of graduate unemployment, most visibly in China. It prompted the question 
-
-Q1: Why after graduating have you never become jobless?
-AA: I had a CSM scholarship.
-A: I then caught the dotcom wave --
-During the final 12M in CSM, I self-taught perl, LAMP to become an in-demand web-dev.
-A1: I am a laser .. focused on CV and JIV since my 2000 job search.
-
-Q3: Did you never hit "no-experience, unwelcome"?
-
-When I tried pre-sales, I had zero experience and a lucky break at SCS-SI. Unlike those China graduates, I was hopeful, promising, enthusiastic, confident to both interviewers. (I did help SCS win two projects.)
-
-When I tried SysAdmin (Sperion/Agilent), I had no professional experience but to the interviewers I was technically and personally competent.
-
-When I tried WSt in 2007, I had no "solid" java experience. I self-studied for months before I started "killing" at UBS/GS.
-
-A3: In conclusion, I simply stood out among the crowd in each case.
-
-Q5: Did you ever fail at a job and face the jobless prospect?
-
-I failed many jobs [SCS, EMPWorld, Strategem, OceanLake, Verizon, q3sg, ,,] but recovered quickly. How about my cohort (including the China graduates, comparing to the Victan before 2000)? Majority of them also hit failures (unless they join gov). How many of them recover repeatedly and efficiently like me?
-
-A: In conclusion, I have self-renewal (SP500) capacity.
-
-Q5b: How about your PIP traumas? How do they compare to a China graduate's /adversities/ ?
-%%A: PIP experiences were possibly the worst traumas in my life, but they didn't seriously jeopardize my (family) livelihood. I'm a laser (A1), I stand out from the crowd (A3), I was able to get my job done in every company [SCS ..see above],,
-
-Q7: Did you experience no downturn/drought like "China23-24"?
-AA: 1998, 2003 SARS, 2008 GFC
 
 -- update bpost on the avg free agent
 add tags t_PIP, t_truama
@@ -99,6 +69,37 @@ My son's 2023 WA3 also started a stressful and busy period for the family [couns
 2024 was a busy year for everyone, from the very beginning. Asia boss started driving multiple concurrent projects on each subordinate.
 
 Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
+
+-- fuxi or new: y I have never feared没工作since graduation
+Background: in 2023-2025, there were lots of news and social-media analysis of graduate unemployment, most visibly in China. It prompted the question 
+
+Q1: Why after graduating have you never become jobless?
+AA: I had a CSM scholarship.
+A: I then caught the dotcom wave --
+During the final 12M in CSM, I self-taught perl, LAMP to become an in-demand web-dev.
+A1: I am a laser .. focused on CV and JIV since my 2000 job search.
+
+Q3: Did you never hit "no-experience, unwelcome"?
+
+When I tried pre-sales, I had zero experience and a lucky break at SCS-SI. Unlike those China graduates, I was hopeful, promising, enthusiastic, confident to both interviewers. (I did help SCS win two projects.)
+
+When I tried SysAdmin (Sperion/Agilent), I had no professional experience but to the interviewers I was technically and personally competent.
+
+When I tried WSt in 2007, I had no "solid" java experience. I self-studied for months before I started "killing" at UBS/GS.
+
+A3: In conclusion, I simply stood out among the crowd in each case.
+
+Q5: Did you ever fail at a job and face the jobless prospect?
+
+I failed many jobs [SCS, EMPWorld, Strategem, OceanLake, Verizon, q3sg, ,,] but recovered quickly. How about my cohort (including the China graduates, comparing to the Victan before 2000)? Majority of them also hit failures (unless they join gov). How many of them recover repeatedly and efficiently like me?
+
+A: In conclusion, I have self-renewal (SP500) capacity.
+
+Q5b: How about your PIP traumas? How do they compare to a China graduate's /adversities/ ?
+%%A: PIP experiences were possibly the worst traumas in my life, but they didn't seriously jeopardize my (family) livelihood. I'm a laser (A1), I stand out from the crowd (A3), I was able to get my job done in every company [SCS ..see above],,
+
+Q7: Did you experience no downturn/drought like "China23-24"?
+AA: 1998, 2003 SARS, 2008 GFC
 
 -- fuxi: early to office?
 CTO knows (lucky me) I'm in 6-7 days a week, and my personal attendance record could be "right at the top".
