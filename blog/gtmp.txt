@@ -1,5 +1,6 @@
 
 -- new or fuxi: stressor profile: {9Jan2025
+Overall at light amber level [green, yellow, amber, red]
 BB) 60% boy's behavior issues
 .. strain on mom
 GG) 10% grandpa's decline
@@ -19,6 +20,18 @@ I find it reassuring to mark definite dates on my calendar. It gives assurance a
 
 Mentally, I'm ready to write off the S$400 if something unforeseeable happens.
 
+-- update bpost on star rating
+deep green
+standard green
+? light green
+light yellow
+standard yellow
+light amber
+standard amber
+dark amber
+light red
+standard red
+dark red
 -- fuxi 
 starhub bill-check
 * to use the browser, you must log in twice
