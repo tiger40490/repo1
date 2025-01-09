@@ -44,6 +44,11 @@ STI ETF? has expRatio, inferior to single names
 
 SP500 ETF is a classic inflation hedge.
 
+-- fuxi
+icbc::gm .. 
+Rmb 1100k 理财 assets will reach maturity and auto-transfer to savings; 
+Rmb 300k bond mufu to be liquidated within a month. 
+Therefore, all liquid.
 -- fuxi:
 I worry about my kids falling for the financial trap of debt; I worry about grandparents falling for scams.... but I'm not supersmart, super vigilant, immune to impulsive decision
 
