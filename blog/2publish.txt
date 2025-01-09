@@ -1,6 +1,25 @@
 -- update bpost on r.dong meet-up
 insert "///" into Q5c Q5d answers, between "gained" and "lost" items
 
+-- update uchicago roti
+renewed confidence in my math and in my academic career.
+"top student in a top college"
+
+ending on a high note
+
+江郎才尽 self-perception (undeniable, irremovable) now removed like a miracle
+
+-- update bpost about inferiority
+If I'm a CAD patient in Japan, I may worry about my country's quality of medical care. I would worry that Japan doctors are not fluent enough in English...
+
+The pattern -- whichever group I find myself in, I tend to worry about its calibre and quality. 
+
+-- udate post on mlphone hotspot
+Issue: NoSim. I had to connect to a wifi to set up SIM
+Issue: other devices can't detect this SSID. I had to disable-then-enable it on mlphone
+
+Once another device connects to this SSID, mlphone shows a green banner on top.
+
 -- update ChnM
 Always prefer buying 7D mobile-data pack using hotspot/wifi, rather than the (insufficient) 20MB mobile data 套餐内流量.
 
