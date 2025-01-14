@@ -1,3 +1,23 @@
+-- new: national economic progress beyond GDP
+Economists, sociologists, and laymen can measure economic progress by 
+
+improving life expectancy
+improving YLD (healthy longevity)
+improving infant mortality
+improving national average BMI 
+improving incident of untreated blindness or seriouis skin condition
+improving national average commute length and comfort level
+improving national average home size (holding constant family size)
+improving national average amount of sleep
+improving quality of nutrition
+improving frequency of overseas family reunions
+improving frequency of IDD call with family
+improving frequency of intimacy for married persons of a given age band. The poor often have less time for it, due to overwork, seperation, health.
+improving frequency of sightseeing trips
+improving birth control success
+
+How about inflation-adjusted average household income reported in official statistics? 
+
 -- update bpost on r.dong meet-up
 insert "///" into Q5c Q5d answers, between "gained" and "lost" items
 
