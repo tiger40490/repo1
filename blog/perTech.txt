@@ -1,11 +1,3 @@
-9wRtyoxsgT8sJBsB7q8HCtMtmr2zJwtjLx49CXQ54W72SHgTyH
-Payry82VKYFB4ruCfMadZh1LTz4sHUiUYCNBR9dqcpzyYPbwfb
-hVB3H2AeY2RP9XwWL8V6pkrSUvkCx3KFWuKhgK2TTgjX7zJwqx
-f44YqsTAYpYdJT1XTmcoP6VRBxei6XiJa8reZcdvEnDAqxXWYf
-rxzX95iTg6y7gWztzVjJXhUNweokDQDYWPReKnLZya7DWwvRwB
-7ji36ykUeHXufJk1ncYBv3aqiTaoEzfMiGBbHWWZE6AfH9r4j5
-Yzkaq1wpNeaTTN5G3qoRdcyzCoAyoK82N97ZwPxExb5wHnGWoU
-
 -- update ..
 Sometimes my mlphone personal-hotspot is enabled while in djdj, but invisible to my laptop. 
 * ensure mlphone is not using another wifi SSID
