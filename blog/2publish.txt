@@ -137,6 +137,10 @@ Across a /structured/ codebase, I tend to bend over backward to enforce consiste
 A smaller habit is naming variables, functions and classes. I spend lots of time naming them precisely and consistently. That forces me to slow down and pay attention to some details in the logic.
 
 All of these personal habits above slow me down, but they tend to protect my personal reputation and reduce those embarrassing or disastrous/devastating bugs.
+-- update bpost on ... flexibility .. inferior
+I have hypolordosis (reduced lumbar lordosis). I once imagined that if I could surgically sever some connective tissue in my lower back, then I would be able to bend forward "like them". 
+
+However, whatever is too short in my lowerback is still vital for my body. I am grateful to that piece, when I can swim, cycle, climb stairs, jog, squat, twist, side-bend, sit-up...
 
 -- update bpost on longevity https://btv-open.dreamhosters.com/wp-admin/post.php?post=48298&action=edit
 In Dec 2023 I started to worry about quality_of_life in my mom's twilight years, either in a Beijing nursing home, or a Singapore nursing home, or living with my wife (while I'm away in the U.S.), against the backdrop of her declining health.
