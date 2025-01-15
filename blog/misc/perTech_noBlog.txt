@@ -1,0 +1,4 @@
+-- fuxi 
+starhub bill-check
+* to use the browser, you must log in twice
+* to use the App, faster but small screen
