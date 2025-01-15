@@ -141,7 +141,17 @@ All of these personal habits above slow me down, but they tend to protect my per
 I have hypolordosis (reduced lumbar lordosis). I once imagined that if I could surgically sever some connective tissue in my lower back, then I would be able to bend forward "like them". 
 
 However, whatever is too short in my lowerback is still vital for my body. I am grateful to that piece, when I can swim, cycle, climb stairs, jog, squat, twist, side-bend, sit-up...
-
+-- update bpost on star rating
+deep green
+standard green
+light yellow
+standard yellow
+light amber
+standard amber
+dark amber
+light red
+standard red
+dark red
 -- update bpost on longevity https://btv-open.dreamhosters.com/wp-admin/post.php?post=48298&action=edit
 In Dec 2023 I started to worry about quality_of_life in my mom's twilight years, either in a Beijing nursing home, or a Singapore nursing home, or living with my wife (while I'm away in the U.S.), against the backdrop of her declining health.
 
