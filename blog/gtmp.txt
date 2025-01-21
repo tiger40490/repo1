@@ -1,3 +1,15 @@
+-- new or fuxi
+Avoid airlines without contact number, such as AirAsia.
+
+hard to contact them in an emergency.
+
+-- new CNY2025Shanghai trip
+22 Jan 17:50 SGP > PVG 
+AirChina
+
+11 Feb 16:20 PVG > SGP 
+ChinaEastern
+$206.43 booked on FlightNetworks.com
 
 -- update bpost: Jan 2025 PEK trip
 ~~thumbs up
