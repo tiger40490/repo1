@@ -1,3 +1,7 @@
+-- update bpost on psbc::GP
+Dram refresh drill for grandpa's log-in
+This is more sensitive than my own icbc/psbc log-in, so let's be prudent during the drill
+
 -- update post on ex_Chn
 Get a medical quote for my heart condition, for USD50k ChannelM::GP
 
