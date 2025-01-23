@@ -1,3 +1,10 @@
+-- new: android phone troubleshooting
+On 23 Jan 2025, I found my cursor unmovable in Wechat. 
+
+Whatsapp, SMS ... were unaffected. So it looked like an app-specific issue.
+
+I was told to apps >> theApp >> storage >> ClearCache. ClearCache is confirmed safe (ClearData is dangerous)
+
 -- update ..
 Sometimes my mlphone personal-hotspot is enabled while in djdj, but invisible to my laptop. 
 * ensure mlphone is not using another wifi SSID
