@@ -1,3 +1,8 @@
+-- update bpost on printers
+I want to train myself to reduce reliance on home printers, when office printing is possible (not so convenient).
+
+However, I also want to avoid ink dry-up.
+
 -- upate which bpost
 If 15GB insufficient for wife, we can buy additional "data pack" for one month.
 
