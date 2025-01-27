@@ -1,16 +1,6 @@
 -- update which bpost?
 Host 0.txt in git blog.. can print from any computer
 
--- new: control html table borders
-checkout theme -> customize -> additionCSS-> 
-
-td, th {
-    border: 1px solid #bbb;
-    padding: 0px;
-}
-
-The solid color value can range from (dark) 000 to 999 to fff (white)
-
 -- repsc .. was created to reduce compliance hazard. The repo is designed as readonly in office, including the msff files.
 
 -- new: safest way to downgrade wpress version
