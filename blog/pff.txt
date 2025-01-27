@@ -1,11 +1,3 @@
--- udpate FWD/FLI 
-partial surrender $50774
-250774 -> 200k
-payout to reduce proportionally
-pay off the loan 100%, then restart new loan with proportional quantum. Hopefully LIR statys unchanged.
-
-COF as of 27 Jan 2025 .. 3.09 ppa
-
 -- update bpost on psbc::GP
 Dram refresh drill for grandpa's log-in
 This is more sensitive than my own icbc/psbc log-in, so let's be prudent during the drill
