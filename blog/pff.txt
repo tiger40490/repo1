@@ -1,3 +1,14 @@
+-- new: robinhood access
+hotline?
+
+~~ email in?
+
+~~ VPN
+
+~~ find a US host and try log-in from there
+
+~~ deepak?
+
 -- update bpost on psbc::GP
 Dram refresh drill for grandpa's log-in
 This is more sensitive than my own icbc/psbc log-in, so let's be prudent during the drill
