@@ -1,11 +1,18 @@
+-- DJDJ.xlsx 21-Dec-2024 snapshot has a misleading format
+
 -- fuxi: For any credit card I know, statement balance is the number printed on statement (pdf or paper). It's an immutable snapshot.
 
 It won't change after you pay part of the statement balance.
 
--- new: robinhood access
-hotline and email in? LG-giveUp
-Deepak? asking too much of a friend.
+-- new: robinhood access outside U.S.
+hotline and email in? LG-giveUp. I believe there is no email support in this low-cost platform.
+
+Live person chat is the only support available. 
+
 ~~ VPN.. 
+I needed VPN to see the pop-up. Once I enter the smsOTP (sent to Deepak) I was able to use the site without the VPN.
+
+However, in X days I may need the VPN to enter a code [smsOtp or google authenticator]
 
 -- update bpost on psbc::GP
 Dram refresh drill for grandpa's log-in
@@ -21,7 +28,6 @@ With the khm issues, I feel lucky to be diversified. I don't have a big big chun
 
 I also stopped overseas rEstate 
 
--- DJDJ.xlsx 21-Dec-2024 snapshot has a misleading format
 -- fuxi: facing several mild stressors [aging parents, kids' academics, discipline,,,] I feel my pff efforts are partially helpful (glass half-full rather than half-empty).
 
 * pff has proven a positive recreation, but not overseas rEstate .. too risky
