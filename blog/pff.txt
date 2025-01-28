@@ -1,13 +1,7 @@
 -- new: robinhood access
-hotline?
-
-~~ email in?
-
-~~ VPN
-
-~~ find a US host and try log-in from there
-
-~~ deepak?
+hotline and email in? LG-giveUp
+Deepak? asking too much of a friend.
+~~ VPN.. 
 
 -- update bpost on psbc::GP
 Dram refresh drill for grandpa's log-in
