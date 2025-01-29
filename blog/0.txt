@@ -1,3 +1,5 @@
+find a home for all the objects for CPS visit
+
 -- time allocation
 focus on mysql
 cmt, cmf .. wait till CNY days
