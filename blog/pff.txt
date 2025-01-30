@@ -1,7 +1,3 @@
-
-
--- DJDJ.xlsx 21-Dec-2024 snapshot has a misleading format
-
 -- ask cpf on next appt
 Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
 
@@ -9,24 +5,9 @@ Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
 
 It won't change after you pay part of the statement balance.
 
--- new: robinhood access outside U.S.
-hotline and email in? LG-giveUp. I believe there is no email support in this low-cost platform.
-
-Live person chat is the only support available. 
-
-~~ VPN.. 
-I needed VPN to see the pop-up. Once I enter the smsOTP (sent to Deepak) I was able to use the site without the VPN.
-
-However, in X days I may need the VPN to enter a code [smsOtp or google authenticator]
-
 -- update bpost on psbc::GP
-Dram refresh drill for grandpa's log-in
+DRD for grandpa's log-in
 This is more sensitive than my own icbc/psbc log-in, so let's be prudent during the drill
-
--- update post on ex_Chn
-Get a medical quote for my heart condition, for USD50k ChannelM::GP
-
-Ask some friend to help withdraw USD 10k. The risk for the friend is lower than channelM2.
 
 -- fuxi
 With the khm issues, I feel lucky to be diversified. I don't have a big big chunk stuck in one unit.
