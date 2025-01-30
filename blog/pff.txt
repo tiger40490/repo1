@@ -1,4 +1,9 @@
+
+
 -- DJDJ.xlsx 21-Dec-2024 snapshot has a misleading format
+
+-- ask cpf on next appt
+Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
 
 -- fuxi: For any credit card I know, statement balance is the number printed on statement (pdf or paper). It's an immutable snapshot.
 
