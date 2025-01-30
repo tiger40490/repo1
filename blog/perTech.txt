@@ -1,3 +1,9 @@
+-- update https://btv-open.dreamhosters.com/22826/accumulate-across-domains/
+sustainable (consistent, practical) system to generate, record (hints) and DRD passwords/PINs/9dotPatterns for top 30 sites
+
+https://btv-open.dreamhosters.com/15622/multiple-layersbuffer%e2%87%92security/
+add an item into the per Tech section
+
 -- fuxi or update bpost on spreadsheets or todo list
 
 github and gDrive are more reliable than dreamhost
