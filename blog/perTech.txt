@@ -1,6 +1,8 @@
 -- update https://btv-open.dreamhosters.com/22826/accumulate-across-domains/
 sustainable (consistent, practical) system to generate, record (hints) and DRD passwords/PINs/9dotPatterns for top 30 sites
 
+smartphone/browser/wpress tech knowhow ... a leaking battery
+
 https://btv-open.dreamhosters.com/15622/multiple-layersbuffer%e2%87%92security/
 add an item into the per Tech section
 
@@ -17,13 +19,6 @@ However, I also want to avoid ink dry-up.
 If 15GB insufficient for wife, we can buy additional "data pack" for one month.
 
 Once you buy, it auto-renews monthly. That's the official (bad) answer. Such a "deal" is inferior to a bigger monthly plan. However, in reality, monthly data packs are better due to flexibility. You can cancel auto-renewal after one month.
-
--- new: android phone troubleshooting
-On 23 Jan 2025, I found my cursor unmovable in Wechat. 
-
-Whatsapp, SMS ... were unaffected. So it looked like an app-specific issue.
-
-I was told to apps >> theApp >> storage >> ClearCache. ClearCache is confirmed safe (ClearData is dangerous)
 
 -- update ..
 Sometimes my mlphone personal-hotspot is enabled while in djdj, but invisible to my laptop. 
