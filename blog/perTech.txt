@@ -15,11 +15,6 @@ I want to train myself to reduce reliance on home printers, when office printing
 
 However, I also want to avoid ink dry-up.
 
--- upate which bpost
-If 15GB insufficient for wife, we can buy additional "data pack" for one month.
-
-Once you buy, it auto-renews monthly. That's the official (bad) answer. Such a "deal" is inferior to a bigger monthly plan. However, in reality, monthly data packs are better due to flexibility. You can cancel auto-renewal after one month.
-
 -- update ..
 Sometimes my mlphone personal-hotspot is enabled while in djdj, but invisible to my laptop. 
 * ensure mlphone is not using another wifi SSID
