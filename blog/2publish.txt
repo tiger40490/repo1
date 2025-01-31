@@ -1,3 +1,6 @@
+-- update bpost on spreadsheets or todo list
+
+github and gDrive are more reliable than dreamhost
 
 -- upate which bpost ... https://btv-open.dreamhosters.com/14230/starhub-mobile-data-usage/ ?
 If 15GB insufficient for wife, we can buy additional "data pack" for one month.

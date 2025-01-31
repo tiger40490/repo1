@@ -6,12 +6,8 @@ smartphone/browser/wpress tech knowhow ... a leaking battery
 https://btv-open.dreamhosters.com/15622/multiple-layersbuffer%e2%87%92security/
 add an item into the per Tech section
 
--- fuxi or update bpost on spreadsheets or todo list
-
-github and gDrive are more reliable than dreamhost
-
 -- update bpost on printers
-I want to train myself to reduce reliance on home printers, when office printing is possible (not so convenient).
+I want to train myself to reduce reliance on home printers, when office printing is feasible even if less convenient.
 
 However, I also want to avoid ink dry-up.
 
