@@ -1,3 +1,8 @@
+-- weekend
+work on cmv/cmt, nyfx bugs
+work on BNP
+work on mysql
+work on Marex set-up
 
 -- stressor profile
 boy's academics ... pressure off
@@ -5,15 +10,9 @@ boy's academics ... pressure off
 20% work projects timelines
 30% pff .. khm rEstate; BGC dues; ex_China plann, but actually minor impacts
 
--- weekend
-work on cmv/cmt
-work on BNP
-
 ==== tww.. 
 hide room2 keys ... in wallet
-ex_china .. plan what to do in late Mar. Email to Y.Yu
 how to further reduce compliance hazards 
 
 See also https://btv-open.dreamhosters.com/22363/long-near-horizon/
 -- fx:
-Old android uses Micro-USB cables, with a zigzag "crack" carrying data.

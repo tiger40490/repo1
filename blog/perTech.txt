@@ -1,3 +1,6 @@
+--fuxi
+Old android uses Micro-USB cables, with a zigzag "crack" carrying data.
+
 -- update https://btv-open.dreamhosters.com/22826/accumulate-across-domains/
 sustainable (consistent, practical) system to generate, record (hints) and DRD passwords/PINs/9dotPatterns for top 30 sites
 
