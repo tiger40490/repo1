@@ -1,8 +1,8 @@
--- weekend
 work on cmv/cmt, nyfx bugs
+
+-- evening/weekends:
 work on BNP
 work on mysql
-work on Marex set-up
 
 -- stressor profile
 boy's academics ... pressure off
