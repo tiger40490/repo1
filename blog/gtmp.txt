@@ -1,3 +1,8 @@
+-- new: color copy sub-A4 documents
+The commercial copy shops have better paper and better machine to make hi-fi color copioes. They also have paper cutters to cut the output to the same size as original.
+
+Office color copier is lower quality but free. It can "erase edge" so the A4 output shows the same content without any visible border around the original image.
+
 -- update bpost on batt
 POHS (password open-hint scheme) .. a good POHS taeks effort and field experience .. batery of accumulation.
 China banking system + Alipay for wife's taobao lifestyle .. takes effort and field experience .. battery of accumulation
