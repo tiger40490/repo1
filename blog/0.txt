@@ -1,19 +1,17 @@
 work on cmv/cmt, nyfx bugs
-
--- evening/weekends:
-work on BNP
 work on mysql
 
 -- stressor profile
 boy's academics ... pressure off
-30% boy's ODD
+20% boy's ODD
 20% work projects timelines
 30% pff .. khm rEstate; BGC dues; ex_China plann, but actually minor impacts
 
 ==== tww.. 
-50% estimate leaves an unrealistic large residual on my asset snapshot
-30% estimate is too optimistic in terms of progress
-How about 0%?
+PEK: 50% estimate .. leaves an unrealistic large residual on asset snapshot
+PEK: 30% estimate is too optimistic in terms of ex_China progress
+PEK: How about 0%?
+
 hide room2 keys ... in wallet
 how to further reduce compliance hazards 
 
