@@ -1,9 +1,11 @@
 -- new: color copy sub-A4 documents 
 eg: birth-certs
 
-The commercial copy shops have quality paper and advanced machines for hi-fi color copy. They also have large paper cutters to cut the output to match original.
+The commercial copy shops have better paper and advanced machines for hi-fi color copy. They also have large paper cutters to cut finished product to match original.
 
-Office color copier is lower quality but free. It can "erase edge" so the A4 output shows the same content without any visible border around the original image. It looks authentic.
+MLP office color copying is lower quality but free. It can "erase edge" so the A4 output shows the same content as original without any visible border around the original image. It looks authentic.
+
+Enlargement looks fake.
 
 -- update bpost on batt
 POHS (password open-hint scheme) .. a good POHS taeks effort and field experience .. batery of accumulation.
