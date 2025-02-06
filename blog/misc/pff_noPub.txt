@@ -1,3 +1,7 @@
+-- fuxi: For any credit card I know, statement balance is the number printed on statement (pdf or paper). It's an immutable snapshot.
+
+It won't change after you pay part of the statement balance.
+
 -- fuxi or new: fraud detection.. account unlock
 Automatic account lockdown due to unusual activities... is a global trend pioneered by China. Highly inconvenient for millions of innocent user. I choose to believe that these evolving systems do prevent a lot of scams.
 
