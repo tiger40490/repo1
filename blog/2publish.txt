@@ -1,3 +1,34 @@
+-- update bpost on psbc::GP
+DRD for grandpa's log-in
+This is more sensitive than my own icbc/psbc log-in, so let's be prudent during the drill
+
+-- update bpost on long-term SG inflation
+K.Hu suggested roaming retirement to Malaysia. Singapore is susceptible to imported inflation but not Malaysia.
+Switzerland citizens don't have a next-door neighbor as a low-cost retirement destination. (Spain?) Sgp has JB.
+
+Some x% annual inflation over some 15Y translate to perhaps 50% commulative inflation in Sgp. Malaysia cost level is much lower and will address that level of commulative inflation.
+
+SGX blue chip stocks are an inflation hedge. 
+
+STI ETF? has expRatio, inferior to single names
+
+SP500 ETF is a classic inflation hedge.
+
+-- resend mail to XR
+A similar experience to share -- Mixed vegetable-rice (杂菜饭) is my default choice when I eat alone. In June 2024 I went to a low-cost street venue (without Aircon), and bought a regular 杂菜饭 -- two-veg-one-meat for $5.50. Used to cost $3.50 ~$4, perhaps 10 years ago. 
+
+For a historical comparison I need to hold every variable constant:
+* location .. food court (with Aircon) is my current default. Frequently, I do choose cheaper place like this June venue
+* portion .. one-meat-one-veg-on-rice (一菜一肉) is my default. Frequently, I do get 1 or 2 additional items like this June case
+
+$2 was my cost level some (20) years ago. Now the same food costs $3.50 minimum. When I see a price display of $6 for 杂菜饭, I get a sinking feeling (心里一沉) and immediately urge myself to cut down to two-veg-on-rice. Less often, I would tell myself I'm not really hungry and can wait until I reach office or home, where low-cost healthy foods await.
+
+Q: how much would the same food cost (in the same place) in 2035? Probably below $7. My optimism.
+
+My son may start working full time in 5 years, without a degree, and make $3k/M. $6 a meal translates to about $15/day. With that salary he has to cut down on food cost.
+
+Even though food is an essential expense, food inflation is my least worry because ... many (reasonably healthy) choices exist. In contrast, I care more about medical, housing+utilities, public transport.
+
 -- update bpost on spreadsheets or todo list
 
 github and gDrive are more reliable than dreamhost
