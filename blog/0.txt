@@ -1,7 +1,6 @@
 review safety plan
-call Maybank (8a - 8p) ... reduce credit limit to 10k
-pre-pay cmlink
 update BOC ATM pin
+test robinhood log-in in office
 
 -- stressor profile
 boy's academics ... pressure off
