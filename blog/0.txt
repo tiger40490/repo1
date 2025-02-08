@@ -1,5 +1,4 @@
-work on mysql
-work on nyfx bugs
+print safety plan
 
 -- stressor profile
 boy's academics ... pressure off
