@@ -1,4 +1,7 @@
-print safety plan
+review safety plan
+call Maybank (8a - 8p) ... reduce credit limit to 10k
+pre-pay cmlink
+update BOC ATM pin
 
 -- stressor profile
 boy's academics ... pressure off
@@ -7,10 +10,7 @@ boy's academics ... pressure off
 30% pff .. BGC dues; ex_China plann, but actually minor impacts
 
 ==== tww.. 
-PEK: 50% estimate .. leaves an unrealistic large residual on asset snapshot
-PEK: 30% estimate is too optimistic in terms of ex_China progress
-PEK: How about 0%?
-
+send 15k through EGA
 hide room2 keys ... in wallet
 how to further reduce compliance hazards 
 
