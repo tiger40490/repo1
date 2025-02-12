@@ -1,3 +1,7 @@
+-- new or..
+Tag 100 is for execution
+tag 207 is assisting #55 and #22, to help identify the security
+
 -- update bpost on named tuple
 MyNamedTup = namedtuple("someInternalTypeName", "x y")
 
