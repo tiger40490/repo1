@@ -1,0 +1,26 @@
+Hi Franz,
+
+You made a few good points. 
+
+what's the product name? Here are the main facts I have collected:
+
+* I pay 5 annual premiums of 12k/Y, over 49 months (M1 M13 M25 M37 M49), and then wait for another 71 months
+* surrender value is impractical within the initial (49+71) 120 months i.e. the prison term.
+* my 60k would buy units of a chosen fund (switchable). 
+* NAV of the units determine my surrender value at any given time after 10Y
+* NAV x2 is the accidental death benefit 
+* normal death benefit .. based on the 60k total premium, not NAV
+* when I pass on, my family inherit the the units, not 60k cash
+* monthly payout starts in M1, based on NAV
+* both monthly payout rate and NAV change over time
+* insured name .. would be one of my kids (probably daughter)... assigned to me.
+* .. after some time, I may buy another policy for my other kid, possibly with higher premium
+* (sustainable) payout .. is managed by PIMCO; death benefit is guaranteed by insurer. I guess surrender value is specified in the insurance contract and it is specified in terms of NAV.
+
+Product rating: 
+- quantum : good
+- prison term: bad
+- payout rate: good
+- payout duration: good
+- surrender value safety: no guarantee
+- death benefit: acceptable
