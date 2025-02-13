@@ -17,7 +17,7 @@ what's the product name? Here are the main facts I have collected:
 * .. after some time, I may buy another policy for my other kid, possibly with higher premium
 * (sustainable) payout .. is managed by PIMCO; death benefit is guaranteed by insurer. I guess surrender value is specified in the insurance contract and it is specified in terms of NAV.
 
-Product rating: 
+Overall product rating: 
 - quantum : good
 - prison term: bad
 - payout rate: good
