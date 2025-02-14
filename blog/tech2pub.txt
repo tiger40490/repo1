@@ -1,3 +1,9 @@
+-- update bpost on named tuple
+MyNamedTup = namedtuple("someInternalTypeName", "x y")
+
+# After defining a type, you can use kwargs to assign fields... self-documenting :)
+instance = MyNamedTup(x=30, y=4.4)
+
 -- new: python __eq__ and __hash__
 In python, two objects (of the same class) are considered identical to a dict iFF they are equal AND has same hashcode.
 

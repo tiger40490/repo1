@@ -1,13 +1,6 @@
--- new or..
+-- new or fuxi
 Tag 100 is for execution
 tag 207 is assisting #55 and #22, to help identify the security
-
--- update bpost on named tuple
-MyNamedTup = namedtuple("someInternalTypeName", "x y")
-
-# After defining a type, you can use kwargs to assign fields... self-documenting :)
-
-instance = MyNamedTup(x=30, y=4.4)
 
 -- update bpost on ... c++weaknessRevealedByJIV
 The low-level features are designed to influence, not directly manipulate, the low-level operations. This is similar to how a race driver "controls" the vehicle over a sharp turn.
