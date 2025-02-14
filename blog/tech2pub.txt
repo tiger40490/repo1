@@ -12,6 +12,14 @@ See P273 [[python Tricks]]
 a ptr Object can be reseated to point to an array.
 An arrayName (is not an object) can't be reseated. It's a compile-time constant.
 
+
+-- new: Class1::method3 docs notation
+In Class1::method3, the method can be static or non-static.
+
+The double-colon notation is similar to namespace. It means the actual method definintion is in Class1.
+
+A widespread but ambiguous notation is Class1.method3, but the dot often implies the LHS is an object or variable.
+
 -- new or fuxi: java: big lambdaEx^methodRef
 I think a big lambdaEx (lambda expression) is usually used as an argument to a method. 
 

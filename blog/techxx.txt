@@ -20,13 +20,6 @@ MatrityDate<541> introduced in 4.3
 
 Looks like all the relevant changes from 4.2 to 4.4 were actually introduced at Release 4.3 !
 
--- new or fuxi: Class1::method3 notation
-In Class1::method3, the method can be static or non-static.
-
-The double-colon notation is similar to namespace. It means the actual method definintion is in Class1.
-
-A common notation is Class1.method3, but the dot often implies the LHS is an object or variable.
-
 -- fuxi:
 order can be cancelled
 fill can be busted
