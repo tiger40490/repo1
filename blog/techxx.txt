@@ -62,15 +62,6 @@ sugg: keep the file in build, just like many other unreferenced classes, but add
 -- fuxi: bash to source multiple  .func.*  files
 you need a for-loop. 
 
--- new or update ..
-P 198 [[essentialC++]] has a sharp pointer "... mistake is to confuse c++ exceptions with hardware exceptions, such as seg fault or bus error. For a c++ exception to be thrown, there is a throw expression somewhere in program code."
-
-I believe many hardware exceptions (such as seg fault) are detected by low-level software code. 
-Many programmers don't distinguish those agaisnt userland exception creation.
-
-rare JIV topic, perhaps only in c++JIV, so I don't want to read too much. 
-I believe java beats c++ in documenting system exception. 
-
 ~~ in ANSI C, I think errno.h standard header is a primitive solution. The header defines a bunch of  fairly standard (but not platform-indepedent) macro constants for common error conditions. 
 
 You are free to explore those macros (i.e. error conditions). They should have comments.
