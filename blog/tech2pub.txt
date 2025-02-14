@@ -1,3 +1,9 @@
+
+-- new: linux command: count group-by 1stWordEachLine
+uniq -c # is the basic command. 
+
+To make use of it, we can run perl to trim each input line down to the relevant word and nothing else.
+
 -- update bpost on named tuple
 MyNamedTup = namedtuple("someInternalTypeName", "x y")
 

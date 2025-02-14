@@ -62,9 +62,6 @@ sugg: keep the file in build, just like many other unreferenced classes, but add
 -- fuxi: bash to source multiple  .func.*  files
 you need a for-loop. 
 
--- new: linux command: count group-by 1stWordEachLine
-uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
-
 -- new or update ..
 P 198 [[essentialC++]] has a sharp pointer "... mistake is to confuse c++ exceptions with hardware exceptions, such as seg fault or bus error. For a c++ exception to be thrown, there is a throw expression somewhere in program code."
 
