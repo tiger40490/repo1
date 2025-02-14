@@ -60,12 +60,7 @@ sugg: keep the file in build, just like many other unreferenced classes, but add
 .. but misleading usage analysis by IDE
 
 -- fuxi: bash to source multiple  .func.*  files
-you need a for loop. 
-
---fuxi ASCII is a 7-bit encoding
-The original ASCII table is encoded on 7 bits, and therefore it has 128 characters.
-
-Nowadays, most readers/editors use an "extended" ASCII table (from ISO 8859-1), which is encoded on 8 bits and enjoys 256 characters (including Á, Ä, Œ, é, è and other characters useful for European languages as well as mathematical glyphs and other symbols).
+you need a for-loop. 
 
 -- new: linux command: count group-by 1stWordEachLine
 uniq -c # is the basic command. To make use of it, we can run perl to trim each raw input line down to the relevant word and nothing else.
@@ -124,3 +119,7 @@ source ../a/b/script1.sh
 In python dict initilization, you may want to specify the keys in a consistent order. The order is preserved when you print myDict.keys()
 
 print(f'{var1:33}’) # prints at least 33-chars  and won’t truncate
+--fuxi ASCII is a 7-bit encoding
+The original ASCII table is encoded on 7 bits, and therefore it has 128 characters.
+
+Nowadays, most readers/editors use an "extended" ASCII table (from ISO 8859-1), which is encoded on 8 bits and enjoys 256 characters (including Á, Ä, Œ, é, è and other characters useful for European languages as well as mathematical glyphs and other symbols).
