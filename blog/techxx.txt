@@ -1,3 +1,5 @@
+-- fuxi: push an arbitrary local branch
+git push origin anyBranch
 
 -- update bpost on ... c++weaknessRevealedByJIV
 The low-level features are designed to influence, not directly manipulate, the low-level operations. This is similar to how a race driver "controls" the vehicle over a sharp turn.
@@ -32,15 +34,15 @@ Cancelled order can be restated.
 #56 Target comp id, followed by ...
 #57 Target subID under #56, often an individual
 
--- new: gitBash: launch a GUI and return
+-- fuxi or new: gitBash: launch a GUI and return
 If the original command is "good", then you can run "start original command args if any"
 
 If the original command is a function (among other conditions), then you can append an ampersand to origional command
 
--- new
+-- fuxi
 What if you have java (or other source code) files in your project but you want them excluded during build?
 
-We probably need some adaptability/compromise. Most-needed would be "messy git history"
+We probably need some adaptability/compromise. Most-needed compromise is "messy git history"
 
 Sugg: change file extension to append *.txt
 .. but messy git history 
@@ -56,9 +58,6 @@ sugg: keep the file in build, just like many other unreferenced classes, but add
 .. but noisy grep
 .. but compilation errors
 .. but misleading usage analysis by IDE
-
--- fuxi: push an arbitrary local branch
-git push origin anyBranch
 
 -- fuxi: bash to source multiple  .func.*  files
 you need a for loop. 
