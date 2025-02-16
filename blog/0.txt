@@ -9,4 +9,4 @@ FSM acct: consider closing mine
 See also https://btv-open.dreamhosters.com/22363/long-near-horizon/
 -- fx:
 practice complex patternLock ... PNB
-pdx1-shared-a4-07.dreamhost.com
+btvopen@pdx1-shared-a4-07.dreamhost.com
