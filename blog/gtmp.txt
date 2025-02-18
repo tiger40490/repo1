@@ -1,6 +1,14 @@
--- 
-http://369356.hotels168.com/ is a budget hotel
+
+
+-- HongLin hotel
 https://www.chinaholiday.com/cn/city_104/365078.html has room types
+
+ctrip is the official booking parter, but if you can book online, then should be confirmed.
+中国假日网? price is low but may be unabilable, according to site owner
+basement not available.
+no-window, small-window, big-window ... are the 3 types. I think no-window is good enough as backup for djdj
+
+6801 9288 (ext 170) is sometimes avialable.
 
 -- update bpost on batt
 POHS (password open-hint scheme) .. a good POHS taeks effort and field experience .. batery of accumulation.
