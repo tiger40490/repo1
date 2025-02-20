@@ -1,3 +1,16 @@
+-- update HsbcLWA
+two components
+aa) a fixed-income mutual fund (can switch to SP500 fund but unkeen)
+bb) an annuity with 10Y prison_term and no guaranteed surrender value
+
+The (aa) provides "lifetime" payout and some capital protection.
+The (bb) provides death/TPD benefit and nothing much
+
+M1 M13 M25 M37 M49 then take prem holiday without charge
+
+* Early-Surrender charges (within MIP) .. is one of the most important factors. Need to understand the "descending". Drops to 0% after MIP
+
+
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
 Also, compare to most developed country rEstate (including Sg), my quantum is very much manageable.
