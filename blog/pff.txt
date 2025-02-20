@@ -10,6 +10,9 @@ M1 M13 M25 M37 M49 then take prem holiday without charge
 
 * Early-Surrender charges (within MIP) .. is one of the most important factors. Need to understand the "descending". Drops to 0% after MIP
 
+Comparing against cpfLife and annuities
+* surrender value .. in between
+* prison_term .. in between
 
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
