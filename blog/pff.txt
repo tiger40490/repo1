@@ -14,6 +14,15 @@ Comparing against cpfLife and annuities
 * surrender value .. in between
 * prison_term .. in between
 
+-- update which bposts
+
+Yes you can still treat RA as a savings acct. Suppose at 55 your SA balance is 512k when prevailing FRS is 500k. the FRS amount will transfer to RA, and the balance to OA. After that, by pledging your property, you can incrementally withdraw (FRS-BRS) amount from RA, over years. Meanwhile, you can top up RA (see separate bpost)
+
+-- new cpfRA top-up till startOfPayout
+Every year, you can top up RA_bookVal to the prevailing ERS. All RA_accrued_interest goes to your RA, but "ignored". 
+
+After startOfPayout (age 65 to 70), your interest accrual would start going into the pool. (RA emptied.)
+
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
 Also, compare to most developed country rEstate (including Sg), my quantum is very much manageable.
