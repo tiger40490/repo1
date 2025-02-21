@@ -16,7 +16,7 @@ Comparing against cpfLife and annuities
 
 -- new ##advantages of cpf over private annuities
 * same policy for everyone. Easy to find answers online.
-* policy stays the same for decades. Therefore, less complicated
+* policy fineprints stay the same for decades. Therefore, less complicated
 * hotline 
 * service centers
 * monthly payout amount stays constant, provided cpf int rate stays constant.
