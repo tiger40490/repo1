@@ -1,10 +1,3 @@
--- new ##advantages of cpf over private annuities
-* same policy for everyone. Easy to find answers online.
-* policy fineprints stay the same for decades. Therefore, less complicated
-* hotline 
-* service centers
-* monthly payout amount stays constant, provided cpf int rate stays constant.
-
 -- update which bposts
 
 Yes you can still treat RA as a savings acct. Suppose at 55 your SA balance is 512k when prevailing FRS is 500k. the FRS amount will transfer to RA, and the balance to OA. After that, by pledging your property, you can incrementally withdraw the (FRS-BRS) amount from RA. Meanwhile, you can also top up RA (see separate bpost)
