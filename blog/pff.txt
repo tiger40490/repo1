@@ -1,5 +1,9 @@
--- update which bposts
-cpf appt: 8.30am is better
+-- update which bposts on max out cpfLife (P1?)
+payout will start at 65. I wish to receive higher payout. That requires me to top up to ERS at 55, 65 or in between.
+
+If I hit ERS at 55, then liquidity! I lose 250k liquidity for 10Y! I may need that money for kids' education etc...
+
+Higher priority is .. hitting FRS when wife turns 55.
 
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
@@ -11,6 +15,8 @@ I also stopped overseas rEstate
 Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
 
 After 55, I can withdraw FRS-BRS from cpfRA, but can I withdraw anything from cpfOA? What happens to the growing balance in cpfOA?
+
+How can my wife hit FRS by 55 and have a BRS green portion? 
 
 -- fuxi
 icbc::gm .. 
