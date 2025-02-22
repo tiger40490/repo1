@@ -1,25 +1,6 @@
 -- update which bposts
 cpf appt: 8.30am is better
 
-cpf payout rate is higher becuase
-* 10Y accumulation at 4 ppa
-* shrinking bequest
-* low expRatio
-
-Link to this bpost from the "liquidity parking" bpost
-
--- new: lock up 100k+ in cpf if no liquidity needs
-Given a 100k idle cash portion, it is exposed to
-* scam
-* impulsive splurge
-* adult children's request
-
-If no "liquidity needs" after 65, then better lock it away in cpfLife forever.
-If no "liquidity needs" after 55, then better lock it away in cpfRA. Note you still can withdraw FRS-BRS amount.
-
-Q: how much locked up is too much?
-
-
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
 Also, compare to most developed country rEstate (including Sg), my quantum is very much manageable.
