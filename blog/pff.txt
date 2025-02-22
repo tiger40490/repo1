@@ -1,13 +1,24 @@
 -- update which bposts
-
-Yes you can still treat RA as a savings acct. Suppose at 55 your SA balance is 512k when prevailing FRS is 500k. the FRS amount will transfer to RA, and the balance to OA. After that, by pledging your property, you can incrementally withdraw the (FRS-BRS) amount from RA. Meanwhile, you can also top up RA (see separate bpost)
-
 cpf appt: 8.30am is better
 
--- new cpfRA top-up till startOfPayout
-Every year, you can top up RA_bookVal to the prevailing ERS. All RA_accrued_interest goes to your RA, but excluded from RA_bookVal.
+cpf payout rate is higher becuase
+* 10Y accumulation at 4 ppa
+* shrinking bequest
+* low expRatio
 
-After startOfPayout (age 65 to 70), your interest accrual would start going into the pool. (RA emptied.)
+Link to this bpost from the "liquidity parking" bpost
+
+-- new: lock up 100k+ in cpf if no liquidity needs
+Given a 100k idle cash portion, it is exposed to
+* scam
+* impulsive splurge
+* adult children's request
+
+If no "liquidity needs" after 65, then better lock it away in cpfLife forever.
+If no "liquidity needs" after 55, then better lock it away in cpfRA. Note you still can withdraw FRS-BRS amount.
+
+Q: how much locked up is too much?
+
 
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
@@ -17,6 +28,8 @@ I also stopped overseas rEstate
 
 -- ask cpf on next appt
 Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
+
+After 55, I can withdraw FRS-BRS from cpfRA, but can I withdraw anything from cpfOA? What happens to the growing balance in cpfOA?
 
 -- fuxi
 icbc::gm .. 
