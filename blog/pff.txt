@@ -1,14 +1,10 @@
 -- update HsbcLWA
 two components
-aa) a fixed-income mutual fund (can switch to SP500 fund but unkeen)
-bb) an annuity with 10Y prison_term and no guaranteed surrender value
+aa) a fixed-income mutual fund
+bb) an annuity with 10Y prison_term, without 100% surrender value
 
-The (aa) provides "lifetime" payout and some capital protection.
+The (aa) provides "lifetime" payout + a capital preservation better than cpfLife.
 The (bb) provides death/TPD benefit and nothing much
-
-M1 M13 M25 M37 M49 then take prem holiday without charge
-
-* Early-Surrender charges (within MIP) .. is one of the most important factors. Need to understand the "descending". Drops to 0% after MIP
 
 Comparing against cpfLife and annuities
 * surrender value .. in between
