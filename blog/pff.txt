@@ -1,15 +1,3 @@
--- update HsbcLWA
-two components
-aa) a fixed-income mutual fund
-bb) an annuity with 10Y prison_term, without 100% surrender value
-
-The (aa) provides "lifetime" payout + a capital preservation better than cpfLife.
-The (bb) provides death/TPD benefit and nothing much
-
-Comparing against cpfLife and annuities
-* surrender value .. in between
-* prison_term .. in between
-
 -- new ##advantages of cpf over private annuities
 * same policy for everyone. Easy to find answers online.
 * policy fineprints stay the same for decades. Therefore, less complicated
