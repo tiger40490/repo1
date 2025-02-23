@@ -1,12 +1,21 @@
+-- new: sustainable long-term return{annities
+I have bought three annuities. Additionally, cpfLife is a "descending annuity"
+
+Q: what's a sustainable (annualized) return before expensens?
+
+Note this return rate is very different from (usually higher) the more visible payout_rate.
+
+HsbcLWA seems to feature 8~9 ppa. I think it's unsustainable.
+
 -- update which bposts on max out cpfLife (P1?)
-payout will start at 65. I wish to receive higher payout. That requires me to top up to ERS at 55, 65 or in between.
+payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or sometime in between.
 
-If I hit ERS at 55, then liquidity! I lose 250k liquidity for 10Y! I may need that money for kids' education etc...
+If I hit ERS at 55, then liquidity suffers! I lose some 250k liquidity for 10Y! I may need that money for kids' education, a new home etc...
 
-Higher priority is .. hitting FRS when wife turns 55.
-
-Q: can both of us hit ERS? Unlikely because it would be 1M at least.
+Q: can both of us hit ERS? Unlikely because it would require SGD 1000k cash.
 Q: so who has priority to hit ERS? Me since my payout starts early, but she would feel more secure if payout is under her name.
+
+A higher priority is .. hitting FRS when wife turns 55.
 
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
@@ -15,13 +24,15 @@ I don't have a big big chunk stuck in one unit.
 I also stopped overseas rEstate 
 
 -- ask cpf on next appt
-Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
-
 How can my wife hit FRS by 55 and have a BRS green portion? 
+
+Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
 
 I want my wife to feel more secure with cpfLife payout. How can I make my payout go into her bank account?
 
 After 55, I can withdraw FRS-BRS from cpfRA, but can I withdraw anything from cpfOA? What happens to the growing balance in cpfOA?
+
+Will Basic plan be available when I want to choose it like age 65?
 
 -- fuxi
 icbc::gm .. 
