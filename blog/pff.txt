@@ -7,35 +7,11 @@ Note this return rate is very different from (usually higher) the more visible p
 
 HsbcLWA seems to feature 8~9 ppa. I think it's unsustainable.
 
--- update which bposts on max out cpfLife (P1?)
-payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or sometime in between.
-
-If I hit ERS at 55, then liquidity suffers! I lose some 250k liquidity for 10Y! I may need that money for kids' education, a new home etc...
-
-Q: can both of us hit ERS? Unlikely because it would require SGD 1000k cash.
-Q: so who has priority to hit ERS? Me since my payout starts early, but she would feel more secure if payout is under her name.
-
-A higher priority is .. hitting FRS when wife turns 55.
-
-Suppose I cash top-up to wife's SA before her 55th birthday. (Total 200k). Her combined OA+SA hits FRS watermark. Then the FRS amount goes into RA. 
-
-Any residual OA (salary contribution or interest) is immediately withdrawable. Like a bank account. No restriction like 'SA top-up amount is not withdrawable'.
-
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
 Also, compare to most developed country rEstate (including Sg), my quantum is very much manageable.
 I don't have a big big chunk stuck in one unit.
 I also stopped overseas rEstate 
-
--- ask cpf on next appt
-Maximum amount you can top up (to spouse) using CPF - $43,946.14 ???
-A: perhaps OA -> wifeSA
-
-I want my wife to feel more secure with cpfLife payout. How can I make my payout go into her bank account?
-No answer
-
-Will Basic plan be available when I want to choose it like age 65?
-A: no guarantee
 
 -- fuxi
 icbc::gm .. 
