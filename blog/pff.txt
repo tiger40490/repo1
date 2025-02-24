@@ -21,16 +21,6 @@ Suppose I cash top-up to wife's SA before her 55th birthday. (Total 200k). Her c
 
 Any residual OA (salary contribution or interest) is immediately withdrawable. Like a bank account. No restriction like 'SA top-up amount is not withdrawable'.
 
-Withdraw from RA ... has a single channel. Conditions are
-* RA balance is above FRS
-* you can only withdraw from the green portion
-* pledge
-* if $0 housing usage, then submit additional docs to prove that you have a usable Singapore property with enough cash value.
-
-It's advisible to leave a bit of housing usage.
--- update ..
-2025's 8k cash top-up to SA has a tax benefit only if her prev year (2024) salary is below 8k
-
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
 Also, compare to most developed country rEstate (including Sg), my quantum is very much manageable.
@@ -43,9 +33,6 @@ A: perhaps OA -> wifeSA
 
 I want my wife to feel more secure with cpfLife payout. How can I make my payout go into her bank account?
 No answer
-
-After 55, I can withdraw FRS-BRS from cpfRA, but can I withdraw anything from cpfOA? What happens to the growing balance in cpfOA?
-Yes confirmed.
 
 Will Basic plan be available when I want to choose it like age 65?
 A: no guarantee
