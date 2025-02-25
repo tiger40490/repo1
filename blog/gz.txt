@@ -139,13 +139,6 @@ eg: many of the jobless 2023 graduates from China universities
 
 If you don't worry about livelihood, then you can enroll in a training program instead.
 
--- new: lucky to own this kind of systems/applications
-Indispensible
-complex but not too complex
-complexity appreciated by mgr
-central, not isolated .. FSV2, event handlers, 
-My personal strength .. nothing in EPA 
-
 -- fuxi
 I feel overworked and not appreciated enough
 
@@ -181,8 +174,3 @@ git-bash is useful for me, but not used by others
 Nowadays advanced SQL is relevant only in places like PWM. Perl is only used for one-liners.
 remote debugg .. Un-usalbe 50% the time when I need it. Live debugger is not as reliable as static command line tools.
 One good use of remote debugging is .. revealing at least one way a method is used.
-
--- fuxi: some crunch times in past EPA projects
-* mid 2020: RJO
-* 2nd half of 2022: Quark
-* Aug 2023 early 2024: Genepai
