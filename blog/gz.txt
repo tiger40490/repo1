@@ -1,8 +1,3 @@
---update bpost on compliance
-most serious breach known to me is IP leak
-Electronic leak is the most common. Printout of IP is tracked, and we are not supposed to bring them out of the door.
-
-Copying commercial software license to home .. is a breach, but may not be so serious.
 
 -- update which bpost about sanctuary... or addicted...
 During the smashing episodes, I relied on office as a sleeping place. More importantly, during that crisis, I came to office 7 days a week and shift focus to a demanding task at work. A healthy shift.
@@ -93,36 +88,6 @@ Q: In boss's perception, which dev is the most likely to quit?
 Q: In boss's perception, which dev is likely the first to quit?
 
 I hope that I'm seen as similar to the 2 NY old-timers. Total Comp may /plateau out/ but hopefully he would preserve the status quo, and protect team stability.
-
--- fuxi or new: ##evolution of MLP work stress: events 
-J4: acccurate recollection of work stress, esp. related to boss-relationship
-
-in 2021, when Umesh took over as team lead, there was a bit of adjustment (probably on both sides). By the 2021 year-end meet-up, we had a good rapport. In early 2022, he drove my very first "OKR project" about BloombergEMSx. He soon left, in early 2022. 
-
-2022 H2 was marked by Quark. New Asia team lead (after takeover in mid-2022) was supportive. He didn't have enought hands-on expertise to drive Quark project.
-
-2023 Aug onwards was marked by Genepai. I had some challenging targets to deliver, against inflated expectations. ( In Dec 2023 I was asked to visit NY. ) 2023 Year-end chat with Varun was uncertain but turned out non-threatening.
-
-My son's 2023 WA3 also started a stressful and busy period for the family [counselling, Sec3 repeat,,,].
-
-2024 was a busy year for everyone, from the very beginning. Asia boss started driving multiple concurrent projects on each subordinate.
-
-Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
-
--- fuxi: early to office?
-CTO knows (lucky me) I'm in 6-7 days a week, and my personal attendance record could be "right at the top".
-
-CTO has no specific "latest" like 10am. Verbally, he said 10am is a reasonable reference. He recognizes our night meetings. I said 9, 10, 11am and he had no issues.
-
-Trust is key. Trust from senior management in the Sgp team.
-
-Sgp team's privileges may be taken away if our attendance record becomes unacceptable/subpar/. Also, the three rows outside his office can become completely empty in some mornings.
-
-CTO felt that most people are sensible but a few bad apples might take advantage of their manager's physical abssence.
-
-I don't want to lose my personal reputation or CTO's personal trust. I don't want to get on some radar. It's generally safe to spend some office hours on personal projects.
-
-I can come in early on some days to "improve" my average. Before 8.30 would be good for train commute. I can be more confident in discussions.
 
 -- fuxi: reality of temp jobs
 I tend to perceive temp jobs positively, as learning.
