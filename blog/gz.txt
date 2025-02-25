@@ -14,16 +14,6 @@ Beside the "tasks", the physical environment of the office is a sanctuary, a har
 -- update bpost on the avg free agent
 add tags t_PIP, t_truama
 
--- fuxi when I think of job security, bonus etc, I should ask myself
-
-Q: In boss's perception, which dev is the most likely to quit?
-Q: In boss's perception, which dev is likely the first to quit?
-
-I hope that I'm seen as similar to the 2 NY old-timers. Total Comp may /plateau out/ but hopefully he would preserve the status quo, and protect team stability.
-
--- new: JIV topics: influences on interviewers
-When I was picking question to ask my candidates, I was influenced by ... ibank interviewers, HFT interviewers, and indirectly by web2.0 interviewers. Note Leetcode is mostly web2.0
-
 -- update bpost on workload.
 I told my UAT team colleague ...
 
@@ -60,28 +50,6 @@ Among the two numbers announced, bonus is more reflective of performance of firm
 Flat bonus ... would still be a huge bonus, allocated to me from the limited bonus pool. I am grateful to the decision maker.
 Flat base ... would still be a very high salary, and numerically more significant than the bonus. This salary level feels unsustainable even if flat.
 
--- fuxi
-Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
-A: 330k. 
-
-Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
-A: 329k. 
-
--- fuxi or new: ##evolution of MLP work stress: events 
-J4: acccurate recollection of work stress, esp. related to boss-relationship
-
-in 2021, when Umesh took over as team lead, there was a bit of adjustment (probably on both sides). By the 2021 year-end meet-up, we had a good rapport. In early 2022, he drove my very first "OKR project" about BloombergEMSx. He soon left, in early 2022. 
-
-2022 H2 was marked by Quark. New Asia team lead (after takeover in mid-2022) was supportive. He didn't have enought hands-on expertise to drive Quark project.
-
-2023 Aug onwards was marked by Genepai. I had some challenging targets to deliver, against inflated expectations. ( In Dec 2023 I was asked to visit NY. ) 2023 Year-end chat with Varun was uncertain but turned out non-threatening.
-
-My son's 2023 WA3 also started a stressful and busy period for the family [counselling, Sec3 repeat,,,].
-
-2024 was a busy year for everyone, from the very beginning. Asia boss started driving multiple concurrent projects on each subordinate.
-
-Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
-
 -- fuxi or new: y I have never feared没工作since graduation
 Background: in 2023-2025, there were lots of news and social-media analysis of graduate unemployment, most visibly in China. It prompted the question 
 
@@ -112,6 +80,34 @@ Q5b: How about your PIP traumas? How do they compare to a China graduate's /adve
 
 Q7: Did you experience no downturn/drought like "China23-24"?
 AA: 1998, 2003 SARS, 2008 GFC
+
+-- fuxi
+Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
+A: 330k. 
+
+Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
+A: 329k. 
+
+-- fuxi when I think of job security, bonus etc, I should ask myself
+Q: In boss's perception, which dev is the most likely to quit?
+Q: In boss's perception, which dev is likely the first to quit?
+
+I hope that I'm seen as similar to the 2 NY old-timers. Total Comp may /plateau out/ but hopefully he would preserve the status quo, and protect team stability.
+
+-- fuxi or new: ##evolution of MLP work stress: events 
+J4: acccurate recollection of work stress, esp. related to boss-relationship
+
+in 2021, when Umesh took over as team lead, there was a bit of adjustment (probably on both sides). By the 2021 year-end meet-up, we had a good rapport. In early 2022, he drove my very first "OKR project" about BloombergEMSx. He soon left, in early 2022. 
+
+2022 H2 was marked by Quark. New Asia team lead (after takeover in mid-2022) was supportive. He didn't have enought hands-on expertise to drive Quark project.
+
+2023 Aug onwards was marked by Genepai. I had some challenging targets to deliver, against inflated expectations. ( In Dec 2023 I was asked to visit NY. ) 2023 Year-end chat with Varun was uncertain but turned out non-threatening.
+
+My son's 2023 WA3 also started a stressful and busy period for the family [counselling, Sec3 repeat,,,].
+
+2024 was a busy year for everyone, from the very beginning. Asia boss started driving multiple concurrent projects on each subordinate.
+
+Apr 2024 CAD diagnosis. Late May I decided to be assertive about workload, but hit firm resistance from boss.
 
 -- fuxi: early to office?
 CTO knows (lucky me) I'm in 6-7 days a week, and my personal attendance record could be "right at the top".
@@ -159,6 +155,9 @@ After you gain insight into an otherwise opaque system, then your job security a
 c++ is deeper and more opaque than java. Shell/perl/python are usually less opaque but python can become opaque as described in another bpost.
 
 How about PMA? Not so opaque; indispensible; one-man show
+
+-- fuxi: JIV topics: influences on interviewers
+When I was picking question to ask my candidates, I was influenced by ... ibank interviewers, HFT interviewers, and indirectly by web2.0 interviewers. Note Leetcode is mostly web2.0
 
 -- fuxi or new: localSys ^ high-churn domains
 portable t-investment .. zero for localSys 
