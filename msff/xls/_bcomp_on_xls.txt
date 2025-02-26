@@ -1,3 +1,0 @@
-For simple diff of a *.xls file, beyondCompare can highlight the character-level details :)
-
-git difftool
