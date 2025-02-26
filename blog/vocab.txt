@@ -1,4 +1,17 @@
-- new: 
+-- udpate: pay: from^to me
+The words "pay" and "payment" do not differentiate payment by me vs payment to me.
+
+For payment to me, I prefer 
+refund
+payout
+
+
+For payable by me, I prefer 
+bill-pay
+submit payment
+pay off
+
+-- new: 
 "Nothing like" followed by an adjective means "not at all similar to" or "not nearly as good as" the quality described by the adjective; 
 
 -- carve out
