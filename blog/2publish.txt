@@ -3,7 +3,8 @@ most serious breach known to me is IP leak
 Electronic leak is the most common. Printout of IP is tracked, and we are not supposed to bring them out of the door.
 
 Copying commercial software license to home .. is a breach, but may not be so serious.
-
+-- update bpost on the avg free agent
+add tags t_PIP, t_truama
 -- update bpost on Dr Leow
 Q: can we increase statin to reverse CAD?
 For any CAD patient, plaque build-up is hard to reverse. No reliable evidence of any effective treatment.
