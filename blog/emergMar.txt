@@ -1,9 +1,15 @@
-
+-- office
+book HSR 2-way
 print bposts
+print some coding questions
 -- Mon timing
 bring luggage to office
 5.30 or 6 leave office .. crowded train? 2) TJPG, or 1) grab
 .. no busy work on that day
 7 reach T2
------
+-- en-route
 take sleeping pill as soon as seated
+discard heavy books
+
+-- exercise?
+incorporate some small workout like stretching, squat
