@@ -1,8 +1,19 @@
+-- update bpost on inheritance
+fees charged by SAFE? Need to find out
+Genn can take on the legwork of due diligence
+
+-- update cmb
+non-smrz mobileNum.. Rmb 5k/day 
+Better use the temp SIM option
 
 -- update ...
-wireTT from icbc.cn .. 0.05% charge by sender bank, capped at Rmb260
+~~ I had to provide
+my latest SG address .. I put in my office addr. Need not match my address registered at icbc.SG
+swift code ICBKSGSGXXX, address of icbc.sg
 
-icbc::gp Rmb TD transfer to savings
+wireTT from icbc.cn .. 0.05% charge by sender bank, capped at Rmb260. No other fee charged :(
+
+~~ icbc::gp Rmb TD transfer to savings: 
 Must come to branch. Bring my passport + his
 IC
 bank card
