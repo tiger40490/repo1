@@ -1,27 +1,60 @@
--- update channel520
-rmb 30k was once caught
+-- bocd, cimb ccard
+FnF .. simple fix .. just put it away for now
+Don't blame wife for such small mistakes, like a demanding boss. She is only human.
+Laugh it off. 
 
--- update bpost on inheritance
-fees charged by SAFE? Need to find out
-Genn can take on the legwork of due diligence
+-- udpate channel520
+~~ retrospective of my high-cost Channel520 experience on 6 Mar
+
+For a USD "5k Progress", the difference between 7.49 and 7.29 is ... Rmb 1000. I made two independent purchase decisions. Let's focus on Decision1.
+
+J4: after grandpa passed, I felt an urge to speed up progress on project 1560k, before inheritance "battle" kicks off. To lighten this growing /burden/, I'm willing to incur higher transaction costs than before. 
+I saw non-trivial cash growth in recent annual snaps, annuity payouts, bonus,,, Semi-consciously, I was/am willing to deploy this "resource" for personal stress reduction.
+
+J4: I felt and still feel USD 5k is a big Progress among the past progresses, such as ChannelX with Jason, or KaiPeng's friend .. I was willing to meet up among the 3 of us, for long hours, just to exchange Sgd 10k.
+
+J4: I recalled that I used to accept 7.49 when 7.49 was official bank rate. In hindsight, I feel this is a less rational J4. It was also irrational to use bank rate as benchmark.
+
+J4: I felt Rmb500 (for USD 5k, 7.39 vs 7.49) was a small extra cost compared to our other RMB costs in Beijing including hotel. In hindsight, this J4 is flawed and goes against ctbz optimization. 
+The FX spread over bank rate in this case represented the most expensive ex_China transaction ever
+If I were able to get a friend to withdraw USD 5k under his ID and exchange with me, I am willing to pay him Rmb 500.
+
+As it turned out, 7.49 vs 7.26 for USD 5k translates to Rmb 1150. Is this an acceptable cost for the Progress? Yes
+
+J4: June.Zhang has two secret weapons 1) borrow someone's IC 2) repeat after ChinaCustom. These "
+J4: Even after the USD 42k success with ChannelM, I still want grandma to avoid ChannelM. This Xiamen experience is traceless for my family and presents zero SAFE risk.
+
+I was decisive in grabbing a rare opportunity to lighten my "burden" with a swift Progress, without SAFE implications, and minimal legwork (only RMB ATM)
+
+-- update channel520
+rmb 30k was once caught according to one eye witness but among those carrying 30k, what probability is that? I feel below 1%
+
+Penalty... I choose (my bias) to consider it mild. For USD, June.Zhang said customer can get return the exceess USD to her company.
+
+-- update bpost on psbc::gp
+How do I avoid having too much balance in psbc::GP?
+Keep around $60 balance most of the time. When ready to withdraw, try transfer 10k. Failure means account locked.
 
 -- update cmb
 non-smrz mobileNum.. Rmb 5k/day 
 Better use the temp SIM option
 
--- update ...
+-- update channelM
 ~~ I had to provide
 my latest SG address .. I put in my office addr. Need not match my address registered at icbc.SG
 swift code ICBKSGSGXXX, address of icbc.sg
 
 wireTT from icbc.cn .. 0.05% charge by sender bank, capped at Rmb260. No other fee charged :(
 
-~~ icbc::gp Rmb TD transfer to savings: 
+~~ icbc::gp Rmb FixD transfer to savings: 
 Must come to branch. Bring my passport + his
 IC
 bank card
 paper certificate
 no auth letter needed
+
+-- update "lock up100k]cpf"
+college funding is not a one-time big-ticket, more like quarterly big payment
 -- update bpost on PFL .. is a monthly rent to let me own and grow the cashcow . When the cashcow starts producing milk it stops growing
 
 -- new: sustainable long-term return{annities
@@ -32,6 +65,20 @@ Q: what's a sustainable (annualized) return before expensens?
 Note this return rate is very different from (usually higher) the more visible payout_rate.
 
 HsbcLWA seems to feature 8~9 ppa. I think it's unsustainable.
+
+-- new: Channel1k [USD1k/D for foreigners]
+The Xiamen lady June.Zhang told me it's ok to exchange for USD 1k/D at her money changer (higher cost than at banks)
+
+HSBC banker told me this "emergency privilege" for foreigners is to be used sparingly.
+
+Q: is it illegal to exchange for USD 1k every day?
+A: clearly legal and not prohibited
+
+Q: what if I get on the SAFE watch list
+J.Z: SAFE approval is required during the cash exchange. If SAFE real time system identifies the customer's ID (passport or IC) as a watched ID, then the guy will be turned away. There should be no criminal charge for 1k/D alone without some suspicious activities
+
+Q: what if I get on the radar but not the watch list? No answer.
+J.Z: her money changer firm is authorized to sell USD to such a foreigner. China citizens are monitored more than foreigners.
 
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
