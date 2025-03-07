@@ -1,4 +1,6 @@
+call citi.sg (from office) about USD deposit
 
+-- color copy death cert... less important than birth cert. Must bring back later.
 -- no hurry
 close FSM acct before I lose the conviction
 Urology .. early July appointment, 4 weeks before my pills run out on NationalDay
