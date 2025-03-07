@@ -1,4 +1,6 @@
-call citi.sg (from office) about USD deposit
+-- USD dep:
+call citi.sg (from office) about USD deposit. Not so urgent. I used to keep USD at home for months
+hsbc chasing? call hotline every other day ... Fri, Mon without anger. Good training for my anger mgmt
 
 -- color copy death cert... less important than birth cert. Must bring back later.
 -- no hurry
@@ -6,8 +8,6 @@ close FSM acct before I lose the conviction
 Urology .. early July appointment, 4 weeks before my pills run out on NationalDay
 
 -- tww.. 
-hsbc chasing? call hotline every other day ... Fri, Mon without anger. Good training for my anger mgmt
-
 how can I increase my sp500 exposure?
 .. rbh
 .. max out SRS first
