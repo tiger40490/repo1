@@ -22,12 +22,17 @@ Note this return rate is very different from (usually higher) the more visible p
 HsbcLWA seems to feature 8~9 ppa. I think it's unsustainable.
 
 -- new: Channel1k [USD1k/D for foreigners]
-The Xiamen lady June.Zhang told me it's ok to exchange for USD 1k/D at her money changer (higher cost than at banks)
+Original purpose is "SAFE assumes a foreigner has converted USD to RMB. Now you are allowed to convert back to USD"
+HSBC actually requires proof of the earlier convert. 
 
-HSBC banker told me this "emergency privilege" for foreigners is to be used sparingly.
+Each passport holder must be present at the branch. 
 
 Q: is it illegal to exchange for USD 1k every day?
 A: clearly legal and not prohibited
+
+Each bank usually starts rejecting your request before SAFE intervenes. You can then go to another bank.
+
+The Xiamen lady June.Zhang told me it's ok to exchange for USD 1k/D at her money changer, higher cost than at banks, but more frequency supported.
 
 Q: what if I get on the SAFE watch list
 J.Z: SAFE approval is required during the cash exchange. If SAFE real time system identifies the customer's ID (passport or IC) as a watched ID, then the guy will be turned away. There should be no criminal charge for 1k/D alone without some suspicious activities
