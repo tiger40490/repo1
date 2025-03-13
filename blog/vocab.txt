@@ -1,3 +1,7 @@
+-- new: scarring ^ scaring
+scar
+scare
+
 -- udpate: pay: from^to me
 The words "pay" and "payment" do not differentiate payment by me vs payment to me.
 
