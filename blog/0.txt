@@ -1,12 +1,10 @@
 plan for wife's PSBC
 
-
 -- no hurry
 
 -- tww
-use four_seven for wcpay? Decouple the PIN sites !
 wechat move from SD to internal RAM
-keep 200k in hsbc.sg to make good use of my spare cash for now (or Rmb500k in hsbc.cn long-term ... some legwork to coordinate) 
+keep 200k in hsbc.sg to make good use of my spare cash for now 
 
 -- stressor profile
 20>25% work .. Marex
@@ -16,4 +14,4 @@ keep 200k in hsbc.sg to make good use of my spare cash for now (or Rmb500k in hs
 10% proj1560 .. LG
 
 -- fx:
-real yoga .. consider weekends. Ask for a knee pad
+use four_seven for wcpay? Decouple the PIN sites !
