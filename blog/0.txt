@@ -3,9 +3,9 @@ plan for wife's PSBC
 
 -- no hurry
 
--- tww.. 
+-- tww
+use four_seven for wcpay? Decouple the PIN sites !
 wechat move from SD to internal RAM
-change Citi.na ATM pin to GpSgFormat_TJJ
 keep 200k in hsbc.sg to make good use of my spare cash for now (or Rmb500k in hsbc.cn long-term ... some legwork to coordinate) 
 
 -- stressor profile
