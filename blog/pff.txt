@@ -1,3 +1,12 @@
+-- new: Grandma's j4w4reserve
+j4w4 means 境外. j4w4reserve belongs to grandma 100%
+
+Obvously I need to keep track of all the transfers from grandma's ICBC to j4w4reserve, and record j4w4reserve balance
+
+Any surplus Rmb deposit can be part of j4w4reserve
+
+When SGD/RMB drops AND RMB DIR improves, I can convert some SGD to RMB and record it as j4w4reserve
+
 -- bocd, cimb ccard
 FnF .. simple fix .. just put it away for now
 

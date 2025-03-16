@@ -1,17 +1,13 @@
-plan for wife's PSBC
-
 -- no hurry
 
 -- tww
-wechat move from SD to internal RAM
 keep 200k in hsbc.sg to make good use of my spare cash for now 
+use four_seven for wcpay? No. Decouple the PIN sites !  Use up to 3 hot groups like 1) SGP ATM 2) wcpay/alipay 3) windows PIN. "cold sites" will use the stock PIN.
 
 -- stressor profile
-20>25% work .. Marex
+20% work .. Marex
 10% boy's habits and wife's neg reaction
 5% meimei academic
 10% inheritance
-10% proj1560 .. LG
 
 -- fx:
-use four_seven for wcpay? Decouple the PIN sites !

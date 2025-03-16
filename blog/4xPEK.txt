@@ -1,22 +1,26 @@
-
-
--- Sg>>PEK
-psbc::gp card? no need to carry, because loss/damage would be permanent
-wife's NRIC
+Be generous with taxi fare
 
 -- todo on 16 Mar
-top up my psbc
-give #178 to wife
 buy 7D data pack on both numbers, perhaps bigger pack for #178
-visit ChnM at 车公庄大街#9 Tower 5A before hotel check-in? 
+.. first use iphone hotspot (not airport wifi, not cmlink.. too complicated) to activate 2G pack
+.. then ChnM APP -> switch to #178 -> use the same hotspot () to buy 7D data pack for #178
+
+set up Alipay for wife
+drop luggage at hotel without check-in, then visit ChnM at 车公庄大街#9 Tower 5A before hotel check-in? 
+.. is 114 hotline free from mobile? Ask ChnM
+ask hotel about bus to XiDan
 
 -- todo in Beijing
 assist Genn on the inheritance process
 open new PSBC first
-transfer #178 to wife and open CMB account. Both can complement each other.
-withdraw 80k in advance .. and put into money belt in quiet. Can use hsbc, icbc, (wife) psbc cards
+transfer #178 to wife and open CMB account. Both banks can complement each other.
+top up my/wife's psbc
+withdraw 60k in advance .. and put into money belt in quiet. Can use hsbc, icbc, (wife) psbc cards
+bring empty luggage to DJDJ to fetch the fan to hotel
+LGpp reset password on jiashujiashu@126.com? Do it from China after a few more checks
+LG2/lglp: buy faster SD card for wechat. Consult a nearby shop. If no expertise, then do nothing since slowness is tolerable
 
-reset password on jiashujiashu@126.com? Do it from China after a few more checks
+LGlp: swim a bit
 
 -- wife's banking choices
 #1 PSBC _despite_ NRIC, using the #178 mobileNum
