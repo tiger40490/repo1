@@ -1,17 +1,5 @@
 -- new: inheritance
-1M after submitting to notary public (18 Mar), they should release 公证. 
 Both children will visit icbc Together
-
--- update cmb
-SOME in/out transactions every 6M, to avoid 6M-dormant.
-
-all outlays (except at-branch): Rmb10k/Day
-
-Use nonCMB domestic ATM .. Rmb2/withdrawal after first two free withdrawals each month
-ChannelA: same as psbc
-
-ATM/transaction PIN: 吕1mil
-login passwd: t13xxxx
 
 -- new: Grandma's j4w4reserve
 j4w4 means 境外. j4w4reserve belongs to grandma 100%
@@ -21,16 +9,6 @@ Obvously I need to keep track of all the transfers from grandma's ICBC to j4w4re
 Any surplus Rmb deposit can be part of j4w4reserve
 
 When SGD/RMB drops AND RMB DIR improves, I can convert some SGD to RMB and record it as j4w4reserve
-
--- bocd, cimb ccard
-FnF .. simple fix .. just put it away for now
-
--- icbc::gp Rmb FixD transfer to savings: 
-Must come to branch. Bring my passport + his
-IC
-bank card
->> paper certificate
-no auth letter needed
 
 -- update "lock up100k]cpf"
 college funding is not a one-time big-ticket, more like quarterly big payment
