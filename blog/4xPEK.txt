@@ -1,30 +1,24 @@
 G3 SMS: Be generous with taxi + quick-n-healthy food . Accept small costs of stress protection. I have a growing cash pile
-G5 SMS: telecom cost may run a bit high. Accept the less optimal
 国宾 to refund part of the R2500 after checkout
 
+decide how to transport the fan
+
 -- todo at DJDJ
-glue hooks
-
---Th: 
-ICBC: update my monthly limit
-.. 50k limited by lack of Udun
-
-bring change clothes; 
+set up icbc::gm -> psbc::gm on new phone
 
 -- Fr
-withdraw 60k from icbc in advance .. and put into money belt in quiet. Can use hsbc, icbc, (wife) psbc cards
+visit grandma first
+
+BOC to buy USD (probably no stock for SGD)
+icbc to withdraw SGD + USD. bring money belt.
+
+withdraw 60k from icbc in advance .. and put into money belt in quiet. 
 .. 10k from CMB (free for twice)
 .. 10k from CCB .. no mobank installed, no transfer out
-.. 20k from psbc
 .. 20k from icbc
+.. 20k from psbc
 .. 20k from hsbc
 
-==== priorities
-medicine; avoid health hazards; avoid losing
-accompany wife and kids .. 奥森，景山
-LGlp some basic daily workout ... will make me feel good
-
--- specific priorities
 ===== serenity
 -- well done
 relatively healthy foods so far
