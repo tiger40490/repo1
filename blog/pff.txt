@@ -2,6 +2,7 @@
 For small transfers (up to 200k), you can choose 快捷认证 vs Udun认证. Better practice each periodically, with 备注 like "udun test"
 
 Udun
+* needs bluetooth
 * Udun device PIN .. 爷爷 奶奶 大宝
 * charging cable ... is a standard cable. Can last 2Y without recharge
 * required for large (200k+) transfers, but can be used for small transfers for a test-drive
