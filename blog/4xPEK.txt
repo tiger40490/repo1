@@ -1,5 +1,5 @@
+return chargers
 
--- todo at DJDJ
 -- Fr
 decide how to transport the fan
 
@@ -11,6 +11,8 @@ deposit SGD
 
 -- Mon
 deposit RMB 
+update ex_China
+
 ===== serenity
 -- well done
 after boy booked flight, I exploded then I calmed down with Genn's help
