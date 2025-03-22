@@ -34,26 +34,6 @@ What's a fair amount of workload? It depends on our age, our position, the team 
 
 Higher quality means better documentation, cleaner code, easier training, more testability, fewer neglected scenarios,,,, Quality invariably requires more time, often less intensity, but reduces failures, down times, and support effort. 
 
--- update which bpost ... bonus pool?
-Tue 17 Dec I received my year-end numbers. Since 2015 I have (and still do) felt that any total comp above 160k is a stressful salary to hold, like holding a heavy deadlift, holding a yoga pose, or holding a hot potato. Though I have no leadership responsibility (architect or lead dev), my pay might be growing closer to that of some small-shop CIOs. Managers' expectation of me is clearly growing, due to my growing tenure in the team, and possibly also due to rising salary. 
-
-The year-end numbers also reveal the importance of a sustainable workload. Current job is less demanding than Baml, Macquarie, etc but slowly becoming unsustainable due to the London manager. I feel my senior manager (who decides my numbers) doesn't want to lose me. 
-
-Still, I told some friends that I can't predict in which year I may be leaving this job, or pressured to quit, or laid off. I have seen these events happening to my coworkers on my floor.
-~~
-2024: Nothing negative conveyed.
-* active in trading issues
-* digging deep
-* keep up ... "Those details" 
-* mentoring .. if possible
-
-Base is steady, still growing. Growing base is not for-granted.
-
-Among the two numbers announced, bonus is more reflective of performance of firm+team+me; base is more important to family /livelihood/. 
-
-Flat bonus ... would still be a huge bonus, allocated to me from the limited bonus pool. I am grateful to the decision maker.
-Flat base ... would still be a very high salary, and numerically more significant than the bonus. This salary level feels unsustainable even if flat.
-
 -- fuxi or new: y I have never feared没工作since graduation
 Background: in 2023-2025, there were lots of news and social-media analysis of graduate unemployment, most visibly in China. It prompted the question 
 
@@ -84,19 +64,6 @@ Q5b: How about your PIP traumas? How do they compare to a China graduate's /adve
 
 Q7: Did you experience no downturn/drought like "China23-24"?
 AA: 1998, 2003 SARS, 2008 GFC
-
--- fuxi
-Q: what base salary would move me back to Qz as a non-lead dev given the proprietary skill
-A: 330k. 
-
-Q: what base salary would move me back to GS as a non-lead, given the workload, expectation, 
-A: 329k. 
-
--- fuxi when I think of job security, bonus etc, I should ask myself
-Q: In boss's perception, which dev is the most likely to quit?
-Q: In boss's perception, which dev is likely the first to quit?
-
-I hope that I'm seen as similar to the 2 NY old-timers. Total Comp may /plateau out/ but hopefully he would preserve the status quo, and protect team stability.
 
 -- fuxi
 Need to reduce actual work hours, while I maintain or even increase my quiet hours in office.
