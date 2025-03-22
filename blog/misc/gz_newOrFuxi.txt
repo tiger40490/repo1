@@ -1,3 +1,7 @@
+
+-- fuxi: JIV topics: influences on interviewers
+When I was picking question to ask my candidates, I was influenced by ... ibank interviewers, HFT interviewers, and indirectly by web2.0 interviewers. Note Leetcode is mostly web2.0
+
 -- fuxi or new: ##evolution of MLP work stress: events 
 J4: acccurate recollection of work stress, esp. related to boss-relationship
 
