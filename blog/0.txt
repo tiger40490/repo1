@@ -1,9 +1,19 @@
+
+-- Sun
+deposit SGD
+
+-- Mon
+deposit RMB 70k
+update ex_China
+
 -- no hurry
 email to shopee support to explain why delivery failed
+ask jetabouts about boy's ticket refund 
 
 -- tww
+10k USD FixD at ICBC?
+to keep grandma better engaged and better supported, visit DJDJ 4/Y, with low-fare, tech xx throughout. 
 keep 200k in hsbc.sg to make good use of my spare cash for now 
-use four_seven for wcpay? No. Decouple the PIN sites !  Use up to 3 hot groups like 1) SGP ATM 2) wcpay/alipay 3) windows PIN. "cold sites" will use the stock PIN.
 
 -- stressor profile
 20% work .. Marex
