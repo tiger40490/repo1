@@ -9,7 +9,7 @@ Udun i.e. hardware token
 * one hardware token ties to one icbc account, possibly usable on two phones
 
 -- update channel520
-Safe to carry 30k. If caught (rare), you can go back to departure and deposit at ATM machines.
+Safe to carry 30k. If caught (rare), you can walk back to departure and deposit at ATM machines.
 
 PEK T3 departure CCB machine can accept cash deposit
 -- update CMB

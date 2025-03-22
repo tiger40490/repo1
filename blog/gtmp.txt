@@ -1,23 +1,18 @@
 -- update ..
-didi 免密支付 makes the payment-channel-used less explicit. You would need skill to uncover it. I now prefer manual payment. 
+Didi 免密支付 makes the PaidFrom less explicit, harder to uncover. Therefore, I now prefer manual payment.
 
--- fuxi
-psbc::gp card no need to carry, because loss/damage would be permanent
+拼车 .. only for solo or 2 passengers
+
+most Didi vehicle types are unable to provide fixed quotes (while Grab is mostly fixed quote)
 
 djdj -> BaiDuiZi ... about 10 minutes
 BaiDuiZi -> BJ West station .. below 10 minutes including wait
-going through the station .. about 5 min
+going through the rail station .. about 5 min
 
--- fuxi
-stress due to work (or study) is higher than stress due to parenting because work is a constant effort, with constant benchmark like a whip
 
 -- update bpost on batt
-POHS (password open-hint scheme) .. a good POHS taeks effort and field experience .. batery of accumulation.
+POHS (password open-hint scheme) .. a good POHS takes effort and field experience .. batery of accumulation.
 China banking system + Alipay for wife's taobao lifestyle .. takes effort and field experience .. battery of accumulation
-
--- fuxi
-Avoid airlines without contact number, such as AirAsia. Absolutely no number published!
-hard to contact them in an emergency.
 
 -- update bpost on r-ikigai
 Some freelance tech skills are very much in-demand if you can get things done. 
@@ -72,3 +67,9 @@ U.S. (and PRC) government hotlines are always hard to get through and often give
 
 According to DJDJ legal assistance, the SAFE gov hotline is familiar with foreign passport holders taking out inheritance.
 
+-- fuxi
+stress due to work (or study) is higher than stress due to parenting because work is a constant effort, with constant benchmark like a whip. The benchmark is stringent, like assessments in school.
+
+-- fuxi
+Avoid airlines without contact number, such as AirAsia... Absolutely no number published!
+hard to contact them in an emergency.
