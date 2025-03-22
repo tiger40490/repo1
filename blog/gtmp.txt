@@ -1,4 +1,5 @@
-
+-- update ..
+didi 免密支付 makes the payment-channel-used less explicit. You would need skill to uncover it. I now prefer manual payment. 
 
 -- fuxi
 psbc::gp card no need to carry, because loss/damage would be permanent
