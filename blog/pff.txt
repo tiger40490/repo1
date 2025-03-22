@@ -1,72 +1,20 @@
--- update icbc::gm
-For small transfers (up to 200k), you can choose 快捷认证 vs Udun认证. Better practice each periodically, with 备注 like "udun test"
-
-Udun i.e. hardware token
-* required for large (200k+) transfers, but can be used for small transfers for a test-drive
-* needs bluetooth
-* Udun device PIN .. 爷爷 奶奶 大宝
-* charging cable ... is a standard cable. Can last 2Y without recharge
-* one hardware token ties to one icbc account, possibly usable on two phones
-
--- update channel520
-Safe to carry 30k. If caught (rare), you can walk back to departure and deposit at ATM machines.
-
-PEK T3 departure CCB machine can accept cash deposit
--- update CMB
-10k/D all-nonBranch-withdrawals      
-
-another upper limit is 200k/D of transfer-out
-
--- new: inheritance
+-- fuxi: 
 Both children will visit icbc Together for the disbursement
 
--- new: Grandma's j4w4reserve
-j4w4 means 境外. j4w4reserve belongs to grandma 100%
 
-Obvously I need to keep track of all the transfers from grandma's ICBC to j4w4reserve, and record j4w4reserve balance
+-- ask cpf on next appt
+I want my wife to feel more secure with cpfLife payout. How can I make my payout go into her bank account?
+No answer
 
-Any surplus Rmb deposit can be part of j4w4reserve
-
-When SGD/RMB drops AND RMB DIR improves, I can convert some SGD to RMB and record it as j4w4reserve
-
--- update "lock up100k]cpf"
-college funding is not a one-time big-ticket, more like quarterly big payment
--- update bpost on PFL .. is a monthly rent to let me own and grow the cashcow . When the cashcow starts producing milk it stops growing
-
--- new: sustainable long-term return{annities
-I have bought three annuities. Additionally, cpfLife is a "descending annuity"
-
-Q: what's a sustainable (annualized) return before expensens?
-
-Note this return rate is very different from (usually higher) the more visible payout_rate.
-
-HsbcLWA seems to feature 8~9 ppa. I think it's unsustainable.
-
--- new: Channel1k [USD1k/D for foreigners]
-Original purpose is "SAFE assumes a foreigner has converted USD to RMB. Now you are allowed to convert back to USD"
-HSBC actually requires proof of the earlier convert. 
-
-Each passport holder must be present at the branch. 
-
-Q: is it illegal to exchange for USD 1k every day?
-A: clearly legal and not prohibited
-
-Each bank usually starts rejecting your request before SAFE intervenes. You can then go to another bank.
-
-The Xiamen lady June.Zhang told me it's ok to exchange for USD 1k/D at her money changer, higher cost than at banks, but more frequency supported.
-
-Q: what if I get on the SAFE watch list
-J.Z: SAFE approval is required during the cash exchange. If SAFE real time system identifies the customer's ID (passport or IC) as a watched ID, then the guy will be turned away. There should be no criminal charge for 1k/D alone without some suspicious activities
-
-Q: what if I get on the radar but not the watch list? No answer.
-J.Z: her money changer firm is authorized to sell USD to such a foreigner. China citizens are monitored more than foreigners.
+Will Basic plan be available when I want to choose it like age 65?
+A: no guarantee
 
 -- fuxi: despite all the challenges in khm, I still feel lucky about USD demomination + local marketing agency + locally known developer + CapitaLand endorsement
 
 Also, compare to most developed country rEstate (including Sg), my quantum is very much manageable.
 I don't have a big big chunk stuck in one unit.
 Travel cost is very affordable
-I also stopped overseas rEstate 
+I also stopped overseas rEstate after 2019
 
 -- fuxi
 icbc::gm .. 

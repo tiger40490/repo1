@@ -1,3 +1,74 @@
+-- new: Channel500 [USD500/D for foreigners]
+Original purpose is "SAFE assumes a foreigner has converted USD to RMB. Now you are allowed to convert back to USD"
+HSBC actually requires proof of the earlier convert. 
+
+Money changers (much faster) support $1k/D, while banks only allow $500
+
+Each passport holder must be present at the branch. 
+
+Q: is it illegal to exchange for USD 1k every day?
+A: clearly legal and not prohibited
+
+Each bank usually starts rejecting your request before SAFE intervenes. You can then go to another bank.
+
+The Xiamen lady June.Zhang told me it's ok to exchange for USD 1k/D at her money changer, higher cost than at banks, but more frequency supported.
+
+Q: what if I get on the SAFE watch list
+J.Z: SAFE approval is required during the cash exchange. If SAFE real time system identifies the customer's ID (passport or IC) as a watched ID, then the guy will be turned away. There should be no criminal charge for 1k/D alone without some suspicious activities
+
+Q: what if I get on the radar but not the watch list? No answer.
+J.Z: her money changer firm is authorized to sell USD to such a foreigner. China citizens are monitored more than foreigners.
+
+-- update icbc::gm
+For small transfers (up to 200k), you can choose 快捷认证 vs Udun认证. Better practice each periodically, with 备注 like "udun test"
+
+Udun i.e. hardware token
+* required for large (200k+) transfers, but can be used for small transfers for a test-drive
+* needs bluetooth
+* Udun device PIN .. 爷爷 奶奶 大宝
+* charging cable ... is a standard cable. Can last 2Y without recharge
+* one hardware token ties to one icbc account, possibly usable on two phones
+
+transfer limits: yearly .. 1100k fine; monthly 510k fine; daily reduce to 200k
+
+-- new: Grandma's j4w4reserve
+j4w4 means 境外. 境外reserve belongs to LSQ 100%
+
+I will keep track of each transfer from grandma's ICBC to 境外reserve, and record 境外reserve balance, always in RMB. Physically, 境外reserve will be backed by RMB and USD assets in Singapore banks, under my ame.
+
+After my project1560, any "surplus" RMB expatriated will go into 境外reserve.
+
+When SGD/RMB drops and RMB DIR improves, I may convert some SGD to RMB and deposit into 境外reserve. This transaction will change the backing asset composition, but not RMB balance of 境外reserve.
+
+-- update channel520
+Safe to carry 30k. If caught (rare), you can walk back to departure and deposit at ATM machines.
+
+PEK T3 departure CCB machine can accept cash deposit
+
+-- update CMB
+10k/D limit across all-nonBranch-withdrawals      
+another upper limit is 200k/D of transfer-out
+-- update "lock up100k]cpf"
+college funding is not a one-time big-ticket, more like quarterly big payment
+-- update which bposts on max out cpfLife (P1?)
+payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or sometime in between.
+
+If I hit ERS at 55, then liquidity suffers! I lose some 250k liquidity for 10Y! I may need that money for kids' education, a new home etc...
+
+Q: can both of us hit ERS? Unlikely because it would require SGD 1000k cash.
+Q: so who has priority to hit ERS? Me since my payout starts early, but she would feel more secure if payout is under her name.
+
+-- update bpost on PFL .. is a monthly rent to let me own and grow a cash cow . When the cash cow starts producing milk it stops growing
+-- new: sustainable long-term return{annities
+I have bought three annuities. Additionally, cpfLife is a "descending annuity"
+
+Q: what's a sustainable (annualized) return before expensens?
+%%A: 4 ppa
+
+Note this return rate is very different from (usually higher) the more visible payout_rate.
+
+HsbcLWA seems to feature 8~9 ppa. I think it's unsustainable.
+
 -- new: reality of temp jobs 4me+youth
 I tend to perceive temp jobs positively, as learning.
 
