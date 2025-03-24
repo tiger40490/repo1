@@ -1,16 +1,11 @@
--- Mon
-deposit RMB 70k, FixD
-update ex_China
-
 -- at home
-put tiny drawer#3 key with luggage
-put blue locker key with other keys
+put blue locker key with other keys. First, find spare keys
 
 -- no hurry
 remove 0copy alias from HP71
 
 -- tww
-keep 200k in hsbc.sg to make good use of my spare cash for now 
+keep 200k in hsbc.sg to make good use of my spare cash for now. If mcsa DIR drops in May, then perhaps set the 100k free.
 
 -- stressor profile
 30% work .. 
