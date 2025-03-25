@@ -1,3 +1,10 @@
+-- microSD for wechat
+One guy said that regardless of read/write speed limit of the SD, your bottleneck might be the phone itself. Faster SD won't help.
+
+MicroSD has lifespan about 2-3y.
+
+For data loss, the "recommended" protection is backup to laptop. I think this is a hard truth I may have to accept
+
 --fuxi
 Old android uses Micro-USB cables, with a zigzag "crack" carrying data.
 
