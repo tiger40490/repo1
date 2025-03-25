@@ -1,9 +1,17 @@
--- microSD for wechat
-One guy said that regardless of read/write speed limit of the SD, your bottleneck might be the phone itself. Faster SD won't help.
+-- new: microSD for hosting Apps
+MicroSD has a 2-3Y lifespan. For wechat data loss, the "recommended" protection is backup to laptop. I think this is a hard truth I may have to accept.
 
-MicroSD has lifespan about 2-3y.
+https://wiki.mlp.com/display/TECH/PMA+Server+%7C+QA+Deployment says
 
-For data loss, the "recommended" protection is backup to laptop. I think this is a hard truth I may have to accept
+You might be wondering what the difference is between storing videos, audio and photos vs running apps. Storage is performed at sustained sequential write speeds. Data is received at a constant rapid speed and stored in a straight, orderly fashion. When running apps, bits of data are written randomly and placed wherever space is available. Hence, it’s referred to as random read/write.
+
+https://www.sdcard.org/developers/sd-standard-overview/application-performance-class/ made it clear that Class A1 and A2 were introduced specifically for APP-hosting.
+
+One Simlim guy said that regardless of read/write spec of the SD card, your bottleneck might be the phone itself. Faster card won't help.
+
+Other people also said that SD card read/write speed is for camera. Hosting apps like Wechat is suboptimal, possibly impratical. 
+
+I think we should give classA2 a chance, before writing it off as unusable.
 
 --fuxi
 Old android uses Micro-USB cables, with a zigzag "crack" carrying data.
