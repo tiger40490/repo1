@@ -1,5 +1,3 @@
--- buy
-
 -- at home
 put blue locker key with other keys. First, find spare keys
 
@@ -7,8 +5,10 @@ put blue locker key with other keys. First, find spare keys
 
 -- stressor profile
 30% work .. 
+5% workout
 10% boy's habits 
 10% meimei academic
 
 -- fx:
 cigna ExxGp_TJJ
+fast-changing content .. consider blog rather than 0.txt

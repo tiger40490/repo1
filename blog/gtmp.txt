@@ -1,3 +1,6 @@
+-- update bpost on stock pw
+Those special sites with good support can use distinct passwords/PINs. My memory can cope.
+
 -- update ..
 Didi 免密支付 makes the PaidFrom less explicit, harder to uncover. Therefore, I now prefer manual payment.
 
@@ -11,7 +14,7 @@ going through the rail station .. about 5 min
 
 
 -- update bpost on batt
-POHS (password open-hint scheme) .. a good POHS takes effort and field experience .. batery of accumulation.
+POHS (password/PIN open-hint scheme) .. a good POHS takes effort and field experience .. battery of accumulation.
 China banking system + Alipay for wife's taobao lifestyle .. takes effort and field experience .. battery of accumulation
 
 -- update bpost on r-ikigai
