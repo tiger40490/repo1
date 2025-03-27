@@ -1,14 +1,14 @@
 
 -- update which bposts on max out cpfLife (P1?)
-payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or sometime in between.
+payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or somewhere in between.
 
-If I hit ERS at 55, then liquidity suffers! I lose some 250k liquidity for 10Y! I may need that money for kids' education, a new home etc...
+If I hit ERS at 55, then liquidity suffers! I lose some 250k liquidity for 10Y! I may need that money for college, property etc...
 
-Q: can both of us hit ERS? Unlikely because it would require SGD 1000k cash.
+Q: can both of us hit ERS? Possible but unlikely because it would require SGD 1000k cash.
 Q: so who has priority to hit ERS? Me since my payout starts early, but she would feel more secure if payout is under her name.
 
 -- new: sustainable long-term return{annities
-I have bought three annuities. Additionally, cpfLife is a "descending annuity"
+I have bought four annuities. Additionally, cpfLife is a "descending annuity"
 
 Q: what's a sustainable (annualized) return before expensens?
 %%A: 4 ppa
