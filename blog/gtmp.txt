@@ -1,5 +1,5 @@
 -- update bpost on stock pw
-Those special sites with good support can use distinct passwords/PINs. My memory can cope.
+Those special sites with good support can use distinct passwords/PINs. My memory can cope with quite a few distinct passwords/PINs
 
 -- update ..
 Didi 免密支付 makes the PaidFrom less explicit, harder to uncover. Therefore, I now prefer manual payment.
