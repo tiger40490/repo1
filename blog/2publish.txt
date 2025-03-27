@@ -1,5 +1,3 @@
--- save to contacts
-jiashujiashu@126.com se8 Capitalized 
 
 -- update which bposts on max out cpfLife (P1?)
 payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or sometime in between.
@@ -107,3 +105,6 @@ github and gDrive are more reliable than dreamhost
 If 15GB insufficient for wife, we can buy additional "data pack" for one month.
 
 Once you buy, it auto-renews monthly. That's the official (bad) answer. Such a "deal" is inferior to a bigger monthly plan. However, in reality, monthly data packs are better due to flexibility. You can cancel auto-renewal after one month.
+
+-- save to bpost then contacts, after finalizing
+jiashujiashu@126.com se8 Capitalized 
