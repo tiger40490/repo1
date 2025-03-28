@@ -1,3 +1,7 @@
+-- fuxi: 5-digit hotline numbers in China
++8610 xxxxx 
+These numbers are usable from MLP landlines, not usable from mlphone.
+
 -- update bpost on stock pw
 Those special sites with good support can use distinct passwords/PINs. My memory can cope with quite a few distinct passwords/PINs
 
