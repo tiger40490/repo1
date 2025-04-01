@@ -1,3 +1,14 @@
+-- udpate: pay: from^to me
+The words "pay" and "payment" do not differentiate payment by me vs payment to me.
+
+For payment to me, I prefer 
+refund
+payout
+
+For payable by me, I prefer 
+bill-pay
+submit payment
+pay off
 
 -- update which bposts on max out cpfLife (P1?)
 payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or somewhere in between.
