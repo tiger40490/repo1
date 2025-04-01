@@ -9,9 +9,6 @@ cost of war .. rather different meaning of "cost"
 -- new: 
 "Nothing like" followed by an adjective means "not at all similar to" or "not nearly as good as" the quality described by the adjective; 
 
--- carve out
-carve-out means to make space. A great way to use this is with time,especially in a business setting . “Let's carve out some time to talk about the new project.” That means, “let's make some time,” let's make the space out of our schedules 
-
 -- new: use slash to express ratio of two terms
 annual_premium / sum_assumed
 
