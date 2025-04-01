@@ -10,6 +10,9 @@ bill-pay
 submit payment
 pay off
 
+-- new: carve out
+carve-out means to make space. A great way to use this is with time,especially in a business setting . “Let's carve out some time to talk about the new project.” That means, “let's make some time,” let's make the space out of our schedules 
+
 -- update which bposts on max out cpfLife (P1?)
 payout will start at 65. I wish to receive higher payout, to strengthen livelihood security. That requires me to top up to ERS at 55, 65 or somewhere in between.
 
