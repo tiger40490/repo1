@@ -31,7 +31,7 @@ If no big tickets purchases to prepare for, then it's reasonable/legitmate to lo
 A new concern .. if I disappear without trace, then death benefit will not pay out to my family. I need to avoid those situations, such as solo adventures.
 
 Q: if pressured, which annuities would I surrender first and last? My current precedence is
-* surrender FLI150k .. incrementally .. Lowest payout_rate.
-* surrender FLI226k .. incrementally
-* surrender FLI250k (leveraged)
-* surrender FWD300k (leveraged)
+* surrender FLI150 .. incrementally .. Lowest payout_rate of 2.98%, higher than prevailing IR 2.9% (hsbc)
+* surrender FLI226 .. incrementally
+* surrender FLI250 (leveraged)
+* surrender FWD300 (leveraged)
