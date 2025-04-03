@@ -1,3 +1,6 @@
+-- update bpost on carefree restore
+This time round, I feel making progress+contribution in office is key
+
 -- fuxi: 5-digit hotline numbers in China
 +8610 xxxxx 
 These numbers are usable from MLP landlines, not usable from mlphone.
